@@ -1,0 +1,35 @@
+Are we using streaming or REST endpoints when collecting data from twitter; Or can we use tweeQL? 
+How do we store the tweets?
+How do we filter noise(tweets that might be advertisements etc) from the stream of tweets?
+	http://www.quora.com/How-do-you-filter-out-the-noise-on-Twitter-lists
+What is the location reference we are relying on? (Yago/GeoNames)
+ GeoNames comes with a REST API support for retrieving location suggestions. Since it supports REST, language support isn't a problem.
+ Yago on the other hand is an ontology knowledge base which has relationship lifo of alomost anything available in web. It can be downloaded and used in Python.
+Is the project supporting mulitlingual tweets? (I18n or any other translator api?) Nope
+Do we consider friends' location while predicting ? 
+What data(some clean data/ tweets from users who have enabled their geolocation tracking) are we gonna use for comparison purpose?
+Are we considering fuzzy matching as well? - there are out of the box fuzzy matching libraries available in Python. Trial & Error those and tweek those libraries if necessary.
+Are we considering n-gram matching? Yes we are thinking of using n gram matching
+Are we restricting to city/state? (Do we involve prediction of POI?) POI
+Are we providing a web interface to make somthing configurable & how are we gonna display the results(in case of comparison)?
+How are we leveraging hash tags?
+What are the ranking atechniques that we are proposing?
+We are not considering tweets when users are traveling?
+We are not considering multilingual tweets.
+For training purpose, we will stick to standard data sets without noise.
+We are considering prediction of Point of Interest.
+Final results using a web interface with maps.
+Our algorithm should consider friends' location and user's previous tweets(for predicting location).
+
+Our proposal might mainly depend finding social network of users and assigning weightage for friends. Also we will assign weightage for friendships and the algorithms for weightage can be discussed amongst us and validated with the professor. 
+We use a predefined dictionary of locations like yago. We enable fuzzy matching for matching tweets with the dictioanry. Also we consider n-gram matching for comparison with the tweets. We provide the results using some form of visualization. 
+
+SPOT,
+GLITTER,
+Ramachandran Paper.
+Cheng
+
+
+
+
+
