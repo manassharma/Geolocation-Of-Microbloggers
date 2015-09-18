@@ -25,8 +25,8 @@ for user_id in user_ids:
                          'follower_ids': user.followers_ids(),
                          'friend_ids': friends_list}
         print('Processing user id ', str(user.id))
-        file_io.append(str(user_response))
-        file_io.append('\n')
+        file_io.write(str(user_response))
+        file_io.write('\n')
     except:
         print('Error processing ', str(user_id))
 
