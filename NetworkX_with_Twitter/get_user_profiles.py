@@ -1,18 +1,16 @@
 import tweepy
-from networkx import *
-G = networkx.Graph()
+from pymongo import MongoClient
+user_ids = range(8500, 8900, 50)
 
-user_ids = range(9000, 10000, 50)
-
-# authentication for using twitter api
+#authentication for using twitter api
 authorization_object = tweepy.OAuthHandler('90UnUQyjaq5CHoVGRYFznYPUY',
                                            '5aI3D5dGsvaIeTClvv2u7FI9jUgmvzfRsYzAjdn07M3ShTcMwe')
 authorization_object.set_access_token('419380999-i2HYele4oFP5rN14b1C5CrwxlNLL6QvieHup4JtW',
                                       's4BU1gPsSTc7LcnvaQD5UyELQNLmzf9YeJrB7VAKmLGJd')
 tweepy_api = tweepy.API(authorization_object)
 
-#write in file - mongo on the way :)
-file_io = open('temp_storage', 'a')
+client = MongoClient()
+test = client.test
 
 for user_id in user_ids:
     try:
@@ -25,11 +23,9 @@ for user_id in user_ids:
                          'follower_ids': user.followers_ids(),
                          'friend_ids': friends_list}
         print('Processing user id ', str(user.id))
-        file_io.write(str(user_response))
-        file_io.write('\n')
+        users_insert = test.users.insert_one(user_response)
     except:
         print('Error processing ', str(user_id))
 
-file_io.close()
 
 
