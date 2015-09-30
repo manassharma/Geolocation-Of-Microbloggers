@@ -34,3 +34,27 @@ print networkx.degree(graph)
 print networkx.info(graph)
 networkx.draw(graph)
 plt.savefig("test_4.png")
+
+#Another better approach to visualize social network using matplotlib
+def save_graph(graph,file_name):
+    plt.figure(num=None, figsize=(500, 500), dpi=50)
+    plt.axis('off')
+    fig = plt.figure(1)
+    pos = networkx.spring_layout(graph)
+    networkx.draw_networkx_nodes(graph,pos)
+    networkx.draw_networkx_edges(graph,pos)
+    networkx.draw_networkx_labels(graph,pos)
+
+    cut = 1.00
+    xmax = cut * max(xx for xx, yy in pos.values())
+    ymax = cut * max(yy for xx, yy in pos.values())
+    plt.xlim(0, xmax)
+    plt.ylim(0, ymax)
+
+    plt.savefig(file_name,bbox_inches="tight")
+    plt.close()
+    del fig
+
+#Assuming that the graph g has nodes and edges entered
+save_graph(graph,"visualization/my_graph.pdf")
+
