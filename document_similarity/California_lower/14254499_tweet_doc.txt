@@ -1,0 +1,282 @@
+ji i agree one should write zalgoproof code however i would be super reluctant to flip this behavior of promises on a large code base
+nhughes1ster at the time i was transforming some 3d objects while building a demo
+ji it seems like a lot of code that does athen(b) c would depend on execution going agtcgtb if only inadvertently
+kennethhuber colincowherd kristineleahy pro halo player is probably better for your health
+pm my 2 yr old already does
+ji that seems breaky
+the iot products i really need 1 a roboarm that folds laundry 2 a robot that can play tag with a 2yearold
+tesla vs apple feuding seems aimed more at recruiting than at consumers
+one nice thing about this inconsistency is it discourages people from using the global object ) 
+sama paultoo vmware but yeah im just nitpicking
+johnclyde natesilver538 because the new york times will keep writing about your unethicality until you get rid of insider trading
+soon itll be cheaper to use an ondemand service for someone to come over and give you the cash 
+pm twitter hacker news and marginal revolution
+pm how rarely you hear about that really depends on what sort of media you consume it is rare that this sentiment hits the nyt )
+the 2 year old just got a hold of a bicycle pump and a kiwi and then (
+nancychowmein ericnakagawa scotcha1 i got one of those but alex really likes pushing the buttons so he keeps resetting it
+ericnakagawa man im grateful when i get to 7 am on a saturday
+mipsytipsy sheki you gotta make the chunks a bit smaller to account for base 64 encoding
+stammy osunick psh that seems solvable with a video of someone blinking
+sheki p
+i think the problem is its not secure since you could hold up a photo of someone else 
+ericnakagawa roommates
+ilyasu congrats
+spakhm yeah i should have set mine up that way i cant imagine any reason i would want dates in my db to be some are pdt some are pst
+i need to have more kids so i can justify getting a model x
+queries and dates in rethinkdb are timezoneaware makes me a bit afraid 
+about 10 of the housing in san francisco is purposefully being kept vacant because of rent control 
+ericnakagawa but when the exceptions are steve jobs and elon musk it makes the general rule an awkward one
+ilyasu prob goin over to andrewljohnsons place
+i dont care im getting the 2yearold hyped for supermoon 
+patrickc it seems conditional though  you had to do a business plan competition
+andrewljohnson jamesjyu chat is lame messaging is engaging difference is async expectation + push notification
+hmm this shirt now has too much peanut butter on it to wear it to work
+i was excited for spheros bb8 but its disappointing the motor is too weak to work on carpet and the head often falls off
+if all you want is an active ingredient it costs pennies if you also want fda approval it costs $2 million 
+rbranson sheki you should get those teeth
+hey rethinkdb  afaict the rethinkdbdash node client is nicer than the official one why not adopt it
+hunterwalk jasonlk thatll work well with self driving cars the office can commute to you
+rbranson what the heck are your twitter usernames
+refaelos sorry man i dont have a good suggestion leads on engineers are super tight right now
+this seems like an area mipsytipsy would have advice on 
+grantland and speaking of lol twitter i did not realize this was so ancient when i responded
+grantland that was a tasty dinner i loved the twopeopleunderatentthenboxmanchasingsnakemonster
+it is basic but it also means reported valuation is more than the companys expected value which is confusing 
+zackkanter so youre saying theres a chance d
+this bareknuckle citybycity fighting reminds me of uber nowadays 
+til what ubers 1 city is before reading this article i did not know there was a city of this name 
+andrewljohnson i dont think so climate change could be a big disaster but i dont see it destroying humanity pandemic would be my 2
+andrewljohnson yeah imo biggest danger is that we blow ourselves up first
+exome is not enough i want the whole genome this is cool though 
+andrewljohnson i believe in progress just not in a singularity 1000xing whats possible now yes infinityxing no
+this is why there wont be a singularity some things exponentially improve the others hold you back from infinity 
+sama stories from loopt and what you learned
+definitely reminds me of rubygems 
+gordonbowman ilyasu i want it to be obvious when tapping something will cause a sound and when tapping something will not cause a sound
+also twitter often plays the sound on videos that i didnt realize werent gifs fb tapforsound is way better 
+i wish twitter would prevent people from deleting and reposting the same tweet repeatedly to boost its distribution
+ccheever whats your preferred stack of technologies to develop things in es7
+kellabyte ericnakagawa its just tough to ensure your services are resistant to singleregion failures and aws doesnt do it perfectly
+rethinkdb typo in your docs for close on   connclose([noreplywait true ]callback) should s ]] 
+i wrote a little hello world app with rethinkdb heres a screen shot of some of my beautiful code 
+finally got around to installing rethinkdb it is not obvious to me from the docs how much i will like it guess i have to make something
+tonsing yeah i feel like i should have learned this sooner why do they only teach the history of politics in history class
+stevenstefanik im reading titan a fascinating bio of rockefeller hat tip to zackkanter for the book rec
+zackkanter im reading this now and it is indeed awesome thanks for the tip
+i didnt realize that cleveland was so central to the oil industry in the 1800s 
+how about the ability to augment human brains to remember everything (funes the memorious great story) 
+danprimack youre free to not show content to adblocking people just like restaurants are free to not serve food to people who dont pay
+bussgang that title sounds extreme but the article is not very extreme my guess zealous editor
+how i learned to use arrow keys also some math 
+im pretty sure this was good screen time 
+in 2001 the top 10 websites accounted for 31 percent of page views by 2010 the top 10 accounted for 75 percent 
+jamesjyu ilyasu i wouldnt expect something like the web or something like app stores id expect some weirdo new thing
+ilyasu 5 years
+ilyasu is that really the choke point i would say the choke point is going from having none of someones attention to some
+paywalls work for nyt economist but only the top sites what if all the mid tier publishers bundled together to share a paywall
+ericries but how would their ads be targeted
+could happen if the next dominant device only supports apps written in tcl 
+shaunspringer in practice both are unlikely because a non monetized pageview is still a lot better than no pageview
+if you hate adblockers dont serve content to people who are blocking ads 
+seldo interesting id be curious to see this data for specific modules too can you get npm stats like  active developers using module x
+ie npm usage doubling every year 
+jamesjyu andrewljohnson or both (which is what i expect)
+if publishers believe ad blockers are unethical they are free to refuse to show their content to people who are blocking ads
+brandonmblack mipsytipsy once you ditch rails though theres nothing particularly great about ruby
+lying sleepily in bed then 2 yr old runs in and yells what are you doing goodmorning
+rbranson mipsytipsy id start by looking at what es6 will fix in the language then checking out express in lieu of rails
+rbranson mipsytipsy and as far as metaprogramming goes the reactjsx tools are better than rails templating nowadays
+rbranson mipsytipsy yeah this is why es6 is so key nowadays if youre using callbacks youre doing it wrong
+davidlee mistercasey no company can generate profit forever look at 100 200 years ago
+mipsytipsy i used to agree but javascript is much less terrible with es6
+i agree it would be chaos to go straight to open borders but we could just raise quotas more every year 
+lua you screwed this up and i can never forgive you 
+ilyasu building a cool 3d demo quaternions are a great model for rotating 3d vectors
+im actually using quaternions in my job today
+mipsytipsy you know what they say build a product that you yourself have a compelling need for
+cperciva thats a decacorn
+really painful to watch the republican candidates answer which woman they would put on the $10 bill 
+the japanese education minister ordered massive cuts to humanities and social sciences interesting 
+ilyasu which do you recommend
+by 2030 a third of american prisoners will be over 55 
+in middle school i brought in a burglar alarm when you separated two wires it would beep glad i was encouraged rather than arrested
+stammy dcurtis like a baby monitor that follows them around
+ikirigin yeah i guess real problem is just opposition from those who perceive immigration as competition vc backing doesnt help there
+stammy dcurtis killer use case is grandma talking with the 2yearold
+ikirigin would you be cool with uber importing as many minimumwage drivers as they want )
+ikirigin i agree but why privilege venturebacked companies over others
+thought experiment could a program pass the turing test today if all sides were restricted to only communicate in emoji
+delong noahpinion you cant derive gravity from the microfoundations because they havent reconciled quantum mechanics with gravity )
+smasher5 ilyasu sriramk garrytan do any of you guys think this analysis is incorrect based on available data or just that it was rude
+ilyasu sriramk garrytan eh if evernote had any simple growth data that disproved it they would respond they dont so they stay silent
+garrytan well its not like theres a quiet period evernote is free to respond
+perhaps the right term for evernote is a zombie unicorn  they keep operating but have no path to be worth gt $1b 
+harsh analysis of evernote claiming they are essentially a dead unicorn 
+issuing ssl certs will soon be free automated and open no how could is this can this be 
+johnclyde lies worse is better
+ilyasu hey i set up the dual boot on this machine not disputing your claim though
+scottadamssays pm democracy does not incentivize that
+ilyasu yeah us employed folks should just buy a new pc probably
+ilyasu well steam is basically the only app store on this machine how does one even upgrade to win10 i just expect it to not work
+ilyasu i checked on steam but win10 wasnt available
+fdevillamil after my startup got acquired by a company with a real it budget the old box has been sitting under my desk for a couple years
+booted into windows for the first time in a few years this afternoon still applying required updates + restarts
+its been so long since i dualbooted into windows i have a bookmark for google reader in the browser toolbar
+mipsytipsy ok just bought the naming im more into sci fi than fantasy but i also like to just read everything there is
+eoinbrazil mipsytipsy innovators dilemma is so popular now that i find antidilemma writing like  more interesting
+mipsytipsy yeah i can see that i kinda started out that way so xtianrelated stuff less compelling to me personally
+mipsytipsy anna likes those i think theyre ok but nothing special
+10 finally i lt3 infinite jest  especially if you need a time sink for a long vacation ) ltend of book recsgt
+9 stories of your life and others    ted chiang super underrated in sci fi maybe bc he doesnt write much
+8 sapiens    because any book that dares to make a case against human rights will make you think deeply
+7 jonathan strange amp mr norrell   because mipsytipsy likes fantasy things and this magical world is unique
+6 elon musk bio   interesting job of making him look both overall pretty good but not pulling punches
+5 between the world and me  not the stuff i usually read but gripping props tanehisicoates
+4 the dark forest  sequel to 3body problem just translated to english recently awardwinning soon i predict 
+3 threebody problem  novel take on sf got some interesting chinese history in it too 
+2 history of the container  the real world container not docker ) a big deal for the economy 
+1 some book recs mostly for mipsytipsy  a great history of industrial revolution + steam engine 
+jamespmclachlan only if you treat a null return as similar to throwing an exception like maybe types
+scheplick ericnakagawa heck for all we know he did incorporate
+kennethhuber the dawn of time
+ji i agree one should write zalgoproof code however i would be super reluctant to flip this behavior of promises on a large code base
+nhughes1ster at the time i was transforming some 3d objects while building a demo
+ji it seems like a lot of code that does athen(b) c would depend on execution going agtcgtb if only inadvertently
+kennethhuber colincowherd kristineleahy pro halo player is probably better for your health
+pm my 2 yr old already does
+ji that seems breaky
+the iot products i really need 1 a roboarm that folds laundry 2 a robot that can play tag with a 2yearold
+tesla vs apple feuding seems aimed more at recruiting than at consumers
+one nice thing about this inconsistency is it discourages people from using the global object ) 
+sama paultoo vmware but yeah im just nitpicking
+johnclyde natesilver538 because the new york times will keep writing about your unethicality until you get rid of insider trading
+soon itll be cheaper to use an ondemand service for someone to come over and give you the cash 
+pm twitter hacker news and marginal revolution
+pm how rarely you hear about that really depends on what sort of media you consume it is rare that this sentiment hits the nyt )
+the 2 year old just got a hold of a bicycle pump and a kiwi and then (
+nancychowmein ericnakagawa scotcha1 i got one of those but alex really likes pushing the buttons so he keeps resetting it
+ericnakagawa man im grateful when i get to 7 am on a saturday
+mipsytipsy sheki you gotta make the chunks a bit smaller to account for base 64 encoding
+stammy osunick psh that seems solvable with a video of someone blinking
+sheki p
+i think the problem is its not secure since you could hold up a photo of someone else 
+ericnakagawa roommates
+ilyasu congrats
+spakhm yeah i should have set mine up that way i cant imagine any reason i would want dates in my db to be some are pdt some are pst
+i need to have more kids so i can justify getting a model x
+queries and dates in rethinkdb are timezoneaware makes me a bit afraid 
+about 10 of the housing in san francisco is purposefully being kept vacant because of rent control 
+ericnakagawa but when the exceptions are steve jobs and elon musk it makes the general rule an awkward one
+ilyasu prob goin over to andrewljohnsons place
+i dont care im getting the 2yearold hyped for supermoon 
+patrickc it seems conditional though  you had to do a business plan competition
+andrewljohnson jamesjyu chat is lame messaging is engaging difference is async expectation + push notification
+hmm this shirt now has too much peanut butter on it to wear it to work
+i was excited for spheros bb8 but its disappointing the motor is too weak to work on carpet and the head often falls off
+if all you want is an active ingredient it costs pennies if you also want fda approval it costs $2 million 
+rbranson sheki you should get those teeth
+hey rethinkdb  afaict the rethinkdbdash node client is nicer than the official one why not adopt it
+hunterwalk jasonlk thatll work well with self driving cars the office can commute to you
+rbranson what the heck are your twitter usernames
+refaelos sorry man i dont have a good suggestion leads on engineers are super tight right now
+this seems like an area mipsytipsy would have advice on 
+grantland and speaking of lol twitter i did not realize this was so ancient when i responded
+grantland that was a tasty dinner i loved the twopeopleunderatentthenboxmanchasingsnakemonster
+it is basic but it also means reported valuation is more than the companys expected value which is confusing 
+zackkanter so youre saying theres a chance d
+this bareknuckle citybycity fighting reminds me of uber nowadays 
+til what ubers 1 city is before reading this article i did not know there was a city of this name 
+andrewljohnson i dont think so climate change could be a big disaster but i dont see it destroying humanity pandemic would be my 2
+andrewljohnson yeah imo biggest danger is that we blow ourselves up first
+exome is not enough i want the whole genome this is cool though 
+andrewljohnson i believe in progress just not in a singularity 1000xing whats possible now yes infinityxing no
+this is why there wont be a singularity some things exponentially improve the others hold you back from infinity 
+sama stories from loopt and what you learned
+definitely reminds me of rubygems 
+gordonbowman ilyasu i want it to be obvious when tapping something will cause a sound and when tapping something will not cause a sound
+also twitter often plays the sound on videos that i didnt realize werent gifs fb tapforsound is way better 
+i wish twitter would prevent people from deleting and reposting the same tweet repeatedly to boost its distribution
+ccheever whats your preferred stack of technologies to develop things in es7
+kellabyte ericnakagawa its just tough to ensure your services are resistant to singleregion failures and aws doesnt do it perfectly
+rethinkdb typo in your docs for close on   connclose([noreplywait true ]callback) should s ]] 
+i wrote a little hello world app with rethinkdb heres a screen shot of some of my beautiful code 
+finally got around to installing rethinkdb it is not obvious to me from the docs how much i will like it guess i have to make something
+tonsing yeah i feel like i should have learned this sooner why do they only teach the history of politics in history class
+stevenstefanik im reading titan a fascinating bio of rockefeller hat tip to zackkanter for the book rec
+zackkanter im reading this now and it is indeed awesome thanks for the tip
+i didnt realize that cleveland was so central to the oil industry in the 1800s 
+how about the ability to augment human brains to remember everything (funes the memorious great story) 
+danprimack youre free to not show content to adblocking people just like restaurants are free to not serve food to people who dont pay
+bussgang that title sounds extreme but the article is not very extreme my guess zealous editor
+how i learned to use arrow keys also some math 
+im pretty sure this was good screen time 
+in 2001 the top 10 websites accounted for 31 percent of page views by 2010 the top 10 accounted for 75 percent 
+jamesjyu ilyasu i wouldnt expect something like the web or something like app stores id expect some weirdo new thing
+ilyasu 5 years
+ilyasu is that really the choke point i would say the choke point is going from having none of someones attention to some
+paywalls work for nyt economist but only the top sites what if all the mid tier publishers bundled together to share a paywall
+ericries but how would their ads be targeted
+could happen if the next dominant device only supports apps written in tcl 
+shaunspringer in practice both are unlikely because a non monetized pageview is still a lot better than no pageview
+if you hate adblockers dont serve content to people who are blocking ads 
+seldo interesting id be curious to see this data for specific modules too can you get npm stats like  active developers using module x
+ie npm usage doubling every year 
+jamesjyu andrewljohnson or both (which is what i expect)
+if publishers believe ad blockers are unethical they are free to refuse to show their content to people who are blocking ads
+brandonmblack mipsytipsy once you ditch rails though theres nothing particularly great about ruby
+lying sleepily in bed then 2 yr old runs in and yells what are you doing goodmorning
+rbranson mipsytipsy id start by looking at what es6 will fix in the language then checking out express in lieu of rails
+rbranson mipsytipsy and as far as metaprogramming goes the reactjsx tools are better than rails templating nowadays
+rbranson mipsytipsy yeah this is why es6 is so key nowadays if youre using callbacks youre doing it wrong
+davidlee mistercasey no company can generate profit forever look at 100 200 years ago
+mipsytipsy i used to agree but javascript is much less terrible with es6
+i agree it would be chaos to go straight to open borders but we could just raise quotas more every year 
+lua you screwed this up and i can never forgive you 
+ilyasu building a cool 3d demo quaternions are a great model for rotating 3d vectors
+im actually using quaternions in my job today
+mipsytipsy you know what they say build a product that you yourself have a compelling need for
+cperciva thats a decacorn
+really painful to watch the republican candidates answer which woman they would put on the $10 bill 
+the japanese education minister ordered massive cuts to humanities and social sciences interesting 
+ilyasu which do you recommend
+by 2030 a third of american prisoners will be over 55 
+in middle school i brought in a burglar alarm when you separated two wires it would beep glad i was encouraged rather than arrested
+stammy dcurtis like a baby monitor that follows them around
+ikirigin yeah i guess real problem is just opposition from those who perceive immigration as competition vc backing doesnt help there
+stammy dcurtis killer use case is grandma talking with the 2yearold
+ikirigin would you be cool with uber importing as many minimumwage drivers as they want )
+ikirigin i agree but why privilege venturebacked companies over others
+thought experiment could a program pass the turing test today if all sides were restricted to only communicate in emoji
+delong noahpinion you cant derive gravity from the microfoundations because they havent reconciled quantum mechanics with gravity )
+smasher5 ilyasu sriramk garrytan do any of you guys think this analysis is incorrect based on available data or just that it was rude
+ilyasu sriramk garrytan eh if evernote had any simple growth data that disproved it they would respond they dont so they stay silent
+garrytan well its not like theres a quiet period evernote is free to respond
+perhaps the right term for evernote is a zombie unicorn  they keep operating but have no path to be worth gt $1b 
+harsh analysis of evernote claiming they are essentially a dead unicorn 
+issuing ssl certs will soon be free automated and open no how could is this can this be 
+johnclyde lies worse is better
+ilyasu hey i set up the dual boot on this machine not disputing your claim though
+scottadamssays pm democracy does not incentivize that
+ilyasu yeah us employed folks should just buy a new pc probably
+ilyasu well steam is basically the only app store on this machine how does one even upgrade to win10 i just expect it to not work
+ilyasu i checked on steam but win10 wasnt available
+fdevillamil after my startup got acquired by a company with a real it budget the old box has been sitting under my desk for a couple years
+booted into windows for the first time in a few years this afternoon still applying required updates + restarts
+its been so long since i dualbooted into windows i have a bookmark for google reader in the browser toolbar
+mipsytipsy ok just bought the naming im more into sci fi than fantasy but i also like to just read everything there is
+eoinbrazil mipsytipsy innovators dilemma is so popular now that i find antidilemma writing like  more interesting
+mipsytipsy yeah i can see that i kinda started out that way so xtianrelated stuff less compelling to me personally
+mipsytipsy anna likes those i think theyre ok but nothing special
+10 finally i lt3 infinite jest  especially if you need a time sink for a long vacation ) ltend of book recsgt
+9 stories of your life and others    ted chiang super underrated in sci fi maybe bc he doesnt write much
+8 sapiens    because any book that dares to make a case against human rights will make you think deeply
+7 jonathan strange amp mr norrell   because mipsytipsy likes fantasy things and this magical world is unique
+6 elon musk bio   interesting job of making him look both overall pretty good but not pulling punches
+5 between the world and me  not the stuff i usually read but gripping props tanehisicoates
+4 the dark forest  sequel to 3body problem just translated to english recently awardwinning soon i predict 
+3 threebody problem  novel take on sf got some interesting chinese history in it too 
+2 history of the container  the real world container not docker ) a big deal for the economy 
+1 some book recs mostly for mipsytipsy  a great history of industrial revolution + steam engine 
+jamespmclachlan only if you treat a null return as similar to throwing an exception like maybe types
+scheplick ericnakagawa heck for all we know he did incorporate
+kennethhuber the dawn of time

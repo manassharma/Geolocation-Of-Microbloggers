@@ -1,0 +1,184 @@
+neilbowers plicease no need to keep co maint ) thx
+plicease please take it over
+TokyoTV sorry I sold mine 2 years ago
+ryan505 tjd jta that IOIOI port doing it for you
+capotribu karnauskas fastly why not
+MikeGuimarin leaving for New York tonight
+Hello Boston
+lnxchk airbused
+Dear united transcon flight with wifi but no power why
+ezkl fastly )
+renchap we live and evolve
+Speaking at RISEConfHQ today
+renchap TLS termination
+Emotional robots from masason 
+Listening to masason at SoftBank World talking about IoT and AI requiring real time communications to enable the future
+sorah fastly looking intonit
+sorah fastly can you go to  and tell me if you are going to our Tokyo pop
+sorah fastly still going on
+mdaoudi why does it matter
+mattetti c4milo fastly email support and they will tell you what range roughly matches to what pop
+c4milo mattetti fastly just hit each our pops once and you get the same effect
+Fantastic presentation by jwadolowski on the power of Fastly 
+Comparing a cloud provider with one of the most important historic events in the 20th century is apparently normal and cool
+Outdoor dry sauna Celebrating 4th of July 
+philipithomas rhs fastly how would you do that for your HTML or API calls
+wolfeidau fastly talk to us about SNI
+Sean on stage talking about dstufft getting A+ on SSL Labs for   proud to support open source projects fastly
+lynncyrin shanselman fastly looks like rubygems doesnt use us for all their traffic (
+lynncyrin shanselman fastly do the rubygem API call headers contain any xcache responses 
+lynncyrin shanselman I will check around
+lynncyrin shanselman strange pypi is on fastly as well and is fast for you
+lynncyrin fastly newrelic shanselman how can I help
+denen its my once a year treat )
+Happy with Audiondemand here in SF  match the Fastly color 
+DanielleMorrill is there an account type for companies that just want to see their own metrics (and possibly industry)
+So happy that window is joining us as CSO 
+swardley I have fiber to the apartment and I get 18Mbit
+skamille yeah FVillaRides9 runs a tight ship
+And seriously just adore that cabling
+Another example of  transparency fastly  our front page numbers are indeed real  
+mathpunk beerops I tried saying mortals instead but that just sounds rude
+beerops Ive been try to use yall but I suspect it just sounds ridiculous with my accent
+We believe in transparency in our operations and engineering thank you randommood for presenting at Monitorama
+KeriHenare hamfritta fastly actually a pop in Wellington as well
+konklone fastly absolutely just like we do for other open source projects
+jameslovegrove fastly do it just remember to commit the transaction before sending the purge
+mikeodea tmrw
+bryanthemapsguy fastly )
+ecanals pure luck
+cheeseplus leaving town
+Tokyo at night 
+renoirb I would use two back ends and loa balance much more reliable with healthchecks
+renoirb fastly btw we just upped out keep alive timeout to 600seconds )
+renoirb fastly ok so need to route different messages to different origins or anything like that
+renoirb austinspires fastly just use us a relay and not touch the messages at all Or something smarter
+renoirb austinspires fastly but unclear on what people mean when they say they want web socket support
+renoirb austinspires fastly no I am trying to figure out how we could support it )
+renoirb Ive been struggling with what websockets mean in a cdn context
+renoirb no cachingmultiplexingrequest collapsing
+renoirb so you just want us to keep a web socket connection origin open
+renoirb one to one or one to many
+renoirb what do you want to use web sockets for in a cdn context
+renoirb we totally support apex domains using anycast Cool article at 
+grrrrreg ryan505 fastly you have a distributed file system not a general purpose cdn )
+Anyone want to guess the  drop in new connectionssec after the 5 to 600 second change
+brianlmoon fastly yep
+Just changed our keep alive timeout from 10 to 600 seconds enjoy
+lozzd chrismunns fastly we could go the 23rd
+lozzd chrismunns fastly come to California )
+lozzd chrismunns fastly I am sure I will though you got to go offroading )
+jhossnz fastly can you share any more data here or with support  We have been making upgrades in NZ but havent seen any problems today
+mitchellh no parking fines My solution in SF is to just drive with no plates at all never got a ticket
+kordless discourse fastly what problems are you seeing
+timnicholas unclear how you can do that
+robtreat2 mipsytipsy postwait I have never been censored at surge
+mnot I just care about your experience 
+This is why you need a CDN in New Zealand international links saturated during peak (Pulling from IAD to AKL) 
+patrickhamann BPScott AndyDavies fastly seems like Ajax requests and client side esi is a better approach
+patrickhamann BPScott AndyDavies fastly esi also have a lot of other problems due to lack of trailers
+nivex wesgeorge WLeeCoyote fastly awscloud we are definitely not )
+miyagawa the one at SFO is amazing
+jesserobbins lesson being do fly with you or dont fly with you
+TheBIGCafeteria StJBW lets go
+clarencewee fastly can you drop a ticket to supportfastlycom and our neteng can help thanks
+mitchellharper fastly we certainly think so )
+xatharine andnotnull all airlines essentially
+bsdphk have you checked what hey are running on )
+At fastly we are proud to sponsor scalesummit  great event I keep coming back to
+jabley is such a good event scalesummit
+At ScaleSummit  always an enjoying day
+ScaleSummit bruntonspall when does the summit start in the morning
+mpawlo just happy they skipped fastly )
+lufthansa LufthansaUSA maybe it was better if your planes were actually flying
+LufthansaUSA your phone numbers arent working and you arent automatically rebooking pax whats wrong with you
+savant fastly I would just set a new header for origin requests and check on that
+RogerRustad fastly cool hopefully it does what you need )
+RogerRustad fastly for that you can use origin shield
+RogerRustad if you by siblings mean one POP that happens automatically
+RogerRustad fastly define sibling please
+kevinmarks kellan larahogan to make it even better it was the mongodb people who surely have seen me swear about their product
+kellan larahogan someone tried to hire me to be a language evangelist 6 months ago
+Speed of light in fiber is a thing AceSage jasonhevans llnw
+jasonhevans AceSage fastly at speed of high velocity bullet it takes over 2 12 hours to purge world wide cc llnw
+datacenterdude jameskilbynet fastly how is the experience
+id and glacial compared to us fastly
+AceSage jasonhevans fastly thats slower than speed of light by a considerate amount
+I dont think llnw understands what realtime means 30 minutes to push a config and 5 minutes to see your stats aint realtime
+jasonhevans AceSage fastly unmatched is easy to say without providing numbers maybe faster than light
+markimbriaco hopefully
+Damn we are amazing  
+lchen fastly WIRED it makes my inner geek so happy )
+Welcome wired to fastly  thanks for the shoutout
+renchap drop me an email pls
+renchap yes
+napdad fastly its one of the best conferences Ive been to
+mnot same with Facebook and Twitter buttons they loose all history
+triblondon FTLabs do you have time of day the person got the question Would be interesting to see if that changes the view of it
+swardley or we need the industry to functioning well and deliver 
+tomdalynh allspaw thats why technology is never the solution
+bd I wish there was a 787
+stephenlb fastly RaspberryPi tbmcmullen Ive offered it
+patrickhamann kenlim wow the new site is amazingly fast in my cellphone such a difference
+evilhackerdude fastly yes
+lozzd nimby mrembetsy power pull How many nics can you fit
+twtAhmed fastly what site where you going to
+postwait skamille I agree
+KhurrumM cool
+Good morning New York I am here for a day
+bcinarli davidwalshblog thats why instant cache purging is important
+scottymeuk davidwalshblog which is what fastly provides around the world
+bradfitz redshift
+obfuscurity every morning I go there to get a daily dose of airport sounds and smells
+bruntonspall ScaleSummit what are the dates
+anildash you didnt develop a CMS for it
+Back from the funeral best way to remember jamesgolick never give a fuck but always give a damn  be dope
+brooklynis agonigberg mrbbk rip James irc channel
+Air Canada AC8901 JFKYYZ
+Made it to JFK waiting for flight to Toronto
+bradfitz landing at SFO today was fun approach was to follow 280 closely then at last moment turn right cross 101 and land
+joegaudet yeah lots of that feeling going on (
+derspiny there for funeral of jamesgolick (
+derspiny less than 24 hours
+On my way to Toronto in what has probably been the craziest day of travel in my life
+fujin lusis macros that just means he is back to on call all the time )
+nzkoz so brutal
+joedamato jamesgolick I know both of you and I still would have believed it
+jill380 jennschac  I read some of the other letters especially the army one So sorry for your loss jamesgolick is amazing
+Earlier this year I wrote a letter of support for jamesgolick O1 visa application every word in there reminds me how awesome he is
+mrbbk after that we went offroading in my jeep it was an epic Xmas week
+Me and jamesgolick on top of northstar 
+I am pretty sure thats when my profile picture was taken
+Back when fastly was very tiny jamesgolick spent a lot time with me up in tahoe shredding during day drinking and hacking during night
+RIP jamesgolick (
+rr wmatos1001 wow I want
+echoandreas sure
+TheBIGCafeteria antgel SeekingAlpha asisegal fastly both DSA and for caching and instant purging news articles
+mnot after any normalization that might take place indicates that some normalization can remove a header
+mnot what normalization can remove a header
+mnot that sounds like a terrible debate to be in
+mnot what about specifically for vary processing
+mendel fastly it is indeed )
+I call on the mighty mnot  lord of all things http  is an empty header the same as a non existent header 
+rael since apple started using their own CDN )
+dstufft zeeg mattrobenolt ios7 safari  is also faster than http
+dstufft zeeg mattrobenolt I am on ios 7 and it is faster
+zeeg dstufft mattrobenolt does safari on ios have spdy
+dstufft how is  faster
+drwilco berg man p
+drwilco I wish P
+WINTER STORM  FROM TUESDAY MORNING ABOVE 7000 FEET ACCUMULATIONS UP TO 2 FEET WILL BE POSSIBLE WITH THIS SYSTEM 
+swoodie epic pass takes me to both sides of the lake )
+ericnakagawa SkiNorthstar was open earlier
+Not much open but snow is good here SkiNorthstar
+lucfueston rubygemsstatus fastly which hostname is erroring
+gionn hmm can you run the command manually Also provide a mtr to us
+gionn fastly what was the error
+KhurrumM you mean if none match
+KhurrumM fastly explain a bit more I am a little confused
+ameba I try to use yall but not always successful
+vclfiddle looks cool Will take a deeper look
+jimhealy falican fastly yeah we are not proud of that very embarrassing
+swardley agency problem
+paulmison united HeathrowAirport they could be less proud of the location
+chuhnk not this time

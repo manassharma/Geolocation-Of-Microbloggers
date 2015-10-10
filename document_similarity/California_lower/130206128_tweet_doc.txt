@@ -1,0 +1,122 @@
+slexaxton stefanpenner sethophillips people habitually ignoring 6 errors in their console bc its already messy is sadder imo
+ stefanpenner  thoughts on having a default csp in cli app blueprint getting some feedback that its mysterious  sethophillips
+sjc ✈️ msp
+pbergstr its a particularly difficult time to teach since the framework is on the cusp of so many new things but not quite there
+ pbergstr youre telling me just putting the final polish on my own emberjs course  
+ pbergstr happy to see you teaching emberjs at santa clara university far more useful than what many cs programs teach javascript
+mikepmunroe thanks
+happyray svcodecamp awesome ill take a look thanks 👍
+ypoirier nice having dinner with you tonight svcc
+😓💻
+happyray nice meeting you
+givanse the good news is that it will be recorded it takes a while to produce but youll eventually see it on 
+looking for emberjs 2x training sign up for the frontendmasters workshop  oct 89 
+ryanjsalva nparashuram html5devconf testing (you knew it was coming)
+nparashuram definitely need to grab a beer andor coffee with you during the conference love what $msft is doing with cordova
+you thought your mom was bad at using computers try selenium  modernwebui linkedin 
+slides from my userperceived performance talk at linkedin  modernwebui 
+
+ 
+shripathee based on what youre saying seems like a bug
+shripathee open a pr with a failing test case and ill be happy to fix
+very excited to be teaching a free crash course on emberjs 2x next weekend at svcodecamp sign up now 
+regex for finding singlesymbol es6 imports missing semicolons   import [w]+ from ([])1[w]+1n 
+had a fantastic meeting with jeffcain415 at yodlee  yideveloper chenthusiast levanto 
+ svcodecamp yodlee definitely going to check this one out
+zachperret takes me back to my days at carnegiemellon apparently they have an official plaid 
+elixirphoenix
+walked into hackerdojo stumbled into a twoday free elixirlang phoenixframework course thx hackfoundsv
+they say defining the right culture is a key ingredient to successful startups github emberjs 
+contrats tomdale and zeejab 
+finally back to inbox zero
+ willmckinley odds are if you have a 4k television it already has amazon instant video and nflx baked in
+ chenthusiast you would love curiositydotcom
+looking forward to hearing thejameskyle talk abt babeljs in a few modernwebui thanks linkedin for sponsoring 
+jedberg cloudnativeio i hear dunkindonuts is also hiring
+twbrandt anything interesting and javascripty happening this week in the detroit area
+avatron wnodom airdisplayapp my hope is that this will work itd be a sweet digital nomad setup
+trek unfortunately just passing through on my way to detroit
+sfo ✈️ ord
+toranb will have to see where things are in a month worst case scenario is top level component in each view
+toddsmithsalter toranb ill be doing a frontendmasters ember 20 course in about a month )
+thanks for spending time on this k88hudson antlam7 and smashman2004
+cant believe id never seen this learn css selectors via this game  thx flukeout css3 
+jkup ladyleet kng yum love that salmon or arctic char
+wsmoak elixirconf elixirlang awesome seems like an ecosystem poised for massive growth
+pixelkritzel emberjs what specifically gave you trouble
+wnodom airdisplayapp avatron do you recall what resolution you were able to use
+derekbrown nice seeing you and the team im sure ill find my way back for one reason or another before long
+bcardarella i got one of these but havent had a chance to use it much yet 
+samdelagarza ill give it a try but all of the software based solutions seem really laggy looking for a hardware answer to this problem
+if ipadpro can be used as an external display im sold
+stefanpenner 
+mingcodes what do you think of this 
+thaume thx
+javascript protip be aware that chrome now supports some es6 features its possible for untranspiled code to seem fine
+mrnickbreen glad to hear that your team found it useful theres more to come
+stefanpenner levantofin fun working with you as well im sure it will continue in oss land )
+very excited to be joining levantofin as cto
+just gave copy a try for cloud file storage love the 15gb limit on the free accounts 
+ lukemelia for other apps ive built a simple emberdeploy friendly asset serving layer 
+lukemelia for things like venturehackeds site we use embercligithubpages to commit a prod build to ghpages branch via travisci
+juniorhaxe its much simpler and cleaner if youre looking for a basic material design layer to build on mdl is the best choice imo
+juniorhaxe have you taken a look at   
+juniorhaxe youll end up saving a lot of time if you use the addon imo if something is clunky it can be fixed )
+psyched to see the josevalims webinar today elixirlang
+juniorhaxe that is the goal there may be a few things particularly the jquery plugins (ie scrollspy) where there isnt feature parity
+dgeb looking forward to your visit tomorrow
+ebidel polymer looks great
+samplingculture littlenickys rangleio i need to be by your office
+samplingculture here is a talk i recently gave video on youtube 
+arungupta google oracle have you been to kaizen in campbell yet
+slicknet can you write a script for it
+commadelimited wish i had known sooner coming down to the south bay anytime
+“elixirphoenix only 2 days left to register for josevalim’s phoenix webinar 
+ cant wait
+ ok i get it stefanpenner vmliu
+jjordandev sounds like a great time
+great talk at sf emberjs last week by wycats and chancancode emberjs ember  
+added css spinner resources to emberload docs  would lt3 community suggestions emberjs css 
+come see myself thejameskyle amp nathanhammond at modernwebui on 929  emberjs babeljs 
+im delighted to see the elixirphoenix 10 release  elixir erlang 
+kamalaknn glad you found this useful )
+trek ultimatemonty jamesarosen +1 linkplz
+user perceived performance in emberjs apps   javascript
+ogg ✈️ sjc
+jlsuttles loved this nice work
+i love hawaii 
+taking a day off with ladyleet 
+sjc ✈️ ogg
+ryanjsalva yeah it was great feel like msft is really listening to customers )
+sea ✈️ sfo
+curiositydotcom 
+sfo ✈️ sea
+chriseppstein id expect a better image for marketing
+mamadero jordanhawker ladyleet hint presenters get in for free )
+ stefanpenner  is the theme from pirates of the caribbean a good coding soundtrack
+jordanhawker ladyleet im getting mine for $0 )
+slides from my talk at the sf emberjs meetup last night 
+stephencattaneo 
+carsol kazumijohn this was awesome goprodj
+carsol hope you enjoyed tonight ) amahanti
+yobentley gopro 👌🏻
+skisulli goproeng emberjs gopro thanks for hosting  great venue
+dstaley 👌🏻
+bdvholmes thanks you too
+thanks for hosting the meetup srobtweets goproeng emberjs  
+love toomitchs guide to emberjs components for reactjs and angularjs devs 
+dstaley byo indicator anything like  should work nicely
+listening to toomitch talk about mental models in emberjs 
+ wycats and chancancode get ready to present an update on emberjs ltangle componentsgt 
+emberload  fast loading indicator support for emberjs apps   
+emberperf  performance instrumentation for emberjs apps 
+whos headed to the sf emberjs meetup gopro goproeng tomorrow ill be speaking about user perceived performance emberjs ember
+uhoherk see you tomorrow
+hpdailyrant heading up
+chrispainter gopro see you tomorrow
+chancancode wycats looking forward to seeing you both tomorrow
+ netflix got me hooked on 4k content now i dont want to watch anything else
+stefanpenner 
+emberjs gopro i have been told that there may be video recording not sure about doing it live
+emberjs protip resolveregistration the new lookupfactory
+im excited to talk about page load performance at tomorrows emberjs sf meetup hosted by gopro

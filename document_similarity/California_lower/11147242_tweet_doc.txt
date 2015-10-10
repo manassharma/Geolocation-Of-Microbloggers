@@ -1,0 +1,141 @@
+cassandra at reinvent2015 
+markpapadakis too little too late
+markpapadakis that is what immediately popped into my mind when i read your tweet
+markpapadakis 
+netflix  is launching in spain italy and portugal from october 20 costing €8 per month 
+kellabyte build a release valve into your client avoid the issue in the first place
+i thought the republicans hated obama and clinton then i started reading what bernie sanders supporters thought about those twoouch
+jimplush yes
+armonaghaie 👍
+armonaghaie spoiler alert it helps avoid downtime ☺
+armonaghaie 
+adrianco amen
+if you have a service that needs to be up you architect for it to avoid downtime awsoutage netflix minimalimpact greatarchitectue
+took eldest boy to church today he didnt catch on fire turns out he isnt the devil could of fooled me raisingboys
+thinking of getting an iphone 😱 can one live la vida google services on ios
+markpapadakis expect more paywalls as ad blockers proliferate
+elieassaly whats up old friend
+oh 5 minutes early is on time on time is 5 minutes late 5 minutes latedont bother showing your face
+tjake if you need a west coast cohost or regular guest im game
+altobey they sell tractors cheap then profit on the service sounds familiar is hp making tractors these days
+altobey manhattan may be at fault ok im going to hide now ☺
+great elasticsearch  meetup at netflix 
+jasobrown doing the same ☺ 
+tastes more like a greektown than gyro 
+we pioneered unlimited vacation now netflix has unlimited parental leave netflixjobs 
+wife says its now kid safei told her we just gave them the means to tackle amp wrestle each other harder raisingboys 
+elastic search at netflix meetup aug 12 more info here 
+packing 😢
+im looking forward to this series netflix 
+askamex the costco trueearnings card
+askamex can an existing  amex card be upgraded to gold or platinum
+cpsaltis schedule pretty packed lets take it offline
+cpsaltis glad he enjoyed it unfortunately not in athens anymore back in corinth until friday then i fly home
+patrickmcfadin shirleman they served pizzalol
+markpapadakis i think there is one at least they filmed it
+shirleman they didnt boo me so that is good ☺
+greek geeks cassandra meetup in athens greece 
+what greece needs is a good busdev team i know guys in the valley that can turn this view into $350 billeasy 
+we wore skirts first and we looked fabulous 
+Μπράβο ται παιδιά 
+markpapadakis neveregloss from bing no less
+markpapadakis neveregloss on another note i never noticed the translate feature on twitter
+markpapadakis neveregloss bravo Να σου ζήσουν
+markpapadakis neveregloss you got any
+kcorax am i finally going to meet you weve been online friends since jaiku  athens cassandra users 
+markpapadakis neveregloss my little one the older one is 4 12
+finishing up my slides  athens cassandra users 
+ron knowing im out the door i would probably vent as well but made his buddys job s little harder or at least awkward
+ron im with you but we dont have the fate of 11mil people on our shoulders besides i think he knew he was out the whole week
+rone you mean insulting your partners and lying on channel 4 news does not guarantee job security
+markpapadakis irenewhite ohthat thing
+markpapadakis irenewhite i hope you make it
+paypal and apple appstore not working if using greek issued cc greek startup ispaws bills being paid by greek companies with foreign cc
+quidryan a bitbut still chuckled got to smile through the pain
+mattz62 achatzakis shirleman meetup greece
+patrickmcfadin jasobrown history first hand
+jasobrown the stars finally aligned
+i’m attending a meetup with athens cassandra users   i hear the speaker is pretty good ☺
+netflix announces 7 for 1 stock split  netflix
+netflix swag netflixjobs 
+it is on me against the ducks in my pool reflective tape floating swan amp alligator motion sensing sound emitter and fake owl bring it
+sonofgarr if you want to practice your barista skillstotally
+aspyker ma4jpb im he has and he might be tired of it but its appropriate
+ma4jpb aspyker mr bond weve been expecting you
+jasobrown trying to see which coffee brings the engineers to the yard decaf which seems counterproductive was left out of the picture
+free coffee choices  netflix workingatnetflix 
+cassandra meetup at netflix 
+happy birthday to neveregloss  best wife mother and friend anyone can ask for
+really enjoying the new daredevil series on netflix
+neveregloss me thinks im more than a baby daddy
+jasobrown anytime just let me know
+jasobrown come to britannia arms almaden ive got you covered )
+jimplush as for the false advertising better to think of these instances as higher iops through ssd as opposed to ssd
+jimplush they put all the new bells and whistles in vpc apparently
+jimplush there is also the fact tat we are running in ec2 classic our tams tell us that vpc makes everything better
+jimplush 2 you are right it is poor and can be better if properly tunedthat is why i put the disclaimer at the bottom
+jimplush 1 you cannot compare ssd backed instances to hardware running ssd xen obfuscates any oshardware advantages you get from ssd
+cache is usage not a technology
+packed house at the netflix elasticon talk elasticon 
+elasticsearch 20 upgrade will require downtime sad trombone
+elasticsearch is now elastic 
+markpapadakis see you in july
+markpapadakis get on a plane and come out here otherwise im doing a cassandra meetup in athens this summer meet me half way )
+going to elasticon today if you are going let me know would love to meet with you to share and learn
+davegardnerisme ill just have to find you buy you a beer and play with your watch )
+davegardnerisme no safari on my linux laptop
+davegardnerisme fail stream not supported in chrome
+rip mr spock 😢
+ggreenstreet the problem is by 5pm it will be snowing )
+cassandra dev positions now open at netflix
+
+hiring
+zanson youre right unprotecting my tweets now i kind of feel exposed 
+rusmeshenberg aspyker i think i once saw one of those in a history book
+aspyker blackberry
+rusmeshenberg android works ios version buggy nah that cant be it )
+cassandra dev positions now open at netflix
+
+hiring
+as of earlier this week my 21mbps uverse plan is no longer considered broadband think atampt is going to reimburse me anything
+patrickmcfadin ouchnot a fan of agpl |   has your team or ds have any published benchmarks
+these guys have been hounding me what is your take on aerospike vs c seems like their claimed test is just testing disk vs memory
+rone you just had to ruin my rant didnt you
+why is gluten free pizza automatically vegetarian gluten free pepperoni works too
+want to lead the building of our next gen automation framework
+netflix hiring
+
+want to help build our next gen automation framework our systems dont manage themselvesyet netflix hiring 
+aspyker you were great
+calling smoked meat pastrami  is acceptable grounds for divorce
+aspyker your sense of entitlement will kick in soon enough
+finally running some cassandra 20 in production now on to upgrading the whole fleet
+je me souviens   
+hipchat common guys another fail from both the upgrade path and the full install path 
+davegardnerisme got it thanks happy new year btw
+davegardnerisme whats a good ide for go
+hectormcspector your account should work just fine in the uk bandwidth where you are maybe unfriendly isp come home usa usa
+sabhub1 yes that is how we use it at netflix
+just made the paper toss from the car into the bin of the century and no one saw it
+thought i would poke my head out of paternity leave to share this 
+reading cassandra sstables directly for offline data analysis  via fullcontactapi
+dont forget my office hours 1pm  2pm lets talk dynomite and cassandra awsreinvent
+haveblue51 dngrmike hold on im giving lucifer my jacket you were saying
+haveblue51 dngrmike i would have said but would be a cold day in hell before that happens but now anything is possible
+full netflix aws office hours schedule 
+maximrouiller msdevmtl nothing planned so far i will let you know well in advance
+maximrouiller msdevmtl i will take you up on that
+my aws office hours are thursday 12pm at the netflix booth swing by lets chat dynomite and cassandra in the cloud
+maximrouiller settle for  a beer next time im in town
+maximrouiller i love engineers touché
+why must all water be served ice cold
+ the rock house 
+jimplush will try to swing by thanks
+danieljacobson npbendre yup the indian fort raigad fortifies elasticsearch
+introducing raigad  an elasticsearch sidecar
+
+aspyker pas256 go all in if you are holding a 7 amp 2
+aspyker pas256 already there see you tomorrow
+packing for reinvent swing by the netflix booth lets talk cassandra dynomite and netflixoss
+hipchat oktodays update was super smooththanks
+cra thinkingfish manju antirez rusmeshenberg mea culpa weve now acknowledged twitteross and twemproxy in our blog post for dynomite
