@@ -29,9 +29,9 @@ for user_detail in users:
 
 
 #print network info
-print networkx.connected_components(graph)
-print networkx.degree(graph)
-print networkx.info(graph)
+print(networkx.connected_components(graph))
+print(networkx.degree(graph))
+print(networkx.info(graph))
 networkx.draw(graph)
 plt.savefig("test_4.png")
 
