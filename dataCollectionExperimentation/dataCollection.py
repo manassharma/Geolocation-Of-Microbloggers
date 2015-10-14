@@ -30,7 +30,8 @@ def workerFriendListGenerator(totalFriends):
         user_ids.append(friend.id)
 
         file_open.close()
-        return
+    
+    return
     
 
 for user_id in user_ids:
