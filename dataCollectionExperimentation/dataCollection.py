@@ -30,7 +30,8 @@ def workerFriendListGenerator(totalFriends):
         user_ids.append(friend.id)
 
         file_open.close()
-        return
+
+    return
     
 
 for user_id in user_ids:
@@ -56,7 +57,6 @@ for user_id in user_ids:
 
             myThread = threading.Thread(target=workerFriendListGenerator(items))
             myThread.start()
-            myThread.join()
 
             file_open = open("C:/data/db/user_ids_and_friends_count.csv", "a")
             file_open.write(str(user_id) + "," + str(len(friends_list)))
@@ -66,7 +66,7 @@ for user_id in user_ids:
             pass
             #logging.debug("Error fetching friends for user :" + str(user_id))
 
-
+        myThread.join()
         user_response = {'user_id': user.id,
                          'user_name': user.screen_name,
                          'follower_ids': user.followers_ids(),
