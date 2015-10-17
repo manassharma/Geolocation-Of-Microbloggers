@@ -12,10 +12,10 @@ def setGenerator():
         for iteratorUid in userInfo:
             userBuffer = str(iteratorUid)
             myUserArray = userBuffer.split("\t")
-
+            print myUserArray[1]
             try:
                 if (myTweetArray[0] == myUserArray[0]):
-                    trainingSet.write(tweetBuffer+"\t"+userBuffer[1]+"\n")
+                    trainingSet.write(tweetBuffer+"\t"+myUserArray[1]+"\n")
             except Exception:
                 pass
         
