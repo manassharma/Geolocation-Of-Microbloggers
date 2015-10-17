@@ -4,22 +4,29 @@ from itertools import izip
 userInfo = open("training_set_users.txt", "r")
 tweetInfo = open("training_set_tweets.txt", "r")
 trainingSet = open("training_combined.txt", "w")
-    
+
 def setGenerator():
-    for iteratorTweets in tweetInfo:
-        tweetBuffer = str(iteratorTweets)
+
+    myDict = {}
+    for userData in userInfo:
+        userBuffer = str(userData)
+        userArray = userBuffer.split("\t")
+        try:
+            myDict[userArray[0]] = userArray[1]
+        except Exception:
+            pass
+
+        
+    for currentTweetInfo in tweetInfo:
+        tweetBuffer = str(currentTweetInfo)
         myTweetArray = tweetBuffer.split("\t")
-        for iteratorUid in userInfo:
-            userBuffer = str(iteratorUid)
-            myUserArray = userBuffer.split("\t")
-            print myUserArray[1]
-            try:
-                if (myTweetArray[0] == myUserArray[0]):
-                    trainingSet.write(tweetBuffer+"\t"+myUserArray[1]+"\n")
-            except Exception:
-                pass
+        try:
+            if (myTweetArray[0] in myDict):
+                trainingSet.write(currentTweetInfo + "\t" + myDict.get(myTweetArray[0]))
+        except Exception:
+            pass
         
-        
+    print "Data collator finished execution"
     
 if __name__ == '__main__':
 
