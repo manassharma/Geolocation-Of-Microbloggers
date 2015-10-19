@@ -7,8 +7,10 @@ def classifier(dataPath, stateInfo):
     for tempBuffer in inPath:
         stringBuffer = str(tempBuffer)
         try:
-            processedArray = stringBuffer.split(',')
-            if(processedArray[1] == stateInfo):
+            processedArray = stringBuffer.split('\t\t\t\t')
+            checkArray = processedArray[1].split(',')
+
+            if(str(checkArray[1]).rstrip().lstrip() == stateInfo or str(checkArray[0]).rstrip().lstrip() == stateInfo or str(processedArray[1]).rstrip().lstrip() == stateInfo):
                 outPath.write(stringBuffer)
         except Exception:
             pass
