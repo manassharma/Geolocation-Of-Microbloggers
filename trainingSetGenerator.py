@@ -26,7 +26,7 @@ def setGenerator():
                 getString = getString.lstrip()
                 getString = getString.rstrip()
 
-                trainingSet.write(currentTweetInfo.rstrip() + "\t" + getString + "\n")
+                trainingSet.write(currentTweetInfo.rstrip() + "\t\t\t\t" + getString + "\n")
         except Exception:
             pass
         
