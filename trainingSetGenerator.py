@@ -22,7 +22,11 @@ def setGenerator():
         myTweetArray = tweetBuffer.split("\t")
         try:
             if (myTweetArray[0] in myDict):
-                trainingSet.write(currentTweetInfo + "\t" + myDict.get(myTweetArray[0]))
+                getString = str(myDict.get(myTweetArray[0]))
+                getString = getString.lstrip()
+                getString = getString.rstrip()
+
+                trainingSet.write(currentTweetInfo.rstrip() + "\t" + getString + "\n")
         except Exception:
             pass
         

@@ -8,9 +8,8 @@ def classifier(dataPath, stateInfo):
         stringBuffer = str(tempBuffer)
         try:
             processedArray = stringBuffer.split(',')
-            if(processedArray[2] == stateInfo):
-                print "inside if block"
-                outPath.write(processedArray[0] + ',' + processedArray[1] + ',' + processedArray[2])
+            if(processedArray[1] == stateInfo):
+                outPath.write(stringBuffer)
         except Exception:
             pass
     return

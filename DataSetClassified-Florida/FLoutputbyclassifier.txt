@@ -1,0 +1,30 @@
+82488704	5996005183	CA,FL,&& NY - where else you gonna be from??	2009-11-23 20:28:00	Miami, FL
+69594039	4023140724	Tony Bennett Tickets 01-08-2010 Miami,FL,Knight Concert Hall At The Adrienne Arsht Center: Get your Tony Bennett.. http://bit.ly/dJPS7	2009-09-16 00:07:52	Miami, FL
+69594039	4023137993	101 Dalmatians Tickets 01-03-2010 Miami,FL,Ziff Opera House At The Adrienne Arsht Center: Get your 101 Dalmatian.. http://bit.ly/OUrEk	2009-09-16 00:07:40	Miami, FL
+69594039	4023135988	101 Dalmatians Tickets 01-02-2010 Miami,FL,Ziff Opera House At The Adrienne Arsht Center: Get your 101 Dalmatian.. http://bit.ly/vjK8g	2009-09-16 00:07:31	Miami, FL
+69594039	4010278849	Miami Heat vs. Toronto Raptors Tickets 12-15-2009 Miami,FL,American Airlines Arena: Get your Miami Heat vs. Toro.. http://bit.ly/H3psK	2009-09-15 13:38:55	Miami, FL
+69594039	4010267085	Miami Heat vs. Memphis Grizzlies Tickets 12-13-2009 Miami,FL,American Airlines Arena: Get your Miami Heat vs. Me.. http://bit.ly/zA05h	2009-09-15 13:38:20	Miami, FL
+69594039	4010264914	Brian Stokes Mitchell Tickets 12-12-2009 Miami,FL,Knight Concert Hall At The Adrienne Arsht Center: Get your Bri.. http://bit.ly/kGHLK	2009-09-15 13:38:14	Miami, FL
+69594039	4006681144	Miami Heat vs. Boston Celtics Tickets 11-29-2009 Miami,FL,American Airlines Arena: Get your Miami Heat vs. Bosto.. http://bit.ly/191X3u	2009-09-15 10:37:56	Miami, FL
+69594039	4006680040	Pagliacci & Suor Angelica Tickets 11-28-2009 Miami,FL,Ziff Opera House At The Adrienne Arsht Center: Get your Pa.. http://bit.ly/Fmeq7	2009-09-15 10:37:52	Miami, FL
+69594039	4003532716	Lolita Flores Tickets 11-14-2009 Miami,FL,Miami Dade County Auditorium: Get your Lolita Flores,ticket. Tickets f.. http://bit.ly/1juVlV	2009-09-15 07:38:19	Miami, FL
+69594039	4003531801	Miami Heat vs. New Jersey Nets Tickets 11-14-2009 Miami,FL,American Airlines Arena: Get your Miami Heat vs. New .. http://bit.ly/4hkIv	2009-09-15 07:38:15	Miami, FL
+69594039	4003530587	Miami Hurricanes vs. North Carolina Central Eagles Tickets 11-14-2009 Miami,FL,Bankunited Center At Um: Get your.. http://bit.ly/boZsy	2009-09-15 07:38:10	Miami, FL
+69594039	4003526631	Kevin Smith Tickets 11-12-2009 Miami,FL,Ziff Opera House At The Adrienne Arsht Center: Get your Kevin Smith,tick.. http://bit.ly/34cFQG	2009-09-15 07:37:54	Miami, FL
+69594039	4002730003	Miami Heat vs. Washington Wizards Tickets 11-10-2009 Miami,FL,American Airlines Arena: Get your Miami Heat vs. W.. http://bit.ly/egswQ	2009-09-15 06:36:30	Miami, FL
+69594039	4002728662	Miami Hurricanes vs. Florida Southern Moccasins (Exhibition) Tickets 11-09-2009 Miami,FL,Bankunited Center At Um.. http://bit.ly/rNl3e	2009-09-15 06:36:23	Miami, FL
+69594039	4002727867	Miami Heat vs. Denver Nuggets Tickets 11-06-2009 Miami,FL,American Airlines Arena: Get your Miami Heat vs. Denve.. http://bit.ly/V7qqr	2009-09-15 06:36:19	Miami, FL
+69594039	4002726413	Buddy Guy Tickets 11-06-2009 Miami,FL,Knight Concert Hall At The Adrienne Arsht Center: Get your Buddy Guy,ticke.. http://bit.ly/fVI2i	2009-09-15 06:36:11	Miami, FL
+69594039	4002724625	Miami Heat vs. Phoenix Suns Tickets 11-03-2009 Miami,FL,American Airlines Arena: Get your Miami Heat vs. Phoenix.. http://bit.ly/nkura	2009-09-15 06:36:03	Miami, FL
+69594039	4001513816	Miami Heat vs. Chicago Bulls Tickets 11-01-2009 Miami,FL,American Airlines Arena: Get your Miami Heat vs. Chicag.. http://bit.ly/NjFY6	2009-09-15 04:39:18	Miami, FL
+69594039	4001511773	The Color Purple Tickets 11-01-2009 Miami,FL,Ziff Opera House At The Adrienne Arsht Center: Get your The Color P.. http://bit.ly/CInzG	2009-09-15 04:39:05	Miami, FL
+69594039	4001510420	The Color Purple Tickets 11-01-2009 Miami,FL,Ziff Opera House At The Adrienne Arsht Center: Get your The Color P.. http://bit.ly/h1zFX	2009-09-15 04:38:56	Miami, FL
+69594039	4001509886	The Color Purple Tickets 10-31-2009 Miami,FL,Ziff Opera House At The Adrienne Arsht Center: Get your The Color P.. http://bit.ly/2mYC0q	2009-09-15 04:38:51	Miami, FL
+69594039	4001507468	The Color Purple Tickets 10-30-2009 Miami,FL,Ziff Opera House At The Adrienne Arsht Center: Get your The Color P.. http://bit.ly/Osby5	2009-09-15 04:38:34	Miami, FL
+69594039	4000931941	The Color Purple Tickets 10-27-2009 Miami,FL,Ziff Opera House At The Adrienne Arsht Center: Get your The Color P.. http://bit.ly/4dnwJX	2009-09-15 03:38:19	Miami, FL
+69594039	4000931119	Miami City Ballet Tickets 10-25-2009 Miami,FL,Ziff Opera House At The Adrienne Arsht Center: Get your Miami City.. http://bit.ly/4vIohq	2009-09-15 03:38:13	Miami, FL
+69594039	4000929917	Miami City Ballet Tickets 10-24-2009 Miami,FL,Ziff Opera House At The Adrienne Arsht Center: Get your Miami City.. http://bit.ly/2TARpP	2009-09-15 03:38:06	Miami, FL
+69594039	4000927061	Marc Anthony Tickets 10-24-2009 Miami,FL,American Airlines Arena: Get your Marc Anthony,ticket. Tickets for 10/2.. http://bit.ly/lpRbE	2009-09-15 03:37:49	Miami, FL
+69594039	4000343834	So You Think You Can Dance? Tickets 10-22-2009 Miami,FL,American Airlines Arena: Get your So You Think You Can D.. http://bit.ly/1dagvE	2009-09-15 02:36:48	Miami, FL
+69594039	4000342594	NBA Preseason: Miami Heat vs. Memphis Grizzlies Tickets 10-21-2009 Miami,FL,American Airlines Arena: Get your NB.. http://bit.ly/egBe2	2009-09-15 02:36:40	Miami, FL
+69594039	4000342036	Bela Fleck Tickets 10-18-2009 Miami,FL,Gusman Center For The Performing Arts: Get your Bela Fleck,ticket. Ticket.. http://bit.ly/18BWsW	2009-09-15 02:36:36	Miami, FL
