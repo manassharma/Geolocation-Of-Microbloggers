@@ -1,10 +1,8 @@
 ''' Finding the mentions program'''
 
 
-tweetInfo = open("testData.txt", "r")
-mentionsFile = open("mentions.txt", "w")
-
-
+tweetInfo = open("Test_user_set.txt", "r")
+mentionsFile = open("TestOutput.txt", "w")
 
 initialUserId = 0
 
@@ -20,21 +18,25 @@ for tweet in tweetInfo:
 
     #Segregating mentions based on users
     if (userId != initialUserId) & (startFlag == 0):
-        userId = userId[3:]
+        #userId = userId[3:] #Removes File's header
         initialUserId = userId
-        print "1st if: " + str(userId + "<--->" + initialUserId)
+        #print "1st if:" + str(userId) + "<--->" + str(initialUserId) + "-->"
         startFlag = 1
-        print userId != initialUserId
+        #print userId != initialUserId
+        print "if 1"
 
     if (userId != initialUserId) & (startFlag == 1):
-        print "2nd if:" + str((userId != initialUserId) & (startFlag == 1))
+        #print "2nd if:" + str((userId != initialUserId) & (startFlag == 1))
         print userId + "<--->" + initialUserId
-        mentionsFile.write(str(userId) + "\t\t")
-        
+        mentionsFile.write(str(initialUserId) + "\t\t")
+        print "if 2"
+
         # For getting the number of mentions in sorted order
         for w in sorted(dictionary, key=dictionary.get, reverse=True):
             mentionsFile.write(str(w) + " " + str(dictionary[w]) + "\t")
+            print "for 1"
             #print w,dictionary[w]
+
         #Building a new Dictionary for every user 
         dictionary.clear()
         initialUserId = userId
@@ -42,6 +44,7 @@ for tweet in tweetInfo:
         #Printing newline after every user
         mentionsFile.write("\n")
 
+    print "before splitline 1"
     splitline = tweet.split('@')
     i = 1
     while i < len(splitline):
