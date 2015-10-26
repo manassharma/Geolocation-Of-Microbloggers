@@ -1,0 +1,231 @@
+54001808	6143964413	Cumberland, Maryland
+22939513	6255035492	Frederick, Maryland
+61867990	3767779194	Baltimore, Maryland
+22022305	4584959979	Baltimore, Maryland
+23334642	5581679037	Bethesda, Maryland
+23860080	5951820969	Baltimore, Maryland
+16389950	5842027638	Baltimore, Maryland
+23725144	5704584104	Baltimore, Maryland
+22534294	5636638619	Bel Air, Maryland
+29370659	1947312241	Fort Washington, Maryland
+37104387	5235815747	Waldorf, Maryland
+18886477	5872425639	Parkville, Maryland
+26358258	5491473309	Baltimore, Maryland
+40252598	6214298506	Baltimore, Maryland
+17053496	1825313558	Baltimore, Maryland
+16408474	5692449500	Silver Spring, Maryland
+55591203	5580676589	Salisbury, Maryland
+73417273	6177702477	Largo, Maryland
+38397169	3739073259	Annapolis, Maryland
+89673043	5798858715	Baltimore, Maryland
+15093338	5499536999	Baltimore, Maryland
+82203514	6449662152	Annapolis, Maryland
+23433825	5207984434	Baltimore, Maryland
+18310063	5732454595	Westminster, Maryland
+64772243	4126120700	Baltimore, Maryland
+28203790	6321667994	Baltimore, Maryland
+25451513	5608654688	Baltimore, Maryland
+15601720	4088656961	Baltimore, Maryland
+20734600	5506198216	Baltimore, Maryland
+21260923	5314384003	Damascus, Maryland
+35831479	3415427173	Rockville, Maryland
+22051241	6236999920	Salisbury, Maryland
+54881026	5634283732	Annapolis, Maryland
+19658914	5923256627	Baltimore, Maryland
+19956853	1358833603	Baltimore, Maryland
+19565215	5207770978	Baltimore, Maryland
+32672810	1562431959	Baltimore, Maryland
+16682945	5898627067	Columbia, Maryland
+43159928	4318250576	Potomac, Maryland
+39361684	5138224301	Greenbelt, Maryland
+19569939	6366010883	Columbia, Maryland
+24157980	5664511538	Silver Spring, Maryland
+33596944	6123909925	Baltimore, Maryland
+17214019	5835752896	Baltimore, Maryland
+15510945	2022785718	Annapolis, Maryland
+15905147	6172276027	Damascus, Maryland
+28357349	4450082782	
+58138167	2740716765	Frederick, Maryland
+29014540	5815220824	Salisbury, Maryland
+40863897	5268398423	Baltimore, Maryland
+63358011	4718514715	Annapolis, Maryland
+21415216	4866792373	Ocean City, Maryland
+10274302	6293862631	Ellicott City, Maryland
+30722280	6071239771	Baltimore, Maryland
+16697784	5773593550	Bowie, Maryland
+63359523	4713794002	Baltimore, Maryland
+15628274	5992665363	Olney, Maryland
+45621996	5803985544	Montgomery Village, Maryland
+13032212	5275624742	Silver Spring, Maryland
+21160744	4899304716	Baltimore, Maryland
+79244172	5444622685	Baltimore, Maryland
+36512857	3515592550	Gaithersburg, Maryland
+55109750	5790209712	Columbia, Maryland
+75295032	4499193992	Potomac, Maryland
+66906626	6090258491	Potomac, Maryland
+16051756	5465604145	Baltimore, Maryland
+54722441	6197137689	Ocean City, Maryland
+18678410	5906138168	Rockville, Maryland
+23451114	5379990419	Odenton, Maryland
+26020365	1645517433	Germantown, Maryland
+67964833	5336500147	Cumberland, Maryland
+26808712	5934760944	Baltimore, Maryland
+28644864	5488499245	Baltimore, Maryland
+86186063	5504658845	Odenton, Maryland
+22485399	5678168160	Baltimore, Maryland
+23011322	5929020050	Baltimore, Maryland
+16720742	6355453330	Hyattsville, Maryland
+55911639	5599772382	
+39266300	5796627108	Baltimore, Maryland
+30746850	1905202402	Baltimore, Maryland
+78591200	6176496645	Annapolis, Maryland
+18691656	1185617411	Columbia, Maryland
+29985806	1836734410	Laurel, Maryland
+65986947	6059418184	Baltimore, Maryland
+32476340	5767608923	Baltimore, Maryland
+17124930	5636964878	Silver Spring, Maryland
+22078098	1829986146	Bethesda, Maryland
+64704761	4664817166	Bowie, Maryland
+17389116	1728697014	Baltimore, Maryland
+36394743	4695599893	Baltimore, Maryland
+42162217	4316081706	Laurel, Maryland
+16080112	3103932471	Annapolis, Maryland
+28705858	5905642798	Bowie, Maryland
+14638514	5517310856	Baltimore, Maryland
+48063379	6040190096	Baltimore, Maryland
+20800764	5095501104	Baltimore, Maryland
+66807182	4045331117	Baltimore, Maryland
+14379617	5683462148	Baltimore, Maryland
+26962931	5718615838	Baltimore, Maryland
+84244845	5992118874	Greenbelt, Maryland
+36405095	5565361334	Baltimore, Maryland
+14778534	5663164197	Bel Air, Maryland
+56459532	3870117555	Fallston, Maryland
+23168404	6233617344	Largo, Maryland
+57640781	2695164701	Hampstead, Maryland
+30510170	5324050830	Baltimore, Maryland
+65244467	6188553048	Bel Air, Maryland
+68783572	4740228993	Eldersburg, Maryland
+83247801	5054969251	Baltimore, Maryland
+74354172	4326191266	Baltimore, Maryland
+41784363	5803250176	Rockville, Maryland
+52795586	3130888698	Baltimore, Maryland
+41915775	5936342134	Montgomery Village, Maryland
+19766494	6020629440	Potomac, Maryland
+17407710	5775157042	Laurel, Maryland
+29466393	3778429199	Mitchellville, Maryland
+18588662	4786620916	Lutherville-Timonium, Maryland
+18460114	5561583220	Baltimore, Maryland
+15839702	5994825249	Frederick, Maryland
+24725877	4884590462	Arnold, Maryland
+18200822	1592764082	Baltimore, Maryland
+69203051	6248812338	Baltimore, Maryland
+15186655	6191353937	Cumberland, Maryland
+17808925	1926465342	Frederick, Maryland
+36290542	4890785332	College Park, Maryland
+40092662	5805182145	Clinton, Maryland
+48612464	6017394904	Waldorf, Maryland
+24627913	6356065611	Baltimore, Maryland
+17157736	5995325054	Rockville, Maryland
+31040090	4419793549	Waldorf, Maryland
+29086980	6214092212	Silver Spring, Maryland
+18995389	5623569758	Baltimore, Maryland
+25549480	5559399380	Baltimore, Maryland
+61595948	5069506180	Rockville, Maryland
+15458789	5369115914	Baltimore, Maryland
+17165290	5638747091	Frederick, Maryland
+27651218	5893953310	Frederick, Maryland
+40539987	5161342999	Baltimore, Maryland
+17296676	3543023526	Bethesda, Maryland
+14140913	5765827257	Bethesda, Maryland
+33158416	5036947122	Baltimore, Maryland
+29312090	6130520641	Baltimore, Maryland
+30408159	5969095242	Silver Spring, Maryland
+30429183	4046507961	Columbia, Maryland
+31114872	4045000687	Baltimore, Maryland
+16837993	4004556477	Silver Spring, Maryland
+51447929	4023376228	Columbia, Maryland
+44109822	4051899613	Baltimore, Maryland
+23145139	3245728420	Salisbury, Maryland
+74546143	4015098203	Baltimore, Maryland
+17951238	4178282357	Catonsville, Maryland
+22145959	4006607220	Annapolis, Maryland
+25536512	3955968425	Baltimore, Maryland
+51509726	3991551801	Towson, Maryland
+27393422	4039765571	Largo, Maryland
+30761904	4002007243	Hyattsville, Maryland
+19023981	2392511605	Baltimore, Maryland
+25716367	3983552454	Baltimore, Maryland
+19046197	3277919705	Rockville, Maryland
+23249092	4059661188	Baltimore, Maryland
+11724792	4111859638	Lexington Park, Maryland
+44232215	4371867315	Jessup, Maryland
+21169501	4083992731	Waldorf, Maryland
+18736652	4012256402	Greenbelt, Maryland
+14904123	4009635552	Baltimore, Maryland
+21211199	3922773646	Frederick, Maryland
+19126314	4042333162	Olney, Maryland
+17142019	3987096247	Baltimore, Maryland
+16095774	4128069683	Arbutus, Maryland
+17363800	3178607115	Ocean City, Maryland
+19248430	3840055707	Baltimore, Maryland
+16103606	3979829885	Largo, Maryland
+19254696	4308865736	Baltimore, Maryland
+61203165	3697729426	Baltimore, Maryland
+29753506	4067303639	Adelphi, Maryland
+19273090	4093126871	Towson, Maryland
+24562451	4400267350	Baltimore, Maryland
+15137647	4036454409	Gaithersburg, Maryland
+15149783	4006630198	Bowie, Maryland
+35083521	4085205426	Crofton, Maryland
+51866050	4089715981	Baltimore, Maryland
+43047848	4040041849	Baltimore, Maryland
+26472704	4338756318	Silver Spring, Maryland
+25869090	4345929773	Shady Side, Maryland
+58885920	4114344895	Elkton, Maryland
+41420063	4411525072	Lexington Park, Maryland
+39333264	4094006771	Frostburg, Maryland
+55064829	4105936794	Frederick, Maryland
+14209299	3889637855	Bowie, Maryland
+16321668	3731420281	Baltimore, Maryland
+14233007	3869767439	Greenbelt, Maryland
+20544907	4109557115	Salisbury, Maryland
+21599590	3929049458	Bel Air, Maryland
+17413716	2175339074	Baltimore, Maryland
+30014084	4042200477	Baltimore, Maryland
+24771382	4331280347	Baltimore, Maryland
+15355909	4056955824	Westminster, Maryland
+19562117	4104403499	Baltimore, Maryland
+19573833	4085867042	Baltimore, Maryland
+43694451	3948543843	Ocean City, Maryland
+17498381	4341862856	Baltimore, Maryland
+11829842	3916668917	Elkton, Maryland
+20647853	4029978321	Baltimore, Maryland
+16453614	4138347706	Baltimore, Maryland
+17502915	4126633622	Baltimore, Maryland
+23795508	4084337907	Waldorf, Maryland
+18565834	4104139724	Montgomery Village, Maryland
+31152367	4410426506	Baltimore, Maryland
+31165151	1519157708	Fallston, Maryland
+76266628	4166999009	Baltimore, Maryland
+19670791	4089299833	Baltimore, Maryland
+16526591	4057177863	Annapolis, Maryland
+36475140	3732261332	Bel Air, Maryland
+21286600	4065495418	Baltimore, Maryland
+76346570	4173814262	Salisbury, Maryland
+21832927	4328607946	Baltimore, Maryland
+14500735	4039744195	Bel Air, Maryland
+17667594	3988549778	Frederick, Maryland
+36543524	4132696109	Columbia, Maryland
+16824623	4108504247	Baltimore, Maryland
+69058034	3949543408	Bethesda, Maryland
+19781045	3943273068	Baltimore, Maryland
+22932921	1322542864	Baltimore, Maryland
+55442876	4047785948	Baltimore, Maryland
+24001170	4299824555	Baltimore, Maryland
+56429949	4094941868	Baltimore, Maryland
+42680682	3952934606	Baltimore, Maryland
+26135291	4301332537	Baltimore, Maryland
+14601453	4171497647	Laurel, Maryland
+74400205	4001089292	Baltimore, Maryland
+23033641	4097341352	Baltimore, Maryland

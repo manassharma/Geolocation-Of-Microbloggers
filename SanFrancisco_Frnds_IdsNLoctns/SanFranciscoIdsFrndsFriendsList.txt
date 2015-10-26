@@ -1,0 +1,1851 @@
+18	Adam	United States	12096202	emilynussbaum	
+18	Adam	United States	559985672	Virool	San Francisco
+18	Adam	United States	36743910	CornelWest	Princeton, NJ
+18	Adam	United States	2916305152	Snowden	
+18	Adam	United States	65448844	KayleeHartung	
+18	Adam	United States	5017	joshu	Silicon Valley
+18	Adam	United States	44196397	elonmusk	1 AU
+18	Adam	United States	1094231148	missmoontaxi	los angeles
+18	Adam	United States	19766751	joell	San Francisco
+18	Adam	United States	13298072	TeslaMotors	
+18	Adam	United States	34743251	SpaceX	Hawthorne, CA
+18	Adam	United States	3315623422	BuzzFeedNFL	New York, NY
+18	Adam	United States	1951814173	ElectricObjects	New York, NY
+18	Adam	United States	14348157	crampell	Here and there. Usually NYC.
+18	Adam	United States	46954727	FATJEW	
+18	Adam	United States	515034648	theskimm	
+18	Adam	United States	17681505	max_read	
+18	Adam	United States	481943972	aeonmag	
+18	Adam	United States	3224616765	techinsider	New York, USA
+18	Adam	United States	370871493	VICESports	United States
+18	Adam	United States	40104936	ESPYS	Microsoft Theater, Los Angeles
+18	Adam	United States	38	florian	Berlin, Germany
+18	Adam	United States	19113374	DVNJr	Miami
+18	Adam	United States	11666142	joshuatopolsky	Brooklyn, NY.
+18	Adam	United States	136220221	mollylambert	Los Angeles California
+18	Adam	United States	37238862	philosophybites	Oxford  & London UK
+18	Adam	United States	3070721	otawakol	Los Altos, CA
+18	Adam	United States	9273802	profgalloway	NYC
+18	Adam	United States	504897306	BuzzFeedSports	New York, NY
+18	Adam	United States	1236101	BenedictEvans	San Francisco
+18	Adam	United States	652193	mgsiegler	San Francisco, CA
+18	Adam	United States	16099291	JasonHirschhorn	New York
+18	Adam	United States	8523072	youstra	Bay Area
+18	Adam	United States	13418072	stevesi	USA
+18	Adam	United States	193387870	itsmikemags	West Hartford, CT
+18	Adam	United States	131144091	Goldman44	Washington, D.C.
+18	Adam	United States	1536791610	POTUS	Washington, D.C.
+18	Adam	United States	1979921	joshelman	Silicon Valley, CA
+18	Adam	United States	18248647	adexchanger	New York City, NY
+18	Adam	United States	24230606	silvanadifranco	
+18	Adam	United States	11340982	zefrank	los angeles
+18	Adam	United States	139162440	pattonoswalt	Los Angeles
+18	Adam	United States	14231571	marcoarment	Hastings on Hudson, NY, USA
+18	Adam	United States	15822996	CTomezsko	Boston, MA
+18	Adam	United States	3108045010	fakeproducthunt	San Francisco, CA
+18	Adam	United States	1233663476	stratechery	
+13108492	nik_nik	Livermore, CA	319238471	SKCRealtors	Bellevue, WA
+13108492	nik_nik	Livermore, CA	442499749	JumpfitnessNow	
+13108492	nik_nik	Livermore, CA	15234461	BrianCDickinson	Washington, USA
+13108492	nik_nik	Livermore, CA	14717311	BreneBrown	University of Houston
+13108492	nik_nik	Livermore, CA	368070987	leawaide	Hermosa Beach
+13108492	nik_nik	Livermore, CA	27921336	livedowntown	Livermore, CA
+13108492	nik_nik	Livermore, CA	20696400	Zepphead	Ottawa
+13108492	nik_nik	Livermore, CA	248881665	LHF_Loans	Concord, CA
+13108492	nik_nik	Livermore, CA	425805096	witsupcom	
+13108492	nik_nik	Livermore, CA	68830818	AntonySargent	New York, NY
+13108492	nik_nik	Livermore, CA	16204520	simplisticpro	40.255588,-76.877092
+13108492	nik_nik	Livermore, CA	22234752	hardsell	Mt Eden, Auckland, NZ
+13108492	nik_nik	Livermore, CA	772326415	LeverageRE	Global
+13108492	nik_nik	Livermore, CA	3105476184	danvilleliving	
+13108492	nik_nik	Livermore, CA	55689677	DanethaDoe	Oakland, CA 
+13108492	nik_nik	Livermore, CA	3111019827	Showmeflare	Reno, NV
+13108492	nik_nik	Livermore, CA	114441819	EssOils4Health	The Hague, The Netherlands
+13108492	nik_nik	Livermore, CA	759718885	LPS_Show	Shanghai, Beijing, Guangzhou
+13108492	nik_nik	Livermore, CA	376135998	MassimoCw	San Francisco
+13108492	nik_nik	Livermore, CA	47865477	performbetter	San Francisco, CA
+13108492	nik_nik	Livermore, CA	24735775	Eyegaze	World Wide
+13108492	nik_nik	Livermore, CA	14283832	ginatufano	Loudoun County
+13108492	nik_nik	Livermore, CA	14615195	Blendtec	Orem, UT
+13108492	nik_nik	Livermore, CA	2758700266	lovesoulstyle	metropolitan DC
+13108492	nik_nik	Livermore, CA	35875719	mvulanich	San Francisco, CA
+13108492	nik_nik	Livermore, CA	1729299907	lizzydminis	Pleasanton, Ca
+13108492	nik_nik	Livermore, CA	70793917	FINISswim	SIMPLIFY SWIMMING
+13108492	nik_nik	Livermore, CA	18151987	DryCreekVnyd	Healdsburg
+13108492	nik_nik	Livermore, CA	293338829	MyPowertalk	Sweden
+13108492	nik_nik	Livermore, CA	2840655008	nexthomere	
+13108492	nik_nik	Livermore, CA	395988628	MattRussellTri	-Skechers & Falco Bike
+13108492	nik_nik	Livermore, CA	181130447	HenriFrankGroup	Fort Lauderdale, Florida, USA
+13108492	nik_nik	Livermore, CA	196006219	live4morefudge	Livermore California
+13108492	nik_nik	Livermore, CA	86972419	MrDrewScott	Los Angeles 
+13108492	nik_nik	Livermore, CA	235157481	MrSilverScott	Las Vegas, NV
+13108492	nik_nik	Livermore, CA	552436139	RealtorCocoTan	
+13108492	nik_nik	Livermore, CA	80132931	susanglegacki	San Francisco, CA
+13108492	nik_nik	Livermore, CA	17936460	paigedunn	San Francisco, CA
+13108492	nik_nik	Livermore, CA	1684305145	fuelmcollective	San Francisco
+13108492	nik_nik	Livermore, CA	824109636	WomenRaces	
+13108492	nik_nik	Livermore, CA	38026874	Ventureneer	New York, NY
+13108492	nik_nik	Livermore, CA	18317058	HennArtOnline	West Hollywood, CA
+14016612	Kevin_Chu	San Francisco, CA	2830104606	FuquaAlumni	Durham, NC
+14016612	Kevin_Chu	San Francisco, CA	108429242	mscannjr	San Francisco, USA
+14016612	Kevin_Chu	San Francisco, CA	60920001	ryankaz42	DC Metro
+14016612	Kevin_Chu	San Francisco, CA	5568612	ryanspoon	Bristol, CT
+14016612	Kevin_Chu	San Francisco, CA	210000447	_jburke_	
+14016612	Kevin_Chu	San Francisco, CA	110319875	savagetw	33.502916,-86.812905
+14016612	Kevin_Chu	San Francisco, CA	24832201	DukeAlumni	Durham, NC
+14016612	Kevin_Chu	San Francisco, CA	64844802	a16z	Silicon Valley
+14016612	Kevin_Chu	San Francisco, CA	16242081	bhorowitz	Menlo Park, CA
+14016612	Kevin_Chu	San Francisco, CA	72632741	smoothimpact	UK
+14016612	Kevin_Chu	San Francisco, CA	357908674	hamptoncreek	USA
+14016612	Kevin_Chu	San Francisco, CA	13418072	stevesi	USA
+14016612	Kevin_Chu	San Francisco, CA	18991681	jmealins	San Francisco, CA
+14016612	Kevin_Chu	San Francisco, CA	2178690324	PDXTechGirl	Portland, OR
+14016612	Kevin_Chu	San Francisco, CA	316701228	Duke_FB	Wallace Wade Stadium
+14016612	Kevin_Chu	San Francisco, CA	22494516	mcten	Cleveland, OH
+14016612	Kevin_Chu	San Francisco, CA	21335124	DavidCutcliffe	Durham, NC
+14016612	Kevin_Chu	San Francisco, CA	312867608	JJRedick	Los Angeles, CA
+14016612	Kevin_Chu	San Francisco, CA	30020556	DukeNews	Durham, N.C.
+14016612	Kevin_Chu	San Francisco, CA	78183672	DickieV	Sports Events Worldwide
+14016612	Kevin_Chu	San Francisco, CA	241271737	bluedevilsvoice	Durham, NC USA
+14016612	Kevin_Chu	San Francisco, CA	26257166	SportsCenter	Bristol, CT
+14016612	Kevin_Chu	San Francisco, CA	21492157	DukeReport	
+14016612	Kevin_Chu	San Francisco, CA	445629296	AAubrecht	
+14016612	Kevin_Chu	San Francisco, CA	455476614	kieranblue4	
+14016612	Kevin_Chu	San Francisco, CA	10718052	gandhim2001	San Francisco
+14016612	Kevin_Chu	San Francisco, CA	19733910	ramijabaji	Portland, OR
+14016612	Kevin_Chu	San Francisco, CA	17929114	Pardot	Atlanta, GA
+14016612	Kevin_Chu	San Francisco, CA	234795062	peeinpeace	United States
+14016612	Kevin_Chu	San Francisco, CA	61297162	DukeFuqua	US-Russia-UK-China-India-UAE
+14016612	Kevin_Chu	San Francisco, CA	5883422	ShashiAJE	
+14016612	Kevin_Chu	San Francisco, CA	58526833	ChrisPMorgan	Los Angeles, CA
+14016612	Kevin_Chu	San Francisco, CA	285311730	Tanium	Emeryville, CA
+14016612	Kevin_Chu	San Francisco, CA	10888562	andrewshriner	San Francisco
+14016612	Kevin_Chu	San Francisco, CA	10760422	daringfireball	
+14016612	Kevin_Chu	San Francisco, CA	24019308	iTunesTrailers	Cupertino, CA
+14016612	Kevin_Chu	San Francisco, CA	28394317	joshtetrick	US
+14016612	Kevin_Chu	San Francisco, CA	15800121	dukebasketball	Durham, NC
+14016612	Kevin_Chu	San Francisco, CA	14049429	davidcummings	Atlanta, GA
+14016612	Kevin_Chu	San Francisco, CA	7535092	mkoidin	San Francisco, CA
+14016612	Kevin_Chu	San Francisco, CA	36769504	jeffcapel	
+14016612	Kevin_Chu	San Francisco, CA	16228398	mcuban	
+14016612	Kevin_Chu	San Francisco, CA	33593767	BlueDevilNation	The corner of Cameron and Wade
+14016612	Kevin_Chu	San Francisco, CA	108318595	karabellespn	
+14016612	Kevin_Chu	San Francisco, CA	40892016	JayBilas	
+14016612	Kevin_Chu	San Francisco, CA	94457225	ShaneBattier	
+14016612	Kevin_Chu	San Francisco, CA	85961526	ESPNAndyKatz	Connecticut
+14016612	Kevin_Chu	San Francisco, CA	36377120	coach_collins	Evanston, IL
+14016612	Kevin_Chu	San Francisco, CA	131583995	KayceeShoe	
+14016612	Kevin_Chu	San Francisco, CA	36716758	TheMisOrock	Durham, NC
+14016612	Kevin_Chu	San Francisco, CA	77117012	RealJayWilliams	New Kennedy
+14016612	Kevin_Chu	San Francisco, CA	60482760	alexkarweit	San Francisco, CA
+14016612	Kevin_Chu	San Francisco, CA	18657721	Looukey	Location
+14016612	Kevin_Chu	San Francisco, CA	39752902	perryl7	Charlotte, NC
+14016612	Kevin_Chu	San Francisco, CA	14248451	Joshmedia	Bay Area
+14016612	Kevin_Chu	San Francisco, CA	14416376	howierhee	Durham, NC
+14016612	Kevin_Chu	San Francisco, CA	85320282	gregvirgin	DC
+14016612	Kevin_Chu	San Francisco, CA	16406770	torit8	San Francisco
+14016612	Kevin_Chu	San Francisco, CA	92163308	kbhucks	Ann Arbor, MI
+14016612	Kevin_Chu	San Francisco, CA	74661024	DBRTweetz	
+14016612	Kevin_Chu	San Francisco, CA	49145991	Maskedcav	Chicago, IL
+14016612	Kevin_Chu	San Francisco, CA	35736539	ChristianHunt	Durham, NC
+14016612	Kevin_Chu	San Francisco, CA	15799205	chroniclesports	Durham, NC
+14016612	Kevin_Chu	San Francisco, CA	17299063	PTI	Washington, DC
+14016612	Kevin_Chu	San Francisco, CA	816653	TechCrunch	San Francisco, CA
+14016612	Kevin_Chu	San Francisco, CA	807095	nytimes	New York City
+14016612	Kevin_Chu	San Francisco, CA	18272699	dukeblueplanet	Cameron Indoor
+14016612	Kevin_Chu	San Francisco, CA	31160294	steve_wojo	Marquette University
+14016612	Kevin_Chu	San Francisco, CA	19058681	aplusk	Los Angeles, California
+14016612	Kevin_Chu	San Francisco, CA	21136788	DukeChronicle	Durham, NC / 301 Flowers Bldg.
+14016612	Kevin_Chu	San Francisco, CA	20009073	andrewemerson	Chicago
+14016612	Kevin_Chu	San Francisco, CA	22941377	craigchu	LIC, NY
+14016612	Kevin_Chu	San Francisco, CA	18451753	DukeMonty	VA
+14016612	Kevin_Chu	San Francisco, CA	18196317	TheBencuya	Istanbul Turkey
+14016612	Kevin_Chu	San Francisco, CA	15410614	bbrenman	Oakland, California
+14016612	Kevin_Chu	San Francisco, CA	14703544	jherbold	Nashville, TN
+14016612	Kevin_Chu	San Francisco, CA	11151452	jnpayne	Santa Monica, CA
+14016612	Kevin_Chu	San Francisco, CA	18103332	vibhor_chhabra	San Francisco, CA
+85984592	tiffanyjow	New York	21145236	GrahamFound	Chicago, IL
+85984592	tiffanyjow	New York	176817798	WayneMcGregor	London
+85984592	tiffanyjow	New York	21796484	nyphil	David Geffen Hall
+85984592	tiffanyjow	New York	16579941	SymphonySpace	Broadway at 95th St, NYC
+85984592	tiffanyjow	New York	821704196	DezeenJobs	
+85984592	tiffanyjow	New York	519729774	travelerstone	Singapore & Washington, DC
+85984592	tiffanyjow	New York	77228365	aileenkwun	Brooklyn, NY
+85984592	tiffanyjow	New York	26772872	Clocktower_NYC	New York City
+85984592	tiffanyjow	New York	102793896	PaceGallery	
+85984592	tiffanyjow	New York	238610854	Kasmingallery	New York
+85984592	tiffanyjow	New York	625748268	PioneerWorks_	New York, NY
+85984592	tiffanyjow	New York	597726943	JRart	somewhere around you
+18220767	BenefitBeauty	San Francisco, CA	19105253	Allibally	By the Lake, WI
+18220767	BenefitBeauty	San Francisco, CA	3229174429	vivianchan_ofl	Los Angeles, CA
+18220767	BenefitBeauty	San Francisco, CA	27466653	ZozeeBo	
+18220767	BenefitBeauty	San Francisco, CA	21075246	itsjudytime	Seattle
+18220767	BenefitBeauty	San Francisco, CA	44197832	christendtweets	Los Angeles, CA
+18220767	BenefitBeauty	San Francisco, CA	1589828544	KathleenLights1	Residence Lambert
+18220767	BenefitBeauty	San Francisco, CA	2300629838	lustrelux	
+18220767	BenefitBeauty	San Francisco, CA	163698079	ItsAlyssaShouse	
+18220767	BenefitBeauty	San Francisco, CA	233468520	BrandyUSA	
+18220767	BenefitBeauty	San Francisco, CA	14813088	OlgaKay	Los Angeles
+18220767	BenefitBeauty	San Francisco, CA	105018139	MollyBSims	New York
+18220767	BenefitBeauty	San Francisco, CA	158224477	carlibybel	New Jersey
+18220767	BenefitBeauty	San Francisco, CA	2282797938	SsssamanthaaMUA	Vancouver, BC
+18220767	BenefitBeauty	San Francisco, CA	2457838400	ourfazinali	Los Angeles
+18220767	BenefitBeauty	San Francisco, CA	225540697	jackieaina	Los Angeles
+18220767	BenefitBeauty	San Francisco, CA	297744975	aurelianja	
+18220767	BenefitBeauty	San Francisco, CA	28659242	SharknadoSyfy	
+18220767	BenefitBeauty	San Francisco, CA	3351484655	Sophia_McNevin	
+18220767	BenefitBeauty	San Francisco, CA	21734298	frankiemuniz	Scottsdale, AZ
+18220767	BenefitBeauty	San Francisco, CA	1596282583	KellyColbourne	Orlando, FL
+18220767	BenefitBeauty	San Francisco, CA	277165873	NMoralesNBC	New York, NY
+18220767	BenefitBeauty	San Francisco, CA	16379018	alroker	New York, NY
+18220767	BenefitBeauty	San Francisco, CA	52070270	SavannahGuthrie	New York, NY
+18220767	BenefitBeauty	San Francisco, CA	132540959	mark_mcgrath	
+18220767	BenefitBeauty	San Francisco, CA	607289206	MLauer	New York, NY
+18220767	BenefitBeauty	San Francisco, CA	80676273	KathieLGifford	
+18220767	BenefitBeauty	San Francisco, CA	79238164	klgandhoda	New York City, NY
+18220767	BenefitBeauty	San Francisco, CA	300506276	jerryspringer	
+18220767	BenefitBeauty	San Francisco, CA	24291858	hollymadison	LA and Las Vegas
+18220767	BenefitBeauty	San Francisco, CA	108797271	KimRichards11	Beverly Hills
+18220767	BenefitBeauty	San Francisco, CA	16228398	mcuban	
+18220767	BenefitBeauty	San Francisco, CA	794046896	boderek	California
+18220767	BenefitBeauty	San Francisco, CA	26895879	NeYoCompound	
+18220767	BenefitBeauty	San Francisco, CA	2409543974	snapchatsupport	Venice, CA
+18220767	BenefitBeauty	San Francisco, CA	376502929	Snapchat	Venice, CA
+18220767	BenefitBeauty	San Francisco, CA	28198365	BroganBurnside	Hollywood, CA
+18220767	BenefitBeauty	San Francisco, CA	186630811	SariCarpenter	221B Baker Street
+18220767	BenefitBeauty	San Francisco, CA	15460081	jennettemccurdy	
+18220767	BenefitBeauty	San Francisco, CA	292432955	xojanedotcom	New York, NY
+18220767	BenefitBeauty	San Francisco, CA	22946239	Astridbryan	Los Angeles 
+18220767	BenefitBeauty	San Francisco, CA	1681001677	JadedLegit	
+18220767	BenefitBeauty	San Francisco, CA	24053341	PretttyinPINK	SATX/ATX
+18220767	BenefitBeauty	San Francisco, CA	369238299	Jaclynhill	
+18220767	BenefitBeauty	San Francisco, CA	249837130	essayareayaitch	
+18220767	BenefitBeauty	San Francisco, CA	303047324	MoeMunyMoeProbs	Seattle, Washington
+18220767	BenefitBeauty	San Francisco, CA	204522549	hello_misssarah	cincinnati, ohio
+18220767	BenefitBeauty	San Francisco, CA	2757632622	sherissaliezl	
+18220767	BenefitBeauty	San Francisco, CA	24936819	jbutlerames	Halifax, NS
+18220767	BenefitBeauty	San Francisco, CA	144902475	maggiehafertepe	Cordova, Alaska
+18220767	BenefitBeauty	San Francisco, CA	546795050	Raerae_t13	
+18220767	BenefitBeauty	San Francisco, CA	369828742	MollySchab	Getting coffee.
+18220767	BenefitBeauty	San Francisco, CA	58905923	_reenie3	Yay Area
+18220767	BenefitBeauty	San Francisco, CA	221602211	Melissinthecity	NY, NY
+18220767	BenefitBeauty	San Francisco, CA	49808842	amberphillippe	Omaha,Ne
+17565481	theKatDowns	San Francisco, CA	3280267670	DavidH92307375	
+17565481	theKatDowns	San Francisco, CA	37485324	Broadess	San Francisco
+17565481	theKatDowns	San Francisco, CA	145074779	MColleenEgan	Bay Area
+17565481	theKatDowns	San Francisco, CA	342296018	SageHarrington	Albuquerque, NM, USA
+17565481	theKatDowns	San Francisco, CA	3014890203	MusicBzWorkshop	
+17565481	theKatDowns	San Francisco, CA	3257495474	AmberilloTX	Euless, TX
+17565481	theKatDowns	San Francisco, CA	3146986499	GeopopsInc	Cupertino, CA
+17565481	theKatDowns	San Francisco, CA	210651170	DScottyP	USA
+17565481	theKatDowns	San Francisco, CA	3153754263	FocalGlowMedia	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	3220655587	booking_sk	NORTHERN CALIFORNIA
+17565481	theKatDowns	San Francisco, CA	822179964	thezoolabs	Oakland, CA, USA
+17565481	theKatDowns	San Francisco, CA	3120889992	thelovelywise	San Francisco
+17565481	theKatDowns	San Francisco, CA	2996408371	PeriscopeBand	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	34731563	olaine	oaklandsburg (510/718)
+17565481	theKatDowns	San Francisco, CA	1730943847	giveit100	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	3079807188	MacabreHaywood	
+17565481	theKatDowns	San Francisco, CA	2233154425	StephenKing	
+17565481	theKatDowns	San Francisco, CA	2372164754	MeCookieMonster	Sesame Street
+17565481	theKatDowns	San Francisco, CA	882838615	BigBird	Sesame Street
+17565481	theKatDowns	San Francisco, CA	2975638762	goldlionsf	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	3035228561	MizzLaLou	
+17565481	theKatDowns	San Francisco, CA	73244642	thelindywest	Seattle
+17565481	theKatDowns	San Francisco, CA	59118621	G2Muzik	Oakland, CA
+17565481	theKatDowns	San Francisco, CA	337585503	alexibelchere	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	14515351	RGinterweb	San Francisco & Baltimore
+17565481	theKatDowns	San Francisco, CA	1554670884	BFFdotFM	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	46437481	rickshawstopsf	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	16266187	thebaybridged	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	123977615	emmaruthless	San Francisco
+17565481	theKatDowns	San Francisco, CA	1668880082	cowboyglamrock	San Francisco
+17565481	theKatDowns	San Francisco, CA	2167013742	WEMFRadio	Cambridge/Boston MA
+17565481	theKatDowns	San Francisco, CA	463067136	bicyclepunk	Pacific Northwest
+17565481	theKatDowns	San Francisco, CA	2841780139	cmtweety626262	
+17565481	theKatDowns	San Francisco, CA	16265255	DanAgins	Pawcatuck, CT
+17565481	theKatDowns	San Francisco, CA	2880048908	drummerthompson	Oakland, CA
+17565481	theKatDowns	San Francisco, CA	402775657	PerksandCorks	Westerly, RI
+17565481	theKatDowns	San Francisco, CA	38189469	paslounge	Somerville, MA
+17565481	theKatDowns	San Francisco, CA	2830736150	Pobbyh	San Francisco
+17565481	theKatDowns	San Francisco, CA	18147559	DavidOStein	East Bay, CA
+17565481	theKatDowns	San Francisco, CA	8704992	MQmoxie	Wisconsin
+17565481	theKatDowns	San Francisco, CA	739934808	aditzoy86	Romania
+17565481	theKatDowns	San Francisco, CA	21513850	luckyloungeatx	209a West 5th Street 
+17565481	theKatDowns	San Francisco, CA	541180837	Phlipstyle	
+17565481	theKatDowns	San Francisco, CA	1249730778	loveatxmusic	
+17565481	theKatDowns	San Francisco, CA	577406690	yogawithadriene	Austin, TX
+17565481	theKatDowns	San Francisco, CA	23544268	OfficialKat	
+17565481	theKatDowns	San Francisco, CA	22573119	EmptyMirror	Bellingham WA
+17565481	theKatDowns	San Francisco, CA	2570874992	strangegroove	San Jose, CA
+17565481	theKatDowns	San Francisco, CA	85401970	billyjoel	New York
+17565481	theKatDowns	San Francisco, CA	315841969	TheVirgoMindd	Baltimore
+17565481	theKatDowns	San Francisco, CA	2439160207	StuartBousel	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	22232916	ashleynchaney	Hollywood
+17565481	theKatDowns	San Francisco, CA	815702120	SanFranLand	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	15249156	drhorrible	Los Angeles, CA
+17565481	theKatDowns	San Francisco, CA	38307603	lhertz	San Francisco
+17565481	theKatDowns	San Francisco, CA	967310318	Church_funnies	
+17565481	theKatDowns	San Francisco, CA	71796971	ClaraSteventh	
+17565481	theKatDowns	San Francisco, CA	614903736	TECHKER	
+17565481	theKatDowns	San Francisco, CA	19380743	GodfreyComedian	New York, NY
+17565481	theKatDowns	San Francisco, CA	38070896	KALXradio	Berkeley, CA
+17565481	theKatDowns	San Francisco, CA	79644001	hey_gizz	
+17565481	theKatDowns	San Francisco, CA	89624644	TBirdTheatre	San Francisco, Chico, Berkeley
+17565481	theKatDowns	San Francisco, CA	23151437	KevinHart4real	Philly/LA
+17565481	theKatDowns	San Francisco, CA	868973923	CareBear0426	Normal, IL
+17565481	theKatDowns	San Francisco, CA	175091719	KarlTheFog	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	18649035	reepercheep	Green Bay, Wisconsin
+17565481	theKatDowns	San Francisco, CA	22770373	planomike	Plano, TX
+17565481	theKatDowns	San Francisco, CA	125834616	p0id	Berkeley, Ca
+17565481	theKatDowns	San Francisco, CA	132606413	Blumenreich_Law	Phoenix, Arizona
+17565481	theKatDowns	San Francisco, CA	89059833	IPSOFACTO	San Francisco
+17565481	theKatDowns	San Francisco, CA	5490342	59Kay	Berkeley, CA
+17565481	theKatDowns	San Francisco, CA	1026702655	GoodGuyWithAGun	Where I'm Needed
+17565481	theKatDowns	San Francisco, CA	17919972	taylorswift13	
+17565481	theKatDowns	San Francisco, CA	18912914	pwfoundation	San Francisco
+17565481	theKatDowns	San Francisco, CA	43024351	SFGiants	AT&T Park, San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	1601840088	Shurbur24	
+17565481	theKatDowns	San Francisco, CA	16562949	7x7	San Francisco
+17565481	theKatDowns	San Francisco, CA	275163699	GrillmasterJ	WI
+17565481	theKatDowns	San Francisco, CA	987221040	NoahReif188	De Pere, Wisconsin
+17565481	theKatDowns	San Francisco, CA	44943672	simonpatt	San Fran-tastic
+17565481	theKatDowns	San Francisco, CA	2452321370	NPacificDigital	Tacoma, WA
+17565481	theKatDowns	San Francisco, CA	26257166	SportsCenter	Bristol, CT
+17565481	theKatDowns	San Francisco, CA	14239359	DoerDi	Neenah, WI
+17565481	theKatDowns	San Francisco, CA	152688569	hammeroffunk	Portland, OR
+17565481	theKatDowns	San Francisco, CA	1509602348	NattyJustiniano	San Francisco
+17565481	theKatDowns	San Francisco, CA	337202675	SuperiorViaduct	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	575571401	jadeeffex	
+17565481	theKatDowns	San Francisco, CA	63901837	KerouacDotCom	North Beach, San Francisco
+17565481	theKatDowns	San Francisco, CA	20813935	MrsTad	Santa Cruz
+17565481	theKatDowns	San Francisco, CA	26565946	jtimberlake	Memphis, TN
+17565481	theKatDowns	San Francisco, CA	36490796	Lovebettie	Pittsburgh, Pa
+17565481	theKatDowns	San Francisco, CA	813286	BarackObama	Washington, DC
+17565481	theKatDowns	San Francisco, CA	797086056	GaetanaLee	
+17565481	theKatDowns	San Francisco, CA	452562508	RachelBublitz	Berkeley, CA
+17565481	theKatDowns	San Francisco, CA	70306824	jasmindita	New York
+17565481	theKatDowns	San Francisco, CA	22945669	SNCalumni	De Pere, Wis.
+17565481	theKatDowns	San Francisco, CA	5187921	disembodiedpoet	
+17565481	theKatDowns	San Francisco, CA	51220493	MickLaSalle	San Francisco
+17565481	theKatDowns	San Francisco, CA	621302716	LilyJaniak	San Francisco
+17565481	theKatDowns	San Francisco, CA	27034744	PatriciaMilton	
+17565481	theKatDowns	San Francisco, CA	543920347	KennethRToole	Baxter, Minn.
+17565481	theKatDowns	San Francisco, CA	7284012	nptacek	De Pere, WI
+17565481	theKatDowns	San Francisco, CA	316217971	chappyjuggRnaut	
+17565481	theKatDowns	San Francisco, CA	1469120059	ChardonnaySF	San Francisco
+17565481	theKatDowns	San Francisco, CA	192409386	nativejune	Los Angeles, CA
+17565481	theKatDowns	San Francisco, CA	26398619	cudunko	SAN FRANDISCO
+17565481	theKatDowns	San Francisco, CA	384142464	LauraLundyPaine	SF Bay Area/New York
+17565481	theKatDowns	San Francisco, CA	21000373	Jlynneroberts	San Francisco Bay Area
+17565481	theKatDowns	San Francisco, CA	2581219220	LizzyD0113	
+17565481	theKatDowns	San Francisco, CA	2185659890	MattrixMinute	in your heart
+17565481	theKatDowns	San Francisco, CA	16645699	crawlreno	Reno, NV
+17565481	theKatDowns	San Francisco, CA	69671781	thebolditalic	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	517999354	sfboa	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	19608297	HRC	Washington, DC
+17565481	theKatDowns	San Francisco, CA	17093617	hootsuite	Vancouver, Canada
+17565481	theKatDowns	San Francisco, CA	2303852749	MissionCrit	San Francisco
+17565481	theKatDowns	San Francisco, CA	501215155	Thistlesnicker	Oakland, CA
+17565481	theKatDowns	San Francisco, CA	77610575	wildchildwell	
+17565481	theKatDowns	San Francisco, CA	41672605	theatrebayarea	SF Bay Area
+17565481	theKatDowns	San Francisco, CA	37855524	playgroundsf	San Francisco Bay Area
+17565481	theKatDowns	San Francisco, CA	407919438	EXIT_Theatre	San Francisco 156 Eddy Street
+17565481	theKatDowns	San Francisco, CA	70416594	kylalarosa88	Milwaukee, WI
+17565481	theKatDowns	San Francisco, CA	21447363	katyperry	
+17565481	theKatDowns	San Francisco, CA	190766207	alyssandrakj	Get me out of Wisconsin
+17565481	theKatDowns	San Francisco, CA	473234421	MarinTheatreCo	Mill Valley, CA
+17565481	theKatDowns	San Francisco, CA	24273130	RandomMysticks	United States
+17565481	theKatDowns	San Francisco, CA	264264597	Grimerica	Alberta
+17565481	theKatDowns	San Francisco, CA	363826150	Joe_Lyons40	
+17565481	theKatDowns	San Francisco, CA	455990166	DebraBlanchard	Napa Valley
+17565481	theKatDowns	San Francisco, CA	339961693	thesinginwriter	San Francisco
+17565481	theKatDowns	San Francisco, CA	43398134	slimssf	San Francisco
+17565481	theKatDowns	San Francisco, CA	8491922	selah	SoCal, SA/Nigeria
+17565481	theKatDowns	San Francisco, CA	34337742	grantpatterson	San Francisco
+17565481	theKatDowns	San Francisco, CA	43494423	CentralWorks	Berkeley, Ca
+17565481	theKatDowns	San Francisco, CA	23438664	chipcoffey	Atlanta, but I travel a lot
+17565481	theKatDowns	San Francisco, CA	615160288	Aunt_St_Olive	
+17565481	theKatDowns	San Francisco, CA	2369875675	pathosberkeley	Berkeley, CA
+17565481	theKatDowns	San Francisco, CA	359633447	juristech	San Francisco
+17565481	theKatDowns	San Francisco, CA	26333533	CuttingBall	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	590200139	AwakenedLiving1	San Francisco 
+17565481	theKatDowns	San Francisco, CA	24952226	GRAHAMJAMES	
+17565481	theKatDowns	San Francisco, CA	39434512	LetsStartup_NYC	New York, NY
+17565481	theKatDowns	San Francisco, CA	31560308	missbunch15	San Francisco
+17565481	theKatDowns	San Francisco, CA	400547772	AlliePooks821	Roselle, Il
+17565481	theKatDowns	San Francisco, CA	98630714	fonts2u	world wide web
+17565481	theKatDowns	San Francisco, CA	41887015	_Mr_BenJamin_	Bay Area, Golden State 
+17565481	theKatDowns	San Francisco, CA	134981581	RagnorDerBarBar	De Pere
+17565481	theKatDowns	San Francisco, CA	34303411	monicapasqual	Bay Area, CA
+17565481	theKatDowns	San Francisco, CA	24017141	ShotgunPlayers	1901 Ashby Ave. Berkeley, CA
+17565481	theKatDowns	San Francisco, CA	15846407	TheEllenShow	California
+17565481	theKatDowns	San Francisco, CA	2364752432	Soychilatte	De Pere, WI
+17565481	theKatDowns	San Francisco, CA	372126726	KateJ17	San Francisco
+17565481	theKatDowns	San Francisco, CA	889836614	gooniestorm	
+17565481	theKatDowns	San Francisco, CA	55461251	Mugwumpin	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	14861074	Alice_H	north suburb of Denver, CO
+17565481	theKatDowns	San Francisco, CA	105039946	IPaintMyMind	Chicago, IL
+17565481	theKatDowns	San Francisco, CA	14193053	lpackard	Ann Arbor, Michigan
+17565481	theKatDowns	San Francisco, CA	117834351	tablerasa	
+17565481	theKatDowns	San Francisco, CA	74491872	CustomMadeSF	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	296235439	KiwiTimeBand	San Francisco
+17565481	theKatDowns	San Francisco, CA	455443510	blackfortressoo	Cambridge, MA
+17565481	theKatDowns	San Francisco, CA	380577031	FullServiceRE	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	2186828466	JuanRivera_Oak	Oakland, CA
+17565481	theKatDowns	San Francisco, CA	69898355	sarah_derose	
+17565481	theKatDowns	San Francisco, CA	15165409	sandrajlawson	Philadelphia
+17565481	theKatDowns	San Francisco, CA	124610529	AuroraTheatreCo	2081 Addison Street , Berkeley
+17565481	theKatDowns	San Francisco, CA	376600832	Carlapauli123	San Francisco, Ca
+17565481	theKatDowns	San Francisco, CA	94861313	scottragle	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	24304922	littlellamazing	
+17565481	theKatDowns	San Francisco, CA	8819062	HowlRound	World, Boston, Emerson College
+17565481	theKatDowns	San Francisco, CA	106560907	lexi920	SF
+17565481	theKatDowns	San Francisco, CA	816653	TechCrunch	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	257559058	PermntStarlight	California
+17565481	theKatDowns	San Francisco, CA	30066595	SFEO	San Francisco
+17565481	theKatDowns	San Francisco, CA	16347028	ART21	New York, NY
+17565481	theKatDowns	San Francisco, CA	747246145	robinadairlewis	New York
+17565481	theKatDowns	San Francisco, CA	1705191745	LeahMarieSH	
+17565481	theKatDowns	San Francisco, CA	374824541	RigorousProof	Reno, Nevada
+17565481	theKatDowns	San Francisco, CA	501541912	SweetHayaH	San Jose, CA
+17565481	theKatDowns	San Francisco, CA	400728970	etceteragb2	
+17565481	theKatDowns	San Francisco, CA	12	jack	California, USA
+17565481	theKatDowns	San Francisco, CA	465606788	SHRAPNIHIL	New Orleans, Louisiana
+17565481	theKatDowns	San Francisco, CA	170503135	contentplation	Boulder, CO
+17565481	theKatDowns	San Francisco, CA	836129857	rkroening	Green Bay, Wisconsin
+17565481	theKatDowns	San Francisco, CA	14833310	jaigurudevaom07	
+17565481	theKatDowns	San Francisco, CA	211971090	Nightingveil	
+17565481	theKatDowns	San Francisco, CA	117927937	PlaywrightsSF	San Francisco
+17565481	theKatDowns	San Francisco, CA	738963260	here_is_heather	
+17565481	theKatDowns	San Francisco, CA	72905139	1chillboy	brooklyn, ny
+17565481	theKatDowns	San Francisco, CA	404168488	3GirlsTheatre	San Francisco
+17565481	theKatDowns	San Francisco, CA	6655352	EPW	
+17565481	theKatDowns	San Francisco, CA	14857985	stnorbert	De Pere, Wis.
+17565481	theKatDowns	San Francisco, CA	27195114	Drake	Paradise
+17565481	theKatDowns	San Francisco, CA	34471898	Coplio	San Francisco
+17565481	theKatDowns	San Francisco, CA	326617601	spozbo	Palo Alto, CA
+17565481	theKatDowns	San Francisco, CA	51780775	RecordingMag	Boulder, CO, USA
+17565481	theKatDowns	San Francisco, CA	770294	celsmore	Minnesota, USA
+17565481	theKatDowns	San Francisco, CA	339943813	HeyMissionCTRL	SF
+17565481	theKatDowns	San Francisco, CA	17298881	NFS	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	307680000	BadBatteries	PianoFight, CA
+17565481	theKatDowns	San Francisco, CA	281839866	HerrForce1	Wisconsin
+17565481	theKatDowns	San Francisco, CA	3402141	impacttheatre	Berkeley, CA
+17565481	theKatDowns	San Francisco, CA	343103572	raggedwingens	1540 Broadway, Oakland, CA
+17565481	theKatDowns	San Francisco, CA	6586772	jhames	Seattle, WA
+17565481	theKatDowns	San Francisco, CA	25794985	mkn3891	Hotel California
+17565481	theKatDowns	San Francisco, CA	58490721	jjpall	
+17565481	theKatDowns	San Francisco, CA	47462418	dalester17	
+17565481	theKatDowns	San Francisco, CA	1017493112	MaiaChevalier	
+17565481	theKatDowns	San Francisco, CA	183105014	RadioValenciaSF	The Mission, San Francisco
+17565481	theKatDowns	San Francisco, CA	403717799	LittleWarTwins	Earth Dwellers
+17565481	theKatDowns	San Francisco, CA	578307172	Aliotos8sf	
+17565481	theKatDowns	San Francisco, CA	7027262	marlinex	Woodland, CA
+17565481	theKatDowns	San Francisco, CA	55142070	gcw888	
+17565481	theKatDowns	San Francisco, CA	14470601	hthespy	California
+17565481	theKatDowns	San Francisco, CA	113171746	catd219	
+17565481	theKatDowns	San Francisco, CA	24780926	suzemallen	San Francisco
+17565481	theKatDowns	San Francisco, CA	18364072	Le_Beard	Sconnie born and bred.
+17565481	theKatDowns	San Francisco, CA	612699694	Mr_JSpike	
+17565481	theKatDowns	San Francisco, CA	263735734	benlegacyares	Appleton, WI
+17565481	theKatDowns	San Francisco, CA	21924518	MagicTheatre	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	101238812	crystallecry	Berlin
+17565481	theKatDowns	San Francisco, CA	27784317	bridgespowerlns	various parts of nyc
+17565481	theKatDowns	San Francisco, CA	2518111366	fvckmoee	what you looking at? 
+17565481	theKatDowns	San Francisco, CA	109702390	sfmta_muni	San Francisco, CA
+17565481	theKatDowns	San Francisco, CA	529693558	sftheaterpub	San Francisco Bay Area 
+17565481	theKatDowns	San Francisco, CA	320839125	SNCDeltaUpsilon	St. Norbert College 
+17565481	theKatDowns	San Francisco, CA	966905598	awordfromLaura	
+31590281	wfarner	San Francisco, CA	29442313	SenSanders	Vermont/DC
+31590281	wfarner	San Francisco, CA	1503176424	BobboBeats	
+31590281	wfarner	San Francisco, CA	53310693	SEJeff	Chicago, IL
+31590281	wfarner	San Francisco, CA	15504330	wm	San Francisco, CA
+31590281	wfarner	San Francisco, CA	1648999932	asynchio	
+31590281	wfarner	San Francisco, CA	266861076	ndwns	
+31590281	wfarner	San Francisco, CA	95129096	steveniemitz	
+31590281	wfarner	San Francisco, CA	11739102	jinen	
+31590281	wfarner	San Francisco, CA	353789193	StartupLJackson	SoMa
+31590281	wfarner	San Francisco, CA	28440007	derfloh	48.125361,11.665533
+31590281	wfarner	San Francisco, CA	126146818	Chef_Keller	Yountville, CA
+31590281	wfarner	San Francisco, CA	293850289	altonbrown	Everywhere
+31590281	wfarner	San Francisco, CA	197703138	jacques_pepin	
+31590281	wfarner	San Francisco, CA	178949793	cloudclint	
+31590281	wfarner	San Francisco, CA	52919547	bryanvann	
+31590281	wfarner	San Francisco, CA	1333441	jaybuff	San Francisco
+31590281	wfarner	San Francisco, CA	74546045	northern_brewer	Twin Cities MN & Milwaukee WI
+31590281	wfarner	San Francisco, CA	14203080	heyjoshua	
+31590281	wfarner	San Francisco, CA	46177695	Walgreens	Chicago, IL
+31590281	wfarner	San Francisco, CA	14075928	TheOnion	
+31590281	wfarner	San Francisco, CA	14075928	TheOnion	
+31590281	wfarner	San Francisco, CA	261269151	GreenStreets	San Francisco Bay Area
+31590281	wfarner	San Francisco, CA	28850699	jchmartin	
+31590281	wfarner	San Francisco, CA	135145368	allthingshadoop	
+31590281	wfarner	San Francisco, CA	813286	BarackObama	Washington, DC
+31590281	wfarner	San Francisco, CA	189319987	djwaynenoel	San Francisco, CA
+31590281	wfarner	San Francisco, CA	32197613	dmcg	San Francisco, CA
+31590281	wfarner	San Francisco, CA	193785644	RumsfeldOffice	Washington, D.C.
+31590281	wfarner	San Francisco, CA	1132994426	BiIIMurray	Everywhere
+31590281	wfarner	San Francisco, CA	930223086	PartsUnknownCNN	
+31590281	wfarner	San Francisco, CA	20008688	infrabot	
+31590281	wfarner	San Francisco, CA	314691129	exoscale	Switzerland
+31590281	wfarner	San Francisco, CA	544832027	WKerbusch	Strongsville, OH
+31590281	wfarner	San Francisco, CA	80096621	BryanCranston	Los Angeles, CA
+31590281	wfarner	San Francisco, CA	500042487	SteveCarell	Los Angeles
+31590281	wfarner	San Francisco, CA	87985669	tc	
+31590281	wfarner	San Francisco, CA	25866943	tweek_sf	denver, co
+31590281	wfarner	San Francisco, CA	1152279248	EarthPix	Instagram - @EarthPix 
+31590281	wfarner	San Francisco, CA	17374137	EricaEG	Oakland, CA
+31590281	wfarner	San Francisco, CA	627799297	iamkidpresident	Tiny Oval Office
+31590281	wfarner	San Francisco, CA	2773111	davelester	San Francisco, CA
+31590281	wfarner	San Francisco, CA	2342486593	AuroraScheduler	
+31590281	wfarner	San Francisco, CA	158519059	angrywickman	
+31590281	wfarner	San Francisco, CA	67157704	rootmetrics	Bellevue
+31590281	wfarner	San Francisco, CA	1306401470	ChopShopButler	Butler, PA
+31590281	wfarner	San Francisco, CA	1255218984	recruiterbro	Silicon Valley
+31590281	wfarner	San Francisco, CA	1582853809	HistoryInPics	
+31590281	wfarner	San Francisco, CA	321533631	jayalllen	
+31590281	wfarner	San Francisco, CA	15338721	suzieqshdo	San Francisco, CA
+31590281	wfarner	San Francisco, CA	24996939	MaryLynnRajskub	marylynnstandup.com
+31590281	wfarner	San Francisco, CA	22544911	ders808	los angeles
+31590281	wfarner	San Francisco, CA	61019901	csong	San Francisco
+31590281	wfarner	San Francisco, CA	40340735	trichris	San Francisco, CA
+31590281	wfarner	San Francisco, CA	491663846	hutorrr	
+31590281	wfarner	San Francisco, CA	1263967268	HackerNewsOnion	Mountain Dew, CA
+31590281	wfarner	San Francisco, CA	205633346	munchery	LA, NY, SF, & Seattle
+31590281	wfarner	San Francisco, CA	602317143	SirPatStew	
+31590281	wfarner	San Francisco, CA	6385432	dickc	San Francisco
+31590281	wfarner	San Francisco, CA	892590354	BeerHallSF	San Francisco, CA
+31590281	wfarner	San Francisco, CA	14717846	miguelrios	Alameda, CA
+31590281	wfarner	San Francisco, CA	357726609	rgs_	San Francisco, CA
+31590281	wfarner	San Francisco, CA	1671371017	ApacheAurora	
+31590281	wfarner	San Francisco, CA	15201146	kts	San Francisco, CA
+31590281	wfarner	San Francisco, CA	283133704	moh	San Francisco, CA
+31590281	wfarner	San Francisco, CA	1411434049	eventparrot	
+31590281	wfarner	San Francisco, CA	1072237015	mittensinMT	
+31590281	wfarner	San Francisco, CA	14299819	mreinhold	Menlo Park, CA, US
+31590281	wfarner	San Francisco, CA	7169872	bd	San Francisco, CA
+31590281	wfarner	San Francisco, CA	221999395	zmanji	San Francisco, CA, USA
+31590281	wfarner	San Francisco, CA	485937410	MadeByMaru	San Francisco, CA
+31590281	wfarner	San Francisco, CA	67141936	NuttySwiss	Earth, Still
+31590281	wfarner	San Francisco, CA	111050085	drummer	Palo Alto, CA
+31590281	wfarner	San Francisco, CA	7722082	Yasumoto	San Francisco, CA
+31590281	wfarner	San Francisco, CA	14927748	phrenq	
+31590281	wfarner	San Francisco, CA	786983	skr	San Francisco
+31590281	wfarner	San Francisco, CA	19725644	neiltyson	New York City
+31590281	wfarner	San Francisco, CA	376825877	TwitterOSS	Twitter HQ
+31590281	wfarner	San Francisco, CA	7052972	cooperb	
+31590281	wfarner	San Francisco, CA	23678022	caskstore	San Francisco and Berkeley
+31590281	wfarner	San Francisco, CA	20967892	KasaIndian	San Francisco
+31590281	wfarner	San Francisco, CA	9160152	mccv	South Bay. SF.
+31590281	wfarner	San Francisco, CA	7698	marius	Silicon Valley
+31590281	wfarner	San Francisco, CA	205926603	hackweek	TwitterHQ
+31590281	wfarner	San Francisco, CA	22214348	bmahler	san francisco
+31590281	wfarner	San Francisco, CA	272161437	Uber_SF	California, USA
+31590281	wfarner	San Francisco, CA	14669799	sschillace	Portola Valley, CA
+31590281	wfarner	San Francisco, CA	19103481	Uber	Global
+31590281	wfarner	San Francisco, CA	8131122	cyanogen	Seattle, WA
+31590281	wfarner	San Francisco, CA	668473	sampullara	Los Altos, CA
+31590281	wfarner	San Francisco, CA	16171223	dhelder	San Francisco, CA
+31590281	wfarner	San Francisco, CA	20609518	DalaiLama	Dharamsala, India
+31590281	wfarner	San Francisco, CA	175624200	ID_AA_Carmack	Dallas, TX
+31590281	wfarner	San Francisco, CA	4519121	Oatmeal	Seattle, Washington
+31590281	wfarner	San Francisco, CA	158199832	LayherDaddy	Right Here.
+31590281	wfarner	San Francisco, CA	18948541	SethMacFarlane	Los Angeles
+31590281	wfarner	San Francisco, CA	25390856	Hank_Schradr	
+31590281	wfarner	San Francisco, CA	26195358	thinkingfish	San Francisco, CA
+31590281	wfarner	San Francisco, CA	14288134	vinodkone	San Francisco
+31590281	wfarner	San Francisco, CA	15421121	michibusch	
+31590281	wfarner	San Francisco, CA	77703352	sathya	San Francisco
+31590281	wfarner	San Francisco, CA	22888677	rgbenson	San Francisco, CA
+31590281	wfarner	San Francisco, CA	250752953	DavesBarSF	29 Third St, San Fancisco, CA 
+31590281	wfarner	San Francisco, CA	19950424	SavvyCities	San Francisco, CA
+31590281	wfarner	San Francisco, CA	6844292	TwitterEng	San Francisco, CA
+31590281	wfarner	San Francisco, CA	206379571	twist	San Francisco, CA
+31590281	wfarner	San Francisco, CA	3392411	benh	San Francisco, CA
+31590281	wfarner	San Francisco, CA	6480682	azizansari	New York, NY
+31590281	wfarner	San Francisco, CA	220878524	cableleaks	
+31590281	wfarner	San Francisco, CA	90746592	eatletruc	San Francisco, CA
+31590281	wfarner	San Francisco, CA	44709792	teamteam	Twitter HQ
+31590281	wfarner	San Francisco, CA	14143983	wickman	san francisco
+31590281	wfarner	San Francisco, CA	136293558	GoogleMobile	Pockets and purses worldwide
+31590281	wfarner	San Francisco, CA	78151002	SFcoldstone	119 Ellis St, San Francisco.
+31590281	wfarner	San Francisco, CA	22937232	mabb0tt	here
+31590281	wfarner	San Francisco, CA	50393960	BillGates	Seattle, WA
+31590281	wfarner	San Francisco, CA	63172176	ginja	www.google.com
+31590281	wfarner	San Francisco, CA	136018928	primopatio	SOMA, San Francisco
+31590281	wfarner	San Francisco, CA	113425681	toptweets	Everywhere
+31590281	wfarner	San Francisco, CA	126147965	Lauren_Collopy	San Francisco
+31590281	wfarner	San Francisco, CA	112508240	CraigyFerg	4% funnier 
+31590281	wfarner	San Francisco, CA	22060192	epicentercafe	764 Harrison St. SF CA 94107
+31590281	wfarner	San Francisco, CA	18618298	flo	San Francisco, CA
+31590281	wfarner	San Francisco, CA	93999953	karisweetland	
+31590281	wfarner	San Francisco, CA	16880220	ram	San Francisco, CA
+31590281	wfarner	San Francisco, CA	622653	stacyhaywood	San Francisco, CA
+31590281	wfarner	San Francisco, CA	90420314	ActuallyNPH	Manhattanland
+31590281	wfarner	San Francisco, CA	14527760	brianquijano	San Francisco
+31590281	wfarner	San Francisco, CA	18205202	utkarsh	San Francisco, CA
+31590281	wfarner	San Francisco, CA	3191321	noradio	San Francisco, CA
+31590281	wfarner	San Francisco, CA	15257763	ahousekat	San Francisco
+31590281	wfarner	San Francisco, CA	57868507	jcristof	
+31590281	wfarner	San Francisco, CA	5151	mdy	
+31590281	wfarner	San Francisco, CA	7072932	gregd	iPhone: -33.870449,151.203796
+31590281	wfarner	San Francisco, CA	29839540	mattsteiner	Los Altos, CA
+31590281	wfarner	San Francisco, CA	95840843	GriffHazen	San Francisco, CA
+31590281	wfarner	San Francisco, CA	14273705	Magnuson	Burlingame, CA, USA
+31590281	wfarner	San Francisco, CA	28177553	lalagita	
+31590281	wfarner	San Francisco, CA	28608746	PeterSqueri	
+31590281	wfarner	San Francisco, CA	34877910	isavidis	
+31590281	wfarner	San Francisco, CA	84447226	kaitlin_olson	los angeles
+31590281	wfarner	San Francisco, CA	71876190	DannyDeVito	Los Angeles
+31590281	wfarner	San Francisco, CA	36710250	mkateh	SF, CA
+31590281	wfarner	San Francisco, CA	43736146	GlennHowerton	Venice, CA
+31590281	wfarner	San Francisco, CA	14765989	mohitthatte	Mumbai, India
+31590281	wfarner	San Francisco, CA	21891386	ajkeene	
+31590281	wfarner	San Francisco, CA	44702416	hosebird	Twitter
+31590281	wfarner	San Francisco, CA	21939943	bfarner	
+31590281	wfarner	San Francisco, CA	62581962	shitmydadsays	
+31590281	wfarner	San Francisco, CA	9213742	robey	San Francisco, CA
+31590281	wfarner	San Francisco, CA	16867621	cayley	
+31590281	wfarner	San Francisco, CA	14520685	lg	San Francisco, CA
+31590281	wfarner	San Francisco, CA	10759032	abdur	San Francisco
+31590281	wfarner	San Francisco, CA	78215549	TraceyPettis	SF Bay Area
+31590281	wfarner	San Francisco, CA	15099052	tamtam2	Bay Area
+31590281	wfarner	San Francisco, CA	76210154	Cornce10	Kansas City, MO
+31590281	wfarner	San Francisco, CA	72935014	martellaro	
+31590281	wfarner	San Francisco, CA	793130	rion	
+31590281	wfarner	San Francisco, CA	62290422	RedHourBen	Red Hour Films - Los Angeles
+31590281	wfarner	San Francisco, CA	15569894	Ana	San Francisco
+31590281	wfarner	San Francisco, CA	17071371	rlazo	Belo Horizonte, BR
+31590281	wfarner	San Francisco, CA	14584475	em33	Clambering thru the Interwebs
+31590281	wfarner	San Francisco, CA	550943	stevela	Kirkland, WA
+31590281	wfarner	San Francisco, CA	16843163	vivekhaldar	Irvine, CA
+31590281	wfarner	San Francisco, CA	150	stevej	San Francisco, CA
+31590281	wfarner	San Francisco, CA	16939148	delbius	San Francisco
+31590281	wfarner	San Francisco, CA	19853	rk	San Francisco, CA
+31590281	wfarner	San Francisco, CA	12793852	ej	NYC
+31590281	wfarner	San Francisco, CA	12863272	jkalucki	San Francisco, California
+31590281	wfarner	San Francisco, CA	45027091	PaneraSF	4th and King, San Francisco
+31590281	wfarner	San Francisco, CA	25399731	BreakingBad_AMC	Albuquerque, New Mexico 
+31590281	wfarner	San Francisco, CA	30313925	WhiteHouse	Washington, DC
+31590281	wfarner	San Francisco, CA	12044602	Schwarzenegger	Los Angeles, California
+31590281	wfarner	San Francisco, CA	19637934	rainnwilson	Los Angeles-ish
+31590281	wfarner	San Francisco, CA	783214	twitter	San Francisco, CA
+31590281	wfarner	San Francisco, CA	37230070	JDeGreeff	Albuquerque NM
+31590281	wfarner	San Francisco, CA	8061062	QWin15	San Francisco
+31590281	wfarner	San Francisco, CA	20536157	google	Mountain View, CA
+31590281	wfarner	San Francisco, CA	14199590	rdm	NY, NY
+31590281	wfarner	San Francisco, CA	17669220	sandynathan	
+31590281	wfarner	San Francisco, CA	26658769	barbiekargie	
+22413642	jameskassys	San Francisco, CA	40887422	patrickrosal	Philadelphia 
+22413642	jameskassys	San Francisco, CA	1507338108	Sifill_LDF	
+22413642	jameskassys	San Francisco, CA	15956067	joseiswriting	USA
+22413642	jameskassys	San Francisco, CA	213778624	TonyaWardSinger	California
+22413642	jameskassys	San Francisco, CA	956163518	pronounced_ing	Cambridge, MA
+22413642	jameskassys	San Francisco, CA	378397448	janerasolomon	Pittsburgh, PA
+22413642	jameskassys	San Francisco, CA	596819553	BigPicCampaign	San Francisco, CA
+22413642	jameskassys	San Francisco, CA	182180556	ACampoverdi	Los Angeles
+22413642	jameskassys	San Francisco, CA	351287640	blackthought	Philly|NYC|Tokyo|Worldwide
+22413642	jameskassys	San Francisco, CA	2391538208	Nakila_Cheetah	Milwaukee Daughter
+22413642	jameskassys	San Francisco, CA	2376041348	RaiseUpProject	US
+22413642	jameskassys	San Francisco, CA	221365243	sophcull	Berkeley, CA
+22413642	jameskassys	San Francisco, CA	579933193	Bridge2Lit	Views are my own
+22413642	jameskassys	San Francisco, CA	110361521	ashalaura	Oakland Online 
+22413642	jameskassys	San Francisco, CA	19562228	rustyrockets	
+22413642	jameskassys	San Francisco, CA	7860902	ilyseh	Washington DC
+22413642	jameskassys	San Francisco, CA	15147397	birbigs	
+22413642	jameskassys	San Francisco, CA	217521863	rachelneumann	Oakland, CA
+22413642	jameskassys	San Francisco, CA	532269530	yosuheirhammad	in yo dreams
+22413642	jameskassys	San Francisco, CA	44692308	rockwoodleaders	
+22413642	jameskassys	San Francisco, CA	162895251	peggyorenstein	Berkeley, CA
+22413642	jameskassys	San Francisco, CA	83876527	tejucole	the Black Atlantic
+22413642	jameskassys	San Francisco, CA	14930580	medeabenjamin	Washington DC and San Francisc
+22413642	jameskassys	San Francisco, CA	23250101	PlugWonDeLaSoul	instagram : @plugwondelasoul
+22413642	jameskassys	San Francisco, CA	11347122	GavinNewsom	California
+22413642	jameskassys	San Francisco, CA	16017475	NateSilver538	New York
+22413642	jameskassys	San Francisco, CA	15977079	bryantterry	TN raised. BK made. OAK Saved.
+22413642	jameskassys	San Francisco, CA	22861010	solsta999	Raymond, Mississippi
+22413642	jameskassys	San Francisco, CA	19119809	wkamaubell	Berkeley, CA
+22413642	jameskassys	San Francisco, CA	30893470	ChipConley	San Francisco, CA 
+22413642	jameskassys	San Francisco, CA	70509102	AnnaDeavereS	New York
+22413642	jameskassys	San Francisco, CA	14479959	PhilBronstein	San Francisco
+22413642	jameskassys	San Francisco, CA	19725644	neiltyson	New York City
+22413642	jameskassys	San Francisco, CA	27486757	mayda1	outerspace
+22413642	jameskassys	San Francisco, CA	321003525	Sherman_Alexie	
+22413642	jameskassys	San Francisco, CA	240840343	SergioRomo54	Lump of dirt!
+22413642	jameskassys	San Francisco, CA	16019108	rinkuwrites	
+22413642	jameskassys	San Francisco, CA	17328222	BobHerbert	New York
+22413642	jameskassys	San Francisco, CA	17006157	NYTimeskrugman	New York City
+22413642	jameskassys	San Francisco, CA	35954376	MVMT	Gone Global
+22413642	jameskassys	San Francisco, CA	33251829	NathanEnglander	Brooklyn
+22413642	jameskassys	San Francisco, CA	24165761	MichaelSkolnik	
+22413642	jameskassys	San Francisco, CA	116867633	PoetSanchez	
+22413642	jameskassys	San Francisco, CA	148529707	RBReich	Berkeley, CA
+22413642	jameskassys	San Francisco, CA	148681249	WeArePoets	UK
+22413642	jameskassys	San Francisco, CA	140010098	SupeJaneKim	San Francisco
+22413642	jameskassys	San Francisco, CA	14226882	NCLR	Washington, DC
+22413642	jameskassys	San Francisco, CA	243963064	artsted	San Francisco, CA
+22413642	jameskassys	San Francisco, CA	24632986	lifeisliving	What sustains life?
+22413642	jameskassys	San Francisco, CA	18948541	SethMacFarlane	Los Angeles
+22413642	jameskassys	San Francisco, CA	354397291	kevincoval	chicago
+22413642	jameskassys	San Francisco, CA	15054166	glynnwashington	 	  Location: Nice Try, NSA 
+22413642	jameskassys	San Francisco, CA	23295748	bravenewvoices	Global Youth Movement 
+22413642	jameskassys	San Francisco, CA	52758588	PoetryFound	61 W. Superior, Chicago, IL
+22413642	jameskassys	San Francisco, CA	27442822	Al_Letson	watch me work
+22413642	jameskassys	San Francisco, CA	16324679	sfbg	Bay Area
+22413642	jameskassys	San Francisco, CA	16157577	GhostfaceKillah	Behind You.. Turn Around!
+22413642	jameskassys	San Francisco, CA	82787303	erinarchuleta	San Francisco, CA
+22413642	jameskassys	San Francisco, CA	53226992	adammansbach	
+22413642	jameskassys	San Francisco, CA	10886522	tavissmiley	Los Angeles
+22413642	jameskassys	San Francisco, CA	251954526	EsperanzaSpaldn	Portland, OR
+22413642	jameskassys	San Francisco, CA	103467620	gwatsky	Los Angeles/ San Francisco, CA
+22413642	jameskassys	San Francisco, CA	17632297	OdeToOptimism	San Francisco
+22413642	jameskassys	San Francisco, CA	24044209	BootsRiley	Oakland- which isn't near L.A.
+22413642	jameskassys	San Francisco, CA	131497030	VanJones68	United States
+22413642	jameskassys	San Francisco, CA	20261503	michaelfranti	San Francisco
+22413642	jameskassys	San Francisco, CA	6480682	azizansari	New York, NY
+22413642	jameskassys	San Francisco, CA	19158981	joshbegley	Brooklyn
+22413642	jameskassys	San Francisco, CA	21623464	RafaelCasal	Berkeley/Oakland/LA   
+22413642	jameskassys	San Francisco, CA	27587062	BeauSia	los angeles, ca
+22413642	jameskassys	San Francisco, CA	21522437	SaulWilliams	Beside you.
+22413642	jameskassys	San Francisco, CA	36743910	CornelWest	Princeton, NJ
+22413642	jameskassys	San Francisco, CA	15908078	zentronix	The World Ultimate
+22413642	jameskassys	San Francisco, CA	23641580	colsonwhitehead	
+22413642	jameskassys	San Francisco, CA	82939583	rosariodawson	Gaia
+22413642	jameskassys	San Francisco, CA	30364057	SarahKSilverman	state of Palestine 
+22413642	jameskassys	San Francisco, CA	23297327	youthspeaks	
+22413642	jameskassys	San Francisco, CA	40544406	rogerbonair	Chicago
+22413642	jameskassys	San Francisco, CA	14939981	questlove	Philly & Fi-Di NYC & 31Rock
+22413642	jameskassys	San Francisco, CA	11042	rolandobrown	New York, NY
+38013003	okanehospitali	San Francisco, CA	19490760	BVwines	Napa Valley, CA
+38013003	okanehospitali	San Francisco, CA	48800224	LaJotaWines	Howell Mountain | Angwin, CA
+38013003	okanehospitali	San Francisco, CA	31221705	ClifFamily	St. Helena, CA
+38013003	okanehospitali	San Francisco, CA	26567012	FloraSprings	Napa Valley
+38013003	okanehospitali	San Francisco, CA	20936015	ericneil54	iPhone: 32.893730,-96.804863
+38013003	okanehospitali	San Francisco, CA	14334532	DiggSupport	New York, NY
+38013003	okanehospitali	San Francisco, CA	783214	twitter	San Francisco, CA
+38013003	okanehospitali	San Francisco, CA	44994215	Lufthansa_USA	18 U.S. gateways
+38013003	okanehospitali	San Francisco, CA	48630593	TravelAgeWest	
+38013003	okanehospitali	San Francisco, CA	109563502	inkallpa	Cusco, Valle Sagrado
+38013003	okanehospitali	San Francisco, CA	57727087	YesOnlineWorks	HoneyBrook, PA
+38013003	okanehospitali	San Francisco, CA	114716171	4ClosureRE	North Carolina Mountains
+38013003	okanehospitali	San Francisco, CA	39841101	GalacticPS	Arlington, Texas
+38013003	okanehospitali	San Francisco, CA	72093816	getfollows7017	
+38013003	okanehospitali	San Francisco, CA	132086867	goforsavings	 Brooklyn, New York
+38013003	okanehospitali	San Francisco, CA	21415622	LANWANMAN	Ocala, Florida USA
+38013003	okanehospitali	San Francisco, CA	74804592	LaTerraFina	Everywhere
+38013003	okanehospitali	San Francisco, CA	77054268	vacationRhub	
+38013003	okanehospitali	San Francisco, CA	134820727	InstaManager	Texas
+38013003	okanehospitali	San Francisco, CA	111477723	NassauFlyers	(KFRG) Farmingdale, NY 
+38013003	okanehospitali	San Francisco, CA	42234931	ticketgenie	Orlando, FL
+38013003	okanehospitali	San Francisco, CA	60134494	TheGreenForum	Green Forums
+38013003	okanehospitali	San Francisco, CA	155364089	vqcajtootamse	
+38013003	okanehospitali	San Francisco, CA	14164943	MarcoSantarelli	USA
+38013003	okanehospitali	San Francisco, CA	133810140	newstwitt2	
+38013003	okanehospitali	San Francisco, CA	150500494	garry_devilboy	camarines norte
+38013003	okanehospitali	San Francisco, CA	165517504	RentalReview	Florida
+38013003	okanehospitali	San Francisco, CA	28616624	ARCC_Adventures	Mill Valley, CA
+38013003	okanehospitali	San Francisco, CA	144889562	bedbugssuck	
+14813311	SFBrian	San Francisco, CA	448493292	MrAdamBoyd	San Francisco
+14813311	SFBrian	San Francisco, CA	18247933	morozgrafix	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	21717444	darthshiba	Austin, TX
+14813311	SFBrian	San Francisco, CA	898451016	GhostTownBeer	Oakland, CA
+14813311	SFBrian	San Francisco, CA	1305940272	SlackHQ	SF, Vancouver & Dublin
+14813311	SFBrian	San Francisco, CA	2523034868	ReplayFX	Pittsburgh, Pennsylvania
+14813311	SFBrian	San Francisco, CA	1183041	wilw	Los Angeles
+14813311	SFBrian	San Francisco, CA	14205820	jerware	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	1133127390	bobchasf	somewhere in SAN FRANCISCO
+14813311	SFBrian	San Francisco, CA	274580947	colevalleysf	Cole Valley, San Francisco, CA
+14813311	SFBrian	San Francisco, CA	8793052	chadcat	
+14813311	SFBrian	San Francisco, CA	117513525	Jeff_Delgado	California
+14813311	SFBrian	San Francisco, CA	8612	js	san francisco
+14813311	SFBrian	San Francisco, CA	18326028	ajferrick	
+14813311	SFBrian	San Francisco, CA	881067127	eastouest	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	429289920	andrew_drinks	Luxembourg 
+14813311	SFBrian	San Francisco, CA	596687292	NWSBayArea	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	1344204650	bowenkerins	Salem, MA
+14813311	SFBrian	San Francisco, CA	17362856	ChrisRCohen	San Francisco
+14813311	SFBrian	San Francisco, CA	12300362	DJBentley	Cold Spring, NY
+14813311	SFBrian	San Francisco, CA	14750183	grendelboogie	san francisco
+14813311	SFBrian	San Francisco, CA	236464736	J_AC_	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	6304662	Digidave	Berkeley/SF
+14813311	SFBrian	San Francisco, CA	29757030	parrissays	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	100143	oneLOUDERash	Outer Sagittarius Studios, San Francisco, CA
+14813311	SFBrian	San Francisco, CA	138132205	AlexDaUkrainian	San Francisco, CA, USA
+14813311	SFBrian	San Francisco, CA	2424298152	TheCabinSF	431 2nd St. San Francisco, CA
+14813311	SFBrian	San Francisco, CA	16037486	gregavola	New York, NY
+14813311	SFBrian	San Francisco, CA	14112294	benhuh	In Transition
+14813311	SFBrian	San Francisco, CA	1499788603	rcolidba	San Francisco
+14813311	SFBrian	San Francisco, CA	12115322	JohnMaloney	Brooklyn.Venice
+14813311	SFBrian	San Francisco, CA	400398286	christinechaooo	San Francisco
+14813311	SFBrian	San Francisco, CA	229453487	HillFarmstead	Greensboro, Vermont
+14813311	SFBrian	San Francisco, CA	577411640	brittanyshoot	SFO via CPH BOS IND
+14813311	SFBrian	San Francisco, CA	18627067	awalkingcity	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	1140451	AntDeRosa	Jersey City, NJ
+14813311	SFBrian	San Francisco, CA	441389311	Circa	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	143765360	emilyhsiung	San Francisco
+14813311	SFBrian	San Francisco, CA	516233433	LiquidXperience	San Francisco
+14813311	SFBrian	San Francisco, CA	11036072	stealthypoo	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	31330900	healthyspirits	San Francisco, CA.
+14813311	SFBrian	San Francisco, CA	18170944	sfbeerweek	SAN FRANCISCO, CA
+14813311	SFBrian	San Francisco, CA	8749512	andrewgodwin	San Francisco, CA, USA
+14813311	SFBrian	San Francisco, CA	1905602773	FirestoneBeerSF	
+14813311	SFBrian	San Francisco, CA	605587071	Jyl189	
+14813311	SFBrian	San Francisco, CA	980641	phildini	Alameda, CA
+14813311	SFBrian	San Francisco, CA	17456043	alexaguerra	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	84208506	lagunitasbruhws	Petaluma, CA
+14813311	SFBrian	San Francisco, CA	12161	Natbat	iPhone: 51.093058,-1.803172
+14813311	SFBrian	San Francisco, CA	1319051298	TaplistAt	
+14813311	SFBrian	San Francisco, CA	258498103	pinballbayarea	east bay
+14813311	SFBrian	San Francisco, CA	14447200	JugShop	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	1058672978	CellarmakerBeer	San Francisco, California
+14813311	SFBrian	San Francisco, CA	106728417	lazybearsf	San Francisco
+14813311	SFBrian	San Francisco, CA	472559992	DeadbeatBrews	Washington, DC
+14813311	SFBrian	San Francisco, CA	41382770	swanbeat	SF, CA via STL, MO
+14813311	SFBrian	San Francisco, CA	179714296	NoshThis	415, 510, 707, 650
+14813311	SFBrian	San Francisco, CA	305966551	shmabbywolfe	
+14813311	SFBrian	San Francisco, CA	18465677	CaseysPizza	San Francisco
+14813311	SFBrian	San Francisco, CA	18223465	FirestoneWalker	Paso Robles, CA
+14813311	SFBrian	San Francisco, CA	1468256136	hatermetrics	
+14813311	SFBrian	San Francisco, CA	28743430	rhettford	iPhone: 37.426304,-122.079422
+14813311	SFBrian	San Francisco, CA	10316782	keaneiscool	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	274425770	hgstrp	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	40546360	stev3h	seattle, wa
+14813311	SFBrian	San Francisco, CA	74184689	wesleybeero	San Francisco
+14813311	SFBrian	San Francisco, CA	1179963302	opsmatic	San Francisco/SOMA
+14813311	SFBrian	San Francisco, CA	40102265	reneebrincks	San Francisco and Iowa
+14813311	SFBrian	San Francisco, CA	17367165	BacklashBeer	Boston, MA
+14813311	SFBrian	San Francisco, CA	99160417	nathanhomebrew	Oakland, CA
+14813311	SFBrian	San Francisco, CA	14299674	sparkelle	San Francisco
+14813311	SFBrian	San Francisco, CA	15285421	meixellent	San Francisco, CA, USA
+14813311	SFBrian	San Francisco, CA	2890591	x	
+14813311	SFBrian	San Francisco, CA	226466042	PineStreetBeer	San Francisco
+14813311	SFBrian	San Francisco, CA	105862433	pintmuse	San Francisco
+14813311	SFBrian	San Francisco, CA	11760342	tomterrific	san francisco, ca
+14813311	SFBrian	San Francisco, CA	550161014	ABCbeerbuyer	Orlando, FL
+14813311	SFBrian	San Francisco, CA	319951733	TreeHouseBrewCo	Monson, MA
+14813311	SFBrian	San Francisco, CA	234270825	KenJennings	Rainy Seattle
+14813311	SFBrian	San Francisco, CA	292569153	mozwebqa	Online
+14813311	SFBrian	San Francisco, CA	597730486	catch22nwi	Merrillville, Indiana
+14813311	SFBrian	San Francisco, CA	178070354	KneeDeepBrewing	Auburn, CA 
+14813311	SFBrian	San Francisco, CA	60666994	tehviv	Bay Area, CA
+14813311	SFBrian	San Francisco, CA	825658747	BeerCavern	
+14813311	SFBrian	San Francisco, CA	345086185	RedSoxTruckDay	Fenway Park
+14813311	SFBrian	San Francisco, CA	39646219	alchemistbeer	35 Crossroad, Waterbury, VT
+14813311	SFBrian	San Francisco, CA	55388358	bossfo2007	San Francisco
+14813311	SFBrian	San Francisco, CA	15473958	MarsCuriosity	Gale Crater, Mars
+14813311	SFBrian	San Francisco, CA	635076527	itsarbitrary	
+14813311	SFBrian	San Francisco, CA	18668113	KristineHolst	San Francisco, CA + Honduras
+14813311	SFBrian	San Francisco, CA	10249752	sfgirl	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	14936776	toronado	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	9717542	benbangert	SF North Bay
+14813311	SFBrian	San Francisco, CA	339986660	madison	SF
+14813311	SFBrian	San Francisco, CA	15883042	juliahartz	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	57386217	cduhring	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	15732723	Josh_Alden	New England
+14813311	SFBrian	San Francisco, CA	61012540	jackmay10	San Francisco
+14813311	SFBrian	San Francisco, CA	349420406	Spotwag	San Francisco
+14813311	SFBrian	San Francisco, CA	27557450	caseycrites	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	262887724	HermansMeats	Newark, Delaware
+14813311	SFBrian	San Francisco, CA	148869740	kurtvarner	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	116872150	janatrantow	San Francisco
+14813311	SFBrian	San Francisco, CA	479967366	taplist	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	75087362	JuliosBeer	Westborough, MA
+14813311	SFBrian	San Francisco, CA	43298910	HakanRaberg	London
+14813311	SFBrian	San Francisco, CA	111320045	dcbrau	Washington DC
+14813311	SFBrian	San Francisco, CA	16940088	_brittastick	Seattle, Wa
+14813311	SFBrian	San Francisco, CA	119232412	mwildehahn	Berkeley
+14813311	SFBrian	San Francisco, CA	229917605	patpoels	San Francisco, California
+14813311	SFBrian	San Francisco, CA	360237473	PinballArcade	
+14813311	SFBrian	San Francisco, CA	329402155	wheretheissat	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	4438481	johndunham	San Francisco, California
+14813311	SFBrian	San Francisco, CA	14435843	sgrove	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	204603526	seleniumconf	Portland, Oregon
+14813311	SFBrian	San Francisco, CA	607	mg	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	378908890	sfpinball	San Fran- lookin' for quarters
+14813311	SFBrian	San Francisco, CA	212485895	__Linoleum	209
+14813311	SFBrian	San Francisco, CA	20478755	superman_scott	San Francisco
+14813311	SFBrian	San Francisco, CA	329403315	wheretheiss	South San Francisco, CA
+14813311	SFBrian	San Francisco, CA	17257239	_buf	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	78836845	whangsf	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	15428386	stevecantfish	iPhone: 28.139709,-82.580429
+14813311	SFBrian	San Francisco, CA	241413517	AskTheSquash	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	273183297	DomWalterspiel	San Francisco
+14813311	SFBrian	San Francisco, CA	67260054	citybeerstore	San Francisco
+14813311	SFBrian	San Francisco, CA	22816050	golm	
+14813311	SFBrian	San Francisco, CA	138141280	bobveznat	Redwood City, CA
+14813311	SFBrian	San Francisco, CA	118188375	SouthrnSandwich	San Francisco
+14813311	SFBrian	San Francisco, CA	40068257	BeerBeard87	Washington, DC
+14813311	SFBrian	San Francisco, CA	15365926	19Becka	California
+14813311	SFBrian	San Francisco, CA	16154379	mattkoshko	West of Boston MA.
+14813311	SFBrian	San Francisco, CA	15172837	gorbster	SF / LA / Hamburg
+14813311	SFBrian	San Francisco, CA	356485622	acarochris	
+14813311	SFBrian	San Francisco, CA	16880387	spawrks	Austin,TX
+14813311	SFBrian	San Francisco, CA	348762091	jenkinsconf	
+14813311	SFBrian	San Francisco, CA	6876902	heyadam	Racing bicycles around SF.
+14813311	SFBrian	San Francisco, CA	258899181	BaconBaconSF	San Francisco
+14813311	SFBrian	San Francisco, CA	48824937	awilson820	San Francisco
+14813311	SFBrian	San Francisco, CA	74791999	bubbawatson	Bagdad, Florida
+14813311	SFBrian	San Francisco, CA	14310486	MetalFlack	NYC
+14813311	SFBrian	San Francisco, CA	14613723	NiallHarbison	Dublin, Ireland
+14813311	SFBrian	San Francisco, CA	14945367	ryanj	0AKLAND, CA
+14813311	SFBrian	San Francisco, CA	48683286	sauceops	San Francisco
+14813311	SFBrian	San Francisco, CA	34559099	SklarBrothers	Los Angeles
+14813311	SFBrian	San Francisco, CA	14073993	tywhite	Earth, usually
+14813311	SFBrian	San Francisco, CA	22873973	derekwaynecarr	
+14813311	SFBrian	San Francisco, CA	14101011	gueritaverde	Seattle, WA
+14813311	SFBrian	San Francisco, CA	91271818	CPrignano	Boston, MA
+14813311	SFBrian	San Francisco, CA	60101131	ToryBelleci	San Francisco
+14813311	SFBrian	San Francisco, CA	20965661	stephendonner	San Mateo, CA
+14813311	SFBrian	San Francisco, CA	128019472	pearkes	LOS ANGELS
+14813311	SFBrian	San Francisco, CA	14366724	jarib	Oslo, Norway
+14813311	SFBrian	San Francisco, CA	5810442	frohoff	
+14813311	SFBrian	San Francisco, CA	8170682	grantland	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	13963242	santiycr	San Francisco, California
+14813311	SFBrian	San Francisco, CA	12819682	mitchellh	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	18808263	shs96c	
+14813311	SFBrian	San Francisco, CA	14557257	brian_wong	San Francisco
+14813311	SFBrian	San Francisco, CA	14604461	adamgoucher	Whitby
+14813311	SFBrian	San Francisco, CA	23262791	dsmitts	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	2146141	dtrinh	Hayes Valley
+14813311	SFBrian	San Francisco, CA	14106115	mattmmartinez	San Francisco, CA
+14813311	SFBrian	San Francisco, CA	121509009	drunkatsxsw	Austin, TX
+23857435	tippingpoint	San Francisco, CA	16018805	jswartz	San Francisco
+23857435	tippingpoint	San Francisco, CA	36434049	robreich	Stanford, California
+23857435	tippingpoint	San Francisco, CA	58949532	mbgcolby	San Francisco, CA
+23857435	tippingpoint	San Francisco, CA	74572689	indysf	San Francisco 
+23857435	tippingpoint	San Francisco, CA	601813540	vancejoy	
+23857435	tippingpoint	San Francisco, CA	224326551	glazeteriyaki	NYC / SAN FRAN / CHICAGO
+23857435	tippingpoint	San Francisco, CA	16788214	scotchisholm	San Diego, CA
+23857435	tippingpoint	San Francisco, CA	26786964	johnofa	Silicon Valley
+23857435	tippingpoint	San Francisco, CA	20606095	JeffSmithMO	@TheNewSchool in NYC
+23857435	tippingpoint	San Francisco, CA	111030934	teachersalary	
+23857435	tippingpoint	San Francisco, CA	613624077	InsidePhilanthr	Los Angeles, CA
+23857435	tippingpoint	San Francisco, CA	2993705228	GSWfoundation	Oakland, CA
+23857435	tippingpoint	San Francisco, CA	20550918	BarrysBootcamp	
+23857435	tippingpoint	San Francisco, CA	21636048	zlurie	Los Angeles
+23857435	tippingpoint	San Francisco, CA	3072090500	forgerysf	San Francisco, CA
+23857435	tippingpoint	San Francisco, CA	2549011969	NeighborNest	San Francisco, CA
+23857435	tippingpoint	San Francisco, CA	5746452	waltmossberg	Washington, DC
+23857435	tippingpoint	San Francisco, CA	15449897	molly_g	San Francisco
+23857435	tippingpoint	San Francisco, CA	48784238	michaelmarantz	40.77816,-73.955547
+23857435	tippingpoint	San Francisco, CA	1413760728	LevisStadium	Santa Clara, CA
+23857435	tippingpoint	San Francisco, CA	316912295	SnapFiesta	SF, Bay Area, Los Angeles 
+23857435	tippingpoint	San Francisco, CA	223454816	Everlane	San Francisco, CA
+23857435	tippingpoint	San Francisco, CA	69414440	girltalk	
+23857435	tippingpoint	San Francisco, CA	8615142	sanfranciscoday	San Francisco, Ca
+23857435	tippingpoint	San Francisco, CA	21759817	tmccormick	SF/BA, NorCal, London, migrant
+23857435	tippingpoint	San Francisco, CA	21982720	ariannahuff	
+23857435	tippingpoint	San Francisco, CA	19563366	JoshConstine	Mission SF, CA
+23857435	tippingpoint	San Francisco, CA	2496900853	GenesysWorksBA	San Francisco, CA
+23857435	tippingpoint	San Francisco, CA	1484826853	GlobalSEN	London, UK
+23857435	tippingpoint	San Francisco, CA	3006241360	BlueRidgeLabs	New York City
+23857435	tippingpoint	San Francisco, CA	2948211	rsg	San Francisco
+23857435	tippingpoint	San Francisco, CA	125910563	beyond12	San Francisco, CA
+23857435	tippingpoint	San Francisco, CA	30010982	srabe	
+23857435	tippingpoint	San Francisco, CA	58981847	SwirlMarketing	San Francisco, CA
+23857435	tippingpoint	San Francisco, CA	18369852	PencilsOfPromis	NYC
+23857435	tippingpoint	San Francisco, CA	63814570	gabekleinman	Oakland
+23857435	tippingpoint	San Francisco, CA	2326366592	50Fund	Bay Area
+23857435	tippingpoint	San Francisco, CA	323393386	NetworkMonkey	
+23857435	tippingpoint	San Francisco, CA	327684727	JenSiebelNewsom	San Francisco
+23857435	tippingpoint	San Francisco, CA	515888500	ConnectToGood	Dallas, TX
+23857435	tippingpoint	San Francisco, CA	2564275598	elxrdsgn	San Francisco, CA
+23857435	tippingpoint	San Francisco, CA	1622933460	TalkPoverty	
+23857435	tippingpoint	San Francisco, CA	127434276	MilicentJohnson	San Francisco!
+23857435	tippingpoint	San Francisco, CA	2146141	dtrinh	Hayes Valley
+23857435	tippingpoint	San Francisco, CA	19788530	davidhahn	
+23857435	tippingpoint	San Francisco, CA	191839867	RPBayArea	Bay Area
+23857435	tippingpoint	San Francisco, CA	460708976	GivingTues	
+23857435	tippingpoint	San Francisco, CA	9766772	dgersh	san francisco
+23857435	tippingpoint	San Francisco, CA	1093090866	FLOTUS	Washington, DC
+23857435	tippingpoint	San Francisco, CA	145835700	Chromeo	The Mothership
+23857435	tippingpoint	San Francisco, CA	17328133	emilyachong	San Francisco
+18090358	missionbicycle	San Francisco, California	388456067	AnchorBrewing	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	2482378435	sfbikegal	SF Bay Area
+18090358	missionbicycle	San Francisco, California	138517584	WiggParty	The Wiggle, San Francisco
+18090358	missionbicycle	San Francisco, California	3279152106	gogearysf	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	431412404	FaradayBikes	San Francisco 
+18090358	missionbicycle	San Francisco, California	3028748745	PPBBikeTheft	Portland, Oregon
+18090358	missionbicycle	San Francisco, California	62603645	MorganicSF	The Wiggle, San Francisco
+18090358	missionbicycle	San Francisco, California	3235342814	sidewalkinc	
+18090358	missionbicycle	San Francisco, California	19219861	stickbook	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	16087650	pmocampo	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	275589627	sfmade	San Francisco
+18090358	missionbicycle	San Francisco, California	438483210	JeffSpeckAICP	Washington DC
+18090358	missionbicycle	San Francisco, California	1536791610	POTUS	Washington, D.C.
+18090358	missionbicycle	San Francisco, California	109315305	Penalosa_G	Toronto, Canada
+18090358	missionbicycle	San Francisco, California	3133020584	Visionzeronet	
+18090358	missionbicycle	San Francisco, California	44974922	modacitylife	Vancouver, BC
+18090358	missionbicycle	San Francisco, California	140222618	ebbikeparty	East Bay, CA
+18090358	missionbicycle	San Francisco, California	27814665	GoogleVentures	
+18090358	missionbicycle	San Francisco, California	62644597	CalBike	California
+18090358	missionbicycle	San Francisco, California	21319463	BenFried	New York City
+18090358	missionbicycle	San Francisco, California	1537052504	Bob_Gunderson	District 5 - SF
+18090358	missionbicycle	San Francisco, California	16683301	StreetsblogNet	
+18090358	missionbicycle	San Francisco, California	28272723	StevilKinevil	On the train wreck.
+18090358	missionbicycle	San Francisco, California	22824076	BicyclesOnly	New York City
+18090358	missionbicycle	San Francisco, California	29476085	schmangee	Cleveland
+18090358	missionbicycle	San Francisco, California	742065199	rivbikes	Walnut Creek, CA
+18090358	missionbicycle	San Francisco, California	2963983603	TheRealFuture	Oakland, CA
+18090358	missionbicycle	San Francisco, California	2446178504	WagonHQ	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	14886160	emilychappell	
+18090358	missionbicycle	San Francisco, California	18419480	BikePGH	Pittsburgh, PA
+18090358	missionbicycle	San Francisco, California	265249312	vsco	CA / CO / NY 
+18090358	missionbicycle	San Francisco, California	589205569	SFMOCI	San Francisco
+18090358	missionbicycle	San Francisco, California	15339800	WolfpackHustle	Silverlake CA
+18090358	missionbicycle	San Francisco, California	15985904	project529	Portland, OR
+18090358	missionbicycle	San Francisco, California	807095	nytimes	New York City
+18090358	missionbicycle	San Francisco, California	280716675	FastCoExist	New York, NY
+18090358	missionbicycle	San Francisco, California	19296033	WillSherman	Brooklyn, New York
+18090358	missionbicycle	San Francisco, California	22989686	BikeEastBay	Oakland, CA
+18090358	missionbicycle	San Francisco, California	14284095	carltonreid	Ouseburn Valley, NCL
+18090358	missionbicycle	San Francisco, California	209814743	BrooklynSpoke	Brooklyn, NY
+18090358	missionbicycle	San Francisco, California	16129534	Naparstek	Brooklyn, New York
+18090358	missionbicycle	San Francisco, California	277081038	lovelybicycle	Emerald Isle, Northwest
+18090358	missionbicycle	San Francisco, California	15757696	AndyG5000	Asheville, NC
+18090358	missionbicycle	San Francisco, California	19548810	MrsFishkin	san francisco
+18090358	missionbicycle	San Francisco, California	17134433	ellyblue	Portland, Oregon
+18090358	missionbicycle	San Francisco, California	1201261	cyclelicious	Santa Cruz, California USA
+18090358	missionbicycle	San Francisco, California	60214236	BikeShopGirlcom	Denver, Colorado
+18090358	missionbicycle	San Francisco, California	114487592	_Cycle_Chic	Copenhagen, Denmark
+18090358	missionbicycle	San Francisco, California	1481054280	BicycleLobby	
+18090358	missionbicycle	San Francisco, California	494400087	BlinkSteady	Brooklyn, NY
+18090358	missionbicycle	San Francisco, California	348667248	revolights	Emeryville, CA
+18090358	missionbicycle	San Francisco, California	18627550	SFPublicPress	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	5548952	AdrienneLaF	Pale Blue Dot
+18090358	missionbicycle	San Francisco, California	96376610	kristallakis	San Francisco
+18090358	missionbicycle	San Francisco, California	17540715	BTAOregon	Portland-Metro, Oregon
+18090358	missionbicycle	San Francisco, California	46586772	osloh	Brooklyn, NY
+18090358	missionbicycle	San Francisco, California	242576791	CycleOregon	Portland
+18090358	missionbicycle	San Francisco, California	102486146	uptownalmanac	San Francisco
+18090358	missionbicycle	San Francisco, California	44196397	elonmusk	1 AU
+18090358	missionbicycle	San Francisco, California	49909327	leahbike	
+18090358	missionbicycle	San Francisco, California	16457921	bikesnotbombs	Jamaica Plain, MA
+18090358	missionbicycle	San Francisco, California	817288	gaberivera	SF: Disruptopia, USA
+18090358	missionbicycle	San Francisco, California	43734327	TheRadavist	Los Angeles, CA
+18090358	missionbicycle	San Francisco, California	2610305089	wheelhouseOAK	Oakland, California
+18090358	missionbicycle	San Francisco, California	1270653338	BikeIndex	
+18090358	missionbicycle	San Francisco, California	811377	reddit	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	376387897	LightExposures	San Francisco
+18090358	missionbicycle	San Francisco, California	102154357	JSadikKhan	
+18090358	missionbicycle	San Francisco, California	16562949	7x7	San Francisco
+18090358	missionbicycle	San Francisco, California	257087759	somafab	San Francisco
+18090358	missionbicycle	San Francisco, California	109702390	sfmta_muni	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	463913297	TheRideJournal	London, UK
+18090358	missionbicycle	San Francisco, California	30068744	sanfranmag	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	1180545385	kainotkyle	PDX | OR
+18090358	missionbicycle	San Francisco, California	974261208	WomenBike	Washington, D.C.
+18090358	missionbicycle	San Francisco, California	1586501	nickbilton	LA
+18090358	missionbicycle	San Francisco, California	210942925	SFSAFE	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	17851242	TaylorStitch	San Francisco, California
+18090358	missionbicycle	San Francisco, California	16372225	Betabrand	780 Valencia Street
+18090358	missionbicycle	San Francisco, California	19093324	Chrome_Ind	SF, NYC, CHI, PDX, SEA, MPLS
+18090358	missionbicycle	San Francisco, California	242515927	huckbikes	San Francisco
+18090358	missionbicycle	San Francisco, California	13398422	derekbender	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	403699931	BikeSafeBoston	Boston, MA
+18090358	missionbicycle	San Francisco, California	291886727	inkwellhelmets	New York City
+18090358	missionbicycle	San Francisco, California	62768472	talktofrancis	Bristol, UK
+18090358	missionbicycle	San Francisco, California	15216569	ptraughber	San Francisco
+18090358	missionbicycle	San Francisco, California	44135322	yfreemark	Chicago, IL
+18090358	missionbicycle	San Francisco, California	623533	plattyjo	Broakland
+18090358	missionbicycle	San Francisco, California	74330856	SFStreetSweep	San Francisco
+18090358	missionbicycle	San Francisco, California	8073492	BikePortland	Portland, Oregon, USA
+18090358	missionbicycle	San Francisco, California	366690534	NACTO	
+18090358	missionbicycle	San Francisco, California	117941319	ChueyBrand	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	4234581	joestump	Portland, OR
+18090358	missionbicycle	San Francisco, California	1358492514	iladorawear	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	251144766	sammogannam	san francisco
+18090358	missionbicycle	San Francisco, California	40959360	SF311	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	424809705	thebikeinmylife	Melb.Lon.Lilongwe.SanFran.
+18090358	missionbicycle	San Francisco, California	133770062	SFTRU	San Francisco
+18090358	missionbicycle	San Francisco, California	93256503	stolenbikessfo	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	1624190701	SFPDBikeTheft	Park Station/San Francisco, CA
+18090358	missionbicycle	San Francisco, California	223991299	SFBikeParty	San Francisco
+18090358	missionbicycle	San Francisco, California	175091719	KarlTheFog	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	58513939	Bikeworksuk	London E1 5QJ, UK
+18090358	missionbicycle	San Francisco, California	36562226	rebargroup	San Francisco & Beyond
+18090358	missionbicycle	San Francisco, California	295754533	code_studio	Austin, TX
+18090358	missionbicycle	San Francisco, California	1507729339	designcycle_mbc	SF | CA
+18090358	missionbicycle	San Francisco, California	331803536	CityLab	
+18090358	missionbicycle	San Francisco, California	194211853	PapergirlSF	San Francisco
+18090358	missionbicycle	San Francisco, California	16318114	sfgov	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	172020392	TwitterSF	San Francisco 
+18090358	missionbicycle	San Francisco, California	18928144	Living_Cities	New York, NY - Washington, DC
+18090358	missionbicycle	San Francisco, California	10682752	kevinmonty	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	79033804	ChrisKulczycki	Annapolis, MD, USA
+18090358	missionbicycle	San Francisco, California	2212361	DocPop	The Mission, San Francisco, CA
+18090358	missionbicycle	San Francisco, California	574168493	mcgregor_ewan	
+18090358	missionbicycle	San Francisco, California	14106829	AlexSteffen	San Francisco
+18090358	missionbicycle	San Francisco, California	58521743	MITCoLab	Cambridge
+18090358	missionbicycle	San Francisco, California	23462787	ideo	
+18090358	missionbicycle	San Francisco, California	588080813	urbanproto	
+18090358	missionbicycle	San Francisco, California	12994322	GoldenGatePark	San Francisco, California
+18090358	missionbicycle	San Francisco, California	128750686	StreetsblogNYC	New York City
+18090358	missionbicycle	San Francisco, California	38539630	SPUR_Urbanist	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	194509737	brooksengland	Smethwick, West Midlands
+18090358	missionbicycle	San Francisco, California	38699259	penabrand	san francisco
+18090358	missionbicycle	San Francisco, California	43468044	mashsf	San Francisco CA 
+18090358	missionbicycle	San Francisco, California	536965103	haxor	San Francisco
+18090358	missionbicycle	San Francisco, California	262978462	bloodhound	San Francisco
+18090358	missionbicycle	San Francisco, California	64848840	bicyclecoffeeco	San Francisco Bay Area
+18090358	missionbicycle	San Francisco, California	17854063	stephanjenkins	SF
+18090358	missionbicycle	San Francisco, California	30399127	stevevance	Chicago, IL
+18090358	missionbicycle	San Francisco, California	180505807	instagram	
+18090358	missionbicycle	San Francisco, California	16634635	MLNow	Mission Dist., San Francisco
+18090358	missionbicycle	San Francisco, California	25485897	rapha	Intercontinental
+18090358	missionbicycle	San Francisco, California	19267963	rapha_n_america	On the road.
+18090358	missionbicycle	San Francisco, California	27103490	outlandishjosh	Spaceship San Francisco
+18090358	missionbicycle	San Francisco, California	10609	superamit	Portland, OR
+18090358	missionbicycle	San Francisco, California	20004697	portlanddesignw	Portland, Oregon
+18090358	missionbicycle	San Francisco, California	19368361	bikesnobnyc	New York City
+18090358	missionbicycle	San Francisco, California	19259937	markdwight	San Francisco
+18090358	missionbicycle	San Francisco, California	102225578	missionworkshop	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	205472556	aetherapparel	Los Angeles, California
+18090358	missionbicycle	San Francisco, California	6328572	juliarosen	
+18090358	missionbicycle	San Francisco, California	7694	zack	San Francisco
+18090358	missionbicycle	San Francisco, California	10803212	bikehugger	Seattle
+18090358	missionbicycle	San Francisco, California	39396585	QualityBike	Bloomington, MN
+18090358	missionbicycle	San Francisco, California	11969	zachklein	SF
+18090358	missionbicycle	San Francisco, California	17470088	Velo_Orange	Annapolis, MD
+18090358	missionbicycle	San Francisco, California	17815546	copenhagenize	Copenhagen, Denmark
+18090358	missionbicycle	San Francisco, California	21922458	rickshawbags	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	4579621	populist	san francisco, ca
+18090358	missionbicycle	San Francisco, California	35554723	humphryslocombe	San Francisco
+18090358	missionbicycle	San Francisco, California	5718842	nataliehg	san francisco
+18090358	missionbicycle	San Francisco, California	14986550	andrewbadr	Brooklyn, NY
+18090358	missionbicycle	San Francisco, California	24913801	bikekitchen	San Francisco
+18090358	missionbicycle	San Francisco, California	15804941	DoloresPark	San Francisco,CA
+18090358	missionbicycle	San Francisco, California	30318395	StreetsblogSF	San Francisco, California
+18090358	missionbicycle	San Francisco, California	22997907	BiRiteSF	3639 18th St., SF 94110
+18090358	missionbicycle	San Francisco, California	14093707	SFist	San Francisco
+18090358	missionbicycle	San Francisco, California	24714819	missioncycling	The Mission, San Francisco
+18090358	missionbicycle	San Francisco, California	14398638	missionmission	San Francisco
+18090358	missionbicycle	San Francisco, California	17332573	AIDSLifeCycle	San Francisco & Los Angeles
+18090358	missionbicycle	San Francisco, California	21780251	Gary_Fisher	San Francisco, USA
+18090358	missionbicycle	San Francisco, California	22538934	BicycleRetailer	Laguna Hills, CA
+18090358	missionbicycle	San Francisco, California	19307194	MomentumMag	North America
+18090358	missionbicycle	San Francisco, California	14995801	timbuk2	San Francisco, CA
+18090358	missionbicycle	San Francisco, California	18996957	crankbrothers	Laguna Beach, CA
+18090358	missionbicycle	San Francisco, California	20187443	sfbike	San Francisco
+18090358	missionbicycle	San Francisco, California	24450448	BikeToWorkSFBay	San Francisco Bay Area
+18090358	missionbicycle	San Francisco, California	18658739	boxdogbikes	iPhone: 44.212597,-69.058945
+18090358	missionbicycle	San Francisco, California	29643412	SFUrbanRiders	San Francisco
+18090358	missionbicycle	San Francisco, California	34797228	SJFixed	San Jose, CA 
+18090358	missionbicycle	San Francisco, California	25085215	BikeLeague	Washington, D.C.
+18090358	missionbicycle	San Francisco, California	16519463	mikesbikes	All Over Northern California
+18090358	missionbicycle	San Francisco, California	19710454	UrbanBiking	Buenos Aires, Argentina
+18090358	missionbicycle	San Francisco, California	16102065	fixedgearbikes	Everywhere. 
+18090358	missionbicycle	San Francisco, California	18101222	somelovelyone	Milan, Italy
+29100407	jwtranslation	Chiba Prefecture, Japan	208284279	TOYSRUS_JP	
+29100407	jwtranslation	Chiba Prefecture, Japan	2367296695	ciribarcena619	Caracas
+29100407	jwtranslation	Chiba Prefecture, Japan	2437052047	Gleaming_Sword	Japan
+29100407	jwtranslation	Chiba Prefecture, Japan	2841204174	ocha_natalie	Sydney
+29100407	jwtranslation	Chiba Prefecture, Japan	3021451737	BrooksCareyL	
+29100407	jwtranslation	Chiba Prefecture, Japan	78992857	Herms98	
+29100407	jwtranslation	Chiba Prefecture, Japan	2862767406	eigox1	
+19508427	particleteam	San Francisco, CA	621208337	subatomicly	San Francisco, CA
+19508427	particleteam	San Francisco, CA	376344501	BreadAndGin	San Francisco
+19508427	particleteam	San Francisco, CA	357732333	JetpacApp	San Francisco, CA
+19508427	particleteam	San Francisco, CA	310940943	H_A_L_9_0_0_0	
+19508427	particleteam	San Francisco, CA	273182541	_TSEliot	
+19508427	particleteam	San Francisco, CA	16129417	swestdahl	Oaksterdam, CA, USSA
+19508427	particleteam	San Francisco, CA	4103881	ThomasLS	New York City
+19508427	particleteam	San Francisco, CA	269884478	re_Kerouac	Saint-Hilarion, PQ
+19508427	particleteam	San Francisco, CA	263951081	ro_bo_to	
+19508427	particleteam	San Francisco, CA	18509781	visde	San Francisco, CA
+19508427	particleteam	San Francisco, CA	258874128	tweenBeckett	
+19508427	particleteam	San Francisco, CA	255679688	b_e_h_e_m_o_t_h	Moscow, USSR
+19508427	particleteam	San Francisco, CA	258146081	bigfriendgiant	
+19508427	particleteam	San Francisco, CA	250936341	JayDeeSal	SoMa
+19508427	particleteam	San Francisco, CA	250931222	FranzyKaf	
+19508427	particleteam	San Francisco, CA	250928227	DirtyOlBukowski	Your Tenderlion 
+19508427	particleteam	San Francisco, CA	255653337	erinorison	
+19508427	particleteam	San Francisco, CA	257232423	MrMillerSurfin	
+19508427	particleteam	San Francisco, CA	253429113	sylv_plath	Northbrook
+19508427	particleteam	San Francisco, CA	253435311	emp_norton	
+19508427	particleteam	San Francisco, CA	251209644	_keithmoon	La Lune
+19508427	particleteam	San Francisco, CA	239486352	Sariyahsea	Dublin, Ex-San Francisco
+19508427	particleteam	San Francisco, CA	8089982	jasonbrush	Los Angeles
+19508427	particleteam	San Francisco, CA	23309992	rinkae_	helsinki
+19508427	particleteam	San Francisco, CA	202750132	standardquality	Santa Monica, CA, USA
+19508427	particleteam	San Francisco, CA	188786891	ecoworkshop	oakland + san francisco 
+19508427	particleteam	San Francisco, CA	22453	escapist	Los Angeles
+19508427	particleteam	San Francisco, CA	10383932	bergrbergr	Lenexa / Kansas City
+19508427	particleteam	San Francisco, CA	4708351	Poshy	San Francisco
+19508427	particleteam	San Francisco, CA	9086282	korevec	San Francisco, CA
+19508427	particleteam	San Francisco, CA	792690	hoverbird	Sane Francisco
+19508427	particleteam	San Francisco, CA	103550181	Crowdfire	Everywhere
+19508427	particleteam	San Francisco, CA	43990364	chariseEO	wisconsin
+19508427	particleteam	San Francisco, CA	16488092	thelovelymaia	Made in USA
+19508427	particleteam	San Francisco, CA	14754932	ElleKingMusic	
+19508427	particleteam	San Francisco, CA	3533231	Pistachio	Boston, MA
+19508427	particleteam	San Francisco, CA	96077938	tencinema	California, USA
+19508427	particleteam	San Francisco, CA	19100152	Kiiki	The Mission, San Francisco
+19508427	particleteam	San Francisco, CA	11768582	garrytan	San Francisco, CA
+19508427	particleteam	San Francisco, CA	25134244	aysevanla	
+19508427	particleteam	San Francisco, CA	18469490	4kingandcountry	Nashville, TN | Australia
+19508427	particleteam	San Francisco, CA	17136590	RobSimon	Amsterdam
+19508427	particleteam	San Francisco, CA	45653007	PePingue	BerlinCITY
+19508427	particleteam	San Francisco, CA	24371732	NatLaursen	Denmark
+19508427	particleteam	San Francisco, CA	45076480	bishopandcoHI	Honolulu, HI
+19508427	particleteam	San Francisco, CA	18715076	smithereeeeens	Houston, Texas
+19508427	particleteam	San Francisco, CA	26680618	mike_charge	Brooklyn Ny
+19508427	particleteam	San Francisco, CA	17240529	AgentJoanTaie	Seattle WA area
+19508427	particleteam	San Francisco, CA	14729615	yinghanc	heart of the nebula
+19508427	particleteam	San Francisco, CA	42492708	OttoGribel	Brazil
+19508427	particleteam	San Francisco, CA	38400690	inesredjeb	hamburg
+19508427	particleteam	San Francisco, CA	16154572	lejessica	Uranus, Texas
+19508427	particleteam	San Francisco, CA	19792372	JohnnyBiceps	Los Angeles, CA
+19508427	particleteam	San Francisco, CA	13484972	erictherobot	Brooklyn, NY
+19508427	particleteam	San Francisco, CA	18922994	desmondaldridge	
+19508427	particleteam	San Francisco, CA	26435675	tayamarquis	
+19508427	particleteam	San Francisco, CA	22271931	warnernewman	WAR Video http://po.st/vYfp4P
+19508427	particleteam	San Francisco, CA	964271	kelseyp	San Francisco, CA
+10751252	TripIt	San Francisco, CA	18779385	SkeeryJones	New York, NY
+10751252	TripIt	San Francisco, CA	19956026	elvisduran	 Everywhere
+10751252	TripIt	San Francisco, CA	110626303	bg26892	
+10751252	TripIt	San Francisco, CA	39936392	darrenkahan	
+10751252	TripIt	San Francisco, CA	27602694	notnathan	Seattle
+10751252	TripIt	San Francisco, CA	57758942	Tammileetips	Spokane, Washington
+10751252	TripIt	San Francisco, CA	58638631	TravelingEditor	Moving target
+10751252	TripIt	San Francisco, CA	24569636	HPLifestyle	
+10751252	TripIt	San Francisco, CA	243729969	WorldTravelInc	Global
+10751252	TripIt	San Francisco, CA	22748781	FroschTravel	Houston, TX / New York, NY
+10751252	TripIt	San Francisco, CA	267265953	WorldTravelSvc	Washington DC Metro Area
+10751252	TripIt	San Francisco, CA	67416413	FCm_USA	
+10751252	TripIt	San Francisco, CA	41272388	alexbogdan2	Silicon Valley
+10751252	TripIt	San Francisco, CA	17911957	laurafrofro	San Francisco
+10751252	TripIt	San Francisco, CA	440981708	danielshamilton	Berkeley, CA
+10751252	TripIt	San Francisco, CA	8010462	randyjohnston	St. Louis
+10751252	TripIt	San Francisco, CA	1466347219	vaca8advice	
+10751252	TripIt	San Francisco, CA	25079591	bjvrielink	
+10751252	TripIt	San Francisco, CA	24279126	lovesey	Toronto, Canada
+10751252	TripIt	San Francisco, CA	24511286	arrowbloke	Melbourne, Victoria, Australia
+10751252	TripIt	San Francisco, CA	57840491	leahgwin	Nashville
+10751252	TripIt	San Francisco, CA	1428039708	TravelYesPlease	Edmonton, AB
+10751252	TripIt	San Francisco, CA	128969580	SSmithWriter	
+10751252	TripIt	San Francisco, CA	63796828	verified	San Francisco
+10751252	TripIt	San Francisco, CA	21122950	hapsci	Aberdeen
+10751252	TripIt	San Francisco, CA	2141311	Anthony_Caruana	Australia
+10751252	TripIt	San Francisco, CA	1010957358	JetlagandMayhem	Hong Kong  London
+10751252	TripIt	San Francisco, CA	159581885	RIMOWA	Cologne, Germany
+10751252	TripIt	San Francisco, CA	345166612	adachiu_	Vancouver
+10751252	TripIt	San Francisco, CA	628632969	SAPsv	Silicon Valley, CA
+10751252	TripIt	San Francisco, CA	526174872	RueckertTanja	Views are my own
+10751252	TripIt	San Francisco, CA	41169953	jbecher	
+10751252	TripIt	San Francisco, CA	14986522	quentinclark	Palo Alto, CA
+10751252	TripIt	San Francisco, CA	51939785	JenniferBMorgan	Philadelphia, PA
+10751252	TripIt	San Francisco, CA	2333017830	exploretravel1	Hsinchu Taiwan
+10751252	TripIt	San Francisco, CA	417811367	TravelPast50	Nomadic
+10751252	TripIt	San Francisco, CA	15162136	CherylStrayed	Portland, Oregon
+10751252	TripIt	San Francisco, CA	18089041	bob_lewis	Redmond, WA
+10751252	TripIt	San Francisco, CA	21942469	meber99	Somewhere at 30,000 ft
+10751252	TripIt	San Francisco, CA	15337977	jlwebuser	
+10751252	TripIt	San Francisco, CA	222703013	elenadonio	Seattle, WA
+10751252	TripIt	San Francisco, CA	2388695586	mohan44693531	Dehradun ukd. India.
+10751252	TripIt	San Francisco, CA	13210402	monikarun	Denver, Boulder & Fort Collins
+10751252	TripIt	San Francisco, CA	14626892	ExodusTravels	London
+10751252	TripIt	San Francisco, CA	15647353	Intrepid_Travel	Worldwide
+10751252	TripIt	San Francisco, CA	2649127856	johancphoto	Cape Town
+10751252	TripIt	San Francisco, CA	25381394	Upwardly_Global	NY, SF, CH, DT, SS
+28052839	jtoothman25	San Francisco, CA	56798334	BBTN	Bristol, CT
+28052839	jtoothman25	San Francisco, CA	185420422	karlravechespn	Bristol, Ct.
+28052839	jtoothman25	San Francisco, CA	19418459	JerryBrownGov	California
+28052839	jtoothman25	San Francisco, CA	23501022	pgammo	
+28052839	jtoothman25	San Francisco, CA	36139166	JonHeymanCBS	Miami, New York
+28052839	jtoothman25	San Francisco, CA	259375460	Kurkjian_ESPN	
+28052839	jtoothman25	San Francisco, CA	20261503	michaelfranti	San Francisco
+28052839	jtoothman25	San Francisco, CA	19735580	jaysonst	Philadelphia
+28052839	jtoothman25	San Francisco, CA	104014974	Yan_AGomes	
+28052839	jtoothman25	San Francisco, CA	257647552	TheJK_Kid	
+28052839	jtoothman25	San Francisco, CA	18691328	mlbtraderumors	Glen Ellyn, IL
+28052839	jtoothman25	San Francisco, CA	90959399	Ken_Rosenthal	New York
+18750101	WorktoLive	San Francisco, CA	2812039663	RainFactoryInc	Oakland, CA
+18750101	WorktoLive	San Francisco, CA	116949680	broppler	san francisco
+18750101	WorktoLive	San Francisco, CA	130249734	izacafilm	Santa Cruz, CA 
+18750101	WorktoLive	San Francisco, CA	33150970	gvbprasad	India
+18750101	WorktoLive	San Francisco, CA	14615871	EPA	USA
+18750101	WorktoLive	San Francisco, CA	38855353	ACOEM	Elk Grove Village, IL
+18750101	WorktoLive	San Francisco, CA	5438892	WorkSafeBC	Richmond, BC
+18750101	WorktoLive	San Francisco, CA	20076000	NIOSH	Washington DC 
+18750101	WorktoLive	San Francisco, CA	6017542	BreakingNews	Global
+18750101	WorktoLive	San Francisco, CA	21152181	Stansbury	United States of America
+18750101	WorktoLive	San Francisco, CA	30313925	WhiteHouse	Washington, DC
+18750101	WorktoLive	San Francisco, CA	54546430	EPAresearch	11 states + DC
+18750101	WorktoLive	San Francisco, CA	62213006	JudyKallas	Las Vegas, Nevada
+18750101	WorktoLive	San Francisco, CA	85741689	SILICOSISLUNGS	
+18750101	WorktoLive	San Francisco, CA	78733213	occupknowledge	San Francisco, CA
+18750101	WorktoLive	San Francisco, CA	19826509	openculture	Mountain View, CA
+18750101	WorktoLive	San Francisco, CA	15662922	Mattgar	Big lights will inspi-ya you
+18750101	WorktoLive	San Francisco, CA	17456294	JonathanZuk	Weehawken, NJ
+18750101	WorktoLive	San Francisco, CA	5819322	mutgoff	san francisco
+14159448	miznora	San Francisco, CA	37971731	petapixel	The World Wide Web
+14159448	miznora	San Francisco, CA	10422602	BHPhotoVideo	420 9th Ave New York, NY 10001
+14159448	miznora	San Francisco, CA	18138971	ScottKelby	Tampa, Florida
+14159448	miznora	San Francisco, CA	71872586	foolywk	Los Angeles, CA
+14159448	miznora	San Francisco, CA	47797211	Lightroom	
+14159448	miznora	San Francisco, CA	259932481	RachJoy12	
+14159448	miznora	San Francisco, CA	259442879	mardigrasgirls	
+14159448	miznora	San Francisco, CA	7563792	ussoccer	United States
+14159448	miznora	San Francisco, CA	552871925	sebfung	San Francisco
+14159448	miznora	San Francisco, CA	9027932	lifehackorg	
+14159448	miznora	San Francisco, CA	130893643	balletbeautiful	New York, NY
+14159448	miznora	San Francisco, CA	14878475	thibault_imbert	San Francisco
+14159448	miznora	San Francisco, CA	601270110	PaulSlakey	Palo Alto, CA
+14159448	miznora	San Francisco, CA	29535820	VuongN	Boston, MA
+14159448	miznora	San Francisco, CA	17899109	gatesfoundation	Seattle, Washington
+14159448	miznora	San Francisco, CA	21668776	anm	San Francisco, CA
+14159448	miznora	San Francisco, CA	247378651	natezemanphoto	Breckenridge, Colorado
+14159448	miznora	San Francisco, CA	11348282	NASA	
+14159448	miznora	San Francisco, CA	35411814	willsouthwood	PDX
+14159448	miznora	San Francisco, CA	20640328	Digiday	New York
+14159448	miznora	San Francisco, CA	166692856	ibringtraffic	Atherton California
+14159448	miznora	San Francisco, CA	186270143	bradrencher	
+14159448	miznora	San Francisco, CA	11786322	karlisimo	Bay Area
+14159448	miznora	San Francisco, CA	254015319	upajic	San Francisco, CA
+14159448	miznora	San Francisco, CA	120508622	themikechua	LA - NYC - LV - London - Macao
+14159448	miznora	San Francisco, CA	104653944	dezignhero	
+14159448	miznora	San Francisco, CA	1340478421	toinfinity_neon	New Jersey, USA
+14159448	miznora	San Francisco, CA	28029590	adammendler	Los Angeles, CA
+14159448	miznora	San Francisco, CA	853606502	SiliconBeach_LA	Los Angeles, Ca.
+14159448	miznora	San Francisco, CA	235305264	seanvwork	Usually somewhere near I5
+14159448	miznora	San Francisco, CA	355964175	PhotoshopTouch	
+14159448	miznora	San Francisco, CA	501803528	Brumitron	Los Angeles
+14159448	miznora	San Francisco, CA	139965547	jedrhein	LA
+14159448	miznora	San Francisco, CA	16225313	BrieB	Northern California
+14159448	miznora	San Francisco, CA	15431876	michaelchasen	Washington, DC
+14159448	miznora	San Francisco, CA	291769626	rob_mclovin	New York, NY
+14159448	miznora	San Francisco, CA	19211436	choukevin	Seattle, WA
+14159448	miznora	San Francisco, CA	434130489	TheRealSheldonC	Pasadena, CA
+14159448	miznora	San Francisco, CA	14092700	chaoticflow	San Francisco
+14159448	miznora	San Francisco, CA	15859644	wittlake	Portland, OR
+14159448	miznora	San Francisco, CA	55315217	BrennerMichael	Philadelphia, PA
+14159448	miznora	San Francisco, CA	27825390	ericstonestreet	Los Angeles
+14159448	miznora	San Francisco, CA	38329264	JasonMillerCA	San Francisco, CA
+14159448	miznora	San Francisco, CA	17310484	DanielJSullivan	Brooklyn NY
+14159448	miznora	San Francisco, CA	32340023	GoPro	
+14159448	miznora	San Francisco, CA	732870450	Christ_Baldwin	London / Northumberland
+14159448	miznora	San Francisco, CA	14464767	TwistedSifter	Toronto, Canada, Terra Firma
+14159448	miznora	San Francisco, CA	18073898	iamandycunning	UK
+14159448	miznora	San Francisco, CA	63788496	InDesign	Seattle
+14159448	miznora	San Francisco, CA	23822236	Illustrator	All over the world.
+14159448	miznora	San Francisco, CA	112778281	AdobeDigitalPub	On your tablet and phone
+14159448	miznora	San Francisco, CA	147518360	JonathanTorke	Germany
+14159448	miznora	San Francisco, CA	22211847	jimheiser	Silicon Valley and Napa Valley
+14159448	miznora	San Francisco, CA	29300560	SachinKamdar	New York
+14159448	miznora	San Francisco, CA	1033895516	Yaumama	
+14159448	miznora	San Francisco, CA	41446955	AMBlisss	San Francisco, CA
+14159448	miznora	San Francisco, CA	21736165	deeebeau	San Francisco, CA
+14159448	miznora	San Francisco, CA	37160562	panchalak	The Kingdom of Thailand
+14159448	miznora	San Francisco, CA	14785617	kajorn	Pomprab, Bangkok, Thailand
+14159448	miznora	San Francisco, CA	17333679	themadray	San Francisco
+14159448	miznora	San Francisco, CA	19038849	HOWbrand	Cincinnati
+14159448	miznora	San Francisco, CA	96241594	milloteam	
+14159448	miznora	San Francisco, CA	431937999	Swarmly	Global - Be part of the buzz!
+14159448	miznora	San Francisco, CA	271288827	conkim01	Los Angeles
+14159448	miznora	San Francisco, CA	237783710	JoeyKennedy2011	Washington DC
+14159448	miznora	San Francisco, CA	302053278	Curalate	Philly, NYC & Seattle
+14159448	miznora	San Francisco, CA	16896485	Inc	New York City
+14159448	miznora	San Francisco, CA	32127116	BrandIndex	
+14159448	miznora	San Francisco, CA	56769616	adobeshuttle	San Francisco, ca
+14159448	miznora	San Francisco, CA	155439006	Gribov	
+14159448	miznora	San Francisco, CA	136886986	mpublic	San Francisco, CA
+14159448	miznora	San Francisco, CA	62217456	noeldeomampo	
+14159448	miznora	San Francisco, CA	31168433	aeturn	Los Angeles
+14159448	miznora	San Francisco, CA	201531576	jenhebert	San Francisco
+14159448	miznora	San Francisco, CA	70686275	ryfong	
+14159448	miznora	San Francisco, CA	105960833	georgiethomas24	40.705841,-74.158993
+14159448	miznora	San Francisco, CA	221005474	inspirefirst	world wide web
+14159448	miznora	San Francisco, CA	69870289	ILGM	Colorado Springs
+14159448	miznora	San Francisco, CA	93254617	KasperTeichman	90024 (Westwood, CA)
+14159448	miznora	San Francisco, CA	28622912	jentrekker	Santa Monica, CA
+14159448	miznora	San Francisco, CA	509466758	StutiGoswamy	
+14159448	miznora	San Francisco, CA	243377958	GoDirtyGirl	United States
+14159448	miznora	San Francisco, CA	9313022	Behance	
+14159448	miznora	San Francisco, CA	76410654	UNITpartners	San Francisco
+14159448	miznora	San Francisco, CA	15151711	AdobeMktgCloud	Worldwide
+14159448	miznora	San Francisco, CA	51471268	SohanJ	Pune, Maharashtra
+14159448	miznora	San Francisco, CA	167122368	Rataeua	
+14159448	miznora	San Francisco, CA	30022913	alewnes	
+14159448	miznora	San Francisco, CA	100446616	alex2namez	
+14159448	miznora	San Francisco, CA	15991203	abraisnic	Minneapolis, MN
+14159448	miznora	San Francisco, CA	411804762	InStyleDecorSF	San Francisco
+14159448	miznora	San Francisco, CA	18698960	gusba89	Boston, Massachusetts
+14159448	miznora	San Francisco, CA	26745004	Sartorialist	New York
+14159448	miznora	San Francisco, CA	29123186	DerekBlasberg	New York City
+14159448	miznora	San Francisco, CA	51201942	Lunitide	
+14159448	miznora	San Francisco, CA	14248033	chadrobley	San Diego ~ Los Angeles
+14159448	miznora	San Francisco, CA	312900548	AdobeMuse	Adobe Systems
+14159448	miznora	San Francisco, CA	15473958	MarsCuriosity	Gale Crater, Mars
+14159448	miznora	San Francisco, CA	1652541	Reuters	Around the world
+14159448	miznora	San Francisco, CA	243805443	jason_pearl	The Bay
+14159448	miznora	San Francisco, CA	16916799	joshjames	Utah
+14159448	miznora	San Francisco, CA	27781496	theh0f	Los Angeles, CA
+14159448	miznora	San Francisco, CA	325283922	phillsohn	Bay Area x LA x Seattle
+14159448	miznora	San Francisco, CA	171586687	CloudVids	
+14159448	miznora	San Francisco, CA	300569056	PSDBoutique	
+14159448	miznora	San Francisco, CA	287970510	uluria	
+14159448	miznora	San Francisco, CA	38400880	StickyStimuli	San Francisco, CA
+14159448	miznora	San Francisco, CA	15931491	AndrewKelsall	#England, #UK
+14159448	miznora	San Francisco, CA	256070281	ssbrown27	
+14159448	miznora	San Francisco, CA	147107242	jjrmilner	Johannesburg South Africa
+14159448	miznora	San Francisco, CA	292807200	call_me_simon	London
+14159448	miznora	San Francisco, CA	98903251	Totango	San Mateo, CA
+14159448	miznora	San Francisco, CA	624683	Stammy	San Francisco, CA
+14159448	miznora	San Francisco, CA	170424259	JLin7	
+14159448	miznora	San Francisco, CA	807095	nytimes	New York City
+14159448	miznora	San Francisco, CA	3108351	WSJ	New York, NY
+14159448	miznora	San Francisco, CA	1344951	WIRED	San Francisco/New York
+14159448	miznora	San Francisco, CA	282130196	AdobeCCDesign	San Francisco, CA
+14159448	miznora	San Francisco, CA	18188445	terrylwhite	Atlanta GA
+14159448	miznora	San Francisco, CA	6472582	rufusd	Florence, Italy
+14159448	miznora	San Francisco, CA	37966161	mygeekfinder	Los Angeles
+14159448	miznora	San Francisco, CA	14162153	DavidAirey	Bangor, Northern Ireland
+14159448	miznora	San Francisco, CA	1753061	thelogosmith	Seaford, East Sussex, England.
+14159448	miznora	San Francisco, CA	14444403	sixrevisions	
+14159448	miznora	San Francisco, CA	117590354	Inspirationf	Washington D.C
+14159448	miznora	San Francisco, CA	14544190	chrisspooner	UK
+14159448	miznora	San Francisco, CA	16367816	socialdotcom	
+14159448	miznora	San Francisco, CA	824211	bokardo	Newburyport, MA
+14159448	miznora	San Francisco, CA	12603912	davidlano	USA
+14159448	miznora	San Francisco, CA	17636405	DesignerDepot	Vancouver, Canada
+14159448	miznora	San Francisco, CA	700098168	chrisphorwood	
+14159448	miznora	San Francisco, CA	65525881	Photoshop	
+14159448	miznora	San Francisco, CA	481598648	creativecloud	Anywhere
+14159448	miznora	San Francisco, CA	29500609	Creativesuite	Anywhere
+14159448	miznora	San Francisco, CA	210810706	search_hacker	
+14159448	miznora	San Francisco, CA	117442888	SocialTimes	
+14159448	miznora	San Francisco, CA	327704522	socialrati	SF Bay Area
+14159448	miznora	San Francisco, CA	355817407	BecsMay	
+14159448	miznora	San Francisco, CA	17058224	paulogabriel	Porto Alegre
+14159448	miznora	San Francisco, CA	357903207	JamesAugustVogl	Santa Monica, CA
+14159448	miznora	San Francisco, CA	27029537	APStylebook	Print, Web, Mobile 
+14159448	miznora	San Francisco, CA	207306689	alex_MBA2012	
+14159448	miznora	San Francisco, CA	31838190	WillieChiang	Los Angeles, CA
+14159448	miznora	San Francisco, CA	83327081	alexgyr	Palo Alto, CA
+14159448	miznora	San Francisco, CA	145542114	kk2030	Chicago, IL
+14159448	miznora	San Francisco, CA	246499799	SurpriseSomeone	Los Angeles, CA
+14159448	miznora	San Francisco, CA	260472550	NickEncoreBeach	Las Vegas, NV
+14159448	miznora	San Francisco, CA	339151693	rpary	Palo Alto
+14159448	miznora	San Francisco, CA	143530102	danerstad	New York
+14159448	miznora	San Francisco, CA	450951079	EamonnBest	New York, New York
+14159448	miznora	San Francisco, CA	972651	mashable	
+14159448	miznora	San Francisco, CA	21734182	sbraude	San Jose, CA
+14159448	miznora	San Francisco, CA	47539748	Bill_Gross	Pasadena, CA
+14159448	miznora	San Francisco, CA	16100264	marymin	San Francisco, CA
+14159448	miznora	San Francisco, CA	106837463	Pinterest	San Francisco, CA
+14159448	miznora	San Francisco, CA	18168275	ClosetAmbitions	Los Angeles
+14159448	miznora	San Francisco, CA	65984457	jlwang84	Seattle
+14159448	miznora	San Francisco, CA	15809313	johnnewhouse	LA
+14159448	miznora	San Francisco, CA	19781200	comScore	Reston, VA
+14159448	miznora	San Francisco, CA	19894984	jeffberezny	San Francisco Bay Area
+14159448	miznora	San Francisco, CA	14514804	freakonomics	
+14159448	miznora	San Francisco, CA	2425151	facebook	Menlo Park, California
+14159448	miznora	San Francisco, CA	55042603	edmundmccormack	
+14159448	miznora	San Francisco, CA	18240655	CMIContent	Cleveland, OH
+14159448	miznora	San Francisco, CA	28420170	brandchannel	Global
+14159448	miznora	San Francisco, CA	30261067	CNET	San Francisco
+14159448	miznora	San Francisco, CA	244313404	FormationNow	1-800-420-9413
+14159448	miznora	San Francisco, CA	4641021	RWW	World Wide Web
+14159448	miznora	San Francisco, CA	19407053	Entrepreneur	NYC | Orange County, CA
+14159448	miznora	San Francisco, CA	5520332	msuster	Los Angeles
+14159448	miznora	San Francisco, CA	63786611	Adobe	Location: All over the world.
+14159448	miznora	San Francisco, CA	19943997	mikegyulai	los angeles, ca
+14159448	miznora	San Francisco, CA	7943872	michaelemeyers	10011
+14159448	miznora	San Francisco, CA	407370716	DanielGulati	New York
+14159448	miznora	San Francisco, CA	51201567	lq_tweets	Los Angeles
+14159448	miznora	San Francisco, CA	385289522	pengosaurus	
+14159448	miznora	San Francisco, CA	18220249	WSJdigits	New York, NY
+14159448	miznora	San Francisco, CA	8841372	SAI	New York, NY
+14159448	miznora	San Francisco, CA	33612317	salesforce	San Francisco, CA
+14159448	miznora	San Francisco, CA	5746402	allthingsd	
+14159448	miznora	San Francisco, CA	18267597	gigaommedia	Global
+14159448	miznora	San Francisco, CA	17397024	alicekatesheng	
+14159448	miznora	San Francisco, CA	13058772	LinkedIn	Mountain View, CA
+14159448	miznora	San Francisco, CA	306090645	thyfactor	
+14159448	miznora	San Francisco, CA	145793019	AIMS_Marketing	Los Angeles
+14159448	miznora	San Francisco, CA	462264642	BethScott12	
+14159448	miznora	San Francisco, CA	40601669	DZMcGrath	New York, New York
+14159448	miznora	San Francisco, CA	6385432	dickc	San Francisco
+14159448	miznora	San Francisco, CA	43403778	49ers	Santa Clara, CA
+14159448	miznora	San Francisco, CA	455213858	d_tsang	San Francisco, CA
+14159448	miznora	San Francisco, CA	243826708	thepersonatalie	Hong Kong
+14159448	miznora	San Francisco, CA	17968618	jwelde	New York, NY
+14159448	miznora	San Francisco, CA	180505807	instagram	
+14159448	miznora	San Francisco, CA	125203154	pinjoanne	San Francisco
+14159448	miznora	San Francisco, CA	405397075	NikkoSportsUS	
+14159448	miznora	San Francisco, CA	107512641	digitalkniss	Santa Monica
+14159448	miznora	San Francisco, CA	301363832	oraclehardware	Redwood Shores, CA
+14159448	miznora	San Francisco, CA	19306636	jchernov	Melrose, MA
+14159448	miznora	San Francisco, CA	15418494	mrdcohen	NYC
+14159448	miznora	San Francisco, CA	23092890	uscensusbureau	
+14159448	miznora	San Francisco, CA	21217761	eMarketer	
+14159448	miznora	San Francisco, CA	32951553	patrickjonsmith	Los Angeles, CA
+14159448	miznora	San Francisco, CA	17663164	rishad	
+14159448	miznora	San Francisco, CA	10822612	shanesteele	San Francisco, CA 
+14159448	miznora	San Francisco, CA	14352016	TribalWorldwide	New York, NY
+14159448	miznora	San Francisco, CA	23540674	pmo1	Tehran
+14159448	miznora	San Francisco, CA	25551084	rubixkid	
+14159448	miznora	San Francisco, CA	38480159	khartbarger	Chicago, IL
+14159448	miznora	San Francisco, CA	20550347	SamHarts	Chicago, IL
+14159448	miznora	San Francisco, CA	19341871	dgouldo	Chicago
+14159448	miznora	San Francisco, CA	37990030	jonpotter6	New York
+14159448	miznora	San Francisco, CA	34055098	mitchspolan	Atlanta, GA
+14159448	miznora	San Francisco, CA	25907482	DaveNordstrom	Japan
+14159448	miznora	San Francisco, CA	9129562	brianhovis	
+14159448	miznora	San Francisco, CA	8175372	sethg	SF Bay Area
+14159448	miznora	San Francisco, CA	279065518	jeffrigram	
+14159448	miznora	San Francisco, CA	28172590	erichad	N Y C + SF + PARK CITY + MBC
+12193402	shaig	Israel	65647594	StationCDRKelly	International Space Station
+12193402	shaig	Israel	1532601	dherman76	New York, NY
+12193402	shaig	Israel	17755042	wmougayar	Toronto, Canada
+12193402	shaig	Israel	28017255	atShruti	San Francisco
+12193402	shaig	Israel	85623871	dafrankel	Boston / NY
+12193402	shaig	Israel	14626738	sprint	Overland Park, KS
+12193402	shaig	Israel	1934317855	HorsleyBridge	san francisco-london-beijing
+12193402	shaig	Israel	372480639	justmadhu	NYC
+12193402	shaig	Israel	15851872	MikeDuda	Brooklyn * Greenwich
+12193402	shaig	Israel	191098143	mamoonha	Palo Alto, California
+12193402	shaig	Israel	14834340	jayrosen_nyu	New York City
+12193402	shaig	Israel	14654777	StrictlyVC	
+12193402	shaig	Israel	1629336979	eholmes2003	Palo Alto, CA
+12193402	shaig	Israel	14348490	svbmark	Pleasanton; Silicon Valley
+12193402	shaig	Israel	22808580	kydoh	SF, CA
+12193402	shaig	Israel	26609111	meredithperry	LA
+12193402	shaig	Israel	92210962	kjowong	The U.S of A
+12193402	shaig	Israel	828991	VCMike	Boston/SF/NYC
+12193402	shaig	Israel	25190928	katiedrumm	New York
+12193402	shaig	Israel	1586501	nickbilton	LA
+12193402	shaig	Israel	95749490	JerryRice	
+12193402	shaig	Israel	9728112	startupman	New York
+12193402	shaig	Israel	114602310	amir	San Francisco
+12193402	shaig	Israel	114782468	carlquintanilla	nyc
+12193402	shaig	Israel	13213122	Deadspin	
+12193402	shaig	Israel	858957830	gswstats	
+12193402	shaig	Israel	17918338	seanludwig	NYC
+12193402	shaig	Israel	23827692	ComedyCentral	
+12193402	shaig	Israel	1287098634	JohnChinaSVB	Silicon Valley
+12193402	shaig	Israel	49637104	IPOtweet	Greenwich, CT
+12193402	shaig	Israel	127062637	omidkordestani	
+15601526	djgunner	San Francisco, CA	14104847	comcastcares	Philadelphia, PA
+15601526	djgunner	San Francisco, CA	555548903	AHSFX	
+15601526	djgunner	San Francisco, CA	450281137	WebNutrients	Vancouver, WA
+15601526	djgunner	San Francisco, CA	3368609129	DeadRaccoonTO	
+15601526	djgunner	San Francisco, CA	34101220	FckyeahCharli	
+15601526	djgunner	San Francisco, CA	41229669	KellyOsbourne	London / Los Angeles
+15601526	djgunner	San Francisco, CA	40005941	reviewedtech	Cambridge, MA
+15601526	djgunner	San Francisco, CA	26906309	minliangtan	San Francisco
+15601526	djgunner	San Francisco, CA	15880163	Razer	United States
+15601526	djgunner	San Francisco, CA	40966579	MrGinseng	Detroit
+15601526	djgunner	San Francisco, CA	224221596	AntonioBrown84	cmelike
+15601526	djgunner	San Francisco, CA	109153646	TexasDemography	Texas
+15601526	djgunner	San Francisco, CA	1191452094	PL_Music_Design	UK
+15601526	djgunner	San Francisco, CA	15066760	lonelyplanet	Everywhere, all the time
+15601526	djgunner	San Francisco, CA	1009940076	SarahMLancaster	Los Angeles, CA
+15601526	djgunner	San Francisco, CA	22462567	Scott_Krinsky	Los Angeles
+15601526	djgunner	San Francisco, CA	59578815	YahooFantasy	
+15601526	djgunner	San Francisco, CA	112776059	ChuckTVUpdate	
+15601526	djgunner	San Francisco, CA	61096035	MommaOfG	Midwest, USA
+15601526	djgunner	San Francisco, CA	2327831965	usr_bin_fortune	/usr/bin
+15601526	djgunner	San Francisco, CA	762437904	Mad_Tator	vegas
+15601526	djgunner	San Francisco, CA	2600095669	missionhifi	
+15601526	djgunner	San Francisco, CA	937326896	proaudiowebblog	Brighton - International
+15601526	djgunner	San Francisco, CA	441271412	CypherLabs	Lake Oswego, Oregon, USA
+15601526	djgunner	San Francisco, CA	107	pud	SF / NYC
+15601526	djgunner	San Francisco, CA	281692393	scottmucci	San Francisco
+15601526	djgunner	San Francisco, CA	19031057	kron4news	San Francisco Bay Area
+15601526	djgunner	San Francisco, CA	21358493	RobertKazinsky	Los Angeles
+15601526	djgunner	San Francisco, CA	65195961	MYGEEKTIME	
+15601526	djgunner	San Francisco, CA	246837516	1NatalieMaines	Los Angeles
+15601526	djgunner	San Francisco, CA	15376149	peterchoi	Hong Kong
+15601526	djgunner	San Francisco, CA	193456251	WinPhoneSupport	Redmond, WA
+15601526	djgunner	San Francisco, CA	39103342	ScottHanson	Studios, Airports & Arenas 
+15601526	djgunner	San Francisco, CA	813676016	quadboxsighting	Red Zone
+15601526	djgunner	San Francisco, CA	67133275	NFLNow	
+15601526	djgunner	San Francisco, CA	20978103	DaneCook	Direct2Dane@DaneCook.com
+15601526	djgunner	San Francisco, CA	18948541	SethMacFarlane	Los Angeles
+15601526	djgunner	San Francisco, CA	35859659	Raff42	Liverpool, UK
+15601526	djgunner	San Francisco, CA	441004729	DiabloIIITips	
+15601526	djgunner	San Francisco, CA	7238102	lexigeek	Seattle
+15601526	djgunner	San Francisco, CA	17540485	redbull	Worldwide
+15601526	djgunner	San Francisco, CA	16583672	ClareGrant	Manetheren
+15601526	djgunner	San Francisco, CA	47489218	ZacharyLeviFan	England
+15601526	djgunner	San Francisco, CA	1715051	SethGreen	Here & Now
+15601526	djgunner	San Francisco, CA	304679484	HamillHimself	
+15601526	djgunner	San Francisco, CA	22677790	Jon_Favreau	Hollywood
+15601526	djgunner	San Francisco, CA	38259087	ZacharyQuinto	ny ny la ca
+15601526	djgunner	San Francisco, CA	194677810	thenerdmachine	Nerdville
+15601526	djgunner	San Francisco, CA	91279573	AdamBaldwin	United States of America!
+15601526	djgunner	San Francisco, CA	495315443	RyanMcPartlin	Los Angeles
+15601526	djgunner	San Francisco, CA	24083901	ZacharyLevi	Fresh out da' kitchen.
+15601526	djgunner	San Francisco, CA	172814159	JoshuaEGomez	
+15601526	djgunner	San Francisco, CA	102134994	JoshSchwartz76	
+15601526	djgunner	San Francisco, CA	813286	BarackObama	Washington, DC
+15601526	djgunner	San Francisco, CA	54365543	AliciaSilv	Los Angeles, CA
+15601526	djgunner	San Francisco, CA	28205087	nbcchuck	NBC
+15601526	djgunner	San Francisco, CA	151232686	Y_Strahovski	Los Angeles, CA
+15601526	djgunner	San Francisco, CA	21556071	Twitition	Twitter
+15601526	djgunner	San Francisco, CA	169686021	kanyewest	
+15601526	djgunner	San Francisco, CA	246481013	HowardStern	
+15601526	djgunner	San Francisco, CA	19980698	CatalystMaker	Toronto, Canada
+15601526	djgunner	San Francisco, CA	91202992	mobgrooves	
+15601526	djgunner	San Francisco, CA	746923	josiefraser	Leicester, London, Bristol, UK
+15601526	djgunner	San Francisco, CA	48213	mario	London
+15601526	djgunner	San Francisco, CA	5402612	BBCBreaking	London, UK
+15601526	djgunner	San Francisco, CA	30614676	alydenisof	
+15601526	djgunner	San Francisco, CA	90420314	ActuallyNPH	Manhattanland
+15601526	djgunner	San Francisco, CA	21257404	bburke_nvidia	Austin, TX, ya'll!
+15601526	djgunner	San Francisco, CA	18698453	g33zy	//Los Angeles, CA
+15601526	djgunner	San Francisco, CA	39621363	punyweakling	-37.772207000, 144.947452000
+15601526	djgunner	San Francisco, CA	31222496	rcuniverse	USA
+15601526	djgunner	San Francisco, CA	62147606	droboplus	Germany & USA
+15601526	djgunner	San Francisco, CA	14326805	TinaDupuy	New York, New York
+15601526	djgunner	San Francisco, CA	33578585	RomWorld	
+15601526	djgunner	San Francisco, CA	62547392	HeatWare	Austin, TX
+15601526	djgunner	San Francisco, CA	23807666	PayPalSecurity	San Jose, CA
+15601526	djgunner	San Francisco, CA	16376232	unix_quote	I Am In Your Base...
+15601526	djgunner	San Francisco, CA	5051921	zarzoso	Santa Barbara, CA
+15601526	djgunner	San Francisco, CA	21238428	coffeecast	
+15601526	djgunner	San Francisco, CA	8131122	cyanogen	Seattle, WA
+15601526	djgunner	San Francisco, CA	14681605	ThatKevinSmith	Body? L.A. Mind? N.J.
+15601526	djgunner	San Francisco, CA	17602896	IMDb	Seattle
+15601526	djgunner	San Francisco, CA	26180582	TEAMEVGA	Brea, California
+15601526	djgunner	San Francisco, CA	14522546	NotTinaFey	
+15601526	djgunner	San Francisco, CA	24523660	DENISE_RICHARDS	Los Angeles
+15601526	djgunner	San Francisco, CA	23856503	Spangaloid	
+15601526	djgunner	San Francisco, CA	44700397	androidclub	
+15601526	djgunner	San Francisco, CA	14892544	susanelackey	Yalaha, FL
+15601526	djgunner	San Francisco, CA	43009221	TheDeadPhoenix	Sacramento, CA
+15601526	djgunner	San Francisco, CA	14063949	georgeb3dr	Dallas, TX
+15601526	djgunner	San Francisco, CA	19397785	Oprah	
+15601526	djgunner	San Francisco, CA	27042513	RealHughJackman	Sydney 
+15601526	djgunner	San Francisco, CA	15846407	TheEllenShow	California
+15601526	djgunner	San Francisco, CA	16190898	RyanSeacrest	Los Angeles, CA
+15601526	djgunner	San Francisco, CA	41783	mantia	Portland
+15601526	djgunner	San Francisco, CA	19058681	aplusk	Los Angeles, California
+15601526	djgunner	San Francisco, CA	17071046	formerlyCwalken	Manhattan
+15601526	djgunner	San Francisco, CA	24447643	eddieizzard	Earth
+15601526	djgunner	San Francisco, CA	15015110	turbine	MA
+15601526	djgunner	San Francisco, CA	22287429	OceanicRail	
+15601526	djgunner	San Francisco, CA	15773675	MuscleNerd	Los Angeles, CA 
+15601526	djgunner	San Francisco, CA	14501043	KyleBennett	Dallas, TX
+15601526	djgunner	San Francisco, CA	3819701	ZDNet	USA | UK | Asia | Australia
+15601526	djgunner	San Francisco, CA	15348154	kurf	Chicago
+15601526	djgunner	San Francisco, CA	7222832	_Tahlia_	Melbourne, Australia
+15601526	djgunner	San Francisco, CA	15662943	heidileez	Minneapolis
+15601526	djgunner	San Francisco, CA	13240222	merkley	San Francisco 
+15601526	djgunner	San Francisco, CA	11323962	Amybetht	San Rafael, CA
+15601526	djgunner	San Francisco, CA	7573332	jgillardi	Braselton, GA
+15601526	djgunner	San Francisco, CA	14600124	twitscoop	On top of twitter!
+15601526	djgunner	San Francisco, CA	41713	fimoculous	NYC
+15601526	djgunner	San Francisco, CA	14184756	mattrich	New Zealand
+15601526	djgunner	San Francisco, CA	3989241	jtretakoff	San Francisco, CA
+15601526	djgunner	San Francisco, CA	15691980	elrolio	San Francisco
+15601526	djgunner	San Francisco, CA	15679014	shampster	iPhone: 34.403889,-119.742975
+15601526	djgunner	San Francisco, CA	3670161	ShuffShuff	Williams College
+33977927	BandPage	San Francisco	19457784	TamiKablami	Detroit, MI
+33977927	BandPage	San Francisco	23271078	KatannaDrake	Portland, Oregon
+33977927	BandPage	San Francisco	3253334981	disciplemediauk	London, England
+33977927	BandPage	San Francisco	89012091	SageNighthawk	New York, USA
+33977927	BandPage	San Francisco	478645851	miraclmoore1	CactusVille 
+33977927	BandPage	San Francisco	31093615	datsik	Shaolin Temple
+33977927	BandPage	San Francisco	22412376	deadmau5	Iboisa, idaho
+33977927	BandPage	San Francisco	22147137	NeroUK	London
+33977927	BandPage	San Francisco	294636267	knifepartyinc	London, UK
+33977927	BandPage	San Francisco	23499568	12thplanet	Los Angeles, United States
+33977927	BandPage	San Francisco	155705264	Zedd	LA / Germany 
+33977927	BandPage	San Francisco	100199653	AlvinRisk	
+67380405	SLTSanFrancisco	San Francisco, CA	26056727	cafeclaude	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	17506314	gugg	berkeley, CA, US
+67380405	SLTSanFrancisco	San Francisco, CA	32034333	hellosonoma	Sonoma Wine Country
+67380405	SLTSanFrancisco	San Francisco, CA	23225869	kitchenettesf	Dogpatch & The Mission...SF
+67380405	SLTSanFrancisco	San Francisco, CA	23607002	nappleman	San Diego California. 
+67380405	SLTSanFrancisco	San Francisco, CA	24223641	michaelpollan	Berkeley, CA
+67380405	SLTSanFrancisco	San Francisco, CA	20661539	GDeLaurentiis	Los Angeles, CA
+67380405	SLTSanFrancisco	San Francisco, CA	19925142	Soumak	iPhone: 40.746841,-73.995651
+67380405	SLTSanFrancisco	San Francisco, CA	21915666	gailsimmons	New York
+67380405	SLTSanFrancisco	San Francisco, CA	126146818	Chef_Keller	Yountville, CA
+67380405	SLTSanFrancisco	San Francisco, CA	148606891	wordspixgal	In flux
+67380405	SLTSanFrancisco	San Francisco, CA	17556181	linecook	In Progress/In Transit/In Traffic 
+67380405	SLTSanFrancisco	San Francisco, CA	25170188	bonappetit	
+67380405	SLTSanFrancisco	San Francisco, CA	18129528	nytfoodfeed	New York City
+67380405	SLTSanFrancisco	San Francisco, CA	67425951	SLT_Omaha	
+67380405	SLTSanFrancisco	San Francisco, CA	24581397	doriegreenspan	New York, Paris and Connecti
+67380405	SLTSanFrancisco	San Francisco, CA	22843068	beardfoundation	New York City
+67380405	SLTSanFrancisco	San Francisco, CA	23518723	SAVEURMAG	New York, NY
+67380405	SLTSanFrancisco	San Francisco, CA	17796018	latimesfood	Los Angeles, CA
+67380405	SLTSanFrancisco	San Francisco, CA	16190278	amandahesser	Brooklyn, NY
+67380405	SLTSanFrancisco	San Francisco, CA	16588095	kimseverson	Atlanta, Georgia
+67380405	SLTSanFrancisco	San Francisco, CA	1775731	nytfood	New York, NY
+67380405	SLTSanFrancisco	San Francisco, CA	30278532	foodandwine	
+67380405	SLTSanFrancisco	San Francisco, CA	20209459	offalchris	san francisco
+67380405	SLTSanFrancisco	San Francisco, CA	67415834	SLT_Richmond	Richmond, VA
+67380405	SLTSanFrancisco	San Francisco, CA	16734382	dcpatterson	cali
+67380405	SLTSanFrancisco	San Francisco, CA	119405380	RuthBourdain	New York City
+67380405	SLTSanFrancisco	San Francisco, CA	18676177	jamieoliver	London & Essex
+67380405	SLTSanFrancisco	San Francisco, CA	19928703	fwscout	
+67380405	SLTSanFrancisco	San Francisco, CA	26527812	Rick_Bayless	Chicago
+67380405	SLTSanFrancisco	San Francisco, CA	49443121	18reasons	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	16652611	SFoodie	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	2869531	seriouseats	
+67380405	SLTSanFrancisco	San Francisco, CA	18128265	TylerFlorence	San Francisco, California
+67380405	SLTSanFrancisco	San Francisco, CA	37291805	FrankBruni	New York, NY
+67380405	SLTSanFrancisco	San Francisco, CA	134001314	streetfixe	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	39852233	FabFoodLover	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	128351017	LalaTellsAStory	San Francisco, LA, and beyond
+67380405	SLTSanFrancisco	San Francisco, CA	15652540	KTVU	Oakland, CA
+67380405	SLTSanFrancisco	San Francisco, CA	23502733	SFC_FoodHome	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	47787742	mrecchiuti	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	25612932	cremebruleecart	San Francisco 
+67380405	SLTSanFrancisco	San Francisco, CA	61019938	delfinasf	Mission District
+67380405	SLTSanFrancisco	San Francisco, CA	58628355	CookingPages	Kitchen
+67380405	SLTSanFrancisco	San Francisco, CA	76264149	foodyhub	http://www.foodyhub.com
+67380405	SLTSanFrancisco	San Francisco, CA	37648451	JuliaMUsher	MO and ME
+67380405	SLTSanFrancisco	San Francisco, CA	67380830	SLT_Dallas	Dallas, TX
+67380405	SLTSanFrancisco	San Francisco, CA	67435340	SLT_Canton	Canton, CT
+67380405	SLTSanFrancisco	San Francisco, CA	19338402	DebraFioritto	Atlanta, GA
+67380405	SLTSanFrancisco	San Francisco, CA	67412746	SLT_LosAngeles	Los Angeles, CA
+67380405	SLTSanFrancisco	San Francisco, CA	65385312	lecreuset	Everywhere
+67380405	SLTSanFrancisco	San Francisco, CA	50156290	ChefJoanneWeir	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	24786796	ThrillistSF	30+ editions and counting...
+67380405	SLTSanFrancisco	San Francisco, CA	59759957	foodwanderlust	Washington DC
+67380405	SLTSanFrancisco	San Francisco, CA	16536215	SFMOMA	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	42126332	tastykitchen	
+67380405	SLTSanFrancisco	San Francisco, CA	10329052	steamykitchen	Tampa, Florida
+67380405	SLTSanFrancisco	San Francisco, CA	20118601	4505_Meats	Flavor Country
+67380405	SLTSanFrancisco	San Francisco, CA	24236277	christopherlosa	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	16380111	bayareabites	San Francisco, CA, USA
+67380405	SLTSanFrancisco	San Francisco, CA	28056691	msassi	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	18740083	7x7bitsbites	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	18742167	AmandaGold	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	2018911	chezpim	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	19519252	ruthreichl	New York City
+67380405	SLTSanFrancisco	San Francisco, CA	18210499	dailybuzzfood	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	31183437	GaelGreene	New York City 
+67380405	SLTSanFrancisco	San Francisco, CA	26650588	EatDrinkSF	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	47838011	slowclub	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	39910224	SFRestoNews	San Francisco, CA, USA
+67380405	SLTSanFrancisco	San Francisco, CA	17601071	LArdoise	151 Noe St San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	50500205	sffoodwars	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	48452673	CitizenCakePRB	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	30068744	sanfranmag	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	33122058	Karascupcakes	Northern California
+67380405	SLTSanFrancisco	San Francisco, CA	53271836	anchorandhopesf	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	37010831	PocoDolceSF	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	61485111	MichelinGuideSF	San Francisco Bay Area
+67380405	SLTSanFrancisco	San Francisco, CA	19549159	chefjohnbesh	New Orleans, LA
+67380405	SLTSanFrancisco	San Francisco, CA	25939221	tiwyf	New York
+67380405	SLTSanFrancisco	San Francisco, CA	15895781	chezpanisse	Berkeley, California, USA
+67380405	SLTSanFrancisco	San Francisco, CA	36511031	SFGate	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	5972702	heyadamroberts	Los Angeles, CA
+67380405	SLTSanFrancisco	San Francisco, CA	16409959	handsongourmet	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	62637457	CenterdinSF	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	37082693	GroopSwoop	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	67435044	SLT_Carlsbad	Carlsbad, CA
+67380405	SLTSanFrancisco	San Francisco, CA	67435488	SLT_PaloAlto	Palo Alto, CA
+67380405	SLTSanFrancisco	San Francisco, CA	67414786	SLT_Marlton	Marlton, New Jersey
+67380405	SLTSanFrancisco	San Francisco, CA	17979976	wallyeats	SF Bay Area
+67380405	SLTSanFrancisco	San Francisco, CA	16332597	susannalinse	Seattle
+67380405	SLTSanFrancisco	San Francisco, CA	27759258	BellaCupcakeC	iPhone: 47.636536,-122.231812
+67380405	SLTSanFrancisco	San Francisco, CA	35554723	humphryslocombe	San Francisco
+67380405	SLTSanFrancisco	San Francisco, CA	14447200	JugShop	San Francisco, CA
+67380405	SLTSanFrancisco	San Francisco, CA	30950353	blueplusgreen	San Francisco Bay Area
+67380405	SLTSanFrancisco	San Francisco, CA	21445545	justfood	New York, NY
+67380405	SLTSanFrancisco	San Francisco, CA	28397296	Niman_Ranch	700 U.S. Farms & Ranches
+67380405	SLTSanFrancisco	San Francisco, CA	27467807	leitesculinaria	Everywhere, right?
+67380405	SLTSanFrancisco	San Francisco, CA	38370921	Berkeley_Steve	Berkeley, CA
+17179907	OrganicJar	San Francisco, CA	15092452	samykamkar	los angeles
+17179907	OrganicJar	San Francisco, CA	66927355	urlmonkey	
+17179907	OrganicJar	San Francisco, CA	24820012	lindseyhaas	Atlanta, Georgia
+17179907	OrganicJar	San Francisco, CA	24007886	TymeBasilMint	 PA
+17179907	OrganicJar	San Francisco, CA	336000170	TomJunod	
+46032911	brunocavatelli	san francisco, california	21241439	tripper63	California
+46032911	brunocavatelli	san francisco, california	30138120	TwitBird	Worldwide
+46032911	brunocavatelli	san francisco, california	158967916	Karleedvoe	Newark
+46032911	brunocavatelli	san francisco, california	17752368	JanSimpson	USA 
+46032911	brunocavatelli	san francisco, california	33016460	everythingbutt1	NY
+46032911	brunocavatelli	san francisco, california	25287077	Joyce_Johnson	Belle River, Ontario, Canada
+46032911	brunocavatelli	san francisco, california	20407242	RDavidian	Southern California
+46032911	brunocavatelli	san francisco, california	43821067	mrpingation	Miami, South Beach
+46032911	brunocavatelli	san francisco, california	136691127	venicebiz	Venice, CA
+46032911	brunocavatelli	san francisco, california	19038388	RickKupchella	Minneapolis St. Paul Minnesota
+46032911	brunocavatelli	san francisco, california	22663793	mikevalera	San Francisco Bay Area
+46032911	brunocavatelli	san francisco, california	65433609	librarianchat	Texas
+46032911	brunocavatelli	san francisco, california	96714414	healthindiaa	India
+46032911	brunocavatelli	san francisco, california	109793150	AndyHide	Melbourne
+46032911	brunocavatelli	san francisco, california	30590886	zennoir	Everywhere.  Now.
+46032911	brunocavatelli	san francisco, california	20755912	andyrwong	NY, SF, LA
+46032911	brunocavatelli	san francisco, california	18504709	MerlinDigital	UAE. Ukraine.Qatar.India
+46032911	brunocavatelli	san francisco, california	156769662	EHT_DAgroup	DeviantArt
+46032911	brunocavatelli	san francisco, california	65589378	MySOdotCom	Top Twitter
+46032911	brunocavatelli	san francisco, california	26732027	Baltar	Phoenix, AZ
+46032911	brunocavatelli	san francisco, california	26829424	DiLilloArts	CHICAGO 
+46032911	brunocavatelli	san francisco, california	31173995	BigBoobKimber	Flashing the east coast
+46032911	brunocavatelli	san francisco, california	17983854	Aharon72	Los Angeles
+55321898	PastrySmart	San Mateo, CA	20196222	sherrybijan	
+55321898	PastrySmart	San Mateo, CA	71633425	Nugget_Market	Greater Sacramento Area
+55321898	PastrySmart	San Mateo, CA	31469906	FairTradeUSA	Oakland, CA
+55321898	PastrySmart	San Mateo, CA	26315762	MOMsOrganicMrkt	NoVA, DC, Baltimore, Philly
+55321898	PastrySmart	San Mateo, CA	91615781	earthboundfarm	San Juan Bautista, CA  
+55321898	PastrySmart	San Mateo, CA	80060829	mosesorganic	Spring Valley, Wis.
+55321898	PastrySmart	San Mateo, CA	550963360	NaturesPremiumV	Cambridgeshire
+55321898	PastrySmart	San Mateo, CA	94027827	TheAndreaLowell	Los Angeles
+55321898	PastrySmart	San Mateo, CA	1665917761	onlyorganic	
+55321898	PastrySmart	San Mateo, CA	27550955	revolution_girl	
+55321898	PastrySmart	San Mateo, CA	98427091	ThirdStreet_Inc	Colorado
+55321898	PastrySmart	San Mateo, CA	33098495	DaniNierenberg	New Orleans, LA
+55321898	PastrySmart	San Mateo, CA	108803911	dhgisme	Brooklyn, NY
+55321898	PastrySmart	San Mateo, CA	789848623	HopeandMain	Warren, Rhode Island
+55321898	PastrySmart	San Mateo, CA	155792265	foodtechconnect	New York, NY
+55321898	PastrySmart	San Mateo, CA	892221846	eluxemagazine	Paris/London/Dubai
+55321898	PastrySmart	San Mateo, CA	1488605864	GoodFoodWeb	Berkeley, CA
+55321898	PastrySmart	San Mateo, CA	61251783	teachhumane	
+55321898	PastrySmart	San Mateo, CA	16636703	HumaneEducation	Surry, ME
+55321898	PastrySmart	San Mateo, CA	129624245	CertifiedHumane	Herndon, VA
+16000490	workstir	San Francisco, CA	2426	monteiro	SF
+16000490	workstir	San Francisco, CA	1198071	ejc	Los Angeles
+16000490	workstir	San Francisco, CA	16489986	SomervillePuns	New York City
+16000490	workstir	San Francisco, CA	15413409	theonetruebix	Portland, OR
+16000490	workstir	San Francisco, CA	14607723	scrame	scrameland.
+16000490	workstir	San Francisco, CA	24156641	FuzzyCube	Plano, TX
+16000490	workstir	San Francisco, CA	14655116	lilytungcrystal	San Francisco
+16000490	workstir	San Francisco, CA	14934386	Joe_Constanty	Shanghai-Hong Kong-Las Vegas
+16000490	workstir	San Francisco, CA	17820833	skoutellas	London
+16000490	workstir	San Francisco, CA	24098400	LondonLet	London
+16000490	workstir	San Francisco, CA	15089764	habber	MSP  AMS  JFK  SFO
+16000490	workstir	San Francisco, CA	14120944	_dwrhodes_	San Francisco
+16000490	workstir	San Francisco, CA	18771991	PrestoMusicStor	World Wide Web
+16000490	workstir	San Francisco, CA	19041821	ronorr	Minnesota
+16000490	workstir	San Francisco, CA	19522070	_JasonHudson	Muskoka, Ontario
+16000490	workstir	San Francisco, CA	21032974	BrainiacBeats	INDIGO
+16000490	workstir	San Francisco, CA	15841130	hany	San Francisco
+16000490	workstir	San Francisco, CA	18076957	tomkeating	Connecticut / CT
+16000490	workstir	San Francisco, CA	16110234	modmodmodified	los angeles
+16000490	workstir	San Francisco, CA	6264792	technomancy	Mae Sot, Thailand
+16000490	workstir	San Francisco, CA	15225261	LVMotorSpeedway	Las Vegas, NV
+58090444	UGGOnSale	San Francisco, CA	33632211	Brook_star	DMV
+58090444	UGGOnSale	San Francisco, CA	47915094	MomsView	Lynbrook, ny
+58090444	UGGOnSale	San Francisco, CA	17093617	hootsuite	Vancouver, Canada
+58090444	UGGOnSale	San Francisco, CA	29218852	GoonzLove	
+58090444	UGGOnSale	San Francisco, CA	30278307	EBBALiCiOUSZ	
+58090444	UGGOnSale	San Francisco, CA	15785156	MissBlondie919	Boston
+74081406	thebookfinders	San Francisco, CA	85029738	AscendingStocks	Wall Street, New York
+74081406	thebookfinders	San Francisco, CA	22987468	MindfullyChange	Winter Park, Florida, USA
+74081406	thebookfinders	San Francisco, CA	27503114	WindPowerSystem	U.K.
+74081406	thebookfinders	San Francisco, CA	17238598	mlm504	
+74081406	thebookfinders	San Francisco, CA	36111800	MidtownGirl21	Right where I want to be.
+74081406	thebookfinders	San Francisco, CA	60743474	naamaan	Philippines
+74081406	thebookfinders	San Francisco, CA	127818335	allaboutebook	
+74081406	thebookfinders	San Francisco, CA	126399981	Future_Society	and Social Networks
+74081406	thebookfinders	San Francisco, CA	125139161	makemoneynow01	UK
+74081406	thebookfinders	San Francisco, CA	121915020	OnTheGoVentures	USA
+74081406	thebookfinders	San Francisco, CA	121793988	keewrite	Europe
+74081406	thebookfinders	San Francisco, CA	120687003	smorgit	Phoenix, Arizona
+74081406	thebookfinders	San Francisco, CA	120642782	AlanLToal	
+74081406	thebookfinders	San Francisco, CA	119493384	TalkingBooksTV	Colorado Springs
+74081406	thebookfinders	San Francisco, CA	119175889	baylocalize	Oakland, CA
+74081406	thebookfinders	San Francisco, CA	119123032	friendlyjess	
+74081406	thebookfinders	San Francisco, CA	117993878	jobs20asia	Asia
+74081406	thebookfinders	San Francisco, CA	117990753	jobs20europe	Europe
+74081406	thebookfinders	San Francisco, CA	117985189	jobs20meast	Middle East
