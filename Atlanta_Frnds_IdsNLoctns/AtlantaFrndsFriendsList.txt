@@ -1664,3 +1664,362 @@
 5877452	zeebird	Bellevue, WA	14704715	steveouch	Seattle, Louisiana 
 5877452	zeebird	Bellevue, WA	52060618	paragraphk	Austin
 5877452	zeebird	Bellevue, WA	28439936	edumaster	Phoenix AZ
+5877452	zeebird	Bellevue, WA	36703651	StuffForFree	
+5877452	zeebird	Bellevue, WA	17201929	EMPmuseum	Seattle
+5877452	zeebird	Bellevue, WA	34733701	OverlakeHMC	Bellevue, WA
+5877452	zeebird	Bellevue, WA	16727535	lancearmstrong	Austin/Aspen
+5877452	zeebird	Bellevue, WA	53175445	Astro_Sandy	
+5877452	zeebird	Bellevue, WA	55007777	BarkerCheryl	
+5877452	zeebird	Bellevue, WA	15227791	WilliamShatner	Los Angeles, CA
+5877452	zeebird	Bellevue, WA	42322135	anneblake23	Lancaster
+5877452	zeebird	Bellevue, WA	38955381	RealCliveBarker	Los Angeles, CA
+5877452	zeebird	Bellevue, WA	16303106	StephenAtHome	
+5877452	zeebird	Bellevue, WA	15245706	SU2C	Everywhere
+5877452	zeebird	Bellevue, WA	14208674	jluvisions	Garden Grove, CA, USA
+5877452	zeebird	Bellevue, WA	37605913	Dichenlachman	los angeles
+5877452	zeebird	Bellevue, WA	27649569	miraclelaurie	right where I want to be
+5877452	zeebird	Bellevue, WA	31353077	NathanFillion	Los Angeles
+5877452	zeebird	Bellevue, WA	17015943	zepgurl	Playa del Carmen, Mexico
+5877452	zeebird	Bellevue, WA	30169719	Mrgiver	
+5877452	zeebird	Bellevue, WA	19698910	archiemcphee	Seattle, WA
+5877452	zeebird	Bellevue, WA	20557892	wootoff	
+5877452	zeebird	Bellevue, WA	8161232	richardbranson	
+5877452	zeebird	Bellevue, WA	7040932	tonyhsieh	Las Vegas
+5877452	zeebird	Bellevue, WA	15485441	jimmyfallon	New York, New York
+5877452	zeebird	Bellevue, WA	18812795	cakewrecks	
+5877452	zeebird	Bellevue, WA	19911588	bernardharrisjr	Houston, TX
+5877452	zeebird	Bellevue, WA	11348282	NASA	
+5877452	zeebird	Bellevue, WA	15112070	Cirque	Montreal // Las Vegas
+5877452	zeebird	Bellevue, WA	19299909	postsecret	Germantown, MD
+5877452	zeebird	Bellevue, WA	18393773	neilhimself	a bit all over the place
+5877452	zeebird	Bellevue, WA	19533333	Hatchetjob	Internet
+5877452	zeebird	Bellevue, WA	1183041	wilw	Los Angeles
+5877452	zeebird	Bellevue, WA	16832260	DatelineDisney	Anaheim, CA
+5877452	zeebird	Bellevue, WA	14075928	TheOnion	
+5877452	zeebird	Bellevue, WA	21361624	iheartSAM	1300 First Avenue
+5877452	zeebird	Bellevue, WA	7721602	lonnon	Seattle
+5877452	zeebird	Bellevue, WA	8453452	GuyKawasaki	Silicon Valley, California
+5877452	zeebird	Bellevue, WA	15914737	deliciafay	Where Felicia least expects it
+5877452	zeebird	Bellevue, WA	18002296	moonfrye	
+5877452	zeebird	Bellevue, WA	14749383	pennjillette	Las Vegas, NV, USA
+5877452	zeebird	Bellevue, WA	21879024	tonyhawk	San Diego & world at large
+5877452	zeebird	Bellevue, WA	5391882	dooce	Salt Lake City
+5877452	zeebird	Bellevue, WA	21324258	MarthaStewart	Katonah, NY
+5877452	zeebird	Bellevue, WA	18396070	levarburton	Los Angeles, CA
+5877452	zeebird	Bellevue, WA	428333	cnnbrk	Everywhere
+5877452	zeebird	Bellevue, WA	14815685	PacSci	Seattle
+5877452	zeebird	Bellevue, WA	7861312	feliciaday	Los Angeles, CA
+5877452	zeebird	Bellevue, WA	734493	woot	Dallas, TX
+5877452	zeebird	Bellevue, WA	12709232	charlamf	Seattle
+5877452	zeebird	Bellevue, WA	14345566	TheBloggess	Texas Hill Country
+5877452	zeebird	Bellevue, WA	15088772	woodlandparkzoo	Seattle, WA
+5877452	zeebird	Bellevue, WA	15246765	obrienmd	Seattle
+5877452	zeebird	Bellevue, WA	15304656	kidkorea	Vancouver
+5877452	zeebird	Bellevue, WA	14305536	hallsa	Kirkland, WA
+5877452	zeebird	Bellevue, WA	15054373	mdtrahan	
+5877452	zeebird	Bellevue, WA	14223418	nberg	iPhone: 37.545044,-122.288727
+5877452	zeebird	Bellevue, WA	14204311	bockmabe	Capitol Hill, Washington
+5877452	zeebird	Bellevue, WA	18755211	finseteb	Seattle
+23373892	lostone65	WA	48074218	ArmyMedicine	Worldwide
+23373892	lostone65	WA	102476242	NavyMedicine	Falls Church, Va.
+23373892	lostone65	WA	472920267	USAFHealth	Washington, D.C.
+23373892	lostone65	WA	26053643	jimmykimmel	Los Angeles
+23373892	lostone65	WA	34036028	JimmyKimmelLive	Hollywood, CA
+23373892	lostone65	WA	310430216	PDASeattle	Seattle, WA
+23373892	lostone65	WA	510723379	WatershedFest	George, WA
+23373892	lostone65	WA	318531174	TheRyanAdams	Los Angeles CA
+23373892	lostone65	WA	16266252	wsferries	Seattle, WA
+23373892	lostone65	WA	1093938109	Waterboarding3	
+23373892	lostone65	WA	15846407	TheEllenShow	California
+23373892	lostone65	WA	17790274	OneLouderApps	Kansas City, MO
+23373892	lostone65	WA	51338404	locentre	Reno NV
+23373892	lostone65	WA	179686805	blakebreithaupt	Los Angeles, CA
+23373892	lostone65	WA	19211550	gatewaypundit	St. Louis, Missouri
+23373892	lostone65	WA	1652541	Reuters	Around the world
+23373892	lostone65	WA	46576295	adamlambert	*WORLDWIDE*
+23373892	lostone65	WA	52847728	Cardinals	Busch Stadium
+23373892	lostone65	WA	1098911804	fit2gethr	
+23373892	lostone65	WA	249381398	healthcosystems	Tualatin, Oregon
+23373892	lostone65	WA	158767982	polarisdanforth	
+23373892	lostone65	WA	17045115	CruiseNorwegian	Destinations world-wide
+23373892	lostone65	WA	19185333	bostonpolice	Boston, MA
+23373892	lostone65	WA	72873708	WranglerWestern	
+23373892	lostone65	WA	357944325	TerryMacMusic	NEW ALBUM OUT NOW 
+23373892	lostone65	WA	19832580	CassadeePope	Nashville, TN
+23373892	lostone65	WA	474533802	SoGoSwell	WA/FL
+23373892	lostone65	WA	18792870	TheLostTrailers	Everywhere
+23373892	lostone65	WA	121201445	mickcoyle	Los Angeles
+23373892	lostone65	WA	22796241	MilsteinKIRO7	Seattle
+23373892	lostone65	WA	109441206	RWSalt	USA
+23373892	lostone65	WA	469194846	TwitchyTeam	
+23373892	lostone65	WA	733751245	PRyan	
+23373892	lostone65	WA	339478532	tomiejane	Pacific Northwest USA
+23373892	lostone65	WA	78122166	carlosbeltran15	Puerto Rico and New york
+23373892	lostone65	WA	16710420	irritatedwoman	Un-represented Conservative
+23373892	lostone65	WA	524990815	ChipDrawdy	Chugiak Ak
+23373892	lostone65	WA	343733213	JosephAielloAAA	New York
+23373892	lostone65	WA	152478247	rphfrank	New Orleans, LA USA
+23373892	lostone65	WA	17109615	bravehart60	
+23373892	lostone65	WA	146569583	vader1979	auburn ga
+23373892	lostone65	WA	210659064	jmkeen35	Literalville, Earth
+23373892	lostone65	WA	459819381	DeusVult1911	Miami, FL
+23373892	lostone65	WA	21781951	ConsrvLiberty	Denver, CO
+23373892	lostone65	WA	25101704	SeattlePD	Seattle, Washington
+23373892	lostone65	WA	6385432	dickc	San Francisco
+23373892	lostone65	WA	18745729	leebrice	Nashville, TN
+23373892	lostone65	WA	537868113	JMotte30	108stitches.com   #KCancer
+23373892	lostone65	WA	22435317	jorient	Arizona
+23373892	lostone65	WA	200203539	andymartinjr	Raleigh, NC
+23373892	lostone65	WA	479728455	BrandonLeague43	
+23373892	lostone65	WA	145227381	NavyFederal	Worldwide
+23373892	lostone65	WA	16930489	exjon	arizona
+23373892	lostone65	WA	549766215	merlehaggard	
+23373892	lostone65	WA	525823780	Wmorenorosa	Puerto Rico
+23373892	lostone65	WA	74791999	bubbawatson	Bagdad, Florida
+23373892	lostone65	WA	462513479	Skylar_Laine	Nashville, TN; Brandon, MS
+23373892	lostone65	WA	462398759	joshledet	Los Angeles, CA
+23373892	lostone65	WA	462525753	heejunworld	cafe.daum.net/HeejunHan
+23373892	lostone65	WA	462495192	Phillips	
+23373892	lostone65	WA	494176631	CavanaghAI11	
+23373892	lostone65	WA	462156189	coltondixon	
+23373892	lostone65	WA	88789190	medical_coding	Bismarck, ND
+23373892	lostone65	WA	516754371	PatBrownCPC	Las Vegas, NV
+23373892	lostone65	WA	44783853	HHSGov	Washington, D.C.
+23373892	lostone65	WA	70837868	CMSGov	Baltimore, Maryland
+23373892	lostone65	WA	378099487	ddcarter	New York, NY
+23373892	lostone65	WA	323359233	ChangeBack2012	USA
+23373892	lostone65	WA	18064372	ericchurch	Nashville, TN
+23373892	lostone65	WA	75374394	Total_Rewards	Nationwide
+23373892	lostone65	WA	386244525	carrieunderwood	Nashville, TN
+23373892	lostone65	WA	82432490	MrsScottBaio	
+23373892	lostone65	WA	19191229	crowdermusic	
+23373892	lostone65	WA	436928802	Alderbrook_	Union, WA
+23373892	lostone65	WA	135734203	JYFC2012	6th Congressional District
+23373892	lostone65	WA	91038197	JasonBWhitman	Casper, WY and Worldwide
+23373892	lostone65	WA	235157481	MrSilverScott	Las Vegas, NV
+23373892	lostone65	WA	128465468	rangercoffee	Atlanta, Georgia
+23373892	lostone65	WA	454488400	themamacrow	
+23373892	lostone65	WA	166648914	wspd1pio	Headquarters - Tacoma, WA
+23373892	lostone65	WA	43212847	PierceSheriff	Pierce County WA USA
+23373892	lostone65	WA	381599197	Cloverleaf_SBG	Bremerton, Washington
+23373892	lostone65	WA	58379000	RickSantorum	Pittsburgh, Dallas & Virginia
+35708872	seadjgirl	Issaquah, WA	17752380	TheJonasDavid	Auburn, WA
+35708872	seadjgirl	Issaquah, WA	43254421	astrologyzone	NEW YORK CITY 
+35708872	seadjgirl	Issaquah, WA	17093617	hootsuite	Vancouver, Canada
+35708872	seadjgirl	Issaquah, WA	458846026	jake_inspires	Beaverton, OR 
+35708872	seadjgirl	Issaquah, WA	58911419	SEARCHFound	USA
+35708872	seadjgirl	Issaquah, WA	580833212	ISES_Events	Beverly Hills / Global
+35708872	seadjgirl	Issaquah, WA	16943339	arjbarker	
+35708872	seadjgirl	Issaquah, WA	393649738	WedDesignGroup	
+35708872	seadjgirl	Issaquah, WA	243035899	DJBettyFord	
+35708872	seadjgirl	Issaquah, WA	242973581	EDMLounge	LOWER EAST SIDE, NYC
+35708872	seadjgirl	Issaquah, WA	557264308	runtimeHD	Philadelphia, PA
+35708872	seadjgirl	Issaquah, WA	177081110	DanielZeevi	Pittsburgh
+35708872	seadjgirl	Issaquah, WA	15134782	klout	San Francisco
+35708872	seadjgirl	Issaquah, WA	180505807	instagram	
+35708872	seadjgirl	Issaquah, WA	130454712	BikalCCTV	London UK
+35708872	seadjgirl	Issaquah, WA	106135482	djgabomusic	San Francisco CA
+35708872	seadjgirl	Issaquah, WA	95430299	DJIntelligence	
+35708872	seadjgirl	Issaquah, WA	118780802	PartyBlast	
+35708872	seadjgirl	Issaquah, WA	14197641	MarkHeartofBiz	Portland, Oregon. Wet, rainy. 
+35708872	seadjgirl	Issaquah, WA	317982164	FohrPlay	Everywhere
+35708872	seadjgirl	Issaquah, WA	211647126	kutlassx	Seattle, WA 
+35708872	seadjgirl	Issaquah, WA	300633970	worldtowninc	San Francisco
+35708872	seadjgirl	Issaquah, WA	237418268	FURYPRO	Las Vegas
+35708872	seadjgirl	Issaquah, WA	44701727	JohnQueMusic	International
+35708872	seadjgirl	Issaquah, WA	348441369	thegrablegroup	Franklin, TN
+35708872	seadjgirl	Issaquah, WA	329624966	InternetRadioDJ	WORLDWIDE!!! 
+35708872	seadjgirl	Issaquah, WA	78361085	FreeMixes	
+35708872	seadjgirl	Issaquah, WA	30218567	MitzvahMarket	New York
+35708872	seadjgirl	Issaquah, WA	335112163	VirtualVinoLIVE	Washington Wine Country
+35708872	seadjgirl	Issaquah, WA	37728093	KaraokeLounge	Montreal
+35708872	seadjgirl	Issaquah, WA	6728712	ImEastside	Bellevue
+35708872	seadjgirl	Issaquah, WA	41636124	WallingfordKOMO	Wallingford - Seattle, WA
+35708872	seadjgirl	Issaquah, WA	23210322	dinoguzzetti	Sammamish, WA
+35708872	seadjgirl	Issaquah, WA	18558494	DigitalDJPool	NY
+35708872	seadjgirl	Issaquah, WA	31684244	AndrewWu23	Seattle, WA
+35708872	seadjgirl	Issaquah, WA	218787128	jthimsen	Seattle
+35708872	seadjgirl	Issaquah, WA	21640799	DJTechTools	San Francisco
+35708872	seadjgirl	Issaquah, WA	59889953	verizon	USA
+35708872	seadjgirl	Issaquah, WA	47505875	chadkanotz	
+35708872	seadjgirl	Issaquah, WA	39412169	YEYOTEQUILA	Portland, OR
+35708872	seadjgirl	Issaquah, WA	15637545	djaanshul	iPhone: 47.452366,-122.302017
+35708872	seadjgirl	Issaquah, WA	21116401	KIRO7Seattle	Seattle
+35708872	seadjgirl	Issaquah, WA	27750488	PaulaAbdul	Los Angeles, CA
+35708872	seadjgirl	Issaquah, WA	16583846	REI	Seattle, WA
+35708872	seadjgirl	Issaquah, WA	66022213	SushiMojo	Bellevue, WA
+35708872	seadjgirl	Issaquah, WA	153715560	4goodbuzz	London
+35708872	seadjgirl	Issaquah, WA	6211972	SaraBareilles	hear.
+35708872	seadjgirl	Issaquah, WA	224359740	MBUSA	Atlanta, GA
+35708872	seadjgirl	Issaquah, WA	29791277	SalmonDays	Issaquah, WA
+35708872	seadjgirl	Issaquah, WA	20123484	wallyhood	Wallingford, Seattle, WA, USA
+35708872	seadjgirl	Issaquah, WA	43719184	bravern	Bellevue, WA
+35708872	seadjgirl	Issaquah, WA	110844189	gberkwitt2	Seattle, WA
+35708872	seadjgirl	Issaquah, WA	19748753	SingSnap	Ottawa / Canada
+35708872	seadjgirl	Issaquah, WA	34793510	KelseyandBriana	Baltimore, MD
+35708872	seadjgirl	Issaquah, WA	1611631	stjohnob	Kirkland Washington
+35708872	seadjgirl	Issaquah, WA	132278726	BigInIssaquah	Issaquah, WA
+35708872	seadjgirl	Issaquah, WA	196851470	eastsidekickbox	1180-A NW Gilman Issaquah WA
+35708872	seadjgirl	Issaquah, WA	6609072	patrickbyers	Issaquah (Seattle Area)
+35708872	seadjgirl	Issaquah, WA	1183041	wilw	Los Angeles
+35708872	seadjgirl	Issaquah, WA	49757319	IssReporter	Issaquah, WA
+35708872	seadjgirl	Issaquah, WA	17211540	BVision	Colorado, US
+35708872	seadjgirl	Issaquah, WA	62914603	IssaquahInfo	Issaquah WA 98029
+35708872	seadjgirl	Issaquah, WA	112487990	AgaveCocina	Redmond, WA.
+35708872	seadjgirl	Issaquah, WA	16165092	stephaniehaller	San Francisco
+35708872	seadjgirl	Issaquah, WA	72396521	AGriffmaster	Newport Beach, CA
+35708872	seadjgirl	Issaquah, WA	71312180	whereseattle	Seattle
+35708872	seadjgirl	Issaquah, WA	35293628	iamdanconnolly	
+35708872	seadjgirl	Issaquah, WA	30084164	DeejayTimbo	Los Angeles
+35708872	seadjgirl	Issaquah, WA	19123182	SoleilHepner	Seattle, WA
+35708872	seadjgirl	Issaquah, WA	25744779	DavidOzbone	G1: 47.5537, -122.0488
+35708872	seadjgirl	Issaquah, WA	50957843	hqpowerzone	
+35708872	seadjgirl	Issaquah, WA	27902148	racevine	SF, CA
+35708872	seadjgirl	Issaquah, WA	15569235	active	Dallas, TX
+35708872	seadjgirl	Issaquah, WA	8368642	DangerousDan	Seattle, Washington
+35708872	seadjgirl	Issaquah, WA	25374357	hintcafe	USA
+35708872	seadjgirl	Issaquah, WA	39092063	RJE45	Newport Beach, CA
+35708872	seadjgirl	Issaquah, WA	5569732	DStamper	
+35708872	seadjgirl	Issaquah, WA	19581449	sarahphoto	
+35708872	seadjgirl	Issaquah, WA	14338572	davidhoang	Seattle + San Francisco
+35708872	seadjgirl	Issaquah, WA	14377023	NormGregory	Seattle WA USA
+35708872	seadjgirl	Issaquah, WA	39969767	800dj	New York
+35708872	seadjgirl	Issaquah, WA	15358205	SweetTL	Chicago
+35708872	seadjgirl	Issaquah, WA	5768872	garyvee	NYC
+35708872	seadjgirl	Issaquah, WA	18785430	freddurst	Los Angeles, CA
+35708872	seadjgirl	Issaquah, WA	18863815	coldplay	Harveytown
+35708872	seadjgirl	Issaquah, WA	14994465	jimmyeatworld	Mesa, Arizona
+74332586	2ndNature360	Oregon, Portland	48494971	UniversalEnt	Universal Studios
+74332586	2ndNature360	Oregon, Portland	18704092	jayrock	Watts, CA
+74332586	2ndNature360	Oregon, Portland	29490039	slickbws	LA,MIA,NJ,NYC.RTnow BACK IN NJ
+74332586	2ndNature360	Oregon, Portland	224864373	PC_Platinum	Vancouver, Wa
+74332586	2ndNature360	Oregon, Portland	27401899	KandiKait	Vancouver, WA
+74332586	2ndNature360	Oregon, Portland	132327965	DANIELSEVENTWO	Portland, OR / Anywhere
+74332586	2ndNature360	Oregon, Portland	26569220	Vybe	Bay - LA
+74332586	2ndNature360	Oregon, Portland	98504435	RussellPDX	North Portland 
+74332586	2ndNature360	Oregon, Portland	123948500	PortlandVltrCtr	Portland
+74332586	2ndNature360	Oregon, Portland	37467771	BeautfulAssassn	Auburn, Al
+74332586	2ndNature360	Oregon, Portland	82679462	rainmargi2	Miami, Florida
+74332586	2ndNature360	Oregon, Portland	21394805	Mr_DaiN	Portland, OR
+74332586	2ndNature360	Oregon, Portland	125780771	CLUB205	Portland Oregon
+74332586	2ndNature360	Oregon, Portland	74296537	AvocadoIsGod	Los Angeles
+74332586	2ndNature360	Oregon, Portland	88967464	CobraCity_	
+74332586	2ndNature360	Oregon, Portland	124352741	shley_rae	Vancouver, Wa
+74332586	2ndNature360	Oregon, Portland	18129224	savvygrl	Dallas, TX
+74332586	2ndNature360	Oregon, Portland	19326337	CHXSE	
+74332586	2ndNature360	Oregon, Portland	35931500	chaingangmusic	Portland, Oregon
+74332586	2ndNature360	Oregon, Portland	27750191	_KillahLipstick	magic carpet
+74332586	2ndNature360	Oregon, Portland	58912623	N0TTI	NY | NJ | PDX
+74332586	2ndNature360	Oregon, Portland	24553362	SillyCristina	San Francisco
+74332586	2ndNature360	Oregon, Portland	17543769	verbz	Portland, Oregon
+74332586	2ndNature360	Oregon, Portland	83925433	JCVSJKID	50Tr3y NE P.O
+74332586	2ndNature360	Oregon, Portland	20020314	SonnyThProducer	Portland
+74332586	2ndNature360	Oregon, Portland	40820729	SmoovTheGreat	iPhone: 40.645287,-74.080063
+74332586	2ndNature360	Oregon, Portland	104887076	TheRealChill	503 Baby$$$
+74332586	2ndNature360	Oregon, Portland	38612775	hot_savage	3+6+0
+74332586	2ndNature360	Oregon, Portland	45886931	DesiDynastee	Ft Myers Florida 
+74332586	2ndNature360	Oregon, Portland	17581666	RobBates	Chicago, IL
+74332586	2ndNature360	Oregon, Portland	16491683	wweek	Portland, Ore.
+74332586	2ndNature360	Oregon, Portland	63252899	ArronButler	portland
+74332586	2ndNature360	Oregon, Portland	20739462	YessiniaGarcia	NYC/Cali at heart
+74332586	2ndNature360	Oregon, Portland	39382776	laurelwmac	Portland, OR
+74332586	2ndNature360	Oregon, Portland	56464403	shawnaharch	Portland, OR
+74332586	2ndNature360	Oregon, Portland	28524984	portland_rican	The Cool Table- Portland, Or.
+74332586	2ndNature360	Oregon, Portland	10188202	towski	San Francisco, CA
+74332586	2ndNature360	Oregon, Portland	13057172	shinylib	PDX
+4545261	Quacky	Olympia, WA	8613282	20x200	New York City
+4545261	Quacky	Olympia, WA	717363	LuxAlptraum	New York
+4545261	Quacky	Olympia, WA	17123667	jas_sams	Los Angeles
+4545261	Quacky	Olympia, WA	2735631	lonelysandwich	Los Angeles, California
+4545261	Quacky	Olympia, WA	100873578	NiteJewel	
+4545261	Quacky	Olympia, WA	6981492	ftrain	Brooklyn, New York, USA
+4545261	Quacky	Olympia, WA	136543208	JULIA_HOLTER	los angeles, CA
+20274133	localgirl84	Sammamish, WA	379408088	ShawnMendes	info@shawnmendesofficial.com
+20274133	localgirl84	Sammamish, WA	310072711	Nashgrier	
+20274133	localgirl84	Sammamish, WA	330705266	HayesGrier	NC/LA
+20274133	localgirl84	Sammamish, WA	310681536	SeahawksFan_95	12th Man Territory
+20274133	localgirl84	Sammamish, WA	17481852	808hulamom	Honolulu
+20274133	localgirl84	Sammamish, WA	41002957	huskyband	Seattle, WA USA
+20274133	localgirl84	Sammamish, WA	19413784	ChrisGethard	Greenpoint, Brooklyn, NYC
+20274133	localgirl84	Sammamish, WA	709667281	NarryIBond	
+20274133	localgirl84	Sammamish, WA	618336955	TheVampsband	England
+20274133	localgirl84	Sammamish, WA	216776631	BernieSanders	Vermont
+20274133	localgirl84	Sammamish, WA	29442313	SenSanders	Vermont/DC
+20274133	localgirl84	Sammamish, WA	62614267	treasuretruck	Seattle, WA
+20274133	localgirl84	Sammamish, WA	20793816	amazon	Seattle, Washington
+20274133	localgirl84	Sammamish, WA	183333634	NatashaKIRO7	Seattle, WA
+20274133	localgirl84	Sammamish, WA	1093090866	FLOTUS	Washington, DC
+20274133	localgirl84	Sammamish, WA	3303293865	Caitlyn_Jenner	
+20274133	localgirl84	Sammamish, WA	1536791610	POTUS	Washington, D.C.
+20274133	localgirl84	Sammamish, WA	2363522155	jr_sweezy	
+20274133	localgirl84	Sammamish, WA	29807506	InsideCheer	Atlanta, Ga.
+20274133	localgirl84	Sammamish, WA	287862500	cheerUPDATES	United States
+20274133	localgirl84	Sammamish, WA	1382430198	nbavila23	
+20274133	localgirl84	Sammamish, WA	508036774	BrittonVavra	
+20274133	localgirl84	Sammamish, WA	173001266	TheSunnyGirl5	Los Angeles, CA
+20274133	localgirl84	Sammamish, WA	2152258916	ccnwC5	Bellevue, Wa
+20274133	localgirl84	Sammamish, WA	915726438	larrywilmore	
+20274133	localgirl84	Sammamish, WA	2875485611	nightlyshow	New York City
+20274133	localgirl84	Sammamish, WA	43278228	SportsRadioKJR	Seattle
+20274133	localgirl84	Sammamish, WA	19064485	PaulOgata	Facebook.com/Paul.Ogata
+17136183	MyMomsBasement	Atlanta, GA	15591825	Dalihi	New York, NY
+17136183	MyMomsBasement	Atlanta, GA	46445414	AlternativeApp	
+17136183	MyMomsBasement	Atlanta, GA	463383342	loveatlevents	Atlanta, GA
+17136183	MyMomsBasement	Atlanta, GA	16545252	Needlings	Hamilton, Ontario, Canada
+17136183	MyMomsBasement	Atlanta, GA	125851053	mygirlthursday	Peterborough, Ontario
+17136183	MyMomsBasement	Atlanta, GA	17329654	PaperCakes	Charlottetown PEI
+17136183	MyMomsBasement	Atlanta, GA	18826654	1angrykitty	Tennessee
+17136183	MyMomsBasement	Atlanta, GA	67351534	cardsandcraft	London, UK
+17136183	MyMomsBasement	Atlanta, GA	14998466	southerndropout	los angeles
+17136183	MyMomsBasement	Atlanta, GA	103062341	MMGPhotography	Western PA
+17136183	MyMomsBasement	Atlanta, GA	16186995	kickstarter	Brooklyn, NY
+17136183	MyMomsBasement	Atlanta, GA	17061632	FollowMoMo	Seattle, WA, USA
+17136183	MyMomsBasement	Atlanta, GA	151156316	LeMollusqueVtg	Milwaukee, WI
+17136183	MyMomsBasement	Atlanta, GA	148244366	stillillvintage	
+17136183	MyMomsBasement	Atlanta, GA	148554155	FolksyBrews	Alpharetta, GA
+17136183	MyMomsBasement	Atlanta, GA	117846705	CropMobATL	Atlanta, GA
+17136183	MyMomsBasement	Atlanta, GA	109137439	AtlFreshYogurt	Atlanta,GA
+17136183	MyMomsBasement	Atlanta, GA	166725242	hausofrags	ebay (and etsy coming soon)
+17136183	MyMomsBasement	Atlanta, GA	136479925	vintagecateyes	online vintage eyewear shop
+17136183	MyMomsBasement	Atlanta, GA	171916498	BrotherSews	Bridgewater, NJ
+17136183	MyMomsBasement	Atlanta, GA	33708351	ELVintage	Los Angeles, CA
+17136183	MyMomsBasement	Atlanta, GA	17626260	modandmint	New York
+17136183	MyMomsBasement	Atlanta, GA	25243350	VerseauVintage	SF Bay Area
+17136183	MyMomsBasement	Atlanta, GA	27725957	JennLynnWash	
+17136183	MyMomsBasement	Atlanta, GA	245685671	catlanta	catlanta
+17136183	MyMomsBasement	Atlanta, GA	36155212	myvintagevogue	Los Angeles CA
+17136183	MyMomsBasement	Atlanta, GA	23406760	brownbagvintage	ridgewood, ny
+17136183	MyMomsBasement	Atlanta, GA	20118221	adoredvintage	Portland, OR
+17136183	MyMomsBasement	Atlanta, GA	106617980	RabbitShoppe	San Francisco / Etsy.com
+17136183	MyMomsBasement	Atlanta, GA	23454507	CapricornOneVtg	n/a
+17136183	MyMomsBasement	Atlanta, GA	19883253	plaidpony	Philadelphia PA
+17136183	MyMomsBasement	Atlanta, GA	29880574	HazelDeeps	www.etsy.com/shop/thedeeps
+17136183	MyMomsBasement	Atlanta, GA	136377362	Route11vintage	Pasadena, CA, 
+17136183	MyMomsBasement	Atlanta, GA	153868916	GLVintage	
+17136183	MyMomsBasement	Atlanta, GA	91369148	VeriteVintage	http://veritevintage.com
+17136183	MyMomsBasement	Atlanta, GA	22658833	ProntoStyle	New York, NY
+18013593	MaryisthePope	Panama City Beach, FL	627067125	revsierra	
+18013593	MaryisthePope	Panama City Beach, FL	459520912	SocialInAtlanta	Atlanta
+18013593	MaryisthePope	Panama City Beach, FL	409055353	MattMcGorry	LA
+18013593	MaryisthePope	Panama City Beach, FL	378151845	CourtneyHegert	Atlanta, Ga
+18013593	MaryisthePope	Panama City Beach, FL	551195224	TobiasFunkeQ	
+18013593	MaryisthePope	Panama City Beach, FL	1305625592	Radio1057	Atlanta, GA
+18013593	MaryisthePope	Panama City Beach, FL	38993127	javiermcintosh	Atlanta, GA
+18013593	MaryisthePope	Panama City Beach, FL	52567639	ttedward51	Atlanta, GA
+18013593	MaryisthePope	Panama City Beach, FL	2493431251	TaronEgerton	
+18013593	MaryisthePope	Panama City Beach, FL	52875381	thirdmanrecords	Nashville, TN
+18013593	MaryisthePope	Panama City Beach, FL	18932517	nathanbach	Atlanta, GA
+18013593	MaryisthePope	Panama City Beach, FL	1143832052	campbell08_glen	Dacula Ga
+18013593	MaryisthePope	Panama City Beach, FL	15439395	stephenfry	London, England
+18013593	MaryisthePope	Panama City Beach, FL	2957734127	TheDollyP	
+18013593	MaryisthePope	Panama City Beach, FL	241382835	prattprattpratt	
+18013593	MaryisthePope	Panama City Beach, FL	298503082	CAH	
+18013593	MaryisthePope	Panama City Beach, FL	15235235	MaxTemkin	Chicago, IL
+18013593	MaryisthePope	Panama City Beach, FL	279680165	TheVirginDoll	
+18013593	MaryisthePope	Panama City Beach, FL	550521377	PrinceTweets2U	Paisley Park
+24174029	JejuanSmith	Everywhere.	227708624	DatDude_Hopp	Where I need to be 
+19324378	wishingwell50	USA	121902830	authorpherring	Michigan
+19324378	wishingwell50	USA	32933654	JeremySisto	
+19324378	wishingwell50	USA	40733615	LisaAnnWalter	Lofty Heights
+19324378	wishingwell50	USA	246011382	dayoneapp	Lehi, Utah
+19324378	wishingwell50	USA	3681679457	McHorseshit	

@@ -1845,3 +1845,1039 @@
 47851589	KarynTeaches	Chicago, IL	2236837988	PrincipalManaen	Ravenswood Elementary
 47851589	KarynTeaches	Chicago, IL	813953876	TroyLaRaviere	
 47851589	KarynTeaches	Chicago, IL	820858772	CTUMockingjay	Chicago, IL
+47851589	KarynTeaches	Chicago, IL	38504554	LDH_ed	Stanford, CA
+47851589	KarynTeaches	Chicago, IL	2189237430	HeurtefeuE	Chicago
+47851589	KarynTeaches	Chicago, IL	338534212	TheKitchenComm	Based in Colorado
+47851589	KarynTeaches	Chicago, IL	36155411	JeffProbst	Los Angeles, CA
+47851589	KarynTeaches	Chicago, IL	2784623402	ZurawskiG	4046 N. Leavitt, Chicago, IL 6
+47851589	KarynTeaches	Chicago, IL	2663681628	rovitoscience	
+47851589	KarynTeaches	Chicago, IL	2789015035	CarpenterCougar	Chicago, IL USA
+47851589	KarynTeaches	Chicago, IL	3056959540	btownsend_TAR	
+47851589	KarynTeaches	Chicago, IL	71340826	parkerjpalmer	Madison, WI
+47851589	KarynTeaches	Chicago, IL	932252245	NationalLouisU	
+47851589	KarynTeaches	Chicago, IL	285686968	JAlexPruner	New York, NY
+47851589	KarynTeaches	Chicago, IL	2277696794	ILReadCouncil	
+47851589	KarynTeaches	Chicago, IL	330443955	Nate_Pietrini	Hawthorne Scholastic Academy
+47851589	KarynTeaches	Chicago, IL	627799297	iamkidpresident	Tiny Oval Office
+47851589	KarynTeaches	Chicago, IL	17565514	shondarhimes	shondaland
+47851589	KarynTeaches	Chicago, IL	22536055	AmericanAir	
+47851589	KarynTeaches	Chicago, IL	2787882152	lbertucci3	
+47851589	KarynTeaches	Chicago, IL	1005165864	corygillette2	
+47851589	KarynTeaches	Chicago, IL	1393641793	KellyBHohne1	NYC
+47851589	KarynTeaches	Chicago, IL	2470312130	lindavhoyt	
+47851589	KarynTeaches	Chicago, IL	1628725784	PrincipalWeiden	Chicago, IL
+47851589	KarynTeaches	Chicago, IL	714984637	mbcunat	Chicago, Illinois 
+47851589	KarynTeaches	Chicago, IL	20879969	TDMBucktown	Chicago, IL
+47851589	KarynTeaches	Chicago, IL	43982636	ChicagoMuseum	Chicago IL
+47851589	KarynTeaches	Chicago, IL	14315537	FieldMuseum	Chicago, IL
+30298092	SkylineSoireeIL	Chicago, IL	201033115	whitbisch	
+30298092	SkylineSoireeIL	Chicago, IL	37500920	kctheqweenbee	
+30298092	SkylineSoireeIL	Chicago, IL	386183582	ChiLoopAlliance	Chicago, IL
+30298092	SkylineSoireeIL	Chicago, IL	17626516	ChicagoTweetups	Chicago
+30298092	SkylineSoireeIL	Chicago, IL	2203301089	ILGAConnected	Springfield
+30298092	SkylineSoireeIL	Chicago, IL	21929630	ChicagoMSABC	Chicago
+30298092	SkylineSoireeIL	Chicago, IL	33945813	360chiviews	Chicago, Illinois
+30298092	SkylineSoireeIL	Chicago, IL	2536421622	shamrockangels	Norridge, IL
+30298092	SkylineSoireeIL	Chicago, IL	2216381	Chicago	Chicago
+30298092	SkylineSoireeIL	Chicago, IL	561454952	SpiritNavyPier	Navy Pier
+30298092	SkylineSoireeIL	Chicago, IL	122445177	ChicagoBooth	Chicago, IL
+30298092	SkylineSoireeIL	Chicago, IL	276682876	GoogleLocalCHI	Chicago, IL
+30298092	SkylineSoireeIL	Chicago, IL	19723258	DjNiKki	CHICAGO
+30298092	SkylineSoireeIL	Chicago, IL	38523444	773info	Chicago
+30298092	SkylineSoireeIL	Chicago, IL	410087615	CushWakeCalgary	Calgary, Alberta, Canada
+30298092	SkylineSoireeIL	Chicago, IL	41155113	SeattleHopeGala	Seattle, WA
+30298092	SkylineSoireeIL	Chicago, IL	355697603	G3C1Inc	Lake Forest, IL
+30298092	SkylineSoireeIL	Chicago, IL	49753110	Motorola	Chicago, IL
+30298092	SkylineSoireeIL	Chicago, IL	17193794	HP	USA
+30298092	SkylineSoireeIL	Chicago, IL	22152077	Aon_plc	120 countries around the globe
+30298092	SkylineSoireeIL	Chicago, IL	107543030	CushWakeHOUSTON	Houston
+17584242	CraigBivinsJr	Chicago, IL	2899847585	chula_one84	
+17584242	CraigBivinsJr	Chicago, IL	14101582	johnbraun	
+17584242	CraigBivinsJr	Chicago, IL	29960497	SEXYINDIA	WHERE THE VAMPIRES ARE
+17584242	CraigBivinsJr	Chicago, IL	37675197	TNJamesTurner	U.S.A. Tennessee
+17584242	CraigBivinsJr	Chicago, IL	199110089	lNVENTlONS	Worldwide. 
+17584242	CraigBivinsJr	Chicago, IL	341933421	MrTsdaughter	Chicago
+17584242	CraigBivinsJr	Chicago, IL	356906097	TanyaFear	London
+17584242	CraigBivinsJr	Chicago, IL	817122776	clumsygame	
+17584242	CraigBivinsJr	Chicago, IL	265835232	Kam_Ron45	The Windy 
+17584242	CraigBivinsJr	Chicago, IL	29440635	SheenaDHouse	Chicago/Atlanta
+17584242	CraigBivinsJr	Chicago, IL	598313512	4BNAB	Chicago, Illinois
+17584242	CraigBivinsJr	Chicago, IL	2176872728	Almighty_Blaze	200East/LBlocc
+17584242	CraigBivinsJr	Chicago, IL	487736815	TheWeirdWorld	Worldwide
+17584242	CraigBivinsJr	Chicago, IL	206052014	LifeCheates	U N I V E R S E
+17584242	CraigBivinsJr	Chicago, IL	63291287	REALStaceyDash	Los Angeles via South Bronx
+17584242	CraigBivinsJr	Chicago, IL	258023719	kaleighmcging	Chicago
+17584242	CraigBivinsJr	Chicago, IL	57417006	deebrown11	 Chicago
+17584242	CraigBivinsJr	Chicago, IL	422916175	Classy_07	Brooklyn, NY
+17584242	CraigBivinsJr	Chicago, IL	28711676	CleavageTweet	In between the cleave
+17584242	CraigBivinsJr	Chicago, IL	362894135	FuxLukinAssNigs	Atlanta, GA
+17584242	CraigBivinsJr	Chicago, IL	30007984	JackieQuintana	Chicago
+17584242	CraigBivinsJr	Chicago, IL	883298618	cutelunastar	
+17584242	CraigBivinsJr	Chicago, IL	204832963	TheTweetOfGod	Everywhere-ish
+17584242	CraigBivinsJr	Chicago, IL	15112249	RayWJ	a galaxy far far away 
+17584242	CraigBivinsJr	Chicago, IL	860218206	TWIKRT	Barcelona
+17584242	CraigBivinsJr	Chicago, IL	12477472	briantong	The Bay Bay Bay!
+17584242	CraigBivinsJr	Chicago, IL	14195803	tymoss	
+17584242	CraigBivinsJr	Chicago, IL	95514781	MissEricaLane	IG: missericalane
+17584242	CraigBivinsJr	Chicago, IL	1166121553	leylamartinezx	london
+17584242	CraigBivinsJr	Chicago, IL	570218986	Iron_Man	Malibu; NYC
+17584242	CraigBivinsJr	Chicago, IL	236216081	InYourCornerCo	New York City
+17584242	CraigBivinsJr	Chicago, IL	544589244	atonofpeople	Worldwide
+17584242	CraigBivinsJr	Chicago, IL	842034704	Cat15tee	
+17584242	CraigBivinsJr	Chicago, IL	39014155	sophia_santi	Los Angeles
+17584242	CraigBivinsJr	Chicago, IL	18973279	fgomezlira	Chicago, FL, AZ & California
+17584242	CraigBivinsJr	Chicago, IL	108862031	_NellyJ_	
+17584242	CraigBivinsJr	Chicago, IL	529342158	julissa_james	
+17584242	CraigBivinsJr	Chicago, IL	750656624	Gemini_ht	
+17584242	CraigBivinsJr	Chicago, IL	22293913	RachelStarrxxx	Dallas, TX
+17584242	CraigBivinsJr	Chicago, IL	103334339	Ana_Montanaa	MIA/LA
+17584242	CraigBivinsJr	Chicago, IL	162009789	JynxMazeCutie	LA, NYC, NSW
+17584242	CraigBivinsJr	Chicago, IL	80700514	RealTracyMorgan	NYC
+17584242	CraigBivinsJr	Chicago, IL	18125335	aishatyler	your mom's house
+17584242	CraigBivinsJr	Chicago, IL	109970442	rhSin722	Manhattan, NY
+17584242	CraigBivinsJr	Chicago, IL	55161901	joebereta	Your Dreams
+17584242	CraigBivinsJr	Chicago, IL	288505420	sourcefed	
+17584242	CraigBivinsJr	Chicago, IL	17165565	stevezaragoza	Los Angeles
+17584242	CraigBivinsJr	Chicago, IL	455978461	leenewtonsays	
+17584242	CraigBivinsJr	Chicago, IL	178890944	ElliottcMorgan	Los Angeles, CA
+17584242	CraigBivinsJr	Chicago, IL	509656977	thatgrltrish	Los Angeles, CA
+17584242	CraigBivinsJr	Chicago, IL	23711472	megturney	Austin, TX
+17584242	CraigBivinsJr	Chicago, IL	287480161	Dot723	Berwyn,IL
+17584242	CraigBivinsJr	Chicago, IL	32209130	brittkel	Iowa City & Downers Grove 
+17584242	CraigBivinsJr	Chicago, IL	444024610	bigwinsports	
+17584242	CraigBivinsJr	Chicago, IL	250831586	TheRock	
+17584242	CraigBivinsJr	Chicago, IL	436292747	lovelovetenshi	
+17584242	CraigBivinsJr	Chicago, IL	418253739	mistereffoex	cityofwind
+17584242	CraigBivinsJr	Chicago, IL	97397464	BlueStarLive	info@bluestarlive.net
+17584242	CraigBivinsJr	Chicago, IL	6476742	mollywood	Oakland, CA
+17584242	CraigBivinsJr	Chicago, IL	224681766	BrandNew63	
+17584242	CraigBivinsJr	Chicago, IL	353650424	mhohman24	
+17584242	CraigBivinsJr	Chicago, IL	18931478	PaulManyara	Chicago,IL 
+17584242	CraigBivinsJr	Chicago, IL	165829521	haile_storm23	
+17584242	CraigBivinsJr	Chicago, IL	221219031	SmithShow22	Windy City
+17584242	CraigBivinsJr	Chicago, IL	262264902	SexyTwitPics	WorldWide
+17584242	CraigBivinsJr	Chicago, IL	21827895	fhyatt	
+17584242	CraigBivinsJr	Chicago, IL	22561128	RoxyReynolds	Viewer Discretion is Advised
+17584242	CraigBivinsJr	Chicago, IL	39138350	briannafrost	
+17584242	CraigBivinsJr	Chicago, IL	59533795	officialABDC	
+17584242	CraigBivinsJr	Chicago, IL	26686203	LAILAODOM	Los Angeles
+17584242	CraigBivinsJr	Chicago, IL	29403387	michaelb4jordan	Los Angeles 
+17584242	CraigBivinsJr	Chicago, IL	190683192	aphrodite428	
+17584242	CraigBivinsJr	Chicago, IL	144221832	Scorpianic	West Burbs of Chi
+17584242	CraigBivinsJr	Chicago, IL	22940219	Eminem	Detroit
+17584242	CraigBivinsJr	Chicago, IL	122546934	GinoDollar85	Maywood/K-town 
+17584242	CraigBivinsJr	Chicago, IL	18012292	LivingSkyHigh	Chicago, IL
+17584242	CraigBivinsJr	Chicago, IL	274550151	GeminiSignz	Planet Mercury
+17584242	CraigBivinsJr	Chicago, IL	235027504	BossyNiiques	West Palm Beach, Fl
+22460508	kyst_	Chicago	169686021	kanyewest	
+22460508	kyst_	Chicago	14746095	kyleluvsew	Chicago, IL
+46027302	10pinchicago	Chicago, IL	3740926155	aroxanne78	
+46027302	10pinchicago	Chicago, IL	3280889948	SohoChicago	Chicago, IL
+46027302	10pinchicago	Chicago, IL	3554571502	andrewdrewmonea	Vinings, GA
+46027302	10pinchicago	Chicago, IL	3763688413	SOSBowling	Omaha, NE
+46027302	10pinchicago	Chicago, IL	3109359297	2212Jehgfarza	
+46027302	10pinchicago	Chicago, IL	76966092	johnrampton	Palo Alto, CA
+46027302	10pinchicago	Chicago, IL	381327105	denismahe	
+46027302	10pinchicago	Chicago, IL	3031681064	BeerRightNowChi	Chicago
+46027302	10pinchicago	Chicago, IL	1746503880	SCollomMusic	Los Angeles, CA
+46027302	10pinchicago	Chicago, IL	2759081185	RandallMarmet	White Pine, Tennessee, USA
+46027302	10pinchicago	Chicago, IL	3294406508	SuckATbowling	Illinois, USA
+46027302	10pinchicago	Chicago, IL	528055712	iva_nm	
+46027302	10pinchicago	Chicago, IL	3278824026	linda_novetta	Huntington Beach, CA
+46027302	10pinchicago	Chicago, IL	46935016	rmwillia	Chicago, IL
+46027302	10pinchicago	Chicago, IL	16671869	JamesDayArt	Arizona
+46027302	10pinchicago	Chicago, IL	32189846	pedrocostamusic	
+62935600	SteppenwolfThtr	Chicago, IL	28354637	kltruecolors	Atlanta, GA
+62935600	SteppenwolfThtr	Chicago, IL	2983829906	LoveTheatreDay	
+62935600	SteppenwolfThtr	Chicago, IL	3153770281	staythirsty2015	Global
+62935600	SteppenwolfThtr	Chicago, IL	64013534	stagemgrassoc	United States
+62935600	SteppenwolfThtr	Chicago, IL	25330784	Dannystrong	
+62935600	SteppenwolfThtr	Chicago, IL	396202801	KaitlinDday	LA
+62935600	SteppenwolfThtr	Chicago, IL	104958465	mzlaylaw	Chicago, IL
+62935600	SteppenwolfThtr	Chicago, IL	2863488598	HamiltonMusical	226 W 46th St NY, NY 10036
+62935600	SteppenwolfThtr	Chicago, IL	2361777858	funhomemusical	
+62935600	SteppenwolfThtr	Chicago, IL	2654464946	AmericanInParis	
+62935600	SteppenwolfThtr	Chicago, IL	58081177	hbrikin	NYC
+62935600	SteppenwolfThtr	Chicago, IL	2810389901	KingandIBway	New York, NY
+62935600	SteppenwolfThtr	Chicago, IL	2552735845	SpringBway	New York, NY
+62935600	SteppenwolfThtr	Chicago, IL	2336936412	CuriousBroadway	New York, New York
+62935600	SteppenwolfThtr	Chicago, IL	2974871290	TheaterHistory	
+62935600	SteppenwolfThtr	Chicago, IL	288304848	ScandalABC	
+62935600	SteppenwolfThtr	Chicago, IL	1726355905	JackSmartWrites	New York, NY
+62935600	SteppenwolfThtr	Chicago, IL	408838709	GreenHouseTP	UK & USA
+62935600	SteppenwolfThtr	Chicago, IL	70047768	americanbluesth	Chicago
+62935600	SteppenwolfThtr	Chicago, IL	19165963	JenKirkman	Los Angeles
+62935600	SteppenwolfThtr	Chicago, IL	451654999	PrideFilmsPlays	Chicago, IL
+62935600	SteppenwolfThtr	Chicago, IL	3351198673	kane_one_	
+62935600	SteppenwolfThtr	Chicago, IL	204857496	ShatteredGlobe	Chicago
+62935600	SteppenwolfThtr	Chicago, IL	239899350	JackalopeTC	Chicago
+62935600	SteppenwolfThtr	Chicago, IL	76538146	raventheatre	
+62935600	SteppenwolfThtr	Chicago, IL	2863238050	theaterloop	Chicago, IL
+62935600	SteppenwolfThtr	Chicago, IL	31066956	MorGreene	Chicago
+62935600	SteppenwolfThtr	Chicago, IL	19936078	kencen	Washington, DC
+62935600	SteppenwolfThtr	Chicago, IL	14782497	scolo	Los Angeles
+152143	eszter	Evanston, IL	194203770	cfiesler	Atlanta, GA
+152143	eszter	Evanston, IL	3266848870	manwhohasitall	
+152143	eszter	Evanston, IL	18784466	Mandlsohn	Canada
+152143	eszter	Evanston, IL	868046352	KtAdler	
+152143	eszter	Evanston, IL	906214800	Jordan_Clarkyy	
+152143	eszter	Evanston, IL	912909756	MayasHomeBase	
+152143	eszter	Evanston, IL	3033963531	ocatipus	Heavanston || NU '19
+152143	eszter	Evanston, IL	3103723420	CapnSwankySwag	Chicago, IL
+152143	eszter	Evanston, IL	3731716156	Ada_Yuting_Jing	Evanston, IL
+152143	eszter	Evanston, IL	3788161761	LeYizhi	Evanston, IL
+152143	eszter	Evanston, IL	3828944716	carkivell	
+152143	eszter	Evanston, IL	3840937096	axiang120	
+152143	eszter	Evanston, IL	3874133513	JulianLarach	Evanston, IL
+152143	eszter	Evanston, IL	3884940497	yolandasbennett	Evanston, IL
+152143	eszter	Evanston, IL	3885349606	MelissaB2019	
+152143	eszter	Evanston, IL	2336152236	MarlonTwyman2	Chicago, IL
+152143	eszter	Evanston, IL	248096731	yanatweets	San Francisco
+152143	eszter	Evanston, IL	85590185	jamesmatesitv	
+152143	eszter	Evanston, IL	17672825	astroehlein	Brussels, Belgium
+152143	eszter	Evanston, IL	3309160537	ProfEarl	Tucson
+152143	eszter	Evanston, IL	935452448	ProfLBNielsen	
+152143	eszter	Evanston, IL	351906466	vaiseys	North Carolina
+152143	eszter	Evanston, IL	29193463	shamuskhan	New York
+7626142	louiejr23	Chicago, IL	18206009	OnlineMktgByron	Columbus, OHIO  USA
+7626142	louiejr23	Chicago, IL	117207333	OTCRPTR_MsTaryn	
+7626142	louiejr23	Chicago, IL	17155393	SEXSTROLOGY	USA
+7626142	louiejr23	Chicago, IL	86799292	SkipSpires	Portsmouth, Virginia USA
+7626142	louiejr23	Chicago, IL	39553219	KaliMarcum	Dayton, Ohio
+7626142	louiejr23	Chicago, IL	18343779	nikhil_parekh	Sydney, Australia
+47736061	SteveStrang	Between Chicago & Milwaukee	487602166	SBNationCFB	College Football Town, USA
+47736061	SteveStrang	Between Chicago & Milwaukee	60520655	RonFunches	
+47736061	SteveStrang	Between Chicago & Milwaukee	237883903	petedavidson	
+47736061	SteveStrang	Between Chicago & Milwaukee	1326005282	aidybryant	nyc
+47736061	SteveStrang	Between Chicago & Milwaukee	178088940	TheColinJost	New York
+47736061	SteveStrang	Between Chicago & Milwaukee	21992832	twisted_twins	Vancouver
+47736061	SteveStrang	Between Chicago & Milwaukee	35069260	katienolan	NYC (Boston at heart)
+47736061	SteveStrang	Between Chicago & Milwaukee	3290270119	ILGive2015	Illinois, USA
+47736061	SteveStrang	Between Chicago & Milwaukee	177938446	ChildersRadio	Nashville, TN
+47736061	SteveStrang	Between Chicago & Milwaukee	2263279765	Chicago_Tags	No Love City
+47736061	SteveStrang	Between Chicago & Milwaukee	234521957	notthefakeSVP	Midnight Eastern 
+47736061	SteveStrang	Between Chicago & Milwaukee	885299028	EnrightGEO	Washington, DC
+47736061	SteveStrang	Between Chicago & Milwaukee	25460615	wwwbigbaldhead	nyc
+47736061	SteveStrang	Between Chicago & Milwaukee	498271786	TerryHorton_	
+47736061	SteveStrang	Between Chicago & Milwaukee	270726710	TimBaffoe	http://on.si.com/1Oj7sAa
+47736061	SteveStrang	Between Chicago & Milwaukee	3497941	owillis	Takoma Park, MD
+47736061	SteveStrang	Between Chicago & Milwaukee	369859152	RachaelCGibson	Washington, DC
+51275014	RodyAbdelrahman	Palos Hills, IL	5548212	AndrewMayne	Closer than you think.
+51275014	RodyAbdelrahman	Palos Hills, IL	430207771	baDotNet	Lille
+51275014	RodyAbdelrahman	Palos Hills, IL	14293310	TIME	
+51275014	RodyAbdelrahman	Palos Hills, IL	5695632	BuzzFeed	New York
+51275014	RodyAbdelrahman	Palos Hills, IL	14372486	engadget	Global
+51275014	RodyAbdelrahman	Palos Hills, IL	8963722	WIREDScience	San Francisco, California
+51275014	RodyAbdelrahman	Palos Hills, IL	11518842	gadgetlab	San Francisco, CA
+51275014	RodyAbdelrahman	Palos Hills, IL	112243365	mashabletech	
+51275014	RodyAbdelrahman	Palos Hills, IL	2890961	Gizmodo	
+51275014	RodyAbdelrahman	Palos Hills, IL	112236047	mashsocialmedia	
+51275014	RodyAbdelrahman	Palos Hills, IL	816653	TechCrunch	San Francisco, CA
+51275014	RodyAbdelrahman	Palos Hills, IL	1344951	WIRED	San Francisco/New York
+51275014	RodyAbdelrahman	Palos Hills, IL	420617326	AbstraKt_CFoENT	Chicago 
+51275014	RodyAbdelrahman	Palos Hills, IL	40674171	EdgesilhouetteZ	USA: IL
+51275014	RodyAbdelrahman	Palos Hills, IL	3124474601	AlexGarbe555	
+51275014	RodyAbdelrahman	Palos Hills, IL	1414260026	leeschmid	
+51275014	RodyAbdelrahman	Palos Hills, IL	329746058	BenAffleck	
+51275014	RodyAbdelrahman	Palos Hills, IL	2759758922	sch_tammy	
+51275014	RodyAbdelrahman	Palos Hills, IL	2544202688	LoyolaHSD	Maywood, IL
+51275014	RodyAbdelrahman	Palos Hills, IL	345971474	Cubf1end	Denton TX
+51275014	RodyAbdelrahman	Palos Hills, IL	40351345	baoch	San Francisco, Ca
+51275014	RodyAbdelrahman	Palos Hills, IL	892194078	VigilantRobot	chicago
+51275014	RodyAbdelrahman	Palos Hills, IL	1176610410	JillyAn87	
+51275014	RodyAbdelrahman	Palos Hills, IL	467193135	LuisDavidBro	Springfield, VA
+51275014	RodyAbdelrahman	Palos Hills, IL	472255827	AlShal28	
+51275014	RodyAbdelrahman	Palos Hills, IL	712693242	DePaulTrAC	Chicago, IL
+51275014	RodyAbdelrahman	Palos Hills, IL	489029609	ronia83	
+51275014	RodyAbdelrahman	Palos Hills, IL	265516026	Tharvey87	Chicago 
+51275014	RodyAbdelrahman	Palos Hills, IL	416656456	Rrrodddyyy	Palos Hills
+51275014	RodyAbdelrahman	Palos Hills, IL	35923489	cleanboi24	chi tizzle
+51275014	RodyAbdelrahman	Palos Hills, IL	28624246	zoeakind	Oak Park, Ill.
+51275014	RodyAbdelrahman	Palos Hills, IL	48920337	mukhias	
+51275014	RodyAbdelrahman	Palos Hills, IL	16364849	FamousAfterIDie	Chicago, IL
+51275014	RodyAbdelrahman	Palos Hills, IL	162749920	LuolDeng9	Miami, FL
+51275014	RodyAbdelrahman	Palos Hills, IL	221618873	mlene76	
+51275014	RodyAbdelrahman	Palos Hills, IL	73058561	TajGibson22	NYC, LA, CHI
+51275014	RodyAbdelrahman	Palos Hills, IL	17093617	hootsuite	Vancouver, Canada
+51275014	RodyAbdelrahman	Palos Hills, IL	268439864	xtina	
+51275014	RodyAbdelrahman	Palos Hills, IL	4970411	AJEnglish	Doha, Qatar
+51275014	RodyAbdelrahman	Palos Hills, IL	64476071	cdj0429	
+51275014	RodyAbdelrahman	Palos Hills, IL	78195973	SimpleAysha	Chicago | Illinois
+51275014	RodyAbdelrahman	Palos Hills, IL	107546547	BurlesqueMovie	
+51275014	RodyAbdelrahman	Palos Hills, IL	32152579	Cheesecake	Calabasas Hills, CA
+51275014	RodyAbdelrahman	Palos Hills, IL	60980409	scaretacticstv	Where you least expect us.
+51275014	RodyAbdelrahman	Palos Hills, IL	147653961	ely_yagami	Chicago, IL
+51275014	RodyAbdelrahman	Palos Hills, IL	14364050	brian_miller	Chicago, IL
+51275014	RodyAbdelrahman	Palos Hills, IL	33797980	ESPY_TEAHEN	Arizona, Earth
+51275014	RodyAbdelrahman	Palos Hills, IL	36528126	kirstiealley	Hollywood
+51275014	RodyAbdelrahman	Palos Hills, IL	29500609	Creativesuite	Anywhere
+51275014	RodyAbdelrahman	Palos Hills, IL	61658283	scottmerkin	Chicago
+51275014	RodyAbdelrahman	Palos Hills, IL	106207497	OzzieGuillen	Chicago - Venezuela
+51275014	RodyAbdelrahman	Palos Hills, IL	86871495	ThisGuyTweeted	Chicago, Illinois
+51275014	RodyAbdelrahman	Palos Hills, IL	65103390	kfranco1284	
+51275014	RodyAbdelrahman	Palos Hills, IL	9410082	InsideTheSox	U.S. Cellular Field
+51275014	RodyAbdelrahman	Palos Hills, IL	36412963	QueenRania	Amman, Jordan
+51275014	RodyAbdelrahman	Palos Hills, IL	83526011	Jordan_Gales	
+51275014	RodyAbdelrahman	Palos Hills, IL	59669517	UnitedCenter	Chicago, IL
+51275014	RodyAbdelrahman	Palos Hills, IL	96024531	carolmarchan85	Chicago
+51275014	RodyAbdelrahman	Palos Hills, IL	40123107	Papillon_Noire	
+51275014	RodyAbdelrahman	Palos Hills, IL	43640129	eoliva3	United States of America
+51275014	RodyAbdelrahman	Palos Hills, IL	791604	RadioFreeChicgo	Chicago
+51275014	RodyAbdelrahman	Palos Hills, IL	972651	mashable	
+51275014	RodyAbdelrahman	Palos Hills, IL	69641338	goebejoe	Chicago, IL, US
+51275014	RodyAbdelrahman	Palos Hills, IL	16365380	jandruka	Chicago, IL
+51275014	RodyAbdelrahman	Palos Hills, IL	44336743	followfail	
+51275014	RodyAbdelrahman	Palos Hills, IL	50377781	jeannettec_4	Chicago, IL
+51275014	RodyAbdelrahman	Palos Hills, IL	17088779	SpongeBob	Bikini Bottom
+51275014	RodyAbdelrahman	Palos Hills, IL	53197137	whitesox	U.S. Cellular Field
+51275014	RodyAbdelrahman	Palos Hills, IL	58562140	Southpaw	Chicago
+51275014	RodyAbdelrahman	Palos Hills, IL	58341599	JChepon	
+51275014	RodyAbdelrahman	Palos Hills, IL	1260231	joehewitt	Los Gatos, CA
+51275014	RodyAbdelrahman	Palos Hills, IL	41825548	BaseballStone	
+51275014	RodyAbdelrahman	Palos Hills, IL	16212685	chicagobulls	Chicago
+51275014	RodyAbdelrahman	Palos Hills, IL	21133007	OneRepublic	Denver, CO
+51275014	RodyAbdelrahman	Palos Hills, IL	21843997	whitesoxbuzztap	Chicago, IL
+51275014	RodyAbdelrahman	Palos Hills, IL	51835842	ChicArabCouncil	Chicago
+51275014	RodyAbdelrahman	Palos Hills, IL	23410773	rehayem	Bangkok, Thailand
+51275014	RodyAbdelrahman	Palos Hills, IL	25969442	4danlopez	Mostly Chicago, IL
+51275014	RodyAbdelrahman	Palos Hills, IL	14787758	cypheroftyr	#Brookago
+51275014	RodyAbdelrahman	Palos Hills, IL	45771876	Travster817	Chicago
+51275014	RodyAbdelrahman	Palos Hills, IL	17003388	jaimeerosko	
+51275014	RodyAbdelrahman	Palos Hills, IL	10228272	YouTube	San Bruno, CA
+51275014	RodyAbdelrahman	Palos Hills, IL	22940219	Eminem	Detroit
+51275014	RodyAbdelrahman	Palos Hills, IL	43550370	chelle8422	Chicago, IL
+51275014	RodyAbdelrahman	Palos Hills, IL	14260505	SayDiana	Chicago
+51275014	RodyAbdelrahman	Palos Hills, IL	41382449	ChicArabesque	Daley Plaza
+19947071	iscriptsdotcom	Chicago, IL	14566614	micahbrich	Los Angeles, CA
+19947071	iscriptsdotcom	Chicago, IL	2875103579	FarehamWeb	Fareham
+19947071	iscriptsdotcom	Chicago, IL	591691821	KashyapWeboo	Jamnagar, Gujarat, India
+19947071	iscriptsdotcom	Chicago, IL	618709104	BambouClub	
+19947071	iscriptsdotcom	Chicago, IL	29156033	digitalprodigy	FL via NYC via LA via TX
+19947071	iscriptsdotcom	Chicago, IL	3191728310	ListingFlippa	
+19947071	iscriptsdotcom	Chicago, IL	3503815037	Domain_Jane	Boise, ID
+19947071	iscriptsdotcom	Chicago, IL	151418577	ArnoldDaniels	Amsterdam
+19947071	iscriptsdotcom	Chicago, IL	3230953160	comdevelop	Calgary, AB, London, Ont, CA.
+19947071	iscriptsdotcom	Chicago, IL	207703961	gazmcghee	Perth, Western Australia
+19947071	iscriptsdotcom	Chicago, IL	1093659774	SEOTalkForums	Internet
+19947071	iscriptsdotcom	Chicago, IL	16634646	rlaplante	us est
+19947071	iscriptsdotcom	Chicago, IL	2334931345	JensWeegar	Koh Samui - Thailand
+19947071	iscriptsdotcom	Chicago, IL	1041639684	abhijitbangera	India
+19947071	iscriptsdotcom	Chicago, IL	106084088	ianoutlander	
+19947071	iscriptsdotcom	Chicago, IL	97446252	yvonnegaudette	Massachusetts
+19947071	iscriptsdotcom	Chicago, IL	3382899838	The_TechACE	New York, NY
+19947071	iscriptsdotcom	Chicago, IL	47985486	amitsurti	Surat, India
+19947071	iscriptsdotcom	Chicago, IL	546032063	JDevonshire	Philippines
+19947071	iscriptsdotcom	Chicago, IL	72421843	seniorsage3	Arizona
+19947071	iscriptsdotcom	Chicago, IL	1548769568	letsforum	Internet Marketing Forum
+19947071	iscriptsdotcom	Chicago, IL	245137010	irenesconcierge	online and Nairobi, Kenya
+19947071	iscriptsdotcom	Chicago, IL	2703720854	ExplosionMarket	Australia
+19947071	iscriptsdotcom	Chicago, IL	325675825	DavidJSealey	Norwich, England
+19947071	iscriptsdotcom	Chicago, IL	145979494	ArchieLeeming	Cape Town - London
+19947071	iscriptsdotcom	Chicago, IL	2847856835	NicheApex	Worldwide
+19947071	iscriptsdotcom	Chicago, IL	122651473	slikhyani	India
+19947071	iscriptsdotcom	Chicago, IL	46245345	kapopp	Boston
+19947071	iscriptsdotcom	Chicago, IL	21153346	djmokoia	
+19947071	iscriptsdotcom	Chicago, IL	18109480	mvicioso	Miami, FL
+19947071	iscriptsdotcom	Chicago, IL	26186028	tercet86	Toronto
+19947071	iscriptsdotcom	Chicago, IL	511227096	WillingWeb	Tamworth, NSW
+19947071	iscriptsdotcom	Chicago, IL	3036397820	Pravinm8453	India
+19947071	iscriptsdotcom	Chicago, IL	14320025	BradLedford	California
+19947071	iscriptsdotcom	Chicago, IL	1464970664	TLDRegistry	The internet
+19947071	iscriptsdotcom	Chicago, IL	1382662706	get_stay_hungry	Lincoln, NE
+19947071	iscriptsdotcom	Chicago, IL	2331185377	Event_U	Toronto
+19947071	iscriptsdotcom	Chicago, IL	3058336553	DukeofDomains2	The Web
+19947071	iscriptsdotcom	Chicago, IL	88647032	samjhiggins	UK
+19947071	iscriptsdotcom	Chicago, IL	14093641	fredo3303	omnipresent
+19947071	iscriptsdotcom	Chicago, IL	4557761	philomglol	Melbourne, VIC
+19947071	iscriptsdotcom	Chicago, IL	98168495	Therusty_1	
+19947071	iscriptsdotcom	Chicago, IL	192141333	philsalcedo	
+19947071	iscriptsdotcom	Chicago, IL	651263	wirelessjoe	BK & CT
+19947071	iscriptsdotcom	Chicago, IL	361950932	tuning989	Vatra Dornei, Suceava
+19947071	iscriptsdotcom	Chicago, IL	3265556101	DipAndBeer	
+19947071	iscriptsdotcom	Chicago, IL	2602000160	mytutorialguru	
+19947071	iscriptsdotcom	Chicago, IL	977381419	ParksAreZoos	Nibiru
+19947071	iscriptsdotcom	Chicago, IL	2149885587	CoutantNorman	Pennsylvania, USA
+19947071	iscriptsdotcom	Chicago, IL	3055139240	FadellaListings	USA
+19947071	iscriptsdotcom	Chicago, IL	214477790	zaman8885	Pakistan
+19947071	iscriptsdotcom	Chicago, IL	166081401	irfansweb	Lahore Pakistan
+19947071	iscriptsdotcom	Chicago, IL	2436309440	Digital_Ad_Blog	
+19947071	iscriptsdotcom	Chicago, IL	6963992	TilakBisht	Greater Noida, IN
+19947071	iscriptsdotcom	Chicago, IL	8470262	bobjones	Perth, Australia
+19947071	iscriptsdotcom	Chicago, IL	2701110324	withNitya	Haldia, India
+19947071	iscriptsdotcom	Chicago, IL	47368656	Kemji	Port Harcourt, Nigeria
+19947071	iscriptsdotcom	Chicago, IL	401883648	coulsy90	Cambridge
+19947071	iscriptsdotcom	Chicago, IL	428190299	BarbarianEd	Singapore
+19947071	iscriptsdotcom	Chicago, IL	2902144808	fydnow	California
+19947071	iscriptsdotcom	Chicago, IL	1558426117	rtdcommerce	Sarnia Lambton
+19947071	iscriptsdotcom	Chicago, IL	2811520826	manny_mahal1	United Kingdom
+19947071	iscriptsdotcom	Chicago, IL	366224275	St_Dragomir	
+20479403	shoshaw	Roscoe, IL	102893981	mirandashade	Good Luck!
+20479403	shoshaw	Roscoe, IL	279880055	DrBruceH	
+20479403	shoshaw	Roscoe, IL	241161753	DrDrewHLN	
+20479403	shoshaw	Roscoe, IL	148126704	TylerRuinsTV	Los Angeles, CA
+20479403	shoshaw	Roscoe, IL	206039712	AfterDisaster	theafterdisaster@gmail.com
+20479403	shoshaw	Roscoe, IL	20250828	Firstladyoflove	Pasadena/NYC
+20479403	shoshaw	Roscoe, IL	36046710	MikeCatherwood	Los Angeles
+20479403	shoshaw	Roscoe, IL	56688840	ApoloOhno	Global
+20479403	shoshaw	Roscoe, IL	72644483	BigBang_CBS	
+20479403	shoshaw	Roscoe, IL	43736146	GlennHowerton	Venice, CA
+20479403	shoshaw	Roscoe, IL	84447226	kaitlin_olson	los angeles
+20479403	shoshaw	Roscoe, IL	92233383	MakeitNARAIN	los angeles
+20479403	shoshaw	Roscoe, IL	22884738	AmberLeeSmith	Los Angeles
+20479403	shoshaw	Roscoe, IL	19565670	kendrajaderossi	Hollywood,Ca/Nashville TN
+20479403	shoshaw	Roscoe, IL	20833944	BreeOlson	West Hollywood, California
+20479403	shoshaw	Roscoe, IL	35958794	JennieKetcham	Seattle, WA.
+20479403	shoshaw	Roscoe, IL	72613088	lovelinequotes	Canada
+20479403	shoshaw	Roscoe, IL	57107167	twibbon	Edinburgh, UK
+20479403	shoshaw	Roscoe, IL	14718897	mikecarano	Los Angeles, California
+20479403	shoshaw	Roscoe, IL	15888142	oliviamunn	Los Angeles
+20479403	shoshaw	Roscoe, IL	9506392	JamieKennedy	Hollywood, CA
+20479403	shoshaw	Roscoe, IL	19637934	rainnwilson	Los Angeles-ish
+20479403	shoshaw	Roscoe, IL	28521141	grantimahara	Los Angeles, CA
+20479403	shoshaw	Roscoe, IL	15661871	donttrythis	San Francisco
+20479403	shoshaw	Roscoe, IL	32774989	NOH8Campaign	Los Angeles
+20479403	shoshaw	Roscoe, IL	34880567	AndersonCowan	Whever you go, there you are. 
+20479403	shoshaw	Roscoe, IL	21035409	michaelianblack	#firstclass 
+20479403	shoshaw	Roscoe, IL	37007198	FwithCraigslist	Los Angeles, CA
+20479403	shoshaw	Roscoe, IL	25521487	danieltosh	beach
+20479403	shoshaw	Roscoe, IL	15614819	loveline	Culver City, CA
+20479403	shoshaw	Roscoe, IL	23888081	LoniLove	Hollyweird
+20479403	shoshaw	Roscoe, IL	19658936	CDCemergency	Atlanta, GA
+20479403	shoshaw	Roscoe, IL	14353466	tbbtsite	
+20479403	shoshaw	Roscoe, IL	7846	ijustine	Los Angeles, CA
+20479403	shoshaw	Roscoe, IL	17919972	taylorswift13	
+20479403	shoshaw	Roscoe, IL	1046661	science	
+20479403	shoshaw	Roscoe, IL	13171622	pharmalot	New Jersey and New York
+20479403	shoshaw	Roscoe, IL	26250872	ChemistryWorld	Cambridge
+20479403	shoshaw	Roscoe, IL	21313855	TLC	Silver Spring, MD
+20479403	shoshaw	Roscoe, IL	21898041	disclifechannel	Silver Spring, MD
+20479403	shoshaw	Roscoe, IL	16895274	ScienceChannel	
+20479403	shoshaw	Roscoe, IL	17842366	Discovery	United States
+20479403	shoshaw	Roscoe, IL	20121783	TedStryker	Los Angeles.
+20479403	shoshaw	Roscoe, IL	14515734	drdrew	Los Angeles, CA
+20479403	shoshaw	Roscoe, IL	16319874	groovylola	Illinois/USA/Earth
+42368464	Marscuit	Chicago, IL	3232008476	YazzzTheGreat	
+42368464	Marscuit	Chicago, IL	157558832	gracegealey	
+42368464	Marscuit	Chicago, IL	197598287	YazzTheGreatest	
+42368464	Marscuit	Chicago, IL	3238032812	HardCoreJayy	
+42368464	Marscuit	Chicago, IL	2259427488	BarefootXians	
+42368464	Marscuit	Chicago, IL	2813583204	jaguarandtiger	Mexico
+42368464	Marscuit	Chicago, IL	2374176276	EmpireFOX	FOX
+42368464	Marscuit	Chicago, IL	64929124	KingBach	Los Angeles, CA
+42368464	Marscuit	Chicago, IL	586671909	vine	
+42368464	Marscuit	Chicago, IL	1464858176	adorablelacey	
+42368464	Marscuit	Chicago, IL	380051568	Adreian_Payne	
+42368464	Marscuit	Chicago, IL	15131310	WholeFoods	Austin, TX
+42368464	Marscuit	Chicago, IL	24699496	edgarblackmon	The Windy City
+42368464	Marscuit	Chicago, IL	147643755	SING_SHAD	Southern Pines, NC 
+42368464	Marscuit	Chicago, IL	34919845	IAmMrOrdinary	Atlanta, GA/ LaLa Land (LA)
+42368464	Marscuit	Chicago, IL	248862634	DeVonFranklin	Los Angeles, CA
+42368464	Marscuit	Chicago, IL	83706176	mrdrefuller	Los Angeles, California
+42368464	Marscuit	Chicago, IL	285293010	IAmChanteMoore	
+42368464	Marscuit	Chicago, IL	127146515	dawnrobinson_	
+42368464	Marscuit	Chicago, IL	131693994	myclaudette	Los Angeles
+42368464	Marscuit	Chicago, IL	108449748	Michellemuzic	On a Plane
+42368464	Marscuit	Chicago, IL	139847909	SunnyHostin	New York City
+42368464	Marscuit	Chicago, IL	16145763	tjholmes	New York, NY
+42368464	Marscuit	Chicago, IL	24165761	MichaelSkolnik	
+42368464	Marscuit	Chicago, IL	395296194	SybrinaFulton	Miami
+42368464	Marscuit	Chicago, IL	181630001	Syleena_Johnson	WORLDWIDE
+42368464	Marscuit	Chicago, IL	1102734662	DoingMeSolo	Chicago
+42368464	Marscuit	Chicago, IL	38596331	creta_v	Musicville, IL
+42368464	Marscuit	Chicago, IL	1129470481	G_woods90	NC
+42368464	Marscuit	Chicago, IL	25576135	BJDuronslet	New Orleans - Cambridge
+42368464	Marscuit	Chicago, IL	1146889609	Renita_Bonita	
+42368464	Marscuit	Chicago, IL	28165910	VW	Herndon, VA
+42368464	Marscuit	Chicago, IL	454581703	WeLeadWorship	
+42368464	Marscuit	Chicago, IL	447727093	sparrow_rob	Naples, Florida
+42368464	Marscuit	Chicago, IL	466520250	SocialSkilletUK	London, United Kingdom
+42368464	Marscuit	Chicago, IL	14578034	chefkeithsnow	Asheville, North Carolina
+42368464	Marscuit	Chicago, IL	17370716	PastorCJ	Phoenix, AZ/ Pittsburgh, PA
+42368464	Marscuit	Chicago, IL	44312998	JustMauldin	Oakland
+42368464	Marscuit	Chicago, IL	557897871	PastorDeLana	
+42368464	Marscuit	Chicago, IL	306369998	OhMrsG	And they say Chi-City
+42368464	Marscuit	Chicago, IL	150496653	yomifilms	
+42368464	Marscuit	Chicago, IL	59889953	verizon	USA
+42368464	Marscuit	Chicago, IL	364477412	CapitalOne	McLean, Virginia 
+42368464	Marscuit	Chicago, IL	16636056	MicahStampley	Somewhere in the world
+42368464	Marscuit	Chicago, IL	30309979	106andpark	New York, NY
+42368464	Marscuit	Chicago, IL	149008801	TeddyCampbell	Los Angeles
+42368464	Marscuit	Chicago, IL	71026122	McDonalds	
+42368464	Marscuit	Chicago, IL	34959923	KenyaMoore	the Stars
+42368464	Marscuit	Chicago, IL	809468280	PastorTamaraB	Sacramento, CA
+42368464	Marscuit	Chicago, IL	920245466	Aundrea_semone	
+42368464	Marscuit	Chicago, IL	28880710	hartramsey	Dothan/Montgomery, AL
+42368464	Marscuit	Chicago, IL	39649285	Md_Badboy	washington, dc
+42368464	Marscuit	Chicago, IL	526406133	BSladeNews	
+42368464	Marscuit	Chicago, IL	17565514	shondarhimes	shondaland
+42368464	Marscuit	Chicago, IL	251686253	AnikaNoniRose	NYC/LA/London
+42368464	Marscuit	Chicago, IL	53210399	Jontue	chicago, il
+42368464	Marscuit	Chicago, IL	117500071	WhosGerald	Houston, TX
+42368464	Marscuit	Chicago, IL	458702286	tymelody1	
+42368464	Marscuit	Chicago, IL	91490211	JayeIAM	SnapChat: jSembro
+42368464	Marscuit	Chicago, IL	23721478	LisaBevere	Colorado, USA
+42368464	Marscuit	Chicago, IL	19055570	Dstonepony	CHICAGO
+42368464	Marscuit	Chicago, IL	635674972	uncommon_kris	I have all the tools+God
+42368464	Marscuit	Chicago, IL	54014162	Louiswimbley	chicago, il
+42368464	Marscuit	Chicago, IL	133939422	TheNoiseBandTV	Parker, CO
+42368464	Marscuit	Chicago, IL	24111822	MartinWMedia	Atlanta, GA
+42368464	Marscuit	Chicago, IL	81160050	Freedom4unow	USA
+42368464	Marscuit	Chicago, IL	22163556	TravisRTyler	Somewhere making money$$
+42368464	Marscuit	Chicago, IL	29856819	theRealKiyosaki	Scottsdale, Arizona, USA
+42368464	Marscuit	Chicago, IL	40774939	CliftonRossIII	In Your Heart
+42368464	Marscuit	Chicago, IL	14116807	ShareThis	Palo Alto, CA
+42368464	Marscuit	Chicago, IL	574311511	IAMBENZINO	WHERE EVER YOU NEED ME...
+42368464	Marscuit	Chicago, IL	65153448	TysonLGay	Clermont, Florida
+42368464	Marscuit	Chicago, IL	637190034	yo_its_Court	LA. ATL. NYC. 
+42368464	Marscuit	Chicago, IL	47479204	catlynOmalley	3rd Planet from the Sun
+42368464	Marscuit	Chicago, IL	16167995	timscole	United Kingdom
+42368464	Marscuit	Chicago, IL	24967668	lala	Insta: @lala Snapchat: lala
+42368464	Marscuit	Chicago, IL	246396868	ddoddy76	Detroit
+42368464	Marscuit	Chicago, IL	620688874	snoopalan	
+42368464	Marscuit	Chicago, IL	22648354	darrylstephens	Hollywood, CA
+42368464	Marscuit	Chicago, IL	180505807	instagram	
+42368464	Marscuit	Chicago, IL	128660985	ReddtheModel	Denton, Dallas/Ft. Worth
+42368464	Marscuit	Chicago, IL	45053685	jensenatwood	Cali
+42368464	Marscuit	Chicago, IL	16250400	jesusculture	Sacramento, CA
+42368464	Marscuit	Chicago, IL	23613479	KrisJenner	CLOUD NINE
+42368464	Marscuit	Chicago, IL	81402858	realtamiaworld	Here N There
+42368464	Marscuit	Chicago, IL	30503160	derekhough	
+42368464	Marscuit	Chicago, IL	214572098	ChrystalRucker	Kansas City, MO 
+42368464	Marscuit	Chicago, IL	359281217	Alexis_Fields	
+42368464	Marscuit	Chicago, IL	27379684	RealTalkKim	
+42368464	Marscuit	Chicago, IL	24235731	IAMTSHELLZ	
+42368464	Marscuit	Chicago, IL	314637431	TeamNevelsSis	
+42368464	Marscuit	Chicago, IL	126736417	itsmeaprild	Ohio
+42368464	Marscuit	Chicago, IL	575535181	BishopOCAllen	
+42368464	Marscuit	Chicago, IL	57345266	justindjuane	
+48922106	Roger_Skate_Die	Chicago, IL	586671909	vine	
+48922106	Roger_Skate_Die	Chicago, IL	180505807	instagram	
+48922106	Roger_Skate_Die	Chicago, IL	34005961	zumiez	Lynnwood, WA
+48922106	Roger_Skate_Die	Chicago, IL	135670069	clarissa_gomez	Dallas Los Angeles New York
+48922106	Roger_Skate_Die	Chicago, IL	76131312	Carly7i3c	
+48922106	Roger_Skate_Die	Chicago, IL	63789749	sleepyxpixel	In a galaxy far, far away...
+48922106	Roger_Skate_Die	Chicago, IL	10373322	SuggestionBox	San Diego
+48922106	Roger_Skate_Die	Chicago, IL	47780459	plug_your_holes	Kansas City, MO
+48922106	Roger_Skate_Die	Chicago, IL	58257974	anighttodiefor	
+48922106	Roger_Skate_Die	Chicago, IL	92334881	cannahealthllc	Colorado
+48922106	Roger_Skate_Die	Chicago, IL	27401386	DGK	
+48922106	Roger_Skate_Die	Chicago, IL	64887076	lifelessanxious	Chicago
+48922106	Roger_Skate_Die	Chicago, IL	121863202	garbage_tornado	Detroit, MI
+48922106	Roger_Skate_Die	Chicago, IL	49738540	simone_rawr	wellyyy:]
+48922106	Roger_Skate_Die	Chicago, IL	73242424	windupfilmsprod	Bangkok, Dallas
+48922106	Roger_Skate_Die	Chicago, IL	76173979	Pot_Potato	
+48922106	Roger_Skate_Die	Chicago, IL	76190351	ALLFACESDOWN	Europe/Austria/Vienna
+48922106	Roger_Skate_Die	Chicago, IL	83528132	NIZG	AURORA,IL.60506
+48922106	Roger_Skate_Die	Chicago, IL	22129275	MaverickSkate	Poole, UK
+48922106	Roger_Skate_Die	Chicago, IL	25564026	thiagopagung	Rio de Janeiro
+48922106	Roger_Skate_Die	Chicago, IL	66117404	thezonefansite	www.thezoneforum.com
+48922106	Roger_Skate_Die	Chicago, IL	59321997	RazorwireTHRASH	Toronto, Canada
+48922106	Roger_Skate_Die	Chicago, IL	76156515	BWBBrock	Fairfax, VA
+48922106	Roger_Skate_Die	Chicago, IL	77130384	sirpuff420	Washington D.C.
+48922106	Roger_Skate_Die	Chicago, IL	81823360	SICKROOMTORTOSA	Tortosa (Catalonia)
+48922106	Roger_Skate_Die	Chicago, IL	75948228	FirstPhotos	Canada
+48922106	Roger_Skate_Die	Chicago, IL	49066808	slugopoet	vancouver, washington
+48922106	Roger_Skate_Die	Chicago, IL	68657132	GAGBOSTON	Boston Mass
+48922106	Roger_Skate_Die	Chicago, IL	85394268	PreacherBoyENT	EVERYWHERE
+48922106	Roger_Skate_Die	Chicago, IL	83627896	GiftofImpact	
+48922106	Roger_Skate_Die	Chicago, IL	89577802	Wil394	
+48922106	Roger_Skate_Die	Chicago, IL	89811805	Rla36	
+48922106	Roger_Skate_Die	Chicago, IL	90707320	gelim2356	
+48922106	Roger_Skate_Die	Chicago, IL	87058462	lastchanceroad	california
+48922106	Roger_Skate_Die	Chicago, IL	89670538	getwhiterteeth	California
+48922106	Roger_Skate_Die	Chicago, IL	20708908	RiddimDriven	New York.Japan.Jamaica
+48922106	Roger_Skate_Die	Chicago, IL	38557163	WoodyWoodAtMid	Chicago
+48922106	Roger_Skate_Die	Chicago, IL	68748297	JinsaiDirect	
+48922106	Roger_Skate_Die	Chicago, IL	93891869	AlcoheimersChic	
+48922106	Roger_Skate_Die	Chicago, IL	93730447	xxxerotics	
+48922106	Roger_Skate_Die	Chicago, IL	97323419	redcaststt	
+48922106	Roger_Skate_Die	Chicago, IL	5405152	dawallach	Los Angeles, CA
+48922106	Roger_Skate_Die	Chicago, IL	37786346	81db	Italy
+48922106	Roger_Skate_Die	Chicago, IL	21866325	LastExodusBeatz	WORLD
+48922106	Roger_Skate_Die	Chicago, IL	95485372	BadlandzChicago	Crete, IL
+48922106	Roger_Skate_Die	Chicago, IL	18517002	bloodandink	Richmond, VA
+48922106	Roger_Skate_Die	Chicago, IL	105702551	Chelle12pt	
+48922106	Roger_Skate_Die	Chicago, IL	73363972	SteelersBets	usa
+48922106	Roger_Skate_Die	Chicago, IL	93108563	BrandXFilms	SO CAL
+48922106	Roger_Skate_Die	Chicago, IL	97322276	cannabist	Denver, Colorado
+48922106	Roger_Skate_Die	Chicago, IL	106931604	EstandleyJR	Atlanta,GA
+48922106	Roger_Skate_Die	Chicago, IL	45684907	BIBOFFICIAL	
+48922106	Roger_Skate_Die	Chicago, IL	18768302	christoferdrew	there and back
+48922106	Roger_Skate_Die	Chicago, IL	92169216	TheAwaken1ng	Long Island, Ny
+48922106	Roger_Skate_Die	Chicago, IL	87591331	AMFAMband	Chicago, IL
+48922106	Roger_Skate_Die	Chicago, IL	7781002	Stickam	Los Angeles, CA
+48922106	Roger_Skate_Die	Chicago, IL	77428792	PlayChief	
+48922106	Roger_Skate_Die	Chicago, IL	36097156	cameronmoretti	Boston, MA
+48922106	Roger_Skate_Die	Chicago, IL	84495161	MikeJMorris	Philthy/LNC, PA
+48922106	Roger_Skate_Die	Chicago, IL	83649510	luciagaspary	
+48922106	Roger_Skate_Die	Chicago, IL	83042289	PlanetCreez	
+48922106	Roger_Skate_Die	Chicago, IL	18232989	LiftTicketDeals	Montana
+48922106	Roger_Skate_Die	Chicago, IL	84635057	buywake	Kennesaw, GA
+48922106	Roger_Skate_Die	Chicago, IL	60080441	GoSkateshop	Deltona, Fl
+48922106	Roger_Skate_Die	Chicago, IL	17636405	DesignerDepot	Vancouver, Canada
+48922106	Roger_Skate_Die	Chicago, IL	26557138	bielgvr	BRA
+48922106	Roger_Skate_Die	Chicago, IL	44244735	raquel_beaaa	
+48922106	Roger_Skate_Die	Chicago, IL	32132345	HawthorneHgts	 Dayton, Ohio 
+48922106	Roger_Skate_Die	Chicago, IL	23978885	LG_Forum	Utah
+48922106	Roger_Skate_Die	Chicago, IL	14953110	LGBlog	Ratingen
+818790	ChrisThilk	Chicago, IL	3214589020	TamaraWudinich	Saint Paul, MN 
+818790	ChrisThilk	Chicago, IL	1377400458	joshualande	Palo Alto, CA
+818790	ChrisThilk	Chicago, IL	9727332	jeffreylcohen	Chapel Hill, NC
+818790	ChrisThilk	Chicago, IL	46440718	squarecog	San Francisco
+818790	ChrisThilk	Chicago, IL	14895014	hollywoodspin	NY/LA
+818790	ChrisThilk	Chicago, IL	15494151	aaronproctor	Echo Park, Los Angeles, CA
+818790	ChrisThilk	Chicago, IL	463198793	heyalexei	Los Angeles, CA
+818790	ChrisThilk	Chicago, IL	16598135	fwdlabs	Echo Park, Los Angeles, CA
+818790	ChrisThilk	Chicago, IL	14713133	DavidBThomas	San Francisco, CA
+818790	ChrisThilk	Chicago, IL	15034740	jdblack	
+818790	ChrisThilk	Chicago, IL	18915579	ChicagoBreaking	Chicago
+818790	ChrisThilk	Chicago, IL	73448241	BenBlacker	Los Angeles, CA
+818790	ChrisThilk	Chicago, IL	231125124	FinnJ	Nakatomi Plaza / Los Angeles
+818790	ChrisThilk	Chicago, IL	48771029	sHecKii	New York, NY
+818790	ChrisThilk	Chicago, IL	18781309	MBarone	Jersey 
+818790	ChrisThilk	Chicago, IL	23660615	monarchsjoy	
+818790	ChrisThilk	Chicago, IL	29531978	KarenitaV	New York, NY & Hoboken, NJ
+818790	ChrisThilk	Chicago, IL	2671	myoung	Brooklyn
+818790	ChrisThilk	Chicago, IL	62378015	EditorEdge	Hartford, CT. 
+818790	ChrisThilk	Chicago, IL	120150054	alexis_mosier	Austin, Texas
+818790	ChrisThilk	Chicago, IL	101789035	charleskha	Bay Area, California
+818790	ChrisThilk	Chicago, IL	46095667	NevenSimpson	ATX
+818790	ChrisThilk	Chicago, IL	151517677	racheljamail	
+818790	ChrisThilk	Chicago, IL	61930273	DenelK	Philadelphia
+818790	ChrisThilk	Chicago, IL	14060637	CliffKinard	Austin, TX
+818790	ChrisThilk	Chicago, IL	291862618	SportsJoey	Colorado Springs, CO
+818790	ChrisThilk	Chicago, IL	42042248	mere_owen	Austin, TX
+818790	ChrisThilk	Chicago, IL	7622902	Scottland	ATX
+818790	ChrisThilk	Chicago, IL	98254103	MorganDewan	Denver, CO
+818790	ChrisThilk	Chicago, IL	308891684	newmanikki	Austin, Tx
+818790	ChrisThilk	Chicago, IL	48040940	MarthaKrueges	Minneapolis
+818790	ChrisThilk	Chicago, IL	16711499	duongonline	Chicago, IL
+818790	ChrisThilk	Chicago, IL	14634197	BethRosen	Chicago
+818790	ChrisThilk	Chicago, IL	12733352	mjtam	Chicago
+818790	ChrisThilk	Chicago, IL	18416457	ajself	Chicago
+818790	ChrisThilk	Chicago, IL	46963350	jRoseBeezy	Chicago, IL
+818790	ChrisThilk	Chicago, IL	14883861	joshrickel	Austin, Texas
+818790	ChrisThilk	Chicago, IL	44137990	ejpritch	Minneapolis
+818790	ChrisThilk	Chicago, IL	67015546	adeceve	Philadelphia
+818790	ChrisThilk	Chicago, IL	2808703486	ZackAmbold	Addison, TX
+818790	ChrisThilk	Chicago, IL	1004074021	SocialCarolina	Orlando, Florida
+818790	ChrisThilk	Chicago, IL	1319118944	b_danielle336	Charleston, sc
+818790	ChrisThilk	Chicago, IL	989740092	JohnDankovchik	Addison TX
+818790	ChrisThilk	Chicago, IL	169233426	joeknowsjoe	ATX
+818790	ChrisThilk	Chicago, IL	28001022	anaiscayo	Washington, DC
+818790	ChrisThilk	Chicago, IL	863571	kdando	Northern Virginia
+818790	ChrisThilk	Chicago, IL	807696253	JenniferIBlanco	Austin, Texas
+818790	ChrisThilk	Chicago, IL	251185186	EffenTX	Houston, TX
+818790	ChrisThilk	Chicago, IL	124342334	CMGuerrini	Philadelphia, PA
+818790	ChrisThilk	Chicago, IL	262876341	emilymokotoff	Austin, TX 
+818790	ChrisThilk	Chicago, IL	14594204	snackmantis	Austin, Texas
+818790	ChrisThilk	Chicago, IL	94951944	WeWillBonzai	MoCo, MD
+818790	ChrisThilk	Chicago, IL	19165681	heysea	Chicago
+818790	ChrisThilk	Chicago, IL	2136011	otis	Seattle, WA
+818790	ChrisThilk	Chicago, IL	14956698	its_aurora	Austin, TX
+818790	ChrisThilk	Chicago, IL	156130969	AmandaTalisman	Austin, TX
+818790	ChrisThilk	Chicago, IL	20009360	alexquigley	Crystal Lake, IL
+818790	ChrisThilk	Chicago, IL	1020383864	giphy	New York, NY
+818790	ChrisThilk	Chicago, IL	832305139	OliverCMeek	Austin, TX
+818790	ChrisThilk	Chicago, IL	14956897	NatanyaP	Austin, Texas
+818790	ChrisThilk	Chicago, IL	4535191	brookehovey	Austin, TX
+818790	ChrisThilk	Chicago, IL	17973247	ASamanthaRae	Atlanta girl now in Austin, TX
+818790	ChrisThilk	Chicago, IL	17179477	NikoCoromelas	California
+818790	ChrisThilk	Chicago, IL	19841021	CatChanSmith	Los Angeles
+818790	ChrisThilk	Chicago, IL	22100905	JWJacobs	Austin, TX
+818790	ChrisThilk	Chicago, IL	3353181	chriskerns	Austin
+818790	ChrisThilk	Chicago, IL	7151812	dflyonthefly	New York City
+818790	ChrisThilk	Chicago, IL	252200737	sfossum1	Boulder
+818790	ChrisThilk	Chicago, IL	51344541	ambzm	Somewhere in the midwest.
+818790	ChrisThilk	Chicago, IL	260943104	d_jackie10	Denver, CO
+818790	ChrisThilk	Chicago, IL	168651846	FantasticMrsCox	Cheshire & London
+818790	ChrisThilk	Chicago, IL	432043175	theshortskirt	Atlanta, Ga
+818790	ChrisThilk	Chicago, IL	15921036	smaxson	Elgin, IL
+818790	ChrisThilk	Chicago, IL	11148602	sonnygill	Chicago
+818790	ChrisThilk	Chicago, IL	15215448	dhomann	Omaha, NE
+818790	ChrisThilk	Chicago, IL	389474715	gomattlind	Austin, TX
+818790	ChrisThilk	Chicago, IL	14095519	cariegrls	Frederick, Maryland
+818790	ChrisThilk	Chicago, IL	15716046	jannazagari	New York, NY
+818790	ChrisThilk	Chicago, IL	1566592698	MeganDahle	San Antonio, Texas
+818790	ChrisThilk	Chicago, IL	216784491	marimariliali	New York, NY
+818790	ChrisThilk	Chicago, IL	383907831	FrancesLive	Los Angeles, CA
+818790	ChrisThilk	Chicago, IL	19575972	ElishaV	Dallas, TX
+818790	ChrisThilk	Chicago, IL	190779831	MRrob21	Texas, USA
+818790	ChrisThilk	Chicago, IL	15904630	MeghanLenore	Austin, TX
+818790	ChrisThilk	Chicago, IL	12805812	VirginiaMiracle	Austin, TX
+818790	ChrisThilk	Chicago, IL	531566527	CPlewacki	Minnesota
+818790	ChrisThilk	Chicago, IL	15520927	Bepkoboy	Austin
+818790	ChrisThilk	Chicago, IL	127156442	mcmehta	Austin, TX
+818790	ChrisThilk	Chicago, IL	25828731	jennsuchon	Austin, TX
+818790	ChrisThilk	Chicago, IL	17150022	kbeninato	New Orleans
+818790	ChrisThilk	Chicago, IL	1648447812	Rach_ATX	Austin, TX
+818790	ChrisThilk	Chicago, IL	139126954	cmtrapolino	Austin, TX
+818790	ChrisThilk	Chicago, IL	177718725	WesMtthws	Saint Louis, MO
+818790	ChrisThilk	Chicago, IL	390140776	BeckyGesswein	Minneapolis, MN
+818790	ChrisThilk	Chicago, IL	18680904	matthewwcox	Orange County, Ca
+818790	ChrisThilk	Chicago, IL	22432819	daveheal	Denver, CO
+818790	ChrisThilk	Chicago, IL	7043402	andymeadows	Austin, TX
+818790	ChrisThilk	Chicago, IL	1900871898	ecwalthall	Austin, TX
+818790	ChrisThilk	Chicago, IL	19612345	ShannonDan	Chicago, IL
+818790	ChrisThilk	Chicago, IL	15553499	joymfreeman	Austin, Texas
+818790	ChrisThilk	Chicago, IL	34083893	nmglueckert	
+818790	ChrisThilk	Chicago, IL	1858383722	jbuhl35	Washington, DC
+818790	ChrisThilk	Chicago, IL	16317325	maddywold	Denver, CO
+818790	ChrisThilk	Chicago, IL	24701024	sparkzilla	Sarasota, Florida
+818790	ChrisThilk	Chicago, IL	243163191	rodfav	Austin, Tx
+818790	ChrisThilk	Chicago, IL	15984252	budurl	Austin, TX
+818790	ChrisThilk	Chicago, IL	40956205	sarahweiriooss	NYC
+818790	ChrisThilk	Chicago, IL	35238763	imfeelingsocial	South Florida
+818790	ChrisThilk	Chicago, IL	32462168	jackcpatterson	Denver, CO
+818790	ChrisThilk	Chicago, IL	378403110	kellyjstocker	Austin, TX
+818790	ChrisThilk	Chicago, IL	194249022	jslieberthal	Chicago, IL
+818790	ChrisThilk	Chicago, IL	60094114	heytrace	Austin, TX
+818790	ChrisThilk	Chicago, IL	15248257	diannaoneill	Atlanta
+818790	ChrisThilk	Chicago, IL	8997	CoreyPud	Austin, TX
+818790	ChrisThilk	Chicago, IL	88604397	jenzchang	NYC
+818790	ChrisThilk	Chicago, IL	919900622	katsy_b	
+818790	ChrisThilk	Chicago, IL	3167345284	Kai_USHMM	Washington, D.C
+818790	ChrisThilk	Chicago, IL	25180599	hiyahall	austin, tx
+818790	ChrisThilk	Chicago, IL	128671423	melissai_	here
+818790	ChrisThilk	Chicago, IL	164671559	mikethreadgould	Austin, TX
+818790	ChrisThilk	Chicago, IL	176563990	Kate_Coughlin	Washington, D.C.
+818790	ChrisThilk	Chicago, IL	78183820	DianaElbasha	The District
+818790	ChrisThilk	Chicago, IL	20220822	amwaldrup	Austin, Texas
+818790	ChrisThilk	Chicago, IL	16087234	MairHeard	Austin, TX
+818790	ChrisThilk	Chicago, IL	87323041	haileybranham	Austin, TX
+818790	ChrisThilk	Chicago, IL	191147940	admorin	Dallas, Texas
+818790	ChrisThilk	Chicago, IL	15616616	CacheoftheDay	Austin, TX
+818790	ChrisThilk	Chicago, IL	32137857	scottleightman	Colorado Springs via Phoenix
+818790	ChrisThilk	Chicago, IL	15457239	aspenlewis	Austin, TX
+818790	ChrisThilk	Chicago, IL	210574077	MariaFraschilla	
+818790	ChrisThilk	Chicago, IL	240295335	MissADS1981	New Jersey
+818790	ChrisThilk	Chicago, IL	130251459	MsSamPierce	TN & Charlotte
+818790	ChrisThilk	Chicago, IL	152062823	Digi_Darwin	California, USA
+818790	ChrisThilk	Chicago, IL	2837304415	KelleyADaigle	El Dorado Hills
+15236944	CaylenBufalino	Chicago, IL	3020904003	Nursingcursing	la nyc hawaii 
+15236944	CaylenBufalino	Chicago, IL	178088940	TheColinJost	New York
+15236944	CaylenBufalino	Chicago, IL	567401289	SchwarzABC7	Chicago
+15236944	CaylenBufalino	Chicago, IL	32693	jtorrey	San Jose, CA
+15236944	CaylenBufalino	Chicago, IL	18950931	JujuChangABC	NYC based
+15236944	CaylenBufalino	Chicago, IL	246779440	CircleBackInc	Vienna, VA
+15236944	CaylenBufalino	Chicago, IL	83158659	observacious	Chicago
+15236944	CaylenBufalino	Chicago, IL	16139193	saykay	Dallas, TX
+15236944	CaylenBufalino	Chicago, IL	109451503	KevinLCarrillo	Dallas, TX
+15236944	CaylenBufalino	Chicago, IL	32422502	Benetalumni	Lisle, IL
+15236944	CaylenBufalino	Chicago, IL	25589776	people	
+15236944	CaylenBufalino	Chicago, IL	70974689	DairyMax	Grand Prairie, TX
+26247369	proletariatof1	Chicago, IL	3438154581	NateLong88	
+26247369	proletariatof1	Chicago, IL	2603830003	FoodieFather	Atlanta, Georgia
+26247369	proletariatof1	Chicago, IL	340986018	Katielong2011	
+26247369	proletariatof1	Chicago, IL	2742573713	cvuko77	
+26247369	proletariatof1	Chicago, IL	192993192	iShares	San Francisco
+26247369	proletariatof1	Chicago, IL	1962889896	FloridaTrip2015	
+26247369	proletariatof1	Chicago, IL	70959296	umihoney	Malaysia
+26247369	proletariatof1	Chicago, IL	18343779	nikhil_parekh	Sydney, Australia
+26247369	proletariatof1	Chicago, IL	9473532	TMZmoviefans	the internet
+26247369	proletariatof1	Chicago, IL	14703852	wickedreports	Marblehead, MA
+26247369	proletariatof1	Chicago, IL	14948299	stevenroddy	Philadelphia, PA
+26247369	proletariatof1	Chicago, IL	11041822	YouRockRadio	United States 
+26247369	proletariatof1	Chicago, IL	73776331	BREWANDVIEW	3145 N Sheffield Ave, Chicago
+26247369	proletariatof1	Chicago, IL	37955089	TheFifty50	Chicago
+26247369	proletariatof1	Chicago, IL	29606295	Lockdownbar	Western and Cortez
+26247369	proletariatof1	Chicago, IL	16623564	FocusGroups	United States
+26247369	proletariatof1	Chicago, IL	18944397	StephAndTheGoat	chicago
+26247369	proletariatof1	Chicago, IL	15285237	doubledoor	Chicago, IL
+26247369	proletariatof1	Chicago, IL	21331738	YogiJessie	
+26247369	proletariatof1	Chicago, IL	28486596	KendaPerez	Newport Beach 
+26247369	proletariatof1	Chicago, IL	83862703	EddieWineland	Indiana
+26247369	proletariatof1	Chicago, IL	112512232	JoeJitsu	Sacramento CA / Las Cruces NM
+26247369	proletariatof1	Chicago, IL	63366479	DaMarques_UFC	
+26247369	proletariatof1	Chicago, IL	61548468	AjarnPhilNurse	New York, NY
+26247369	proletariatof1	Chicago, IL	13396	jeremybotter	Las Vegas
+26247369	proletariatof1	Chicago, IL	23605195	43KIXChicago	Chicago, IL
+26247369	proletariatof1	Chicago, IL	17291996	CynthiaGoranson	Albuquerque, New Mexico
+26247369	proletariatof1	Chicago, IL	65615716	igorpusenjak	
+26247369	proletariatof1	Chicago, IL	90057442	TheDomin8r	san diego ca.
+26247369	proletariatof1	Chicago, IL	90809127	Showtimepettis	
+26247369	proletariatof1	Chicago, IL	15123229	javiershowtime	Rancho Cucamonga, California
+26247369	proletariatof1	Chicago, IL	36822115	MFG16	
+26247369	proletariatof1	Chicago, IL	64823446	thefoodbuddha	food heaven
+32538862	stacifoss	Palatine, IL	538147752	DrMartaWilson	Washington, DC
+32538862	stacifoss	Palatine, IL	2959497429	VotesNotForSale	Cleveland, Ohio
+32538862	stacifoss	Palatine, IL	160941691	grantgust	Vancouver. Los Angeles. VA.
+32538862	stacifoss	Palatine, IL	1244325504	CW_Arrow	Starling City
+32538862	stacifoss	Palatine, IL	39954828	mickarcher	Glenview, IL
+32538862	stacifoss	Palatine, IL	22083910	CW_network	Burbank, CA
+32538862	stacifoss	Palatine, IL	1020856309	OakeyPhil	
+32538862	stacifoss	Palatine, IL	5440002	7Search	Chicago, IL
+32538862	stacifoss	Palatine, IL	196168350	AnnCoulter	Los Angeles/NYC
+32538862	stacifoss	Palatine, IL	181647126	PureWow	NAT, NY, LA, CHI, DAL, SF
+32538862	stacifoss	Palatine, IL	575788855	666ParkAve_ABC	SUNDAYS 10|9c on ABC
+32538862	stacifoss	Palatine, IL	8310782	SimplyHired	Sunnyvale, CA, USA
+32538862	stacifoss	Palatine, IL	340364507	ChiMarathon	Chicago, IL 
+32538862	stacifoss	Palatine, IL	22061592	CharityMiles	
+32538862	stacifoss	Palatine, IL	571202103	Medium	San Francisco, CA, US
+32538862	stacifoss	Palatine, IL	132797342	Amazinggimages	
+32538862	stacifoss	Palatine, IL	518948434	DealsMagChiNW	Chicago
+32538862	stacifoss	Palatine, IL	38115896	lcteaparty	
+32538862	stacifoss	Palatine, IL	415398254	DiscoverRetail	UK
+32538862	stacifoss	Palatine, IL	338595055	RecoNNext	Almere
+32538862	stacifoss	Palatine, IL	200387655	pennyturko	
+32538862	stacifoss	Palatine, IL	14420689	EatingWell	Vermont
+32538862	stacifoss	Palatine, IL	14075212	ImermanAngels	Chicago, IL
+32538862	stacifoss	Palatine, IL	211624388	CrawfordMichael	
+32538862	stacifoss	Palatine, IL	287858728	OnceABC	
+32538862	stacifoss	Palatine, IL	339775433	MartyIdziak	Chicago, IL
+32538862	stacifoss	Palatine, IL	131943554	juliesholl	Chicago
+32538862	stacifoss	Palatine, IL	175423530	lawrencehallorg	Chicago, IL  60625
+32538862	stacifoss	Palatine, IL	270567505	DealsMag	Chicago
+32538862	stacifoss	Palatine, IL	239257660	PlatingIndustry	Palatine IL
+32538862	stacifoss	Palatine, IL	26604302	michaelstuertz	Chicago, IL
+32538862	stacifoss	Palatine, IL	27738810	CathExtension	United States
+32538862	stacifoss	Palatine, IL	15493365	chicagobotanic	Glencoe, Illinois
+32538862	stacifoss	Palatine, IL	253875008	ittybittytwit	
+32538862	stacifoss	Palatine, IL	220653811	patients4parent	
+32538862	stacifoss	Palatine, IL	118913347	ParentBlogs	
+32538862	stacifoss	Palatine, IL	220448387	ArtReachSpotlit	Palatine, Illinois
+32538862	stacifoss	Palatine, IL	23375688	selenagomez	Los Angeles 
+32538862	stacifoss	Palatine, IL	43254421	astrologyzone	NEW YORK CITY 
+32538862	stacifoss	Palatine, IL	14290180	JohnChow	Orange County
+32538862	stacifoss	Palatine, IL	120774655	SlotsGalaxy	On Slots Galaxy
+32538862	stacifoss	Palatine, IL	20649770	denaihati	Malaysia
+32538862	stacifoss	Palatine, IL	14346479	jonathanvolk	San Francisco, California
+32538862	stacifoss	Palatine, IL	29184486	ryoni84	Rotterdam, The Netherlands
+32538862	stacifoss	Palatine, IL	36504116	ericcarternow	Reno/Tahoe
+32538862	stacifoss	Palatine, IL	111212021	happywivesclub	
+16811264	crossbones_inc	Chicago, IL	16252837	experimetal	
+16811264	crossbones_inc	Chicago, IL	243904191	GB_Handmade	Glitterville
+16811264	crossbones_inc	Chicago, IL	89519458	JulisJewels	roseville, ca
+16811264	crossbones_inc	Chicago, IL	191133220	veggiebuzz	
+16811264	crossbones_inc	Chicago, IL	90748401	motherloveherb	LaPorte, CO
+16811264	crossbones_inc	Chicago, IL	26163561	BGOBoomer	Chicago
+16811264	crossbones_inc	Chicago, IL	66525068	HudoftheDead	Portsmouth
+16811264	crossbones_inc	Chicago, IL	18524843	RockMaidenBritt	Knoxville, TN
+16811264	crossbones_inc	Chicago, IL	29562978	GoGoNatural	Chandler, AZ 
+16811264	crossbones_inc	Chicago, IL	166402936	BouncingWoolies	Broken Arrow, OK
+16811264	crossbones_inc	Chicago, IL	20590970	SproutChannel	
+16811264	crossbones_inc	Chicago, IL	167970248	FunkyBabyMama	CooCooVille
+16811264	crossbones_inc	Chicago, IL	19524050	hartluck	Las Vegas
+16811264	crossbones_inc	Chicago, IL	124803455	Erwin_AP	
+16811264	crossbones_inc	Chicago, IL	18130749	AdrianneCurry	Los Angeles
+16811264	crossbones_inc	Chicago, IL	36039193	zoocatty	South Africa
+16811264	crossbones_inc	Chicago, IL	20561081	DHinsider	Suburban Chicago
+16811264	crossbones_inc	Chicago, IL	147752622	SassySweetChic	Texas
+16811264	crossbones_inc	Chicago, IL	19242896	bradfair	Tulsa, OK
+16811264	crossbones_inc	Chicago, IL	55748107	NiecyNash	Los Angeles
+16811264	crossbones_inc	Chicago, IL	16885839	petrilude	Earth
+16811264	crossbones_inc	Chicago, IL	15539347	DesignByHumans	Chico, CA
+16811264	crossbones_inc	Chicago, IL	11332	Crissy	Ohio
+16811264	crossbones_inc	Chicago, IL	81505840	TheBabyGuyNYC	NYC/A Suitcase Near You 
+16811264	crossbones_inc	Chicago, IL	43234277	sarahinajar	san diego
+16811264	crossbones_inc	Chicago, IL	17573170	newmusicmom	Ontario - Canada
+16811264	crossbones_inc	Chicago, IL	155460239	LadyRockLaura	between Oz and Wonderland
+16811264	crossbones_inc	Chicago, IL	15296102	MisterBibs	
+16811264	crossbones_inc	Chicago, IL	14337714	Jonesiphone5s	
+16811264	crossbones_inc	Chicago, IL	23619315	2ylight	Phoenix, AZ
+16811264	crossbones_inc	Chicago, IL	91430655	mommylandrants	USA
+16811264	crossbones_inc	Chicago, IL	17132964	kaboogie	Connecticut
+16811264	crossbones_inc	Chicago, IL	94339465	Running_ecomom	NE Ohio
+16811264	crossbones_inc	Chicago, IL	133778645	ChaosBlogs	USA
+16811264	crossbones_inc	Chicago, IL	17093617	hootsuite	Vancouver, Canada
+16811264	crossbones_inc	Chicago, IL	15247902	SeventhGen	Burlington, VT
+16811264	crossbones_inc	Chicago, IL	64912828	SamyeStarfish	
+16811264	crossbones_inc	Chicago, IL	38479608	ThisAnchorHeart	The Golden State
+16811264	crossbones_inc	Chicago, IL	115177044	EcoChicParties	Palm Harbor, FL
+16811264	crossbones_inc	Chicago, IL	66450625	inadvertentfarm	Washington State
+16811264	crossbones_inc	Chicago, IL	23315637	embeeknits	good old new england
+16811264	crossbones_inc	Chicago, IL	57239382	sneakachu	Ottawa/Gatineau 
+16811264	crossbones_inc	Chicago, IL	99562698	Fittoswan	Usually in a fun place
+16811264	crossbones_inc	Chicago, IL	14079947	xiane_3ravens	Baltimore, MD
+16811264	crossbones_inc	Chicago, IL	33085636	mamabmy	Orlando, FL
+16811264	crossbones_inc	Chicago, IL	26617262	tarajanekoch	Fort Dodge, Iowa
+16811264	crossbones_inc	Chicago, IL	14948574	bakeanddestroy	Chicago, IL 
+16811264	crossbones_inc	Chicago, IL	17817178	oncupcakemoon	North Carolina
+16811264	crossbones_inc	Chicago, IL	20252670	sinistersmile	South Carolina
+16811264	crossbones_inc	Chicago, IL	68251809	theJAKAmommy	Portland, Oregon
+16811264	crossbones_inc	Chicago, IL	14895848	AmandaLGaribay	So OR/Used 2 B NCali
+16811264	crossbones_inc	Chicago, IL	6841332	GirlsGoneChild	Los Angeles
+16811264	crossbones_inc	Chicago, IL	114898296	Yankee_Wife	
+16811264	crossbones_inc	Chicago, IL	61695251	Yukomiz	Los Angeles, CA
+16811264	crossbones_inc	Chicago, IL	13239822	Eyeslam	Oakland
+16811264	crossbones_inc	Chicago, IL	43963305	smushypotato	PA
+16811264	crossbones_inc	Chicago, IL	17868376	JenniSpin	Illinois, Chicago
+16811264	crossbones_inc	Chicago, IL	14099445	RightAsRain	Bellingham, WA
+16811264	crossbones_inc	Chicago, IL	14441659	NYTRClothing	Brooklyn, NY 
+16811264	crossbones_inc	Chicago, IL	6117982	sagepixie	Orange County
+16811264	crossbones_inc	Chicago, IL	32458220	purefuncandies	Toronto, Canada
+16811264	crossbones_inc	Chicago, IL	28666834	jaybugsmommy	
+16811264	crossbones_inc	Chicago, IL	43477349	mbvisor	Charlotte, North Carolina
+16811264	crossbones_inc	Chicago, IL	17498138	Overstock	Salt Lake City
+16811264	crossbones_inc	Chicago, IL	90781705	Raffinie	Down South.
+16811264	crossbones_inc	Chicago, IL	76986911	SKULLebrities	Providence
+16811264	crossbones_inc	Chicago, IL	19433874	AlmostTruth	Portland, OR
+16811264	crossbones_inc	Chicago, IL	23655155	teammandy	PNW
+16811264	crossbones_inc	Chicago, IL	48478059	WoodchuckCider	Middlebury, Vermont
+16811264	crossbones_inc	Chicago, IL	15586818	AkumuInk	Southern California
+16811264	crossbones_inc	Chicago, IL	14130628	disqus	The Internet
+16811264	crossbones_inc	Chicago, IL	23612294	feministbreeder	Chicagoland
+16811264	crossbones_inc	Chicago, IL	93729425	LaurenMerkin	new york, new york
+16811264	crossbones_inc	Chicago, IL	22807618	Strapworks	Eugene OR
+16811264	crossbones_inc	Chicago, IL	7057922	ElizabethPW	SiliconValley & the wilderness
+16811264	crossbones_inc	Chicago, IL	22530678	lexy21583	Missouri
+16811264	crossbones_inc	Chicago, IL	48248067	hiplittleone	Adelaide, SA, Australia
+16811264	crossbones_inc	Chicago, IL	17873992	milahermanovski	los angeles
+16811264	crossbones_inc	Chicago, IL	37515248	amyz326	SUPAHSTAR
+16811264	crossbones_inc	Chicago, IL	43072503	CurtisStone	USA
+16811264	crossbones_inc	Chicago, IL	46715620	MyTrainerBob	California
+16811264	crossbones_inc	Chicago, IL	18327007	babyrabies	Dallas, TX
+16811264	crossbones_inc	Chicago, IL	39544445	missrubysharp	SoCal
+16811264	crossbones_inc	Chicago, IL	7867072	peta2	Los Angeles, CA
+16811264	crossbones_inc	Chicago, IL	29653300	mellisarock	OK
+16811264	crossbones_inc	Chicago, IL	23323505	nuckingfutsmama	the nuthouse -- where else?
+16811264	crossbones_inc	Chicago, IL	75094120	joelfrieders	yorkville, il 
+16811264	crossbones_inc	Chicago, IL	60475800	Amberppm	Knee deep.
+16811264	crossbones_inc	Chicago, IL	12014132	KristieMcNealy	Salt Lake City, UT
+16811264	crossbones_inc	Chicago, IL	110895524	Deposit25cents	boston
+16811264	crossbones_inc	Chicago, IL	42069505	myLittleStinker	Salt Lake City, UT
+18908456	dataliberation	Chicago, IL	9686882	pieps	Chicago
+18908456	dataliberation	Chicago, IL	93957809	ericschmidt	Mountain View, CA
+18908456	dataliberation	Chicago, IL	22808076	googlers	Mountain View, CA
+18908456	dataliberation	Chicago, IL	31311757	googlemaps	
+18908456	dataliberation	Chicago, IL	20536157	google	Mountain View, CA
+18908456	dataliberation	Chicago, IL	20958144	lblan	Chicago
+18908456	dataliberation	Chicago, IL	19042953	zavislak	
+18908456	dataliberation	Chicago, IL	14515931	therealfitz	Chicago
+18908456	dataliberation	Chicago, IL	5974542	jlueck	Chicago, IL
+18908456	dataliberation	Chicago, IL	10420972	gk5885	Chicago, IL
+24544557	EShipShop	Clearwater, FL	8715502	Knownhuman	Richmond, VA
+24544557	EShipShop	Clearwater, FL	103877455	crunchdot	at the core of www
+24544557	EShipShop	Clearwater, FL	84527825	BUDDHABARK	Hollywood, CA
+24544557	EShipShop	Clearwater, FL	27725589	promodan	http://tinyurl.com/oawztx9  
+24544557	EShipShop	Clearwater, FL	80530081	Civis2	Milano
+24544557	EShipShop	Clearwater, FL	21305023	1tweet	Los Angeles
+24544557	EShipShop	Clearwater, FL	35451888	designsofheart	Brisbane, Australia
+24544557	EShipShop	Clearwater, FL	91076599	verybestofyou	Sweden
+24544557	EShipShop	Clearwater, FL	76792477	KnowFree	
+24544557	EShipShop	Clearwater, FL	89937796	yoursmartcoach	Lithopolis, OH USA
+23627084	anneegibson	Chicago, IL	60642052	VentureBeat	San Francisco + NYC
+23627084	anneegibson	Chicago, IL	17170147	dish	Englewood, CO
+23627084	anneegibson	Chicago, IL	14996251	XFINITY	Philadelphia
+23627084	anneegibson	Chicago, IL	385969566	DavidEigenberg	
+23627084	anneegibson	Chicago, IL	15165502	MarsRovers	Mars: Gusev Crater & Meridiani
+23627084	anneegibson	Chicago, IL	1514654911	filming_chicago	Chicago
+23627084	anneegibson	Chicago, IL	3291048573	matbeswick	uk
+23627084	anneegibson	Chicago, IL	16545273	andjelicaaa	New York City
+23627084	anneegibson	Chicago, IL	1372128416	isthecolor	London
+23627084	anneegibson	Chicago, IL	2463681456	AccentureDigi	
+23627084	anneegibson	Chicago, IL	241589853	StanleyCup411	
+23627084	anneegibson	Chicago, IL	3306329087	Planner_Sith	Estrella de la Muerte 
+23627084	anneegibson	Chicago, IL	27104443	rongibori	Chicago
+23627084	anneegibson	Chicago, IL	2878812992	googlecardboard	Virtually anywhere
+23627084	anneegibson	Chicago, IL	18937806	fjord	DE, ES, FI, FR, SE, TR, UK, US
+23627084	anneegibson	Chicago, IL	74426272	AccentureSocial	Global
+23627084	anneegibson	Chicago, IL	139162440	pattonoswalt	Los Angeles
+23627084	anneegibson	Chicago, IL	19739034	StrategyOnline	Canada
+23627084	anneegibson	Chicago, IL	1131834690	DilTown	Chicago, IL
+23627084	anneegibson	Chicago, IL	165511377	AndyRichter	Los Angeles
+23627084	anneegibson	Chicago, IL	559856518	KOTLERMARKETING	
+23627084	anneegibson	Chicago, IL	386212034	TheVariableLab	Winston-Salem, NC
+23627084	anneegibson	Chicago, IL	30258013	Christopher0tt	Australia
+23627084	anneegibson	Chicago, IL	478412698	ThamKhaiMeng	New York, NY
+23627084	anneegibson	Chicago, IL	227029404	WestLoopCommOrg	Chicago, Illinois
+23627084	anneegibson	Chicago, IL	148597344	Chicagowestloop	Chicago/USA/World
+23627084	anneegibson	Chicago, IL	1228784640	neighborsWLoop	West Loop, Chicago
+23627084	anneegibson	Chicago, IL	15723995	TIMECulture	
+23627084	anneegibson	Chicago, IL	1000262514	SeinfeldToday	New York, NY
+23627084	anneegibson	Chicago, IL	23973563	jessicaBmoore	Chicago, IL
+23627084	anneegibson	Chicago, IL	1490424271	vanessalflowers	Chicago
+23627084	anneegibson	Chicago, IL	23544596	mindykaling	Los Angeles 
+23627084	anneegibson	Chicago, IL	178851214	3PercentConf	Silicon Valley 
+23627084	anneegibson	Chicago, IL	89587925	comcast	Philadelphia, PA
+23627084	anneegibson	Chicago, IL	334984155	dailymuse	
+23627084	anneegibson	Chicago, IL	34713362	business	New York and the World
+23627084	anneegibson	Chicago, IL	169575521	TheSoundHQ	CANADA / USA / UK / INDIA
+23627084	anneegibson	Chicago, IL	1860101	eaonp	Melbourne, AU
+23627084	anneegibson	Chicago, IL	43135653	AntonNunez	Chicago, USA
+23627084	anneegibson	Chicago, IL	260784031	dashlane	NYC & Paris
+23627084	anneegibson	Chicago, IL	260784031	dashlane	NYC & Paris
+23627084	anneegibson	Chicago, IL	260324998	GSP	San Francisco, CA
+23627084	anneegibson	Chicago, IL	372375309	McKinseySociety	
+23627084	anneegibson	Chicago, IL	205789121	MONEY	USA
+23627084	anneegibson	Chicago, IL	43901113	CreativeSandbox	
+23627084	anneegibson	Chicago, IL	296979153	googleideas	New York, NY
+23627084	anneegibson	Chicago, IL	14194726	natehewitt	West Town
+23627084	anneegibson	Chicago, IL	260741931	ThinkwithGoogle	New York, NY
+23627084	anneegibson	Chicago, IL	255280257	EatYolk	Chicago, Indianapolis, Dallas 
+23627084	anneegibson	Chicago, IL	21271500	advertisingweek	NYC, LDN + The World
+23627084	anneegibson	Chicago, IL	6480682	azizansari	New York, NY
+23627084	anneegibson	Chicago, IL	30364057	SarahKSilverman	state of Palestine 
+23627084	anneegibson	Chicago, IL	2434792256	BrilliantAdx	
+23627084	anneegibson	Chicago, IL	2372164754	MeCookieMonster	Sesame Street
+23627084	anneegibson	Chicago, IL	595515713	vj44	Washington, DC
+23627084	anneegibson	Chicago, IL	1105340826	seinfeld_today	
+23627084	anneegibson	Chicago, IL	30973	Starbucks	Seattle, WA
+23627084	anneegibson	Chicago, IL	1343486720	LifeLimits	
+23627084	anneegibson	Chicago, IL	15290054	RiseInteractive	Chicago, IL
+23627084	anneegibson	Chicago, IL	126084292	Oreo	
+23627084	anneegibson	Chicago, IL	126084292	Oreo	
+23627084	anneegibson	Chicago, IL	48797251	OldSpice	
+23627084	anneegibson	Chicago, IL	19877186	chelseahandler	Los Angeles, CA
+23627084	anneegibson	Chicago, IL	59532374	PsychologyNow	USA
+23627084	anneegibson	Chicago, IL	743585142	LeanInOrg	
+23627084	anneegibson	Chicago, IL	977035339	AccentureRetail	Global
+54298095	craftsman	Chicago, IL	2261657203	Thekolbcorner	San Antonio, TX
+54298095	craftsman	Chicago, IL	22526869	saurabhprasad	New York, USA
+54298095	craftsman	Chicago, IL	392371831	MadeinaDay1	NC
+54298095	craftsman	Chicago, IL	22180206	mrbadura	Nebraska
+54298095	craftsman	Chicago, IL	272487043	artfullycarin	Bedfordshire
+54298095	craftsman	Chicago, IL	304949711	NRandCo	East Toronto
+54298095	craftsman	Chicago, IL	994049408	MSMondays	Pittsburgh, PA
+54298095	craftsman	Chicago, IL	6242992	scrapsoflife	Thomasville, GA
+54298095	craftsman	Chicago, IL	9155732	noraa	New York
+54298095	craftsman	Chicago, IL	2407524822	OrganizeDream	Rhode Island
+54298095	craftsman	Chicago, IL	857233226	HandyHelen	helenshandyangels@gmail.com
+54298095	craftsman	Chicago, IL	21005740	mlampy	Calgary, Alberta
+54298095	craftsman	Chicago, IL	6145322	mattress	Washougal, WA
+54298095	craftsman	Chicago, IL	496198907	dogsdonteatpza	
+54298095	craftsman	Chicago, IL	56583994	MakeShopLive	Los Angeles, CA
+54298095	craftsman	Chicago, IL	27116864	KatieTay	Austin, TX
+54298095	craftsman	Chicago, IL	171912477	carolynhomework	
+19535537	iHotel	Champaign, IL	39498176	JohnGroce	Champaign, IL
+19535537	iHotel	Champaign, IL	1520915516	FAAatIllinois	Champaign, IL
+19535537	iHotel	Champaign, IL	299872718	UoICareerCenter	Champaign-Urbana, Illinois
+19535537	iHotel	Champaign, IL	797049019	hill_garret	Champaign, IL
+19535537	iHotel	Champaign, IL	74793928	JapanHouseUofI	Japan House, Urbana Illinois
+19535537	iHotel	Champaign, IL	348728907	Busey	Champaign, IL
+19535537	iHotel	Champaign, IL	2997326100	YoureWelcomeCU	Champaign-Urbana, IL
+19535537	iHotel	Champaign, IL	532673436	joskuhn	Champaign, IL.
+19535537	iHotel	Champaign, IL	3193628353	IFlyCU	Savoy, IL
+19535537	iHotel	Champaign, IL	3110994454	ILTreasurer	State Capitol - Springfield IL
+19535537	iHotel	Champaign, IL	2233477196	ILLINOISVetMed	Urbana, IL
+19535537	iHotel	Champaign, IL	2970114728	urbanagolf	
+19535537	iHotel	Champaign, IL	30058454	ILinnovations	University of Illinois
+19535537	iHotel	Champaign, IL	116496581	ilparkdistricts	Springfield, IL
+19535537	iHotel	Champaign, IL	328067164	Hoosiers	Bloomington, IN
+19535537	iHotel	Champaign, IL	1392453751	PandaDoughnutCU	Champaign-Urbana
+19535537	iHotel	Champaign, IL	2270875508	DragonFirePizza	Champaign, IL
+19535537	iHotel	Champaign, IL	31492315	BearsBlitznet	Chicago, IL
+60983355	HelpHandPartner	Chicago, IL	21859563	MotherEarthNews	Topeka, Kansas; United States
+60983355	HelpHandPartner	Chicago, IL	19982260	OrganicConsumer	USA
+60983355	HelpHandPartner	Chicago, IL	148156288	FarmStayUS	Alsea, Oregon
+60983355	HelpHandPartner	Chicago, IL	57949239	Shareable	Global
+60983355	HelpHandPartner	Chicago, IL	1344951	WIRED	San Francisco/New York
+60983355	HelpHandPartner	Chicago, IL	14173315	NBCNews	New York, NY
+60983355	HelpHandPartner	Chicago, IL	15012486	CBSNews	New York, NY
+60983355	HelpHandPartner	Chicago, IL	631156982	socalpartners	
+60983355	HelpHandPartner	Chicago, IL	89020013	CityClubChicago	Chicago
+60983355	HelpHandPartner	Chicago, IL	36719540	AmpleHarvest	USA
+60983355	HelpHandPartner	Chicago, IL	14677919	NewYorker	New York, NY
+60983355	HelpHandPartner	Chicago, IL	14511951	HuffingtonPost	
+60983355	HelpHandPartner	Chicago, IL	17990173	SustainBrands	San Francisco, CA
+60983355	HelpHandPartner	Chicago, IL	5392522	NPR	Washington, DC
+60983355	HelpHandPartner	Chicago, IL	16322711	ericfacas	Marin County, CA
+60983355	HelpHandPartner	Chicago, IL	166851422	mediacause	San Francisco and Boston
+60983355	HelpHandPartner	Chicago, IL	36473442	ChicagolandCmbr	Chicago, Illinois
+60983355	HelpHandPartner	Chicago, IL	38675770	nynowmarket	New York City
+60983355	HelpHandPartner	Chicago, IL	16358939	toryjohnson	New York, NY
+60983355	HelpHandPartner	Chicago, IL	1943802234	DA_Unlimited	uk.linkedin.com/in/dupeadeoye/
+60983355	HelpHandPartner	Chicago, IL	195808077	MSAconnect	Denver, CO - Worldwide
+60983355	HelpHandPartner	Chicago, IL	774416509	SeattleGiftShow	Seattle, WA
+60983355	HelpHandPartner	Chicago, IL	1671241783	lovethisrva	RVA
+60983355	HelpHandPartner	Chicago, IL	35620063	FaireCollection	Williamsburg, Brooklyn
