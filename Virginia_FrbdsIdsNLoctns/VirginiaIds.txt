@@ -1,0 +1,288 @@
+88998145	6058815460	Alexandria, Virginia
+11404952	5870160055	Fredericksburg, Virginia
+26610836	4060870714	Virginia Beach, Virginia
+44477780	5814116254	Richmond, Virginia
+17961009	5215436535	Norfolk, Virginia
+11540292	5831806360	Norfolk, Virginia
+20060619	5811674182	Blacksburg, Virginia
+24123904	5564006948	Hampton, Virginia
+16652927	6304912948	Richmond, Virginia
+27007776	5534010468	Virginia Beach, Virginia
+22982603	5658869921	Charlottesville, Virginia
+22552407	5826133911	Falls Church, Virginia
+76340105	5793749126	Alexandria, Virginia
+39200253	2123908322	Newport News, Virginia
+36692853	5937976790	Hampton, Virginia
+14419627	5828022603	Lynchburg, Virginia
+64104789	4638203865	Lynchburg, Virginia
+16396193	2046977863	Arlington, Virginia
+15348666	1187722210	Charlottesville, Virginia
+18494401	2479994850	Virginia Beach, Virginia
+50739484	5394558581	Richmond, Virginia
+16149273	5551523598	Virginia Beach, Virginia
+50479532	3150362987	Hampton, Virginia
+20334310	3275797986	Virginia Beach, Virginia
+40913128	5336946005	Richmond, Virginia
+19663979	5490777099	Norfolk, Virginia
+14858104	5767722015	Hampton, Virginia
+80366824	5608690474	Richmond, Virginia
+21516262	3689370453	Charlottesville, Virginia
+71061601	5251729516	Newport News, Virginia
+33575890	6234351786	Warrenton, Virginia
+46814279	5571520960	Norfolk, Virginia
+14054571	5239564628	Suffolk, Virginia
+45244529	2937498356	Norfolk, Virginia
+15667738	2890182988	Richmond, Virginia
+21786264	5826858093	Norfolk, Virginia
+58069798	6100366331	Woodbridge, Virginia
+59669298	4975922705	Suffolk, Virginia
+26377539	5855864046	Arlington, Virginia
+22055740	6359075404	Richmond, Virginia
+67407730	5353682518	Richmond, Virginia
+18911701	3202434291	Williamsburg, Virginia
+14194003	6331648640	Portsmouth, Virginia
+19699882	5596578380	Norfolk, Virginia
+24680706	6154148792	Norfolk, Virginia
+25075568	3407079592	Bristol, Virginia
+23766180	5996157590	Richmond, Virginia
+30218966	5641005225	
+36086457	5873358772	Arlington, Virginia
+62956926	5465791361	Colonial Heights, Virginia
+33990173	5579155597	Richmond, Virginia
+16426550	5767493515	Harrisonburg, Virginia
+47753123	5559737124	Blacksburg, Virginia
+46443080	5101540543	Glen Allen, Virginia
+26913834	5712002193	Alexandria, Virginia
+20738617	3058396931	Bridgewater, Virginia
+48569657	5565688534	Richmond, Virginia
+20492503	1488126168	Richmond, Virginia
+81703976	5410174130	Richmond, Virginia
+69908204	5522917696	Virginia Beach, Virginia
+73316337	6066637116	Richmond, Virginia
+21543389	5789470169	Roanoke, Virginia
+17611447	5667854001	Alexandria, Virginia
+30457045	4711238245	McLean, Virginia
+73710819	5561301315	Portsmouth, Virginia
+53919732	5835886470	Charlottesville, Virginia
+68994537	5623286670	Chantilly, Virginia
+21939713	4028037659	Chesapeake, Virginia
+15365985	5510087849	Alexandria, Virginia
+16316319	4359766961	Charlottesville, Virginia
+30592239	3201375970	Virginia Beach, Virginia
+50646511	4009588282	Falls Church, Virginia
+14317480	5719170997	Reston, Virginia
+66722211	6190035864	Richmond, Virginia
+46715548	5829583944	Blacksburg, Virginia
+17874510	3842061758	Virginia Beach, Virginia
+49133210	5537623269	Richmond, Virginia
+47109694	5515509001	Virginia Beach, Virginia
+14738157	5394559808	Richmond, Virginia
+22079044	5699585685	Hampton, Virginia
+63497889	5461081996	Virginia Beach, Virginia
+19277430	5602219334	Newport News, Virginia
+39396995	5593708603	Richmond, Virginia
+14215321	5370073301	Alexandria, Virginia
+73984275	4971592734	Norfolk, Virginia
+71625765	5079931405	Norfolk, Virginia
+25226528	3308497714	Charlottesville, Virginia
+27324089	1768813597	Norfolk, Virginia
+54994976	6203104784	Alexandria, Virginia
+16184265	977325033	Richmond, Virginia
+16839716	2044213466	Fairfax, Virginia
+15267512	6008997464	Richmond, Virginia
+31651867	6421953967	Roanoke, Virginia
+37943586	5486271720	McLean, Virginia
+15149772	4875673421	Roanoke, Virginia
+35324257	6221702343	Portsmouth, Virginia
+68758400	5393361204	Charlottesville, Virginia
+27592816	5580981225	Portsmouth, Virginia
+48172316	4526960394	Williamsburg, Virginia
+31135129	6058010879	Fairfax, Virginia
+15275544	5696459714	Richmond, Virginia
+17792766	4916558077	Warrenton, Virginia
+16980348	5071709265	Virginia Beach, Virginia
+18816266	5498691190	Chesapeake, Virginia
+12132252	5820652091	Woodbridge, Virginia
+66444066	5835138352	Blacksburg, Virginia
+55649992	5498478518	Springfield, Virginia
+22095796	3203903027	Richmond, Virginia
+65480680	5886928000	Virginia Beach, Virginia
+37685394	3606274751	Richmond, Virginia
+18427990	5486706811	Chester, Virginia
+76099703	5684183510	Vienna, Virginia
+38744618	5085508774	Newport News, Virginia
+23278238	5899450289	Charlottesville, Virginia
+37958337	5859073404	Richmond, Virginia
+33766823	5470013735	Arlington, Virginia
+86328621	5596169970	Fairfax, Virginia
+69289910	5682542091	Arlington, Virginia
+15683401	5502699968	Richmond, Virginia
+18699104	5106644982	Newport News, Virginia
+23157770	5480643537	Lexington, Virginia
+18233869	5846447990	Reston, Virginia
+39148698	5620467442	Lynchburg, Virginia
+18627305	1752270605	Leesburg, Virginia
+19096017	5238769188	Reston, Virginia
+73491617	5982220356	Falls Church, Virginia
+37578689	5603770182	Wytheville, Virginia
+18049358	2617246313	Fairfax, Virginia
+14527393	5556108185	Newport News, Virginia
+12413892	5553643476	Norfolk, Virginia
+42036315	5555547498	Virginia Beach, Virginia
+14249190	5181077711	Alexandria, Virginia
+19624439	5578913772	Hampton, Virginia
+45052947	5082238074	Richmond, Virginia
+20878313	5717414806	Vienna, Virginia
+68253846	5331097477	Christiansburg, Virginia
+57375199	5810915495	Richmond, Virginia
+47413940	5848094267	Virginia Beach, Virginia
+30009888	5558508140	Richmond, Virginia
+25001165	6095364225	Chester, Virginia
+21726263	5412386328	Richmond, Virginia
+15828498	5267647536	Alexandria, Virginia
+40606490	5575192536	Norfolk, Virginia
+24087298	5726602957	Suffolk, Virginia
+45236819	3874129142	Blacksburg, Virginia
+24728408	5295967574	Arlington, Virginia
+16879478	4847198574	Virginia Beach, Virginia
+15699942	5320364478	Woodbridge, Virginia
+17010847	4065781603	Norfolk, Virginia
+40341813	5876497554	Arlington, Virginia
+18584697	5479157269	Leesburg, Virginia
+22910990	2929944924	Williamsburg, Virginia
+36149413	5224516165	Richmond, Virginia
+20421217	5788019822	Richmond, Virginia
+28550144	3599944615	Portsmouth, Virginia
+24749800	4813383430	Richmond, Virginia
+30123766	5896307551	Hampton, Virginia
+89369464	6380199222	Norfolk, Virginia
+65645807	5696913581	Harrisonburg, Virginia
+40348993	5519077398	Virginia Beach, Virginia
+69317378	5877754662	Lynchburg, Virginia
+18324979	6198024710	Richmond, Virginia
+14923820	5928640208	Fairfax, Virginia
+17732444	5563442278	Roanoke, Virginia
+27901029	2252742217	Virginia Beach, Virginia
+36551972	2787585107	Newport News, Virginia
+62868151	5560233142	Fairfax, Virginia
+76791971	6206692687	Charlottesville, Virginia
+23688613	5948510988	Richmond, Virginia
+65652809	5351900181	Charlottesville, Virginia
+57528706	2837072394	Norfolk, Virginia
+19124858	1859440128	Richmond, Virginia
+81524957	5605918063	Richmond, Virginia
+27907548	5634576801	Chesapeake, Virginia
+52287666	6124966016	Virginia Beach, Virginia
+42196414	5453776568	Alexandria, Virginia
+78008295	5266224941	Richmond, Virginia
+69459955	6147381947	
+32701236	4937954431	Richmond, Virginia
+18754112	5054417586	Fairfax, Virginia
+37703960	6287108617	Blacksburg, Virginia
+21620511	4361915959	Norfolk, Virginia
+19747211	4066905351	Charlottesville, Virginia
+36433181	1950993835	Richmond, Virginia
+18216528	2020458617	Lynchburg, Virginia
+54438262	4904961854	Blacksburg, Virginia
+19003637	5591135642	Richmond, Virginia
+40893200	5098194482	Warrenton, Virginia
+11170472	3692488179	McLean, Virginia
+22149989	1260938548	McLean, Virginia
+75323412	4105597425	Chantilly, Virginia
+30935287	4317597030	Virginia Beach, Virginia
+16796846	4020941547	Richmond, Virginia
+57695171	4054897137	Falls Church, Virginia
+15779877	4366347954	Arlington, Virginia
+17889225	4002853483	Lynchburg, Virginia
+66125002	4106128950	Richmond, Virginia
+44108457	2252044354	Culpeper, Virginia
+33660890	3914296032	Richmond, Virginia
+25295405	2569444133	Virginia Beach, Virginia
+20053527	4343047063	Norfolk, Virginia
+32636836	4350098412	Roanoke, Virginia
+35785014	3916754557	Chesapeake, Virginia
+14814259	4136789433	Chesapeake, Virginia
+26358430	4099132075	Winchester, Virginia
+17085179	4014072731	Lynchburg, Virginia
+38072561	4092115000	Front Royal, Virginia
+18151693	4044187995	Chesapeake, Virginia
+27592897	4371472456	Norfolk, Virginia
+27596274	4092070247	Chesapeake, Virginia
+17121414	4338312642	Portsmouth, Virginia
+68849611	3662415403	Hampton, Virginia
+17136814	4071679289	Charlottesville, Virginia
+24477502	4070978870	Fairfax, Virginia
+16089456	4174175203	Virginia Beach, Virginia
+22255385	4055553448	Richmond, Virginia
+21335883	3711556036	Richmond, Virginia
+29734359	4149729859	Newport News, Virginia
+21171865	4115844565	Leesburg, Virginia
+43929479	2104210518	Richmond, Virginia
+16116536	4001223403	Woodbridge, Virginia
+18590537	4077110965	Blacksburg, Virginia
+20691085	4333764697	Lynchburg, Virginia
+24888006	4058887275	Norfolk, Virginia
+52502982	3283274020	Richmond, Virginia
+24564384	4073245340	Winchester, Virginia
+27711304	4110591452	Hampton, Virginia
+29610084	3986456555	Manassas, Virginia
+31927291	4150963635	Richmond, Virginia
+18296674	3976757971	Manassas, Virginia
+15157595	4415657600	Lynchburg, Virginia
+43469221	2724078205	Wytheville, Virginia
+44520508	3343636850	Roanoke, Virginia
+18308881	4318738171	Richmond, Virginia
+41853858	4102434432	Virginia Beach, Virginia
+17298191	3895129292	Richmond, Virginia
+15210606	4051911893	Norfolk, Virginia
+22558810	3921433849	Virginia Beach, Virginia
+31722509	4088375542	Virginia Beach, Virginia
+34098952	4402078312	Mechanicsville, Virginia
+15232169	4300686196	Richmond, Virginia
+29928027	4122099295	Petersburg, Virginia
+36794988	4133983665	Richmond, Virginia
+26833198	3856755482	Roanoke, Virginia
+15831799	3922534269	Lynchburg, Virginia
+31385707	4087360421	Chesapeake, Virginia
+17398208	4351435146	Virginia Beach, Virginia
+36277387	3822108576	Richmond, Virginia
+23698857	3867072756	Charlottesville, Virginia
+43625620	4127295323	Virginia Beach, Virginia
+57266613	4120515820	Fairfax, Virginia
+64606704	3299852142	Richmond, Virginia
+14299976	3521364286	Hampton, Virginia
+73039130	3995735947	Arlington, Virginia
+24814440	3963343693	Collinsville, Virginia
+69904224	4114363956	Chesapeake, Virginia
+16446086	4320024535	Charlottesville, Virginia
+38468011	3178836572	Fairfax, Virginia
+45814417	4151314587	Manassas, Virginia
+15407235	3805654100	Charlottesville, Virginia
+41621983	3937014055	Salem, Virginia
+18298167	4031937698	McLean, Virginia
+68902428	3674428407	Newport News, Virginia
+14378708	4036036972	Centreville, Virginia
+40145676	4026115571	Norfolk, Virginia
+31163383	4174143086	Richmond, Virginia
+18594940	4092994279	Harrisonburg, Virginia
+17569101	4326407397	Newport News, Virginia
+67380696	3856281149	Dale City, Virginia
+61656747	4019771324	Norfolk, Virginia
+36502310	4401098784	Richmond, Virginia
+44903292	4137574807	Forest, Virginia
+15554587	3966864683	Roanoke, Virginia
+75325415	4411184213	Harrisonburg, Virginia
+60656582	3851063367	Lynchburg, Virginia
+46008283	4097991822	Portsmouth, Virginia
+14552827	4331149465	Charlottesville, Virginia
+56499255	4037629785	Falls Church, Virginia
+38680115	2762616043	Bedford, Virginia
+67012704	4067067538	Glen Allen, Virginia
+21929229	3608961314	Richmond, Virginia
+21929737	4045287068	Virginia Beach, Virginia
+15651849	4068559130	Charlottesville, Virginia
+14603564	3518913623	Arlington, Virginia
+18813108	3925478032	Richmond, Virginia
+26153168	3737835833	Norfolk, Virginia
+30050171	4010740695	Danville, Virginia
+70238854	3694772246	Norfolk, Virginia
