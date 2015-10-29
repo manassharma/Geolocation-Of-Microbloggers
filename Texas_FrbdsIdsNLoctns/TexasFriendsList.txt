@@ -225,3 +225,1663 @@
 64225637	Brucewaynebrady	Beaumont,TX 	763007006	65pmblair	Lon Lon Ranch, Pennsylvania
 64225637	Brucewaynebrady	Beaumont,TX 	19000474	retronauts	Minus World
 64225637	Brucewaynebrady	Beaumont,TX 	82487821	sankakucomplex	
+66847119	Landmannery	Houston, TX	237806811	OilnGasInvestor	Houston, TX
+66847119	Landmannery	Houston, TX	3864889278	courteney_69	Spartanburg, SC
+66847119	Landmannery	Houston, TX	415314412	DannyNoonan3	
+66847119	Landmannery	Houston, TX	20078398	ScottyCameron	Carlsbad, CA
+66847119	Landmannery	Houston, TX	375268417	vjvelasquezrhp	Cali/Florida
+66847119	Landmannery	Houston, TX	1253015868	JSMarisnick	
+66847119	Landmannery	Houston, TX	429514504	LMcCullers43	Tampa Bay/Houston 
+66847119	Landmannery	Houston, TX	157130293	kidkeuchy	
+66847119	Landmannery	Houston, TX	43495410	Dawie1983	Houston, TX
+66847119	Landmannery	Houston, TX	2923009363	ProdBrokers	Oklahoma City, OK
+66847119	Landmannery	Houston, TX	2955807063	ccovingtondt	Houston, TX
+66847119	Landmannery	Houston, TX	185317527	ArronOberholser	Paradise Valley, Az
+66847119	Landmannery	Houston, TX	212966752	DJPie	JAX via ORD
+66847119	Landmannery	Houston, TX	3003026897	SnobbyGolfClub	Stuck in the 1970's
+66847119	Landmannery	Houston, TX	126228614	Bulldog_BR	Baton Rouge - Southdowns
+66847119	Landmannery	Houston, TX	1179735828	EnertiaSoftware	
+66847119	Landmannery	Houston, TX	968125524	BayouTecheBiere	Arnaudville, LA
+66847119	Landmannery	Houston, TX	133564377	TinRoofBeer	Baton Rouge, LA
+66847119	Landmannery	Houston, TX	300452520	FantasyFairway	
+66847119	Landmannery	Houston, TX	1383157789	SomeonesAnIdiot	
+66847119	Landmannery	Houston, TX	306549170	ChrisStroudPGA	
+66847119	Landmannery	Houston, TX	87979522	caseyresearch	Vermont
+66847119	Landmannery	Houston, TX	573359118	MarinKatusa	Vancouver, BC
+66847119	Landmannery	Houston, TX	621278322	MicahFugitt	Waco, TX
+66847119	Landmannery	Houston, TX	3009466760	PonderosaAdvis	Denver, Colorado
+66847119	Landmannery	Houston, TX	183534360	GolfBlog_com	
+66847119	Landmannery	Houston, TX	78054753	IEL_CAIL	Plano, Texas
+66847119	Landmannery	Houston, TX	2536557991	College_Golfers	somewhere making birdies 
+66847119	Landmannery	Houston, TX	529579674	AlamoBeerCo	San Antonio, Texas
+66847119	Landmannery	Houston, TX	158756328	HistoricPearl	303 Pearl Parkway, SATX
+66847119	Landmannery	Houston, TX	2497207914	SoutherleighSA	San Antonio, Texas
+66847119	Landmannery	Houston, TX	2471317502	WoostersGarden	3315 Milam st. 77006
+66847119	Landmannery	Houston, TX	1667464992	CarlPaulsonGolf	
+66847119	Landmannery	Houston, TX	464385996	asumensgolf	ASU Karsten Course
+66847119	Landmannery	Houston, TX	32094574	protourcaddy	Kissimmee, FL
+66847119	Landmannery	Houston, TX	23668385	taphunter	United States
+66847119	Landmannery	Houston, TX	352947624	GSElevator	New York / London / Hong Kong
+66847119	Landmannery	Houston, TX	492586313	NWSSanDiego	San Diego, CA
+66847119	Landmannery	Houston, TX	16228408	TitleistonTour	Fairhaven, MA
+66847119	Landmannery	Houston, TX	2321535938	michael_greller	Gig Harbor
+66847119	Landmannery	Houston, TX	36354710	philsteele042	Cleveland, OH
+66847119	Landmannery	Houston, TX	365894597	Ricestudpoker	Austin, TX
+66847119	Landmannery	Houston, TX	14344140	darenw	Houston, TX
+66847119	Landmannery	Houston, TX	3309239579	kisnertracker	Remote Trackin For Time Being
+66847119	Landmannery	Houston, TX	23274387	denbizjournal	Denver, Colorado
+66847119	Landmannery	Houston, TX	3340252623	roibitches	
+66847119	Landmannery	Houston, TX	2670325442	BarRescue	
+66847119	Landmannery	Houston, TX	423510853	STexasPGA	
+66847119	Landmannery	Houston, TX	3015189603	SecretGolf	
+66847119	Landmannery	Houston, TX	287407881	BrandtSnedeker	
+66847119	Landmannery	Houston, TX	242378232	ghostofhogan	
+66847119	Landmannery	Houston, TX	189511205	ShaneRyanHere	Durham, NC
+66847119	Landmannery	Houston, TX	257013116	DJohnsonPGA	
+66847119	Landmannery	Houston, TX	2937550630	SChapaSABJ	San Antonio, Texas
+66847119	Landmannery	Houston, TX	3246142328	IRWAYP	
+66847119	Landmannery	Houston, TX	2856052017	ryanmoorepga	
+66847119	Landmannery	Houston, TX	2244504662	notrealeldrick	Augusta, GA
+66847119	Landmannery	Houston, TX	150505001	tropicalupdate	
+66847119	Landmannery	Houston, TX	2293525478	S_Daughtry	Galveston, Texas
+66847119	Landmannery	Houston, TX	1434255667	TigerQuestfor19	
+3497261	RUWTgolf	Austin, TX	15193637	RUWTtopteams	Austin, TX
+3497261	RUWTgolf	Austin, TX	15193624	RUWTextratime	Austin, TX
+3497261	RUWTgolf	Austin, TX	15193631	RUWTpenaltykick	Austin, TX
+3497261	RUWTgolf	Austin, TX	15193601	RUWTrankedteams	Austin, TX
+3497261	RUWTgolf	Austin, TX	15193615	RUWTnohitter	Austin, TX
+3497261	RUWTgolf	Austin, TX	15193619	RUWTperfectgame	Austin, TX
+3497261	RUWTgolf	Austin, TX	15193608	RUWTextrainning	Austin, TX
+3497261	RUWTgolf	Austin, TX	15193592	RUWTupset	Austin, TX
+3497261	RUWTgolf	Austin, TX	15193576	RUWTovertime	Austin, TX
+3497261	RUWTgolf	Austin, TX	15154434	RUWTCloseFinish	Austin, TX
+3497261	RUWTgolf	Austin, TX	755416	RUWT	Austin, Texas
+3497261	RUWTgolf	Austin, TX	1937421	RUWTbot	http://ruwtbot.com
+3497261	RUWTgolf	Austin, TX	14826876	RUWTepic	
+3497261	RUWTgolf	Austin, TX	14826871	RUWThot	
+3497261	RUWTgolf	Austin, TX	14826868	RUWTgood	
+3497261	RUWTgolf	Austin, TX	3495981	RUWTnfl	
+3497261	RUWTgolf	Austin, TX	1584531	RUWTncaab	
+3497261	RUWTgolf	Austin, TX	2787381	RUWTmlb	
+3497261	RUWTgolf	Austin, TX	1584341	RUWTnhl	
+3497261	RUWTgolf	Austin, TX	1584191	RUWTnba	
+3497261	RUWTgolf	Austin, TX	3496291	RUWTracing	
+3497261	RUWTgolf	Austin, TX	3497231	RUWTsoccer	
+3497261	RUWTgolf	Austin, TX	3496471	RUWTncaaf	
+66847119	Landmannery	Houston, TX	237806811	OilnGasInvestor	Houston, TX
+66847119	Landmannery	Houston, TX	3864889278	courteney_69	Spartanburg, SC
+66847119	Landmannery	Houston, TX	415314412	DannyNoonan3	
+66847119	Landmannery	Houston, TX	20078398	ScottyCameron	Carlsbad, CA
+66847119	Landmannery	Houston, TX	375268417	vjvelasquezrhp	Cali/Florida
+66847119	Landmannery	Houston, TX	1253015868	JSMarisnick	
+66847119	Landmannery	Houston, TX	429514504	LMcCullers43	Tampa Bay/Houston 
+66847119	Landmannery	Houston, TX	157130293	kidkeuchy	
+66847119	Landmannery	Houston, TX	43495410	Dawie1983	Houston, TX
+66847119	Landmannery	Houston, TX	2923009363	ProdBrokers	Oklahoma City, OK
+66847119	Landmannery	Houston, TX	2955807063	ccovingtondt	Houston, TX
+66847119	Landmannery	Houston, TX	185317527	ArronOberholser	Paradise Valley, Az
+66847119	Landmannery	Houston, TX	212966752	DJPie	JAX via ORD
+66847119	Landmannery	Houston, TX	3003026897	SnobbyGolfClub	Stuck in the 1970's
+66847119	Landmannery	Houston, TX	126228614	Bulldog_BR	Baton Rouge - Southdowns
+66847119	Landmannery	Houston, TX	1179735828	EnertiaSoftware	
+66847119	Landmannery	Houston, TX	968125524	BayouTecheBiere	Arnaudville, LA
+66847119	Landmannery	Houston, TX	133564377	TinRoofBeer	Baton Rouge, LA
+66847119	Landmannery	Houston, TX	300452520	FantasyFairway	
+66847119	Landmannery	Houston, TX	1383157789	SomeonesAnIdiot	
+66847119	Landmannery	Houston, TX	306549170	ChrisStroudPGA	
+66847119	Landmannery	Houston, TX	87979522	caseyresearch	Vermont
+66847119	Landmannery	Houston, TX	573359118	MarinKatusa	Vancouver, BC
+66847119	Landmannery	Houston, TX	621278322	MicahFugitt	Waco, TX
+835261	BaldMan	Austin, TX	3418972445	ESTBLSHMNT	
+835261	BaldMan	Austin, TX	14164724	sarahmei	San Francisco, CA
+835261	BaldMan	Austin, TX	353789193	StartupLJackson	SoMa
+835261	BaldMan	Austin, TX	14065302	doncruse	Austin, TX
+835261	BaldMan	Austin, TX	1919231	cabel	Portland
+835261	BaldMan	Austin, TX	2916305152	Snowden	
+835261	BaldMan	Austin, TX	18470484	draughthouse	4112 Medical Pkwy
+835261	BaldMan	Austin, TX	3583264572	IStandWithAhmed	
+835261	BaldMan	Austin, TX	407993045	BuiltInAustin	Austin
+835261	BaldMan	Austin, TX	36823	anildash	NYC: 40.739069,-73.987082
+835261	BaldMan	Austin, TX	14377979	EricJorgenson	SF / KC / Detroit
+835261	BaldMan	Austin, TX	226039936	benkhicks	
+835261	BaldMan	Austin, TX	1059622782	aha_io	Menlo Park, CA
+835261	BaldMan	Austin, TX	17178315	Una	Austin, TX 
+835261	BaldMan	Austin, TX	3007144446	godaytrip	Austin, TX
+835261	BaldMan	Austin, TX	2337568128	ATXbuilt	Austin, Texas
+835261	BaldMan	Austin, TX	272730913	theTunnelBear	The Internet
+835261	BaldMan	Austin, TX	14873779	kavitap	LA
+835261	BaldMan	Austin, TX	9698942	austinkleon	Austin, Texas
+835261	BaldMan	Austin, TX	1536791610	POTUS	Washington, D.C.
+835261	BaldMan	Austin, TX	45591589	magellanschool	Austin, TX
+835261	BaldMan	Austin, TX	2364637531	MISParents	Austin, TX
+835261	BaldMan	Austin, TX	28138190	MarieHRMaven	Austin
+835261	BaldMan	Austin, TX	15373699	activeprospect	Austin, TX
+835261	BaldMan	Austin, TX	2236640820	medievalpoc	
+61306298	omerkhn	Houston, TX	604940737	HeerJeet	
+61306298	omerkhn	Houston, TX	3448716797	thePSLt20	Pakistan
+61306298	omerkhn	Houston, TX	2273413484	AccentureStrat	Global
+61306298	omerkhn	Houston, TX	2305049443	Sherlock221B	Baker Street, London
+61306298	omerkhn	Houston, TX	50089737	strategyand	New York, NY
+61306298	omerkhn	Houston, TX	2916305152	Snowden	
+61306298	omerkhn	Houston, TX	3245135844	HumaAbedin	New York, NY
+61306298	omerkhn	Houston, TX	3351265452	thePSLt20_	
+61306298	omerkhn	Houston, TX	1937993372	schehrzade	
+61306298	omerkhn	Houston, TX	235900328	HamnaQureshi	Pakistan
+61306298	omerkhn	Houston, TX	1356942170	ColumbiaUEnergy	New York, New York
+61306298	omerkhn	Houston, TX	126592284	hyzaidi	Karachi, Pakistan
+61306298	omerkhn	Houston, TX	2878895652	BetootaAdvocate	Betoota, QLD
+61306298	omerkhn	Houston, TX	127798115	sidraqasim	Mountain View, CA
+61306298	omerkhn	Houston, TX	237548529	humansofny	New York, NY
+61306298	omerkhn	Houston, TX	2517988075	tanehisicoates	Shaolin 
+61306298	omerkhn	Houston, TX	3004122802	patarimusic	Lahore, Pakistan
+61306298	omerkhn	Houston, TX	508961057	ssnaqi	Canada
+61306298	omerkhn	Houston, TX	2988042300	NewsParodyPk	WashRoom
+61306298	omerkhn	Houston, TX	108140114	TechnicallyRon	London NW2
+61306298	omerkhn	Houston, TX	3233992591	M_IrfanOfficial	Lahore, Pakistan
+61306298	omerkhn	Houston, TX	29442313	SenSanders	Vermont/DC
+61306298	omerkhn	Houston, TX	3026603044	MedievalReacts	The Original 
+61306298	omerkhn	Houston, TX	3244965480	WWEUrdu	
+61306298	omerkhn	Houston, TX	1602569372	Madams_Organ	Irrelevant 
+61306298	omerkhn	Houston, TX	8161232	richardbranson	
+61306298	omerkhn	Houston, TX	1636590253	tim_cook	Cupertino
+61306298	omerkhn	Houston, TX	27290104	puruesh	Pale Blue Dot
+61306298	omerkhn	Houston, TX	111738036	iqbaltheba	Hollyweird
+61306298	omerkhn	Houston, TX	2546824212	RantsPakistani	
+61306298	omerkhn	Houston, TX	1877993418	kaleemullah_123	Sacramento, CA
+61306298	omerkhn	Houston, TX	2835886194	colbertlateshow	
+61306298	omerkhn	Houston, TX	3242543454	GoT_Urdu	
+61306298	omerkhn	Houston, TX	25073877	realDonaldTrump	New York, NY
+61306298	omerkhn	Houston, TX	1536791610	POTUS	Washington, D.C.
+61306298	omerkhn	Houston, TX	2783658528	cricingif	
+61306298	omerkhn	Houston, TX	2814927409	PervezKhattakCM	Peshawar
+61306298	omerkhn	Houston, TX	15637375	UTAustin	Austin, Texas
+61306298	omerkhn	Houston, TX	17169320	common	Chicago, IL
+61306298	omerkhn	Houston, TX	399212878	themarkhor	San Francisco / Lahore / Okara
+61306298	omerkhn	Houston, TX	42519612	FloydMayweather	Las Vegas, NV
+61306298	omerkhn	Houston, TX	254098644	MannyPacquiaoTR	Philippines 
+61306298	omerkhn	Houston, TX	1311730003	hennatahirnawaz	wonderland! 
+61306298	omerkhn	Houston, TX	588587397	MehrTarar	Lahore, Pakistan
+61306298	omerkhn	Houston, TX	3109709544	ImranKhanTPI	PM house Bani Gala
+61306298	omerkhn	Houston, TX	384376108	lahorihousewife	Bawarchikhana 
+61306298	omerkhn	Houston, TX	1433730727	mdk_gul	Islamabad
+61306298	omerkhn	Houston, TX	3091471181	_NJamshed	
+61306298	omerkhn	Houston, TX	861083240	BrianLara	Port of Spain, Trinidad 
+61306298	omerkhn	Houston, TX	1344310267	shiblifaraz	
+61306298	omerkhn	Houston, TX	2315591060	SarahBelal_	
+61306298	omerkhn	Houston, TX	88921712	mehreenkasana	New York, NY
+61306298	omerkhn	Houston, TX	1975133460	NasirJamshed_	NOT NASIR JAMSHED.
+61306298	omerkhn	Houston, TX	634929821	UusmanSaqib	
+61306298	omerkhn	Houston, TX	300405606	Saj_PakPassion	
+61306298	omerkhn	Houston, TX	38845076	CherieDamour_	
+61306298	omerkhn	Houston, TX	138649187	dannadano	California
+61306298	omerkhn	Houston, TX	81483163	MiniB622	ny, ny
+61306298	omerkhn	Houston, TX	14819170	madihariaz	
+61306298	omerkhn	Houston, TX	95955871	gunsnroses	here, there & on the air! 
+61306298	omerkhn	Houston, TX	1534167900	Carl_C_Icahn	
+61306298	omerkhn	Houston, TX	2303751216	FiveThirtyEight	New York, NY
+61306298	omerkhn	Houston, TX	628846514	faraz_lhr	Lahore, Pakistan
+61306298	omerkhn	Houston, TX	14652182	hasanminhaj	New York
+61306298	omerkhn	Houston, TX	52365250	Shaistajafri	#Manila, #Philippines 
+61306298	omerkhn	Houston, TX	2718811747	suraiasahar	Toronto, Ontario
+61306298	omerkhn	Houston, TX	27055034	SabrinaSiddiqui	Washington, D.C.
+61306298	omerkhn	Houston, TX	6480682	azizansari	New York, NY
+61306298	omerkhn	Houston, TX	5845492	tomgara	New York
+61306298	omerkhn	Houston, TX	2209478088	NadiaPManzoor	Brooklyn, NY
+61306298	omerkhn	Houston, TX	399433780	najiaashar	Karachi, Pakistan
+61306298	omerkhn	Houston, TX	137207244	AdilNajam	Boston
+61306298	omerkhn	Houston, TX	2804650441	SheikhWaqqas	jhang, Pakistan
+61306298	omerkhn	Houston, TX	1693770787	reema_omer	Lahore, Oxford
+61306298	omerkhn	Houston, TX	1023072078	SoVeryBritish	
+61306298	omerkhn	Houston, TX	35459949	mosharrafzaidi	
+61306298	omerkhn	Houston, TX	245326395	MJibranNasir	Karachi
+61306298	omerkhn	Houston, TX	929072178	SyedaHasan887	Houston, TX
+61306298	omerkhn	Houston, TX	970207298	SenWarren	
+61306298	omerkhn	Houston, TX	72745782	mattaikins	Kabul
+61306298	omerkhn	Houston, TX	20650050	mhsali	Boston
+61306298	omerkhn	Houston, TX	19249328	AnniseParker	Houston, TX
+61306298	omerkhn	Houston, TX	1043386142	BigCall13	Hamilton City, New Zealand
+61306298	omerkhn	Houston, TX	482909242	RohaNadym	Islamabad - Kuwait 
+61306298	omerkhn	Houston, TX	2420020489	TheRealPCB	
+61306298	omerkhn	Houston, TX	47540206	Fareshte	
+61306298	omerkhn	Houston, TX	2319108198	serial	
+61306298	omerkhn	Houston, TX	507637228	ZarlashtFaisal	Neverland 
+61306298	omerkhn	Houston, TX	250418819	Dena	San Francisco
+61306298	omerkhn	Houston, TX	71643224	conradhackett	Washington, DC
+61306298	omerkhn	Houston, TX	25058787	KarlreMarks	London
+61306298	omerkhn	Houston, TX	187838951	asmamk	
+61306298	omerkhn	Houston, TX	340418291	rulajebreal	New York
+61306298	omerkhn	Houston, TX	18395152	FreeLegalVice	
+61306298	omerkhn	Houston, TX	2711388222	HumansofNY_Urdu	Dar-badar.
+61306298	omerkhn	Houston, TX	2794167666	Ezraile	
+61306298	omerkhn	Houston, TX	2692351038	BhuttoZulfikar	
+61306298	omerkhn	Houston, TX	77433748	JavedGhamidi	
+61306298	omerkhn	Houston, TX	16031509	UTexasMcCombs	Austin, TX
+61306298	omerkhn	Houston, TX	325875405	Rahmaabidali	
+61306298	omerkhn	Houston, TX	23818581	VICE	Brooklyn, NY
+61306298	omerkhn	Houston, TX	75944553	NidaKhanNY	NYC & Worldwide 
+61306298	omerkhn	Houston, TX	14353392	Bourdain	In transit . 
+61306298	omerkhn	Houston, TX	110396781	ajplus	
+61306298	omerkhn	Houston, TX	39312997	massahassam	
+61306298	omerkhn	Houston, TX	834911994	REALsaeedajmal	For Pak Contact +923058906700
+61306298	omerkhn	Houston, TX	505757791	ZaraPeeru	Lahore, Pakistan
+61306298	omerkhn	Houston, TX	2766899480	IKFanGirl99	Karachi
+61306298	omerkhn	Houston, TX	1642809697	suhailswarraich	Lahore
+61306298	omerkhn	Houston, TX	477756438	AmberRShamsi	
+61306298	omerkhn	Houston, TX	261310457	SairaWasim	San Jose
+61306298	omerkhn	Houston, TX	16433464	aysharalam	Pakistan
+61306298	omerkhn	Houston, TX	131948686	JJWatt	United States of America
+61306298	omerkhn	Houston, TX	1542533869	thereaIbanksy	we own nothing shared 
+61306298	omerkhn	Houston, TX	17728882	Scheherazade_S	Pakistan
+61306298	omerkhn	Houston, TX	16076032	ggreenwald	
+61306298	omerkhn	Houston, TX	57097104	McConaughey	Earth, Universe
+61306298	omerkhn	Houston, TX	18945029	TexasExes	Austin, Texas
+61306298	omerkhn	Houston, TX	2440112437	MadamMister	Madammister@hotmail.com
+61306298	omerkhn	Houston, TX	1964571728	Benzema	
+61306298	omerkhn	Houston, TX	533085085	MesutOzil1088	England
+61306298	omerkhn	Houston, TX	155659213	Cristiano	Madrid
+61306298	omerkhn	Houston, TX	277520478	samanghanikhan	New York, USA
+61306298	omerkhn	Houston, TX	34945490	AliyaNazki	
+61306298	omerkhn	Houston, TX	255363597	le_Sabre	Jhanda Chichi-Scheme 3-Saddar
+61306298	omerkhn	Houston, TX	18674588	rachshabi	London 
+61306298	omerkhn	Houston, TX	2359926157	CIA	Langley, VA
+61306298	omerkhn	Houston, TX	85636461	MinaSohail	Pakistan
+61306298	omerkhn	Houston, TX	345588852	SheikhImaan	imaan.sheikh (AT) buzzfeed.com
+61306298	omerkhn	Houston, TX	2424341834	Tehreem_Aziz	London Karachi Lahore
+61306298	omerkhn	Houston, TX	2529945680	sabrinatoppa	NYC-bred, Asia-based.
+61306298	omerkhn	Houston, TX	388076619	SurooshAlvi	New York
+61306298	omerkhn	Houston, TX	203827751	BhopalHouse	New Delhi 
+61306298	omerkhn	Houston, TX	40965960	HaseenaAtomBum	Abu Dhabi/Islamabad/Florence
+61306298	omerkhn	Houston, TX	1404590618	HassanRouhani	Tehran, Iran
+61306298	omerkhn	Houston, TX	615983648	SaleemKhanSafi	
+61306298	omerkhn	Houston, TX	293861937	hebaysaid	
+61306298	omerkhn	Houston, TX	583648901	u_hani_taha	Los Angeles / Karachi
+61306298	omerkhn	Houston, TX	76371608	tmabley	
+61306298	omerkhn	Houston, TX	1041453240	AsimBajwaISPR	
+61306298	omerkhn	Houston, TX	326671277	Shazaffatima	
+61306298	omerkhn	Houston, TX	1417829894	iamAhmadshahzad	Lahore, Pakistan
+61306298	omerkhn	Houston, TX	14936211	mondo22856	Go Illini !
+61306298	omerkhn	Houston, TX	2409254406	DaFastestBowler	
+61306298	omerkhn	Houston, TX	378126181	ZarrarKhuhro	Pakistan
+61306298	omerkhn	Houston, TX	505939739	SamanTariq88	Lahore, Pakistan
+61306298	omerkhn	Houston, TX	167319628	MariumCh	Pakistan
+61306298	omerkhn	Houston, TX	15568127	themotleyfool	Alexandria, VA
+61306298	omerkhn	Houston, TX	38496530	ElaheIzadi	Washington, D.C.
+61306298	omerkhn	Houston, TX	5129711	acereporter	United States
+61306298	omerkhn	Houston, TX	26385010	amalkhan	Lahore
+61306298	omerkhn	Houston, TX	273037928	CinnamonCurls	
+61306298	omerkhn	Houston, TX	45452226	henrygayle	
+61306298	omerkhn	Houston, TX	16812787	DwightHoward	Houston, TX
+61306298	omerkhn	Houston, TX	50811932	JHarden13	
+61306298	omerkhn	Houston, TX	38888175	DR34M	
+61306298	omerkhn	Houston, TX	1034496061	itsmeeshashafi	instagram - @meesha.shafi
+24954174	rebelliousjess		3325352778	willrogers76	
+24954174	rebelliousjess		14773982	LivingSocial	Washington, DC
+24954174	rebelliousjess		3421098664	oxinfreeee	
+24954174	rebelliousjess		128639894	dhbizzell	
+24954174	rebelliousjess		569569550	lyft	San Francisco, CA
+24954174	rebelliousjess		3145265107	ShamaeLacosta	
+24954174	rebelliousjess		141601913	WinStarWorld	Thackerville, OK
+24954174	rebelliousjess		3113490066	Penelopepontoon	
+24954174	rebelliousjess		3096531482	prestke1	
+24954174	rebelliousjess		14717197	TPM	NY & DC
+24954174	rebelliousjess		91885007	WenKro71	Cleveland, Ohio
+24954174	rebelliousjess		3045351571	bfe4188f2859423	
+24954174	rebelliousjess		36472219	dentonisd	Denton, Texas
+24954174	rebelliousjess		41371217	DENTONPD	Denton, Texas USA
+24954174	rebelliousjess		766281637	She_and_Me	Amsterdam, NL
+24954174	rebelliousjess		1891806212	AcademicsSay	
+24954174	rebelliousjess		386244525	carrieunderwood	Nashville, TN
+24954174	rebelliousjess		2180211721	court_wisdom	
+24954174	rebelliousjess		34856911	SJBKool	Texasland
+24954174	rebelliousjess		2494931816	cynbyn1	Oklahoma City
+24954174	rebelliousjess		2757414538	jessiecriley	
+24954174	rebelliousjess		49252108	MelFunkJS	New York
+24954174	rebelliousjess		368196789	TheGoodGodAbove	Heaven
+24954174	rebelliousjess		1526864863	Allen_Clifton	Austin, TX
+24954174	rebelliousjess		184155468	rm630610	
+24954174	rebelliousjess		422353054	ProfessorShyguy	Baltimore, MD
+24954174	rebelliousjess		1956044118	Trish_Eve_26	Abilene, TX
+24954174	rebelliousjess		2561886218	RTaitt1	
+24954174	rebelliousjess		2396769884	anotherashley14	Siloam Springs, Arkansas
+24954174	rebelliousjess		847941037	gemni400	abilene tx
+24954174	rebelliousjess		34428253	JLVluvsMoma	The South
+24954174	rebelliousjess		2664755431	flowerkali	
+24954174	rebelliousjess		254830969	Meghan_Trainor	NASHVILLE  - LA- Nantucket
+24954174	rebelliousjess		2480059317	LoveMorningWood	The beautiful South
+24954174	rebelliousjess		2423095903	McKinney_Ave	Dallas, TX 
+24954174	rebelliousjess		569205137	victorlledo	
+24954174	rebelliousjess		34342176	parrygripp	Santa Barbara
+24954174	rebelliousjess		260997460	Equality4You	Minnesota
+24954174	rebelliousjess		21550778	Big12Conference	Irving, TX
+24954174	rebelliousjess		1332667508	jeffdavishome	
+24954174	rebelliousjess		1634096108	Mustangkidd74	Dallas, TX
+24954174	rebelliousjess		195485269	NerfHerder_band	Pre-Order our NEW ALBUM!
+24954174	rebelliousjess		377440790	hotmessmomcom	
+24954174	rebelliousjess		1270367640	tyjohn47	Minneapolis-St. Paul, MN
+24954174	rebelliousjess		62643312	ATTCares	
+24954174	rebelliousjess		838464523	IFLScience	
+24954174	rebelliousjess		516629778	MRJOSHUAHART	Dallas, Texas
+24954174	rebelliousjess		34750064	shanenews	Dallas, Texas
+24954174	rebelliousjess		2546176397	CollumTerri	
+24954174	rebelliousjess		78613092	Staples	Framingham, MA
+24954174	rebelliousjess		15694286	wfaachannel8	Dallas, TX
+24954174	rebelliousjess		15933690	NBCDFW	
+24954174	rebelliousjess		2397005797	lipstklitterati	TexHio
+24954174	rebelliousjess		2456990407	leeannbarnes47	
+24954174	rebelliousjess		1244995100	jkincaid66	
+24954174	rebelliousjess		398713254	TheMal_Content	
+24954174	rebelliousjess		978908012	Fascinatingpics	fascinatingpictures@gmail.com
+24954174	rebelliousjess		41915225	self24	Dallas / LA / Houston / NYC
+24954174	rebelliousjess		414488432	UniteBlueTX	Texas
+24954174	rebelliousjess		2180773250	TribeLyrics	
+24954174	rebelliousjess		88340839	scott_caruso	Casselberry, FL
+24954174	rebelliousjess		18819527	RoamingGnome	
+24954174	rebelliousjess		1270176830	blingmot	
+24954174	rebelliousjess		405674682	TelfordCC	Telford,Mtng Pnt Hse, TF34SH  
+24954174	rebelliousjess		2227757952	EMiBaby68	
+24954174	rebelliousjess		1559209860	LouieHollywood	Hollywood, CA
+24954174	rebelliousjess		26926504	amwiseman	Dallas, TX
+24954174	rebelliousjess		18183018	augustagail	Los Angeles, CA
+24954174	rebelliousjess		402957663	PPFA	All over the world.
+24954174	rebelliousjess		2186755171	aplsmith5	Telford
+24954174	rebelliousjess		41409505	PPIAction	Illinois
+24954174	rebelliousjess		22162854	PPact	USA
+24954174	rebelliousjess		1968153962	VillageBisexal	Fucking Canada, Eh?
+24954174	rebelliousjess		17411800	tiffstreats	Austin, Dallas, Houston, & SA
+24954174	rebelliousjess		834531476	NightlifeDAL	Dallas, Texas
+24954174	rebelliousjess		15271344	n5iln	Monterey Bay area, CA
+24954174	rebelliousjess		2327984401	texasbec426	
+24954174	rebelliousjess		40370317	MattPuckett22	Dallas
+24954174	rebelliousjess		939922981	Madam_President	
+24954174	rebelliousjess		355906128	wendydavis	Fort Worth, TX
+24954174	rebelliousjess		2153295344	SuburbiaFestTX	Plano, TX
+24954174	rebelliousjess		36359791	kroger	United States 
+24954174	rebelliousjess		2283063714	kalilouwho	
+24954174	rebelliousjess		995448348	SecondChanceUp	Texas
+24954174	rebelliousjess		2284111501	JunkNHerTrunk	Texas
+24954174	rebelliousjess		2282985782	dallasjhouston	Abilene, Texas
+24954174	rebelliousjess		245160208	OrangeSocks	Dallas, Texas
+24954174	rebelliousjess		17496274	redroom939	Boston, MA
+24954174	rebelliousjess		335327783	TeenyTruth	We don't own any content.
+24954174	rebelliousjess		37911498	RobertRalph	West Yorkshire UK
+24954174	rebelliousjess		61387936	ATTDeals	USA
+24954174	rebelliousjess		29844683	tye1310	Austin, Texas
+24954174	rebelliousjess		16072699	DanielCotton	
+24954174	rebelliousjess		18728980	VisitAustinTX	Austin, Texas
+24954174	rebelliousjess		14767280	adria_bowman	Edmond, OK
+24954174	rebelliousjess		173732538	woodiebfs	Denton
+24954174	rebelliousjess		509145315	MillerLite	Milwaukee, WI
+24954174	rebelliousjess		524396430	Upworthy	The Internet
+24954174	rebelliousjess		43813291	kingdesquire	Collinsville, Illinois
+24954174	rebelliousjess		407530619	WeldonFTW	Texpatriot in KCMO
+24954174	rebelliousjess		1633788026	AwardShowTaylor	
+24954174	rebelliousjess		1549214761	Matty_Yeshhh	
+24954174	rebelliousjess		1546656000	shygal0000	
+24954174	rebelliousjess		30789400	DentonPolice	Denton, TX
+24954174	rebelliousjess		596102203	wordsporn	
+24954174	rebelliousjess		602317143	SirPatStew	
+24954174	rebelliousjess		39137101	SRWunder	Rock(DUCK!)ford Illinois
+24954174	rebelliousjess		237845487	GeorgeTakei	Broadway - New York, NY
+24954174	rebelliousjess		17696127	kday10	iPhone: 36.113251,-115.166145
+24954174	rebelliousjess		47492706	SuperG24	Longview, texas
+24954174	rebelliousjess		813286	BarackObama	Washington, DC
+24954174	rebelliousjess		1879316400	CaseyYant	
+24954174	rebelliousjess		1914082800	h_mckillip	
+24954174	rebelliousjess		220139397	VincentTyler1	
+24954174	rebelliousjess		138562322	Frank_Maglin	Austin, TX
+24954174	rebelliousjess		266781582	KM_MillerTime	Dallas, TX
+24954174	rebelliousjess		62750519	flamegurl2113	The Pool of Life.
+24954174	rebelliousjess		243771353	doolaford	Plano, TX
+24954174	rebelliousjess		94478086	AmeLouWho	Texas
+24954174	rebelliousjess		1714611553	UglyTeddies	
+24954174	rebelliousjess		14749606	Dropbox	San Francisco, CA
+24954174	rebelliousjess		1122328682	BillASession	Saint Louis, Missouri
+24954174	rebelliousjess		9367082	chrisLrob	Chicago
+24954174	rebelliousjess		1642102639	TheDollytot	
+24954174	rebelliousjess		499928354	LettersToCleo	Boston, MA
+24954174	rebelliousjess		1575792488	CookieRuffRuff	
+24954174	rebelliousjess		1180517418	ReesesRuffRuff	
+24954174	rebelliousjess		415254135	DwayneTPalmer	Dallas, TX
+24954174	rebelliousjess		586671909	vine	
+24954174	rebelliousjess		27718903	rock108chaz	Abilene Texas
+24954174	rebelliousjess		32893832	LCEmbry	Texas
+24954174	rebelliousjess		27554604	ScottClemenson	iPhone: 38.533760,-90.350311
+24954174	rebelliousjess		471472325	PengyBlade	u.k
+24954174	rebelliousjess		353060311	Whataburger	
+24954174	rebelliousjess		338946599	HollyScarlett11	Fort Worth, TX
+24954174	rebelliousjess		45052426	robinbird21	
+24954174	rebelliousjess		877161931	Ninjataurus	Planet Earth (occasionally) 
+24954174	rebelliousjess		27291318	Graygrrrl	D-Town!
+24954174	rebelliousjess		78017388	buddha_210	210 Texas
+24954174	rebelliousjess		1373760486	ohthatJen	California
+24954174	rebelliousjess		43613390	PinkSugar834	Roanoke, VA
+24954174	rebelliousjess		37073087	ODPalmer	Dallas TX
+24954174	rebelliousjess		74449881	LeneWitit	Abilene~~Odessa
+24954174	rebelliousjess		90420314	ActuallyNPH	Manhattanland
+24954174	rebelliousjess		194981755	MillerLightBeer	In a 24 pack.
+24954174	rebelliousjess		818328200	ShaggyRodeo	Denton Texas
+24954174	rebelliousjess		20564501	blackberrysmoke	Atlanta, GA
+24954174	rebelliousjess		249295053	Scambles2113	Over There
+24954174	rebelliousjess		20461298	mark_mckinney	Austin, TX
+24954174	rebelliousjess		245161357	AC0922	Dallas, TX
+24954174	rebelliousjess		116628489	BriBagwell	Texas
+24954174	rebelliousjess		556347614	AlmostSureOfIt	
+24954174	rebelliousjess		1123582585	weesagrace	
+24954174	rebelliousjess		34026527	DnlRchrt	Right Here
+24954174	rebelliousjess		263867490	997KBCY	Abilene, Texas
+24954174	rebelliousjess		314748778	kodymacradio	Battle Creek, MI
+24954174	rebelliousjess		273317692	mistyasparks	Philadelphia, Pa.
+24954174	rebelliousjess		14094741	someecards	New York, NY
+24954174	rebelliousjess		21676915	lizbro_71	
+24954174	rebelliousjess		1039748184	PeachesOnVaca	TEXAS
+24954174	rebelliousjess		1029828030	allie2113	@jaret2113's house
+24954174	rebelliousjess		461513506	BookBub	
+24954174	rebelliousjess		989026507	meggie_renee	
+24954174	rebelliousjess		973111399	linikey	
+24954174	rebelliousjess		20195191	TOADM	Vancouver, BC Canada
+24954174	rebelliousjess		16129920	maddow	New York, NY USA
+24954174	rebelliousjess		106748573	Justcallmeeli	
+24954174	rebelliousjess		311495493	abbyemarie	Clyde, TX
+24954174	rebelliousjess		592948616	WhetselsWearabl	
+24954174	rebelliousjess		74896428	Squashine	somewhere over there 
+24954174	rebelliousjess		727495710	JamesSwedberg	
+24954174	rebelliousjess		42680682	ColleenSoehnlei	Pasadena, Maryland
+24954174	rebelliousjess		764791962	madmadjimmy	
+24954174	rebelliousjess		709979323	AHolloway3190	
+24954174	rebelliousjess		23147864	jcorteziv	TX
+24954174	rebelliousjess		32270254	crisbrenham	Dallas, TX, USA
+24954174	rebelliousjess		161757099	Jsandford24	Dallas, Tx
+24954174	rebelliousjess		230191014	SusanRaeTulsa	Tulsa, OK
+24954174	rebelliousjess		28285029	johnnyrcooper	Fort Worth, TX
+24954174	rebelliousjess		273558323	madeasimmons	Atlanterr, GA
+24954174	rebelliousjess		114130582	PhilthyHamilton	Burleson, TX
+24954174	rebelliousjess		56096637	Blueyes68	
+24954174	rebelliousjess		270927117	crazywhisperer	Texas
+24954174	rebelliousjess		140906120	pookalooptheman	abilene texas
+24954174	rebelliousjess		116559622	TWCBreaking	Atlanta, GA
+24954174	rebelliousjess		466800876	bar14abilene	
+24954174	rebelliousjess		518841927	GrnEydPrincss	RAF Alconbury, UK
+24954174	rebelliousjess		521852592	SparksMcGee44	
+24954174	rebelliousjess		24280904	jbcloud	Abilene, Texas
+24954174	rebelliousjess		400426209	ladyska74	
+24954174	rebelliousjess		380974993	GreenManAbilene	Abilene, Texas USA
+24954174	rebelliousjess		210632431	MCTalcolmX	
+24954174	rebelliousjess		34567726	Zeo2113	Southampton, UK
+24954174	rebelliousjess		302367712	KRsCreations	Abilene, Tx
+24954174	rebelliousjess		311175958	txgirlproblem	Texas on my mind
+24954174	rebelliousjess		202409095	TexasHumor	Texas
+24954174	rebelliousjess		29376356	bodhielfman	
+24954174	rebelliousjess		381816879	Christine4love	On my way to Sane
+24954174	rebelliousjess		46530655	JennaElfman	Instagram/Snapchat: JennaElfman
+24954174	rebelliousjess		197454502	jimmadsen1234	Norman, OK
+24954174	rebelliousjess		329360773	SenoritaStacy	Abilene, TX 
+24954174	rebelliousjess		15040597	atomictom	Los Angeles, CA
+24954174	rebelliousjess		438091663	TerriCollum	
+24954174	rebelliousjess		18133458	scottsimonsWVLA	Los Angeles, CA
+24954174	rebelliousjess		128110677	Dallas_Stars	Dallas, TX
+24954174	rebelliousjess		50514510	andiedanley2626	North Texas
+24954174	rebelliousjess		252263949	free	
+24954174	rebelliousjess		74231747	JennyJohnsonHi5	Houston, TX - Los Angeles, CA
+24954174	rebelliousjess		357754003	MeganThomas23	Weatherford
+24954174	rebelliousjess		129704573	sanchezmachine	abilene texas
+24954174	rebelliousjess		57960386	MightyBlackout	Oxford, UK
+24954174	rebelliousjess		36526729	VikkiPie	California
+24954174	rebelliousjess		61506154	JamesStant	United Kingdom
+24954174	rebelliousjess		295474808	cdwheeler12	
+24954174	rebelliousjess		379938060	ValerieThomas62	
+24954174	rebelliousjess		15808737	rcloud	Abilene, Texas
+24954174	rebelliousjess		67946417	AbileneCVB	Abilene, Texas
+24954174	rebelliousjess		99208969	martyemerick	Pennsylvania
+24954174	rebelliousjess		368141502	KariPreston	San Antonio Texas
+24954174	rebelliousjess		365143076	TexasSmall	
+24954174	rebelliousjess		15705187	lisamariee	Austin, TX
+24954174	rebelliousjess		363952206	UtherTheScourge	Lindsay & Berry's House
+24954174	rebelliousjess		75530240	colterhall	
+24954174	rebelliousjess		643443	Twitterrific	a tree in Dubuque, IA
+24954174	rebelliousjess		20198936	steverosier	Behind your curtains...
+24954174	rebelliousjess		99225123	JessDearrr	Tejas.
+24954174	rebelliousjess		340955751	oldmanbrannan	Abilene, TX
+24954174	rebelliousjess		30291792	robnallen	Abilene, TX
+24954174	rebelliousjess		342333369	WheelerMegs	
+24954174	rebelliousjess		26650386	gstone5044	Oklahoma
+24954174	rebelliousjess		337445860	thereditalics	Kennebunk/OGT
+24954174	rebelliousjess		185001064	mrsjakebrooks10	Texas
+24954174	rebelliousjess		322911582	Slim_Nasty31	
+24954174	rebelliousjess		320982077	kenzgracesky	
+24954174	rebelliousjess		35797910	nenaburg	Sweden
+24954174	rebelliousjess		57930466	mywena	
+24954174	rebelliousjess		151276149	alaninabilene	Abilene, tx
+24954174	rebelliousjess		26777337	JennyBucket	in your head...
+24954174	rebelliousjess		34406500	VydraSays	Nashville, TN
+24954174	rebelliousjess		298724999	PTPGOfficial	Mount Sinai, NY
+24954174	rebelliousjess		23166906	anthonypending	Mt. Sinai NY
+24954174	rebelliousjess		23163968	joepending	Long Island, NY
+24954174	rebelliousjess		293826757	BeardofSolis	
+24954174	rebelliousjess		19622699	strangegirl76	
+24954174	rebelliousjess		295614333	meetya01	Oklahoma
+24954174	rebelliousjess		26246293	fisty92	Arlington, VA
+24954174	rebelliousjess		75343843	BrantleyGilbert	
+24954174	rebelliousjess		284761476	RyanDavis7	Raleigh NC
+24954174	rebelliousjess		1362801	LucyMurray	Dallas, TX
+24954174	rebelliousjess		35767610	jeremydallas	Dallas, TX
+24954174	rebelliousjess		126128349	prathouse	Denton, TX
+24954174	rebelliousjess		19915096	Orbitz	Chicago
+24954174	rebelliousjess		23660235	thepainman	Texas
+24954174	rebelliousjess		29018946	therock108	Abilene, Texas
+24954174	rebelliousjess		93966675	1021Edge	Dallas-Ft. Worth's Alternative
+24954174	rebelliousjess		279469225	RyanOnVacation	TEXAS
+24954174	rebelliousjess		137530492	niteowlent	Abilene, TX
+24954174	rebelliousjess		39266910	RebeccaHBlack	Los Angeles California
+24954174	rebelliousjess		116362925	RawkDonald	Texas
+24954174	rebelliousjess		6017542	BreakingNews	Global
+24954174	rebelliousjess		138631574	anchoredmusic	Denton, Texas
+24954174	rebelliousjess		21222345	visit_arlington	Arlington, Texas
+24954174	rebelliousjess		21427600	963kscs	Dallas/Fort Worth, TX
+24954174	rebelliousjess		249527815	iPhoneTeam	Chicago
+24954174	rebelliousjess		236883543	LeeAnn4747	Abilene T.X
+24954174	rebelliousjess		262936132	EmeraldCityC41	
+24954174	rebelliousjess		29304837	DallasStars	Dallas, TX
+24954174	rebelliousjess		34660324	Biscuit90	
+24954174	rebelliousjess		15688770	RevLinz	Austin, TX
+24954174	rebelliousjess		19401547	PoetrysTruth	Always in my mind
+24954174	rebelliousjess		39826922	Thericca	
+24954174	rebelliousjess		32930690	emberaustin	Texas
+24954174	rebelliousjess		227256740	QuitoDollyrot	Los Angeles, CA
+24954174	rebelliousjess		86330674	sesamestreet	
+24954174	rebelliousjess		28706024	Pink	los angeles
+24954174	rebelliousjess		35761644	basports	Bastrop, Texas
+24954174	rebelliousjess		15222004	lanebryant	United States
+24954174	rebelliousjess		29899836	HighDesertMusic	Los Angeles
+24954174	rebelliousjess		95827311	builtbyninjas	
+24954174	rebelliousjess		62568212	nosrednehttocs	Texas
+24954174	rebelliousjess		94195671	wearepalmdale	Los Angeles, CA
+24954174	rebelliousjess		25830909	aclfestival	Zilker Park, Austin, TX
+24954174	rebelliousjess		180389099	PeopleOnVaca	TEXAS
+24954174	rebelliousjess		79238164	klgandhoda	New York City, NY
+24954174	rebelliousjess		187561351	Sgt_Killface	North Little Rock AR
+24954174	rebelliousjess		15846407	TheEllenShow	California
+24954174	rebelliousjess		170137703	realnannydiary	crib
+24954174	rebelliousjess		41493600	weesmall	Arlington, Virginia
+24954174	rebelliousjess		39593285	TMdave	TEXAS
+24954174	rebelliousjess		17988026	luisdollyrot	Los Angeles, CA \\ Florida 
+24954174	rebelliousjess		18111960	Blackstero	Los Angeles, CA
+24954174	rebelliousjess		20813338	TheDollyrots	Los Angeles, CA
+24954174	rebelliousjess		15275075	kellydollyrot	LA, FL or the road...
+24954174	rebelliousjess		71325220	petespianobar	
+24954174	rebelliousjess		21506437	TFLN	anywhere with cell service
+24954174	rebelliousjess		14782218	kayhanley	Los Angeles via Boston
+24954174	rebelliousjess		56157179	Cappy2113	Jaret's House
+24954174	rebelliousjess		21894160	megan_lee87	
+24954174	rebelliousjess		100536260	Dalen365	
+24954174	rebelliousjess		62173794	glutenfreefreak	Hollywood, CA
+24954174	rebelliousjess		6001502	popantipop	Hollywood 
+24954174	rebelliousjess		137123357	miss_turner	Texas
+24954174	rebelliousjess		58166411	echofon	Palo Alto, CA
+24954174	rebelliousjess		107545409	jezabel1976	
+24954174	rebelliousjess		56115680	getsomepeace	
+24954174	rebelliousjess		58598187	tylerperry	Atlanta, GA
+24954174	rebelliousjess		128133173	DeanaBL	Abilene, Texas
+24954174	rebelliousjess		17954396	BenStrikesBack	Killeen, Texas
+24954174	rebelliousjess		127025934	ThatGirlSapp	Look behind you...
+24954174	rebelliousjess		117838164	Jarinus	Hollywood/ Texas
+24954174	rebelliousjess		26706833	linusdotson	Pasadena, CA
+24954174	rebelliousjess		106130966	CatladyJBKBP	
+24954174	rebelliousjess		80708337	Wagner95	
+24954174	rebelliousjess		49361226	hinjiwar	Tehran
+24954174	rebelliousjess		27881168	crappyrecords	Torrance CA
+24954174	rebelliousjess		35639098	gwise55	Texas
+24954174	rebelliousjess		17499565	MexiGuerita	Abilene, Texas
+24954174	rebelliousjess		23754003	SoupBowlerChris	Denton, Texas
+24954174	rebelliousjess		35937950	erik2113	This ain't San Francisco
+24954174	rebelliousjess		34384008	jaret2113	Texas (even when I am gone)
+24954174	rebelliousjess		20012399	kflay	san francisco, ca
+24954174	rebelliousjess		14965611	mclars	Oakland, CA
+24954174	rebelliousjess		34290249	bfsrocks	Texas, USA
+24954174	rebelliousjess		23337005	Dorilou	Abilene, Texas
+24954174	rebelliousjess		92318045	pruiz81	
+24954174	rebelliousjess		90655368	OpheliaRedstar	Abilene, Texas
+24954174	rebelliousjess		32342859	TarahToney	Burleson, TX
+24954174	rebelliousjess		17919972	taylorswift13	
+24954174	rebelliousjess		18194567	saybra	austin, tx
+24954174	rebelliousjess		25246551	Allison_Kuty	Dallas, Texas
+24954174	rebelliousjess		73961699	txqltr	
+24954174	rebelliousjess		76533593	jccatherine	
+14468574	lgiles	Dallas, TX	9529752	nrmehta	Many Worlds
+14468574	lgiles	Dallas, TX	3840	Jason	94123
+14468574	lgiles	Dallas, TX	816653	TechCrunch	San Francisco, CA
+14468574	lgiles	Dallas, TX	2384071	timoreilly	Oakland, CA
+14468574	lgiles	Dallas, TX	292982620	WiFiJanitor	Lost in thought
+14468574	lgiles	Dallas, TX	454960602	LucasFigg	
+14468574	lgiles	Dallas, TX	35653442	GeneAGetz	National Broadcast
+14468574	lgiles	Dallas, TX	6141132	edbaig	
+14468574	lgiles	Dallas, TX	2546801515	STUonService	collin county
+14468574	lgiles	Dallas, TX	2375904805	CollinGOP	McKinney, Tx
+14468574	lgiles	Dallas, TX	105991499	jpforjp	Plano, TX
+14468574	lgiles	Dallas, TX	237321112	mandywhaley	Austin, Tx
+14468574	lgiles	Dallas, TX	3474929714	linestepr	Bay Area
+14468574	lgiles	Dallas, TX	3318164850	ginniepapen	
+14468574	lgiles	Dallas, TX	856226683	HeatherLCh	Leeds, UK
+14468574	lgiles	Dallas, TX	440939149	jwwax	London
+14468574	lgiles	Dallas, TX	2315728231	TADHack	
+14468574	lgiles	Dallas, TX	223529325	jtelliott66	Dallas, TX
+14468574	lgiles	Dallas, TX	2241334020	CiscoDevNet	
+14468574	lgiles	Dallas, TX	39895056	jdrosen2	New Jersey
+14468574	lgiles	Dallas, TX	63171224	dgood68	Cincinnati
+14468574	lgiles	Dallas, TX	14864663	AaronKlein	Auburn, CA
+14468574	lgiles	Dallas, TX	7918822	joshdmorg	Sacramento, CA
+14468574	lgiles	Dallas, TX	13334762	github	San Francisco, CA
+14468574	lgiles	Dallas, TX	15936194	twilio	San Francisco, CA
+14468574	lgiles	Dallas, TX	5760052	jsgoecke	Half Moon Bay, CA
+14468574	lgiles	Dallas, TX	100632457	Tropo	San Francisco, CA
+14468574	lgiles	Dallas, TX	16242081	bhorowitz	Menlo Park, CA
+14470958	amanelis		3245077669	NozhRobbie	
+14470958	amanelis		2492533687	Fuckabox	San Francisco
+14470958	amanelis		20642645	ngadventure	New York City
+14470958	amanelis		218966082	whitneybradbrry	Golden, Co
+14470958	amanelis		24542695	AnthonyAttalla	Detroit // Chicago
+14470958	amanelis		389082986	ChadCopelandAIR	SEATTLE, WA
+14470958	amanelis		37455319	joekindkid	Berkeley, Las vegas, Catalunya
+14470958	amanelis		15974415	paulina_dao	San Francisco, CA
+14470958	amanelis		9279	Tawheed	San Francisco, CA
+14470958	amanelis		11740902	tferriss	Global
+14470958	amanelis		146568358	climberyogi	Boulder, CO
+14470958	amanelis		978634422	MeganPNeary	
+14470958	amanelis		18220761	joolyhart	Boulder, CO
+14470958	amanelis		1513838916	joelbear	Los Angeles 
+14470958	amanelis		454914469	ikoniaris	Greece
+14470958	amanelis		445942000	michelleklam	
+14470958	amanelis		6344032	UnaCatalina	san Francisco
+14470958	amanelis		5643432	levicole	iPhone: 36.148441,-86.697327
+14470958	amanelis		2208027565	ProductHunt	San Francisco, CA
+14470958	amanelis		8940282	dsb	san francisco
+14470958	amanelis		92242799	lizardinthewire	Bay Area, CA
+14470958	amanelis		1217189917	amber_ht	Chicago, IL
+14470958	amanelis		820585	baratunde	Brooklyn, NY
+14470958	amanelis		32147688	hilaryoj	Philadelphia, PA
+14470958	amanelis		183749519	paulg	
+14470958	amanelis		14957721	ammmir	San Francisco, CA
+14470958	amanelis		161155176	noahrsg	San Francisco
+14470958	amanelis		15818962	beninato	Los Altos, CA
+14470958	amanelis		383017585	LaureenEdmiston	San Francisco
+14470958	amanelis		14137929	blumenfeld	
+14470958	amanelis		6823692	jasonong	Singapore, SF Bay Area
+14470958	amanelis		17265257	tedkraus	Mountain View, CA
+14470958	amanelis		33986383	gogobre	San Francisco, CA
+14470958	amanelis		171778706	theresamanelis	California
+14470958	amanelis		8115462	steph_hay	dc
+14470958	amanelis		328709281	GraceElizabethO	
+14470958	amanelis		21828729	niket	
+14470958	amanelis		11540212	jaymstr	Santa Monica, CA
+14470958	amanelis		77175478	shyamagolden	Brooklyn, NY
+14470958	amanelis		14455637	justinthiele	Portland, Oregon
+14470958	amanelis		5469512	micah	San Francisco, CA
+14470958	amanelis		16478839	jdeeden	Brooklyn, NY
+14470958	amanelis		126936795	warmwaffle	San Antonio, TX
+14470958	amanelis		629903	marialy	San Francisco
+14470958	amanelis		14416798	alexbaldwin	San Francisco, CA
+27054109	BlakeColeman08	College Station, TX	75641903	carrieffisher	Los Angeles & London
+27054109	BlakeColeman08	College Station, TX	48867746	TrendCEDer	
+27054109	BlakeColeman08	College Station, TX	304679484	HamillHimself	
+27054109	BlakeColeman08	College Station, TX	1730742787	AcieLawIV	Dallas, TX 
+27054109	BlakeColeman08	College Station, TX	112511880	Fallout	Vault-Tec Industries HQ
+27054109	BlakeColeman08	College Station, TX	23645599	bethesda	Rockville, MD
+27054109	BlakeColeman08	College Station, TX	625022363	GillianA	London
+27054109	BlakeColeman08	College Station, TX	1536791610	POTUS	Washington, D.C.
+27054109	BlakeColeman08	College Station, TX	3096642344	thexfiles	FOX
+27054109	BlakeColeman08	College Station, TX	100322679	SophieT	
+27054109	BlakeColeman08	College Station, TX	3033103596	EAStarWars	California
+27054109	BlakeColeman08	College Station, TX	57429511	Aggie_Baseball	Olsen Field at Blue Bell Park
+27054109	BlakeColeman08	College Station, TX	43989162	Ronnie2K	Novato, CA
+27054109	BlakeColeman08	College Station, TX	399477919	bradybullard	
+27054109	BlakeColeman08	College Station, TX	1023096199	HouseofCards	Washington, D.C.
+27054109	BlakeColeman08	College Station, TX	371525250	PhilLeFevre	
+27054109	BlakeColeman08	College Station, TX	23505298	TheMasters	Augusta, GA
+27054109	BlakeColeman08	College Station, TX	76997832	zachbraff	
+27054109	BlakeColeman08	College Station, TX	558694735	TracyTreps	
+27054109	BlakeColeman08	College Station, TX	50057714	ReedRowdies	College Station, Texas
+27054109	BlakeColeman08	College Station, TX	586032653	Deadline	Hollywood, USA
+27054109	BlakeColeman08	College Station, TX	17919972	taylorswift13	
+27054109	BlakeColeman08	College Station, TX	574137295	ChuckRosales	College Station, TX
+27054109	BlakeColeman08	College Station, TX	75718821	locky2525	
+27054109	BlakeColeman08	College Station, TX	2911327785	ItsGTBACowboy	
+27054109	BlakeColeman08	College Station, TX	2414834689	KinjaDeals	
+27054109	BlakeColeman08	College Station, TX	2852755160	CoachCyprien	
+27054109	BlakeColeman08	College Station, TX	1337291258	garthbrooks	Nashville, TN
+27054109	BlakeColeman08	College Station, TX	195120891	GiggemMoore	Austin, Texas
+27054109	BlakeColeman08	College Station, TX	813127177	nikki198907	
+27054109	BlakeColeman08	College Station, TX	42787249	RGBIII	Clutch City
+27054109	BlakeColeman08	College Station, TX	2172890536	AmyJanac	
+27054109	BlakeColeman08	College Station, TX	2375377284	TinyTNG	
+27054109	BlakeColeman08	College Station, TX	920104904	bad_robot	Santa Monica, CA
+27054109	BlakeColeman08	College Station, TX	240502579	OrlandoInformer	Orlando, FL
+27054109	BlakeColeman08	College Station, TX	28406270	kumailn	Los Angeles
+27054109	BlakeColeman08	College Station, TX	15573174	NBA2K	Novato, CA
+27054109	BlakeColeman08	College Station, TX	178812809	IAMLenaHeadey	
+27054109	BlakeColeman08	College Station, TX	27457788	KevinSpacey	London - NYC - LA
+27054109	BlakeColeman08	College Station, TX	622993275	CrapTaxidermy	CrapTaxidermy@Gmail.com
+27054109	BlakeColeman08	College Station, TX	349816997	maxseddon	berlin
+27054109	BlakeColeman08	College Station, TX	774187063	BuzzFeedFood	New York, NY
+27054109	BlakeColeman08	College Station, TX	1278793410	KotakuDeals	NYC
+27054109	BlakeColeman08	College Station, TX	43585581	RoFloESPN	
+27054109	BlakeColeman08	College Station, TX	38980288	CoRo805	Houston & Baytown, TX
+27054109	BlakeColeman08	College Station, TX	878606004	Redneckjayrigs	
+27054109	BlakeColeman08	College Station, TX	1548695041	aggiefblife	College Station, TX
+27054109	BlakeColeman08	College Station, TX	252470286	JimStarkBalla	Htown
+27054109	BlakeColeman08	College Station, TX	1695278689	BarbieYell	College Station, TX
+27054109	BlakeColeman08	College Station, TX	337405519	RichardDreyfuss	
+27054109	BlakeColeman08	College Station, TX	332296772	thebestbuys	College Station, TX
+27054109	BlakeColeman08	College Station, TX	11928542	Kotaku	
+27054109	BlakeColeman08	College Station, TX	167466653	fullback_38	
+27054109	BlakeColeman08	College Station, TX	29307665	ascarborough	Texas or on a plane
+27054109	BlakeColeman08	College Station, TX	1135889778	klschlomer	
+27054109	BlakeColeman08	College Station, TX	483192121	TheWookieeRoars	Kashyyyk
+27054109	BlakeColeman08	College Station, TX	1469989344	TeamCoachBuzz	Blacksburg, VA
+27054109	BlakeColeman08	College Station, TX	354935734	D_Wood12	College Station, Tx
+27054109	BlakeColeman08	College Station, TX	37216965	JakeSpavital	College Station, TX
+27054109	BlakeColeman08	College Station, TX	94678391	snowsbbq	Lexington Texas
+27054109	BlakeColeman08	College Station, TX	613626869	BryanSinger	Hollywood, CA
+27054109	BlakeColeman08	College Station, TX	74759560	BBQsnob	Dallas, TX
+27054109	BlakeColeman08	College Station, TX	226399833	callybry	Memphis, TN
+27054109	BlakeColeman08	College Station, TX	26582656	adampally	NY/LA
+27054109	BlakeColeman08	College Station, TX	1113167976	robinwilliams	San Francisco, CA
+27054109	BlakeColeman08	College Station, TX	89503894	oliviawilde	Brooklyn
+27054109	BlakeColeman08	College Station, TX	84447226	kaitlin_olson	los angeles
+27054109	BlakeColeman08	College Station, TX	36072985	BrooklynDecker	Austin,TX
+27054109	BlakeColeman08	College Station, TX	21447363	katyperry	
+27054109	BlakeColeman08	College Station, TX	1020058453	BuzzFeedNews	
+27054109	BlakeColeman08	College Station, TX	502135911	Nick_Offerman	California
+27054109	BlakeColeman08	College Station, TX	14771122	WillSasso	Los Angeles
+27054109	BlakeColeman08	College Station, TX	59949396	AnnaKendrick47	Location: probably by the food
+27054109	BlakeColeman08	College Station, TX	115814829	GooseIsland	Chicago, IL
+27054109	BlakeColeman08	College Station, TX	1129322094	hab_214	Maple Valley, WA
+27054109	BlakeColeman08	College Station, TX	385429833	sswjpw	
+27054109	BlakeColeman08	College Station, TX	248696148	luvyablue74	Sugar Land, TX
+27054109	BlakeColeman08	College Station, TX	20705412	KBTXWeather	Bryan/College Station
+27054109	BlakeColeman08	College Station, TX	543652283	PaigeJo8	
+27054109	BlakeColeman08	College Station, TX	342165503	JManziel2	Cleveland
+27054109	BlakeColeman08	College Station, TX	288429319	Agshoeman	College Station, TX
+27054109	BlakeColeman08	College Station, TX	14856602	TAMUCodeMaroon	College Station
+27054109	BlakeColeman08	College Station, TX	65119327	carsonf08	
+27054109	BlakeColeman08	College Station, TX	20106852	starwars	
+27054109	BlakeColeman08	College Station, TX	76987599	Fehertwit	Dallas, Texas
+27054109	BlakeColeman08	College Station, TX	24926933	AlanShipnuck	Between Pebble and Pasatiempo.
+27054109	BlakeColeman08	College Station, TX	74712538	PaulMcCartney	England
+27054109	BlakeColeman08	College Station, TX	367252035	RJW_1981	
+27054109	BlakeColeman08	College Station, TX	790136510	KirkHerbstreit	
+27054109	BlakeColeman08	College Station, TX	216764675	tlibb	
+27054109	BlakeColeman08	College Station, TX	414846931	chaseacrawford	DC
+27054109	BlakeColeman08	College Station, TX	185314895	victoriabeckham	London
+27054109	BlakeColeman08	College Station, TX	435802919	GeriHalliwell	I love music
+27054109	BlakeColeman08	College Station, TX	15473958	MarsCuriosity	Gale Crater, Mars
+27054109	BlakeColeman08	College Station, TX	114094405	shaneduff12	Houston
+27054109	BlakeColeman08	College Station, TX	186112720	mrshaleyclark	
+27054109	BlakeColeman08	College Station, TX	362902644	RoHan_Solo_	
+27054109	BlakeColeman08	College Station, TX	35852402	PistolPete2496	College Station TEXAS
+27054109	BlakeColeman08	College Station, TX	71023061	CollegeGameDay	At a campus near you
+27054109	BlakeColeman08	College Station, TX	28665877	alexmorgan13	
+27054109	BlakeColeman08	College Station, TX	75974281	SamuelLJackson	
+27054109	BlakeColeman08	College Station, TX	407458630	TAMUequipment	College Station, TX
+27054109	BlakeColeman08	College Station, TX	189173144	12thManRusty	College Station, Texas
+27054109	BlakeColeman08	College Station, TX	40308406	12thManFndtn	Texas A&M University
+27054109	BlakeColeman08	College Station, TX	589337257	TGHErica	
+27054109	BlakeColeman08	College Station, TX	612366711	TGHOracle	The Glass House
+27054109	BlakeColeman08	College Station, TX	589413945	TGHStephanie	
+27054109	BlakeColeman08	College Station, TX	589376025	TGHAndrea	
+27054109	BlakeColeman08	College Station, TX	589446249	TGHKevin	
+27054109	BlakeColeman08	College Station, TX	589415679	TGHJeffrey	
+27054109	BlakeColeman08	College Station, TX	7452872	edsbs	Tlachichuca, Puebla
+27054109	BlakeColeman08	College Station, TX	148577972	EazyKnowsBest	7sbackkk, TX
+27054109	BlakeColeman08	College Station, TX	510322847	_ZebCarter	
+27054109	BlakeColeman08	College Station, TX	241382835	prattprattpratt	
+27054109	BlakeColeman08	College Station, TX	15666380	hardwick	Lawss Angleez
+27054109	BlakeColeman08	College Station, TX	17074822	dariusrucker	Charleston, SC
+27054109	BlakeColeman08	College Station, TX	252243086	HootieTweets	
+27054109	BlakeColeman08	College Station, TX	92411234	MadTacoTX	404 Jane Stree Suite 400
+27054109	BlakeColeman08	College Station, TX	270702135	mkrather	College Station, TX 
+27054109	BlakeColeman08	College Station, TX	223871588	rachaelL08	
+27054109	BlakeColeman08	College Station, TX	74231747	JennyJohnsonHi5	Houston, TX - Los Angeles, CA
+27054109	BlakeColeman08	College Station, TX	97520922	TravelzooSF	San Francisco
+27054109	BlakeColeman08	College Station, TX	14825399	Travelzoo	New York, NY
+27054109	BlakeColeman08	College Station, TX	22829525	UniWatch	Brooklyn, NY
+27054109	BlakeColeman08	College Station, TX	7212562	SouthwestAir	Dallas, Texas
+27054109	BlakeColeman08	College Station, TX	16999693	ShellHouOpen	Houston
+27054109	BlakeColeman08	College Station, TX	26578816	golf_com	New York City
+27054109	BlakeColeman08	College Station, TX	14063426	PGATOUR	Ponte Vedra Beach, FL
+40686477	gr8whytetaylor	Nashville to LA	11912362	WORLDSTAR	USA
+40686477	gr8whytetaylor	Nashville to LA	168913538	bloodpop	Los Angeles
+40686477	gr8whytetaylor	Nashville to LA	17815249	mikechester	Los Angeles, CA
+40686477	gr8whytetaylor	Nashville to LA	34368385	HITSDD	Los Angeles
+40686477	gr8whytetaylor	Nashville to LA	4004861506	ShiningLightNow	Los Angeles, CA
+40686477	gr8whytetaylor	Nashville to LA	102872654	Savan_Kotecha	www.facebook.com/kananisongs
+40686477	gr8whytetaylor	Nashville to LA	104249617	AAMManagement	NYC / LA / TN / UK
+40686477	gr8whytetaylor	Nashville to LA	193177014	GrassFedMGMT	LA-Toronto
+40686477	gr8whytetaylor	Nashville to LA	27397705	hillydilly	
+40686477	gr8whytetaylor	Nashville to LA	635499128	wearestereofox	Berlin / the rest of the world
+40686477	gr8whytetaylor	Nashville to LA	3318079946	SadMoneyMusic	Los Angeles, CA
+40686477	gr8whytetaylor	Nashville to LA	90573497	NolanLambroza	Los Angeles
+40686477	gr8whytetaylor	Nashville to LA	2858916762	milkhoneyla	
+40686477	gr8whytetaylor	Nashville to LA	1350786174	swiftlyhes	h/4
+40686477	gr8whytetaylor	Nashville to LA	33578424	UniStudios	Universal City, CA
+40686477	gr8whytetaylor	Nashville to LA	52507949	HorrorNights	Universal Studios Hollywood
+40686477	gr8whytetaylor	Nashville to LA	25099840	ColumbiaUK	UK
+40686477	gr8whytetaylor	Nashville to LA	200913899	HilaryDuff	lala land&chilly willy nyc 
+40686477	gr8whytetaylor	Nashville to LA	13215102	idolator	worldwide
+40686477	gr8whytetaylor	Nashville to LA	130251111	Azita	New York City
+40686477	gr8whytetaylor	Nashville to LA	472967330	ThislsWow	Worldwide
+40686477	gr8whytetaylor	Nashville to LA	20286164	capitolstudios	Hollywood CA
+40686477	gr8whytetaylor	Nashville to LA	1154917790	harvest_records	Hollywood. California
+40686477	gr8whytetaylor	Nashville to LA	94270213	thepopmanifesto	
+40686477	gr8whytetaylor	Nashville to LA	66827704	Space15Twenty	Los Angeles
+40686477	gr8whytetaylor	Nashville to LA	855527822	HOLYCHILD	LA
+40686477	gr8whytetaylor	Nashville to LA	57735579	Zelladay	USA 
+40686477	gr8whytetaylor	Nashville to LA	318531174	TheRyanAdams	Los Angeles CA
+40686477	gr8whytetaylor	Nashville to LA	16380610	RocNation	NYC
+40686477	gr8whytetaylor	Nashville to LA	3298226894	QuestionMarkPod	United States
+40686477	gr8whytetaylor	Nashville to LA	70461418	Dede_Watson	Dallas, Tx
+40686477	gr8whytetaylor	Nashville to LA	2885489051	UnileverWorld	London
+40686477	gr8whytetaylor	Nashville to LA	15399271	carlryan	Los Angeles, CA
+40686477	gr8whytetaylor	Nashville to LA	15811181	amoebamusic	Berkeley, SF, LA
+40686477	gr8whytetaylor	Nashville to LA	29850145	VillageStudios	West Los Angeles, CA
+40686477	gr8whytetaylor	Nashville to LA	3233018887	think_it_up	
+40686477	gr8whytetaylor	Nashville to LA	32163210	fabianprado	Houston, Texas
+40686477	gr8whytetaylor	Nashville to LA	19454858	Astralwerks	New York, NY
+40686477	gr8whytetaylor	Nashville to LA	3312932167	WaxRecordFair	Hollywood, Los Angeles
+40686477	gr8whytetaylor	Nashville to LA	238826783	Beats4LA	Los Angeles
+40686477	gr8whytetaylor	Nashville to LA	19043237	cherrytreerec	Los Angeles, CA
+40686477	gr8whytetaylor	Nashville to LA	27725199	RitaOra	London
+40686477	gr8whytetaylor	Nashville to LA	18156146	sofifii	
+40686477	gr8whytetaylor	Nashville to LA	423463705	FirstAccessEnt	London
+40686477	gr8whytetaylor	Nashville to LA	26589987	serenawilliams	Somewhere over the Rainbow
+40686477	gr8whytetaylor	Nashville to LA	45709328	halsey	
+40686477	gr8whytetaylor	Nashville to LA	23741531	RubyRose	Los Angeles, Melbourne
+40686477	gr8whytetaylor	Nashville to LA	50115087	NASA_Johnson	Houston, TX
+40686477	gr8whytetaylor	Nashville to LA	11348282	NASA	
+40686477	gr8whytetaylor	Nashville to LA	65647594	StationCDRKelly	International Space Station
+40686477	gr8whytetaylor	Nashville to LA	266697434	KaraRBrown	Los Angeles
+40686477	gr8whytetaylor	Nashville to LA	171433728	busbee	Glendale, CA
+40686477	gr8whytetaylor	Nashville to LA	606770013	odesza	Seattle, WA
+40686477	gr8whytetaylor	Nashville to LA	90772628	LittleDragon	Gothenburg, Sweden
+40686477	gr8whytetaylor	Nashville to LA	148239546	KROQpromo	Los Angeles
+40686477	gr8whytetaylor	Nashville to LA	2653189837	WAYFMovie	
+40686477	gr8whytetaylor	Nashville to LA	1096941684	taylortickets	
+40686477	gr8whytetaylor	Nashville to LA	101347784	colinlockey	Nashville, TN
+40686477	gr8whytetaylor	Nashville to LA	24245649	AquariumPacific	Long Beach, California
+40686477	gr8whytetaylor	Nashville to LA	2526109794	whissellmusic	Nashville, TN
+40686477	gr8whytetaylor	Nashville to LA	2835962353	latelateshow	
+40686477	gr8whytetaylor	Nashville to LA	2316403410	PumpRestaurant	West Hollywood, CA
+40686477	gr8whytetaylor	Nashville to LA	2774024936	WetHot	Camp Firewood, 1981
+40686477	gr8whytetaylor	Nashville to LA	590092277	EPEntertainment	Worldwide
+15520910	chsband	Frisco, TX	24252117	friscoisd	Frisco, Texas
+15520910	chsband	Frisco, TX	151971618	titangolf	Frisco TX 
+15520910	chsband	Frisco, TX	815734502	Cen10News	
+15520910	chsband	Frisco, TX	41388999	uiltexas	Austin, TX
+15520910	chsband	Frisco, TX	118956202	LSHS_Band	Frisco, TX
+15520910	chsband	Frisco, TX	1454448536	friscohighband	
+15520910	chsband	Frisco, TX	2935035870	Cen10HOSA	
+15520910	chsband	Frisco, TX	46890936	byrontx	McKinney, TX
+15520910	chsband	Frisco, TX	2773535083	TitansVball	
+15520910	chsband	Frisco, TX	2730089168	Cen10Orchestra	Frisco, TX
+15520910	chsband	Frisco, TX	19715009	whsband	Frisco, Texas
+15520910	chsband	Frisco, TX	2338682220	IndependenceHSB	Frisco, TX
+15520910	chsband	Frisco, TX	1172995730	music1sttx	DFW
+15520910	chsband	Frisco, TX	3240080138	sweetwhaat	Frisco, TX
+15520910	chsband	Frisco, TX	2569838942	cen10sweeties	
+15520910	chsband	Frisco, TX	239696159	CHSTitanSball	Frisco, Texas 75035
+15520910	chsband	Frisco, TX	1253123593	CHS_titansoccer	Frisco, TX
+15520910	chsband	Frisco, TX	2767868581	CHSTitansStuCo	Frisco, TX
+15520910	chsband	Frisco, TX	433493961	CentennialYL	Frisco, TX
+15520910	chsband	Frisco, TX	169700771	ClarkBand	Frisco, TX
+15520910	chsband	Frisco, TX	609953150	WeRTitanNation	Frisco, TX 
+14472776	ashbrown	SF | NYC | RDU | SD	26411617	kelswalker10	new york, ny
+14472776	ashbrown	SF | NYC | RDU | SD	40086883	SEUAlumni	Austin, TX
+14472776	ashbrown	SF | NYC | RDU | SD	57205756	alexiwasser	Hollywood
+14472776	ashbrown	SF | NYC | RDU | SD	101333534	ChaseRiceMusic	Nashville, America
+14472776	ashbrown	SF | NYC | RDU | SD	14790899	DierksBentley	on a bus called goldie
+14472776	ashbrown	SF | NYC | RDU | SD	25003822	joeziemer	New York, NY
+14472776	ashbrown	SF | NYC | RDU | SD	80335962	sfiegerman	New York
+14472776	ashbrown	SF | NYC | RDU | SD	31458684	pimmfox	New York
+14472776	ashbrown	SF | NYC | RDU | SD	171567873	alistairmbarr	San Francisco
+14472776	ashbrown	SF | NYC | RDU | SD	61387670	BrandiGlanville	lala land
+14472776	ashbrown	SF | NYC | RDU | SD	179969341	scottdobro	San Francisco, CA
+14472776	ashbrown	SF | NYC | RDU | SD	63520529	breeshirvell	New York
+14472776	ashbrown	SF | NYC | RDU | SD	94881656	monicamkim	New York, NY
+14472776	ashbrown	SF | NYC | RDU | SD	15358329	ChrisYoungMusic	Nashville
+14472776	ashbrown	SF | NYC | RDU | SD	12480032	jacob	San Francisco
+14472776	ashbrown	SF | NYC | RDU | SD	216463434	bhavinator	Fremont, CA
+14472776	ashbrown	SF | NYC | RDU | SD	16672403	theauthentikate	
+14472776	ashbrown	SF | NYC | RDU | SD	1402166594	wcpsarah	
+14472776	ashbrown	SF | NYC | RDU | SD	10944002	leweb	Paris
+14472776	ashbrown	SF | NYC | RDU | SD	202724099	dunn	NYC
+14472776	ashbrown	SF | NYC | RDU | SD	17145499	timcarman	Washington D.C.
+14472776	ashbrown	SF | NYC | RDU | SD	24756814	TopShelfWBJ	Washington, DC
+14472776	ashbrown	SF | NYC | RDU | SD	16205941	bylinemjf	Falls Church, VA
+14472776	ashbrown	SF | NYC | RDU | SD	28725171	anoyes	San Francisco, CA
+14472776	ashbrown	SF | NYC | RDU | SD	21136656	skylervm	San Francisco, CA
+14472776	ashbrown	SF | NYC | RDU | SD	15987690	lagorio	New York City
+14472776	ashbrown	SF | NYC | RDU | SD	28743430	rhettford	iPhone: 37.426304,-122.079422
+14472776	ashbrown	SF | NYC | RDU | SD	14191945	Lammerding	San Francisco
+14472776	ashbrown	SF | NYC | RDU | SD	5711	mjyazzie	San Francisco, CA
+14472776	ashbrown	SF | NYC | RDU | SD	18809624	jennifer	NYC + London
+14472776	ashbrown	SF | NYC | RDU | SD	86114000	DaniFankhauser	San Francisco, CA
+14472776	ashbrown	SF | NYC | RDU | SD	45670711	ScentAir	Charlotte, NC
+14472776	ashbrown	SF | NYC | RDU | SD	47815365	joshopenlate	New York City
+14472776	ashbrown	SF | NYC | RDU | SD	16298723	KevTracy	Staten Island, NY
+14472776	ashbrown	SF | NYC | RDU | SD	430371537	trueandcompany	San Francisco
+14472776	ashbrown	SF | NYC | RDU | SD	248524701	chrystaolson	Los Angeles
+14472776	ashbrown	SF | NYC | RDU | SD	69356392	onemedical	Boston/Chi/DC/LA/NYC/SF/PHX
+14472776	ashbrown	SF | NYC | RDU | SD	692023	westcoastbill	37.77652,-122.408265
+14472776	ashbrown	SF | NYC | RDU | SD	201831678	milkbarstore	nyc + toronto + dc
+14472776	ashbrown	SF | NYC | RDU | SD	735983	gmc	
+62707725	JHollywoood	San Antonio, TX	3296323500	stitcheddrummer	United States
+62707725	JHollywoood	San Antonio, TX	3548447122	Kimberly_OED	
+62707725	JHollywoood	San Antonio, TX	39815004	CravingCarmen	The Interwebs.
+62707725	JHollywoood	San Antonio, TX	20726460	SexWithEmily	
+62707725	JHollywoood	San Antonio, TX	37612666	Lux_Suicide	NY
+62707725	JHollywoood	San Antonio, TX	3224883495	SgJacqueline	Brazil
+62707725	JHollywoood	San Antonio, TX	2306888959	BlackBarberCuts	Barber Shop
+62707725	JHollywoood	San Antonio, TX	19811130	Dommin	Los Angeles
+62707725	JHollywoood	San Antonio, TX	543640587	katsandcrows	London baby!
+62707725	JHollywoood	San Antonio, TX	1594333910	roomorgue	Bury
+62707725	JHollywoood	San Antonio, TX	27386419	VividVivka	Los Angeles / Det[riot]
+62707725	JHollywoood	San Antonio, TX	19569404	iwabo	
+62707725	JHollywoood	San Antonio, TX	3131368200	30SecKnockouts	18+ content
+62707725	JHollywoood	San Antonio, TX	3192564156	courtneyiwabo	Victoria, British Columbia
+62707725	JHollywoood	San Antonio, TX	2624640272	YuxiSuicide	
+62707725	JHollywoood	San Antonio, TX	3041702921	SaturnSuicide	
+62707725	JHollywoood	San Antonio, TX	170750213	CervenaFox	London
+62707725	JHollywoood	San Antonio, TX	955885435	BeckyLynchWWE	
+62707725	JHollywoood	San Antonio, TX	42663408	CarmellaWWE	Staten Island, NY
+62707725	JHollywoood	San Antonio, TX	147023972	AlexaBliss_WWE	My Instagram 
+62707725	JHollywoood	San Antonio, TX	147023972	AlexaBliss_WWE	My Instagram 
+62707725	JHollywoood	San Antonio, TX	1725881869	chayseblack	valenwood
+15694224	bloom_comm	Austin, TX	16887429	CapitalFactory	Austin, Texas
+15694224	bloom_comm	Austin, TX	466442413	SocialInSeattle	Seattle, WA
+15694224	bloom_comm	Austin, TX	142784471	AustinYMCA	Austin, TX
+15694224	bloom_comm	Austin, TX	257679670	YMCAAustinNW	Austin, Texas
+15694224	bloom_comm	Austin, TX	223052744	FashionProjct	
+15694224	bloom_comm	Austin, TX	17161832	jcanadayaustin	Austin, TX
+15694224	bloom_comm	Austin, TX	210503960	DrinkChia	Florida
+15694224	bloom_comm	Austin, TX	194135331	mbseid	San Francisco
+15694224	bloom_comm	Austin, TX	189548104	pj_costello	SF Bay Area
+15694224	bloom_comm	Austin, TX	2160976531	GivingSL360	New York, NY
+15694224	bloom_comm	Austin, TX	33901072	ViolinRichmond	Dallas, TX 
+15694224	bloom_comm	Austin, TX	1056469502	ChloeScheller	Austin, Texas
+15694224	bloom_comm	Austin, TX	16318652	TWCNewsAustin	Austin, Texas
+15694224	bloom_comm	Austin, TX	44513878	TexasTribune	Austin, Texas
+15694224	bloom_comm	Austin, TX	14787980	klru	Austin, Texas
+15694224	bloom_comm	Austin, TX	14337705	AustinChronicle	Austin, TX
+15694224	bloom_comm	Austin, TX	369031482	Austin_Police	Austin, TX
+15694224	bloom_comm	Austin, TX	26298334	CapMetroATX	Austin, TX
+15694224	bloom_comm	Austin, TX	40994985	austintexasgov	Austin, Texas
+15694224	bloom_comm	Austin, TX	309414541	WebThriftStore	New York, NY
+15694224	bloom_comm	Austin, TX	14736687	MLFNOW	Austin, Texas
+15694224	bloom_comm	Austin, TX	554468819	ArtAcevedo	Austin, Texas
+15694224	bloom_comm	Austin, TX	14687293	SalArmy	Nashville, TN
+15694224	bloom_comm	Austin, TX	16654336	komenaustin	Austin, TX
+15694224	bloom_comm	Austin, TX	17444282	RMHCCTX	Austin, TX
+15694224	bloom_comm	Austin, TX	64828011	SafePlace_ATX	Austin, TX
+15694224	bloom_comm	Austin, TX	33389844	SalArmyAustin	Austin, Texas
+15694224	bloom_comm	Austin, TX	75056216	AustinHabitat	Austin, Texas
+15694224	bloom_comm	Austin, TX	66611685	RowFree	Austin, TX
+15694224	bloom_comm	Austin, TX	257066015	EasterSealsCTX	Austin, Texas
+15694224	bloom_comm	Austin, TX	229128761	PremalinAustin	Austin
+15694224	bloom_comm	Austin, TX	123547827	Develongevity	Austin, Tx
+15694224	bloom_comm	Austin, TX	18943488	kateweidaw	Austin, Texas
+15694224	bloom_comm	Austin, TX	92332527	MKanin	Austin, Tx
+15694224	bloom_comm	Austin, TX	20626103	eramshaw	Austin, TX
+15694224	bloom_comm	Austin, TX	17433998	brandigrissom	Austin, TX
+15694224	bloom_comm	Austin, TX	19576894	ShannonWolfson	Austin, TX
+15694224	bloom_comm	Austin, TX	19009887	erincargile	Austin, TX
+15694224	bloom_comm	Austin, TX	15723081	tplohetski	Austin, Texas
+15694224	bloom_comm	Austin, TX	52747002	ChristineMHaas	
+15694224	bloom_comm	Austin, TX	1118147016	CaseyOnFOX7	Austin, TX
+15694224	bloom_comm	Austin, TX	126422264	bakeroutdoors	Austin Texas
+15694224	bloom_comm	Austin, TX	146120126	RMaxwellKXAN	Austin, TX
+15694224	bloom_comm	Austin, TX	217164976	PointAustin	Austin, Texas
+15694224	bloom_comm	Austin, TX	186168424	AFA975	Austin TX
+15694224	bloom_comm	Austin, TX	248869943	cullinanelaw	Austin, Texas
+15694224	bloom_comm	Austin, TX	1062123997	susipye	Seattle, WA
+15694224	bloom_comm	Austin, TX	63164339	TheCostOfHunger	Philadelphia
+15694224	bloom_comm	Austin, TX	25439493	SuzanneCordeiro	PHOTOGRAPHY PORTFOLIO:
+15694224	bloom_comm	Austin, TX	24944375	DyezzSecurity	Austin and San Antonio 
+15694224	bloom_comm	Austin, TX	608617868	Dyezz	Austin, TX
+15694224	bloom_comm	Austin, TX	175711277	RJSzczerba	Binghamton, NY
+15694224	bloom_comm	Austin, TX	77030687	Explore_Austin	Austin, TX
+15694224	bloom_comm	Austin, TX	562931030	BuildASignGives	Austin, TX
+15694224	bloom_comm	Austin, TX	21755134	GiveRealty	Austin, TX
+15694224	bloom_comm	Austin, TX	466922064	AustinGives	Austin, TX
+15694224	bloom_comm	Austin, TX	17625522	charitybuzz	New York, NY
+15694224	bloom_comm	Austin, TX	427799256	projecteve1	nyc/sf
+15694224	bloom_comm	Austin, TX	14463848	nokidhungry	Washington, DC
+15694224	bloom_comm	Austin, TX	16385353	AndreaRodgers	
+15694224	bloom_comm	Austin, TX	1712960263	nankoni	NYC
+15694224	bloom_comm	Austin, TX	262359254	CultureMapATX	Austin, Texas
+15694224	bloom_comm	Austin, TX	19593182	Austin_Monthly	Austin, Texas
+15694224	bloom_comm	Austin, TX	37045139	AustinBusiness	Austin, TX - USA
+15694224	bloom_comm	Austin, TX	86593078	Network4Good	Washington, DC
+15694224	bloom_comm	Austin, TX	61206610	npquarterly	Boston, MA
+27059806	letsspartyy	Wylie, TX	95264499	WalgreensNews	Deerfield, Ill.
+27059806	letsspartyy	Wylie, TX	30265895	sonenergysolar	Southern California
+27059806	letsspartyy	Wylie, TX	21521128	piecesofinfluen	Maryland
+27059806	letsspartyy	Wylie, TX	34856598	follow_dfdub	DFW, Texas
+27059806	letsspartyy	Wylie, TX	21729630	SavingYourCents	Georgia
+27059806	letsspartyy	Wylie, TX	14138465	sablehost	Helensburgh - Scotland
+27059806	letsspartyy	Wylie, TX	32374608	SaxbysCoffeeTX	Wylie, TX
+27059806	letsspartyy	Wylie, TX	41021450	couponhunt	
+27059806	letsspartyy	Wylie, TX	42158178	godday	Indonesia
+27059806	letsspartyy	Wylie, TX	42351603	YourNatalieBaca	Somewhere in California ; )
+27059806	letsspartyy	Wylie, TX	32154138	AgainstMyGraine	Radford, VA
+27059806	letsspartyy	Wylie, TX	39643617	chr1skrobinson	Detroit Michigan
+27059806	letsspartyy	Wylie, TX	46259984	uWYkKn	 
+27059806	letsspartyy	Wylie, TX	47800803	XpMeBx	 
+27059806	letsspartyy	Wylie, TX	31378926	hamchr18	London, UK
+27059806	letsspartyy	Wylie, TX	49146590	McKinneyNews	McKinney, Texas
+27059806	letsspartyy	Wylie, TX	41928773	FakeGlennBeck	At the edge of Panic!
+27059806	letsspartyy	Wylie, TX	52948473	wtzBlr	USA
+27059806	letsspartyy	Wylie, TX	19551422	teachersped	Flower Mound, TX (33.011070,-9
+27059806	letsspartyy	Wylie, TX	67022387	thisisallstar	
+27059806	letsspartyy	Wylie, TX	45251639	steveMwade	Dallas, TX
+73197869	Gohustlercandy	Houston, TX	302824938	edoublejd	I be where I'm at
+73197869	Gohustlercandy	Houston, TX	2674066526	PSM_Realtor	USA
+73197869	Gohustlercandy	Houston, TX	2816081990	Elle_Renee00	
+73197869	Gohustlercandy	Houston, TX	23645447	misskaribaybee	Houston, Tx
+73197869	Gohustlercandy	Houston, TX	339423276	charlee_king	Houston
+73197869	Gohustlercandy	Houston, TX	89981357	SexxyGolden	Houston, TX
+73197869	Gohustlercandy	Houston, TX	165525972	CHEDDADACONNECT	HOUSTON / ATL
+73197869	Gohustlercandy	Houston, TX	145806383	SpoiledLatina	Houston, TX
+73197869	Gohustlercandy	Houston, TX	243287822	KidCudi	some place higher
+73197869	Gohustlercandy	Houston, TX	2343713353	TaTaLaLicious_3	
+73197869	Gohustlercandy	Houston, TX	25478204	SonyaTeclai	Singer | Rapper | Writer
+73197869	Gohustlercandy	Houston, TX	243414887	Jarrell832	Houston
+73197869	Gohustlercandy	Houston, TX	30830478	ItsIMANIrose	NYC Sexface i.land 
+73197869	Gohustlercandy	Houston, TX	30775171	MAJORDC	1426 Wisconsin Av NW WDC 20007
+73197869	Gohustlercandy	Houston, TX	2417104243	jaytherealtortx	
+73197869	Gohustlercandy	Houston, TX	44261653	WhatABarber	God's Hands  
+73197869	Gohustlercandy	Houston, TX	2342791518	SoleiwTrini	Houston,Tx
+73197869	Gohustlercandy	Houston, TX	18754751	rmfoto	Houston, TX
+73197869	Gohustlercandy	Houston, TX	37024663	Irish_girl42	The Universe
+73197869	Gohustlercandy	Houston, TX	15930906	angelayee	teamyee.tv
+73197869	Gohustlercandy	Houston, TX	25398075	TerrenceJ	Everywhere. 
+73197869	Gohustlercandy	Houston, TX	17878322	cthagod	Under Your Skin
+73197869	Gohustlercandy	Houston, TX	2269134614	937thebeat	Houston, TX
+73197869	Gohustlercandy	Houston, TX	285484735	Yves265	
+73197869	Gohustlercandy	Houston, TX	59373868	Bug0324	On My High Horse, TX
+73197869	Gohustlercandy	Houston, TX	149929353	RemiAlwaysFresh	Houston, Texas
+73197869	Gohustlercandy	Houston, TX	256900483	Mrbbush	European Hoopn/Htown
+73197869	Gohustlercandy	Houston, TX	61718844	MsQLC	#Global 
+73197869	Gohustlercandy	Houston, TX	26514376	TonyGaskins	
+52227842	whatsupsophia		3320633540	Mego_ftw101	
+52227842	whatsupsophia		700411286	KarenLambertBla	
+52227842	whatsupsophia		3008719165	mlisud	
+52227842	whatsupsophia		68724544	luvolearn	Boston, MA
+52227842	whatsupsophia		1180379185	RealBenCarson	Baltimore, MD 
+52227842	whatsupsophia		2915213011	franmendoza1028	
+52227842	whatsupsophia		2913344725	1723Sofia	HTX
+52227842	whatsupsophia		2898024961	danteslight	California
+52227842	whatsupsophia		1599880760	Valri64	
+52227842	whatsupsophia		14737536	matthires	Tampa/Nashville
+52227842	whatsupsophia		1961589048	NotSoBasedGod	Katy, TX
+52227842	whatsupsophia		2395016454	7999f172829f466	
+52227842	whatsupsophia		426435179	MarkusAlmond	
+52227842	whatsupsophia		619551003	TheIndieShelf	Here there and everywhere!
+52227842	whatsupsophia		214162982	blogandbuysale	London
+52227842	whatsupsophia		47323469	inkygoodness	Birmingham, U.K
+52227842	whatsupsophia		17111442	gemmacorrell	USA / UK
+52227842	whatsupsophia		11522502	Etsy	Everywhere
+52227842	whatsupsophia		803117839	dnoh02	Lipa
+52227842	whatsupsophia		2298040430	ejantonia	
+52227842	whatsupsophia		391037985	twhiddleston	
+52227842	whatsupsophia		915892176	subaikabake	
+52227842	whatsupsophia		1478881190	gusca122	Katy, TX
+20771040	cahidalgo	Colorado Springs, CO	14003142	TimBaxter	Halifax UK
+20771040	cahidalgo	Colorado Springs, CO	127927744	EverythingPR	New York, New York
+34919160	ThaDarkKnight	210 TX To A Club Near You!	345236807	OfficialHiFive	Waco, TX & The Bronx, NY
+34919160	ThaDarkKnight	210 TX To A Club Near You!	2583323635	iampgoods	New England,Usa
+34919160	ThaDarkKnight	210 TX To A Club Near You!	155387585	NotoriousVOG	On Edge Of Your Last Nerves
+34919160	ThaDarkKnight	210 TX To A Club Near You!	1147100083	MrsJellySantos	
+34919160	ThaDarkKnight	210 TX To A Club Near You!	114095834	Tex321	Texas
+34919160	ThaDarkKnight	210 TX To A Club Near You!	74921319	DJALGEE	Boston, MA
+34919160	ThaDarkKnight	210 TX To A Club Near You!	2236660968	B87PLAY	Boston, MA
+34919160	ThaDarkKnight	210 TX To A Club Near You!	45165851	JKoolLIVE	beantown
+34919160	ThaDarkKnight	210 TX To A Club Near You!	35907280	B87FM	Boston, MA
+34919160	ThaDarkKnight	210 TX To A Club Near You!	17911967	djmistglobal	Worldwide
+34919160	ThaDarkKnight	210 TX To A Club Near You!	353060311	Whataburger	
+34919160	ThaDarkKnight	210 TX To A Club Near You!	2291971328	BadBinks	San Antonio, TX
+34919160	ThaDarkKnight	210 TX To A Club Near You!	184178336	DJYELLO	 NOW IN HOUSTON 4 GOOD
+34919160	ThaDarkKnight	210 TX To A Club Near You!	204391974	IamPNyce	Atlanta, GA
+34919160	ThaDarkKnight	210 TX To A Club Near You!	28398641	abrinamusic	SD/LA
+34919160	ThaDarkKnight	210 TX To A Club Near You!	156118550	MARVILIS757	Somewhere Free Dreaming  
+34919160	ThaDarkKnight	210 TX To A Club Near You!	46564873	sevyn	https://youtu.be/6M7saDRpkDI
+34919160	ThaDarkKnight	210 TX To A Club Near You!	17636062	DJJEMAINE	New York, MA, ATL
+34919160	ThaDarkKnight	210 TX To A Club Near You!	130188263	re_wyne	Brooklyn, New York
+34919160	ThaDarkKnight	210 TX To A Club Near You!	806710627	LnsCrew	Austin, Tx
+34919160	ThaDarkKnight	210 TX To A Club Near You!	66595219	MicheleOnAir	Living 
+34919160	ThaDarkKnight	210 TX To A Club Near You!	24757977	HulaSweetz	NYC Babez! (atlantic records )
+34919160	ThaDarkKnight	210 TX To A Club Near You!	28679846	BRiANNAtheYRB	on my journey 
+34919160	ThaDarkKnight	210 TX To A Club Near You!	1035814566	insomniac311	
+34919160	ThaDarkKnight	210 TX To A Club Near You!	21118970	DorroughMusic	Texafornia
+34919160	ThaDarkKnight	210 TX To A Club Near You!	28471026	TRINArockstarr	Miami, FL
+6091402	FatElvis04	Phoenix	3306373314	OffTheEdge987	Phoenix, AZ
+6091402	FatElvis04	Phoenix	173191520	AppleVis	Worldwide
+6091402	FatElvis04	Phoenix	960385638	CoolBlindTech	CoolBlindTech.com
+6091402	FatElvis04	Phoenix	1584157525	s33wack	Cananada
+6091402	FatElvis04	Phoenix	3980516359	SpaceCityWX	Houston, TX
+6091402	FatElvis04	Phoenix	2916305152	Snowden	
+6091402	FatElvis04	Phoenix	176702424	TimHealeyASU	Arizona
+6091402	FatElvis04	Phoenix	387171555	ajhinch	TX via OK, Palo Alto, AZ, & SD
+6091402	FatElvis04	Phoenix	186514697	AirbusInTheUS	Herndon, VA
+6091402	FatElvis04	Phoenix	331032308	SteveSparks37	Houston, TX
+6091402	FatElvis04	Phoenix	39911169	raford3	Houston
+6091402	FatElvis04	Phoenix	15425377	Airbus	Global
+6091402	FatElvis04	Phoenix	15702938	geekmouth	San Antonio, TX
+6091402	FatElvis04	Phoenix	259375460	Kurkjian_ESPN	
+6091402	FatElvis04	Phoenix	600029236	50NerdsofGrey	
+27062968	silverbullnews	Austin, TX	15985098	gold_tracker	USA
+27062968	silverbullnews	Austin, TX	23799829	goldluvr	Sunny California
+27062968	silverbullnews	Austin, TX	19568359	WhySilver	Beautiful Deltona, Florida
+27062968	silverbullnews	Austin, TX	25406616	INN_Silver	Vancouver
+27062968	silverbullnews	Austin, TX	18524851	silverguru22	Author of The Morgan Report
+45937354	yellachinadoll		8824902	dallascowboys	Irving, TX
+45937354	yellachinadoll		35909599	IAMSAFAREE	Worldwide
+45937354	yellachinadoll		174533632	DezBryant	Dallas, TX
+45937354	yellachinadoll		28109359	WendyWilliams	New York City
+45937354	yellachinadoll		387281462	TheWaffleBus	Houston, TX
+45937354	yellachinadoll		397765224	KurbsideEatz	Kurbin' the streets of Houston
+45937354	yellachinadoll		33786587	twhitee	Planet Earth
+45937354	yellachinadoll		50811932	JHarden13	
+45937354	yellachinadoll		149726145	rickyrozay	#BlackBottleBoy
+45937354	yellachinadoll		23151437	KevinHart4real	Philly/LA
+16577476	David_Frey	Houston, TX	177661775	RossalynWarren	London, England
+16577476	David_Frey	Houston, TX	627218986	MauroDAnd	
+16577476	David_Frey	Houston, TX	403583176	justretweet	USA
+16577476	David_Frey	Houston, TX	83544452	blogengage	Canada
+16577476	David_Frey	Houston, TX	168672752	BasicBlogTips	
+16577476	David_Frey	Houston, TX	22349973	Ileane	Philadelphia, PA
+16577476	David_Frey	Houston, TX	361807095	njengas79	nairobi kenya
+16577476	David_Frey	Houston, TX	10367	brianclark	Boulder, Colorado
+16577476	David_Frey	Houston, TX	14280977	ClayCollins	Minneapolis, MN
+16577476	David_Frey	Houston, TX	232679724	Giving_Praise	
+16577476	David_Frey	Houston, TX	193768263	deborahgeaton	Kentucky
+16577476	David_Frey	Houston, TX	22443218	FitMusician	Edmonton, Alberta
+16577476	David_Frey	Houston, TX	11299932	NikaStewart	NJ, NYC, & worldwide
+16577476	David_Frey	Houston, TX	144992353	tmckinna	Saskatchewan
+16577476	David_Frey	Houston, TX	29185224	cunninglyclever	Florida
+16577476	David_Frey	Houston, TX	34721491	lukesample	
+16577476	David_Frey	Houston, TX	18490550	tracychilders	Park City, UT
+16577476	David_Frey	Houston, TX	14287667	wcs2	Montclair, NJ or thereabouts
+16577476	David_Frey	Houston, TX	18992367	JosephineGross	Chatsworth, CA
+16577476	David_Frey	Houston, TX	36394560	AnneHolland55	Providence RI
+16577476	David_Frey	Houston, TX	9138002	bendtheweb	
+16577476	David_Frey	Houston, TX	90803922	markjenney	
+16577476	David_Frey	Houston, TX	14803817	RunToWin	Portland, Maine
+16577476	David_Frey	Houston, TX	102749216	TrProfessionals	San Francisco, CA
+16577476	David_Frey	Houston, TX	16886313	scottnewtonlife	Atlanta, GA
+16577476	David_Frey	Houston, TX	15677183	LanceTamashiro	Utah
+16577476	David_Frey	Houston, TX	15620827	robertplank	
+16577476	David_Frey	Houston, TX	80749395	strategiccoach	Toronto, ON
+16577476	David_Frey	Houston, TX	146196339	SiteSell	
+16577476	David_Frey	Houston, TX	12432992	DanScott	Tennessee, USA
+16577476	David_Frey	Houston, TX	150318607	InternProfits	
+16577476	David_Frey	Houston, TX	24267727	DianeKennedyCPA	Reno, NV & Baja California
+16577476	David_Frey	Houston, TX	16374457	SteveCoxsey	Dallas/Fort Worth, Texas
+16577476	David_Frey	Houston, TX	59540944	MemorialPark	Houston, Texas, U.S.A.
+16577476	David_Frey	Houston, TX	14393043	iWrestle	Minneapolis, MN
+16577476	David_Frey	Houston, TX	9524712	LisaBarone	Albany, NY
+16577476	David_Frey	Houston, TX	12824192	deanhunt08	Manchester (UK)
+16577476	David_Frey	Houston, TX	153140346	MSNBCYourBiz	New York
+16577476	David_Frey	Houston, TX	14622687	TomTerwilliger	New York / Colorado
+16577476	David_Frey	Houston, TX	11263592	marycomm	Oklahoma
+16577476	David_Frey	Houston, TX	18194714	SiobhanGuthrie	Westport, Co Mayo, Irl
+16577476	David_Frey	Houston, TX	14820514	DebbyeCannon	Business & Personal Management
+16577476	David_Frey	Houston, TX	21230432	curtharding	Nashville, TN
+16577476	David_Frey	Houston, TX	16976436	SilviaPencak	Toronto
+16577476	David_Frey	Houston, TX	15150586	IreneDiamond	San Francisco | Honolulu
+16577476	David_Frey	Houston, TX	160085004	susiemiller5	Washington, DC
+16577476	David_Frey	Houston, TX	18119333	KarriannGraf	Key West, FL
+16577476	David_Frey	Houston, TX	8888222	LadyTechTamer	
+16577476	David_Frey	Houston, TX	16318744	AlzayCalhoun	Atlanta, GA
+16577476	David_Frey	Houston, TX	85246291	StephenWelton	Hamilton Ontario, Canada
+16577476	David_Frey	Houston, TX	1143031	problogger	Melbourne, Australia
+16577476	David_Frey	Houston, TX	15343285	leadershipcoach	Minnesota
+16577476	David_Frey	Houston, TX	27713200	LesBrown77	Los Angeles, CA
+16577476	David_Frey	Houston, TX	15747743	IrishSmiley	Worldwide 
+16577476	David_Frey	Houston, TX	8714402	lawton_chiles	Atlanta, Ga
+16577476	David_Frey	Houston, TX	1424181	michellem	Petaluma, CA
+16577476	David_Frey	Houston, TX	7518252	smallbiztrends	Cleveland, Ohio
+16577476	David_Frey	Houston, TX	14585647	AndrewHansen1	London, UK
+16577476	David_Frey	Houston, TX	29869299	RebelBrown	Camp Verde, Az
+16577476	David_Frey	Houston, TX	19867980	VIPsalestalent	Huntington Beach, CA
+17626885	truckjrt	Deep Ellum, TX	1869583484	OgleCaro	
+17626885	truckjrt	Deep Ellum, TX	1598961158	ReplaceThemAll	
+17626885	truckjrt	Deep Ellum, TX	884527256	The_Hayseed1	
+17626885	truckjrt	Deep Ellum, TX	633366430	TXOutdoorRepub	Dallas, TX
+17626885	truckjrt	Deep Ellum, TX	372425665	CajunTailgators	Rolling Gourmet Food Truck
+17626885	truckjrt	Deep Ellum, TX	74791999	bubbawatson	Bagdad, Florida
+17626885	truckjrt	Deep Ellum, TX	183675164	awfulannouncing	
+17626885	truckjrt	Deep Ellum, TX	53120768	ESPNStatsInfo	Bristol, CT
+17626885	truckjrt	Deep Ellum, TX	26771696	Mandy5269	
+17626885	truckjrt	Deep Ellum, TX	104601680	mdulaw_com	Dallas, Texas, USA
+17626885	truckjrt	Deep Ellum, TX	15380141	CoachRyanR	Olive Branch, MS
+17626885	truckjrt	Deep Ellum, TX	26908913	HenryBrian	
+17626885	truckjrt	Deep Ellum, TX	334273125	ppepper48	
+17626885	truckjrt	Deep Ellum, TX	327438019	JohnGMayfield	
+17626885	truckjrt	Deep Ellum, TX	172454290	Zach_oz	Houston TX 
+17626885	truckjrt	Deep Ellum, TX	442364165	NefFeliz	Detroit, MI
+17626885	truckjrt	Deep Ellum, TX	264532080	couchxcouchwest	Living Room, USA
+17626885	truckjrt	Deep Ellum, TX	344420656	EmilyJonesMcCoy	
+19724339	evolheather	Dallas, TX	418104670	victoriesatsea	Birmingham, UK
+19724339	evolheather	Dallas, TX	77793023	plaguehaus	Texas is the reason...
+19724339	evolheather	Dallas, TX	53210455	DarrenKavinoky	Los Angeles, CA
+19724339	evolheather	Dallas, TX	1105300596	JoshuaIsard	The Philly 'Burbs
+19724339	evolheather	Dallas, TX	620236087	VicRobbie	Here, there and everywhere
+19724339	evolheather	Dallas, TX	188066062	RDRonaldauthor	
+19724339	evolheather	Dallas, TX	2450855384	ablackarcade	Lexington, KY
+19724339	evolheather	Dallas, TX	3890505675	CvsWmusic	Los Angeles, CA
+19724339	evolheather	Dallas, TX	159525316	Literary_Agents	New York City / Beverly Hills
+19724339	evolheather	Dallas, TX	371957676	HaujobbMusic	Germany
+19724339	evolheather	Dallas, TX	29442313	SenSanders	Vermont/DC
+19724339	evolheather	Dallas, TX	216776631	BernieSanders	Vermont
+19724339	evolheather	Dallas, TX	575925069	nicholasfillmor	
+19724339	evolheather	Dallas, TX	2736471839	TheKittyCart	Washington, DC
+19724339	evolheather	Dallas, TX	45094451	iambrandondiehl	Phillipsburg, New Jersey
+19724339	evolheather	Dallas, TX	19256962	REOTB	LISTEN
+19724339	evolheather	Dallas, TX	2462124608	mt13132626	In Cyber Space @michellesexy13
+19724339	evolheather	Dallas, TX	15293113	BrianSchell	Dayton, Ohio
+19724339	evolheather	Dallas, TX	2872426114	crimenovel	U.K
+19724339	evolheather	Dallas, TX	25343565	RussWrites	Calne, England
+19724339	evolheather	Dallas, TX	3142221665	ThePMFrancis	Portland, OR 
+19724339	evolheather	Dallas, TX	42825860	anthonyalopez	
+19724339	evolheather	Dallas, TX	2990119806	EroticGigi	Los Angeles, CA
+19724339	evolheather	Dallas, TX	2529961927	fyldepress	
+19724339	evolheather	Dallas, TX	21147043	blonderaider21	Dallas, TX
+19724339	evolheather	Dallas, TX	34971242	donbrunsbooks	Florida
+19724339	evolheather	Dallas, TX	2935517399	marijanmb	
+19724339	evolheather	Dallas, TX	3374664437	MR_W_TRU	Poland
+19724339	evolheather	Dallas, TX	501196426	doctorjohndunn	England
+19724339	evolheather	Dallas, TX	2576001005	djpriddle	isle of wight
+19724339	evolheather	Dallas, TX	465955705	ColinLChapman	dark and sinister, Essex uk 
+19724339	evolheather	Dallas, TX	3234002041	JonnieRocksWell	New York, NY
+19724339	evolheather	Dallas, TX	16818087	WarrenAdler	New York City
+19724339	evolheather	Dallas, TX	2828802716	ValleyBandMusic	Toronto, Ontario
+19724339	evolheather	Dallas, TX	151250681	JLImhoff	U.S.A.
+19724339	evolheather	Dallas, TX	91408769	bospress	Hamlet of Wallkill, NY
+19724339	evolheather	Dallas, TX	131472597	iansuth	London, England
+19724339	evolheather	Dallas, TX	487147694	NJM_Worder	Illinois, USA
+19724339	evolheather	Dallas, TX	3191102133	BloggingFamily	
+19724339	evolheather	Dallas, TX	778228910	dkparsonswriter	www.danielparsonsbooks.com
+19724339	evolheather	Dallas, TX	16228520	Jeff_Oster	The San Francisco Bay Area
+19724339	evolheather	Dallas, TX	24654824	oksurewhtvr	Australia
+19724339	evolheather	Dallas, TX	2374407456	coinsforeyes	Dallas
+19724339	evolheather	Dallas, TX	20503566	MikeyGuitar_	Manchester, UK / Esbjerg, DK
+19724339	evolheather	Dallas, TX	178533201	bauermusic_	Manchester UK
+19724339	evolheather	Dallas, TX	743856512	J_D_Landis	New Hampshire
+19724339	evolheather	Dallas, TX	186175602	rainyofthedark	Phoenix, Arizona
+19724339	evolheather	Dallas, TX	2201680657	ThaiWins	Brisbane, Queensland
+19724339	evolheather	Dallas, TX	54808509	deerparkavenue	Washington D.C.
+19724339	evolheather	Dallas, TX	45458477	DFWStuff	Fort Worth | Denton | Dallas
+19724339	evolheather	Dallas, TX	21362105	teganandsara	Vancouver/Montreal
+19724339	evolheather	Dallas, TX	48361659	DJBeaks	Minneapolis, MN
+19724339	evolheather	Dallas, TX	553880742	afcgirl123	wales 
+19724339	evolheather	Dallas, TX	2784820064	cgsultan1	Eau Claire, Wisconsin
+19724339	evolheather	Dallas, TX	2901245151	JohnRodmoor	England
+19724339	evolheather	Dallas, TX	2657609310	larkinmazon	
+19724339	evolheather	Dallas, TX	3187320439	pj_author	Melbourne, Victoria
+19724339	evolheather	Dallas, TX	2606992351	theatomicpunk1	Brookfield Wisconsin
+19724339	evolheather	Dallas, TX	283350568	amiasingersongs	Recording Artist Amia Franz
+19724339	evolheather	Dallas, TX	45571759	ltvargus	
+19724339	evolheather	Dallas, TX	156052545	lit_hum	
+19724339	evolheather	Dallas, TX	34169185	LPOBryan	Dublin, Ireland
+19724339	evolheather	Dallas, TX	3301789716	Oziether8wiz	
+19724339	evolheather	Dallas, TX	3020415580	SILVICULTRlX	Canada
+19724339	evolheather	Dallas, TX	3318192802	books2delight	Global
+19724339	evolheather	Dallas, TX	113049430	PoetryArchive	
+19724339	evolheather	Dallas, TX	245149606	jakeevansmusic	Manchester
+19724339	evolheather	Dallas, TX	554487897	lorettamilan	Warwickshire, England
+19724339	evolheather	Dallas, TX	293074758	IMNOTMAKINGITUP	FAIRFAX, VA
+19724339	evolheather	Dallas, TX	2560704823	FireTiger_Tiff	Los Angeles
+19724339	evolheather	Dallas, TX	304153345	FireTigerBand	Los Angeles
+19724339	evolheather	Dallas, TX	28488248	JayTSmAcK	United States
+19724339	evolheather	Dallas, TX	18435068	wildsoundfest	
+22871820	HunterDooling		255288929	buckywinchester	
+22871820	HunterDooling		2835649998	suprememecourt	
+22871820	HunterDooling		1416339126	IMBrettDalton	
+22871820	HunterDooling		61083773	MingNa	Always on top
+22871820	HunterDooling		2480954209	AgentCarterTV	
+22871820	HunterDooling		2715115656	Renner4Real	
+22871820	HunterDooling		762873086	dj_naysia	
+22871820	HunterDooling		17958983	ChristieDuPree	
+22871820	HunterDooling		1467994892	shann0nofthesea	AMA Texas
+22871820	HunterDooling		27466653	ZozeeBo	
+22871820	HunterDooling		21502768	gracehelbig	Los Angeles
+22871820	HunterDooling		816702914	kuryakxns	Inactive bcs of some shit
+22871820	HunterDooling		2468963930	tryingrex	
+22871820	HunterDooling		2450241577	YaelStone	New York
+22871820	HunterDooling		1901546563	nlyonne	New York
+22871820	HunterDooling		47786101	RobertDowneyJr	
+22871820	HunterDooling		701615052	CaptainAmerica	
+22871820	HunterDooling		135984962	HayleyAtwell	
+22871820	HunterDooling		47285504	MarkRuffalo	NYS
+22871820	HunterDooling		1554808945	gadhic	
+22871820	HunterDooling		555448499	CobieSmulders	Los Angeles, CA
+22871820	HunterDooling		75974281	SamuelLJackson	
+22871820	HunterDooling		361270172	AnthonyMackie	
+22871820	HunterDooling		1112465706	AgentsofSHIELD	TUESDAYS 9|8c on ABC
+22871820	HunterDooling		546109609	MarvelUK	London
+22871820	HunterDooling		54602157	LinsCoyne	
+22871820	HunterDooling		91408245	dylansprouse	Brooklyn
+22871820	HunterDooling		266336410	colesprouse	Manhattan
+22871820	HunterDooling		430094158	KristyCelis	
+22871820	HunterDooling		1071952285	greenarrcw	California
+22871820	HunterDooling		15687962	Marvel	New York, NY
+22871820	HunterDooling		176135770	benashtonrice	Coppell, Texas 
+22871820	HunterDooling		453052161	ragingriotraven	
+22871820	HunterDooling		426927161	kassandra_tate	LA / NYC
+22871820	HunterDooling		1588486417	DrewBarrymore	
+22871820	HunterDooling		393852070	Avengers	
+22871820	HunterDooling		48785884	clarkgregg	All up in this place
+22871820	HunterDooling		374312811	SantinoFontana	
+22871820	HunterDooling		33041426	daxshepard1	LA
+22871820	HunterDooling		53297035	IMKristenBell	Los Angeles, California 
+22871820	HunterDooling		332611996	iamgreenfield	Los Angeles
+22871820	HunterDooling		17844280	johnkrasinski	
+22871820	HunterDooling		523751631	ShelbyWeems	CTX
+22871820	HunterDooling		494481753	soledaaaaad	
+22871820	HunterDooling		387990405	hspattycakes	
+22871820	HunterDooling		27457788	KevinSpacey	London - NYC - LA
+22871820	HunterDooling		50374439	tomhanks	Los Angeles
+22871820	HunterDooling		16409683	britneyspears	Los Angeles, CA
+22871820	HunterDooling		15846407	TheEllenShow	California
+22871820	HunterDooling		1670942228	NSHSstuco16	
+22871820	HunterDooling		563317195	SmithClass2014	
+22871820	HunterDooling		1497211892	jasonbskates	
+22871820	HunterDooling		50055294	Pchiddy	Toronto/Michigan
+22871820	HunterDooling		184241421	GraceEGold	Los Angeles 
+22871820	HunterDooling		47035609	AshWagner2010	Los Angeles, CA
+22871820	HunterDooling		48463575	Meryl_Davis	DaughterSisterFriendOlympian
+22871820	HunterDooling		20745274	BDisgusting	North Hollywood, CA
+22871820	HunterDooling		123574362	FANGORIA	NYC, Los Angeles and Toronto
+22871820	HunterDooling		20734411	lionsgatehorror	
+22871820	HunterDooling		1722959798	saaraaaahh_	
+22871820	HunterDooling		36735522	beatonna	Toronto
+22871820	HunterDooling		1549741783	amandsmith2	
+22871820	HunterDooling		602317143	SirPatStew	
+22871820	HunterDooling		140669654	ChristinaRicci	New York City
+22871820	HunterDooling		1660468830	hughlaurie	
+22871820	HunterDooling		34655603	TheSun	London
+22871820	HunterDooling		111556423	DailyMailUK	London, UK
+22871820	HunterDooling		2243422999	BismaAhmad13	
+22871820	HunterDooling		352555842	TunaLobster	Texas
+22871820	HunterDooling		35472060	tarastrong	California 
+22871820	HunterDooling		29653923	grav3yardgirl	houston
+22871820	HunterDooling		23690344	kelly_clarkson	TX
+22871820	HunterDooling		355307031	lordemusic	
+22871820	HunterDooling		2275297610	AlexTiegreen	
+22871820	HunterDooling		1110190452	CHIMPSINSOCKS	
+22871820	HunterDooling		552336659	vncentvanghost	fuck yeah i'm a deviant
+22871820	HunterDooling		334988425	ncginny	
+22871820	HunterDooling		336585788	lifeisnotfarrah	toronto
+22871820	HunterDooling		1491052940	RisingFawnMusic	
+22871820	HunterDooling		27987646	SayAnythingMuz	Los Angeles, CA
+22871820	HunterDooling		15489994	GarronEisley	Sugar Land, TX
+14483314	tranceotaku	Abilene, TX	378932699	jollyg22	
+14483314	tranceotaku	Abilene, TX	57841792	GavinFree	Austin, TX. Originally from UK
+14483314	tranceotaku	Abilene, TX	298791059	AH_Michael	Austin, Texas
+14483314	tranceotaku	Abilene, TX	16297193	AchievementHunt	Austin, TX
+14483314	tranceotaku	Abilene, TX	1708443876	summit1g	Colorado Springs, CO
+14483314	tranceotaku	Abilene, TX	520680837	LIRIK	
+14483314	tranceotaku	Abilene, TX	14819432	MegaRan	near a stage or a video game
+14483314	tranceotaku	Abilene, TX	571523301	WeirdxSenpai__	you're boyfriend penis 
+14483314	tranceotaku	Abilene, TX	2338350164	AudraEhler	
+14483314	tranceotaku	Abilene, TX	37598161	CarcinogenSDA	Brooklyn, NY
+14483314	tranceotaku	Abilene, TX	1055605225	TheMexicanRuner	Xalapa, Veracruz - Mexico
+14483314	tranceotaku	Abilene, TX	45852058	FupaFace	
+14483314	tranceotaku	Abilene, TX	856960334	ATW9K	The Podcastverse
+14483314	tranceotaku	Abilene, TX	4816	EFF	San Francisco, CA
+14483314	tranceotaku	Abilene, TX	16573941	netflix	Los Gatos, CA
+14483314	tranceotaku	Abilene, TX	21454307	Netflixhelps	
+33359394	Jazzstratus	Home	15358421	briantruitt	Northern Virginia
+33359394	Jazzstratus	Home	237411936	ENTAffair	Los Angeles, CA
+33359394	Jazzstratus	Home	37599351	benlandis	Los Angeles
+33359394	Jazzstratus	Home	19725644	neiltyson	New York City
+33359394	Jazzstratus	Home	56467167	RentPayment	Walnut Creek, CA
+33359394	Jazzstratus	Home	2429358410	OilRunMovie	
+33359394	Jazzstratus	Home	47332078	aldias	
+33359394	Jazzstratus	Home	874954453	avadthree	Northwest Arkansas
+33359394	Jazzstratus	Home	297546763	themoxyox	Tontitown, AR
+33359394	Jazzstratus	Home	1259785938	Superfight	
+33359394	Jazzstratus	Home	563890459	elgatogaming	San Francisco 
+33359394	Jazzstratus	Home	227436905	Sphero	Boulder Colorado
+33359394	Jazzstratus	Home	98616453	laracroft	
+33359394	Jazzstratus	Home	1955411096	DXRacer	USA
+33359394	Jazzstratus	Home	11167502	humble	San Francisco, CA
+33359394	Jazzstratus	Home	12611642	thinkgeek	Fairfax, VA
+33359394	Jazzstratus	Home	17625465	MAINGEAR	Kenilworth, New Jersey
+33359394	Jazzstratus	Home	19088451	cursenetwork	Huntsville Alabama
+33359394	Jazzstratus	Home	15880163	Razer	United States
+33359394	Jazzstratus	Home	128702327	wikipad	
+33359394	Jazzstratus	Home	709226545	lootcrate	Los Angeles, CA
+33359394	Jazzstratus	Home	298503082	CAH	
+33359394	Jazzstratus	Home	15687962	Marvel	New York, NY
+33359394	Jazzstratus	Home	262234565	KristinCThrower	Dallas, TX
+33359394	Jazzstratus	Home	243742269	StackSocial	Venice, CA
+33359394	Jazzstratus	Home	429369546	teeturtlenews	
+33359394	Jazzstratus	Home	695933	kmacleod	40.7397,-74.0006
+33359394	Jazzstratus	Home	1181737969	TrewWin	
+33359394	Jazzstratus	Home	180505807	instagram	
+33359394	Jazzstratus	Home	31353077	NathanFillion	Los Angeles
+33359394	Jazzstratus	Home	18713314	nickjfrost	United Kingdom
+33359394	Jazzstratus	Home	18713254	simonpegg	Earth
+33359394	Jazzstratus	Home	18671559	edgarwright	
+33359394	Jazzstratus	Home	47786101	RobertDowneyJr	
+33359394	Jazzstratus	Home	378014881	robbyjayala	
+33359394	Jazzstratus	Home	384388981	XboxLiveRewards	20 countries
+33359394	Jazzstratus	Home	1253298944	dtrewitt	
+33359394	Jazzstratus	Home	89013228	SnapKnot	worldwide
+33359394	Jazzstratus	Home	518334438	christyleazar	
+33359394	Jazzstratus	Home	380797571	UTDJSA	University of Texas at Dallas
+33359394	Jazzstratus	Home	741500678	RiddickTheMovie	The Official Twitter Account
+33359394	Jazzstratus	Home	31545843	jesshansen033	
+33359394	Jazzstratus	Home	574531403	AlamoDFW	Dallas/Fort Worth Metroplex
+33359394	Jazzstratus	Home	574858954	OliveBurger	Richardson, TX
+33359394	Jazzstratus	Home	24978859	bigfanboy	Dallas, TX
+33359394	Jazzstratus	Home	113560280	missmayim	Los Angeles, CA 
+33359394	Jazzstratus	Home	586671909	vine	
+33359394	Jazzstratus	Home	933449498	BLT_DALLAS	Dallas
+33359394	Jazzstratus	Home	593611452	Brittanimation	Dallas, TX
+33359394	Jazzstratus	Home	355682433	Nelnet	Lincoln, NE
+33359394	Jazzstratus	Home	44783118	PWIChannel	Redwood Shores, CA
+33359394	Jazzstratus	Home	743401369	MastermindsFilm	#Masterminds
+33359394	Jazzstratus	Home	236709206	MusclesGlasses	The Gym
+33359394	Jazzstratus	Home	24560836	HarleyPlays	iPhone: 45.505692,-73.851471
+33359394	Jazzstratus	Home	209169572	EpicMealTime	
+33359394	Jazzstratus	Home	770848573	UTDAnimGuild	Richardson, Texas
+33359394	Jazzstratus	Home	36198161	GUNNAROptiks	California
+33359394	Jazzstratus	Home	237363332	UTDallasDEI	UT Dallas - Richardson, TX
+33359394	Jazzstratus	Home	2730391	AdobeCCVideo	
+33359394	Jazzstratus	Home	40589412	witchblade001	Texas
+33359394	Jazzstratus	Home	628112268	eeley01	Dallas
+33359394	Jazzstratus	Home	8369072	DuvalMagic	Gearbox, TX
+33359394	Jazzstratus	Home	113897988	TeamCoco	North America
+33359394	Jazzstratus	Home	14192988	QuakeCon	Dallas, TX
+33359394	Jazzstratus	Home	32249715	ryan_connolly	Texas
+33359394	Jazzstratus	Home	168873266	johnelerick	Los Angeles
+33359394	Jazzstratus	Home	425377180	KoalaHatGirl	Dallas, TX
+33359394	Jazzstratus	Home	161161184	fifthfloorpics	Dallas
+33359394	Jazzstratus	Home	269486713	davidsocomedy	Los Angeles
+33359394	Jazzstratus	Home	280066826	ssahmbbq	Dallas, TX
+33359394	Jazzstratus	Home	74050463	SoloFamDynasty	Dallas,TX
+33359394	Jazzstratus	Home	16535953	wongfupro	Los Angeles
+33359394	Jazzstratus	Home	16626951	thewesleychan	
+33359394	Jazzstratus	Home	16445093	tedfu	Los Angeles / New York
+33359394	Jazzstratus	Home	16657990	philipwang	
+33359394	Jazzstratus	Home	55137443	mr488161	Dallas, TX
+33359394	Jazzstratus	Home	27175010	SashaTrew	
+33359394	Jazzstratus	Home	351893928	TrewCreations	
+33359394	Jazzstratus	Home	18243527	mercurialvenus	Dallas, TX
+33359394	Jazzstratus	Home	126418602	jovansticks	
+33359394	Jazzstratus	Home	183425885	klow44	
+33359394	Jazzstratus	Home	62888879	thetouringlizar	Wichita Falls, Texas
+33359394	Jazzstratus	Home	239239452	nhuloveall	
+33359394	Jazzstratus	Home	310357163	KimmyJo120	
+33359394	Jazzstratus	Home	146255360	jennyqradio	Dallas, Texas
+33359394	Jazzstratus	Home	48119519	FunKrista	33.158332,-96.690822
+33359394	Jazzstratus	Home	98675725	Ace_GDP	Texas
+33359394	Jazzstratus	Home	229951068	GoodLuckPics	
+33359394	Jazzstratus	Home	149722197	SweetRayRay	Grand Prairie, Texas
+33359394	Jazzstratus	Home	41188141	willr2k	Dallas, Tx
+33359394	Jazzstratus	Home	177242546	GermyWa	SF East Bay, CA
+33359394	Jazzstratus	Home	38615506	dunc82	Grand Prairie, TX
+33359394	Jazzstratus	Home	89020033	DamnFool870	IN the MIDDLE of The BARn
+33359394	Jazzstratus	Home	30791258	actorfc	http://www.imdb.com/name/nm064
+33359394	Jazzstratus	Home	297036566	IBTDALLAS	Dallas Texas
+33359394	Jazzstratus	Home	364973865	sprinklesdallas	Plaza at Preston Center
+33359394	Jazzstratus	Home	35940245	CoreyLeeLarson	Dallas, TX
+33359394	Jazzstratus	Home	28704462	aRicH08	Plano, TX
+33359394	Jazzstratus	Home	361983588	bdh081000	
+33359394	Jazzstratus	Home	179328809	Metricton	Texas
+33359394	Jazzstratus	Home	16122600	pcaddict08	Dallas, Texas
+33359394	Jazzstratus	Home	361448755	hau781101	
+33359394	Jazzstratus	Home	18963070	fwong	Los Angeles
+33359394	Jazzstratus	Home	69410214	1SaleADay	
+33359394	Jazzstratus	Home	25340176	sprinkles	The Original Cupcake Bakery
+33359394	Jazzstratus	Home	189734050	itsvicspeaking	Dallas, TX
+33359394	Jazzstratus	Home	48797251	OldSpice	
+33359394	Jazzstratus	Home	86652786	Drew_Nguyen	
+33359394	Jazzstratus	Home	31320241	KyraJean83	
+33359394	Jazzstratus	Home	38066662	galaxychris	Dallas, TX
+33359394	Jazzstratus	Home	25557917	Bob_Htx	iPhone: 32.489910,-96.963669
+33359394	Jazzstratus	Home	27178774	Kit_Cat09	Washington, DC
+33359394	Jazzstratus	Home	38879557	Daniel_M5150	32.744795,-96.558635
+33359394	Jazzstratus	Home	36858684	sweet2th2	Pa
+33359394	Jazzstratus	Home	26578251	jingbling323	Everywhere!!!!!
+33359394	Jazzstratus	Home	33353919	The1anonlyPeter	Ft. Worth
+33359394	Jazzstratus	Home	31433327	meganaformosa	
+37555274	smutqueen	Fort Hood, TX	43403778	49ers	Santa Clara, CA
+37555274	smutqueen	Fort Hood, TX	34642163	PFossil	New York
+37555274	smutqueen	Fort Hood, TX	415083833	MichelleAltman1	
+37555274	smutqueen	Fort Hood, TX	3248209038	xMokeyx	Arkansas, USA
+37555274	smutqueen	Fort Hood, TX	2445809510	periscopeco	San Francisco
+37555274	smutqueen	Fort Hood, TX	3276827761	JamesLNigbor	Los Angeles, CA
+37555274	smutqueen	Fort Hood, TX	5391882	dooce	Salt Lake City
+37555274	smutqueen	Fort Hood, TX	2260083565	bdperkins75	Florence, Oregon
+37555274	smutqueen	Fort Hood, TX	2710715024	WtfRenaissance	the actual original 
+37555274	smutqueen	Fort Hood, TX	361443463	GymKix	Copperas Cove, TX
+37555274	smutqueen	Fort Hood, TX	336445332	SamHeughan	Showreel:
+37555274	smutqueen	Fort Hood, TX	1510918164	Outlander_Starz	
+37555274	smutqueen	Fort Hood, TX	968377092	grahammctavish	
+37555274	smutqueen	Fort Hood, TX	175098387	caitrionambalfe	Los Angeles
+37555274	smutqueen	Fort Hood, TX	1658084096	TobiasMenzies	
+37555274	smutqueen	Fort Hood, TX	2690418625	PerfPeerGroup	Los Angeles
+37555274	smutqueen	Fort Hood, TX	1674165450	CHPWestValley	Woodland Hills, CA
+37555274	smutqueen	Fort Hood, TX	2517117270	HiddenCash	San Francisco
+37555274	smutqueen	Fort Hood, TX	1568105364	TheDukeOfYork	United Kingdom
+37555274	smutqueen	Fort Hood, TX	50520045	ToniPurdy	Eastern USA
+37555274	smutqueen	Fort Hood, TX	20793816	amazon	Seattle, Washington
+37555274	smutqueen	Fort Hood, TX	17790274	OneLouderApps	Kansas City, MO
+37555274	smutqueen	Fort Hood, TX	2386432063	FanFiction140	
+37555274	smutqueen	Fort Hood, TX	2378987185	Real_LenaNicole	Sioux Falls, South Dakota
+37555274	smutqueen	Fort Hood, TX	15707409	NaskarrKid	Huntsville, AL
+37555274	smutqueen	Fort Hood, TX	15723433	ScrappyFe	your twitter feed....duh
+37555274	smutqueen	Fort Hood, TX	2252959620	LibertyStrongTS	
+37555274	smutqueen	Fort Hood, TX	715073714	atleighbennett	Texas :)
+37555274	smutqueen	Fort Hood, TX	296531346	BeautifulMemoir	
+37555274	smutqueen	Fort Hood, TX	2230950980	TeamEIIen	
+37555274	smutqueen	Fort Hood, TX	76689933	EJCole1825	
+37555274	smutqueen	Fort Hood, TX	1594346324	kanoya50cal	
+37555274	smutqueen	Fort Hood, TX	49741529	DrthClown	Woodbridge, VA
+37555274	smutqueen	Fort Hood, TX	410248123	TheTudorTailor	Nottingham & Godalming UK
+37555274	smutqueen	Fort Hood, TX	143664456	shemarmoore	LAX
+37555274	smutqueen	Fort Hood, TX	67132107	amandafreitag	New York City
+37555274	smutqueen	Fort Hood, TX	40055348	forthood	Texas
+37555274	smutqueen	Fort Hood, TX	40941321	FREEBIRDS_WB	TX, OK, UT, LA, MO, KS, & CA
+37555274	smutqueen	Fort Hood, TX	1352683514	infidel1actual	
+37555274	smutqueen	Fort Hood, TX	1327425758	IncompiutoFF	
+37555274	smutqueen	Fort Hood, TX	14278708	Amber_Alert	USA
+37555274	smutqueen	Fort Hood, TX	754416690	deLIBERnATION	Metro West Boston, MA
+37555274	smutqueen	Fort Hood, TX	97061453	MelodyThomasSco	
+37555274	smutqueen	Fort Hood, TX	542135478	iTourLondon	London, United Kingdom
+37555274	smutqueen	Fort Hood, TX	247819091	humble_mumbles	
+37555274	smutqueen	Fort Hood, TX	71731213	RebeccaLHerbst	California
+37555274	smutqueen	Fort Hood, TX	95749490	JerryRice	
+37555274	smutqueen	Fort Hood, TX	41476441	kattycat81	Texas
+37555274	smutqueen	Fort Hood, TX	41120559	MORMONorg	Salt Lake City, Utah
+37555274	smutqueen	Fort Hood, TX	32186233	CJLeBlanc	Los Angeles - New Orleans
+37555274	smutqueen	Fort Hood, TX	112605001	YRInsider	
+37555274	smutqueen	Fort Hood, TX	885721183	cheryl5098	vancouver, bc
+37555274	smutqueen	Fort Hood, TX	983649151	RealBeckyNation	Hollywood, CA
+37555274	smutqueen	Fort Hood, TX	550636195	GhozJE	
+37555274	smutqueen	Fort Hood, TX	1035277812	AmyleeGramlich	
+37555274	smutqueen	Fort Hood, TX	1073587956	GHFAN1994	
+37555274	smutqueen	Fort Hood, TX	25022241	katclaws	usa
+37555274	smutqueen	Fort Hood, TX	68816598	YandR_CBS	
+37555274	smutqueen	Fort Hood, TX	17744736	PugziesMom	PugNation Plantation
+37555274	smutqueen	Fort Hood, TX	629637347	AntiDeLusional	In the REAL World!
+37555274	smutqueen	Fort Hood, TX	516947780	PCInquisitor	Port Charles, NY
+37555274	smutqueen	Fort Hood, TX	479198056	ButtercupSGT	Crimson Lights. 
+37555274	smutqueen	Fort Hood, TX	46163825	soapsindepthcbs	
+37555274	smutqueen	Fort Hood, TX	479064860	ButtercupArmy	To Be Announced
+37555274	smutqueen	Fort Hood, TX	42058582	SourceRyan	Jersey Shore, NJ
+37555274	smutqueen	Fort Hood, TX	984683688	ColossalGospel	Leeds, Alabama
+37555274	smutqueen	Fort Hood, TX	973153440	MuhneysHair	
+37555274	smutqueen	Fort Hood, TX	20661539	GDeLaurentiis	Los Angeles, CA
+37555274	smutqueen	Fort Hood, TX	25456478	AdamRichman	An Aisle Seat
+37555274	smutqueen	Fort Hood, TX	164122774	gzchef	New York City
+37555274	smutqueen	Fort Hood, TX	27091468	bflay	New York City
+37555274	smutqueen	Fort Hood, TX	128263500	chefanneburrell	nyc- of course!
+37555274	smutqueen	Fort Hood, TX	293850289	altonbrown	Everywhere
+37555274	smutqueen	Fort Hood, TX	20710809	FoodNetwork	
+37555274	smutqueen	Fort Hood, TX	34396691	RobertIrvine	
+37555274	smutqueen	Fort Hood, TX	10047382	MormonNewsroom	Salt Lake City
+37555274	smutqueen	Fort Hood, TX	18908669	howrudeareyou	USA
+37555274	smutqueen	Fort Hood, TX	67532283	sbabowal	Bay Area, California
+37555274	smutqueen	Fort Hood, TX	586667205	liasonlover06	
+37555274	smutqueen	Fort Hood, TX	397373048	johnjtrau	 New York City
+37555274	smutqueen	Fort Hood, TX	874862334	AuntieDelusiona	
+37555274	smutqueen	Fort Hood, TX	30973	Starbucks	Seattle, WA
+37555274	smutqueen	Fort Hood, TX	50205129	Aqualeo28	Northern California
+37555274	smutqueen	Fort Hood, TX	14709355	thepioneerwoman	The Ranch
+37555274	smutqueen	Fort Hood, TX	260199803	VMSeamstress	Bergen, NY
+37555274	smutqueen	Fort Hood, TX	848559140	KermitKlein94	
+37555274	smutqueen	Fort Hood, TX	342300458	NadineTaher	
+37555274	smutqueen	Fort Hood, TX	235157481	MrSilverScott	Las Vegas, NV
+37555274	smutqueen	Fort Hood, TX	86972419	MrDrewScott	Los Angeles 
+37555274	smutqueen	Fort Hood, TX	297187851	EffYeahJDub	JDub Club
+37555274	smutqueen	Fort Hood, TX	733848486	Kelly_Jane751	
+37555274	smutqueen	Fort Hood, TX	23272526	JewelHarrington	Illinois
+37555274	smutqueen	Fort Hood, TX	108459044	mkp_cashmere	Vancouver, BC.
+37555274	smutqueen	Fort Hood, TX	48192125	ajdias1	
+37555274	smutqueen	Fort Hood, TX	319379850	nathinbutler	
+37555274	smutqueen	Fort Hood, TX	180661466	_JessLynn94	
+37555274	smutqueen	Fort Hood, TX	629682298	FlatAmbs	
+37555274	smutqueen	Fort Hood, TX	173714603	DeborahVilla	Arlington Heights, IL
+37555274	smutqueen	Fort Hood, TX	628687775	Rebekahhhhbrown	
+37555274	smutqueen	Fort Hood, TX	71678688	1lemoni	Canada
+37555274	smutqueen	Fort Hood, TX	605865700	__Mokey__	Arkansas
+37555274	smutqueen	Fort Hood, TX	93613784	rmfaircloth	Florida
+37555274	smutqueen	Fort Hood, TX	86422182	BrookeArata	Oregon City, Oregon
+37555274	smutqueen	Fort Hood, TX	241124343	shoozytooz	
+37555274	smutqueen	Fort Hood, TX	345811633	autocorrects	
+37555274	smutqueen	Fort Hood, TX	616657641	ranae1221_take2	
+37555274	smutqueen	Fort Hood, TX	609610514	RHOFC	
+37555274	smutqueen	Fort Hood, TX	32876210	richardmarx	Wherever
+37555274	smutqueen	Fort Hood, TX	18753325	NeilDiamond	Los Angeles, CA
+37555274	smutqueen	Fort Hood, TX	60598052	mobprincess2714	Greystone
+37555274	smutqueen	Fort Hood, TX	32629211	teenystweeting	I'm probably in the kitchen. 
+37555274	smutqueen	Fort Hood, TX	531187261	QueenVictoriaRI	
+37555274	smutqueen	Fort Hood, TX	578706957	NinjaBikerBabe4	Everywhere
+37555274	smutqueen	Fort Hood, TX	488146363	TheMaternalOne	Port Charles, New York
+37555274	smutqueen	Fort Hood, TX	529689805	MyGHTweets2	
+37555274	smutqueen	Fort Hood, TX	36980342	guarnaschelli	
+37555274	smutqueen	Fort Hood, TX	429409306	MClaireEgan	Los Angeles, CA
+37555274	smutqueen	Fort Hood, TX	560058661	alicia_minshew	NY LA
+37555274	smutqueen	Fort Hood, TX	263758909	AnnDRomney	
+37555274	smutqueen	Fort Hood, TX	28653126	mdgtfrmhll	Palm Desert, CA
+37555274	smutqueen	Fort Hood, TX	32297785	aidenturner	LA/Atlanta ACTOR 
+37555274	smutqueen	Fort Hood, TX	95797479	icelovesfire	Potterhead
+37555274	smutqueen	Fort Hood, TX	20757588	Bella_warrior	Running Shine Down Hwy 9
+37555274	smutqueen	Fort Hood, TX	536639785	missmillie86	California
+37555274	smutqueen	Fort Hood, TX	160972398	mandymld	Lost in a good long book
+37555274	smutqueen	Fort Hood, TX	15497883	Jamey_Giddens	Capwell Enterprises
+37555274	smutqueen	Fort Hood, TX	517841102	valentinifrank	
+37555274	smutqueen	Fort Hood, TX	513262373	julespt90	Maryland
+37555274	smutqueen	Fort Hood, TX	45281798	hannah4321j	

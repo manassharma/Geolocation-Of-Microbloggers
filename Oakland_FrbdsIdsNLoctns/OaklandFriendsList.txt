@@ -220,3 +220,89 @@
 31469906	FairTradeUSA	Oakland, CA	2097571	cnni	Everywhere
 31469906	FairTradeUSA	Oakland, CA	48004713	CeliacBeast	Arizona. It's hot here. 
 31469906	FairTradeUSA	Oakland, CA	92162698	simplymeasured	Seattle, WA
+48507602	oaklandvw	Oakland, CA	9139022	DanSandercock	Chiang Mai, Thailand
+48507602	oaklandvw	Oakland, CA	43920053	ParkPlazaHotel	Oakland Airport, Ca
+48507602	oaklandvw	Oakland, CA	6630942	soulcookie	formerly San Francisco CA
+48507602	oaklandvw	Oakland, CA	12693182	Brainmaker	SF Bay area
+48507602	oaklandvw	Oakland, CA	45676488	nwkandler	Woodside, CA
+48507602	oaklandvw	Oakland, CA	44353	Weegee	San Francisco
+48507602	oaklandvw	Oakland, CA	23513221	superugly	Oakland, California
+48507602	oaklandvw	Oakland, CA	1917881	derricks	Berkeley, CA
+48507602	oaklandvw	Oakland, CA	15032298	xtinawahl	Bay Area
+48507602	oaklandvw	Oakland, CA	18511424	lbryvxn	
+48507602	oaklandvw	Oakland, CA	30080537	djdonnell	Los Angeles
+48507602	oaklandvw	Oakland, CA	509	jerrymichalski	San Francisco
+48507602	oaklandvw	Oakland, CA	8188062	candlelight	San Francisco
+48507602	oaklandvw	Oakland, CA	18297594	sunilraman	San Francisco
+48507602	oaklandvw	Oakland, CA	736233	__ted__	Austin, TX
+48507602	oaklandvw	Oakland, CA	43655410	MrHodohakaYngBo	Bay Area, California
+48507602	oaklandvw	Oakland, CA	39142746	babeejeprox	@your soul. SF
+48507602	oaklandvw	Oakland, CA	19558011	Rockster001	Scotland, Central Region
+48507602	oaklandvw	Oakland, CA	14582559	tammofreese	
+48507602	oaklandvw	Oakland, CA	683873	noggin	
+48507602	oaklandvw	Oakland, CA	14185424	msquihuis	Palo Alto, CA
+48507602	oaklandvw	Oakland, CA	19374805	joqatana	Bay Area, California
+48507602	oaklandvw	Oakland, CA	16667274	jvondeling	Berkeley, California
+48507602	oaklandvw	Oakland, CA	716113	keimig	State College, PA 16803
+48507602	oaklandvw	Oakland, CA	16373072	BMUSE	iPhone: 37.799049,-122.279839
+48507602	oaklandvw	Oakland, CA	18294151	Jollibeats	
+48507602	oaklandvw	Oakland, CA	7115632	titoperez	Los Angeles, CA
+48507602	oaklandvw	Oakland, CA	22123686	flookit	London
+48507602	oaklandvw	Oakland, CA	40349679	annabroadway	Bay Area, California
+48507602	oaklandvw	Oakland, CA	1058011	christopher_b	iPhone: 37.774521,-122.425171
+48507602	oaklandvw	Oakland, CA	23991260	Wolverine_	The Jean Grey School
+48507602	oaklandvw	Oakland, CA	6121912	visnup	San Francisco
+48507602	oaklandvw	Oakland, CA	48836505	fungossip	Bay Area, California
+48507602	oaklandvw	Oakland, CA	16089052	VarianDavid	iPhone: 37.777657,-122.412979
+21891008	imculture	El Cerrito, CA	107641292	FoeFoe_	DTLA
+21891008	imculture	El Cerrito, CA	17093617	hootsuite	Vancouver, Canada
+21891008	imculture	El Cerrito, CA	15786957	jcrillz	Oakland, CA
+21891008	imculture	El Cerrito, CA	21072554	gmeline	Santa Rosa, CA
+21891008	imculture	El Cerrito, CA	18966184	dnfrdmn	Brooklyn, NY
+21891008	imculture	El Cerrito, CA	19215166	djnormrocwell	San Diego, CA...All Day!
+21891008	imculture	El Cerrito, CA	24823200	Benjiuno	Berkeley.Oakland.SF.
+21891008	imculture	El Cerrito, CA	34372862	NovenaCarmel	in the present
+21891008	imculture	El Cerrito, CA	115154615	GoodGrillade	
+21891008	imculture	El Cerrito, CA	19724045	RobEyee	los angeles & sf bay area
+21891008	imculture	El Cerrito, CA	55442646	marinkd	A treehouse in Brooklyn
+21891008	imculture	El Cerrito, CA	18364364	NYdelight	then NY now D(etroit)
+21891008	imculture	El Cerrito, CA	18059146	alma_nac	NYC
+21891008	imculture	El Cerrito, CA	18652163	RavenSorvino	H tine I'm comin' dine drippin' candy on the ground 
+21891008	imculture	El Cerrito, CA	61174632	superfunkyfresh	the sticks, South Corea
+21891008	imculture	El Cerrito, CA	24741061	zsazsa	Oaksterdam by way of Amsterdam
+21891008	imculture	El Cerrito, CA	17121279	anadelrocio	
+21891008	imculture	El Cerrito, CA	50821891	LexCanPlay	In Bed Eatin The Pussy Right!
+21891008	imculture	El Cerrito, CA	31169820	MrSwagghop	
+21891008	imculture	El Cerrito, CA	22513319	HighScore_	Toronto, Ontario
+21891008	imculture	El Cerrito, CA	16817383	karaslamb	
+21891008	imculture	El Cerrito, CA	39913500	haokan01	
+21891008	imculture	El Cerrito, CA	39042946	sameea1	ENGLAND
+21891008	imculture	El Cerrito, CA	19245122	IndieMusicU	Wallingford, CT
+21891008	imculture	El Cerrito, CA	14264916	aardvarked	
+21891008	imculture	El Cerrito, CA	20097097	SkySkySkySky	London, UK
+21891008	imculture	El Cerrito, CA	35683253	sani87	Exit 9 bka New Brunswick, NJ
+21891008	imculture	El Cerrito, CA	38807352	YDR313	Detroit
+21891008	imculture	El Cerrito, CA	39998943	DJ_MiGZ	
+48507602	oaklandvw	Oakland, CA	9139022	DanSandercock	Chiang Mai, Thailand
+48507602	oaklandvw	Oakland, CA	43920053	ParkPlazaHotel	Oakland Airport, Ca
+48507602	oaklandvw	Oakland, CA	6630942	soulcookie	formerly San Francisco CA
+48507602	oaklandvw	Oakland, CA	12693182	Brainmaker	SF Bay area
+48507602	oaklandvw	Oakland, CA	45676488	nwkandler	Woodside, CA
+48507602	oaklandvw	Oakland, CA	44353	Weegee	San Francisco
+48507602	oaklandvw	Oakland, CA	23513221	superugly	Oakland, California
+48507602	oaklandvw	Oakland, CA	1917881	derricks	Berkeley, CA
+48507602	oaklandvw	Oakland, CA	15032298	xtinawahl	Bay Area
+48507602	oaklandvw	Oakland, CA	18511424	lbryvxn	
+48507602	oaklandvw	Oakland, CA	30080537	djdonnell	Los Angeles
+48507602	oaklandvw	Oakland, CA	509	jerrymichalski	San Francisco
+48507602	oaklandvw	Oakland, CA	8188062	candlelight	San Francisco
+48507602	oaklandvw	Oakland, CA	18297594	sunilraman	San Francisco
+48507602	oaklandvw	Oakland, CA	736233	__ted__	Austin, TX
+48507602	oaklandvw	Oakland, CA	43655410	MrHodohakaYngBo	Bay Area, California
+48507602	oaklandvw	Oakland, CA	39142746	babeejeprox	@your soul. SF
+48507602	oaklandvw	Oakland, CA	19558011	Rockster001	Scotland, Central Region
+48507602	oaklandvw	Oakland, CA	14582559	tammofreese	
+48507602	oaklandvw	Oakland, CA	683873	noggin	
+48507602	oaklandvw	Oakland, CA	14185424	msquihuis	Palo Alto, CA
+48507602	oaklandvw	Oakland, CA	19374805	joqatana	Bay Area, California
+48507602	oaklandvw	Oakland, CA	16667274	jvondeling	Berkeley, California

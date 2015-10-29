@@ -206,3 +206,1694 @@
 43746300	AdriennePapp	Santa Monica, CA	15485441	jimmyfallon	New York, New York
 43746300	AdriennePapp	Santa Monica, CA	21774892	TheMandyMoore	Los Angeles, CA
 43746300	AdriennePapp	Santa Monica, CA	20978103	DaneCook	Direct2Dane@DaneCook.com
+23337017	Ziggy_Susan	Huntington Beach, CA	850095096	WatchBravo	LALA Land
+19671555	elliottsamuels	Santa Monica, California	6611482	peterpham	Manhattan Beach, CA
+19671555	elliottsamuels	Santa Monica, California	295	joshk	Philly
+19671555	elliottsamuels	Santa Monica, California	6145622	m2jr	California
+19671555	elliottsamuels	Santa Monica, California	2374870609	alshumdesign	
+19671555	elliottsamuels	Santa Monica, California	94535274	365psd	
+19671555	elliottsamuels	Santa Monica, California	18915917	jarden	San Francisco, CA
+19671555	elliottsamuels	Santa Monica, California	78645888	facebookdesign	Menlo Park, CA
+19671555	elliottsamuels	Santa Monica, California	17912450	timcaynes	Norwich, UK
+19671555	elliottsamuels	Santa Monica, California	17611446	joulee	Palo Alto, CA
+19671555	elliottsamuels	Santa Monica, California	6432822	shalin	SF / NYC
+19671555	elliottsamuels	Santa Monica, California	793926	1Password	Ontario, Canada
+19671555	elliottsamuels	Santa Monica, California	2319522415	Inna_vative	Los Angeles
+19671555	elliottsamuels	Santa Monica, California	20339060	trueventures	San Francisco & Palo Alto, CA
+19671555	elliottsamuels	Santa Monica, California	94429231	CoLoft	Santa Monica, CA
+19671555	elliottsamuels	Santa Monica, California	1056838028	framerjs	
+19671555	elliottsamuels	Santa Monica, California	19810702	benjaminnathan	Amsterdam, Netherlands
+19671555	elliottsamuels	Santa Monica, California	10828272	JohnClinebell	Los Angeles, California
+19671555	elliottsamuels	Santa Monica, California	9637632	JamieSiminoff	Santa Monica, CA
+19671555	elliottsamuels	Santa Monica, California	2197606969	UserOnboard	Portland, OR, USA
+19671555	elliottsamuels	Santa Monica, California	2817724502	ArloSmartHome	
+19671555	elliottsamuels	Santa Monica, California	50280181	sketchapp	The Hague, the Netherlands
+19671555	elliottsamuels	Santa Monica, California	16655768	gt	Palo Alto, CA
+19671555	elliottsamuels	Santa Monica, California	39696536	JohnButlerTrio	Australia
+19671555	elliottsamuels	Santa Monica, California	14135855	Mediauras	CA
+19671555	elliottsamuels	Santa Monica, California	2712835158	ring	Santa Monica, CA
+19671555	elliottsamuels	Santa Monica, California	353789193	StartupLJackson	SoMa
+19671555	elliottsamuels	Santa Monica, California	862512888	MondayEnvelope	On all your devices
+19671555	elliottsamuels	Santa Monica, California	2562019704	bdssdsgn	Silicon Beach
+19671555	elliottsamuels	Santa Monica, California	2927193007	makeapromis	Los Angeles, CA
+19671555	elliottsamuels	Santa Monica, California	2927758254	AppMeerkat	Kalahari Desert, Botswana
+19671555	elliottsamuels	Santa Monica, California	1616697744	bradkane7	San Rafael, CA
+19671555	elliottsamuels	Santa Monica, California	21718006	marcmaron	The Hills of Highland Park CA
+19671555	elliottsamuels	Santa Monica, California	14592008	EckhartTolle	Vancouver
+19671555	elliottsamuels	Santa Monica, California	13192512	lancesells	Chinatown
+19671555	elliottsamuels	Santa Monica, California	243742269	StackSocial	Venice, CA
+19671555	elliottsamuels	Santa Monica, California	19329260	dbinetti	Silicon Valley
+19671555	elliottsamuels	Santa Monica, California	14393120	robfitz	London-ish
+19671555	elliottsamuels	Santa Monica, California	15972180	Wzzy	Las Vegas
+19671555	elliottsamuels	Santa Monica, California	184997446	leanstartup	
+19671555	elliottsamuels	Santa Monica, California	14278978	ericries	SF
+19671555	elliottsamuels	Santa Monica, California	17471979	NatGeo	Global
+19671555	elliottsamuels	Santa Monica, California	11348282	NASA	
+19671555	elliottsamuels	Santa Monica, California	34743251	SpaceX	Hawthorne, CA
+19671555	elliottsamuels	Santa Monica, California	9313022	Behance	
+19671555	elliottsamuels	Santa Monica, California	168857946	500Startups	Silicon Valley & The Interwebs
+20198816	CasaDelMar	Santa Monica, CA	2735522426	Rolling2ristas	facebook.com/rollingtworistas
+20198816	CasaDelMar	Santa Monica, CA	2828273607	LATechDigest	Santa Monica, CA
+20198816	CasaDelMar	Santa Monica, CA	2881223827	SunTimesLA	
+20198816	CasaDelMar	Santa Monica, CA	360404548	AMALosAngeles	Los Angeles
+20198816	CasaDelMar	Santa Monica, CA	26576457	ArchDigest	
+20198816	CasaDelMar	Santa Monica, CA	124820991	smfilmfestival	Santa Monica
+20198816	CasaDelMar	Santa Monica, CA	38580822	TessaLegato	Santa Monica
+32127962	ilikebs	Santa Monica, CA	1102350794	nerdrahtiosam	Springboro, OH
+32127962	ilikebs	Santa Monica, CA	3312570954	AAC_Academy	Palm Beach, FL
+32127962	ilikebs	Santa Monica, CA	3262088210	ReignInsider	Los Angeles, CA
+32127962	ilikebs	Santa Monica, CA	293226463	biancampalumbo_	Boston, Massachusetts
+32127962	ilikebs	Santa Monica, CA	348870803	Jabs_13	
+32127962	ilikebs	Santa Monica, CA	937499232	Malala	Pakistan
+32127962	ilikebs	Santa Monica, CA	15987393	thecringe	New York, NY
+32127962	ilikebs	Santa Monica, CA	2344997294	AdrienVandy	
+32127962	ilikebs	Santa Monica, CA	497606890	sprice74	Euless, TX
+32127962	ilikebs	Santa Monica, CA	35069260	katienolan	NYC (Boston at heart)
+32127962	ilikebs	Santa Monica, CA	2916305152	Snowden	
+32127962	ilikebs	Santa Monica, CA	870652734	HeuvelDennis	Haarlem, The Netherlands
+32127962	ilikebs	Santa Monica, CA	2152347661	OtherLAMag	Pasadena/Los Angeles, CA
+32127962	ilikebs	Santa Monica, CA	3307222288	hockeythiswknd	New York, USA
+32127962	ilikebs	Santa Monica, CA	17021399	SteveSNC	Raleigh, NC
+32127962	ilikebs	Santa Monica, CA	892848180	Gardener_John	Windermere, England
+32127962	ilikebs	Santa Monica, CA	608473	chrisabraham	Arlington, VA
+32127962	ilikebs	Santa Monica, CA	62506005	Big_Thurman	Baltimore City
+32127962	ilikebs	Santa Monica, CA	62203499	R0BTRAIN	(sigh) Kentucky
+23337017	Ziggy_Susan	Huntington Beach, CA	850095096	WatchBravo	LALA Land
+19671555	elliottsamuels	Santa Monica, California	6611482	peterpham	Manhattan Beach, CA
+19671555	elliottsamuels	Santa Monica, California	295	joshk	Philly
+19671555	elliottsamuels	Santa Monica, California	6145622	m2jr	California
+19671555	elliottsamuels	Santa Monica, California	2374870609	alshumdesign	
+19671555	elliottsamuels	Santa Monica, California	94535274	365psd	
+19671555	elliottsamuels	Santa Monica, California	18915917	jarden	San Francisco, CA
+19671555	elliottsamuels	Santa Monica, California	78645888	facebookdesign	Menlo Park, CA
+19671555	elliottsamuels	Santa Monica, California	17912450	timcaynes	Norwich, UK
+19671555	elliottsamuels	Santa Monica, California	17611446	joulee	Palo Alto, CA
+19671555	elliottsamuels	Santa Monica, California	6432822	shalin	SF / NYC
+19671555	elliottsamuels	Santa Monica, California	793926	1Password	Ontario, Canada
+19671555	elliottsamuels	Santa Monica, California	2319522415	Inna_vative	Los Angeles
+19671555	elliottsamuels	Santa Monica, California	20339060	trueventures	San Francisco & Palo Alto, CA
+19671555	elliottsamuels	Santa Monica, California	94429231	CoLoft	Santa Monica, CA
+19671555	elliottsamuels	Santa Monica, California	1056838028	framerjs	
+19671555	elliottsamuels	Santa Monica, California	19810702	benjaminnathan	Amsterdam, Netherlands
+19671555	elliottsamuels	Santa Monica, California	10828272	JohnClinebell	Los Angeles, California
+19671555	elliottsamuels	Santa Monica, California	9637632	JamieSiminoff	Santa Monica, CA
+19671555	elliottsamuels	Santa Monica, California	2197606969	UserOnboard	Portland, OR, USA
+19671555	elliottsamuels	Santa Monica, California	2817724502	ArloSmartHome	
+19671555	elliottsamuels	Santa Monica, California	50280181	sketchapp	The Hague, the Netherlands
+19671555	elliottsamuels	Santa Monica, California	16655768	gt	Palo Alto, CA
+19671555	elliottsamuels	Santa Monica, California	39696536	JohnButlerTrio	Australia
+19671555	elliottsamuels	Santa Monica, California	14135855	Mediauras	CA
+19671555	elliottsamuels	Santa Monica, California	2712835158	ring	Santa Monica, CA
+19671555	elliottsamuels	Santa Monica, California	353789193	StartupLJackson	SoMa
+19671555	elliottsamuels	Santa Monica, California	862512888	MondayEnvelope	On all your devices
+19671555	elliottsamuels	Santa Monica, California	2562019704	bdssdsgn	Silicon Beach
+19671555	elliottsamuels	Santa Monica, California	2927193007	makeapromis	Los Angeles, CA
+19671555	elliottsamuels	Santa Monica, California	2927758254	AppMeerkat	Kalahari Desert, Botswana
+19671555	elliottsamuels	Santa Monica, California	1616697744	bradkane7	San Rafael, CA
+19671555	elliottsamuels	Santa Monica, California	21718006	marcmaron	The Hills of Highland Park CA
+19671555	elliottsamuels	Santa Monica, California	14592008	EckhartTolle	Vancouver
+19671555	elliottsamuels	Santa Monica, California	13192512	lancesells	Chinatown
+19671555	elliottsamuels	Santa Monica, California	243742269	StackSocial	Venice, CA
+19671555	elliottsamuels	Santa Monica, California	19329260	dbinetti	Silicon Valley
+19671555	elliottsamuels	Santa Monica, California	14393120	robfitz	London-ish
+19671555	elliottsamuels	Santa Monica, California	15972180	Wzzy	Las Vegas
+19671555	elliottsamuels	Santa Monica, California	184997446	leanstartup	
+19671555	elliottsamuels	Santa Monica, California	14278978	ericries	SF
+19671555	elliottsamuels	Santa Monica, California	17471979	NatGeo	Global
+19671555	elliottsamuels	Santa Monica, California	11348282	NASA	
+19671555	elliottsamuels	Santa Monica, California	34743251	SpaceX	Hawthorne, CA
+19671555	elliottsamuels	Santa Monica, California	9313022	Behance	
+19671555	elliottsamuels	Santa Monica, California	168857946	500Startups	Silicon Valley & The Interwebs
+20198816	CasaDelMar	Santa Monica, CA	2735522426	Rolling2ristas	facebook.com/rollingtworistas
+20198816	CasaDelMar	Santa Monica, CA	2828273607	LATechDigest	Santa Monica, CA
+20198816	CasaDelMar	Santa Monica, CA	2881223827	SunTimesLA	
+20198816	CasaDelMar	Santa Monica, CA	360404548	AMALosAngeles	Los Angeles
+20198816	CasaDelMar	Santa Monica, CA	26576457	ArchDigest	
+20198816	CasaDelMar	Santa Monica, CA	124820991	smfilmfestival	Santa Monica
+20198816	CasaDelMar	Santa Monica, CA	38580822	TessaLegato	Santa Monica
+32127962	ilikebs	Santa Monica, CA	1102350794	nerdrahtiosam	Springboro, OH
+32127962	ilikebs	Santa Monica, CA	3312570954	AAC_Academy	Palm Beach, FL
+32127962	ilikebs	Santa Monica, CA	3262088210	ReignInsider	Los Angeles, CA
+32127962	ilikebs	Santa Monica, CA	293226463	biancampalumbo_	Boston, Massachusetts
+32127962	ilikebs	Santa Monica, CA	348870803	Jabs_13	
+32127962	ilikebs	Santa Monica, CA	937499232	Malala	Pakistan
+32127962	ilikebs	Santa Monica, CA	15987393	thecringe	New York, NY
+32127962	ilikebs	Santa Monica, CA	2344997294	AdrienVandy	
+32127962	ilikebs	Santa Monica, CA	497606890	sprice74	Euless, TX
+32127962	ilikebs	Santa Monica, CA	35069260	katienolan	NYC (Boston at heart)
+32127962	ilikebs	Santa Monica, CA	2916305152	Snowden	
+32127962	ilikebs	Santa Monica, CA	870652734	HeuvelDennis	Haarlem, The Netherlands
+32127962	ilikebs	Santa Monica, CA	2152347661	OtherLAMag	Pasadena/Los Angeles, CA
+32127962	ilikebs	Santa Monica, CA	3307222288	hockeythiswknd	New York, USA
+32127962	ilikebs	Santa Monica, CA	17021399	SteveSNC	Raleigh, NC
+32127962	ilikebs	Santa Monica, CA	892848180	Gardener_John	Windermere, England
+32127962	ilikebs	Santa Monica, CA	608473	chrisabraham	Arlington, VA
+32127962	ilikebs	Santa Monica, CA	62506005	Big_Thurman	Baltimore City
+32127962	ilikebs	Santa Monica, CA	62203499	R0BTRAIN	(sigh) Kentucky
+32127962	ilikebs	Santa Monica, CA	192749697	LouyFierce	smoothbangers@gmail
+32127962	ilikebs	Santa Monica, CA	3327505880	TannerheadNatio	Panet Earth
+32127962	ilikebs	Santa Monica, CA	292064563	TheRealHoff10	Los Angeles, CA
+32127962	ilikebs	Santa Monica, CA	178933144	realhartman	California
+32127962	ilikebs	Santa Monica, CA	2490910958	LAKingsNation67	
+32127962	ilikebs	Santa Monica, CA	210684204	TayeDiggs	Los Angeles, CA
+32127962	ilikebs	Santa Monica, CA	3141675102	ParentingMotion	California
+32127962	ilikebs	Santa Monica, CA	96848521	chiseled_scott	California ~ Pacific Northwest 
+32127962	ilikebs	Santa Monica, CA	3225859360	TravlSportsFans	Los Angeles, Detroit, Tampa
+32127962	ilikebs	Santa Monica, CA	2456683586	DodgerGameNotes	Los Angeles
+32127962	ilikebs	Santa Monica, CA	1933042237	SiriouslySusan	Atlanta, GA
+32127962	ilikebs	Santa Monica, CA	1508095369	mattinthewild	America the Beautiful 
+32127962	ilikebs	Santa Monica, CA	446016744	JEnroth125	Stockholm- Buffalo 
+32127962	ilikebs	Santa Monica, CA	16282832	RealRockNews	North Carolina
+32127962	ilikebs	Santa Monica, CA	190906140	SchadenJake	Washington DC
+32127962	ilikebs	Santa Monica, CA	3256937514	13KCliffy	Hermosa Beach, CA
+32127962	ilikebs	Santa Monica, CA	32189846	pedrocostamusic	
+32127962	ilikebs	Santa Monica, CA	17881816	colortheory	Huntington Beach, CA
+32127962	ilikebs	Santa Monica, CA	18746811	sobore	
+32127962	ilikebs	Santa Monica, CA	229385617	NateMaingard	London, England
+32127962	ilikebs	Santa Monica, CA	25537232	cmbrookins	Little Rock, Arkansas
+32127962	ilikebs	Santa Monica, CA	1909502827	CleanWaterWed	
+32127962	ilikebs	Santa Monica, CA	37599351	benlandis	Los Angeles
+32127962	ilikebs	Santa Monica, CA	40577195	apegames	Cypress, TX, 'murica
+32127962	ilikebs	Santa Monica, CA	14645160	shwood	Austin, TX
+32127962	ilikebs	Santa Monica, CA	597000969	NotMikeBolt	CANADA of course!
+32127962	ilikebs	Santa Monica, CA	2228881206	LAKingsCare	Los Angeles, CA
+32127962	ilikebs	Santa Monica, CA	3303293865	Caitlyn_Jenner	
+32127962	ilikebs	Santa Monica, CA	19623009	KnapsackGames	Los Angeles, CA
+32127962	ilikebs	Santa Monica, CA	1536791610	POTUS	Washington, D.C.
+32127962	ilikebs	Santa Monica, CA	2930235374	hiking_rr	
+15744118	demandrichard	Santa Monica, CA	754500	cue	
+15744118	demandrichard	Santa Monica, CA	71022075	ESPNGolf	Bristol, CT
+15744118	demandrichard	Santa Monica, CA	26578816	golf_com	New York City
+15744118	demandrichard	Santa Monica, CA	14640977	Golf_Tips	
+15744118	demandrichard	Santa Monica, CA	28349128	GolfChannel	Worldwide
+15744118	demandrichard	Santa Monica, CA	3221810330	BacheloretteGal	Los Angeles, CA
+15744118	demandrichard	Santa Monica, CA	3181038685	TeamCocoFans	Everywhere, CA
+15744118	demandrichard	Santa Monica, CA	3193587462	InsideAmyFans	Los Angeles, CA
+15744118	demandrichard	Santa Monica, CA	3181056854	FansOfDWTS	Los Angeles, CA
+15744118	demandrichard	Santa Monica, CA	18084291	tracyakselrud	Los Angeles
+15744118	demandrichard	Santa Monica, CA	318218261	Lucas_Shaw	
+15744118	demandrichard	Santa Monica, CA	2941165028	SeanJames44	
+15744118	demandrichard	Santa Monica, CA	562267840	JoeRavitch	NY/LA/SFO/LONDON/ASIA
+15744118	demandrichard	Santa Monica, CA	1636590253	tim_cook	Cupertino
+15744118	demandrichard	Santa Monica, CA	44196397	elonmusk	1 AU
+15744118	demandrichard	Santa Monica, CA	6730222	hblodget	New York
+15744118	demandrichard	Santa Monica, CA	5558552	lazerow	NEW YORK CITY
+15744118	demandrichard	Santa Monica, CA	2836941830	CBSNLive	
+15744118	demandrichard	Santa Monica, CA	2352729630	whipclip	Santa Monica, CA
+15744118	demandrichard	Santa Monica, CA	1540008733	NiccoloDeMasi	San Francisco, CA 
+15744118	demandrichard	Santa Monica, CA	9549942	nichcarlson	New York
+15744118	demandrichard	Santa Monica, CA	5520332	msuster	Los Angeles
+15744118	demandrichard	Santa Monica, CA	19362299	nflnetwork	Culver City, CA
+15744118	demandrichard	Santa Monica, CA	14992263	RichBTIG	Disclosure: 
+15744118	demandrichard	Santa Monica, CA	7433772	emilysteel	NYC
+15744118	demandrichard	Santa Monica, CA	16370204	jyarow	New Jersey
+15744118	demandrichard	Santa Monica, CA	7309052	YahooNews	New York City
+15744118	demandrichard	Santa Monica, CA	69329527	BBCNewsUS	Washington DC
+19409588	globalgreen	Santa Monica, CA	15679753	MatttDavies	New York
+19409588	globalgreen	Santa Monica, CA	40241160	PSAonline	Washington DC, USA
+19409588	globalgreen	Santa Monica, CA	3907577966	FactsOnClimate	Washington, DC
+19409588	globalgreen	Santa Monica, CA	2174615780	rise_nyc	New York City
+19409588	globalgreen	Santa Monica, CA	109524559	nationalgridus	
+19409588	globalgreen	Santa Monica, CA	55121922	2thank	Thank and Smile with me. World
+19409588	globalgreen	Santa Monica, CA	2658066024	GratitudeReveal	Los Angeles
+19409588	globalgreen	Santa Monica, CA	38349184	CAgovernment	Sacramento, CA
+19409588	globalgreen	Santa Monica, CA	45565185	intelligencer	New York, NY
+19409588	globalgreen	Santa Monica, CA	500704345	Pontifex	Vatican City
+19409588	globalgreen	Santa Monica, CA	19624059	BigBlendMag	USA
+19409588	globalgreen	Santa Monica, CA	223599427	SaveALot	
+19409588	globalgreen	Santa Monica, CA	612582994	DanBarber	
+85215038	ATVIAssist	Santa Monica, CA	3270628874	leomp1534	
+85215038	ATVIAssist	Santa Monica, CA	2159302612	StormyModding	UK, England
+85215038	ATVIAssist	Santa Monica, CA	2736868991	bowers_rodney	
+85215038	ATVIAssist	Santa Monica, CA	2317994052	_SageDaniel	
+85215038	ATVIAssist	Santa Monica, CA	3282679404	imNemohhYT	RunningThroughTheSixWithMyWoes
+85215038	ATVIAssist	Santa Monica, CA	1431637704	SkippyCoD	Where NBN isnt :(
+85215038	ATVIAssist	Santa Monica, CA	1352578716	bloodybazz	Danmark 
+20598297	Chastros	Santa Monica, CA	47488112	RamitV	Santa Monica, CA
+20598297	Chastros	Santa Monica, CA	26699997	thejmw	NYC & LA
+20598297	Chastros	Santa Monica, CA	16618332	henryrollins	Los Angeles, CA 
+20598297	Chastros	Santa Monica, CA	18396706	arcadefire	Montreal
+20598297	Chastros	Santa Monica, CA	31640556	DtownBurgerBar	Downtown Los Angeles
+20598297	Chastros	Santa Monica, CA	236490028	chefkcjames	Los Angeles, CA
+20598297	Chastros	Santa Monica, CA	141001275	CarollaDigital	Los Angeles, CA
+20598297	Chastros	Santa Monica, CA	26035287	CBSfantasynews	Fort Lauderdale, FL
+20598297	Chastros	Santa Monica, CA	20526322	juliemacalik	Dallas, Texas 
+20598297	Chastros	Santa Monica, CA	9812912	blogworld	San Diego CA
+20598297	Chastros	Santa Monica, CA	23998497	tweethouse	Seattle, WA
+20598297	Chastros	Santa Monica, CA	15441620	mattmattmatt	Toronto, Canada
+20598297	Chastros	Santa Monica, CA	69342015	GoSantaMonica	Santa Monica, California
+20598297	Chastros	Santa Monica, CA	5757922	jbeljb	New Orleans
+20598297	Chastros	Santa Monica, CA	86365953	LA_Now	Los Angeles
+20598297	Chastros	Santa Monica, CA	17029249	runawaysun	Houston, TX
+20598297	Chastros	Santa Monica, CA	28471120	swoolley79	TEXAS
+20598297	Chastros	Santa Monica, CA	89082497	jstirneman	
+20598297	Chastros	Santa Monica, CA	15214275	dath00	
+20598297	Chastros	Santa Monica, CA	16453489	mollyspahr	
+20598297	Chastros	Santa Monica, CA	25340607	lislunaschniedz	Houston, TX
+20598297	Chastros	Santa Monica, CA	39114090	SalMasekela	The Universe
+20598297	Chastros	Santa Monica, CA	30003653	jefflinkenauger	
+20598297	Chastros	Santa Monica, CA	22666368	stevecravens	Peoria, IL
+20598297	Chastros	Santa Monica, CA	21101912	thomamas	Dallas, TX
+20598297	Chastros	Santa Monica, CA	34138293	BabyBullDC	Houston, Tx
+20598297	Chastros	Santa Monica, CA	15998756	davefoxred	Chicago
+20598297	Chastros	Santa Monica, CA	52864991	seanymac19	
+20598297	Chastros	Santa Monica, CA	31524940	cody_daniel	Austin, TX
+20598297	Chastros	Santa Monica, CA	31210555	erictmueller	Switzerland, Yunnan, Texas
+20598297	Chastros	Santa Monica, CA	125920065	Franklyluckman	LA
+20598297	Chastros	Santa Monica, CA	89730083	swavpior	Toronto, Ontario
+20598297	Chastros	Santa Monica, CA	38474628	jarekhardy	Toronto
+18388616	ActingAtEdgemar	Los Angeles, CA	570989225	AudioCaroline	Norfolk & The Universe
+18388616	ActingAtEdgemar	Los Angeles, CA	788272950	GinaTimberlake1	NZ - UK 
+18388616	ActingAtEdgemar	Los Angeles, CA	307175856	LiLianLevPage	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	1464763334	doug_schuetz	Chicago, IL
+18388616	ActingAtEdgemar	Los Angeles, CA	14448139	zivvie	The Third Coast
+18388616	ActingAtEdgemar	Los Angeles, CA	45835391	Cromerty	Handy for London
+18388616	ActingAtEdgemar	Los Angeles, CA	917243658	ljschuberth	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	2450400295	ImTaraMarks	Los Angeles - Central Valley
+18388616	ActingAtEdgemar	Los Angeles, CA	258822357	Ella_Isis	Dayton, OH
+18388616	ActingAtEdgemar	Los Angeles, CA	318019137	VinceMajor	L.A.
+18388616	ActingAtEdgemar	Los Angeles, CA	380731073	MandyLFason	US
+18388616	ActingAtEdgemar	Los Angeles, CA	74943147	WylieSmall	California
+18388616	ActingAtEdgemar	Los Angeles, CA	1576739257	THEOMARSHALLcom	Santa Monica, California 
+18388616	ActingAtEdgemar	Los Angeles, CA	205813379	analiliatweets	
+18388616	ActingAtEdgemar	Los Angeles, CA	132827906	armandjvasquez	Santa Monica, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	756391532	ABCarter9	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	73062225	TheRobStats	USA
+18388616	ActingAtEdgemar	Los Angeles, CA	755090	efrain	
+18388616	ActingAtEdgemar	Los Angeles, CA	47856854	MikeTheMicJ	
+18388616	ActingAtEdgemar	Los Angeles, CA	279574261	ivecita14	Orlando, FL
+18388616	ActingAtEdgemar	Los Angeles, CA	3266596879	cpierceact	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	3235452624	Eric_Normington	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	18765482	RikDeskin	Seattle
+18388616	ActingAtEdgemar	Los Angeles, CA	455152254	wdcharlton1	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	2545211268	WeekleyJeff	Tennessee
+18388616	ActingAtEdgemar	Los Angeles, CA	58275790	caseyruggieri	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	2879483291	CyberScarlett	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	3182042640	therobertomara	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	1891105309	amandafansie	NY
+18388616	ActingAtEdgemar	Los Angeles, CA	302276662	TheSpennyD	Vancouver, BC, Canada
+18388616	ActingAtEdgemar	Los Angeles, CA	1409466374	MeleneSosi	
+18388616	ActingAtEdgemar	Los Angeles, CA	416989664	taurusbrutus	Lagos,Nigeria
+18388616	ActingAtEdgemar	Los Angeles, CA	887506116	ThespianS_G	Florida 
+18388616	ActingAtEdgemar	Los Angeles, CA	3241155334	AllanGCarter	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	307482928	JohnPirruccello	My website is here --
+18388616	ActingAtEdgemar	Los Angeles, CA	2511139380	AlexandriaIsKey	All Around The World
+18388616	ActingAtEdgemar	Los Angeles, CA	3059111390	JonathanKeyes	Seattle, WA
+18388616	ActingAtEdgemar	Los Angeles, CA	1437534486	AlonzoBoezem	LA | Miami
+18388616	ActingAtEdgemar	Los Angeles, CA	1613620872	GwynLaRee	La Center, WA
+18388616	ActingAtEdgemar	Los Angeles, CA	2165554584	newby_maddy	
+18388616	ActingAtEdgemar	Los Angeles, CA	76089574	sweetboy_69	Calgary
+18388616	ActingAtEdgemar	Los Angeles, CA	325949235	toryanrogers	hollywood
+18388616	ActingAtEdgemar	Los Angeles, CA	2967244519	MTagbo	St Louis, MO
+18388616	ActingAtEdgemar	Los Angeles, CA	1206585942	BReutebuch	USA
+18388616	ActingAtEdgemar	Los Angeles, CA	197288563	FaithLaw	nyc
+18388616	ActingAtEdgemar	Los Angeles, CA	2227196696	scott_schewe	www.scottschewe.com
+18388616	ActingAtEdgemar	Los Angeles, CA	2430078951	c_bubz345	
+18388616	ActingAtEdgemar	Los Angeles, CA	180453861	HeidiSydney	http://www.imdb.me/heidikaufma
+18388616	ActingAtEdgemar	Los Angeles, CA	2988394697	_blackjamesdean	
+18388616	ActingAtEdgemar	Los Angeles, CA	3656506035	SeawellJane	Atlanta, GA
+18388616	ActingAtEdgemar	Los Angeles, CA	390482270	MegRuddy1	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	26937665	bellemisfit	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	3027491005	christopher_crt	New York, NY
+18388616	ActingAtEdgemar	Los Angeles, CA	2148280334	ilucas9	Brooklyn, NY
+18388616	ActingAtEdgemar	Los Angeles, CA	1026795134	darek_burkowski	San Francisco, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	914758398	ActorJoshPrice	
+18388616	ActingAtEdgemar	Los Angeles, CA	2768435866	gotnextaj	Philadelphia, PA
+18388616	ActingAtEdgemar	Los Angeles, CA	14442082	cristyjoy	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	167243896	Lashawn__L	Somewhere drinking tea...
+18388616	ActingAtEdgemar	Los Angeles, CA	1458061922	KyleyKoeth	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	2340740779	garyalexis313	
+18388616	ActingAtEdgemar	Los Angeles, CA	511119478	HamzahSaman	Hollywood, California U.S.A.
+18388616	ActingAtEdgemar	Los Angeles, CA	2678150581	actorswaccents	NYC  actorswithaccents@aol.com
+18388616	ActingAtEdgemar	Los Angeles, CA	1158614881	sissyxyz_wendy	
+18388616	ActingAtEdgemar	Los Angeles, CA	3760473261	LeeKarlinsky	Orlando, FL
+18388616	ActingAtEdgemar	Los Angeles, CA	18236499	LAURENvMONTES	Los Angeles,Hollywood,HP
+18388616	ActingAtEdgemar	Los Angeles, CA	320012447	TdaLegal	USA
+18388616	ActingAtEdgemar	Los Angeles, CA	39379635	charlacochran	Salt Lake City, UT
+18388616	ActingAtEdgemar	Los Angeles, CA	194380537	dmk_official	Vegas, LA
+18388616	ActingAtEdgemar	Los Angeles, CA	3644458042	OfficialJSavage	United States
+18388616	ActingAtEdgemar	Los Angeles, CA	52880843	RudySolis3rd	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	1358333443	gillian_b_todd	New York, NY
+18388616	ActingAtEdgemar	Los Angeles, CA	262532147	StefanieBodkin	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	3294137314	PeytonZBasnight	North Carolina, USA
+18388616	ActingAtEdgemar	Los Angeles, CA	225861949	kevinleewitt	NYC
+18388616	ActingAtEdgemar	Los Angeles, CA	430923774	RandyBarco	Miami, FL
+18388616	ActingAtEdgemar	Los Angeles, CA	513974802	SandeeBengel	New Jersey 
+18388616	ActingAtEdgemar	Los Angeles, CA	52234550	Isaella2002	
+18388616	ActingAtEdgemar	Los Angeles, CA	3035391188	violetshoots	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	3385341391	FrancyBiasiolo	
+18388616	ActingAtEdgemar	Los Angeles, CA	253466758	JohnWusah	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	2391653677	HillArtsnEdu	www.marielahill.com
+18388616	ActingAtEdgemar	Los Angeles, CA	25753509	AliciaDupuis	New York, NY
+18388616	ActingAtEdgemar	Los Angeles, CA	530801631	TannerJGould	
+18388616	ActingAtEdgemar	Los Angeles, CA	136201324	stef_chang	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	2375045849	ItsActor6	Miami Beach
+18388616	ActingAtEdgemar	Los Angeles, CA	3461542336	CarolinaMaxx	Brooklyn, NY
+18388616	ActingAtEdgemar	Los Angeles, CA	33938389	HiramAMurray	California
+18388616	ActingAtEdgemar	Los Angeles, CA	1151268752	jen_kyla	Calgary
+18388616	ActingAtEdgemar	Los Angeles, CA	184081847	DavidOulton	canada | UK 
+18388616	ActingAtEdgemar	Los Angeles, CA	385156574	AlexanderMcEwen	Earth (California)
+18388616	ActingAtEdgemar	Los Angeles, CA	39438362	mccbrian	New York City
+18388616	ActingAtEdgemar	Los Angeles, CA	29579268	LaBrixx	New York
+18388616	ActingAtEdgemar	Los Angeles, CA	95573312	Jo_Mani	Los Angeles, Mars.
+18388616	ActingAtEdgemar	Los Angeles, CA	185518491	taissazveiter	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	72144687	JerziPhelps	LA
+18388616	ActingAtEdgemar	Los Angeles, CA	837057217	Orlando_Ricci	North Carolina
+18388616	ActingAtEdgemar	Los Angeles, CA	17979313	DomPaci	
+18388616	ActingAtEdgemar	Los Angeles, CA	2269524821	KimkimNielsen	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	346233186	KarloWilliam1	Worldwide ~ Karlo William ~
+18388616	ActingAtEdgemar	Los Angeles, CA	87873423	jenellesimone	Searching ...
+18388616	ActingAtEdgemar	Los Angeles, CA	400430838	kara_mcnally	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	2321719411	HerbRuss	
+18388616	ActingAtEdgemar	Los Angeles, CA	311091950	DavidCusguen	California, USA
+18388616	ActingAtEdgemar	Los Angeles, CA	506763209	JakeFarnum117	New York, NY
+18388616	ActingAtEdgemar	Los Angeles, CA	88929569	j_bakess	
+18388616	ActingAtEdgemar	Los Angeles, CA	30139835	celentria	Atlanta, GA
+18388616	ActingAtEdgemar	Los Angeles, CA	3303242989	beastroblphoto	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	238398804	ExRockette	New York
+18388616	ActingAtEdgemar	Los Angeles, CA	2358447481	thejoyivefound	New Web Series 
+18388616	ActingAtEdgemar	Los Angeles, CA	3867069798	Queen_Freyda	Bethany, OK
+18388616	ActingAtEdgemar	Los Angeles, CA	18693020	lilmoongodess	New York
+18388616	ActingAtEdgemar	Los Angeles, CA	2923504453	ChanelRichins	California
+18388616	ActingAtEdgemar	Los Angeles, CA	105633967	ShaWilkerson	North Carolina, Charlotte
+18388616	ActingAtEdgemar	Los Angeles, CA	227231005	CedricMiro	Following my dreams..
+18388616	ActingAtEdgemar	Los Angeles, CA	16706279	natalieraymond	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	2319166788	PatArenas15	Whittier
+18388616	ActingAtEdgemar	Los Angeles, CA	491630610	Anthonyrfoggia	NYC
+18388616	ActingAtEdgemar	Los Angeles, CA	1513630903	La_TriceNFobia	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	61907080	DanCheckley	North Jersey
+18388616	ActingAtEdgemar	Los Angeles, CA	1591259118	kgarza0898	
+18388616	ActingAtEdgemar	Los Angeles, CA	338718948	TheCJBrady	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	1340641682	BillSarkisian45	Azusa, CA.
+18388616	ActingAtEdgemar	Los Angeles, CA	2920527753	actresssatlarge	
+18388616	ActingAtEdgemar	Los Angeles, CA	3120695680	TommyLessears	BeWhatYouDream
+18388616	ActingAtEdgemar	Los Angeles, CA	1112618383	Gary_McKee2	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	25124134	DerekKokinda	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	470866530	guiagustini1	New York City, NY
+18388616	ActingAtEdgemar	Los Angeles, CA	1115981714	MusePattiTroisi	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	164069232	JGallagher23	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	160232585	georgechris24	New York
+18388616	ActingAtEdgemar	Los Angeles, CA	2856909675	sashafusion	Manchester, England
+18388616	ActingAtEdgemar	Los Angeles, CA	122389560	amberngwin	
+18388616	ActingAtEdgemar	Los Angeles, CA	25468888	_JordanGosnell	NYC
+18388616	ActingAtEdgemar	Los Angeles, CA	3995069353	TalithaMercee	Central Texas
+18388616	ActingAtEdgemar	Los Angeles, CA	2657272213	RyanLJenkins	Phoenix, AZ
+18388616	ActingAtEdgemar	Los Angeles, CA	1193204330	DavidGurney1990	Reading, Berkshire
+18388616	ActingAtEdgemar	Los Angeles, CA	440227746	jamierezanour	New York, NY
+18388616	ActingAtEdgemar	Los Angeles, CA	3340328627	rieobryan	
+18388616	ActingAtEdgemar	Los Angeles, CA	2322433262	NitaMistry01	London
+18388616	ActingAtEdgemar	Los Angeles, CA	3874122496	BboyDaydream	
+18388616	ActingAtEdgemar	Los Angeles, CA	2504402827	tbeyer2983	
+18388616	ActingAtEdgemar	Los Angeles, CA	433888526	KristiMasonAct	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	1557537644	TaniaFirth1	London
+18388616	ActingAtEdgemar	Los Angeles, CA	60451504	RegSchneider	New York, USA
+18388616	ActingAtEdgemar	Los Angeles, CA	146140533	eeeemelieg	Sweden 
+18388616	ActingAtEdgemar	Los Angeles, CA	713855743	young_mesh	
+18388616	ActingAtEdgemar	Los Angeles, CA	3900189376	DutchessBritt	Nashville, TN
+18388616	ActingAtEdgemar	Los Angeles, CA	302302850	quirkykatie	CA
+18388616	ActingAtEdgemar	Los Angeles, CA	366341632	Aaronsunday	Lagos Nigeria
+18388616	ActingAtEdgemar	Los Angeles, CA	3855684492	divine_actress	Divine Destiny 
+18388616	ActingAtEdgemar	Los Angeles, CA	1006978561	arturojesus888	Hollywood
+18388616	ActingAtEdgemar	Los Angeles, CA	172383321	MeredithActress	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	1159842799	andrewbering	
+18388616	ActingAtEdgemar	Los Angeles, CA	267496687	jasonkonopisos	
+18388616	ActingAtEdgemar	Los Angeles, CA	221045727	wendimotte	Hollywood
+18388616	ActingAtEdgemar	Los Angeles, CA	350935292	ReeMerrill	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	701117132	BlakeIveyActs	
+18388616	ActingAtEdgemar	Los Angeles, CA	2670490327	AndrewPickwood	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	2466695370	OfficialMarcusD	Perry, Georgia
+18388616	ActingAtEdgemar	Los Angeles, CA	455021268	ElenaSteve89	
+18388616	ActingAtEdgemar	Los Angeles, CA	775962438	dustin_winkler	United States
+18388616	ActingAtEdgemar	Los Angeles, CA	2825314132	chrishahnohio	Mansfield, OH
+18388616	ActingAtEdgemar	Los Angeles, CA	65263106	natashayounge	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	351244282	nordstrom81	
+18388616	ActingAtEdgemar	Los Angeles, CA	1493131711	johnrsmithjnr	Connecticut, USA
+18388616	ActingAtEdgemar	Los Angeles, CA	2371411434	MelissaLHardy	Michigan 
+18388616	ActingAtEdgemar	Los Angeles, CA	30288559	CaRenata	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	2996502619	ThiaMichiko	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	337097907	ShannonCorbeil	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	3051092988	Actor_Jamesw	
+18388616	ActingAtEdgemar	Los Angeles, CA	285884669	corsinidahl	Southern California
+18388616	ActingAtEdgemar	Los Angeles, CA	17034751	KenLally	Korea Town, Los Angeles 
+18388616	ActingAtEdgemar	Los Angeles, CA	3248579048	AronToulouse	
+18388616	ActingAtEdgemar	Los Angeles, CA	190013039	williamr12	Los Angeles, CA, United States
+18388616	ActingAtEdgemar	Los Angeles, CA	3867712094	SCLColeman	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	57538156	JessMGardiner	Los Angeles, Ca
+18388616	ActingAtEdgemar	Los Angeles, CA	2440688766	KimHart21	
+18388616	ActingAtEdgemar	Los Angeles, CA	3805726153	AnnieGrindlay	Los Angeles, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	2561319519	theresa_gause	Atlanta, GA
+18388616	ActingAtEdgemar	Los Angeles, CA	3003859197	matlock_artist	Atlanta, GA
+18388616	ActingAtEdgemar	Los Angeles, CA	132598410	maizing2	Guatemala
+18388616	ActingAtEdgemar	Los Angeles, CA	2912908502	shembhah	
+18388616	ActingAtEdgemar	Los Angeles, CA	1245214176	ChelseaAMusic	South Dakota
+18388616	ActingAtEdgemar	Los Angeles, CA	907656331	flame220621	
+18388616	ActingAtEdgemar	Los Angeles, CA	2866848666	karuna648	London
+18388616	ActingAtEdgemar	Los Angeles, CA	3875548053	luckyelephant96	NJ/NY
+18388616	ActingAtEdgemar	Los Angeles, CA	972552590	HHTVmodels2	BH|Hollywood|SD|ATX|ATL|UK|SA
+18388616	ActingAtEdgemar	Los Angeles, CA	397000627	kgracerr	LA-ATL
+18388616	ActingAtEdgemar	Los Angeles, CA	2355266917	JMNHSBosu1	L.A.
+18388616	ActingAtEdgemar	Los Angeles, CA	2372523899	arikhartman	
+18388616	ActingAtEdgemar	Los Angeles, CA	237416224	amyyjb	
+18388616	ActingAtEdgemar	Los Angeles, CA	3230009030	missiematecki	Texas, USA
+18388616	ActingAtEdgemar	Los Angeles, CA	85835820	TTolman	Native Californian
+18388616	ActingAtEdgemar	Los Angeles, CA	3669098234	Mika_Claire	
+18388616	ActingAtEdgemar	Los Angeles, CA	244685846	rmccoy1963	
+18388616	ActingAtEdgemar	Los Angeles, CA	3513109698	__SPN1967__	
+18388616	ActingAtEdgemar	Los Angeles, CA	369257057	Bad__Scooter	A Galaxy Far, Far Away...
+18388616	ActingAtEdgemar	Los Angeles, CA	2471383688	Evprickett14	Orlando, FL
+18388616	ActingAtEdgemar	Los Angeles, CA	399842845	LouisLoother	San Diego, CA
+18388616	ActingAtEdgemar	Los Angeles, CA	3342058871	mischajrcabrea	Slytherin bedrooms 
+18388616	ActingAtEdgemar	Los Angeles, CA	3394638185	DathanSmith1	Tillsonburg Ontario, Canada 
+18388616	ActingAtEdgemar	Los Angeles, CA	3118570377	farhanaakhter21	
+18388616	ActingAtEdgemar	Los Angeles, CA	1887145380	RajivNorman	
+18388616	ActingAtEdgemar	Los Angeles, CA	30192830	Gattino73	italy
+18388616	ActingAtEdgemar	Los Angeles, CA	2893149163	JJ_GTA	
+18388616	ActingAtEdgemar	Los Angeles, CA	1498006807	cemalsahin15	
+18388616	ActingAtEdgemar	Los Angeles, CA	26325080	emma_traves	London
+18388616	ActingAtEdgemar	Los Angeles, CA	2735064129	85onlyyou	
+18388616	ActingAtEdgemar	Los Angeles, CA	1626906301	cassidy0727	
+18388616	ActingAtEdgemar	Los Angeles, CA	16304151	niccapanggat	Los Angeles
+18388616	ActingAtEdgemar	Los Angeles, CA	36526198	stepha92nia	South Florida
+18388616	ActingAtEdgemar	Los Angeles, CA	3295690542	patton_germany	Germany
+18388616	ActingAtEdgemar	Los Angeles, CA	995150622	ZoiKostoudi	Greece, NY
+18388616	ActingAtEdgemar	Los Angeles, CA	35144307	txangelwolf	TX
+18388616	ActingAtEdgemar	Los Angeles, CA	45479866	byebritt4	Chicago
+18388616	ActingAtEdgemar	Los Angeles, CA	1138259726	michaelalala10	
+73683746	RobbieKayeArts	Santa Ynez, CA	3753714927	ArtAndTentacles	London, England
+73683746	RobbieKayeArts	Santa Ynez, CA	395414931	gerontologien	Oslo
+73683746	RobbieKayeArts	Santa Ynez, CA	998484205	LaurelGlen	Glen Ellen, CA
+73683746	RobbieKayeArts	Santa Ynez, CA	218634414	letgotogrow	Richmond, VA
+73683746	RobbieKayeArts	Santa Ynez, CA	601240851	EmilyJourney	Ohio, USA
+73683746	RobbieKayeArts	Santa Ynez, CA	1923171798	ELizandernie5	
+73683746	RobbieKayeArts	Santa Ynez, CA	2545655084	JamesLongLtd	Manchester
+73683746	RobbieKayeArts	Santa Ynez, CA	152568491	belangelat	Denmark
+73683746	RobbieKayeArts	Santa Ynez, CA	2849814501	PLDN_Mastering	London, UK
+73683746	RobbieKayeArts	Santa Ynez, CA	2466126691	10XActions	Detroit, MI
+73683746	RobbieKayeArts	Santa Ynez, CA	182446919	DanDanWineMan	Wappingers Falls, NY
+73683746	RobbieKayeArts	Santa Ynez, CA	1532357965	FlowerpotSocial	facebook.com/flowerpotsocial
+73683746	RobbieKayeArts	Santa Ynez, CA	398037810	LatoyiaCrupe	Charleston, WV
+73683746	RobbieKayeArts	Santa Ynez, CA	2705805788	winetrackerco	Woodinville, WA
+57170795	YahooTV	Santa Monica, CA	148807607	AMC_TV	New York
+57170795	YahooTV	Santa Monica, CA	14724725	TheWalkingDead	Los Angeles, CA
+57170795	YahooTV	Santa Monica, CA	381688396	AMCTalkingDead	
+57170795	YahooTV	Santa Monica, CA	174824666	TraynorLand	
+57170795	YahooTV	Santa Monica, CA	116594541	RossMarquand	
+57170795	YahooTV	Santa Monica, CA	55745718	jwoodsrobinson	
+57170795	YahooTV	Santa Monica, CA	1093740553	TovahwithaV	New York, New York
+57170795	YahooTV	Santa Monica, CA	237883903	petedavidson	
+57170795	YahooTV	Santa Monica, CA	3294024618	CoreyHawkins	New York, NY
+57170795	YahooTV	Santa Monica, CA	986235307	SonequaMG	
+57170795	YahooTV	Santa Monica, CA	33434326	JoshMcDermitt	Los Angeles
+57170795	YahooTV	Santa Monica, CA	14173941	GeoffreyColo	Los Angeles, CA
+57170795	YahooTV	Santa Monica, CA	115109457	ErinRRichards	NYC filming Gotham for Fox
+57170795	YahooTV	Santa Monica, CA	109009420	seanpertwee	London / NYC / Gotham
+57170795	YahooTV	Santa Monica, CA	349922949	JakeMcDorman	LA | NY
+57170795	YahooTV	Santa Monica, CA	121241068	yoabbaabba	
+57170795	YahooTV	Santa Monica, CA	191162883	WEarlBrown	Los Angeles, CA
+57170795	YahooTV	Santa Monica, CA	100322679	SophieT	
+57170795	YahooTV	Santa Monica, CA	282864242	Bitchuation	
+57170795	YahooTV	Santa Monica, CA	2493599652	AtTheKnick	
+57170795	YahooTV	Santa Monica, CA	21943045	jillsoloway	Silver Lake, Los Angeles
+57170795	YahooTV	Santa Monica, CA	309224837	RyanMcFaul	
+57170795	YahooTV	Santa Monica, CA	163950604	denisohare	Brooklyn, NY
+57170795	YahooTV	Santa Monica, CA	213478296	UzoAduba	New York
+57170795	YahooTV	Santa Monica, CA	610566084	zoeinthecities	late as always.
+57170795	YahooTV	Santa Monica, CA	1207473092	FinnWittrock	
+57170795	YahooTV	Santa Monica, CA	33230016	TitussBurgess	NYC
+57170795	YahooTV	Santa Monica, CA	243905905	LisaKudrow	Los Angeles
+57170795	YahooTV	Santa Monica, CA	598540507	tatianamaslany	
+57170795	YahooTV	Santa Monica, CA	389643429	RealRobinWright	
+57170795	YahooTV	Santa Monica, CA	892219807	WhitfordBradley	
+57170795	YahooTV	Santa Monica, CA	37387336	OrvilleIV	
+57170795	YahooTV	Santa Monica, CA	64857643	jeffreytambor	New York
+57170795	YahooTV	Santa Monica, CA	210921551	anthonyanderson	The Universe
+57170795	YahooTV	Santa Monica, CA	107107001	WilliamHMacy	Los Angeles
+57170795	YahooTV	Santa Monica, CA	24516804	timhutton	new york city
+57170795	YahooTV	Santa Monica, CA	3353566654	adrienbrody	
+57170795	YahooTV	Santa Monica, CA	76417027	MrBeauBridges	Los Angeles, CA
+57170795	YahooTV	Santa Monica, CA	3226351612	alanalda	
+57170795	YahooTV	Santa Monica, CA	2742380412	Bloodline	Florida Keys
+57170795	YahooTV	Santa Monica, CA	972835308	SHO_RayDonovan	Los Angeles, CA
+57170795	YahooTV	Santa Monica, CA	33823446	michaelsheen	All over the place.
+57170795	YahooTV	Santa Monica, CA	482357671	SHO_Masters	Showtime
+57170795	YahooTV	Santa Monica, CA	2179031803	BenMendelsohn_	Melbourne / LA
+57170795	YahooTV	Santa Monica, CA	1855517916	BetterCallSaul	
+57170795	YahooTV	Santa Monica, CA	44019762	msjordanscott	New York, NY
+57170795	YahooTV	Santa Monica, CA	125365331	DeadliestCatch	Dutch Harbor, AK
+57170795	YahooTV	Santa Monica, CA	30229853	crabwizard	Bering Sea
+57170795	YahooTV	Santa Monica, CA	3068362695	UnRealLifetime	
+57170795	YahooTV	Santa Monica, CA	535652363	robtapert	NZ / USA
+57170795	YahooTV	Santa Monica, CA	487412249	RealLucyLawless	NZ/USA
+57170795	YahooTV	Santa Monica, CA	55748107	NiecyNash	Los Angeles
+57170795	YahooTV	Santa Monica, CA	28420827	FINALLEVEL	THE HOOD
+57170795	YahooTV	Santa Monica, CA	28474662	cocosworld	Earth 
+57170795	YahooTV	Santa Monica, CA	3008504570	iceandcocotalk	
+57170795	YahooTV	Santa Monica, CA	14135350	biannagolodryga	New York
+57170795	YahooTV	Santa Monica, CA	24325547	nickcarter	
+57170795	YahooTV	Santa Monica, CA	2473430923	realdavidmazouz	Los Angeles/ Gotham
+57170795	YahooTV	Santa Monica, CA	135984962	HayleyAtwell	
+57170795	YahooTV	Santa Monica, CA	15515656	ChloeBennet4	Los Angeles & Chicago 
+57170795	YahooTV	Santa Monica, CA	848648000	AdriannePalicki	Los Angeles, Austin, Ohio....
+57170795	YahooTV	Santa Monica, CA	1020863052	NBCGameNight	NBC
+57170795	YahooTV	Santa Monica, CA	20296976	kenobibear	New York City
+57170795	YahooTV	Santa Monica, CA	472872558	MrT	
+57170795	YahooTV	Santa Monica, CA	200163448	TheAcademy	Beverly Hills, CA
+57170795	YahooTV	Santa Monica, CA	2252262966	SalemWGNA	
+57170795	YahooTV	Santa Monica, CA	183788526	KaDeeStrick	california
+57170795	YahooTV	Santa Monica, CA	143192279	HereIsGina	I can and I will
+57170795	YahooTV	Santa Monica, CA	622374513	JennieUrman	
+57170795	YahooTV	Santa Monica, CA	331509056	yaelgrobglas	
+57170795	YahooTV	Santa Monica, CA	148469993	Brettdier	
+57170795	YahooTV	Santa Monica, CA	24665054	justinbaldoni	Los Angeles
+57170795	YahooTV	Santa Monica, CA	2151271448	AndreaNavedo	NY
+57170795	YahooTV	Santa Monica, CA	613703970	TheCW_PR	
+57170795	YahooTV	Santa Monica, CA	2564088078	JaneWriters	
+57170795	YahooTV	Santa Monica, CA	820928070	RadyMichael	
+57170795	YahooTV	Santa Monica, CA	21206424	STARZ_Channel	Taking You Places
+57170795	YahooTV	Santa Monica, CA	1164200138	BearTheCat2	East Coast
+57170795	YahooTV	Santa Monica, CA	928488518	GrumpyLGoodman	Kent UK/ LA
+57170795	YahooTV	Santa Monica, CA	766138944	BrunoTonioli	
+57170795	YahooTV	Santa Monica, CA	405793882	EmmaSlaterDance	Los Angeles, USA
+57170795	YahooTV	Santa Monica, CA	90334660	CherylBurke	Los Angeles, CA
+57170795	YahooTV	Santa Monica, CA	38690583	Edyta_Sliwinska	
+57170795	YahooTV	Santa Monica, CA	51520765	chelsiehightowr	
+57170795	YahooTV	Santa Monica, CA	79016103	atrebunskaya	California
+57170795	YahooTV	Santa Monica, CA	38887838	kym_johnson	Los Angeles
+57170795	YahooTV	Santa Monica, CA	67920551	TonyDovolani	
+57170795	YahooTV	Santa Monica, CA	596261273	WitneyCarson	
+57170795	YahooTV	Santa Monica, CA	29283877	SharnaBurgess	LA LA LAND :)
+57170795	YahooTV	Santa Monica, CA	40752044	iamValC	NYC / LA 
+57170795	YahooTV	Santa Monica, CA	24133713	MaksimC	CantamessaMan.com
+57170795	YahooTV	Santa Monica, CA	107512859	joshduhamel	California
+57170795	YahooTV	Santa Monica, CA	16579345	juliannehough	Everywhere
+57170795	YahooTV	Santa Monica, CA	30503160	derekhough	
+57170795	YahooTV	Santa Monica, CA	2725430616	keodancer	Los Angeles
+57170795	YahooTV	Santa Monica, CA	20019468	TheRue	
+57170795	YahooTV	Santa Monica, CA	90006831	SarahDrewGreys	
+57170795	YahooTV	Santa Monica, CA	1633987406	SaraRamirez	
+57170795	YahooTV	Santa Monica, CA	1888149452	IamSandraOh	
+57170795	YahooTV	Santa Monica, CA	1290082680	EllenPompeo	NY/LA
+57170795	YahooTV	Santa Monica, CA	542025613	PanjabiArchie	
+57170795	YahooTV	Santa Monica, CA	189283341	GreysABC	
+57170795	YahooTV	Santa Monica, CA	142528310	Gabriel_Mann	LAXNY
+57170795	YahooTV	Santa Monica, CA	303048990	EmilyVanCamp	Los Angeles
+57170795	YahooTV	Santa Monica, CA	2344396645	MadamSecretary	
+57170795	YahooTV	Santa Monica, CA	342770193	Alancumming	Planet Alan
+57170795	YahooTV	Santa Monica, CA	288302723	Revenge	
+57170795	YahooTV	Santa Monica, CA	2174680237	MattLauria	The City of Angels
+57170795	YahooTV	Santa Monica, CA	33041426	daxshepard1	LA
+57170795	YahooTV	Santa Monica, CA	1287550088	MaxBurkholder	Los Angeles
+78536984	radioactivROACH	Santa Monica, CA	232995165	phunalu	California 
+78536984	radioactivROACH	Santa Monica, CA	18570772	ZAGGdaily	Salt Lake City, UT
+78536984	radioactivROACH	Santa Monica, CA	63194944	OfficeMaxDeal	Naperville, Illinois
+78536984	radioactivROACH	Santa Monica, CA	97746222	DarGadgetZ	Everywhere
+78536984	radioactivROACH	Santa Monica, CA	14803861	musiciansfriend	Greater Los Angeles area
+78536984	radioactivROACH	Santa Monica, CA	16402507	Thrillist	
+78536984	radioactivROACH	Santa Monica, CA	110775353	CVS_Extra	Rhode Island
+78536984	radioactivROACH	Santa Monica, CA	175060812	11thStrtCoffee	
+78536984	radioactivROACH	Santa Monica, CA	57170795	YahooTV	Santa Monica, CA
+78536984	radioactivROACH	Santa Monica, CA	18957524	Syfy	New York, NY
+78536984	radioactivROACH	Santa Monica, CA	94077150	Global_Graphics	Cambridge, UK
+78536984	radioactivROACH	Santa Monica, CA	21937380	QueenBeeBH	213-985-2597
+78536984	radioactivROACH	Santa Monica, CA	62427354	book_bee	
+78536984	radioactivROACH	Santa Monica, CA	78532296	sklugi	
+78536984	radioactivROACH	Santa Monica, CA	17092592	SEGA	London & San Francisco
+78536984	radioactivROACH	Santa Monica, CA	80976653	richard_solo	San Francisco
+78536984	radioactivROACH	Santa Monica, CA	157873303	ChrisRayne_S408	Death Race 
+78536984	radioactivROACH	Santa Monica, CA	141237151	Rubiks_Slide	
+78536984	radioactivROACH	Santa Monica, CA	18460724	microsofttag	everywhere
+78536984	radioactivROACH	Santa Monica, CA	82572470	LeanneGipLCSW	Sunny California
+78536984	radioactivROACH	Santa Monica, CA	70882430	SmoothCriminalC	
+78536984	radioactivROACH	Santa Monica, CA	81192324	DealWonders	
+78536984	radioactivROACH	Santa Monica, CA	28118599	CashBackFastNow	Where you are :)
+78536984	radioactivROACH	Santa Monica, CA	84334533	SportsAuthority	Englewood, CO
+78536984	radioactivROACH	Santa Monica, CA	61349667	cymax	USA
+78536984	radioactivROACH	Santa Monica, CA	14792680	PriceGrabber	Los Angeles, California USA
+78536984	radioactivROACH	Santa Monica, CA	21973455	HWoodPreviews	Santa Monica, CA
+78536984	radioactivROACH	Santa Monica, CA	19498799	authorcamilson	Melbourne, VIC, Australia
+78536984	radioactivROACH	Santa Monica, CA	32577661	Mousenvy	US
+78536984	radioactivROACH	Santa Monica, CA	15160573	selectism	Berlin, London, New York
+78536984	radioactivROACH	Santa Monica, CA	19777635	SwatchUS	store.swatch.com
+78536984	radioactivROACH	Santa Monica, CA	25261812	win_prizes	
+78536984	radioactivROACH	Santa Monica, CA	62194408	royalplazatweet	Singapore
+78536984	radioactivROACH	Santa Monica, CA	64038064	SP3CTRUMDOTCOM	INSIDE UR MAKEUP BAG
+78536984	radioactivROACH	Santa Monica, CA	34983095	rockyourphoneco	Colorado, USA
+78536984	radioactivROACH	Santa Monica, CA	77888423	OMGFacts	Chicago, Illinois
+78536984	radioactivROACH	Santa Monica, CA	1985381	DealsPlus	California, USA
+78536984	radioactivROACH	Santa Monica, CA	87020265	iZotopeInc	Cambridge, MA
+78536984	radioactivROACH	Santa Monica, CA	71336380	TivoliAudio	
+78536984	radioactivROACH	Santa Monica, CA	93702433	FWLending	Tarzana, CA (California)
+78536984	radioactivROACH	Santa Monica, CA	16324533	1800DENTIST	Los Angeles
+78536984	radioactivROACH	Santa Monica, CA	45656977	SearsHTS	1100+ stores in US Nationwide
+78536984	radioactivROACH	Santa Monica, CA	14090132	PCConnection	Merrimack, NH
+78536984	radioactivROACH	Santa Monica, CA	19266056	Offers	Austin, TX
+78536984	radioactivROACH	Santa Monica, CA	33695785	Fitness_PT	Miami
+78536984	radioactivROACH	Santa Monica, CA	22839486	rockandrepublic	Los Angeles, California
+78536984	radioactivROACH	Santa Monica, CA	12613282	yankodesign	United States
+78536984	radioactivROACH	Santa Monica, CA	87061350	styleguidance	NYC Area
+78536984	radioactivROACH	Santa Monica, CA	18640979	Feltmeupdesigns	Scarborough
+78536984	radioactivROACH	Santa Monica, CA	16570335	RobynsWorld	St. Louis, Missouri
+78536984	radioactivROACH	Santa Monica, CA	62714846	LCJewel	South Jersey
+35939707	VWSantaMonica	Santa Monica, CA	95297638	Georgia_Dow	Canada
+35939707	VWSantaMonica	Santa Monica, CA	15086405	iMore	Cupertino, CA
+35939707	VWSantaMonica	Santa Monica, CA	2696035129	WorkshopLH	
+35939707	VWSantaMonica	Santa Monica, CA	55396840	TannerFoust	
+35939707	VWSantaMonica	Santa Monica, CA	179227516	aVagabondSong	Ottawa, Ontario
+35939707	VWSantaMonica	Santa Monica, CA	85930341	pacpark	Santa Monica, CA
+35939707	VWSantaMonica	Santa Monica, CA	72861485	AutoweekUSA	Detroit, MI
+35939707	VWSantaMonica	Santa Monica, CA	15018214	Tim_Stevens	NY
+35939707	VWSantaMonica	Santa Monica, CA	16874226	KelleyBlueBook	Irvine, CA
+35939707	VWSantaMonica	Santa Monica, CA	568621669	InsideEVs	
+35939707	VWSantaMonica	Santa Monica, CA	16686408	theCD	Rochester, NY
+17852343	YahooMovies	New York and LA	27022632	rejectedjokes	Los Angeles, CA
+17852343	YahooMovies	New York and LA	41392686	rosa_salazar	
+17852343	YahooMovies	New York and LA	256659585	Kat_McNamara	NYC/LA/KC
+17852343	YahooMovies	New York and LA	18261095	jamesdashner	
+17852343	YahooMovies	New York and LA	347493157	PoulterWill	LONDON
+17852343	YahooMovies	New York and LA	785493949	MazeRunnerMovie	The Scorch
+17852343	YahooMovies	New York and LA	771521	wesball	Los Angeles, California
+17852343	YahooMovies	New York and LA	27629038	AlzValz	New York, NY
+17852343	YahooMovies	New York and LA	44019762	msjordanscott	New York, NY
+17852343	YahooMovies	New York and LA	15750122	BrianMaxMann	BK via ATL
+17852343	YahooMovies	New York and LA	192288002	1Neilbrownjr	los angeles,ca
+17852343	YahooMovies	New York and LA	59959530	AldisHodge	
+17852343	YahooMovies	New York and LA	2574194136	JasonMitch	
+17852343	YahooMovies	New York and LA	23797835	FGaryGray	Worldwide
+17852343	YahooMovies	New York and LA	19671129	icecube	Los Angeles, CA
+17852343	YahooMovies	New York and LA	1876322665	ComptonMovie	
+17852343	YahooMovies	New York and LA	462957532	jakeschreier	
+17852343	YahooMovies	New York and LA	3301331992	JLdoco	Australia
+17852343	YahooMovies	New York and LA	71177327	ParamountAU	Sydney Australia
+25192675	apogeedigital	Santa Monica, CA	759251	CNN	
+25192675	apogeedigital	Santa Monica, CA	3108351	WSJ	New York, NY
+25192675	apogeedigital	Santa Monica, CA	8690322	iyaz	New York, NY
+25192675	apogeedigital	Santa Monica, CA	28987332	nickyromero	Toulouse
+25192675	apogeedigital	Santa Monica, CA	807095	nytimes	New York City
+25192675	apogeedigital	Santa Monica, CA	1658667362	AskAudioMag	
+25192675	apogeedigital	Santa Monica, CA	25964071	ScharffIsHere	NYC/LA
+25192675	apogeedigital	Santa Monica, CA	184910040	Adele	London
+25192675	apogeedigital	Santa Monica, CA	268439864	xtina	
+25192675	apogeedigital	Santa Monica, CA	19248106	MariahCarey	Citizen of the World Dahhhling
+25192675	apogeedigital	Santa Monica, CA	85603854	JLo	Bronx, NY
+25192675	apogeedigital	Santa Monica, CA	25027806	THEREALSWIZZZ	OUT OF THIS WORLD....
+25192675	apogeedigital	Santa Monica, CA	35094637	aliciakeys	New York City
+25192675	apogeedigital	Santa Monica, CA	18228898	johnlegend	New York, NY, USA
+25192675	apogeedigital	Santa Monica, CA	49573859	iamwill	
+25192675	apogeedigital	Santa Monica, CA	338084918	Pharrell	
+25192675	apogeedigital	Santa Monica, CA	17696167	Ludacris	International
+25192675	apogeedigital	Santa Monica, CA	207923746	Timbaland	@Thomascrownva
+25192675	apogeedigital	Santa Monica, CA	19671129	icecube	Los Angeles, CA
+25192675	apogeedigital	Santa Monica, CA	14512909	regulator	Long Beach, CA
+25192675	apogeedigital	Santa Monica, CA	14784903	MakersMark	Loretto, KY
+20265488	challengeKDZ	Santa Monica, CA	16185450	MyCityLibrary	West Palm Beach, FL
+20265488	challengeKDZ	Santa Monica, CA	15570593	AbingtonLibrary	1030 Old York Road, Abington, 
+20265488	challengeKDZ	Santa Monica, CA	16148688	NYLA_1890	New York State
+20265488	challengeKDZ	Santa Monica, CA	15728184	HandsOnNetwork	Atlanta, Georgia
+20265488	challengeKDZ	Santa Monica, CA	36639914	fastreader	Dallas TX
+20265488	challengeKDZ	Santa Monica, CA	91939659	hilwhite1	Los Angeles
+20265488	challengeKDZ	Santa Monica, CA	140912287	candoteacherpat	New York, NY
+20265488	challengeKDZ	Santa Monica, CA	69666312	K12Learn	Herndon, VA
+20265488	challengeKDZ	Santa Monica, CA	39430898	iep4u	
+20265488	challengeKDZ	Santa Monica, CA	16571346	Martin_E_Rubio	Toronto
+20265488	challengeKDZ	Santa Monica, CA	65433609	librarianchat	Texas
+20265488	challengeKDZ	Santa Monica, CA	22960333	edyoucation	West Virginia - Appalachia
+20265488	challengeKDZ	Santa Monica, CA	52585930	edtechscience	Tennessee, USA
+20265488	challengeKDZ	Santa Monica, CA	55877057	COCharterXaminr	Colorado Springs
+20265488	challengeKDZ	Santa Monica, CA	16308828	futurelabedu	UK
+20265488	challengeKDZ	Santa Monica, CA	71399159	TeamMarine	Santa Monica
+20265488	challengeKDZ	Santa Monica, CA	119990591	MuirRanch	John Muir High, Pasadena CA
+20265488	challengeKDZ	Santa Monica, CA	20611155	EthicsLAUSD	333. S. Beaudry Ave. Los Angel
+20265488	challengeKDZ	Santa Monica, CA	15161364	servicelearning	Washington D.C.
+20265488	challengeKDZ	Santa Monica, CA	23129135	emdela	
+20265488	challengeKDZ	Santa Monica, CA	111444854	TheDigitalLab	Worldwide
+20265488	challengeKDZ	Santa Monica, CA	54662755	AACTE	Washington, DC
+20265488	challengeKDZ	Santa Monica, CA	113727287	EdSurvey	New York
+20265488	challengeKDZ	Santa Monica, CA	60098604	Thanks2Teachers	Jerusalem, Israel
+20265488	challengeKDZ	Santa Monica, CA	26051404	massteacher	Boston, Mass.
+20265488	challengeKDZ	Santa Monica, CA	16028750	gtoppo	Washington, D.C.
+20265488	challengeKDZ	Santa Monica, CA	19135505	BelieveKids	Centennial, CO
+20265488	challengeKDZ	Santa Monica, CA	72697800	arcsm	Santa Monica, CA
+20265488	challengeKDZ	Santa Monica, CA	67424923	santamonicacity	1685 Main St Santa Monica, CA
+20265488	challengeKDZ	Santa Monica, CA	14586858	hibbinglibrary	Hibbing, Minnesota
+20265488	challengeKDZ	Santa Monica, CA	43170411	jaxlibrary	Jacksonville, Florida
+20265488	challengeKDZ	Santa Monica, CA	20536641	DeltaTwpLibrary	Lansing, MI
+20265488	challengeKDZ	Santa Monica, CA	34433261	anchlibrary	Anchorage, AK
+20265488	challengeKDZ	Santa Monica, CA	38160029	ChampaignPubLib	Champaign, IL
+20265488	challengeKDZ	Santa Monica, CA	19405425	KCKPL	Kansas City, Kansas
+20265488	challengeKDZ	Santa Monica, CA	15006388	ArlingtonTXLib	Arlington, Texas
+20265488	challengeKDZ	Santa Monica, CA	21907266	palatinelibrary	Palatine, IL
+20265488	challengeKDZ	Santa Monica, CA	63603017	GraceMellmanLib	Temecula, CA
+20265488	challengeKDZ	Santa Monica, CA	60978932	SLCPL	Salt Lake City, UT
+20265488	challengeKDZ	Santa Monica, CA	29479847	springfieldlib	Springfield-Greene County, MO
+20265488	challengeKDZ	Santa Monica, CA	26772762	tulsalibrary	Tulsa, OK
+20265488	challengeKDZ	Santa Monica, CA	6319192	planolibrary	Plano, TX
+20265488	challengeKDZ	Santa Monica, CA	27575408	L_A_Librarian	Los Angeles Public Library
+20265488	challengeKDZ	Santa Monica, CA	27074791	CalLibAssoc	Monrovia, CA
+20265488	challengeKDZ	Santa Monica, CA	20162219	MetroLibraryOK	Oklahoma County
+20265488	challengeKDZ	Santa Monica, CA	21799699	ALALibrary	Chicago, IL
+20265488	challengeKDZ	Santa Monica, CA	31772276	ChesCoLibrary	Exton, PA
+20265488	challengeKDZ	Santa Monica, CA	38010773	cranburypl	Cranbury, NJ
+20265488	challengeKDZ	Santa Monica, CA	40275736	ProjectReadMe	South San Francisco
+20265488	challengeKDZ	Santa Monica, CA	20698349	Swanslib	6 miles off Midcoast Maine
+20265488	challengeKDZ	Santa Monica, CA	41704187	Pembroke_PL	Pembroke, Massachusetts, USA
+20265488	challengeKDZ	Santa Monica, CA	18224553	flenniken	Carmichaels, PA
+20265488	challengeKDZ	Santa Monica, CA	23554687	chelmsfordlib	Chelmsford, MA 01824
+20265488	challengeKDZ	Santa Monica, CA	36146539	FinneyCountyLib	Garden City, KS
+20265488	challengeKDZ	Santa Monica, CA	46433555	SanPedroLibrary	San Pedro, California
+20265488	challengeKDZ	Santa Monica, CA	19209257	NCLibrary	New Carlisle, OH
+20265488	challengeKDZ	Santa Monica, CA	25337021	ArapahoeLibrary	Centennial, Colorado
+20265488	challengeKDZ	Santa Monica, CA	27372389	WCPLibrary	Bluffton, Indiana
+20265488	challengeKDZ	Santa Monica, CA	16622434	salibrary	South Amboy, NJ USA
+20265488	challengeKDZ	Santa Monica, CA	45608946	MilwaukeePubLib	Milwaukee, WI
+20265488	challengeKDZ	Santa Monica, CA	27720813	dentonlibrary	Denton, TX
+20265488	challengeKDZ	Santa Monica, CA	15780496	lpcpublib	Livingston, Montana
+20265488	challengeKDZ	Santa Monica, CA	14766488	GPLibraryMA	Greenfield, MA
+20265488	challengeKDZ	Santa Monica, CA	34967144	ferndalelibrary	Ferndale, MI
+20265488	challengeKDZ	Santa Monica, CA	16455051	CMRLSLibrary	Brandon, MS, USA
+20265488	challengeKDZ	Santa Monica, CA	33930990	fayettevillelib	Fayetteville, NY
+20265488	challengeKDZ	Santa Monica, CA	19800923	thommyford	Western Springs, IL
+20265488	challengeKDZ	Santa Monica, CA	15064311	walthamlibrary	Waltham, MA
+20265488	challengeKDZ	Santa Monica, CA	14468397	AlsipMP_Library	11960 S Pulaski
+20265488	challengeKDZ	Santa Monica, CA	16352308	WSPLEvents	West Springfield, MA
+20265488	challengeKDZ	Santa Monica, CA	15448304	greenelibrary	Xenia, OH
+20265488	challengeKDZ	Santa Monica, CA	16886511	whitmanlibrary	Whitman, MA
+20265488	challengeKDZ	Santa Monica, CA	58916436	bcpubliclibrary	Binghamton NY
+20265488	challengeKDZ	Santa Monica, CA	10681492	WaldoLibrary	201 E 75th St. Kansas City MO 
+20265488	challengeKDZ	Santa Monica, CA	19926038	TotemTom	Hamden, CT
+20265488	challengeKDZ	Santa Monica, CA	15598460	WestlakePorter	Northeastern Ohio, USA
+20265488	challengeKDZ	Santa Monica, CA	35763977	boonelibrary	Boone County, Kentucky
+20265488	challengeKDZ	Santa Monica, CA	15504284	WestportLibrary	Westport, CT
+20265488	challengeKDZ	Santa Monica, CA	36369398	ebrpl	Baton Rouge
+20265488	challengeKDZ	Santa Monica, CA	7737062	nclstaff	Sebastian FL USA
+20265488	challengeKDZ	Santa Monica, CA	23456043	stowelibrary	Stowe, Vermont
+20265488	challengeKDZ	Santa Monica, CA	15074876	SDSMT_Library	Rapid City, SD
+20265488	challengeKDZ	Santa Monica, CA	55575927	KDLNews	Kent County, Michigan
+20265488	challengeKDZ	Santa Monica, CA	19307000	WinnLib	Winnetka, IL
+20265488	challengeKDZ	Santa Monica, CA	72633501	LibraryofCT	Hartford, CT
+20265488	challengeKDZ	Santa Monica, CA	13674512	westervlibrary	Westerville, OH 
+20265488	challengeKDZ	Santa Monica, CA	17630958	Mifflin_Library	Shillington, PA
+20265488	challengeKDZ	Santa Monica, CA	59238655	ACPL	Fort Wayne, Indiana
+20265488	challengeKDZ	Santa Monica, CA	14850766	GCPL	Garden City, Idaho 
+20265488	challengeKDZ	Santa Monica, CA	23974548	Oleanpublibrary	Olean, NY
+20265488	challengeKDZ	Santa Monica, CA	5348862	takoma	Takoma Park, Maryland
+20265488	challengeKDZ	Santa Monica, CA	36178006	accessfreely	Columbia, SC
+20265488	challengeKDZ	Santa Monica, CA	55250508	thebplibrary	Bristol, VA
+20265488	challengeKDZ	Santa Monica, CA	29534671	HuntLibNY	Huntington, New York
+20265488	challengeKDZ	Santa Monica, CA	10843752	hcpl	Eminence, KY
+20265488	challengeKDZ	Santa Monica, CA	14590451	zblibrary	Illinois
+20265488	challengeKDZ	Santa Monica, CA	9230252	GrabillLibrary	Fort Wayne, Indiana, USA
+20265488	challengeKDZ	Santa Monica, CA	43890089	EVPLInfo	Evansville, IN
+20265488	challengeKDZ	Santa Monica, CA	15212440	andersonlibrary	Anderson, Indiana
+20265488	challengeKDZ	Santa Monica, CA	20089896	MillisLibrary	Millis, MA
+20265488	challengeKDZ	Santa Monica, CA	28652456	prpl	Park Ridge, IL
+20265488	challengeKDZ	Santa Monica, CA	21683930	bvillelibrary	Bartlesville, Oklahoma, USA
+20265488	challengeKDZ	Santa Monica, CA	29858710	SouthfieldPL	Southfield, MI 
+20265488	challengeKDZ	Santa Monica, CA	9273702	BoscoLibrary	Wisconsin US
+20265488	challengeKDZ	Santa Monica, CA	15647032	HinsdaleLibrary	Hinsdale, IL
+20265488	challengeKDZ	Santa Monica, CA	14602091	FRGML	Fox River Grove, IL 
+20265488	challengeKDZ	Santa Monica, CA	17372756	PlymouthDL	Plymouth, Michigan
+20265488	challengeKDZ	Santa Monica, CA	47452414	oakparklibrary	Oak Park, IL
+20265488	challengeKDZ	Santa Monica, CA	15549462	sfpl	Santa Fe, NM
+20265488	challengeKDZ	Santa Monica, CA	17843498	DuxFreeLib	
+20265488	challengeKDZ	Santa Monica, CA	16929419	grotonNYlibrary	Groton, NY
+20265488	challengeKDZ	Santa Monica, CA	24588210	Worcester_PL	Worcester MA 01608 
+20265488	challengeKDZ	Santa Monica, CA	17000238	Library_Gerbils	Highland Park, Illinois
+20265488	challengeKDZ	Santa Monica, CA	16695903	boyertowncl	Boyertown, PA
+20265488	challengeKDZ	Santa Monica, CA	39284667	SLCL	St. Louis, MO
+20265488	challengeKDZ	Santa Monica, CA	16542672	MCLS	Rochester, NY
+20265488	challengeKDZ	Santa Monica, CA	10216392	ssldl	South Lyon, MI
+20265488	challengeKDZ	Santa Monica, CA	6090652	watpublibrary	Waterford, New York
+20265488	challengeKDZ	Santa Monica, CA	7138742	lesterpublic	iPhone: 44.149284,-87.568260
+20265488	challengeKDZ	Santa Monica, CA	10294682	LapeerLibrary	Lapeer, Michigan, USA
+20265488	challengeKDZ	Santa Monica, CA	16241994	aclalibraries	Pittsburgh, PA
+20265488	challengeKDZ	Santa Monica, CA	19420020	CarnegiePublic	East Liverpool, Ohio
+20265488	challengeKDZ	Santa Monica, CA	18171520	casscolib	Cass County, Missouri
+20265488	challengeKDZ	Santa Monica, CA	16363961	RRPL	Rocky River, Ohio
+20265488	challengeKDZ	Santa Monica, CA	59185837	saclib	Sacramento, CA
+20265488	challengeKDZ	Santa Monica, CA	14787969	pimalibrary	Tucson, Pima County, AZ, USA
+20265488	challengeKDZ	Santa Monica, CA	25687817	worthingtonlib	Worthington, OH
+20265488	challengeKDZ	Santa Monica, CA	7087492	stilib	Stillwater, NY
+20265488	challengeKDZ	Santa Monica, CA	17348088	Geneva_Library	Geneva, IL
+20265488	challengeKDZ	Santa Monica, CA	5563902	BlufftonLibrary	Beaufort County, SC
+20265488	challengeKDZ	Santa Monica, CA	3921411	mrrl	Jefferson City, MO
+20265488	challengeKDZ	Santa Monica, CA	18041350	RidgefieldPL	Ridgefield, NJ
+20265488	challengeKDZ	Santa Monica, CA	29225509	CSH_Library	Cold Spring Harbor, NY
+20265488	challengeKDZ	Santa Monica, CA	19548421	SSCLibrary	South Sioux City, Nebraska
+20265488	challengeKDZ	Santa Monica, CA	16911876	KentonLibrary	Northern Kentucky
+20265488	challengeKDZ	Santa Monica, CA	15073784	skokielibrary	Skokie, IL
+20265488	challengeKDZ	Santa Monica, CA	21667361	bangorlibrary	Bangor, Maine, USA
+20265488	challengeKDZ	Santa Monica, CA	19750645	wpl_library	Woodstock IL USA
+20265488	challengeKDZ	Santa Monica, CA	13837612	oakgrovelibrary	Hattiesburg, MS
+20265488	challengeKDZ	Santa Monica, CA	20600676	snoislelibrary	Snohomish & Island County, WA
+20265488	challengeKDZ	Santa Monica, CA	14701750	tippcitylibrary	Tipp City, Ohio
+20265488	challengeKDZ	Santa Monica, CA	15695164	LBJLibraryNow	2313 Red River St. Austin, TX
+20265488	challengeKDZ	Santa Monica, CA	18679372	ArlingtonVALib	Arlington, VA
+20265488	challengeKDZ	Santa Monica, CA	9312452	ESnyderPowell	Bishopville, SC
+20265488	challengeKDZ	Santa Monica, CA	35631558	PrincetonPL	Princeton NJ
+20265488	challengeKDZ	Santa Monica, CA	18179645	washcentlibrary	Centerville, Ohio, USA
+20265488	challengeKDZ	Santa Monica, CA	16286660	harriscountypl	Houston, TX
+20265488	challengeKDZ	Santa Monica, CA	19794312	PierceCoLibrary	Pierce County, Washington
+20265488	challengeKDZ	Santa Monica, CA	17137890	corvallislib	Corvallis, OR, USA
+20265488	challengeKDZ	Santa Monica, CA	5479372	VictoryLibrary	10664 W Victory Rd, Boise, ID
+20265488	challengeKDZ	Santa Monica, CA	19667420	evanstonpl	Evanston, Illinois, USA
+20265488	challengeKDZ	Santa Monica, CA	14587495	RCPL	Asheboro, NC
+20265488	challengeKDZ	Santa Monica, CA	35066660	EugenePublicLib	Eugene, Oregon 97401
+20265488	challengeKDZ	Santa Monica, CA	15113165	mlibrary	Massillon, Ohio
+20265488	challengeKDZ	Santa Monica, CA	15235543	RapidCityPubLib	Rapid City SD
+20265488	challengeKDZ	Santa Monica, CA	14531709	ScrantonLibrary	Scranton, PA
+20265488	challengeKDZ	Santa Monica, CA	16002140	oshkoshlibrary	Oshkosh, Wisconsin, USA
+20265488	challengeKDZ	Santa Monica, CA	17596162	jocolibrary	Johnson County, Kansas
+20265488	challengeKDZ	Santa Monica, CA	16256307	CantonLibrary	Canton, Michigan
+20265488	challengeKDZ	Santa Monica, CA	14866770	hubbell	New Orleans
+20265488	challengeKDZ	Santa Monica, CA	78943325	BPLBoston	Copley Square in Boston, MA
+20265488	challengeKDZ	Santa Monica, CA	16794089	RoCoPubLib	Roanoke, VA
+20265488	challengeKDZ	Santa Monica, CA	8467712	denver_evolver	Denver, CO
+20265488	challengeKDZ	Santa Monica, CA	34322946	buffalolibrary	Buffalo, NY, Erie County, USA
+20265488	challengeKDZ	Santa Monica, CA	3949991	cglibrary	Casa Grande, Arizona
+20265488	challengeKDZ	Santa Monica, CA	44452078	PhxLibrary	Phoenix, Arizona
+20265488	challengeKDZ	Santa Monica, CA	16825652	nsls	Wheeling, IL
+20265488	challengeKDZ	Santa Monica, CA	22192870	boisepublib	Boise, ID
+20265488	challengeKDZ	Santa Monica, CA	20092523	Somers_Library	Somers, NY
+20265488	challengeKDZ	Santa Monica, CA	14436938	danburylibrary	Danbury, CT
+20265488	challengeKDZ	Santa Monica, CA	18637014	ppld	El Paso County, Colorado
+20265488	challengeKDZ	Santa Monica, CA	16247494	BKLYNlibrary	Brooklyn, NY
+20265488	challengeKDZ	Santa Monica, CA	19253330	TopekaLibrary	Topeka, Kansas
+20265488	challengeKDZ	Santa Monica, CA	16796557	CamasLibrary	Camas, Washington
+20265488	challengeKDZ	Santa Monica, CA	17626001	provlib	Providence Rhode Island
+20265488	challengeKDZ	Santa Monica, CA	20818272	EPLdotCA	Edmonton, AB
+20265488	challengeKDZ	Santa Monica, CA	12366342	KCLS	King County, WA
+20265488	challengeKDZ	Santa Monica, CA	15597479	manchlibrary	Manchester, NH, USA
+20265488	challengeKDZ	Santa Monica, CA	5131231	LPI_Library	Houston, Texas
+20265488	challengeKDZ	Santa Monica, CA	23459911	QueensLibrary	Queens, New York City
+20265488	challengeKDZ	Santa Monica, CA	13602482	aadl	Ann Arbor, MI
+20265488	challengeKDZ	Santa Monica, CA	9525702	WeKnowBooksETC	Homewood, AL
+20265488	challengeKDZ	Santa Monica, CA	15147370	pbclibrary	West Palm Beach, FL
+20265488	challengeKDZ	Santa Monica, CA	22813359	prattlibrary	Baltimore, MD
+20265488	challengeKDZ	Santa Monica, CA	23824100	NewberryLibrary	Chicago
+20265488	challengeKDZ	Santa Monica, CA	20554910	NowatNPL	Nashville, Tennessee, USA
+20265488	challengeKDZ	Santa Monica, CA	15685837	FreeLibrary	Philadelphia
+20265488	challengeKDZ	Santa Monica, CA	17879538	dcpl	Washington, DC
+20265488	challengeKDZ	Santa Monica, CA	5503912	Cleveland_PL	Cleveland, Ohio, USA
+20265488	challengeKDZ	Santa Monica, CA	14140509	bpl	Birmingham, Alabama
+20265488	challengeKDZ	Santa Monica, CA	18603652	PresqueIsleLib	Presque Isle, ME
+20265488	challengeKDZ	Santa Monica, CA	20006673	BoerneLibrary	Boerne, Texas
+20265488	challengeKDZ	Santa Monica, CA	38711055	cincylibrary	Cincinnati, OH
+20265488	challengeKDZ	Santa Monica, CA	15370096	grpl	
+20265488	challengeKDZ	Santa Monica, CA	15756089	AustinPublicLib	Austin, Texas
+20265488	challengeKDZ	Santa Monica, CA	14031022	hclib	Minnesota, US
+20265488	challengeKDZ	Santa Monica, CA	18193924	columbuslibrary	Columbus, OH
+20265488	challengeKDZ	Santa Monica, CA	14936859	KCLibrary	Kansas City, Missouri
+20265488	challengeKDZ	Santa Monica, CA	5862922	houstonlibrary	Houston, TX USA
+20265488	challengeKDZ	Santa Monica, CA	17544803	nypl	Bx, Manhattan, SI
+20265488	challengeKDZ	Santa Monica, CA	108741333	stowellcenter	Chino, CA
+20265488	challengeKDZ	Santa Monica, CA	23710418	chefannc	Boulder
+20265488	challengeKDZ	Santa Monica, CA	20178728	mom3point0	A Joyful Place
+20265488	challengeKDZ	Santa Monica, CA	86397168	WordsAliveSD	San Diego
+20265488	challengeKDZ	Santa Monica, CA	19048537	GreatSchools	Oakland, CA
+20265488	challengeKDZ	Santa Monica, CA	21540725	Cocoxochitl	Los Angeles
+20265488	challengeKDZ	Santa Monica, CA	17093617	hootsuite	Vancouver, Canada
+20265488	challengeKDZ	Santa Monica, CA	23325965	unleashingideas	Washington, DC
+20265488	challengeKDZ	Santa Monica, CA	12294612	cnansen	Minot, North Dakota
+20265488	challengeKDZ	Santa Monica, CA	42442000	JulieDRamsay	Birmingham, AL
+20265488	challengeKDZ	Santa Monica, CA	16453599	mrshoward118	Grand Island, New York
+20265488	challengeKDZ	Santa Monica, CA	6540762	scottmerrick	Nashville, Tennessee, USA
+20265488	challengeKDZ	Santa Monica, CA	19355163	ascienceteacher	Bradenton
+20265488	challengeKDZ	Santa Monica, CA	27284345	bksdelightme	Tennessee
+20265488	challengeKDZ	Santa Monica, CA	26278389	padgets	Green River, Wyoming
+20265488	challengeKDZ	Santa Monica, CA	39810227	PKTweetmasta2	USA
+20265488	challengeKDZ	Santa Monica, CA	39043999	rgordon101	Adirondacks, New York
+20265488	challengeKDZ	Santa Monica, CA	19074827	patrickmlarkin	Burlington, MA
+20265488	challengeKDZ	Santa Monica, CA	61607238	esuzee	Charlotte, NC
+20265488	challengeKDZ	Santa Monica, CA	49730159	bybmg	Iowa
+20265488	challengeKDZ	Santa Monica, CA	30170651	kimdorner	Kodiak Alaska 
+20265488	challengeKDZ	Santa Monica, CA	15945553	jwatson14	Alberta, Canada
+20265488	challengeKDZ	Santa Monica, CA	56184376	queenjoni	Charlotte, NC
+20265488	challengeKDZ	Santa Monica, CA	44403385	PinnacleOnline	Tempe, AZ 85282
+20265488	challengeKDZ	Santa Monica, CA	10880662	justinreeve	Ogden, UT
+20265488	challengeKDZ	Santa Monica, CA	18244141	teckdiva	New York City
+20265488	challengeKDZ	Santa Monica, CA	21518816	newman5	Northern California
+20265488	challengeKDZ	Santa Monica, CA	16454481	TechTalk1	Macon
+20265488	challengeKDZ	Santa Monica, CA	33347565	katykauffman	Heaven? No, Iowa.
+20265488	challengeKDZ	Santa Monica, CA	73269843	SweenWSweens	Philadelphia, PA
+20265488	challengeKDZ	Santa Monica, CA	23083908	shellyfrew	Arkansas
+20265488	challengeKDZ	Santa Monica, CA	68169919	primarypete_	Preston, UK
+20265488	challengeKDZ	Santa Monica, CA	1888761	glo	Michigan, USA
+20265488	challengeKDZ	Santa Monica, CA	15566804	lorlarz2	Bozeman, MT
+20265488	challengeKDZ	Santa Monica, CA	73777152	robt_st	Deland, FL
+20265488	challengeKDZ	Santa Monica, CA	38087609	rjcordes	Carroll, Iowa
+20265488	challengeKDZ	Santa Monica, CA	14003132	harrygrz	New York
+20265488	challengeKDZ	Santa Monica, CA	56929066	ImaginationSoup	Denver, Colorado
+20265488	challengeKDZ	Santa Monica, CA	15832526	tearoof	South Jersey
+20265488	challengeKDZ	Santa Monica, CA	37103761	PJVermont	So. Vermont
+20265488	challengeKDZ	Santa Monica, CA	26551907	byperc	Star City, AR
+20265488	challengeKDZ	Santa Monica, CA	35958451	mlavista	Buenos Aires, Argentina
+20265488	challengeKDZ	Santa Monica, CA	15553567	kt91567	Chesnee, SC
+20265488	challengeKDZ	Santa Monica, CA	16530171	lllong	Nebraska
+20265488	challengeKDZ	Santa Monica, CA	7104332	jmaklary	
+20265488	challengeKDZ	Santa Monica, CA	14082873	starden	Dallas, TX
+20265488	challengeKDZ	Santa Monica, CA	8386792	jabbusch	Mexico City
+20265488	challengeKDZ	Santa Monica, CA	69374078	lelord05	
+20265488	challengeKDZ	Santa Monica, CA	32352423	SeanBanville	Japan
+20265488	challengeKDZ	Santa Monica, CA	14060808	trossman1	Illinois
+20265488	challengeKDZ	Santa Monica, CA	11952532	wsstephens	Alabama 
+20265488	challengeKDZ	Santa Monica, CA	8743762	mbburns	New York City
+20265488	challengeKDZ	Santa Monica, CA	19465183	gvibe	London, UK
+20265488	challengeKDZ	Santa Monica, CA	13978132	Merkader	
+20265488	challengeKDZ	Santa Monica, CA	15467154	bronteberlin	south of Berlin
+20265488	challengeKDZ	Santa Monica, CA	14978487	johndavitt	Ireland, Newport Co Mayo
+20265488	challengeKDZ	Santa Monica, CA	1034691	kclark	Berrien Springs, MI
+20265488	challengeKDZ	Santa Monica, CA	39981771	DrFrankBuck	Alabama
+20265488	challengeKDZ	Santa Monica, CA	15693284	lmcculloch	North Texas
+20265488	challengeKDZ	Santa Monica, CA	7057162	ssandifer	Houston, TX
+20265488	challengeKDZ	Santa Monica, CA	60571750	skorlaki1983	QLD, Australia
+20265488	challengeKDZ	Santa Monica, CA	14702392	AuntyTech	Black Mountain, NC
+20265488	challengeKDZ	Santa Monica, CA	24491222	tamaslorincz	iPhone: 47.355782,19.433136
+20265488	challengeKDZ	Santa Monica, CA	15455986	jstephengagnon	Portsmouth 
+20265488	challengeKDZ	Santa Monica, CA	10133132	sarahw3	Hawey, TX
+20265488	challengeKDZ	Santa Monica, CA	45336219	RobMarchetto	Sydney, Australia
+20265488	challengeKDZ	Santa Monica, CA	22572285	juhill117	Steeler Country
+20265488	challengeKDZ	Santa Monica, CA	8114992	alove	Arkansas
+20265488	challengeKDZ	Santa Monica, CA	12497852	adgibbs	Sheffield, UK
+20265488	challengeKDZ	Santa Monica, CA	4932211	mgolding	Atlanta, Georgia, USA
+20265488	challengeKDZ	Santa Monica, CA	37201960	MBRevesz	Trenton, Michigan
+20265488	challengeKDZ	Santa Monica, CA	36342182	mrscaddy	ohio
+20265488	challengeKDZ	Santa Monica, CA	17958605	nyates314	Baltimore, MD
+20265488	challengeKDZ	Santa Monica, CA	43078376	deonscanlon	Tasmania
+20265488	challengeKDZ	Santa Monica, CA	14441695	zippboy10	Honolulu, Hawaii
+20265488	challengeKDZ	Santa Monica, CA	64129534	TimGee3	
+20265488	challengeKDZ	Santa Monica, CA	41865374	kscritch	Northeast of Fresno, CA
+20265488	challengeKDZ	Santa Monica, CA	34045900	ceegates	Pacific Grove, California
+20265488	challengeKDZ	Santa Monica, CA	26283378	kayakcari	West Vancouver
+20265488	challengeKDZ	Santa Monica, CA	70951947	cbcurtisTTL	Philadelphia PA
+20265488	challengeKDZ	Santa Monica, CA	17830345	pepepacha	San Francisco, CALIFORNIA
+20265488	challengeKDZ	Santa Monica, CA	16463452	cristama	Missoula, Montana
+20265488	challengeKDZ	Santa Monica, CA	16820046	DChapman94	Newcastle, NSW, Australia
+20265488	challengeKDZ	Santa Monica, CA	35007958	TracyPoelzer	British Columbia, Canada
+20265488	challengeKDZ	Santa Monica, CA	11798602	BillCamp	Englewood, New Jersey, USA
+20265488	challengeKDZ	Santa Monica, CA	29930113	kukukukuku	Perth, Western Australia
+20265488	challengeKDZ	Santa Monica, CA	32299635	lisahalpern	Colorado
+20265488	challengeKDZ	Santa Monica, CA	38512070	StevenKaufman	Houston, Texas
+20265488	challengeKDZ	Santa Monica, CA	41721597	ajillgalloway	Texas!
+20265488	challengeKDZ	Santa Monica, CA	17580394	dickensonr	TN
+20265488	challengeKDZ	Santa Monica, CA	19326761	TeckTeechur	Tulsa, Oklahoma
+20265488	challengeKDZ	Santa Monica, CA	25733169	lilmacmom808	Hawaii
+20265488	challengeKDZ	Santa Monica, CA	19380267	rroysden	Tennessee
+20265488	challengeKDZ	Santa Monica, CA	9315212	barbs1	New Zealand
+20265488	challengeKDZ	Santa Monica, CA	6487812	anotherschwab	San Jose, CA
+20265488	challengeKDZ	Santa Monica, CA	17628424	lisaspencilbox	Northern Louisiana
+20265488	challengeKDZ	Santa Monica, CA	15600903	_melaniegray	Michigan
+20265488	challengeKDZ	Santa Monica, CA	14506901	pmacoun	Penang, Malaysia
+20265488	challengeKDZ	Santa Monica, CA	58504863	whatpageareweon	Denton, Texas
+20265488	challengeKDZ	Santa Monica, CA	15866383	techmunoz	Franklin, TX
+20265488	challengeKDZ	Santa Monica, CA	15498732	h011y	SF Bay Area
+20265488	challengeKDZ	Santa Monica, CA	9544062	bslope	Somerset, PA
+20265488	challengeKDZ	Santa Monica, CA	16074559	bliporto	
+20265488	challengeKDZ	Santa Monica, CA	28340849	pmcash	St. Marys, ON, Canada
+20265488	challengeKDZ	Santa Monica, CA	34798164	smcgon	San Jose, CA
+20265488	challengeKDZ	Santa Monica, CA	30784465	gphilli	Columbus, KS
+20265488	challengeKDZ	Santa Monica, CA	15617763	amyhopkins	Caddo Mills, Texas
+20265488	challengeKDZ	Santa Monica, CA	30233014	pbeens	Niagara Falls, Canada
+20265488	challengeKDZ	Santa Monica, CA	17610297	deenawarwick	Winterville, NC
+20265488	challengeKDZ	Santa Monica, CA	16373905	lisaseay	Sand Springs, OK
+20265488	challengeKDZ	Santa Monica, CA	59623022	bacapmath	Bridgton, Maine
+20265488	challengeKDZ	Santa Monica, CA	10116572	farroutlinks	Dansville, NY
+20265488	challengeKDZ	Santa Monica, CA	19431726	bluka	Utah
+20265488	challengeKDZ	Santa Monica, CA	18244124	ErnaHB	New York
+20265488	challengeKDZ	Santa Monica, CA	62503527	dtechteacher	Williamstown New Jersey
+20265488	challengeKDZ	Santa Monica, CA	17808527	tawilkins	Baltimore, MD
+20265488	challengeKDZ	Santa Monica, CA	22056748	mistersill	
+20265488	challengeKDZ	Santa Monica, CA	16897890	celestehopkins	
+20265488	challengeKDZ	Santa Monica, CA	11112142	csitterley	NW Pennsylvania
+20265488	challengeKDZ	Santa Monica, CA	18890088	mattguthrie	Garner, NC
+20265488	challengeKDZ	Santa Monica, CA	44242456	anniebrider	New Jersey
+20265488	challengeKDZ	Santa Monica, CA	41628013	reshanda_billy	
+20265488	challengeKDZ	Santa Monica, CA	43015431	1healigan	
+20265488	challengeKDZ	Santa Monica, CA	64113	pwmartin	Edmonton, Alberta
+20265488	challengeKDZ	Santa Monica, CA	1489471	digitalnative	Richmond Hill, Ontario. Canada
+20265488	challengeKDZ	Santa Monica, CA	20312345	jasonhbuck	likely in the USA
+20265488	challengeKDZ	Santa Monica, CA	5789762	tabor330	Chicago
+20265488	challengeKDZ	Santa Monica, CA	36819171	bizEducator	Muskoka.Ontario.Canada
+20265488	challengeKDZ	Santa Monica, CA	34164634	mchugh10	Bismarck, ND
+20265488	challengeKDZ	Santa Monica, CA	25434950	kburke11	Chicago
+20265488	challengeKDZ	Santa Monica, CA	49127759	mbteach	Philadelphia, PA
+20265488	challengeKDZ	Santa Monica, CA	15292506	emilyletras	Maryland
+20265488	challengeKDZ	Santa Monica, CA	14701715	mtrump	Charlotte/Concord, NC
+20265488	challengeKDZ	Santa Monica, CA	17820804	cfraser150	New Hampshire USA
+20265488	challengeKDZ	Santa Monica, CA	7522282	wgoodwink5	Gadsden, AL
+20265488	challengeKDZ	Santa Monica, CA	15304531	SciTeach3	Phoenix, Arizona
+20265488	challengeKDZ	Santa Monica, CA	23372434	teacherspirit	Arvada, Colorado, USA
+20265488	challengeKDZ	Santa Monica, CA	20599544	mundaysa	Connecticut
+20265488	challengeKDZ	Santa Monica, CA	21726371	JGlyn	Arizona
+20265488	challengeKDZ	Santa Monica, CA	21063568	iroe	
+20265488	challengeKDZ	Santa Monica, CA	21912956	slaterly	Florida
+20265488	challengeKDZ	Santa Monica, CA	16586765	vanveghel	New Canaan, CT
+20265488	challengeKDZ	Santa Monica, CA	47082229	leslie_mck	St. Louis, MO
+20265488	challengeKDZ	Santa Monica, CA	17924054	rvesper	Cincinnati, OH
+20265488	challengeKDZ	Santa Monica, CA	14483067	klbeasley	Singapore
+20265488	challengeKDZ	Santa Monica, CA	16008751	DearLibrariAnn	Hong Kong
+20265488	challengeKDZ	Santa Monica, CA	43794309	jbrtva	IL
+20265488	challengeKDZ	Santa Monica, CA	64845153	computer7th	Rapid City, SD
+20265488	challengeKDZ	Santa Monica, CA	14563918	jennybrandon	Rural West Tennessee
+20265488	challengeKDZ	Santa Monica, CA	16494669	kathyleelv	Las Vegas, Nevada
+20265488	challengeKDZ	Santa Monica, CA	18337101	science_4_all	The Great NW
+20265488	challengeKDZ	Santa Monica, CA	15432180	grits2u	
+20265488	challengeKDZ	Santa Monica, CA	47319642	svgorlin	Ypsilanti, MI
+20265488	challengeKDZ	Santa Monica, CA	5996232	Jordana	Madison, WI
+20265488	challengeKDZ	Santa Monica, CA	32293658	stevebarkley	PA
+20265488	challengeKDZ	Santa Monica, CA	16095549	donna_shelton	Northeastern Oklahoma
+20265488	challengeKDZ	Santa Monica, CA	16215879	kamtonnes	North Carolina, US
+20265488	challengeKDZ	Santa Monica, CA	16530770	Horizons93	PA
+20265488	challengeKDZ	Santa Monica, CA	14659466	esmith1126	Fredericksburg, PA, USA
+20265488	challengeKDZ	Santa Monica, CA	47959295	stacybodin	Erath, Louisiana
+20265488	challengeKDZ	Santa Monica, CA	18808542	gicart	Illinois
+20265488	challengeKDZ	Santa Monica, CA	10087272	cfinn14	Brisbane, Australia
+20265488	challengeKDZ	Santa Monica, CA	16305536	kathymaske	Illinois 
+20265488	challengeKDZ	Santa Monica, CA	7887852	_drdamian	Perkasie, PA USA
+20265488	challengeKDZ	Santa Monica, CA	15385412	mhtalbut	Jackson, MO
+20265488	challengeKDZ	Santa Monica, CA	7032662	bcrosby	Reno, Nevada, USA
+20265488	challengeKDZ	Santa Monica, CA	7612982	dlaufenberg	Hatfield, WI
+20265488	challengeKDZ	Santa Monica, CA	17261400	Prairies	Alberta
+20265488	challengeKDZ	Santa Monica, CA	47851589	KarynTeaches	Chicago, IL
+20265488	challengeKDZ	Santa Monica, CA	10775082	k_shelton	Los Angeles, CA, USA
+20265488	challengeKDZ	Santa Monica, CA	14734445	jimconn	Fullerton, CA
+14449230	gwbaker	Santa Monica, CA	3408577755	VentPartnersSF	SF
+14449230	gwbaker	Santa Monica, CA	21360280	MurrayNewlands	San Francisco - USA
+14449230	gwbaker	Santa Monica, CA	11282582	MikeOlbinski	Phoenix, AZ
+14449230	gwbaker	Santa Monica, CA	3908332052	DBDRacing	
+14449230	gwbaker	Santa Monica, CA	33574947	NickWooster	New York, NY
+14449230	gwbaker	Santa Monica, CA	127062637	omidkordestani	California, USA
+14449230	gwbaker	Santa Monica, CA	709499923	BarbpidgeG	
+14449230	gwbaker	Santa Monica, CA	164425558	JonErlichman	Los Angeles
+14449230	gwbaker	Santa Monica, CA	12	jack	California, USA
+14449230	gwbaker	Santa Monica, CA	14253109	adambain	California
+14449230	gwbaker	Santa Monica, CA	2916305152	Snowden	
+14449230	gwbaker	Santa Monica, CA	167413122	247LS	
+14449230	gwbaker	Santa Monica, CA	18021826	jtriest	Detroit, Michigan
+14449230	gwbaker	Santa Monica, CA	552121630	karengillan	
+14449230	gwbaker	Santa Monica, CA	12610382	MoonshineDesign	San Diego, CA
+14449230	gwbaker	Santa Monica, CA	14171401	mayemusk	NYC/LA
+14449230	gwbaker	Santa Monica, CA	577342769	GenpoRoshi	
+14449230	gwbaker	Santa Monica, CA	632826210	jadestone_tweet	
+14449230	gwbaker	Santa Monica, CA	2155570843	DopplerLabs	
+14449230	gwbaker	Santa Monica, CA	26119905	ninajacobson	
+14449230	gwbaker	Santa Monica, CA	69072737	elite_traveler	London/New York
+14449230	gwbaker	Santa Monica, CA	3253725234	biz_crowdfund	USA
+14449230	gwbaker	Santa Monica, CA	50473299	cemmin	
+14449230	gwbaker	Santa Monica, CA	464099854	MikaelaShiffrin	
+14449230	gwbaker	Santa Monica, CA	33716898	tedligety	park city, ut
+14449230	gwbaker	Santa Monica, CA	70902633	JuliaMancuso	Squaw Valley USA
+14449230	gwbaker	Santa Monica, CA	593140589	MillerBode	
+14449230	gwbaker	Santa Monica, CA	19129801	dsiroker	San Francisco, CA
+14449230	gwbaker	Santa Monica, CA	17503180	marissamayer	San Francisco, CA
+14449230	gwbaker	Santa Monica, CA	10078	reidhoffman	new world of work
+14449230	gwbaker	Santa Monica, CA	12901712	bchesky	San Francisco
+14449230	gwbaker	Santa Monica, CA	9729502	travisk	San Francisco
+14449230	gwbaker	Santa Monica, CA	2698769562	osfund	
+14449230	gwbaker	Santa Monica, CA	17468569	bryan_johnson	NY / SF 
+14449230	gwbaker	Santa Monica, CA	208062508	favorhamilton	
+14449230	gwbaker	Santa Monica, CA	34325728	elbertchu	NYC
+14449230	gwbaker	Santa Monica, CA	1087860428	marsrader	Planet Earth (for now)
+14449230	gwbaker	Santa Monica, CA	1132010306	expa	
+14449230	gwbaker	Santa Monica, CA	735983	gmc	
+14449230	gwbaker	Santa Monica, CA	1282121312	waitbutwhy	
+14449230	gwbaker	Santa Monica, CA	1262361122	TIGNUM	
+14449230	gwbaker	Santa Monica, CA	913181174	VisibleVC	Chicago & The World
+14449230	gwbaker	Santa Monica, CA	16055057	MargaretNESC	Attleboro, MA
+14449230	gwbaker	Santa Monica, CA	3096994517	AnnabelRake	Linton
+14449230	gwbaker	Santa Monica, CA	17859981	caseywasserman	Los Angeles, CA
+14449230	gwbaker	Santa Monica, CA	788287705	evleaks	Philadelphia, PA, USA
+14449230	gwbaker	Santa Monica, CA	14303261	ryangraves	sf / the world.
+14449230	gwbaker	Santa Monica, CA	17342312	BoltPR	CA | NC | TX
+14449230	gwbaker	Santa Monica, CA	523874663	hughherr	Cambridge, MA
+14449230	gwbaker	Santa Monica, CA	344538987	TalulahRiley	Los Angeles, CA
+14449230	gwbaker	Santa Monica, CA	15572044	usskiteam	Park City, UT - USA
+14449230	gwbaker	Santa Monica, CA	55296701	GolokaTV	Los Angeles
+14449230	gwbaker	Santa Monica, CA	306801151	LouMTaylor	Los Angeles and Nashville
+14449230	gwbaker	Santa Monica, CA	17547646	ellie	New York, NY
+14449230	gwbaker	Santa Monica, CA	295	joshk	Philly
+14449230	gwbaker	Santa Monica, CA	1654188770	Hyperloop	Hawthorne, CA
+14449230	gwbaker	Santa Monica, CA	12044602	Schwarzenegger	Los Angeles, California
+14449230	gwbaker	Santa Monica, CA	92585220	FIGSANTAMONICA	Santa Monica
+14449230	gwbaker	Santa Monica, CA	75114210	IronLA	1919 Broadway Santa Monica 
+14449230	gwbaker	Santa Monica, CA	2967645029	1melanieward	Coaching Globally
+14449230	gwbaker	Santa Monica, CA	2933772417	Moving2Nice	
+14449230	gwbaker	Santa Monica, CA	16573941	netflix	Los Gatos, CA
+14449230	gwbaker	Santa Monica, CA	23848659	ThisIsDavidGelb	Los Angeles
+14449230	gwbaker	Santa Monica, CA	38267932	georgezachary	California
+14449230	gwbaker	Santa Monica, CA	610659001	MaxCRoser	Oxford
+14449230	gwbaker	Santa Monica, CA	238658660	mikeycollier	uk occasionally!!
+14449230	gwbaker	Santa Monica, CA	125480328	BrianGrazer	Beverly Hills, CA
+14449230	gwbaker	Santa Monica, CA	97049924	elbuder	Brooklyn
+14449230	gwbaker	Santa Monica, CA	24775410	sequoia	Menlo Park, CA
+14449230	gwbaker	Santa Monica, CA	46825221	jimgoetz	silicon valley
+14449230	gwbaker	Santa Monica, CA	20655960	kjorgeson	
+14449230	gwbaker	Santa Monica, CA	246124588	tommycaldwell1	Estes Park, Colorado
+14449230	gwbaker	Santa Monica, CA	108115613	meridian_clinic	Santa Monica, CA, USA
+14449230	gwbaker	Santa Monica, CA	16727535	lancearmstrong	Austin/Aspen
+14449230	gwbaker	Santa Monica, CA	1330457336	billclinton	New York, NY
+14449230	gwbaker	Santa Monica, CA	116757352	AussieGrit	United Kingdom
+14449230	gwbaker	Santa Monica, CA	2878942724	cbdesignla	Los Angeles
+14449230	gwbaker	Santa Monica, CA	15112654	jsf33	Venice Beach
+14449230	gwbaker	Santa Monica, CA	305567120	sophiegradon	Newcastle | London
+14449230	gwbaker	Santa Monica, CA	22255654	johndoerr	
+14449230	gwbaker	Santa Monica, CA	185808487	kpcb	Menlo Park, CA
+14449230	gwbaker	Santa Monica, CA	171284237	everydaycarry	Miami Beach, FL
+14449230	gwbaker	Santa Monica, CA	806133	Londonist	London
+14449230	gwbaker	Santa Monica, CA	555346085	NikitaKahn	
+14449230	gwbaker	Santa Monica, CA	920104904	bad_robot	Santa Monica, CA
+14449230	gwbaker	Santa Monica, CA	2535475322	ThePackagedDeal	
+14449230	gwbaker	Santa Monica, CA	43161871	upfrontvc	Los Angeles, CA
+14449230	gwbaker	Santa Monica, CA	599888387	thebungalowSM	Santa Monica CA
+14449230	gwbaker	Santa Monica, CA	338242020	IMH009	
+14449230	gwbaker	Santa Monica, CA	35632565	Sky1Ron	Bay Area
+14449230	gwbaker	Santa Monica, CA	754500	cue	
+14449230	gwbaker	Santa Monica, CA	21300724	gravedanger	
+14449230	gwbaker	Santa Monica, CA	888378073	saralloydgregz	Caerdydd/London
+14449230	gwbaker	Santa Monica, CA	278295926	WealthX	Global
+14449230	gwbaker	Santa Monica, CA	60644920	edcatmull	California
+14449230	gwbaker	Santa Monica, CA	5520332	msuster	Los Angeles
+14449230	gwbaker	Santa Monica, CA	1928317536	JonathanDBrooks	McKinney, Texas
+14449230	gwbaker	Santa Monica, CA	2350738483	MrsKiwiBird	London
+14449230	gwbaker	Santa Monica, CA	15692023	wilsonsonsini	
+14449230	gwbaker	Santa Monica, CA	285694773	AnnapurnaPics	
+14449230	gwbaker	Santa Monica, CA	33009205	hayleyanne2	
+14449230	gwbaker	Santa Monica, CA	19186720	WPP	London
+14449230	gwbaker	Santa Monica, CA	458209013	Neon_Velo	Ware, Hertfordshire, UK, Global
+14449230	gwbaker	Santa Monica, CA	1636590253	tim_cook	Cupertino
+14449230	gwbaker	Santa Monica, CA	168068266	LUCY_A_OWEN	London
+14449230	gwbaker	Santa Monica, CA	18564822	arransom	Seattle, WA
+14449230	gwbaker	Santa Monica, CA	30990612	cocorazan	
+14449230	gwbaker	Santa Monica, CA	1674463406	Allana_Baker_	
+14449230	gwbaker	Santa Monica, CA	15241557	reedhastings	
+14449230	gwbaker	Santa Monica, CA	40932856	SkollFoundation	Palo Alto
+14449230	gwbaker	Santa Monica, CA	17430220	foundationkr	San Francisco
+14449230	gwbaker	Santa Monica, CA	347424396	MichelaRogers	
+14449230	gwbaker	Santa Monica, CA	23917908	its_me_again	
+14449230	gwbaker	Santa Monica, CA	249585398	IrainaMancini	London
+14449230	gwbaker	Santa Monica, CA	1444996098	ChefAngel1989	London
+14449230	gwbaker	Santa Monica, CA	434239640	TheBishF1	London, Woking or @ GPs
+14449230	gwbaker	Santa Monica, CA	19533544	jamieswb	London, UK
+14449230	gwbaker	Santa Monica, CA	246833549	juliawurz	Monaco
+14449230	gwbaker	Santa Monica, CA	177818504	redbullLAX	Los Angeles, CA 
+14449230	gwbaker	Santa Monica, CA	34743251	SpaceX	Hawthorne, CA
+14449230	gwbaker	Santa Monica, CA	13298072	TeslaMotors	
+14449230	gwbaker	Santa Monica, CA	1339835893	HillaryClinton	New York, NY
+14449230	gwbaker	Santa Monica, CA	147698931	JulesErickson	Santa Fe, NM
+14449230	gwbaker	Santa Monica, CA	227557392	Koufish	Siliconia
+14449230	gwbaker	Santa Monica, CA	17636894	99u	New York, NY
+14449230	gwbaker	Santa Monica, CA	512657773	TheForeignRider	Made in Toronto
+14449230	gwbaker	Santa Monica, CA	196951551	nickdownes	London
+14449230	gwbaker	Santa Monica, CA	40849934	RacingDom	London
+14449230	gwbaker	Santa Monica, CA	315977914	mario_muth	London
+14449230	gwbaker	Santa Monica, CA	283411624	meganeellison	Annapurna Pictures
+14449230	gwbaker	Santa Monica, CA	17540485	redbull	Worldwide
+14449230	gwbaker	Santa Monica, CA	617761964	aharms86	
+14449230	gwbaker	Santa Monica, CA	1117871857	StoryLeader_GEM	
+14449230	gwbaker	Santa Monica, CA	339028890	GrouchoClubSoho	Soho, London
+14449230	gwbaker	Santa Monica, CA	51405063	lindseyvonn	Vail, Co....hotels....
+14449230	gwbaker	Santa Monica, CA	54588739	interstateteam	London, UK
+14449230	gwbaker	Santa Monica, CA	88928734	fisalpine	Oberhofen, Switzerland
+14449230	gwbaker	Santa Monica, CA	142547820	BrentCallaway	
+14449230	gwbaker	Santa Monica, CA	16688718	Luxuo	Hong Kong
+14449230	gwbaker	Santa Monica, CA	22821175	IMAX	Worldwide
+14449230	gwbaker	Santa Monica, CA	15970050	simonsinek	New York
+14449230	gwbaker	Santa Monica, CA	23857550	HannahElliott	
+14449230	gwbaker	Santa Monica, CA	59934843	sporino	
+14449230	gwbaker	Santa Monica, CA	485195283	GWBinF1	Everywhere you want to be
+14449230	gwbaker	Santa Monica, CA	44196397	elonmusk	1 AU
+14449230	gwbaker	Santa Monica, CA	526673564	TheKevinOlsen	Austin, TX
+14449230	gwbaker	Santa Monica, CA	30182732	F1Photographer	All over the world & London
+14449230	gwbaker	Santa Monica, CA	44807923	jameypricephoto	Charlotte, NC
+14449230	gwbaker	Santa Monica, CA	75351172	millcreekec	Topanga, CA
+14449230	gwbaker	Santa Monica, CA	27701204	stashainmougins	Cote d'Azur, France
+14449230	gwbaker	Santa Monica, CA	291918949	kdistef	America's Finest City
+14449230	gwbaker	Santa Monica, CA	16287121	kerrierieo	Austin, Texas, Y'all
+14449230	gwbaker	Santa Monica, CA	87834917	jakimmel	California
+14449230	gwbaker	Santa Monica, CA	18177983	asifkapadia	North London
+14449230	gwbaker	Santa Monica, CA	23991701	AlisonMSmall	London
+14449230	gwbaker	Santa Monica, CA	54309135	TeamEXOS	Worldwide
+14449230	gwbaker	Santa Monica, CA	76418986	lyceela	Los Angeles
+14449230	gwbaker	Santa Monica, CA	22536055	AmericanAir	
+14449230	gwbaker	Santa Monica, CA	586	sacca	Mountains and Oceans
+14449230	gwbaker	Santa Monica, CA	34951906	SkiRacingCom	
+14449230	gwbaker	Santa Monica, CA	31423815	macnn	San Francisco
+14449230	gwbaker	Santa Monica, CA	20542450	appleinsider	Cupertino, California
+14449230	gwbaker	Santa Monica, CA	28031784	intrepidus	
+14449230	gwbaker	Santa Monica, CA	30915968	WKimmel	Venice, CA
+14449230	gwbaker	Santa Monica, CA	21605142	VisitMonaco	
+14449230	gwbaker	Santa Monica, CA	784856	uncrate	
+14449230	gwbaker	Santa Monica, CA	9468972	chep2m	San Francisco, CA
+14449230	gwbaker	Santa Monica, CA	18418462	tannisbaker	
+21265875	brianhollowaty	Santa Monica, CA	216086840	WesMoss365	Atlanta, GA
+21265875	brianhollowaty	Santa Monica, CA	253953257	NicoGriffioen	Amsterdam
+21265875	brianhollowaty	Santa Monica, CA	92592558	Allographics	Oklahoma City
+21265875	brianhollowaty	Santa Monica, CA	172413497	EugeneharrisIV	Washington D.C./ PA
+21265875	brianhollowaty	Santa Monica, CA	14117920	brant_kelsey	LaGrange, GA
+21265875	brianhollowaty	Santa Monica, CA	125415355	alpacamarketing	Colorado
+21265875	brianhollowaty	Santa Monica, CA	117497516	TonyProfit	
+21265875	brianhollowaty	Santa Monica, CA	76817286	ShipsofSong	
+21265875	brianhollowaty	Santa Monica, CA	23994973	asfast	Phoenix, Az. ....U.S.A.
+21265875	brianhollowaty	Santa Monica, CA	8402052	dnewman	Philadelphia, PA (Bryn Mawr)
+21265875	brianhollowaty	Santa Monica, CA	18477855	SteadiOp	London, UK
+21265875	brianhollowaty	Santa Monica, CA	16983003	JimDoane	Orange County, CA
+21265875	brianhollowaty	Santa Monica, CA	378876760	LuxuryEstates7	
+21265875	brianhollowaty	Santa Monica, CA	119831404	lazynetworker	Kauai, Hawaii
+21265875	brianhollowaty	Santa Monica, CA	211826816	JulieAHart	Derbyshire, Nottingham, UK
+21265875	brianhollowaty	Santa Monica, CA	18813708	Mstersmith	Boise ID
+19600747	JamieKaler	earth	472298941	VFTLA	Los Angeles / New York
+19600747	JamieKaler	earth	172457119	DrinkSparkletts	
+19600747	JamieKaler	earth	76750288	nworlie	San Diego
+19600747	JamieKaler	earth	25602794	jamespconnolly	Los Angeles, CA
+19600747	JamieKaler	earth	859964239	JayJee4	SoCal
+19600747	JamieKaler	earth	16845710	allisongill	San Diego
+19600747	JamieKaler	earth	55635399	robertaaronham	USA
+19600747	JamieKaler	earth	3105588872	EveHewson	Dublin / New York
+19600747	JamieKaler	earth	14481439	KPBS	San Diego, CA
+19600747	JamieKaler	earth	40434781	indigo_15	Chicago. Sometimes Hogwarts.
+19600747	JamieKaler	earth	226669131	tweetmarques	
+19600747	JamieKaler	earth	49796081	mattvillano	Healdsburg, Calif.
+19600747	JamieKaler	earth	1365353612	ChristineSheaks	Los Angeles, CA
+19600747	JamieKaler	earth	1887304945	PulseRadioAZ	Mesa, Arizona
+19600747	JamieKaler	earth	22223457	JonathanSchaupp	Gilbert, Arizona
+19600747	JamieKaler	earth	18999261	FOX10Phoenix	Phoenix, AZ
+19600747	JamieKaler	earth	219371427	standuplive	@cityscapephx
+19600747	JamieKaler	earth	3404570313	SPIN247	Arlington, VA
+19600747	JamieKaler	earth	574023889	DaveWeasel	Los Angeles, California
+19600747	JamieKaler	earth	315355742	KevinBartini	New York City
+19600747	JamieKaler	earth	16672642	toneBell	where faith + talent = rent
+19600747	JamieKaler	earth	20812427	JasonSereno	Los Angeles, Calif.
+19600747	JamieKaler	earth	36109469	megansayers	Los Angeles, CA
+19600747	JamieKaler	earth	1393363717	ComedyCake	Los Angeles
+19600747	JamieKaler	earth	24595303	peteleetweets	New York, NY
+19600747	JamieKaler	earth	65475129	ZaniesComClubs	Chicago
+19600747	JamieKaler	earth	763198800	ZaniesStCharles	St. Charles, IL
+19600747	JamieKaler	earth	15774594	alonsomayo	Los Angeles, CA
+19600747	JamieKaler	earth	12093682	IAmKleinschmidt	New Brunswick, NJ
+19600747	JamieKaler	earth	627887969	TOTYmovie	Los Angeles, CA
+19600747	JamieKaler	earth	780823232	thatPatFinn	
+19600747	JamieKaler	earth	553329970	Adrian_Wenner	
+19600747	JamieKaler	earth	36458805	mickbetancourt	Los Angeles, CA
+19600747	JamieKaler	earth	189315742	jeanniegaffigan	New York, NY
+19600747	JamieKaler	earth	146060152	wcgirl1	West Chester, Pa.
+19600747	JamieKaler	earth	14438295	keithandthegirl	EVERYWHERE!
+19600747	JamieKaler	earth	16619229	KateCasey	Newport Beach, CA
+19600747	JamieKaler	earth	2883818778	beersharkmice	LA/Chicago 
+19600747	JamieKaler	earth	2967266042	MOCKpocalypse	
+19600747	JamieKaler	earth	2540033443	RobLottTV	Los Angeles, California
+19600747	JamieKaler	earth	2689327489	Comedy_NYC	NYC New York
+19600747	JamieKaler	earth	242813412	gisofcomedy	Hollywood, CA
+19600747	JamieKaler	earth	22288938	ianbagg	Long Beach Ca via Terace BC
+19600747	JamieKaler	earth	934915765	MattLetscher	
+19600747	JamieKaler	earth	19524540	RLeeErmey	USA - NUMBNUTS
+19600747	JamieKaler	earth	180531059	Dolph_Lundgren	Los Angeles, CA
+19600747	JamieKaler	earth	631686353	tv_brendon	Los Angeles, CA
+19600747	JamieKaler	earth	292929561	ScottPelley	New York, NY
+19600747	JamieKaler	earth	17602724	clearlyblonde	Toronto/ Los Angeles
+19600747	JamieKaler	earth	240731924	EmilioRossal	Encino, CA
+19600747	JamieKaler	earth	21899578	brianbaldinger	Los Angeles
+19600747	JamieKaler	earth	126701303	briandunkleman	
+19600747	JamieKaler	earth	81164242	THRmovies	Hollywood, CA
+19600747	JamieKaler	earth	794046896	boderek	California
+19600747	JamieKaler	earth	17416571	Airbnb	
+19600747	JamieKaler	earth	54584354	rosyhodge	South Africa
+19600747	JamieKaler	earth	18862744	JoeyRockenstein	los angeles
+19600747	JamieKaler	earth	52889899	SofitelLA	Beverly Hills, Los Angeles, CA
+19600747	JamieKaler	earth	198271725	mfjakekroeger	somewhere in LA
+19600747	JamieKaler	earth	455481041	JakobLeigh	SLC, Utah Duh! 
+19600747	JamieKaler	earth	35206553	meganamram	Los Angeles, CA
+19600747	JamieKaler	earth	456401484	erikmyerscomedy	Los Angeles, CA.
+19600747	JamieKaler	earth	3073709027	LieDetectorsUS	New York, NY
+19600747	JamieKaler	earth	22517388	TheComedyStore	8433 Sunset Boulevard
+19600747	JamieKaler	earth	15578992	telltalegames	San Rafael, CA
+19600747	JamieKaler	earth	83360524	audreyfort	New York, New York ...
+19600747	JamieKaler	earth	17134268	CBSThisMorning	Studio 57, CBS Broadcast Ctr.
+19600747	JamieKaler	earth	1692476708	LongmirePosse	
+19600747	JamieKaler	earth	9942272	anylaurie16	LA
+19600747	JamieKaler	earth	27912580	SirBenjaminKing	Los Angeles, California
+19600747	JamieKaler	earth	20577086	africker	UK
+19600747	JamieKaler	earth	372966134	Studio11LA	Los Angeles
+19600747	JamieKaler	earth	723126626	MileIQ	San Francisco, CA
+19600747	JamieKaler	earth	2315771641	DownyWRplus	
+19600747	JamieKaler	earth	139162440	pattonoswalt	Los Angeles
+19600747	JamieKaler	earth	14120151	foursquare	Cities worldwide
+19600747	JamieKaler	earth	70054064	DimoDammit	Riverbottom U.S.A.
+19600747	JamieKaler	earth	110547496	timdelone	Los Angeles
+19600747	JamieKaler	earth	118614063	AdamFeuerberg	Los Angeles, CA
+19600747	JamieKaler	earth	2477884351	ChrisWivell	chris.wivell@gmail.com
+19600747	JamieKaler	earth	331211313	CBSNewsPress	New York, NY
+19600747	JamieKaler	earth	2854775635	JoeOtterson	
+19600747	JamieKaler	earth	29789545	AndreaFeczko	Los Angeles, CA
+19600747	JamieKaler	earth	2800845653	ImprovTheatreRR	San Francisco 
+19600747	JamieKaler	earth	229385617	NateMaingard	London, England
+19600747	JamieKaler	earth	2181233851	TheBuzzerOnFOX	
+19600747	JamieKaler	earth	471493656	KyleMcDowell86	Victoria, BC Canada
+19600747	JamieKaler	earth	996365438	GuidoColacci	Queens, New York
+19600747	JamieKaler	earth	1324747338	BuzzFeeders	NY, NY
+19600747	JamieKaler	earth	106998482	FollowingRoom	Hollywood, CA
+19600747	JamieKaler	earth	1402975106	aandreavitch	czech
+19600747	JamieKaler	earth	625003086	bnb4eva	
+19600747	JamieKaler	earth	2471058719	elisabetherapy	New York, NY
+19600747	JamieKaler	earth	451030822	AndrisPhotos	Los Angeles, California 
+19600747	JamieKaler	earth	2874383116	TheRadioLeague	U.S.A
+19600747	JamieKaler	earth	6427132	Scatter	Hollywood, Los Angeles
+19600747	JamieKaler	earth	24745472	TheBenWells	Los Angeles
+19600747	JamieKaler	earth	917718558	Metromile	San Francisco, CA
+19600747	JamieKaler	earth	478841876	navyhmcm	Virginia Beach
+19600747	JamieKaler	earth	59889953	verizon	USA
+19600747	JamieKaler	earth	47819162	bripruett	Portland, OR
+19600747	JamieKaler	earth	272396530	RyanBComedy	Las Vegas, NV
+19600747	JamieKaler	earth	1403699438	KatNikulainen	Helsinki
+19600747	JamieKaler	earth	25806962	randyliedtke	Los Angeles
+19600747	JamieKaler	earth	87122843	trish_walsh	NE Philly Bitches!!!!
+19600747	JamieKaler	earth	200163448	TheAcademy	Beverly Hills, CA
+19600747	JamieKaler	earth	96407415	Schark22	Here there and everywhere. 
+19600747	JamieKaler	earth	14956514	jhollandmoore	
+19600747	JamieKaler	earth	2365950774	OscarTheGrouch	Sesame Street
+19600747	JamieKaler	earth	15026952	lizohanesian	Los Angeles
+19600747	JamieKaler	earth	2919122419	bam_snap	Now In Theaters and VOD
+19600747	JamieKaler	earth	1460138449	BopsieChroedar	
+19600747	JamieKaler	earth	3020348477	realguyritchie	London
+19600747	JamieKaler	earth	16489986	SomervillePuns	New York City
+19600747	JamieKaler	earth	2715203425	SeatGeekTix	
+19600747	JamieKaler	earth	18653078	timothycsimons	Los Angeles, CA
+19600747	JamieKaler	earth	1909422140	SeventhSon	
+19600747	JamieKaler	earth	1338236594	JoelMurray9of9	Los Angeles, CA
+19600747	JamieKaler	earth	117000866	StoutRyan	Los Angeles, California, USA
+19600747	JamieKaler	earth	250507830	juliethemann	El Ay
+19600747	JamieKaler	earth	575854738	TheFollowingFOX	Mondays 9/8c on FOX!
+19600747	JamieKaler	earth	68895270	CorinneMarshal	Los Angeles
+19600747	JamieKaler	earth	64798753	BJ_Porter	Hollywood
+19600747	JamieKaler	earth	18039316	jiffywild	Los Angeles CA
+19600747	JamieKaler	earth	320463544	TheJohnDiMaggio	Los Angeles, CA
+19600747	JamieKaler	earth	538392334	wits	Archives at WitsRadio.org 
+19600747	JamieKaler	earth	2962931565	SAnnouncer_DB	
+19600747	JamieKaler	earth	18216080	robertkelly	NYC 
+19600747	JamieKaler	earth	16017159	tylercoates	New York, NY
+19600747	JamieKaler	earth	14982804	AVAETC	Los Angeles
+19600747	JamieKaler	earth	983039354	Multiplx	Walnut Creek, CA
+19600747	JamieKaler	earth	69686217	THRAwards	Hollywood, CA
+19600747	JamieKaler	earth	2341020134	BuzzFeedStorm	Global
+19600747	JamieKaler	earth	28813937	ChristFinnegan	Queens, NY
+19600747	JamieKaler	earth	174434619	NeilGarguilo	Hollywood
+19600747	JamieKaler	earth	1403710944	TheTreehouseMan	Host of Treehouse Masters
+19600747	JamieKaler	earth	22278603	troyconrad	Los Angeles
+19600747	JamieKaler	earth	305735144	SETLISTSHOW	Los Angeles, CA
+19600747	JamieKaler	earth	33887397	VisitWiltshire	Wiltshire, UK
+19600747	JamieKaler	earth	88263211	brian_garraty	Virginia Beach, VA
+19600747	JamieKaler	earth	30973	Starbucks	Seattle, WA
+19600747	JamieKaler	earth	226040746	mindtheGAP90	Los Angeles, CA
+19600747	JamieKaler	earth	19180118	VisitBritain	United Kingdom
+19600747	JamieKaler	earth	1587296611	pretareporter	Los Angeles, CA
+19600747	JamieKaler	earth	385847731	OaklandElle	Oakland, CA
+19600747	JamieKaler	earth	1589999233	LaughManager	Burbank
+19600747	JamieKaler	earth	82523350	Cal_Rep	Long Beach, CA
+19600747	JamieKaler	earth	35581105	CollegeChat	Los Angeles
+19600747	JamieKaler	earth	397627836	HeyItsCodeE	Los Angeles, California
+19600747	JamieKaler	earth	2660934139	KevinKleinLIVE	Bay Area
+19600747	JamieKaler	earth	2575581534	MLBGIFs	
+19600747	JamieKaler	earth	11096822	mikestill	Los Angeles, CA
+19600747	JamieKaler	earth	181540672	AlyseZwick	New York, NY
+19600747	JamieKaler	earth	2612786178	TheGDComedyJam	The Lyric Theater, LA
+19600747	JamieKaler	earth	523632806	artiequitter	
+19600747	JamieKaler	earth	19165963	JenKirkman	Los Angeles
+19600747	JamieKaler	earth	22234786	TERENCEwithanF	Los Angeles, CA
+19600747	JamieKaler	earth	14798210	stevemcgrew	
+19600747	JamieKaler	earth	15614992	tomclarkcomedy	Encino
+19600747	JamieKaler	earth	25831647	BrittWeiskopf	Los Angeles
+19600747	JamieKaler	earth	99208932	smeagolsfree	Brooklyn, NY
+19600747	JamieKaler	earth	30412582	taniamilberg	San Diego
+19600747	JamieKaler	earth	344236872	MikeBarnes4	Los Angeles by way of Brooklyn
+19600747	JamieKaler	earth	18479513	MLB	
+19600747	JamieKaler	earth	6541402	attell	New York
+19600747	JamieKaler	earth	23121414	theskylerstone	Hollywood, CA
+19600747	JamieKaler	earth	36608922	iOWest	Hollywood, CA
+19600747	JamieKaler	earth	91200631	DrGodComedy	Los Angeles
+19600747	JamieKaler	earth	180084124	Principat0	San Francisco
+19600747	JamieKaler	earth	611947912	Steviedrocks	Los Angeles
+19600747	JamieKaler	earth	210261577	jenniferjo1977	Lawrence, KS
+19600747	JamieKaler	earth	39174220	comedyattic	4th & Walnut- Bloomington, IN
+19600747	JamieKaler	earth	479562736	GinsburgJobs	New York, New York
+19600747	JamieKaler	earth	19308184	karlhess	los angeles
+19600747	JamieKaler	earth	2233111044	virginhotels	
+19600747	JamieKaler	earth	25669535	PunchLineSac	Sacramento, CA
+19600747	JamieKaler	earth	1691536218	DraculaUntold	
+19600747	JamieKaler	earth	14735121	MazJobrani	California
+19600747	JamieKaler	earth	59837930	JoshBlueComedy	Denver, CO
+19600747	JamieKaler	earth	76790861	Variety_DMcNary	
+19600747	JamieKaler	earth	113897988	TeamCoco	North America
+19600747	JamieKaler	earth	2775962997	BenchedUSA	
+19600747	JamieKaler	earth	73174373	PeterSpruyt	Los Angeles, CA
+19600747	JamieKaler	earth	33612317	salesforce	San Francisco, CA
+19600747	JamieKaler	earth	14305399	TheFienPrint	Los Angeles
+19600747	JamieKaler	earth	2383591	futt	new york, ny
+19600747	JamieKaler	earth	293061149	SeanMastersons	Hollywood, CA
+19600747	JamieKaler	earth	18144089	davidalangrier	LA
+19600747	JamieKaler	earth	152920910	sandovalarturo1	Tarzana, CA.
+19600747	JamieKaler	earth	15163466	digg	New York, NY
+19600747	JamieKaler	earth	64839238	RealBillDuke	Los Angeles, CA
+19600747	JamieKaler	earth	23014234	alanparsons	Santa Barbara, CA
+19600747	JamieKaler	earth	1526254554	RealDfly	Los Angeles, CA
+19600747	JamieKaler	earth	87505841	LucySchwartz	Los Angeles
+19600747	JamieKaler	earth	1766447514	playfightband	San Diego, CA
+19600747	JamieKaler	earth	137846532	TheBlackMoods	Tempe, AZ
+19600747	JamieKaler	earth	20181248	HnstyNgov	CA
+19600747	JamieKaler	earth	2724378362	ColdenFell	
+19600747	JamieKaler	earth	1921565042	NerdistSchool	7518 Sunset Blvd, LA, CA
+19600747	JamieKaler	earth	41211760	josephjett	New York, NY
+19600747	JamieKaler	earth	2414634397	SN_JAF	karachi. Pakistan
+19600747	JamieKaler	earth	104066822	brendonburns	UK
+19600747	JamieKaler	earth	1648198104	WitchesEastEnd	#WitchesofEastEnd
+19600747	JamieKaler	earth	125122481	DepressedDarth	A galaxy far, far away 
+19600747	JamieKaler	earth	1516409251	OldSchoolBoston	Boston MA
+19600747	JamieKaler	earth	33179385	KeepItFiveStar	Non-Hipster, Brooklyn
+19600747	JamieKaler	earth	132553940	MaterialGirl	
+19600747	JamieKaler	earth	19345435	mattkirshen	
+19600747	JamieKaler	earth	30973292	davetotheross	Los Angeles
+19600747	JamieKaler	earth	2369376122	rosescigarette	Los Angeles, CA
+19600747	JamieKaler	earth	1590960259	ReaITyga	[#1 Fan/Parody Account]
+19600747	JamieKaler	earth	53078692	chrisfairbanks	Los Angeles
+19600747	JamieKaler	earth	16047386	ComedyJuice	los angeles, ca
+19600747	JamieKaler	earth	27022632	rejectedjokes	Los Angeles, CA
+19600747	JamieKaler	earth	249293918	trevso_electric	New York
+19600747	JamieKaler	earth	244682663	The_Babz	los angeles
+19600747	JamieKaler	earth	275415306	MarilynMonroeDC	[#1 Marilyn twitter Fan Page]
+19600747	JamieKaler	earth	43017707	PaulOddo	NYC
+19600747	JamieKaler	earth	403083571	iamandymcdonald	New York, NY
+19600747	JamieKaler	earth	25145923	CarolinesonBway	Times Square, NYC
+19600747	JamieKaler	earth	27107126	kyledunnigan	
+19600747	JamieKaler	earth	110509537	thomyorke	
+19600747	JamieKaler	earth	373143696	perfectoNYC	
+19600747	JamieKaler	earth	41160983	TheMikeOMalley	Los Angeles, California, USA
+19600747	JamieKaler	earth	123151931	ElonGold	LA, CA
+19600747	JamieKaler	earth	24903274	greggrosenthal	NFL.com, L.A.
+19600747	JamieKaler	earth	510674085	FOXSportsSD	San Diego, CA
+19600747	JamieKaler	earth	183439739	Hahacafecomedy	North Hollywood
+19600747	JamieKaler	earth	18627768	bengleib	bengleibassistant@gmail.com
+19600747	JamieKaler	earth	17324302	FlipSchultz	LA, CA.
+19600747	JamieKaler	earth	192303495	designresidence	Los Angeles, CA
+19600747	JamieKaler	earth	494011081	MonkeyMatMama	Austin, TX 
+35948515	EmceeNug	Santa Monica, CA	407518919	RockstarDreams1	San Francisco, CA 
+35948515	EmceeNug	Santa Monica, CA	1062559285	pronepercent	Los Angeles
+35948515	EmceeNug	Santa Monica, CA	50839831	LagreeFitness	Burbank, CA
+35948515	EmceeNug	Santa Monica, CA	17070707	EpocaNow	San Francisco, Bay Area
+35948515	EmceeNug	Santa Monica, CA	31159284	COOLHAUS	LA / NYC / DFW
+35948515	EmceeNug	Santa Monica, CA	21360280	MurrayNewlands	San Francisco - USA
+35948515	EmceeNug	Santa Monica, CA	709469839	Connie_Bickes	
+35948515	EmceeNug	Santa Monica, CA	290162408	ProdDopeboi	AZ, CA, NV, NY, GA, TX, FL, LA
+35948515	EmceeNug	Santa Monica, CA	19623009	KnapsackGames	Los Angeles, CA
+35948515	EmceeNug	Santa Monica, CA	3731411894	ThorndikeLeslie	
+35948515	EmceeNug	Santa Monica, CA	751829623	RabsReporter	Pittsburgh (Garfield)
+35948515	EmceeNug	Santa Monica, CA	251326735	KennaMcKinnon	Edmonton, AB, Canada
+35948515	EmceeNug	Santa Monica, CA	2346093410	katienwmn	Central Coast California
+35948515	EmceeNug	Santa Monica, CA	32973171	EvieDanford	San Francisco / Los Angeles
+35948515	EmceeNug	Santa Monica, CA	3229061172	ldrierson	west branch iowa
+35948515	EmceeNug	Santa Monica, CA	37090806	TheTomSchanley	Los Angeles
+35948515	EmceeNug	Santa Monica, CA	2635340887	WomenNMedia	Los Angeles 
+35948515	EmceeNug	Santa Monica, CA	578026783	HotBeatsAllDay	houston, Texas
+35948515	EmceeNug	Santa Monica, CA	2184947132	SantaMonicaAir	Santa Monica, CA
+35948515	EmceeNug	Santa Monica, CA	95244779	jefferypboykin	
+35948515	EmceeNug	Santa Monica, CA	21311906	KINDSnacks	
+35948515	EmceeNug	Santa Monica, CA	22921922	seadogbrewing	Portland, Maine
+35948515	EmceeNug	Santa Monica, CA	17943892	ShipyardBrewing	Portland, Maine
+35948515	EmceeNug	Santa Monica, CA	188622564	SheppardPilates	Los Angeles, CA
+35948515	EmceeNug	Santa Monica, CA	284682706	DrMassry	Beverly Hills, CA
+35948515	EmceeNug	Santa Monica, CA	455124584	SuzieTheDiva	WorldWide
+33014428	GreenTownAction		18343779	nikhil_parekh	Sydney, Australia
+33014428	GreenTownAction		53426708	LaPerlaLingerie	Bologna, Italy
+33014428	GreenTownAction		101931482	babyfat78	US
+33014428	GreenTownAction		21658477	bigguy4	Bloomfield Hills, MI
+33014428	GreenTownAction		33113508	Nobikha	Lusby, Maryland
+33014428	GreenTownAction		69619962	Pepperheads	Long Island, NY
+33014428	GreenTownAction		41176869	OperationFollow	Mention me for #SHOUTOUT/PROMO
+33014428	GreenTownAction		68039858	michellemagaldi	Los Angeles
+33014428	GreenTownAction		39698834	gameference	worldwide
+33014428	GreenTownAction		43943997	WorldStuffer	All over the World
+33014428	GreenTownAction		18917148	JeffAdamsREI	Los Angeles, CA
+33014428	GreenTownAction		17177164	ZingRevolution	New York, NY
+33014428	GreenTownAction		103741230	ScherervilleBMW	Schererville, IN
+33014428	GreenTownAction		130081723	WetwaterLA	Los Angeles, CA
+33014428	GreenTownAction		94365433	River_Restore	United States
+33014428	GreenTownAction		9940162	PeterWinick	NYC 
+33014428	GreenTownAction		132585428	HarmonyCleaners	USA
+33014428	GreenTownAction		82130742	FrogHater	
+33014428	GreenTownAction		15214601	Web2Greg	Gold Coast, Australia
+33014428	GreenTownAction		17036004	MattRauch	Austin, TX
+33014428	GreenTownAction		138949028	1309OPNHouse	Fort Wayne, Indiana
+33014428	GreenTownAction		51139742	MikeDuering	Germany Town Erfurt
+14324117	tommee	New Orleans, LA	1556856151	RAWNOLA	
+14324117	tommee	New Orleans, LA	1369895352	LeeAnnMcAdoo	
+14324117	tommee	New Orleans, LA	14749383	pennjillette	Las Vegas, NV, USA
+14324117	tommee	New Orleans, LA	122092164	_mcchris	Los Angeles, CA
+14324117	tommee	New Orleans, LA	590308473	UnreasonablyHrd	
+14324117	tommee	New Orleans, LA	93041045	GabbayMagic	Los Angeles
+14324117	tommee	New Orleans, LA	2149072775	GingerMSwizzle	New Orleans
+14324117	tommee	New Orleans, LA	2534585278	BoulevardTavrn	Greenpoint Brooklyn. NY 11222
+14324117	tommee	New Orleans, LA	2660333701	kozmomagic	
+14324117	tommee	New Orleans, LA	198206123	ChrisRandall702	Las Vegas
+14324117	tommee	New Orleans, LA	72980276	BonnieBellG	Los Angeles, CA
+14324117	tommee	New Orleans, LA	163699919	TanyaDorise	New Orleans
+14324117	tommee	New Orleans, LA	2482267609	CarnivalEnt	
+14324117	tommee	New Orleans, LA	41413693	Smoothini	Las Vegas
+14324117	tommee	New Orleans, LA	58735436	eMagicSupply	San Diego California
+14324117	tommee	New Orleans, LA	31138389	billabbottlive	Get tickets here
+14324117	tommee	New Orleans, LA	37829762	Kranzo	Fllushing MI
+14324117	tommee	New Orleans, LA	86052751	LeeAsherMagic	www.LeeAsher.com
+14324117	tommee	New Orleans, LA	191952816	DavidRegalMagic	
+14324117	tommee	New Orleans, LA	29424776	cheesymagic	Florida
+14324117	tommee	New Orleans, LA	20434390	williamsonmagic	Yellow Springs, Ohio
+14324117	tommee	New Orleans, LA	920104904	bad_robot	Santa Monica, CA
+14324117	tommee	New Orleans, LA	38053460	DanielBusby	Los Angeles, CA
+14324117	tommee	New Orleans, LA	16172307	justinflom	Vegas - Minnesota Boy at heart
+14324117	tommee	New Orleans, LA	1382640140	The504TV	New Orleans, LA
+14324117	tommee	New Orleans, LA	157387873	KATEYRED	NEW ORLEANS
+14324117	tommee	New Orleans, LA	22381430	scotnery	Hollywood, CA
+14324117	tommee	New Orleans, LA	803028638	nofringefest	
+14324117	tommee	New Orleans, LA	42252500	Rogue_Bard	New Orleans, LA
+14324117	tommee	New Orleans, LA	258471225	JoeSkilton	Los Angeles, CA
+14324117	tommee	New Orleans, LA	50015616	dogwoodarts	Knoxville, Tennessee
+14324117	tommee	New Orleans, LA	1205843720	Yigal_Mesika	Los Angeles
+14324117	tommee	New Orleans, LA	158483041	jordangomezfr	Lyon, France
+14324117	tommee	New Orleans, LA	39077452	ninaconti	
+14324117	tommee	New Orleans, LA	16489586	KevinViner	San Diego, CA
+14324117	tommee	New Orleans, LA	98747526	Billykiddshow	Bath Spa UK
+14324117	tommee	New Orleans, LA	102795682	katyisrad	New Orleans, LA
+14324117	tommee	New Orleans, LA	14645160	shwood	Austin, TX
+14324117	tommee	New Orleans, LA	32793160	dekkerdreyer	Los Angeles, CA, US
+14324117	tommee	New Orleans, LA	95396334	redspadevideo	Worldwide
+14324117	tommee	New Orleans, LA	61110895	PopHaydn	Los Angeles, CA
+14324117	tommee	New Orleans, LA	427292918	nadia_official	Los Angeles
+14324117	tommee	New Orleans, LA	132860893	imxlasvegas	
+14324117	tommee	New Orleans, LA	20814184	stevetauber	Zagreb
+14324117	tommee	New Orleans, LA	23181282	KilleezMama	Los Angeles
+14324117	tommee	New Orleans, LA	37384733	MatthewNoah	Hollywood, CA
+14324117	tommee	New Orleans, LA	217298025	ChristinaLynn24	Santa Rosa Valley
+14324117	tommee	New Orleans, LA	1015601	Moonster	NYC
+14324117	tommee	New Orleans, LA	51627728	jonathanlevit	Los Angeles
+14324117	tommee	New Orleans, LA	1140001	thewizard	Atlanta, Ga
+14324117	tommee	New Orleans, LA	77342578	TrishAlaskey	Los Angeles
+14324117	tommee	New Orleans, LA	15628736	asherhunt	Traveling & Los Angeles, CA
+14324117	tommee	New Orleans, LA	42688318	LindsayBenner	Los Angeles
+14324117	tommee	New Orleans, LA	112508240	CraigyFerg	4% funnier 
+14324117	tommee	New Orleans, LA	213391551	SantarchyUSA	Your Town USA
+14324117	tommee	New Orleans, LA	653623	eecue	Downtown Los Angeles 
+14324117	tommee	New Orleans, LA	15409205	paulromhany	vancouver Canada
+14324117	tommee	New Orleans, LA	119618657	shitroamersays	
+14324117	tommee	New Orleans, LA	13188	nibaq	Kuwait
+14324117	tommee	New Orleans, LA	18887526	RealDMitchell	London
+14324117	tommee	New Orleans, LA	21589438	wend0	
+14324117	tommee	New Orleans, LA	14643061	magiChampion	On a plane or a stage!
+14324117	tommee	New Orleans, LA	15795430	steficarter	Hollywoodland
+14324117	tommee	New Orleans, LA	65992743	lindsaylohan	
+14324117	tommee	New Orleans, LA	52161849	kristiemacris	Seattle, WA
+14324117	tommee	New Orleans, LA	25226249	manderkiss	La La Land
+18649764	digitalmusicnws	Santa Monica, CA	311847810	Andrewmd5	Miami, FL
+18649764	digitalmusicnws	Santa Monica, CA	9247102	paulgeller	New York, NY
+18649764	digitalmusicnws	Santa Monica, CA	3297187834	aurousapp	Miami, FL
+18649764	digitalmusicnws	Santa Monica, CA	4255361	a_greenberg	New York
+18649764	digitalmusicnws	Santa Monica, CA	32451214	BillAllonce	
+18649764	digitalmusicnws	Santa Monica, CA	2445809510	periscopeco	San Francisco
+21501256	jerrywmooreUSA	San Francisco, CA	73100647	Qianathegoddess	New York, NY
+21501256	jerrywmooreUSA	San Francisco, CA	26067312	erictfextreme	
+21501256	jerrywmooreUSA	San Francisco, CA	21021891	Chevron	San Ramon, CA 
+21501256	jerrywmooreUSA	San Francisco, CA	20545055	JoelOsteen	
+21501256	jerrywmooreUSA	San Francisco, CA	822697	ScottRoberts	St. Louis, MO
+21501256	jerrywmooreUSA	San Francisco, CA	2228388534	usandpartners1	
+21501256	jerrywmooreUSA	San Francisco, CA	19223156	BrianCHouston	Sydney, Australia
+21501256	jerrywmooreUSA	San Francisco, CA	22000517	JosephPrince	
+21501256	jerrywmooreUSA	San Francisco, CA	116064123	Jean9Kern	Gahanna, OH
+21501256	jerrywmooreUSA	San Francisco, CA	838768512	missgeorgia93	Los Angeles, CA
+21501256	jerrywmooreUSA	San Francisco, CA	138919653	sonyagauthier	New York, NY
+21501256	jerrywmooreUSA	San Francisco, CA	360048305	JArthurRoslovic	
+21501256	jerrywmooreUSA	San Francisco, CA	563007484	KayLeeWells2	Manhattan, New York
+21501256	jerrywmooreUSA	San Francisco, CA	556132305	Proximitasevent	North Carolina
+21501256	jerrywmooreUSA	San Francisco, CA	176679876	kdhand	Greater Nashville Area
+21501256	jerrywmooreUSA	San Francisco, CA	12895642	Don_Roy	Murfreesboro, TN
+21501256	jerrywmooreUSA	San Francisco, CA	18538218	BeneficentGuild	Southern California
+21501256	jerrywmooreUSA	San Francisco, CA	20221855	msmailee	los angeles
+21501256	jerrywmooreUSA	San Francisco, CA	19710215	sstepanek2	Grosse Pointe Michigan
+21501256	jerrywmooreUSA	San Francisco, CA	43139414	RealSkipBayless	Bristol, Ct.
+21501256	jerrywmooreUSA	San Francisco, CA	259647320	USandPartners	Where clients need us to be.
+21501256	jerrywmooreUSA	San Francisco, CA	62376686	billyrukk	
+21501256	jerrywmooreUSA	San Francisco, CA	15775255	annelov	Sweden
+21501256	jerrywmooreUSA	San Francisco, CA	23711767	BarbaraMooty	Raleigh, NC
+21501256	jerrywmooreUSA	San Francisco, CA	12480582	adage	New York and beyond...
+35693092	pourtal	Downtown Santa Monica, CA	84284490	lamuseblue	Mindfully Everywhere
+35693092	pourtal	Downtown Santa Monica, CA	24841097	hobowinecompany	Santa Rosa, CA
+35693092	pourtal	Downtown Santa Monica, CA	424497835	kaseybrazeal7	
+35693092	pourtal	Downtown Santa Monica, CA	33800978	RiedelAustNZ	Australia & New Zealand
+35693092	pourtal	Downtown Santa Monica, CA	271515731	vintageMD	Always moving
+35693092	pourtal	Downtown Santa Monica, CA	15495171	bottlenotes	Palo Alto, CA
+35693092	pourtal	Downtown Santa Monica, CA	16049417	vinodiversity	Melbourne, Australia
+35693092	pourtal	Downtown Santa Monica, CA	66244710	Frommers	Everywhere
+35693092	pourtal	Downtown Santa Monica, CA	14886127	brandWendy	Orange County, CA
+35693092	pourtal	Downtown Santa Monica, CA	14410280	women2	San Francisco, CA
+35693092	pourtal	Downtown Santa Monica, CA	442383578	plsthepalate	
+35693092	pourtal	Downtown Santa Monica, CA	17885058	LuxuryPRGal	Los Angeles, CA
+35693092	pourtal	Downtown Santa Monica, CA	205315691	ShitMySommSays	
+35693092	pourtal	Downtown Santa Monica, CA	17286284	alicefeiring	iPhone: 46.520683,6.629776
+35693092	pourtal	Downtown Santa Monica, CA	107506846	grandcruselect	New York City
+35693092	pourtal	Downtown Santa Monica, CA	32194896	TheWineShepherd	The New York City
+35693092	pourtal	Downtown Santa Monica, CA	22811404	lauramaniec	iPhone: 40.751102,-74.031715
+35693092	pourtal	Downtown Santa Monica, CA	343416756	Levi_opens_wine	Manhattan
+35693092	pourtal	Downtown Santa Monica, CA	308655146	BOTTLE_ROCK	Culver City, CA
+35693092	pourtal	Downtown Santa Monica, CA	35216399	Patriotic_Me	Marina del Rey, CA
+35693092	pourtal	Downtown Santa Monica, CA	88516470	marcchamberlain	Hollywood, CA
+35693092	pourtal	Downtown Santa Monica, CA	85993972	ImpactHubLA	Los Angeles, CA
+35693092	pourtal	Downtown Santa Monica, CA	275644897	upStartLA	Los Angeles, CA
+35693092	pourtal	Downtown Santa Monica, CA	14779522	nerdgirlagogo	Venice, CA
+35693092	pourtal	Downtown Santa Monica, CA	75951347	rebekahiliff	San Francisco
+35693092	pourtal	Downtown Santa Monica, CA	92606438	WsideFoodBank	Santa Monica, CA 90404
+35693092	pourtal	Downtown Santa Monica, CA	158534923	nonfictionlj	Santa Monica/New York
+35693092	pourtal	Downtown Santa Monica, CA	388506108	BettyJeanEvents	Los Angeles, CA
+35693092	pourtal	Downtown Santa Monica, CA	192400221	AprilRawlings	Los Angeles, Chicago
+35693092	pourtal	Downtown Santa Monica, CA	376298770	CJakrun	
+35693092	pourtal	Downtown Santa Monica, CA	17105767	girlmeetsgrape	Los Angeles, USA
+35693092	pourtal	Downtown Santa Monica, CA	87903904	smpubcrawl	Santa Monica, CA 
+35693092	pourtal	Downtown Santa Monica, CA	266195748	SoCalOrange	Southern California
+35693092	pourtal	Downtown Santa Monica, CA	376486997	Wine_LosAng	
+35693092	pourtal	Downtown Santa Monica, CA	28368776	InVenture	Global 
+35693092	pourtal	Downtown Santa Monica, CA	21988901	Decanter	London, UK
+35693092	pourtal	Downtown Santa Monica, CA	355560337	CheltWineFest	Cotswolds & Gloucestershire
+35693092	pourtal	Downtown Santa Monica, CA	385214305	KaseyBrazeal	
+35693092	pourtal	Downtown Santa Monica, CA	252267383	DigitalRoyalty	Downtown Las Vegas
+35693092	pourtal	Downtown Santa Monica, CA	248596255	DecanterAwards	London
+35693092	pourtal	Downtown Santa Monica, CA	7516932	sharayray	Santa Rosa | Wine Country, CA
+35693092	pourtal	Downtown Santa Monica, CA	21838158	Bosworthwines	McLaren Vale South Australia
+35693092	pourtal	Downtown Santa Monica, CA	351734697	WineFromHere	Montreal, Canada
+35693092	pourtal	Downtown Santa Monica, CA	118419765	larisagurnick	Los Angeles, CA
+35693092	pourtal	Downtown Santa Monica, CA	16644166	Turnip137	Los Angeles, CA 
+35693092	pourtal	Downtown Santa Monica, CA	76868140	BeStructured	Los Angeles, CA, USA
+35693092	pourtal	Downtown Santa Monica, CA	17334356	theknot	
+35693092	pourtal	Downtown Santa Monica, CA	36415407	evntsbyhthrham	San Diego
+35693092	pourtal	Downtown Santa Monica, CA	24205599	designdawgs	Hollywood, California
+35693092	pourtal	Downtown Santa Monica, CA	40266871	GreatplacesNY	
+35693092	pourtal	Downtown Santa Monica, CA	23851946	awynningevent	Beverly Hills, CA
+35693092	pourtal	Downtown Santa Monica, CA	37997079	weddingtipsblog	
+35693092	pourtal	Downtown Santa Monica, CA	203745641	bricruiter	Los Angeles, CA
+35693092	pourtal	Downtown Santa Monica, CA	37704895	RTClown	Manhattan Beach, CA
+35693092	pourtal	Downtown Santa Monica, CA	38541283	Timfishwine	Sonoma County, CA
+35693092	pourtal	Downtown Santa Monica, CA	80724090	MomentsByWayne	Los Angeles, CA
+35693092	pourtal	Downtown Santa Monica, CA	25352993	CaliforniaLung	California
+35693092	pourtal	Downtown Santa Monica, CA	143211580	MartianWines	Santa Ynez, CA
+35693092	pourtal	Downtown Santa Monica, CA	102222713	kristeenlabrot	iPhone: 0.000000,0.000000
+35693092	pourtal	Downtown Santa Monica, CA	80963313	LizWarnerLA	Los Angeles CA and NYC
