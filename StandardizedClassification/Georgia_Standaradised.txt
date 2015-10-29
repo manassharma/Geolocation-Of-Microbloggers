@@ -1,0 +1,1395 @@
+10950582	levitanl	GA	3194961267	sammyson1987	NY
+10950582	levitanl	GA	1630261081	lindarmachado	
+10950582	levitanl	GA	4024864455	JakeLevitan	DC
+10950582	levitanl	GA	2404840614	SourcingWizard	
+10950582	levitanl	GA	120538744	Alextheproducer	FL
+10950582	levitanl	GA	2544185258	PositivenergyTV	MS
+10950582	levitanl	GA	2652164270	milleramandany	NY
+10950582	levitanl	GA	2431546572	amardeepkaushal	
+10950582	levitanl	GA	259790447	MrRyanConnors	MA
+10950582	levitanl	GA	18514142	RichardLemon	
+10950582	levitanl	GA	2327556218	NeedNudge	
+10950582	levitanl	GA	2705805788	winetrackerco	WA
+10950582	levitanl	GA	151835694	sherpafoundry	CA
+10950582	levitanl	GA	71860902	Ze_Bach		GA
+10950582	levitanl	GA	39745233	Ruhly		GA
+10950582	levitanl	GA	995756011	voxpopme	
+10950582	levitanl	GA	14060742	DaveCarruthers	
+10950582	levitanl	GA	22720991	Cheeiny		NY
+10950582	levitanl	GA	356968983	EvangeliaPSmith	NJ
+19267664	brighthand	MA	931077744		
+19267664	brighthand	MA	2707321742	WeMailApp	WA
+19267664	brighthand	MA	22575703	JRBTempe	OH
+19267664	brighthand	MA	8099262	ComputerWeekly	
+19267664	brighthand	MA	2979756681	ModernMobility	MA
+19267664	brighthand	MA	16120265	inafried	CA
+19267664	brighthand	MA	5746452	waltmossberg	DC
+19267664	brighthand	MA	9534522	Pogue	
+19267664	brighthand	MA	22938914	stevewoz	MA
+19267664	brighthand	MA	1636590253	tim_cook	CA
+19267664	brighthand	MA	1394399438	JohnLegere	
+19267664	brighthand	MA	19372797	mspoonauer	NY
+19267664	brighthand	MA	15432058	ahaywa	IL
+19267664	brighthand	MA	17872935	quickoffice	
+19267664	brighthand	MA	99845012	JeffSabatAge	
+19267664	brighthand	MA	122731931	Smart_Droid	
+19267664	brighthand	MA	44369337	Chris451mobile	
+19267664	brighthand	MA	165600290	SmartKeitai	
+19267664	brighthand	MA	54994103	CJLippstreu	
+19267664	brighthand	MA	306668439	MobileInquirer	
+19267664	brighthand	MA	6240222		MobiWriter	CA
+19267664	brighthand	MA	23003461	ReBe78	MI
+19267664	brighthand	MA	14583422	mack005	
+19267664	brighthand	MA	146405872	Droidupdate	CA
+19267664	brighthand	MA	14530001	OlyG		CA
+19267664	brighthand	MA	152715150	AndroidDose	FL
+19267664	brighthand	MA	91597220	Smart_Androids	CA
+19267664	brighthand	MA	22642033	Jaime_Rivera	
+19267664	brighthand	MA	18187689	TheHandheldBlog	
+19267664	brighthand	MA	143719559	AndroidPower	
+19267664	brighthand	MA	60261918	SciTechRangers	UT
+19267664	brighthand	MA	17261402	DarrenHumphries	
+19267664	brighthand	MA	31187920	Cisco_Mobility	
+19267664	brighthand	MA	37025150	Daniel_Rubino	MA
+19267664	brighthand	MA	467033245	tapfame		CA
+19267664	brighthand	MA	185728888	TMobileHelp	WA
+19267664	brighthand	MA	172157274	ARJWright	
+19267664	brighthand	MA	1985801		aneelrr	
+19267664	brighthand	MA	43845586	checkherefirst	CA
+19267664	brighthand	MA	15941498	yergacheffe	
+19267664	brighthand	MA	97610612	samsung	
+19267664	brighthand	MA	80585215	Hipstamatic	CA
+19267664	brighthand	MA	54990787	theunlockr	NY
+19267664	brighthand	MA	70888891	SonyMobileNews	
+19267664	brighthand	MA	17976340	splashtop	CA
+19267664	brighthand	MA	18553965	SteelSeries	IL
+19267664	brighthand	MA	212693825	ZTEPress	
+19267664	brighthand	MA	1344951		WIRED	
+19267664	brighthand	MA	2204034272	Beats1	
+19267664	brighthand	MA	5493392		drpetric	
+19267664	brighthand	MA	41821442	vincefont	
+19267664	brighthand	MA	159552384	droidxhack	
+19267664	brighthand	MA	14802766	nan		TX
+19267664	brighthand	MA	2385274356	SearchAWS	MA
+19267664	brighthand	MA	2280756498	TechFollower73	MA
+19267664	brighthand	MA	167547258	BlackBerry4Biz	
+19267664	brighthand	MA	9324442	        rossrubin		NY
+19267664	brighthand	MA	504299333	MWC_Barcelona	
+19267664	brighthand	MA	30245510	MobileMadeEasy	MA
+19267664	brighthand	MA	740983		loic		CA
+19267664	brighthand	MA	2806761		tnkgrl	        CA
+19267664	brighthand	MA	8131122		cyanogen	WA
+19267664	brighthand	MA	25144391	OMWEMEA	
+19267664	brighthand	MA	14818800	markguim	MA
+19267664	brighthand	MA	114504289	mobiletize	AZ
+19267664	brighthand	MA	3963481		twittermobile	CA
+19267664	brighthand	MA	17906684	glumobile	CA
+19267664	brighthand	MA	37620562	InMobi		CA
+19267664	brighthand	MA	23194767	MobileNTRactv	CO
+19267664	brighthand	MA	81129463	MCommerceDaily	NY
+19267664	brighthand	MA	15797245	MillennialMedia	MD.
+19267664	brighthand	MA	14985047	Jumptap		MA
+19267664	brighthand	MA	17195943	EAMobile	CA
+19267664	brighthand	MA	28564725	Smaato		CA
+19267664	brighthand	MA	15596402	visionmobile	
+19267664	brighthand	MA	15006743	zpower		NY
+19267664	brighthand	MA	17477864	tomiahonen	
+19267664	brighthand	MA	19719551	OnlyMobileNews	CA
+19267664	brighthand	MA	19781200	comScore	VA
+19267664	brighthand	MA	5874452		ron_miller	MA
+19267664	brighthand	MA	18131006	BGR		NY
+19267664	brighthand	MA	60642052	VentureBeat	
+19267664	brighthand	MA	30261067	CNET		CA
+19267664	brighthand	MA	275686563	verge		NY
+19267664	brighthand	MA	30722350	MMAglobal	
+19267664	brighthand	MA	93957809	ericschmidt	CA
+19267664	brighthand	MA	20189768	WirelessWeek	WI
+19267664	brighthand	MA	15008936	engadgetmobile	
+19267664	brighthand	MA	14372486	engadget	
+19267664	brighthand	MA	972651		mashable	
+19267664	brighthand	MA	114950668	mashableapple	
+19267664	brighthand	MA	212350063	LGUS		NJ
+19267664	brighthand	MA	993568212	RetweetApple	
+19267664	brighthand	MA	1398656252	iOSRetweet	
+19267664	brighthand	MA	582762258	CellPhone_Roxy	
+19267664	brighthand	MA	268500317	MobileBliss	
+19267664	brighthand	MA	974336532	iSmartAlarm	
+19267664	brighthand	MA	201837925	corninggorilla	NY
+19267664	brighthand	MA	19814551	LogMeIn		MA
+19267664	brighthand	MA	203296884	PocketCloud	CA
+19267664	brighthand	MA	77034099	CyanogenMod	
+19267664	brighthand	MA	106682853	mozilla		Internet
+19267664	brighthand	MA	141777971	ParkMe	
+19267664	brighthand	MA	407757254	K_Worldpanel	
+19267664	brighthand	MA	44513390	BenQAmerica	
+19267664	brighthand	MA	921936877	ehorodnyk	
+19267664	brighthand	MA	46733788	RapidSW		TX
+16362171	ReneMiller	GA	610377448	
+16362171	ReneMiller	GA	160391906	brilndiaye	
+16362171	ReneMiller	GA	42655726	joshvietti	CA
+16362171	ReneMiller	GA	20169430	chrisdyer7	CA
+16362171	ReneMiller	GA	432172446	MsBeforandafter	
+21910888	MyGAFord	GA	16540406	djsamhouse	CA
+21910888	MyGAFord	GA	101949666	prospreneur	CA
+21910888	MyGAFord	GA	116935123	moneycometh4u	
+21910888	MyGAFord	GA	34354254	NaturalyEase	
+21910888	MyGAFord	GA	162645312	QuantumJourney1	
+21910888	MyGAFord	GA	106361728	lily1309	
+21910888	MyGAFord	GA	88792913	ez_marketing	
+21910888	MyGAFord	GA	142730649	MustangsUNLTD	CT
+21910888	MyGAFord	GA	125530096	mlmhere		
+21910888	MyGAFord	GA	125079733	gogreengetcash	
+21910888	MyGAFord	GA	108471215	NicheBlitzkrieg	OH
+21910888	MyGAFord	GA	108497656	BCChinaSourcing	
+21910888	MyGAFord	GA	113132350	familysafety1st	
+21910888	MyGAFord	GA	173016061	PaulFGiza	AZ
+21910888	MyGAFord	GA	109848525	affiliatewoman	DC
+21910888	MyGAFord	GA	124008346	philacsinclair	
+21910888	MyGAFord	GA	129679856	drrao17	
+21910888	MyGAFord	GA	108708027	bbreedapparel	
+21910888	MyGAFord	GA	113711618	MyManyMansions	WA
+21910888	MyGAFord	GA	14213447	aguinaga	
+21910888	MyGAFord	GA	104296509	ptrafficstorm	
+21910888	MyGAFord	GA	121994290	giasangels	
+21910888	MyGAFord	GA	111143997	1MoneyToYou	
+21910888	MyGAFord	GA	104090270	jvconnect	
+21910888	MyGAFord	GA	110164908	affiliatebizop	
+21910888	MyGAFord	GA	81581185	DomainsByJohn	
+21910888	MyGAFord	GA	110048320	IntMarketingAce	
+21910888	MyGAFord	GA	23400537	troyplanet	
+21910888	MyGAFord	GA	108903948	Petakii	
+21910888	MyGAFord	GA	109995882	moneystart	CA
+21910888	MyGAFord	GA	109975749	mytrafficvirus	
+21910888	MyGAFord	GA	156360684	WillysMexicana	GA
+21910888	MyGAFord	GA	83806743	dozenkids	
+21910888	MyGAFord	GA	103414763	BCWtraffic	
+21910888	MyGAFord	GA	17029066	cybs11	
+21910888	MyGAFord	GA	15371874	Jonny_Andrews	IL
+21910888	MyGAFord	GA	82237593	jdshelby	GA
+21910888	MyGAFord	GA	6435542		MikeONeilRocks	MN
+21910888	MyGAFord	GA	87475936	GregTheDebtMan	
+21910888	MyGAFord	GA	26618468	bpblog2	
+21910888	MyGAFord	GA	148225706	VisualElite	
+21910888	MyGAFord	GA	15029108	vanetworking	
+21910888	MyGAFord	GA	83888842	PopMechAuto	NY
+21910888	MyGAFord	GA	139809146	_Alex_Ryan	 
+21910888	MyGAFord	GA	154237207	auction	Irvine, CA
+21910888	MyGAFord	GA	162532430	TheHUGBHW	
+21910888	MyGAFord	GA	14106277	makedesign	CA
+21910888	MyGAFord	GA	15068297	JulieBooz	
+21910888	MyGAFord	GA	67393160	BeverlyHills1	CA 
+21910888	MyGAFord	GA	154981289	LinkedInDiva	
+21910888	MyGAFord	GA	154116953	James_Mills_GA	GA
+21910888	MyGAFord	GA	91256935	FireYourJob	GA
+21910888	MyGAFord	GA	15519647	BeccaBrett	
+21910888	MyGAFord	GA	73857993	RealityPOD	
+21910888	MyGAFord	GA	14279055	jasonyormark	WA
+21910888	MyGAFord	GA	27631639	tylerstanton	GA
+21910888	MyGAFord	GA	39705012	tamranashman	FL
+21910888	MyGAFord	GA	143579096	bizbuild2010	GA
+21910888	MyGAFord	GA	18847830	gearpatrol	NY
+21910888	MyGAFord	GA	56198405	consultingmania	BC
+21910888	MyGAFord	GA	58981222	PublicityNews	MD
+21910888	MyGAFord	GA	126508701	LogicalCitizens	NC
+21910888	MyGAFord	GA	80152429	iPlusMarketing	CA
+21910888	MyGAFord	GA	115686164	StockParty	NY
+21910888	MyGAFord	GA	20411077	OriginalTextura	
+21910888	MyGAFord	GA	153935442	CRGNow		
+21910888	MyGAFord	GA	16655987	juba99	
+21910888	MyGAFord	GA	139812553	LinnieThomas	OR
+21910888	MyGAFord	GA	14997400	mmalkoff	NY
+21910888	MyGAFord	GA	14332074	tamebay	
+21910888	MyGAFord	GA	27868406	GeekPolice	
+21910888	MyGAFord	GA	88555238	aakasam	
+21910888	MyGAFord	GA	110390691	hotrendang	
+21910888	MyGAFord	GA	121790027	IMSuccessHere	CA
+21910888	MyGAFord	GA	102398351	MavenPlatform	NY
+21910888	MyGAFord	GA	104319887	OnlineM4rketer	
+21910888	MyGAFord	GA	75447567	Raymond7777	AL
+21910888	MyGAFord	GA	16624180	milblogging	VI
+21910888	MyGAFord	GA	104288457	KnightA10	
+21910888	MyGAFord	GA	48207390	ChrisEndresMktg	CA
+21910888	MyGAFord	GA	110258777	MarketeersIdeas	
+21910888	MyGAFord	GA	104226009	HappyIMVoyager	
+21910888	MyGAFord	GA	52996249	BizMinute	
+21910888	MyGAFord	GA	104106029	imchrisfreville	 
+21910888	MyGAFord	GA	104144056	morethanhosting	PA
+21910888	MyGAFord	GA	120392354	FortuneFrontier	
+21910888	MyGAFord	GA	111317054	InternetAcette	
+21910888	MyGAFord	GA	104066163	marketingway	OR
+21910888	MyGAFord	GA	120163399	goldminerone	
+21910888	MyGAFord	GA	126769589	TysonSharks	
+21910888	MyGAFord	GA	126699569	trevbeeston1957	 
+21910888	MyGAFord	GA	112844667	danielgwagner	
+21910888	MyGAFord	GA	103929032	toddwx2	
+21910888	MyGAFord	GA	125698388	masii2	
+21910888	MyGAFord	GA	73309353	SALTOX	
+21910888	MyGAFord	GA	160963565	fbookMarketer	MO
+19682704	MarvinWilson	GA	122030129	1IMPACT1	NM
+19682704	MarvinWilson	GA	189213274	RyanHermann	
+19682704	MarvinWilson	GA	98276383	Anchor_man1	VA
+19682704	MarvinWilson	GA	1596217328	Romond_B	FL
+19682704	MarvinWilson	GA	3940420036	MadalinOprea1	
+19682704	MarvinWilson	GA	182384817	Spre		NY
+19682704	MarvinWilson	GA	103416757	mlmrevelado	
+19682704	MarvinWilson	GA	517291397	RHDeals		CA
+19682704	MarvinWilson	GA	14513154	evangelistmatt	MN
+19682704	MarvinWilson	GA	19613782	KudzuTalks	GA
+19682704	MarvinWilson	GA	3479031852	Social_N_Dallas	
+19682704	MarvinWilson	GA	100720847	hafeezhra	
+19682704	MarvinWilson	GA	3434297307	xPositiVibesx	
+19682704	MarvinWilson	GA	22311903	LeahWestMusic	
+19682704	MarvinWilson	GA	2614371440	TCVMagazine	IL
+19682704	MarvinWilson	GA	16916866	bryancrabtree	GA
+19682704	MarvinWilson	GA	3092044639	BinaryOTips	
+19682704	MarvinWilson	GA	2163622502	LeadershpLegacy	
+19682704	MarvinWilson	GA	17673358	TheLifeSayin	
+19682704	MarvinWilson	GA	459269265	RichardAngwin	
+19682704	MarvinWilson	GA	551362361	BublishMe	SC
+19682704	MarvinWilson	GA	37844996	arisytner	NY
+19682704	MarvinWilson	GA	497094379	FA_Forecasts	
+19682704	MarvinWilson	GA	3238007556	franciscomhemb	
+19682704	MarvinWilson	GA	2861448539	ianhsuth	
+19682704	MarvinWilson	GA	16711026	Politics_PR	MN
+19682704	MarvinWilson	GA	43154983	angelinaonline	GA
+19682704	MarvinWilson	GA	22274653	KobeBogaert	CA
+19682704	MarvinWilson	GA	66240539	itsDjAnt	CA
+19682704	MarvinWilson	GA	3316483315	vast_dev	
+19682704	MarvinWilson	GA	2591915041	amylouise867	
+19682704	MarvinWilson	GA	3369391577	FreelancerPros	
+19682704	MarvinWilson	GA	33923443	6BillionPeople	TX
+19682704	MarvinWilson	GA	1622790582	CharlesEdgar6	NC
+19682704	MarvinWilson	GA	37245962	AnastasiaVonB	 
+19682704	MarvinWilson	GA	57219116	WealthFreedom06	
+19682704	MarvinWilson	GA	34146256	jjjinvesting	TX
+19682704	MarvinWilson	GA	60542559	Parked_Domains	
+19682704	MarvinWilson	GA	18548136	DjKingAssassin	CA 
+19682704	MarvinWilson	GA	627708995	spacekidyoungin	FL
+19682704	MarvinWilson	GA	2836320472	CareerQuotes	
+19682704	MarvinWilson	GA	3308162764	batterforosx	
+19682704	MarvinWilson	GA	3020719731	zaynulgaran	
+19682704	MarvinWilson	GA	28720379	advantagesales	CA
+19682704	MarvinWilson	GA	1902686552	KTDDproductions	MI
+19682704	MarvinWilson	GA	256162655	ClasicBeats	
+19682704	MarvinWilson	GA	2256488185	HQ_beats	
+19682704	MarvinWilson	GA	2558769558	iPositiveTV	MS
+19682704	MarvinWilson	GA	2963830033	TheBryanMuseum	TX
+19682704	MarvinWilson	GA	78926478	ChurchBoy_Beatz	TX
+19682704	MarvinWilson	GA	843832364	OneHotBeatMaker	TX
+19682704	MarvinWilson	GA	731293177	LexusMist	
+19682704	MarvinWilson	GA	2516072779	JeaneMooreBooks	
+19682704	MarvinWilson	GA	3119815840	DebbieHilltop	NV
+19682704	MarvinWilson	GA	3023153434	digitalfire1	
+19682704	MarvinWilson	GA	170900539	GummyBeatz	CA
+19682704	MarvinWilson	GA	3011543062	PurpleOnMoon	
+19137654	MarshDesigns	GA	1566499736	Raltatmovie	DC
+19137654	MarshDesigns	GA	54368351	praise1025	
+19137654	MarshDesigns	GA	407927552	KuhlPenguin	
+19137654	MarshDesigns	GA	91436847	BeautyOvahYou_	
+19137654	MarshDesigns	GA	252201203	mskirstenlea	
+19137654	MarshDesigns	GA	139200783	EbonyDaDawn	GA 
+19137654	MarshDesigns	GA	199419361	BBQ_MASTERS	GA
+19137654	MarshDesigns	GA	207522359	Allison_CSUSBDC	GA
+19137654	MarshDesigns	GA	98911350	ClaytonState	GA
+19137654	MarshDesigns	GA	26626120	BeeElleBell	GA 
+19137654	MarshDesigns	GA	18083067	SophieMayer	Berlin 
+19137654	MarshDesigns	GA	130063158	FeelMoreBetter	CA
+19137654	MarshDesigns	GA	62460927	NestVancouver	
+19137654	MarshDesigns	GA	35061898	tiffanytaalman	NY
+19137654	MarshDesigns	GA	38660793	CivilBranding	
+19137654	MarshDesigns	GA	218994141	DropDownDeals	
+19137654	MarshDesigns	GA	28902584	KellyDAdolph	MI
+19137654	MarshDesigns	GA	14202195	dgeorge		NY
+19137654	MarshDesigns	GA	11552		antonio		CA
+19137654	MarshDesigns	GA	37376499	benpatrick90069	CA 
+19137654	MarshDesigns	GA	207300125	GMCLA		CA
+19137654	MarshDesigns	GA	102576707	caribbean_edge	
+19137654	MarshDesigns	GA	181299387	enendar	blagnac
+19137654	MarshDesigns	GA	179515940	schang60	
+19137654	MarshDesigns	GA	44814238	mrdjamesrice	VI
+19137654	MarshDesigns	GA	186521766	rfexterminators	GA
+19137654	MarshDesigns	GA	22955251	KevSo		MA
+19137654	MarshDesigns	GA	27279694	KatieBichon	
+19137654	MarshDesigns	GA	193530794	gutsywomanmag	
+19137654	MarshDesigns	GA	38418394	KunoichiG	
+19137654	MarshDesigns	GA	20948569	johnnykowal	
+19137654	MarshDesigns	GA	134457542	DOTProduct	FL
+19137654	MarshDesigns	GA	22753132	GFISoftware	NC 
+19137654	MarshDesigns	GA	15452859	DawnSandomeno	NY
+19137654	MarshDesigns	GA	200354684	LVAPrinting_com	NY 
+19137654	MarshDesigns	GA	200245967	best_web_host	AL
+19137654	MarshDesigns	GA	209186382	M_Kightlinger	
+19137654	MarshDesigns	GA	161366834	DarienIM	CT
+19137654	MarshDesigns	GA	148730945	gtrekmedia	
+19137654	MarshDesigns	GA	143783935	damiancipriani	GA
+19137654	MarshDesigns	GA	15706633	loriruff	DC
+19137654	MarshDesigns	GA	14484885	marcharty	TX
+19137654	MarshDesigns	GA	169048222	ipadmart_info	
+19137654	MarshDesigns	GA	190697596	soargardenstore	
+19137654	MarshDesigns	GA	192802239	AngellaREI	CA
+19137654	MarshDesigns	GA	107286327	albis_g	
+19137654	MarshDesigns	GA	165580605	treatmasters	
+19137654	MarshDesigns	GA	15651801	MuralsYourWay	  
+19137654	MarshDesigns	GA	214999322	richy614	OH
+19137654	MarshDesigns	GA	13097772	ruthperryman	CA
+19137654	MarshDesigns	GA	813491		DonMacAskill	CA
+19137654	MarshDesigns	GA	18146220	mhiggins	NY
+19137654	MarshDesigns	GA	15873452	jorgebueno	NV.
+19137654	MarshDesigns	GA	143961232	Sherry_Society	
+19137654	MarshDesigns	GA	9486412		ashr		SC
+19137654	MarshDesigns	GA	131607538	memolane	CA
+19137654	MarshDesigns	GA	14179549	AudreyMcClellan	
+19137654	MarshDesigns	GA	36984088	Kimpoirier	CA
+19137654	MarshDesigns	GA	72982024	gapingvoid	
+19137654	MarshDesigns	GA	15789786	SocialGO	
+19137654	MarshDesigns	GA	145435798	iJetZet	DC 
+19137654	MarshDesigns	GA	73225996	stsonline	
+19137654	MarshDesigns	GA	79666388	glenmargolis	CA
+19137654	MarshDesigns	GA	3700091		CharlN	
+19137654	MarshDesigns	GA	18343779	nikhil_parekh	
+19137654	MarshDesigns	GA	16881711	DavidCaplanNY	NY
+19137654	MarshDesigns	GA	200119695	clothesbagshoes	
+19137654	MarshDesigns	GA	115486724	AlPackerFordE	FL
+19137654	MarshDesigns	GA	119040234	AlPackerFordW	FL
+19137654	MarshDesigns	GA	202808139	WhiteMarshFord	MD
+19137654	MarshDesigns	GA	41931506	uvtravel	NJ
+19137654	MarshDesigns	GA	17439131	JacobDutton	 
+19137654	MarshDesigns	GA	29611085	coldwellm	NV
+19137654	MarshDesigns	GA	19073315	swwestmoreland	NV
+19137654	MarshDesigns	GA	88885557	adkwildman	
+19137654	MarshDesigns	GA	202116879	blandiet	
+19137654	MarshDesigns	GA	25647552	Filminute	
+19137654	MarshDesigns	GA	91372512	CashVine	 CA 
+19137654	MarshDesigns	GA	10203		julien	
+19137654	MarshDesigns	GA	26483183	jeremygutsche	
+19137654	MarshDesigns	GA	17855050	ralf	 
+19137654	MarshDesigns	GA	8343832		trendhunter	
+19137654	MarshDesigns	GA	30338119	Thickahleshious	 CA
+19137654	MarshDesigns	GA	19804128	SACHIKATWINS	
+19137654	MarshDesigns	GA	137300027	Scramasax77	
+19137654	MarshDesigns	GA	6600		boetter	
+19137654	MarshDesigns	GA	14159240	RealTimes	WA
+19137654	MarshDesigns	GA	25694281	KevinTacher	FL
+19137654	MarshDesigns	GA	173885896	Wintend	
+19137654	MarshDesigns	GA	61944834	squizcards	
+19137654	MarshDesigns	GA	115193535	daynadesigns	AZ
+19137654	MarshDesigns	GA	154116953	James_Mills_GA	GA
+19137654	MarshDesigns	GA	37361422	wdkpjl	
+19137654	MarshDesigns	GA	130607534	machtdichdasan	
+19137654	MarshDesigns	GA	168473105	waterboxdesign	NC
+19137654	MarshDesigns	GA	23715208	2DogRestaurant	GA
+19137654	MarshDesigns	GA	168467076	readymadeniches	
+19137654	MarshDesigns	GA	47951693	SMVisualLab	
+19137654	MarshDesigns	GA	10373322	SuggestionBox	CA
+19137654	MarshDesigns	GA	64622228	TezOsman	
+19137654	MarshDesigns	GA	98746195	raissabarusco	
+19137654	MarshDesigns	GA	174038636	ChistosoVideo	
+19137654	MarshDesigns	GA	98313260	OATHCoalition	OK
+19137654	MarshDesigns	GA	137424336	triMirror	
+19137654	MarshDesigns	GA	174664628	RDTaxesMilford	CT
+19137654	MarshDesigns	GA	36574363	treabase	NY
+19137654	MarshDesigns	GA	52432589	woozworld	
+19137654	MarshDesigns	GA	9940162		PeterWinick	NY 
+19137654	MarshDesigns	GA	157815346	PawsWhiskersWag	GA
+19137654	MarshDesigns	GA	127652103	TheStockrocket	CA
+19137654	MarshDesigns	GA	61858831	asif	
+19137654	MarshDesigns	GA	91068791	callmelimster	
+19137654	MarshDesigns	GA	112969892	market901	MI
+19137654	MarshDesigns	GA	28008141	followmeback	IL
+19137654	MarshDesigns	GA	14468043	brentnhunter	
+19137654	MarshDesigns	GA	172443768	alistdaily	
+19137654	MarshDesigns	GA	168610111	Scottventure	
+19137654	MarshDesigns	GA	20224975	wondersofi	
+19137654	MarshDesigns	GA	157906001	nessablossom	
+19137654	MarshDesigns	GA	154875349	4nilarticles	 
+19137654	MarshDesigns	GA	21160065	TreverMcGhee	
+19137654	MarshDesigns	GA	67582812	sophistry_jp	
+19137654	MarshDesigns	GA	152304812	Begin2Earn	FL
+16385222	obrothermusic	GA	9639502	kexp	WAshington, 
+16385222	obrothermusic	GA	621510339	Pity_Sex	MI
+16385222	obrothermusic	GA	221496459	twiabp	
+16385222	obrothermusic	GA	20728388	ryanCRASHBURN	 
+16385222	obrothermusic	GA	1548959899	oldbloodnoise	OK
+16385222	obrothermusic	GA	14759232	alliswell	GA
+16385222	obrothermusic	GA	2306893670	Brother_moto	GA
+16385222	obrothermusic	GA	223390918	bbqdbrains	
+16385222	obrothermusic	GA	20009684	ChevelleInc	IL
+16385222	obrothermusic	GA	2275206060	AtriaCreative	
+16385222	obrothermusic	GA	63938310	blakestuddard	OK
+16385222	obrothermusic	GA	87964906	danozzi		NY
+16385222	obrothermusic	GA	59344281	sonjimmons	PA
+16385222	obrothermusic	GA	21610801	gatesmusic	NJ
+16385222	obrothermusic	GA	249378182	BenKoller	
+16385222	obrothermusic	GA	104045915	StephenBrodsky	NY
+16385222	obrothermusic	GA	81363401	SEASthrash	PA
+16385222	obrothermusic	GA	2212870082	montserratpalen	
+16385222	obrothermusic	GA	24200786	jakehsnider	
+16385222	obrothermusic	GA	2169244650	Failure		CA
+16385222	obrothermusic	GA	807163460	Hades_Music	
+16385222	obrothermusic	GA	16344559	bsmrocks	
+39540508	phileoshacor	GA	50942395	SamRichardson	CA
+39540508	phileoshacor	GA	21712842	DanteNero	NY
+39540508	phileoshacor	GA	18216605	TheJoeMatarese	NY
+39540508	phileoshacor	GA	19143584	OpieRadio	NY
+39540508	phileoshacor	GA	19222164	AnthoNYumia	NY
+39540508	phileoshacor	GA	86196231	BeaccchHoussse	MD
+39540508	phileoshacor	GA	216299334	piersmorgan	CA 
+39540508	phileoshacor	GA	24447643	eddieizzard	
+39540508	phileoshacor	GA	3675139454	mike_dunnit	GA
+39540508	phileoshacor	GA	139807793	Transientism	 
+39540508	phileoshacor	GA	549782395	JesDug		
+39540508	phileoshacor	GA	267856525	michelleisawolf	
+39540508	phileoshacor	GA	1392077359	WillChancellor	
+39540508	phileoshacor	GA	144627696	thejennabond	NY
+39540508	phileoshacor	GA	232783642	straczynski	CA
+39540508	phileoshacor	GA	14634380	jasonaaron	KS
+39540508	phileoshacor	GA	2809941493	karenthekaren	CA
+39540508	phileoshacor	GA	293044658	Shmily0517	
+39540508	phileoshacor	GA	2450350116	SBianchiArt	
+39540508	phileoshacor	GA	53294496	ButtKrustyDusty	CA
+39540508	phileoshacor	GA	18128940	madw		NY
+39540508	phileoshacor	GA	14391202	arsie		NY
+39540508	phileoshacor	GA	423161345	K__PUCK		NY
+39540508	phileoshacor	GA	15446336	JHickman	
+39540508	phileoshacor	GA	45203497	RealSway	NY
+39540508	phileoshacor	GA	301402039	cedricyarbrough	CA
+39540508	phileoshacor	GA	58529612	RealDLHughley	
+39540508	phileoshacor	GA	11348282	NASA	
+39540508	phileoshacor	GA	2962174835	cbqualitylife	NY
+39540508	phileoshacor	GA	44381332	abbijacobson	NY
+39540508	phileoshacor	GA	18948541	SethMacFarlane	CA
+39540508	phileoshacor	GA	18494593	chrisdelia	
+39540508	phileoshacor	GA	31642933	VonDecarlo	
+39540508	phileoshacor	GA	19949339	twitteurgh	
+39540508	phileoshacor	GA	26323017	BizMarkie	
+39540508	phileoshacor	GA	36037604	JordanRock843	
+39540508	phileoshacor	GA	20397644	Bifflawson	NY
+39540508	phileoshacor	GA	30887601	AriesSpears	CA
+39540508	phileoshacor	GA	31045740	mariojoyner	
+39540508	phileoshacor	GA	46306646	jadapsmith	
+39540508	phileoshacor	GA	229943617	realctucker	
+39540508	phileoshacor	GA	15143478	RichardDawkins	
+39540508	phileoshacor	GA	142157505	batemanjason	CA
+39540508	phileoshacor	GA	1228516999	arnettwill	
+39540508	phileoshacor	GA	181572333	chancetherapper	
+39540508	phileoshacor	GA	23561980	kendricklamar	
+39540508	phileoshacor	GA	423900612	LeoniePerron	
+39540508	phileoshacor	GA	223769607	LauraLBishop	NY
+39540508	phileoshacor	GA	1698785251	artykarateparty	
+39540508	phileoshacor	GA	20978103	DaneCook	
+39540508	phileoshacor	GA	24795163	MarlonWayans	
+39540508	phileoshacor	GA	2943216957	HanhSports	
+39540508	phileoshacor	GA	2737352526	damonwon	
+39540508	phileoshacor	GA	116362700	LilTunechi	
+39540508	phileoshacor	GA	148134445	kapnknuckles23	
+39540508	phileoshacor	GA	1853842795	clarespencer	
+39540508	phileoshacor	GA	16573922	AShakur		
+39540508	phileoshacor	GA	44519801	nasty45		
+39540508	phileoshacor	GA	2542030770	Patricia8cloud	
+39540508	phileoshacor	GA	342964940	Tommedian	
+39540508	phileoshacor	GA	29622146	kylegrooms	
+39540508	phileoshacor	GA	25950264	ayechichi	
+39540508	phileoshacor	GA	523632806	artiequitter	
+39540508	phileoshacor	GA	45639243	conorvgalvin	CA
+39540508	phileoshacor	GA	20015311	rickygervais	
+39540508	phileoshacor	GA	249801044	lauraegreene	
+39540508	phileoshacor	GA	2865525205	mikejviola	NY
+39540508	phileoshacor	GA	60813201	ScienceAlert	
+39540508	phileoshacor	GA	18278629	fatbellybella	
+39540508	phileoshacor	GA	36503604	jayrmonty	
+39540508	phileoshacor	GA	132815949	ladymissbot	
+39540508	phileoshacor	GA	501389799	thecampaignbook	
+39540508	phileoshacor	GA	23570456	NotoriousROD	
+39540508	phileoshacor	GA	338131988	Tesssanch	
+39540508	phileoshacor	GA	2801985588	BooLaDeuce	
+39540508	phileoshacor	GA	17439277	shawnhalpin	CA
+39540508	phileoshacor	GA	14133970	reggiewatts	NY
+39540508	phileoshacor	GA	316389142	iamjohnoliver	NY
+39540508	phileoshacor	GA	592464429	WeShouldDoItAll	NY
+39540508	phileoshacor	GA	573846935	Anne_Margaret_	
+39540508	phileoshacor	GA	39706174	realjeffreyross	
+39540508	phileoshacor	GA	6541402		attell		NY
+39540508	phileoshacor	GA	26924027	TheValerieJune	
+39540508	phileoshacor	GA	538573317	zombie_dimples	NY
+39540508	phileoshacor	GA	23692017	lostapril	OK
+39540508	phileoshacor	GA	74332792	Lebanon_Don	
+20057832	mycustomday	GA	20187649	econbusspeaker	CA
+20057832	mycustomday	GA	36094859	L_East	
+20057832	mycustomday	GA	73320790	SohenDailyTweet	GA 
+20057832	mycustomday	GA	23836509	katslatery	
+20057832	mycustomday	GA	7710192		basketballjones	GA
+20057832	mycustomday	GA	19473867	mslynng		GA
+20057832	mycustomday	GA	22987468	MindfullyChange	FL
+20057832	mycustomday	GA	67790667	ahuuha	
+20057832	mycustomday	GA	18073937	sellmewhatiwant	FL
+20057832	mycustomday	GA	21160824	mekoyohannes	
+20057832	mycustomday	GA	15098170	good_ol_c_rod	 
+20057832	mycustomday	GA	105023896	lifestylereward	
+20057832	mycustomday	GA	37870565	PsychicParanorm	
+20057832	mycustomday	GA	111950765	CatoSalter	
+20057832	mycustomday	GA	47181196	WhatsHappNTampa	FL
+20057832	mycustomday	GA	36439549	asianbuffets	
+20057832	mycustomday	GA	74068382	benatalpha	
+20057832	mycustomday	GA	36086457	KWesleyHowe	
+20057832	mycustomday	GA	39755950	Deoxydoesit	OH
+20057832	mycustomday	GA	39335596	WebAce		PA 
+20057832	mycustomday	GA	15473972	gohewitt	FL
+20057832	mycustomday	GA	17976996	Millie_Munoz	FL
+20057832	mycustomday	GA	94828086	Damien_Diaz	MA
+20057832	mycustomday	GA	61636429	Telstra		
+20057832	mycustomday	GA	17939941	recblogs	
+20057832	mycustomday	GA	22703623	derrickng	
+20057832	mycustomday	GA	27296659	vegaswithjim	
+20057832	mycustomday	GA	32889986	AnitaMatys	OR
+20057832	mycustomday	GA	49385250	LillianBella	CA
+20057832	mycustomday	GA	19031443	ShaRudd		GA
+20057832	mycustomday	GA	108804482	madaboutvre	
+20057832	mycustomday	GA	105565843	jooclub	Cyprus
+20057832	mycustomday	GA	103653957	CythiaAvalo	
+20057832	mycustomday	GA	100139169	dejay4u	
+20057832	mycustomday	GA	69221005	_SlimBody_	
+20057832	mycustomday	GA	38447955	NicoleScherer	FL
+16650513	wrekroom	GA	2922975173	DividedTimeDoc	GA
+16650513	wrekroom	GA	2924442000	GMINDSHIPHOP	
+16650513	wrekroom	GA	42135172	HighOffLifeLLC	
+16650513	wrekroom	GA	2829653164	ReefHustleMusic	NY
+16650513	wrekroom	GA	455051657	SASMGMT	
+16650513	wrekroom	GA	783078606	Blaze1Media	GA
+16650513	wrekroom	GA	65396518	fillenoireyogi	GA
+16650513	wrekroom	GA	3325363055	silviax94	
+16650513	wrekroom	GA	3039665356	fuventanabauza	
+16650513	wrekroom	GA	2367974840	kanvismusic	PA
+16650513	wrekroom	GA	26905899	cariadharmon	NY
+16650513	wrekroom	GA	576732528	RealDajaMarie	
+16650513	wrekroom	GA	20212140	TheHypeMagazine	
+16650513	wrekroom	GA	1708637292	FantomX74	
+16650513	wrekroom	GA	3091383197	MELEE_Wreck	
+16650513	wrekroom	GA	2746390469	r_energee74	GA
+16650513	wrekroom	GA	31607006	NickBurnz	GA
+16650513	wrekroom	GA	2363398513	PrymeMC	
+16650513	wrekroom	GA	743722056	ShayMeyers1	
+16650513	wrekroom	GA	182384817	Spre		NY
+16650513	wrekroom	GA	176946754	TrendCityShow	CA
+16650513	wrekroom	GA	32504111	BigLoHipHop	FL
+16650513	wrekroom	GA	24989950	ezstreet	DC
+16650513	wrekroom	GA	14985388	HipHopDotCA	
+16650513	wrekroom	GA	22941233	therealrc	
+16650513	wrekroom	GA	2360405498	TeamCampLo	
+16650513	wrekroom	GA	550624584	H3TVdotCOM	
+16650513	wrekroom	GA	858238748	N2TRecord	GA
+16650513	wrekroom	GA	384172909	djaquaria	
+16650513	wrekroom	GA	24433862	mykillmiers	
+16650513	wrekroom	GA	69582499	BigShotMusic	
+16650513	wrekroom	GA	45903399	Streetseeker	
+16650513	wrekroom	GA	195441023	Stardom101Mag	VA
+16650513	wrekroom	GA	3092299306	Trivial_Records	TN
+16650513	wrekroom	GA	176823402	WHOiSHi	
+16650513	wrekroom	GA	117423361	Thatguybamn	
+16650513	wrekroom	GA	84019832	ploydATL	GA
+16650513	wrekroom	GA	262088892	MCBEEZY404	
+16650513	wrekroom	GA	582505832	TamaraUniverse	GA
+16650513	wrekroom	GA	243456489	TheRealJbre	
+16650513	wrekroom	GA	267709335	pmwhiphop	NV
+16650513	wrekroom	GA	2993303936	HOT107FM	NC
+16650513	wrekroom	GA	19880180	RickyRaw	GA
+16650513	wrekroom	GA	2462165502	iknowabomb	GA
+16650513	wrekroom	GA	76127141	wesgreenhouse	Atl
+16650513	wrekroom	GA	189747883	iamdougiekent	
+16650513	wrekroom	GA	37383184	DJHerk		PA
+11669792	CodePoet	GA	618886877	NollyPeriphery	
+11669792	CodePoet	GA	231906519	MarkPeriphery	TX
+11669792	CodePoet	GA	43443315	JakePeriphery	
+11669792	CodePoet	GA	16573941	netflix	Los Gatos, CA
+11669792	CodePoet	GA	2421079436	amazonfire	WA
+11669792	CodePoet	GA	84249568	AmazonKindle	
+11669792	CodePoet	GA	2905440476	amazonecho	WA
+11669792	CodePoet	GA	394801539	FRESHTIX	GA
+11669792	CodePoet	GA	69102676	HardRockGA	GA
+11669792	CodePoet	GA	15605972	wmkim	
+66720189	anniebaebii	GA	3392361873	Anthony50375705	GA
+66720189	anniebaebii	GA	217600614	2122fredric	
+66720189	anniebaebii	GA	557093832	ZebraPrint251	GA
+66720189	anniebaebii	GA	96564060	SteveGutzler	WA
+66720189	anniebaebii	GA	221154465	4Manchild	GA
+66720189	anniebaebii	GA	2372164082	Bigfariouz	
+66720189	anniebaebii	GA	6326192		Rondera	
+66720189	anniebaebii	GA	2826682045	Armanikp	
+66720189	anniebaebii	GA	2295888065	bassicallyfp	
+66720189	anniebaebii	GA	2783685930	smacked91	
+66720189	anniebaebii	GA	104798553	AO_HIFIVEENT	GA
+66720189	anniebaebii	GA	63166035	BeyonceLite	
+66720189	anniebaebii	GA	226793611	_Ikeeee	GA
+66720189	anniebaebii	GA	2419968554	sooo_CILLA	
+66720189	anniebaebii	GA	2528068703	hab_ok	
+66720189	anniebaebii	GA	30253086	lilyjennifer	
+66720189	anniebaebii	GA	1018704385	blessing_ashley	GA
+66720189	anniebaebii	GA	2448363860	duduja20_alice	
+66720189	anniebaebii	GA	2376148402	SShavone85	NC
+66720189	anniebaebii	GA	407461305	Drewsel25	GA
+66720189	anniebaebii	GA	753614185	floybanksmarley	
+66720189	anniebaebii	GA	80681619	AlexFolzi	BC
+66720189	anniebaebii	GA	1931236692	iwacu07	
+66720189	anniebaebii	GA	848628608	da_frico	
+66720189	anniebaebii	GA	11694302	karim2k		
+66720189	anniebaebii	GA	112522253	Nik_Bean	
+66720189	anniebaebii	GA	377215851	king_fatboi179	
+66720189	anniebaebii	GA	29452810	greatlakesmix	
+66720189	anniebaebii	GA	48153147	wowsena		
+66720189	anniebaebii	GA	1946472206	257thinkers	
+66720189	anniebaebii	GA	1064331452	MpZaire	
+66720189	anniebaebii	GA	261952810	Dera2blessed	GA
+66720189	anniebaebii	GA	2294892408	Blessing_MarieG	
+66720189	anniebaebii	GA	2301965800	RichNigga_Dreek	
+66720189	anniebaebii	GA	141278024	mggrim		IN
+66720189	anniebaebii	GA	28515013	moe0678		ATL
+66720189	anniebaebii	GA	299717674	ObnoxiousBeauti	
+14554604	sandrawatkins	GA	2396772302	bryancolvinfilm	CA
+14554604	sandrawatkins	GA	31152319	TyCloud		CA
+36051977	LeadLife	GA	882192152	go4biz101	
+36051977	LeadLife	GA	218634414	letgotogrow	VA
+36051977	LeadLife	GA	8131042		shanegibson	
+36051977	LeadLife	GA	444940567	garybizzo	
+36051977	LeadLife	GA	111640084	Prospectvision	
+36051977	LeadLife	GA	126184210	social2b	NY 
+36051977	LeadLife	GA	18772471	mitchtobol	NY
+36051977	LeadLife	GA	347393242	gareth_case	 
+36051977	LeadLife	GA	441970965	exploreB2B	
+36051977	LeadLife	GA	906886916	Introhub	
+36051977	LeadLife	GA	1548899748	stablekernel	GA
+36051977	LeadLife	GA	14424425	TracyThayne	UT
+36051977	LeadLife	GA	101857720	alisonathomas	IL
+36051977	LeadLife	GA	444088271	DomainsOnSale1	
+36051977	LeadLife	GA	20116956	ssusina		IL
+36051977	LeadLife	GA	582258562	Coastal_Social	CA
+36051977	LeadLife	GA	216035055	awcareer_news	PA
+36051977	LeadLife	GA	738687284	HollaCHollis	TX
+36051977	LeadLife	GA	14627159	efairleigh	GA 
+36051977	LeadLife	GA	818340		marshallk	OR
+36051977	LeadLife	GA	14161568	smc90		CA
+36051977	LeadLife	GA	17827889	garettstenson	OR
+36051977	LeadLife	GA	21870557	SandraMcCarty	NY
+36051977	LeadLife	GA	17123492	cdickison	DC
+36051977	LeadLife	GA	31660188	Grazitti	
+36051977	LeadLife	GA	137124622	JennaCheng	
+36051977	LeadLife	GA	157014245	jbvit_sunnyvale	CA
+36051977	LeadLife	GA	16493868	bryankramer	CA
+36051977	LeadLife	GA	85668268	1peoplesearch	
+36051977	LeadLife	GA	14734438	stephen47	MA
+36051977	LeadLife	GA	20639299	jasongilmore2	
+36051977	LeadLife	GA	15859644	wittlake	OR
+36051977	LeadLife	GA	14905019	SteveCassady	KS
+36051977	LeadLife	GA	19479915	PapaRelevance	
+36051977	LeadLife	GA	1038600318	jennghan	
+36051977	LeadLife	GA	119911091	b2b_chat	
+36051977	LeadLife	GA	484978594	ScrewpileComm	MD
+36051977	LeadLife	GA	18359616	V1ktor		NY
+36051977	LeadLife	GA	461821831	CofeeScr	
+36051977	LeadLife	GA	351748945	jonathancatley	MA
+36051977	LeadLife	GA	87056789	cschrager	VA
+36051977	LeadLife	GA	29506291	LCShah		CA
+36051977	LeadLife	GA	30321165	semwisdom	WA
+36051977	LeadLife	GA	46306443	christianprada	CA
+36051977	LeadLife	GA	282155291	CreativeBrander	
+36051977	LeadLife	GA	140160936	OverturePromo	IL
+36051977	LeadLife	GA	148793085	BlueSodaPromo	IL
+36051977	LeadLife	GA	8632992		DanWaldo	SC
+36051977	LeadLife	GA	393554193	JohnnieReeves78	FL
+36051977	LeadLife	GA	196381018	ltporteriii	OH
+36051977	LeadLife	GA	25305731	SweetMelissaM	GA
+36051977	LeadLife	GA	133042409	UCforAll	NC
+36051977	LeadLife	GA	56832293	jordanbenshea	CA
+36051977	LeadLife	GA	7303802		RobertHill	VA
+36051977	LeadLife	GA	88592672	syarifahsofea	
+36051977	LeadLife	GA	14700413	awormann	NJ
+36051977	LeadLife	GA	22331679	Scott__Miller	GA 
+36051977	LeadLife	GA	24690651	mike_trow	GA
+36051977	LeadLife	GA	20721177	CarlaJohnson	TX
+36051977	LeadLife	GA	232277149	ReeseChancelor	OK
+36051977	LeadLife	GA	267551891	Omenbackwards	CA
+36051977	LeadLife	GA	25398102	ceonetprospex	MA
+36051977	LeadLife	GA	15147506	tamgraves	MA
+36051977	LeadLife	GA	305069902	MaribethRoss	MA
+36051977	LeadLife	GA	7765022		kentjlewis	OR
+36051977	LeadLife	GA	130989808	hoverley	NY
+36051977	LeadLife	GA	26587754	EllenValentine	GA
+36051977	LeadLife	GA	703381237	JoannMasseyMBA	TN
+36051977	LeadLife	GA	234888101	ThePursuitGroup	CO
+36051977	LeadLife	GA	20155659	patrickkendall	MN
+36051977	LeadLife	GA	10337242	scrollinondubs	AZ
+36051977	LeadLife	GA	17081633	grid7		AZ
+36051977	LeadLife	GA	271627996	Iron_Point	CO
+36051977	LeadLife	GA	5814392		ReplytoAll	WA 
+36051977	LeadLife	GA	113994206	BlairEvanBall	
+36051977	LeadLife	GA	27648878	DannyLSmith	TX
+36051977	LeadLife	GA	427800508	Maldaban	
+36051977	LeadLife	GA	562518989	ChristinaRuetz	CA
+36051977	LeadLife	GA	151055857	CheckBuzz	
+36051977	LeadLife	GA	444417796	DomainCentral1	
+36051977	LeadLife	GA	753398468	SmartMediaTipz	
+36051977	LeadLife	GA	145830708	YourTopSalesRep	DC
+36051977	LeadLife	GA	615302461	MattM_ID	CO
+36051977	LeadLife	GA	48403639	ewsalus		CA 
+36051977	LeadLife	GA	14609212	KristieMcDonald	IL
+36051977	LeadLife	GA	26827885	PlurisMarketing	
+36051977	LeadLife	GA	29379934	YouBrandInc	MN
+36051977	LeadLife	GA	465336812	CurationTraffic	
+36051977	LeadLife	GA	78108544	revenuemarketer	GA 
+36051977	LeadLife	GA	138889340	shantitus	CA
+36051977	LeadLife	GA	232360676	SEOLinkTagstic	
+36051977	LeadLife	GA	24941414	dddomingo	 
+36051977	LeadLife	GA	614747249	theContentNotes	
+36051977	LeadLife	GA	884148631	thomasdunn	CA
+36051977	LeadLife	GA	6059652		PatSchaber	MN
+36051977	LeadLife	GA	95263650	coxbusiness	GA
+36051977	LeadLife	GA	360480616	smajensen	 
+36051977	LeadLife	GA	133027929	B2Community	PA
+36051977	LeadLife	GA	20642005	eric_lien	WI
+36051977	LeadLife	GA	481375592	ROI4Sales	WI
+36051977	LeadLife	GA	319052563	Swapnil095	
+36051977	LeadLife	GA	77243253	kushal_khare	
+36051977	LeadLife	GA	509627976	ProfitableMD	
+36051977	LeadLife	GA	30932683	hypercompetitiv	
+36051977	LeadLife	GA	22980274	MsCaitlinC	GA
+36051977	LeadLife	GA	15767388	lizajlee	
+36051977	LeadLife	GA	4413151		mrwindh	Lund
+36051977	LeadLife	GA	205417159	OpenViewLabs	MA
+36051977	LeadLife	GA	20939145	FayeinCbus	OH
+36051977	LeadLife	GA	27196830	MManningIEI	TX
+36051977	LeadLife	GA	8097172		RoyMcClean	BC
+36051977	LeadLife	GA	19929026	SIIAContent	DC
+36051977	LeadLife	GA	366734991	OriSFA		Boston
+36051977	LeadLife	GA	262533016	gigabeep	
+36051977	LeadLife	GA	322054650	pelias01	
+36051977	LeadLife	GA	13744502	joshmerchant	 
+36051977	LeadLife	GA	280964817	DeeplyDigital	
+36051977	LeadLife	GA	313419252	bell_lacey	
+36051977	LeadLife	GA	834877758	RonBaranAZ	AZ
+36051977	LeadLife	GA	264609541	binushacker	
+36051977	LeadLife	GA	313413470	SandyBrett	
+36051977	LeadLife	GA	313405241	WillowCourtney	
+36051977	LeadLife	GA	313421719	WishZab	
+36051977	LeadLife	GA	313398717	JillianPayge	
+36051977	LeadLife	GA	313391509	AnastasiaColton	ON
+36051977	LeadLife	GA	27291331	OLFAPAJALA	
+36051977	LeadLife	GA	22055235	BobScheier	MA 
+36051977	LeadLife	GA	346757676	Sean_P_Johnson	WI
+36051977	LeadLife	GA	488993129	piorimando	CA 
+36051977	LeadLife	GA	769822836	BusinessInfogra	
+36051977	LeadLife	GA	89931882	KolkataMedia	
+36051977	LeadLife	GA	851859000	abde0cyberlink	
+36051977	LeadLife	GA	13426662	pc4media	MA
+36051977	LeadLife	GA	89914645	SocialMediaRate	TX
+36051977	LeadLife	GA	201568039	LisaS_DCP	VI
+36051977	LeadLife	GA	142480748	keshavatech	
+36051977	LeadLife	GA	89931757	SMOKerala	
+36051977	LeadLife	GA	849053726	OnnaOnneGO	
+36051977	LeadLife	GA	498387214	bContext	NY
+36051977	LeadLife	GA	89897786	SMOHyderabad	
+36051977	LeadLife	GA	481731989	EditorEtc	CO
+36051977	LeadLife	GA	529007279	EditPub		CO
+36051977	LeadLife	GA	542976436	PublishEdit	CO
+36051977	LeadLife	GA	21781701	gcohen85	GA
+36051977	LeadLife	GA	166451853	TheSocialTrap	
+36051977	LeadLife	GA	438656156	B2BnBoundOnline	TX
+36051977	LeadLife	GA	422211558	greglasvegas	NV
+36051977	LeadLife	GA	223301580	DashBurst	NV
+36051977	LeadLife	GA	177081110	DanielZeevi	PA
+36051977	LeadLife	GA	538045484	The_Data_Monkey	
+36051977	LeadLife	GA	234130252	strutturafine	
+36051977	LeadLife	GA	321527374	bostonmorris	MA
+36051977	LeadLife	GA	375139111	smroi_es	
+36051977	LeadLife	GA	575530855	Isra_Valerio	
+36051977	LeadLife	GA	18391751	GoodCustomers	
+36051977	LeadLife	GA	112976874	Customertwits	
+36051977	LeadLife	GA	29777921	MHIGCustExp	
+36051977	LeadLife	GA	23672719	pcarlaw	California
+36051977	LeadLife	GA	59490123	ePlusMarketing	KS
+36051977	LeadLife	GA	213708645	BradBennett	
+36051977	LeadLife	GA	369650622	cust_serv_elite	
+36051977	LeadLife	GA	38739261	gmmcmullen	
+36051977	LeadLife	GA	192920572	Grupo_GSS	
+36051977	LeadLife	GA	22185937	markrvidsson	
+36051977	LeadLife	GA	78199731	BalmerBlack	NY
+36051977	LeadLife	GA	143375799	snow1081	
+36051977	LeadLife	GA	22612693	scottdoughty	
+36051977	LeadLife	GA	598974958	Marketingwatchs	
+36051977	LeadLife	GA	540738723	AllNewLive	
+36051977	LeadLife	GA	67323162	targetbehavior	
+36051977	LeadLife	GA	156353261	Cooperangas	ND
+36051977	LeadLife	GA	156301951	Jakesheil	MD
+36051977	LeadLife	GA	156340050	celebhappenings	
+36051977	LeadLife	GA	156349926	childlincoln	CA
+36051977	LeadLife	GA	150268900	tweetgrahamk	
+36051977	LeadLife	GA	79764266	martinhermsen	
+36051977	LeadLife	GA	175283773	Mejora_com	NY
+36051977	LeadLife	GA	20423304	OCMayOo		CA
+36051977	LeadLife	GA	509051984	Leadingreach	TX
+36051977	LeadLife	GA	85925808	MarcelSendejo	TX
+36051977	LeadLife	GA	218774841	TechValEvan	CA
+36051977	LeadLife	GA	17058054	kmschroeder	IN
+36051977	LeadLife	GA	157742303	zenman1328	
+36051977	LeadLife	GA	112265563	misterrjones	FL
+36051977	LeadLife	GA	38266207	MarketingCheap	
+36051977	LeadLife	GA	352660587	SempleKen	
+36051977	LeadLife	GA	350437162	ANCHORSEND1	CA
+36051977	LeadLife	GA	837072367	RocketingSoltns	
+36051977	LeadLife	GA	18732391	RedHouse	GA
+36051977	LeadLife	GA	481337276	querotraffic	
+36051977	LeadLife	GA	135415568	GetInNews	
+36051977	LeadLife	GA	131646449	jmartinezroldan	
+36051977	LeadLife	GA	143438394	Networkll2	
+36051977	LeadLife	GA	91649310	AnnRose85	
+36051977	LeadLife	GA	44828704	guyorridge	
+36051977	LeadLife	GA	22272296	arlenemarom	
+36051977	LeadLife	GA	14316060	cassyput	
+36051977	LeadLife	GA	16040532	GeorgeLeff	
+65412296	yallcallpaul	GA	34198151	HondaInAmerica	
+65412296	yallcallpaul	GA	67653749	wsbradio	GA
+65412296	yallcallpaul	GA	273417314	B985FM		GA
+65412296	yallcallpaul	GA	54688421	tunein		CA
+65412296	yallcallpaul	GA	85386834	roddywhiteTV	
+65412296	yallcallpaul	GA	16672159	ProFootballTalk	
+65412296	yallcallpaul	GA	51263592	AdamSchefter	NY
+65412296	yallcallpaul	GA	19847265	GameRanch	GA
+65412296	yallcallpaul	GA	16211061	georgiagov	GA
+65412296	yallcallpaul	GA	71594047	GCgov	
+65412296	yallcallpaul	GA	14902904	GwinnettBuzz	GA
+65412296	yallcallpaul	GA	166580206	gwinnettctynews	GA
+65412296	yallcallpaul	GA	43430484	Honda		CA
+65412296	yallcallpaul	GA	31123165	GwinnettDaily	GA
+65412296	yallcallpaul	GA	428333		cnnbrk	
+65412296	yallcallpaul	GA	39127562	GreenInGwinnett	
+65412296	yallcallpaul	GA	4170491		ajc	GA
+65412296	yallcallpaul	GA	16347506	GAFalcons	GA
+65412296	yallcallpaul	GA	43366402	TheHondaClassic	FL
+65412296	yallcallpaul	GA	19594329	949TheBull	GA
+65412296	yallcallpaul	GA	21311712	Q100GA		GA
+65412296	yallcallpaul	GA	22428932	Jessica_1229	GA
+65412296	yallcallpaul	GA	83051035	jjcreditkings	
+65412296	yallcallpaul	GA	25748402	gwinnettparks	GA
+65412296	yallcallpaul	GA	63792161	PrimeIG		GA
+65412296	yallcallpaul	GA	23903982	GwinnettBraves	GA
+65412296	yallcallpaul	GA	33907114	AJCOnline	GA
+65412296	yallcallpaul	GA	31143145	MayorJerry	GA
+65412296	yallcallpaul	GA	16622416	GALaura		GA 
+65412296	yallcallpaul	GA	16373203	SnellvilleBlog	GA
+65412296	yallcallpaul	GA	14353189	aliciajones	CA
+65412296	yallcallpaul	GA	16843794	Snellville	GA
+65412296	yallcallpaul	GA	36960669	THEROCKFB	
+65412296	yallcallpaul	GA	37799414	Stone_Mountain	GA
+65412296	yallcallpaul	GA	75094414	gracesnellville	GA
+75636039	thesocialeclpse	GA	33040094	ChefJoecollette	CA
+75636039	thesocialeclpse	GA	400341416	Crown9oakland	CA
+75636039	thesocialeclpse	GA	41577178	cloudrecordkeep	MI
+75636039	thesocialeclpse	GA	100059373	USLibertyJourna	CA
+75636039	thesocialeclpse	GA	20565755	Daezy		CA
+75636039	thesocialeclpse	GA	23218431	AmericanNatlBk	FL
+75636039	thesocialeclpse	GA	40778760	ModelonaBottle	FL
+75636039	thesocialeclpse	GA	125938306	ACFA_	
+75636039	thesocialeclpse	GA	39972602	carrie_AGIns	OH
+75636039	thesocialeclpse	GA	495379916	chat2michelle	
+75636039	thesocialeclpse	GA	305729996	AlliyahVonn	GA
+75636039	thesocialeclpse	GA	33739779	julesmarie26	
+75636039	thesocialeclpse	GA	35433055	donscalos	
+75636039	thesocialeclpse	GA	376377192	mythinkenergy	
+75636039	thesocialeclpse	GA	496433002	CMSeattle	WA
+75636039	thesocialeclpse	GA	15590213	JeannaPool	CO
+75636039	thesocialeclpse	GA	493724332	MyBizMobileApp	
+75636039	thesocialeclpse	GA	285692718	Shes_fancy	PA
+75636039	thesocialeclpse	GA	347109882	KnightAccount	
+75636039	thesocialeclpse	GA	399899314	Amber_Wise5	
+75636039	thesocialeclpse	GA	524352199	1792CRA		FL
+75636039	thesocialeclpse	GA	507888500	MonicaRoss3	
+75636039	thesocialeclpse	GA	294869507	turk_uae	
+75636039	thesocialeclpse	GA	503325685	TheSmallBizShop	
+75636039	thesocialeclpse	GA	16928195	JustinGoff	
+75636039	thesocialeclpse	GA	307778241	RosemaryOSha	
+75636039	thesocialeclpse	GA	250003605	badasskey__	
+75636039	thesocialeclpse	GA	532616855	startup17	AZ
+75636039	thesocialeclpse	GA	533320121	allisonhicks5	
+75636039	thesocialeclpse	GA	22380127	PaulEM53	TX
+75636039	thesocialeclpse	GA	164299771	Gary4Freedom	 
+75636039	thesocialeclpse	GA	455828937	SeanGallway	
+75636039	thesocialeclpse	GA	360206856	ASouthGaBelle	GA
+75636039	thesocialeclpse	GA	479606437	juniperbristol	
+75636039	thesocialeclpse	GA	501443177	PromoteMeDaily	
+75636039	thesocialeclpse	GA	382755029	WavePayroll	
+75636039	thesocialeclpse	GA	531293241	AsteroidDesign	
+75636039	thesocialeclpse	GA	390656411	BUYESA	
+75636039	thesocialeclpse	GA	517121125	phoenixann2004	OR
+75636039	thesocialeclpse	GA	188546043	lakeoconeesmile	GA
+75636039	thesocialeclpse	GA	17260570	staciechalmers	
+75636039	thesocialeclpse	GA	10715902	pperrin	
+75636039	thesocialeclpse	GA	67629629	bergamomkt	
+75636039	thesocialeclpse	GA	323764027	TheProfitKey	
+75636039	thesocialeclpse	GA	28864303	OakvilleChamber	
+75636039	thesocialeclpse	GA	240450483	ZealousGood	IL
+22289785	Sak_Pase	GA	28421338	AlxRodz	
+22289785	Sak_Pase	GA	21475090	WakaFlocka	
+22289785	Sak_Pase	GA	54675234	JohnGivez	CA
+22289785	Sak_Pase	GA	301083222	Music_Opps	CA
+22289785	Sak_Pase	GA	3050871486	DeryckArtero	CA
+22289785	Sak_Pase	GA	1905488941	TCRAbiJo	TX
+22289785	Sak_Pase	GA	17387554	PremierRadio	
+22289785	Sak_Pase	GA	8161232		richardbranson	
+22289785	Sak_Pase	GA	18469768	omen		IL 
+22289785	Sak_Pase	GA	275694864	ToyaBeasley	NY
+22289785	Sak_Pase	GA	8627652		ChrisDM		NY
+22289785	Sak_Pase	GA	153307097	RealDealBeal23	DC
+22289785	Sak_Pase	GA	253184298	CB_CountryBoy	TX
+22289785	Sak_Pase	GA	21257800	davepearlman	
+22289785	Sak_Pase	GA	18438277	ayomari		CA
+22289785	Sak_Pase	GA	750269618	Kathy918Adams	
+22289785	Sak_Pase	GA	67035441	LordSteveMostyn	
+22289785	Sak_Pase	GA	44361587	AlexNiceforo	CA
+22289785	Sak_Pase	GA	16122277	elonrutberg	
+22289785	Sak_Pase	GA	61172398	MaydayPro	CA
+22289785	Sak_Pase	GA	23708911	snipeyoung	CA 
+22289785	Sak_Pase	GA	2927758254	AppMeerkat	
+22289785	Sak_Pase	GA	19271059	DJFaust		CA
+22289785	Sak_Pase	GA	136483293	chakceleb1	
+22289785	Sak_Pase	GA	117472867	soFowL		
+22289785	Sak_Pase	GA	1135526942	3GHarmony	
+22289785	Sak_Pase	GA	26159579	can2009		WA
+22289785	Sak_Pase	GA	18687459	MdCL		CA
+18095714	sweetmsbribri	GA	203558821	mother_baby	
+18095714	sweetmsbribri	GA	240853808	skinnymomonline	OH
+18095714	sweetmsbribri	GA	241608229	MyBabyBabble	
+18095714	sweetmsbribri	GA	285214413	DSGGetAway	GA
+18095714	sweetmsbribri	GA	93054490	momof_alltrades	TN
+18095714	sweetmsbribri	GA	24790521	IntelliGender	
+18095714	sweetmsbribri	GA	5928412		disk57	
+18095714	sweetmsbribri	GA	32309773	tiNYhat	
+18095714	sweetmsbribri	GA	184060204	mielomi_lj	
+18095714	sweetmsbribri	GA	93338396	CathayGems	CA 
+18095714	sweetmsbribri	GA	97225114	RockableThemes	
+18095714	sweetmsbribri	GA	185031909	Qeremos		FL
+18095714	sweetmsbribri	GA	42127577	lilyforda	CA
+18095714	sweetmsbribri	GA	17761820	azbiz		AZ
+18095714	sweetmsbribri	GA	138763786	topdailytips	
+18095714	sweetmsbribri	GA	110907032	NewShaneSpecial	
+18095714	sweetmsbribri	GA	21054182	BrettRobinson1	AL
+18095714	sweetmsbribri	GA	205986146	FitnessNetworks	
+18095714	sweetmsbribri	GA	40213202	Neil_Frost	
+18095714	sweetmsbribri	GA	89387343	williamoo06	GA
+18095714	sweetmsbribri	GA	156584099	biscuitboxco	
+18095714	sweetmsbribri	GA	164905168	Suzeyy_4uu	
+18095714	sweetmsbribri	GA	229884734	WindowGenieNow	GA
+18095714	sweetmsbribri	GA	160361564	mechdesignguy	
+18095714	sweetmsbribri	GA	31862078	tweetieguides	IL
+18095714	sweetmsbribri	GA	213196530	hashtagcop	
+85860062	atlallstars	GA	84771150	Sodmg__	
+85860062	atlallstars	GA	23326686	nuttzy2kmurda	
+85860062	atlallstars	GA	36449864	therealdjfresh	GA
+85860062	atlallstars	GA	42784527	KimDillinger	
+85860062	atlallstars	GA	62041999	official_kidJ	FL
+85860062	atlallstars	GA	27557215	msplatinump	AL
+85860062	atlallstars	GA	31377808	BeatThoseDrums	
+85860062	atlallstars	GA	76395586	IAMKENDRO	
+85860062	atlallstars	GA	25416186	FaboGeek	
+85860062	atlallstars	GA	19205803	JSKKY_FGS	GA
+85860062	atlallstars	GA	70510391	DRETTATHICKMISS	GA
+85860062	atlallstars	GA	70848998	Shad_DaGod	GA 
+85860062	atlallstars	GA	19876924	realdjrob	GA
+85860062	atlallstars	GA	52791964	NelciaRothstein	
+85860062	atlallstars	GA	72657406	SinnCinnamon	MO
+85860062	atlallstars	GA	78856718	IAMHOTLANTA	
+85860062	atlallstars	GA	31517682	MoBetta007	
+85860062	atlallstars	GA	57323978	stoneof334mobb	
+85860062	atlallstars	GA	82933375	THEREALADK	
+85860062	atlallstars	GA	41532772	future_Dr_Smith	
+85860062	atlallstars	GA	47218993	Skit_WaterGun	
+85860062	atlallstars	GA	42091018	KHoLLYWooDK	
+85860062	atlallstars	GA	69486327	Ooboyshesbad	
+85860062	atlallstars	GA	37259918	MissWinger	
+85860062	atlallstars	GA	61746298	mzfashioniST	
+85860062	atlallstars	GA	79845665	ATLJETSETTER	
+85860062	atlallstars	GA	44241430	shay_elizabeth	NY
+85860062	atlallstars	GA	27294246	sansanworld	
+85860062	atlallstars	GA	45265054	mississippiDAWN	GA
+85860062	atlallstars	GA	25904992	GodChozen	
+85860062	atlallstars	GA	41740255	AlexMunchak	
+85860062	atlallstars	GA	77003055	Kupcake_Klouds	
+85860062	atlallstars	GA	26779611	KJGilly		
+85860062	atlallstars	GA	29632686	MoneeeeJ	
+85860062	atlallstars	GA	53440456	MsBlkHollywood	GA
+85860062	atlallstars	GA	20485060	MrFr3sh	
+85860062	atlallstars	GA	84787265	Xo_MissJazzy	GA
+85860062	atlallstars	GA	24697113	3RDFLO		GA
+85860062	atlallstars	GA	27382702	PRILLA1	
+85860062	atlallstars	GA	37801520	RealLilLeeks	
+85860062	atlallstars	GA	75155919	MalorriKnoxx01	GA
+85860062	atlallstars	GA	25797911	CoutureBarbie18	
+85860062	atlallstars	GA	80165007	Kimsexstacy	
+85860062	atlallstars	GA	14171817	digitalsnackz	
+85860062	atlallstars	GA	34405779	SaritaAtl	GA
+85860062	atlallstars	GA	40404137	AshB484		GA
+85860062	atlallstars	GA	32273105	haja85		
+66039766	kag_weightloss	GA	23293488	kokodriver	
+66039766	kag_weightloss	GA	66919603	allwin919	
+66039766	kag_weightloss	GA	15576494	personhood	
+66039766	kag_weightloss	GA	149112797	MO_Oddfellows	MO
+66039766	kag_weightloss	GA	5526292		rockmore	CA
+66039766	kag_weightloss	GA	55852599	dimensionmag	CA
+66039766	kag_weightloss	GA	32453457	showmetheoddspr	
+66039766	kag_weightloss	GA	136045868	weightcoachlisa	WA
+66039766	kag_weightloss	GA	14380462	MikeHaydon	
+66039766	kag_weightloss	GA	122947906	womensproducts	
+66039766	kag_weightloss	GA	89891671	AwesomeOptins	IL
+66039766	kag_weightloss	GA	42575745	5eo	
+66039766	kag_weightloss	GA	43350073	TopGearPh	PA
+66039766	kag_weightloss	GA	129140558	blenderlowprice	
+66039766	kag_weightloss	GA	38674733	BestNewsDotCom	
+66039766	kag_weightloss	GA	46203666	KidneyRegistry	
+66039766	kag_weightloss	GA	81699664	AlanBlackstone	
+66039766	kag_weightloss	GA	137703407	lose_weight_10	
+66039766	kag_weightloss	GA	94684521	BestBankingVent	
+66039766	kag_weightloss	GA	110907032	NewShaneSpecial	
+66039766	kag_weightloss	GA	55413995	chesspics	
+66039766	kag_weightloss	GA	81629112	coloncleansetea	GA
+66039766	kag_weightloss	GA	126620549	refurbishedmp3	
+66039766	kag_weightloss	GA	125902790	buildbiogas	
+66039766	kag_weightloss	GA	136388218	MAYGUECO	
+66039766	kag_weightloss	GA	41446355	xiam007		
+66039766	kag_weightloss	GA	19976462	SunAWARE	MA
+66039766	kag_weightloss	GA	106781237	trashahaulic	SC
+66039766	kag_weightloss	GA	111095616	MetalRoofingVA	VA
+66039766	kag_weightloss	GA	25593014	GolfSigma	
+66039766	kag_weightloss	GA	75017171	CutUrCord	CO
+66039766	kag_weightloss	GA	100220806	DiabetesPosts	AZ
+66039766	kag_weightloss	GA	68157749	just_facts	TX
+66039766	kag_weightloss	GA	54247222	meowminkk	
+66039766	kag_weightloss	GA	46519986	MLMBizRockStar	
+66039766	kag_weightloss	GA	21875936	WeekDate	
+66039766	kag_weightloss	GA	22093870	HideMyIP	CA
+66039766	kag_weightloss	GA	127488146	BestBankingCom	
+66039766	kag_weightloss	GA	43282276	mypure	 
+66039766	kag_weightloss	GA	19735514	JoyceSchneider1	
+66039766	kag_weightloss	GA	77792049	spoortsdood	
+66039766	kag_weightloss	GA	71452419	archercredit	UT
+66039766	kag_weightloss	GA	14334487	ToriHartman	CA
+66039766	kag_weightloss	GA	105607367	LifeRestored	
+66039766	kag_weightloss	GA	86451986	be_present	FL
+66039766	kag_weightloss	GA	20160897	andynathan	IL
+66039766	kag_weightloss	GA	94420015	Wise_Team	TX
+66039766	kag_weightloss	GA	24440532	denversnowdude	CO
+66039766	kag_weightloss	GA	77515927	RATETHEAPP	OH
+66039766	kag_weightloss	GA	115915933	matchchat	
+66039766	kag_weightloss	GA	118576671	skintagsbegone	
+66039766	kag_weightloss	GA	76506952	deathtodebt	
+66039766	kag_weightloss	GA	80210205	redheadsuz	
+66039766	kag_weightloss	GA	54328003	ITMinefield	OK
+66039766	kag_weightloss	GA	69413361	JamiesonMusic	NY
+66039766	kag_weightloss	GA	8706852		carlosalston	
+66039766	kag_weightloss	GA	44877559	DindaSheeva	
+66039766	kag_weightloss	GA	115231417	perfmed	
+66039766	kag_weightloss	GA	55790147	sundrygoods	
+66039766	kag_weightloss	GA	86521507	makeafortunenow	
+66039766	kag_weightloss	GA	16315015	healthyfreedom	
+66039766	kag_weightloss	GA	23129914	drjeffsnyder	PA
+66039766	kag_weightloss	GA	111609929	Leanne_Shear	NY
+66039766	kag_weightloss	GA	105703386	DonateHelpHaiti	
+66039766	kag_weightloss	GA	43569490	MyPhoneRiches	
+66039766	kag_weightloss	GA	55194342	BeautyOps	
+66039766	kag_weightloss	GA	107483336	weight_program	
+66039766	kag_weightloss	GA	102314134	Mezzinater	VI
+66039766	kag_weightloss	GA	15127632	Usidus		
+66039766	kag_weightloss	GA	108612040	brynnflockly	TX
+66039766	kag_weightloss	GA	19372081	samharding73	
+66039766	kag_weightloss	GA	27700636	duhism	
+66039766	kag_weightloss	GA	21013113	lenebisc	NM
+66039766	kag_weightloss	GA	17331200	golfin		MI
+66039766	kag_weightloss	GA	80152429	iPlusMarketing	CA
+66039766	kag_weightloss	GA	82692531	budget_camping	
+66039766	kag_weightloss	GA	98749586	MistyLove87	
+66039766	kag_weightloss	GA	64611945	winniecoopers	CA
+66039766	kag_weightloss	GA	18177358	ReduceBellyFat	CA
+66039766	kag_weightloss	GA	80263650	SoothingSkin	FL
+66039766	kag_weightloss	GA	85187976	localvorekid	
+66039766	kag_weightloss	GA	15044502	KellyMitchell	CA
+66039766	kag_weightloss	GA	96577108	findinfoworld	
+66039766	kag_weightloss	GA	96330556	menwelsasheetal	
+66039766	kag_weightloss	GA	83329113	Siddharth_IN	
+66039766	kag_weightloss	GA	29846140	seonow		NJ
+66039766	kag_weightloss	GA	103455511	LuciusGolston	
+66039766	kag_weightloss	GA	10529932	18percentgrey	CA
+66039766	kag_weightloss	GA	54087560	XO7Brainiac	
+66039766	kag_weightloss	GA	97469215	GiftIdeasHelper	
+66039766	kag_weightloss	GA	100551162	guyfashiongear	
+66039766	kag_weightloss	GA	19931801	rsuarez46	FL
+66039766	kag_weightloss	GA	99085360	theultrabuzz	
+66039766	kag_weightloss	GA	58801917	wesjohnson8	TX
+66039766	kag_weightloss	GA	25062319	tweetLORD	
+66039766	kag_weightloss	GA	101129777	weightlossnow01	
+66039766	kag_weightloss	GA	86445202	emdyard	
+66039766	kag_weightloss	GA	79216345	Aznzftw	
+66039766	kag_weightloss	GA	25921504	Alabye_com	
+66039766	kag_weightloss	GA	32976940	MagicSaucePhoto	CA
+66039766	kag_weightloss	GA	74894367	mp3mp4	
+66039766	kag_weightloss	GA	14712692	Nightmare54	
+66039766	kag_weightloss	GA	14786480	KimmyVille	KY
+66039766	kag_weightloss	GA	39226481	jimmywellington	
+66039766	kag_weightloss	GA	57141075	REALIAMRYNO	GA
+66039766	kag_weightloss	GA	56466509	HypnoticSublim	
+66039766	kag_weightloss	GA	17313812	embellishology	OK
+66039766	kag_weightloss	GA	101931482	babyfat78	
+66039766	kag_weightloss	GA	89387343	williamoo06	GA
+66039766	kag_weightloss	GA	22777809	American_Mason	VA
+66039766	kag_weightloss	GA	23612851	AllieGentry	MN
+66039766	kag_weightloss	GA	93712354	JordanMitll	
+66039766	kag_weightloss	GA	93233707	eHealthyLife	
+66039766	kag_weightloss	GA	14228117	travelinggeeks	
+66039766	kag_weightloss	GA	75804523	dirtysalsa	NY
+66039766	kag_weightloss	GA	19920201	mikepreynolds	
+66039766	kag_weightloss	GA	92046112	Chefwear	IL
+66039766	kag_weightloss	GA	75666249	paulmorphychess	DC
+66039766	kag_weightloss	GA	84961876	Team_Grandma	PA
+66039766	kag_weightloss	GA	99691686	myfitways	
+66039766	kag_weightloss	GA	91806601	fatlossdoneez	CA
+66039766	kag_weightloss	GA	16152925	mnlewis		CA
+66039766	kag_weightloss	GA	100179952	hoodiaweight	
+66039766	kag_weightloss	GA	94715326	nicolesweat22	FL
+66039766	kag_weightloss	GA	16313503	OnlineHealth	
+66039766	kag_weightloss	GA	80202378	JaniceHarris	UT
+66039766	kag_weightloss	GA	97983174	lindagreen1	FL
+66039766	kag_weightloss	GA	84237341	weightlossfirst	
+66039766	kag_weightloss	GA	82325719	coolbrianna	
+66039766	kag_weightloss	GA	81863275	bargain_books	
+66039766	kag_weightloss	GA	15832902	idoitbigtime	
+66039766	kag_weightloss	GA	39009474	AllaKisil	
+66039766	kag_weightloss	GA	80735782	lancejepsen	CA
+66039766	kag_weightloss	GA	52995668	Dennis_Gill	VA
+66039766	kag_weightloss	GA	73898982	be_thin_again	
+66039766	kag_weightloss	GA	22235701	pickettpilates	WA
+66039766	kag_weightloss	GA	78331589	newsdx		
+66039766	kag_weightloss	GA	52427661	JeepCapone	MN
+66039766	kag_weightloss	GA	49552520	socialmedia872	IL
+66039766	kag_weightloss	GA	74213196	my5pillars	
+66039766	kag_weightloss	GA	53935110	StemCellFuture	
+66039766	kag_weightloss	GA	46500690	CleanUpMyLife	CA
+66039766	kag_weightloss	GA	35180455	lemonadediets	
+66039766	kag_weightloss	GA	97837621	WeightLoss14	
+66039766	kag_weightloss	GA	18866489	Mark_Sheldon	
+66039766	kag_weightloss	GA	71029867	WEALTHYPLACES	
+66039766	kag_weightloss	GA	67321785	CraigChamberlin	
+66039766	kag_weightloss	GA	24937828	alliweightloss	
+66039766	kag_weightloss	GA	87103142	CharmPowlesland	CA
+66039766	kag_weightloss	GA	95406974	elliotcdavis43	
+66039766	kag_weightloss	GA	21993071	denversolarguy	CO
+66039766	kag_weightloss	GA	66722629	sharp_memory	
+66039766	kag_weightloss	GA	97526867	ChristianMusic_	CO
+66039766	kag_weightloss	GA	91928671	AlexjrHarris	VI 
+66039766	kag_weightloss	GA	82736613	PaulCBrunson	
+66039766	kag_weightloss	GA	60699354	GaylandAnderson	TX
+66039766	kag_weightloss	GA	94573612	weightloss222	
+66039766	kag_weightloss	GA	23116303	SmartMouth	
+66039766	kag_weightloss	GA	95131950	kambhamsathvik	
+66039766	kag_weightloss	GA	25898134	musicextension	CA 
+66039766	kag_weightloss	GA	41672220	TheBestBosse	
+66039766	kag_weightloss	GA	58385886	SMediaSource	FL
+66039766	kag_weightloss	GA	21637367	sgreen4515	TX
+66039766	kag_weightloss	GA	95207950	hilenas13	
+66039766	kag_weightloss	GA	66567842	Gopons		CA 
+66039766	kag_weightloss	GA	81714067	Eiro_Fit	OH
+66039766	kag_weightloss	GA	44309207	WCMARKETING	
+66039766	kag_weightloss	GA	24626089	brianmbradford	FL
+66039766	kag_weightloss	GA	65110271	RichiMillan	
+66039766	kag_weightloss	GA	81583141	BartGatsby	
+66039766	kag_weightloss	GA	67337055	BildArchiv	
+66039766	kag_weightloss	GA	94250272	SnManne		GA
+66039766	kag_weightloss	GA	19560543	jeruu	
+66039766	kag_weightloss	GA	90501583	eleinaripoll	CO
+66039766	kag_weightloss	GA	91146631	EatAndLoseLbs	WA
+66039766	kag_weightloss	GA	81782627	SnackAwayPounds	WA
+66039766	kag_weightloss	GA	93958326	EatAndLoseWT	WA
+66039766	kag_weightloss	GA	10029732	mok_oh		CA
+66039766	kag_weightloss	GA	92156529	pennystockzilla	
+66039766	kag_weightloss	GA	84746237	ProElectronic	TX
+66039766	kag_weightloss	GA	91134171	totalpawss	
+66039766	kag_weightloss	GA	40530952	Maura_Aura	CA
+66039766	kag_weightloss	GA	73908830	GamblersBargain	MD
+66039766	kag_weightloss	GA	15443101	caryganz	NY
+66039766	kag_weightloss	GA	20752379	MikeRuffles	
+66039766	kag_weightloss	GA	85917753	cbdeals21	
+66039766	kag_weightloss	GA	85202154	loseweightfast9	
+66039766	kag_weightloss	GA	23223266	SHEEmusic	
+66039766	kag_weightloss	GA	92859914	acaidieting	NC
+66039766	kag_weightloss	GA	92866984	cleandiet	NC
+66039766	kag_weightloss	GA	89412749	easy_riches	
+66039766	kag_weightloss	GA	18293151	andreas_f	SC
+66039766	kag_weightloss	GA	25795518	WDCB		BC
+66039766	kag_weightloss	GA	17563091	rbeckett	
+66039766	kag_weightloss	GA	18961196	Drinksology	
+66039766	kag_weightloss	GA	93232991	LoseWeightHere	CA
+66039766	kag_weightloss	GA	27790493	TimeToGetYours	FL
+66039766	kag_weightloss	GA	81538825	11health9	
+66039766	kag_weightloss	GA	51550779	reginaldcuffee	
+66039766	kag_weightloss	GA	67678930	xbitbird	
+66039766	kag_weightloss	GA	34404268	amgrose	
+66039766	kag_weightloss	GA	17704480	hass67	
+66039766	kag_weightloss	GA	89454130	SHOEHANS	
+66039766	kag_weightloss	GA	50538884	myhealthadvice	
+66039766	kag_weightloss	GA	72470677	chris_ledu	
+66039766	kag_weightloss	GA	31447993	duprey4	
+66039766	kag_weightloss	GA	45688611	Fitness20	
+66039766	kag_weightloss	GA	91076599	verybestofyou	
+66039766	kag_weightloss	GA	62084025	diasloo	
+66039766	kag_weightloss	GA	36855355	Ephinity	
+66039766	kag_weightloss	GA	73854244	PERSIA_MAX_NEWS	
+66039766	kag_weightloss	GA	93232231	GeorgeTornuer	
+66039766	kag_weightloss	GA	14093909	cfleury		CA
+66039766	kag_weightloss	GA	27576099	skyenicolas	NY
+66039766	kag_weightloss	GA	24786658	MarcusMan3	
+66039766	kag_weightloss	GA	17773891	vera_ftw	
+66039766	kag_weightloss	GA	82034976	macca4207	CA
+66039766	kag_weightloss	GA	68933926	THELAZYGENIE	
+66039766	kag_weightloss	GA	15316385	gaiioo	
+66039766	kag_weightloss	GA	82658286	jood2010	
+66039766	kag_weightloss	GA	40434228	YouCanBeWealthy	MT
+66039766	kag_weightloss	GA	91073148	loseweightplan	
+66039766	kag_weightloss	GA	89810143	2Success4Us	
+66039766	kag_weightloss	GA	91435121	KarrieWelBooks	MA
+66039766	kag_weightloss	GA	23124830	lizschau	TX
+66039766	kag_weightloss	GA	7865152		powerofyourmind	TX
+66039766	kag_weightloss	GA	71136523	HelpICantSleep	 
+66039766	kag_weightloss	GA	65484781	AllBalls2Walls	
+66039766	kag_weightloss	GA	14593685	StevenRothberg	MN
+66039766	kag_weightloss	GA	85193638	AlohaSkinCare	
+66039766	kag_weightloss	GA	77191318	TechChunks	
+66039766	kag_weightloss	GA	15412070	thubten		OR
+66039766	kag_weightloss	GA	85407718	PandeyShamita	
+66039766	kag_weightloss	GA	75411325	SurvivingAbuse	
+66039766	kag_weightloss	GA	91820640	MDHousesblog	
+66039766	kag_weightloss	GA	29103884	MDHouses	MD
+66039766	kag_weightloss	GA	88209428	Source_101	
+66039766	kag_weightloss	GA	67368523	HappyHelper1	
+66039766	kag_weightloss	GA	36760972	shammi24	
+66039766	kag_weightloss	GA	18676616	tommystoicut	
+66039766	kag_weightloss	GA	39384757	loveeAShh	CA
+66039766	kag_weightloss	GA	79961078	acaislim	
+66039766	kag_weightloss	GA	21160015	loseweight_now7	
+66039766	kag_weightloss	GA	18744668	ArleneLeilani	TX
+66039766	kag_weightloss	GA	91510103	adsense_article	
+66039766	kag_weightloss	GA	22649272	AlexOppRD	NY
+66039766	kag_weightloss	GA	24983111	BklynSlim21	NY
+66039766	kag_weightloss	GA	91665773	BOBSTRY12	NY
+66039766	kag_weightloss	GA	28386302	NEWGREENS	CA
+66039766	kag_weightloss	GA	21687379	KJDangerDoll	NV
+66039766	kag_weightloss	GA	12155652	ladypug	
+66039766	kag_weightloss	GA	44146800	EricCraig1	FL
+66039766	kag_weightloss	GA	19213996	AnneAleckson	
+66039766	kag_weightloss	GA	17249923	joelbangilan	TX
+66039766	kag_weightloss	GA	48988712	kajadyn	
+66039766	kag_weightloss	GA	22011288	deafgeoff	
+66039766	kag_weightloss	GA	65938794	thewellnessteam	FL
+66039766	kag_weightloss	GA	82249249	Acai_WeightLoss	
+66039766	kag_weightloss	GA	59240317	SEOSaavy	NY
+66039766	kag_weightloss	GA	85074680	diangdwiyanti	
+66039766	kag_weightloss	GA	7624112		rejectnation	TX
+66039766	kag_weightloss	GA	91699221	learn2befit	
+66039766	kag_weightloss	GA	16813034	davidjparnell	NY
+66039766	kag_weightloss	GA	79788246	JerrySin499	 
+66039766	kag_weightloss	GA	51755316	crystalandrus	
+66039766	kag_weightloss	GA	88561152	mderryia	
+66039766	kag_weightloss	GA	86570298	isyouracais	CA
+66039766	kag_weightloss	GA	87589853	one_apple_a_day	
+66039766	kag_weightloss	GA	85480416	lbf2	
+66039766	kag_weightloss	GA	60729161	ModelingINTL	
+66039766	kag_weightloss	GA	77204011	wayankresna	
+66039766	kag_weightloss	GA	79542429	TheDallas251	 
+66039766	kag_weightloss	GA	79508392	MsBianca539	 
+66039766	kag_weightloss	GA	76114248	MrYournetbiz	
+66039766	kag_weightloss	GA	44153288	xbitech		TX
+66039766	kag_weightloss	GA	89877736	MyHerbalVitamin	
+66039766	kag_weightloss	GA	79314892	StevenJ506	 
+66039766	kag_weightloss	GA	85151040	realsandiego	CA
+66039766	kag_weightloss	GA	79354772	JohnBlack423	 
+66039766	kag_weightloss	GA	90703410	smokefreerl7	PA
+66039766	kag_weightloss	GA	32298723	darrellhudson	
+66039766	kag_weightloss	GA	79025319	ThePool388	 
+66039766	kag_weightloss	GA	78916726	Kagvbo	 
+66039766	kag_weightloss	GA	70733693	diana6801	CA
+66039766	kag_weightloss	GA	14270826	bgg2wl	NY
+66039766	kag_weightloss	GA	85895924	Green54Moses	
+66039766	kag_weightloss	GA	75726833	tifajhonson	WA
+66039766	kag_weightloss	GA	83771794	StripThatFat9	
+66039766	kag_weightloss	GA	17391171	prisonbeast	NM
+66039766	kag_weightloss	GA	85980734	SnBZ46	
+66039766	kag_weightloss	GA	67789803	NewNutritionJob	
+66039766	kag_weightloss	GA	78951548	Starry638	 
+66039766	kag_weightloss	GA	81907536	lnpstudios	GA
+66039766	kag_weightloss	GA	14230636	heylo		OR
+66039766	kag_weightloss	GA	73236511	LegalEyeGirl	OH
+66039766	kag_weightloss	GA	86396010	DCNewsOverviews	DC
+66039766	kag_weightloss	GA	23458631	CeCe_Beau	MI
+66039766	kag_weightloss	GA	74739371	britestarsat	
+66039766	kag_weightloss	GA	74735600	childsafetyadvi	
+66039766	kag_weightloss	GA	27080453	RenaThornton	NE
+66039766	kag_weightloss	GA	27480812	krystifacers	TX
+66039766	kag_weightloss	GA	69171021	MULLALYFITNESS	
+66039766	kag_weightloss	GA	69771502	aussietraders	
+66039766	kag_weightloss	GA	19578126	strident12	
+66039766	kag_weightloss	GA	45112232	Supertactics	
+66039766	kag_weightloss	GA	68907228	healthcareno1	
+66039766	kag_weightloss	GA	88501124	weightfatloss	
+66039766	kag_weightloss	GA	86182659	FaDietsFreeBook	
+66039766	kag_weightloss	GA	77397459	theultranatural	
+18148965	TheFatboi	GA	23802590	KimSmithTV	GA
+18148965	TheFatboi	GA	3305213435	alexisbeas23	
+18148965	TheFatboi	GA	712946949	VicBeasley3	
+16917947	chapelhill	GA	4009670658	cardon1956	
+16917947	chapelhill	GA	163973056	_color_me_crazy	GA
+16917947	chapelhill	GA	278001076	_trvpa	
+16917947	chapelhill	GA	3321302879	TheOutreachMin	
+16917947	chapelhill	GA	3592401915	LeaderWorship	
+16917947	chapelhill	GA	2722778634	goodpickney	
+16917947	chapelhill	GA	325268401	kenziemuehler	WI
+16917947	chapelhill	GA	3912811816	MommaBear1211	FL
+16917947	chapelhill	GA	626170798	Avo_698	Houston TX
+16917947	chapelhill	GA	246317530	MsDeeMurphy	
+16917947	chapelhill	GA	2343685086	rodborgesx	MA
+16917947	chapelhill	GA	2510507217	t2creech	
+16917947	chapelhill	GA	3760436728	JamalBakerATL	
+16917947	chapelhill	GA	958367364	twelve30media	
+16917947	chapelhill	GA	13693592	andrewdixon101	
+29375061	AriesGlamGirl	GA	305770789	AlisYRchat	
+29375061	AriesGlamGirl	GA	65525881	Photoshop	
+29375061	AriesGlamGirl	GA	23822236	Illustrator	
+29375061	AriesGlamGirl	GA	195039753	chrishurstwdbj	VA
+29375061	AriesGlamGirl	GA	28207101	nodoubt		CA
+29375061	AriesGlamGirl	GA	22720074	BonJovi		NY
+29375061	AriesGlamGirl	GA	55493018	SimonJCLeBON	
+29375061	AriesGlamGirl	GA	615561542	friesen_matthew	
+29375061	AriesGlamGirl	GA	17454769	glennbeck	
+29375061	AriesGlamGirl	GA	286463900	LIRealEstate01	
+29375061	AriesGlamGirl	GA	2551266554	DougHehner	NY
+29375061	AriesGlamGirl	GA	3069003273	JaclynMethuen	
+29375061	AriesGlamGirl	GA	517164056	jamienotis	NY
+29375061	AriesGlamGirl	GA	49341158	Kr0ss		NY
+29375061	AriesGlamGirl	GA	286432560	KortKneee_Rae	NY 
+29375061	AriesGlamGirl	GA	3036899467	DuggarStudios	
+29375061	AriesGlamGirl	GA	2801880295	JoyADuggar	AR
+29375061	AriesGlamGirl	GA	2853508625	BringingUpBates	
+29375061	AriesGlamGirl	GA	3152300989	SiDuggar	AR
+29375061	AriesGlamGirl	GA	3021995409	WSUDLERSMIFF	SC
+29375061	AriesGlamGirl	GA	2884393808	FakeTomRavenel	
+29375061	AriesGlamGirl	GA	1367531	FoxNews	
+29375061	AriesGlamGirl	GA	279313964	amyduggar	
+29375061	AriesGlamGirl	GA	141084952	IsraeliPM	
+29375061	AriesGlamGirl	GA	2641946901	SeewaldF	
+29375061	AriesGlamGirl	GA	82033951	joshduggar	DC
+29375061	AriesGlamGirl	GA	813784075	BenSeewald	
+29375061	AriesGlamGirl	GA	2565853348	JessaSeewald	
+29375061	AriesGlamGirl	GA	2174203453	duggarfam	AR
+29375061	AriesGlamGirl	GA	2400958227	Anna_Duggar	DC
+29375061	AriesGlamGirl	GA	2418209232	jillmdillard	AR
+29375061	AriesGlamGirl	GA	68768019	derick4Him	AR
+29375061	AriesGlamGirl	GA	1303224900	sewingclouds	
+29375061	AriesGlamGirl	GA	592700022	CandyCrushSaga	
+29375061	AriesGlamGirl	GA	581819199	hayday	
+29375061	AriesGlamGirl	GA	43003845	paramore	TN
+29375061	AriesGlamGirl	GA	480270247	COOKwithAPRIL	CA
+29375061	AriesGlamGirl	GA	27685955	Tori_Spelling	CA
+29375061	AriesGlamGirl	GA	76832533	DannaBaird	SC
+29375061	AriesGlamGirl	GA	139556111	kathryn_dennis	SC
+29375061	AriesGlamGirl	GA	325089844	C_Conover	SC
