@@ -1,0 +1,6 @@
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\obj\Debug\PrecisionCalculator.csprojResolveAssemblyReference.cache
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\bin\PrecisionCalculator.dll.config
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\bin\PrecisionCalculator.dll
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\bin\PrecisionCalculator.pdb
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\obj\Debug\PrecisionCalculator.dll
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\obj\Debug\PrecisionCalculator.pdb

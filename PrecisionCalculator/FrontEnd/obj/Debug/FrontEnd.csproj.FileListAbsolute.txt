@@ -1,0 +1,6 @@
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\FrontEnd\bin\FrontEnd.dll.config
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\FrontEnd\bin\FrontEnd.dll
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\FrontEnd\bin\FrontEnd.pdb
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\FrontEnd\obj\Debug\FrontEnd.dll
+c:\users\manas\documents\visual studio 2013\Projects\PrecisionCalculator\FrontEnd\obj\Debug\FrontEnd.pdb
