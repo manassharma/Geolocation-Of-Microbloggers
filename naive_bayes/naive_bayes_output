@@ -1,0 +1,19 @@
+=== Stratified cross-validation ===
+
+Correctly Classified Instances       81042               38.162  %
+Incorrectly Classified Instances    131321               61.838  %
+Kappa statistic                          0.0541
+Mean absolute error                      0.3525
+Root mean squared error                  0.4253
+Relative absolute error                 96.6351 %
+Root relative squared error             99.5753 %
+Total Number of Instances           212363
+
+
+=== Confusion Matrix ===
+
+     a     b     c     d   <-- classified as
+  9292   750   950 39008 |     a = CA
+  4591  1095   707 34415 |     b = VA
+  4698   897  2293 34961 |     c = MA
+  7611  1525  1208 68362 |     d = GA

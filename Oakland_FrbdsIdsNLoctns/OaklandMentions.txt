@@ -1,0 +1,3243 @@
+14767812|oakland, ca|18287937|San Francisco|3|2
+14767812|oakland, ca|130584275|Denver, Colorado|1|2
+14767812|oakland, ca|26670829|Tucson, Arizona|1|2
+54396008|oakland, ca|0|Error|1|2
+54396008|oakland, ca|18655166|Los Angeles, CA |1|2
+9314132|oakland, ca|1242048661|Error|2|2
+9314132|oakland, ca|0|Error|1|2
+9314132|oakland, ca|17095663|Perth, Australia|1|2
+9314132|oakland, ca|24585498|San Francisco, CA|1|2
+9314132|oakland, ca|18438362|Bay Area, CA (UK-er til '99.)|1|2
+9314132|oakland, ca|0|Error|1|2
+9314132|oakland, ca|8170562|iPhone: 37.760303,-122.430016|1|2
+9314132|oakland, ca|11623|San Francisco|1|2
+9314132|oakland, ca|83883736|Error|1|2
+9314132|oakland, ca|14521530|Oakland|1|2
+9314132|oakland, ca|14090906|Boston, MA|1|2
+35287848|oakland, ca|14825399|New York, NY|3|2
+35287848|oakland, ca|16727547|San Francisco, CA|2|2
+35287848|oakland, ca|20735648|San Francisco|2|2
+35287848|oakland, ca|30830432|Error|2|2
+35287848|oakland, ca|35554723|San Francisco|2|2
+35287848|oakland, ca|25180871|San Francisco|1|2
+35287848|oakland, ca|0|Error|1|2
+35287848|oakland, ca|0|Error|1|2
+35287848|oakland, ca|1946770550|united kingdom|1|2
+35287848|oakland, ca|0|Error|1|2
+35287848|oakland, ca|326081585|Error|1|2
+35287848|oakland, ca|1713381144|Error|1|2
+35287848|oakland, ca|0|Error|1|2
+35287848|oakland, ca|0|Error|1|2
+35287848|oakland, ca|972651|Error|1|2
+35287848|oakland, ca|21688312|August 15th & 16th, 2015|1|2
+35287848|oakland, ca|0|Error|1|2
+35287848|oakland, ca|2211823159|Error|1|2
+35287848|oakland, ca|25612932|San Francisco |1|2
+35287848|oakland, ca|1060254937|Hail|1|2
+30418442|oakland, ca|0|Error|1|2
+30418442|oakland, ca|0|Error|1|2
+20194979|oakland, california|20194979|Oakland, California|9|2
+20194979|oakland, california|0|Error|5|2
+20194979|oakland, california|0|Error|2|2
+20194979|oakland, california|0|Error|1|2
+20194979|oakland, california|0|Error|1|2
+20194979|oakland, california|0|Error|1|2
+20194979|oakland, california|473320479|Error|1|2
+20194979|oakland, california|0|Error|1|2
+20194979|oakland, california|30327233|#THEBAY|1|2
+20194979|oakland, california|57506660|ALL UP IN YA!! BayAzChiVegas|1|2
+20194979|oakland, california|19123403|yo bitch house|1|2
+64554647|oakland, ca|30552196|In ya mouth...|8|2
+64554647|oakland, ca|30914474|Oakland, CA and Worldwide|7|2
+64554647|oakland, ca|64554647|Oakland, CA|6|2
+64554647|oakland, ca|36136798|OAKLAND, CALIFORNIA, WORLDWIDE|5|2
+64554647|oakland, ca|25638244|The Reed Fields|4|2
+64554647|oakland, ca|0|Error|4|2
+64554647|oakland, ca|0|Error|4|2
+64554647|oakland, ca|0|Error|3|2
+64554647|oakland, ca|0|Error|3|2
+64554647|oakland, ca|2664996475|Error|2|2
+64554647|oakland, ca|42731299|BERKELEY, CA.|2|2
+64554647|oakland, ca|27685420|Sna Diego/world wide|2|2
+64554647|oakland, ca|373338018|Error|2|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|14112487|Portland, OR|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|222586167|London|1|2
+64554647|oakland, ca|619863|iPhone: 37.757828,-122.388702|1|2
+64554647|oakland, ca|387187240|Vegas x Brooklyn|1|2
+64554647|oakland, ca|51538319|Berkeley, CA|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|473458845|Error|1|2
+64554647|oakland, ca|16788263|5 Steps Ahead|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|21879024|San Diego & world at large|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|15125781|Error|1|2
+64554647|oakland, ca|19951742|South Central Los Angeles|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|23978727|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|81420404|ATL.LEX.LA|1|2
+64554647|oakland, ca|19002634|Duarte, Ca|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|31527724|San Jose CA 408|1|2
+64554647|oakland, ca|99825345|London|1|2
+64554647|oakland, ca|1068000326|Error|1|2
+64554647|oakland, ca|0|Error|1|2
+64554647|oakland, ca|25668422|Dublin City, Ireland|1|2
+64554647|oakland, ca|0|Error|1|2
+21891008|oakland, ca|7574102|Brooklyn|10|2
+21891008|oakland, ca|17060939|California|5|2
+21891008|oakland, ca|18471490|Houston/New York/Los Angeles|3|2
+21891008|oakland, ca|15928789|The Empire State|2|2
+21891008|oakland, ca|17096665| Seoul, Arizona|2|2
+21891008|oakland, ca|7911062|Brooklyn, NY|2|2
+21891008|oakland, ca|15926905|brooklyn|1|2
+21891008|oakland, ca|16249208|Maryland|1|2
+21891008|oakland, ca|16969592|Brooklyn aka The Planet|1|2
+21891008|oakland, ca|1444758230|Error|1|2
+21891008|oakland, ca|23712369|Atlanta, GA|1|2
+21891008|oakland, ca|16129180|Error|1|2
+21891008|oakland, ca|400048233|Error|1|2
+21891008|oakland, ca|14649755|PHX | LND|1|2
+21891008|oakland, ca|19801012|Los Angeles, CA|1|2
+21891008|oakland, ca|18074499|Chicago, IL|1|2
+21891008|oakland, ca|20789920|Indianapolis|1|2
+21891008|oakland, ca|16005865|Denver, CO|1|2
+21891008|oakland, ca|0|Error|1|2
+21891008|oakland, ca|0|Error|1|2
+21891008|oakland, ca|18234596|Error|1|2
+80753428|oakland, ca|776434|Los Angeles/San Francisco|2|2
+80753428|oakland, ca|29384764|Oakland, CA|2|2
+80753428|oakland, ca|0|Error|1|2
+80753428|oakland, ca|15592412|Oakland|1|2
+80753428|oakland, ca|21641330|San Francisco, CA|1|2
+80753428|oakland, ca|11109152|Talos IV|1|2
+80753428|oakland, ca|42156243|Oakland, CA|1|2
+80753428|oakland, ca|29659590|Error|1|2
+80753428|oakland, ca|81982525|Berkeley, CA|1|2
+80753428|oakland, ca|37033098|1444 Broadway | 3419 Fruitvale|1|2
+80753428|oakland, ca|0|Error|1|2
+80753428|oakland, ca|990296197|Australia|1|2
+80753428|oakland, ca|14631280|New York City|1|2
+80753428|oakland, ca|21518732|Brooklyn|1|2
+80753428|oakland, ca|14244571|Error|1|2
+80753428|oakland, ca|49525765|OAKLAND, CA|1|2
+80753428|oakland, ca|25378761|East Oakland, CA|1|2
+20460634|oakland, california|9175282|Error|10|2
+20460634|oakland, california|20807178|NYC|3|2
+20460634|oakland, california|19923530|St. Petersburg, FL|2|2
+20460634|oakland, california|59887706|Dock of The Bay Area, CA|2|2
+20460634|oakland, california|15954832|Oakland, CA|2|2
+20460634|oakland, california|14511951|Error|2|2
+20460634|oakland, california|17272766|Wherever YOU Are|1|2
+20460634|oakland, california|0|Error|1|2
+20460634|oakland, california|14324305|Error|1|2
+20460634|oakland, california|0|Error|1|2
+20460634|oakland, california|15943630|Error|1|2
+20460634|oakland, california|16303106|Error|1|2
+20460634|oakland, california|100644095|Error|1|2
+21509741|oakland, ca|21879024|San Diego & world at large|4|2
+21509741|oakland, ca|21254264|Los Angeles, CA|3|2
+21509741|oakland, ca|15276345|San Jose, Calif.|2|2
+21509741|oakland, ca|0|Error|2|2
+21509741|oakland, ca|42988185|Boulder, Colorado|2|2
+21509741|oakland, ca|8453452|Silicon Valley, California|1|2
+21509741|oakland, ca|0|Error|1|2
+21509741|oakland, ca|9345172|Palo Alto, California|1|2
+21509741|oakland, ca|21509741|Oakland, CA|1|2
+21509741|oakland, ca|6297852|orbital operations / Southend|1|2
+21509741|oakland, ca|18907022|Portland, OR|1|2
+21509741|oakland, ca|17789274|San Francisco|1|2
+21509741|oakland, ca|19212671|Japan|1|2
+21509741|oakland, ca|17301876|Maryland, USA|1|2
+21509741|oakland, ca|48223112|Error|1|2
+21509741|oakland, ca|2216576472|New York, NY|1|2
+21509741|oakland, ca|176191961|Error|1|2
+21509741|oakland, ca|18665800|New York, NY|1|2
+21509741|oakland, ca|7861312|Los Angeles, CA|1|2
+21509741|oakland, ca|52919216|Error|1|2
+21509741|oakland, ca|16349861|NYC|1|2
+21509741|oakland, ca|17296752|here and there in San Diego|1|2
+21509741|oakland, ca|59793091|Error|1|2
+21509741|oakland, ca|14634380|Kansas City|1|2
+21509741|oakland, ca|28406927|New York, NY|1|2
+21509741|oakland, ca|41372475|Philadelphia, PA|1|2
+21509741|oakland, ca|15687962|New York, NY|1|2
+16136160|oakland, ca|0|Error|5|2
+16136160|oakland, ca|237745550|Error|3|2
+16136160|oakland, ca|25612932|San Francisco |2|2
+16136160|oakland, ca|0|Error|2|2
+16136160|oakland, ca|0|Error|1|2
+16136160|oakland, ca|0|Error|1|2
+16136160|oakland, ca|17069950|Brooklyn, NY|1|2
+16136160|oakland, ca|16186415|Oakland, CA and on tour|1|2
+16136160|oakland, ca|526185911|Error|1|2
+16136160|oakland, ca|0|Error|1|2
+16136160|oakland, ca|17414994|Oakland|1|2
+16136160|oakland, ca|21995989|UK|1|2
+16136160|oakland, ca|291838482|Error|1|2
+16136160|oakland, ca|55090049|3318 22nd St., San Francisco|1|2
+16136160|oakland, ca|0|Error|1|2
+16136160|oakland, ca|16643492|Error|1|2
+16136160|oakland, ca|0|Error|1|2
+16136160|oakland, ca|813286|Washington, DC|1|2
+4208931|oakland, ca|1129572182|Error|3|2
+4208931|oakland, ca|26178743|Global|2|2
+4208931|oakland, ca|62955059|inside your head...|2|2
+4208931|oakland, ca|15879808|Error|1|2
+4208931|oakland, ca|16589647|Error|1|2
+4208931|oakland, ca|14151133|Error|1|2
+4208931|oakland, ca|39381687|San Francisco, CA|1|2
+4208931|oakland, ca|4147471|LAX; BOS; Hiraeth|1|2
+4208931|oakland, ca|10798802|boston/upstate NY/oz/the road|1|2
+4208931|oakland, ca|13979142|San Francisco|1|2
+4208931|oakland, ca|15922447|iPhone: 37.776268,-122.411514|1|2
+4208931|oakland, ca|17910717|Oakland, Ca|1|2
+4208931|oakland, ca|7782372|Oakland, CA|1|2
+4208931|oakland, ca|6450742|North Beach, San Francisco, CA|1|2
+4208931|oakland, ca|15475414|Error|1|2
+4208931|oakland, ca|796766|San Francisco|1|2
+4208931|oakland, ca|15052639|San Rafael, CA|1|2
+4208931|oakland, ca|7890282|Oakland, CA|1|2
+4208931|oakland, ca|252255986|Error|1|2
+4208931|oakland, ca|97486589|Alameda, CA|1|2
+4208931|oakland, ca|9635642|Bay Area|1|2
+4208931|oakland, ca|7747372|SF|1|2
+4208931|oakland, ca|26836107|Error|1|2
+4208931|oakland, ca|0|Error|1|2
+19676099|oakland, california|34717669|Portland, OR, USA|5|2
+19676099|oakland, california|8166682|Error|2|2
+19676099|oakland, california|16894141|the eastern slope|2|2
+19676099|oakland, california|14777108|oregon|2|2
+19676099|oakland, california|15100545|The Land of Enchantment|2|2
+19676099|oakland, california|15010595|san francisco|1|2
+19676099|oakland, california|8886102|SF Bay Area|1|2
+19676099|oakland, california|17852852|Arcata, Humboldt, CA|1|2
+19676099|oakland, california|48124342|DFW, Texas|1|2
+19676099|oakland, california|15040626|N. California|1|2
+19676099|oakland, california|17840322|Flint, Michigan|1|2
+19676099|oakland, california|1069671|oakland, california|1|2
+19676099|oakland, california|19580770|Chicago area|1|2
+19676099|oakland, california|17433024|San Jose, CA|1|2
+19676099|oakland, california|10099842|Nashville, TN|1|2
+19676099|oakland, california|18513281|Toronto|1|2
+19676099|oakland, california|0|Error|1|2
+19676099|oakland, california|19578471|Scappoose Oregon|1|2
+76430569|oakland, ca|0|Error|1|2
+76430569|oakland, ca|24766444|Chicago|1|2
+76430569|oakland, ca|0|Error|1|2
+76430569|oakland, ca|0|Error|1|2
+76430569|oakland, ca|16112983|Oklahoma|1|2
+76430569|oakland, ca|0|Error|1|2
+76430569|oakland, ca|32010840|Oregon|1|2
+76430569|oakland, ca|0|Error|1|2
+76430569|oakland, ca|0|Error|1|2
+24266836|oakland, ca|0|Error|15|2
+24266836|oakland, ca|298314195|Error|10|2
+24266836|oakland, ca|35823838| wherever the MUSIC is |8|2
+24266836|oakland, ca|0|Error|7|2
+24266836|oakland, ca|31023475|Error|6|2
+24266836|oakland, ca|77593743|Northern Cali|5|2
+24266836|oakland, ca|9488342|City of Brides|4|2
+24266836|oakland, ca|600736641|Error|3|2
+24266836|oakland, ca|25300277|NC |2|2
+24266836|oakland, ca|17746920|Between genius and insanity|2|2
+24266836|oakland, ca|31467356|On your mind|2|2
+24266836|oakland, ca|0|Error|1|2
+24266836|oakland, ca|0|Error|1|2
+24266836|oakland, ca|1908341071|Error|1|2
+24266836|oakland, ca|0|Error|1|2
+24266836|oakland, ca|0|Error|1|2
+82725772|oakland, ca|0|Error|3|2
+82725772|oakland, ca|23689443|Los Angeles, CA|2|2
+82725772|oakland, ca|862921|San Francisco, CA|2|2
+82725772|oakland, ca|0|Error|2|2
+82725772|oakland, ca|23627744|Munich|2|2
+82725772|oakland, ca|26545361|Oakland, CA|2|2
+82725772|oakland, ca|2717958817|Error|2|2
+82725772|oakland, ca|45265054|Atlanta, GA|2|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|20472792|Dormant|1|2
+82725772|oakland, ca|46888841|New York City|1|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|24356536|Southern California|1|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|276292953|Error|1|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|0|Error|1|2
+82725772|oakland, ca|15720449|Hong Kong|1|2
+82725772|oakland, ca|9460722|Bogota|1|2
+82725772|oakland, ca|29721105|Nu Jersey|1|2
+82725772|oakland, ca|33224656|Altadena, CA|1|2
+86658079|oakland, ca|0|Error|1|2
+86658079|oakland, ca|88599855|California|1|2
+86658079|oakland, ca|8757872|Fremont, CA|1|2
+86658079|oakland, ca|56405314|Snapchat: Stamosofficial |1|2
+86658079|oakland, ca|0|Error|1|2
+86658079|oakland, ca|0|Error|1|2
+14186477|oakland, ca|0|Error|3|2
+14186477|oakland, ca|90009904|Error|2|2
+14186477|oakland, ca|74818218|Vienna, Austria|2|2
+14186477|oakland, ca|15026770|Now YVR | Soon SFO|2|2
+14186477|oakland, ca|60642052|San Francisco + NYC|2|2
+14186477|oakland, ca|57960026|Error|1|2
+14186477|oakland, ca|0|Error|1|2
+14186477|oakland, ca|0|Error|1|2
+14186477|oakland, ca|18431059|California|1|2
+14186477|oakland, ca|20789693|Ann Arbor|1|2
+14186477|oakland, ca|0|Error|1|2
+14186477|oakland, ca|26693034|Dallas, TX|1|2
+14186477|oakland, ca|70827925|Error|1|2
+14186477|oakland, ca|14265076|Dublin, OH|1|2
+14186477|oakland, ca|7896812|Singapore|1|2
+14186477|oakland, ca|65289209|Error|1|2
+14186477|oakland, ca|79410090|48.679994,12.688663|1|2
+14186477|oakland, ca|1059801|Everywhere search is.|1|2
+14186477|oakland, ca|0|Error|1|2
+14186477|oakland, ca|4641021|World Wide Web|1|2
+14186477|oakland, ca|75336756|Boston, MA|1|2
+14186477|oakland, ca|43397270|Bay Area, California|1|2
+14186477|oakland, ca|404876283|Error|1|2
+14186477|oakland, ca|58467982|Boston, MA, USA|1|2
+14186477|oakland, ca|19422373|United States of America|1|2
+14186477|oakland, ca|414461947|Error|1|2
+14186477|oakland, ca|1308671|Austin, Texas|1|2
+14186477|oakland, ca|73081927|Error|1|2
+14186477|oakland, ca|16120372|Sarasota, FL|1|2
+17453497|oakland, ca|0|Error|2|2
+17453497|oakland, ca|297101808|Error|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|289456570|Error|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|43733481|Error|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|3666415035|Error|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|47811201|Error|1|2
+17453497|oakland, ca|42963415|Paris - France|1|2
+17453497|oakland, ca|16229291|Oakland, CA|1|2
+17453497|oakland, ca|37726759|Renaissance Punk.|1|2
+17453497|oakland, ca|925955930|Error|1|2
+17453497|oakland, ca|18255733|NJ|1|2
+17453497|oakland, ca|111979969|Montreal|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|301154209|Error|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|41745506|Ft. Campbell, USA|1|2
+17453497|oakland, ca|0|Error|1|2
+17453497|oakland, ca|21171222|DC/MD|1|2
+17453497|oakland, ca|15652456|Seattle, SF|1|2
+17453497|oakland, ca|23158192|Milwaukee|1|2
+17453497|oakland, ca|192972018|Error|1|2
+17453497|oakland, ca|3763731|NEW YORK|1|2
+17453497|oakland, ca|18299111|Kula, United States|1|2
+17453497|oakland, ca|45505155|washington,dc|1|2
+17453497|oakland, ca|8879172|Far East Covina|1|2
+17453497|oakland, ca|49890115|Huntsville, AL|1|2
+17453497|oakland, ca|18743520|Error|1|2
+17453497|oakland, ca|17381325|NYC|1|2
+17453497|oakland, ca|0|Error|1|2
+54809628|oakland, california|42275111|Oakland, CA USA|2|2
+54809628|oakland, california|18532970|Oakland, CA|1|2
+54809628|oakland, california|0|Error|1|2
+54809628|oakland, california|26106757|Scrapertown, CA|1|2
+54809628|oakland, california|21593269|Error|1|2
+54809628|oakland, california|822183900|Error|1|2
+9591442|oakland, ca|9591442|Oakland, CA|7|2
+9591442|oakland, ca|9488342|City of Brides|4|2
+9591442|oakland, ca|0|Error|3|2
+9591442|oakland, ca|84038392|Jozi Dikereseng - Maftwizzy|3|2
+9591442|oakland, ca|19380061|Error|2|2
+9591442|oakland, ca|267939819|Error|2|2
+9591442|oakland, ca|3373321|O A K L A N D|2|2
+9591442|oakland, ca|19915953|ALL OVER THE WORLD|2|2
+9591442|oakland, ca|23002923|Wherever I'm at!|2|2
+9591442|oakland, ca|0|Error|2|2
+9591442|oakland, ca|18639239|Philadelphia, Pa|2|2
+9591442|oakland, ca|17516246|SF|2|2
+9591442|oakland, ca|17257563|New York / Los Angeles |2|2
+9591442|oakland, ca|175436014|Error|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|180948159|Error|1|2
+9591442|oakland, ca|17975353| Oakland,CA|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|17500178|New York, NY|1|2
+9591442|oakland, ca|22557226|Worldwide|1|2
+9591442|oakland, ca|16199015|Oakland,CA|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|19139193|New York, NY|1|2
+9591442|oakland, ca|14035292|Los Angeles|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|40352685|N O S L E E P T I L V E G A S|1|2
+9591442|oakland, ca|19884157|Error|1|2
+9591442|oakland, ca|33664422|In Your Playlist!!! Yaaamean?|1|2
+9591442|oakland, ca|20876400|Look over ya Shoulder!!|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|9175282|Error|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|23732332|Los Angeles|1|2
+9591442|oakland, ca|22545294|bay area , california|1|2
+9591442|oakland, ca|7062512|Error|1|2
+9591442|oakland, ca|80750801|Jacksonville, FL|1|2
+9591442|oakland, ca|17659635|LA to The Bay|1|2
+9591442|oakland, ca|865552064|Error|1|2
+9591442|oakland, ca|31061601|Oakland, CA/San Francisco|1|2
+9591442|oakland, ca|69639113|New York|1|2
+9591442|oakland, ca|80105796|Oakland, CA|1|2
+9591442|oakland, ca|29952857|In My Skin. Out My Mind. |1|2
+9591442|oakland, ca|256502163|South Africa|1|2
+9591442|oakland, ca|31360279|Order my single Marry Me|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|16990483|North Carolina, USA|1|2
+9591442|oakland, ca|15919469|New York|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|106210539|Error|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|69386992|head buried in a bible|1|2
+9591442|oakland, ca|6249572|Los Angeles, CA|1|2
+9591442|oakland, ca|57655946|DMV | ATL | NOLA | STL | LA|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|15927868|38.47136,-122.655835|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|73229442|Error|1|2
+9591442|oakland, ca|2388503381|Norwich|1|2
+9591442|oakland, ca|19101960|HI STATE |1|2
+9591442|oakland, ca|35094637|New York City|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|19835881|New York City|1|2
+9591442|oakland, ca|14691200|In your soul|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|14939981|Philly & Fi-Di NYC & 31Rock|1|2
+9591442|oakland, ca|37786155|Alabama|1|2
+9591442|oakland, ca|81909474|North Carolina|1|2
+9591442|oakland, ca|24474059|Error|1|2
+9591442|oakland, ca|23388021|THE TOWN (OAKLAND,CA)|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|83948558|Oakland|1|2
+9591442|oakland, ca|0|Error|1|2
+9591442|oakland, ca|36743910|Princeton, NJ|1|2
+9591442|oakland, ca|8864422|Bay Area, CA|1|2
+9591442|oakland, ca|0|Error|1|2
+59924621|oakland, ca|59924621|Oakland, CA|15|2
+59924621|oakland, ca|17026589|Error|4|2
+59924621|oakland, ca|23008743|Washington, DC|4|2
+59924621|oakland, ca|15585039|Global|4|2
+59924621|oakland, ca|15667726|Palo Alto|2|2
+59924621|oakland, ca|19736562|Error|2|2
+59924621|oakland, ca|54954532|Cambridge, MA|1|2
+59924621|oakland, ca|3148356377|Error|1|2
+59924621|oakland, ca|7215512|Seattle, WA|1|2
+59924621|oakland, ca|24771318|Phoenix, AZ, USA|1|2
+59924621|oakland, ca|59514202|Error|1|2
+59924621|oakland, ca|40057701|Washington DC|1|2
+59924621|oakland, ca|15135342|37.693758,-77.626335|1|2
+59924621|oakland, ca|0|Error|1|2
+59924621|oakland, ca|0|Error|1|2
+59924621|oakland, ca|0|Error|1|2
+59924621|oakland, ca|1165496929|Error|1|2
+59924621|oakland, ca|0|Error|1|2
+59924621|oakland, ca|0|Error|1|2
+50225532|oakland, ca|0|Error|2|2
+50225532|oakland, ca|11492522|Error|1|2
+50225532|oakland, ca|7936722|Exmouth, Devon UK|1|2
+50225532|oakland, ca|25280290|Inbetween The Future & Past|1|2
+50225532|oakland, ca|63986770|Indianapolis, IN, USA|1|2
+50225532|oakland, ca|17468813|Wisconsin, USA|1|2
+16016033|oakland, ca|48843835|Error|8|2
+16016033|oakland, ca|0|Error|7|2
+16016033|oakland, ca|0|Error|6|2
+16016033|oakland, ca|338158883|Error|5|2
+16016033|oakland, ca|19319286|Lutherville, MD|4|2
+16016033|oakland, ca|14614567|New York City|3|2
+16016033|oakland, ca|35200551|Fargo/Hawley|3|2
+16016033|oakland, ca|1333091|iPhone: 37.780403,-122.389084|3|2
+16016033|oakland, ca|24864065|California|3|2
+16016033|oakland, ca|14608893|NYC, NBA Basketball World|2|2
+16016033|oakland, ca|40191127|Utah|2|2
+16016033|oakland, ca|14242020|Long Beach, Ca|2|2
+16016033|oakland, ca|22107371|Error|2|2
+16016033|oakland, ca|20446502|Out in my yard, Ohio|2|2
+16016033|oakland, ca|0|Error|2|2
+16016033|oakland, ca|19260370|Error|2|2
+16016033|oakland, ca|17119854|Chicago|2|2
+16016033|oakland, ca|22953500|Dallas, TX|2|2
+16016033|oakland, ca|20771951|Philadelphia, PA|2|2
+16016033|oakland, ca|39754133|Ecuador|2|2
+16016033|oakland, ca|16974245|Error|2|2
+16016033|oakland, ca|174853|West of the swamps of Jersey|2|2
+16016033|oakland, ca|0|Error|2|2
+16016033|oakland, ca|182576985|@grg|2|2
+16016033|oakland, ca|13916982|San Francisco, CA|2|2
+16016033|oakland, ca|11856092|New York City|1|2
+16016033|oakland, ca|0|Error|1|2
+16016033|oakland, ca|0|Error|1|2
+16016033|oakland, ca|15499801|Error|1|2
+16016033|oakland, ca|0|Error|1|2
+16016033|oakland, ca|0|Error|1|2
+16016033|oakland, ca|17125184|Santa Cruz, CA|1|2
+16016033|oakland, ca|381642801|Dallas, TX|1|2
+16016033|oakland, ca|0|Error|1|2
+16016033|oakland, ca|18936353|Phoenix, AZ & MSP, MN USA|1|2
+16016033|oakland, ca|14933693|Roswell, GA|1|2
+16016033|oakland, ca|0|Error|1|2
+16016033|oakland, ca|14293642|Providence, RI, USA|1|2
+16016033|oakland, ca|14449337|St Petersburg, FL|1|2
+16016033|oakland, ca|807254180|Atlanta|1|2
+16016033|oakland, ca|788673|Brooklyn|1|2
+16016033|oakland, ca|0|Error|1|2
+16016033|oakland, ca|1501471|New York, NY|1|2
+16016033|oakland, ca|5971922|Directory of Wonderful Things|1|2
+16016033|oakland, ca|0|Error|1|2
+16016033|oakland, ca|0|Error|1|2
+16016033|oakland, ca|0|Error|1|2
+16016033|oakland, ca|61512342|13.788486,100.337899|1|2
+16016033|oakland, ca|19864562|India|1|2
+16016033|oakland, ca|0|Error|1|2
+16016033|oakland, ca|18767244|Error|1|2
+16016033|oakland, ca|15006743|Manhattan|1|2
+16016033|oakland, ca|1124234396|Error|1|2
+16016033|oakland, ca|2172691|London |1|2
+16016033|oakland, ca|30584518|jacksonville FL|1|2
+16016033|oakland, ca|14657467|USA|1|2
+16016033|oakland, ca|38361563|Orlando, Fl|1|2
+16016033|oakland, ca|135962114|Error|1|2
+16016033|oakland, ca|70835010|Error|1|2
+17983701|oakland, ca|25891954|The Uncanny Valley|2|2
+17983701|oakland, ca|0|Error|2|2
+17983701|oakland, ca|28067167|Phoenix|2|2
+17983701|oakland, ca|19637934|Los Angeles-ish|2|2
+17983701|oakland, ca|248813817|Error|2|2
+17983701|oakland, ca|20536157|Mountain View, CA|1|2
+17983701|oakland, ca|65070337|Error|1|2
+17983701|oakland, ca|16551674|Los Angeles, CA|1|2
+17983701|oakland, ca|0|Error|1|2
+17983701|oakland, ca|0|Error|1|2
+17983701|oakland, ca|0|Error|1|2
+17983701|oakland, ca|75122037|da dome|1|2
+17983701|oakland, ca|17983701|San Francisco|1|2
+17983701|oakland, ca|2858540760|Error|1|2
+17983701|oakland, ca|77441552|Honolulu|1|2
+17983701|oakland, ca|0|Error|1|2
+17983701|oakland, ca|14258424|Darlington, WI|1|2
+17983701|oakland, ca|15265377|Error|1|2
+17983701|oakland, ca|0|Error|1|2
+17983701|oakland, ca|22271657|VA Beach - OBX - Wilmington|1|2
+17983701|oakland, ca|0|Error|1|2
+17983701|oakland, ca|21565508|EU|1|2
+17983701|oakland, ca|52138405|Houston, Texas|1|2
+17983701|oakland, ca|417584945|Powell, Ohio |1|2
+17983701|oakland, ca|15633626|New York|1|2
+17983701|oakland, ca|0|Error|1|2
+17983701|oakland, ca|26896700|New Jersey|1|2
+17983701|oakland, ca|0|Error|1|2
+17983701|oakland, ca|19158443|Hartlepool, UK|1|2
+17983701|oakland, ca|18588279|Error|1|2
+31346892|oakland, ca|0|Error|3|2
+31346892|oakland, ca|558799009|Error|2|2
+31346892|oakland, ca|49896877|Honolulu , Hawaii|2|2
+31346892|oakland, ca|25626582|Los Angeles, USA|1|2
+31346892|oakland, ca|0|Error|1|2
+31346892|oakland, ca|31346892|FROM SF BAY 2 NYC USA|1|2
+31346892|oakland, ca|0|Error|1|2
+31346892|oakland, ca|27159696|New York/LA/Albuquerque|1|2
+31346892|oakland, ca|65461368|USS Voyager|1|2
+31346892|oakland, ca|27514654|Omniverse|1|2
+31346892|oakland, ca|20785336|Born in Derby and married to @kirsten_price|1|2
+31346892|oakland, ca|63564603|Pluto|1|2
+31346892|oakland, ca|0|Error|1|2
+5796972|oakland, california|52478913|Error|13|2
+5796972|oakland, california|15033593|Santa Barbara, CA|2|2
+5796972|oakland, california|21730838|Error|2|2
+5796972|oakland, california|0|Error|2|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|20952222|California|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|15388509|Portland, OR|1|2
+5796972|oakland, california|15302244|one tweet away|1|2
+5796972|oakland, california|22110775|Error|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|9334532|Washington, D.C.|1|2
+5796972|oakland, california|6638492|Kansas City, MO, USA|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|1101591|Michigan|1|2
+5796972|oakland, california|18144412|Longmont-Boulder, CO|1|2
+5796972|oakland, california|32753986|San Diego|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|6147062|Solon, Iowa|1|2
+5796972|oakland, california|5848202|Error|1|2
+5796972|oakland, california|31248722|stuck in my own head|1|2
+5796972|oakland, california|816653|San Francisco, CA|1|2
+5796972|oakland, california|17814529|Chicago|1|2
+5796972|oakland, california|3634711|Kelowna, BC, Canada|1|2
+5796972|oakland, california|19988797|San Francisco, CA|1|2
+5796972|oakland, california|19551661|Ready to help you find love: |1|2
+5796972|oakland, california|487422255|Error|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|24018426|Charlottesville, VA via NOLA|1|2
+5796972|oakland, california|33833189|iPhone: 30.088169,-94.199448|1|2
+5796972|oakland, california|14366258|Minneapolis, MN|1|2
+5796972|oakland, california|14238133|iPhone: 42.341919,-71.202744|1|2
+5796972|oakland, california|15957079|Manchester, CT|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|18569836|Atlanta, GA|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|2720434193|Error|1|2
+5796972|oakland, california|17297695|San Francisco|1|2
+5796972|oakland, california|11614902|It's always sunny in San Diego|1|2
+5796972|oakland, california|14519096|Seattle|1|2
+5796972|oakland, california|15322767|schenectady|1|2
+5796972|oakland, california|15922671|NYC|1|2
+5796972|oakland, california|0|Error|1|2
+5796972|oakland, california|0|Error|1|2
+22374606|oakland, california|38608630|Error|4|2
+22374606|oakland, california|49623093|Worldwide baby|3|2
+22374606|oakland, california|16531161|Pahoa/Puna Big Island HI|1|2
+22374606|oakland, california|1020883862|Error|1|2
+22374606|oakland, california|11883132|San Francisco|1|2
+22374606|oakland, california|0|Error|1|2
+22374606|oakland, california|35844992|Error|1|2
+22374606|oakland, california|25222972|WORLDWIDE -  Sacramento, CA |1|2
+22374606|oakland, california|0|Error|1|2
+22374606|oakland, california|128803810|Error|1|2
+22374606|oakland, california|23709396|Maryland|1|2
+22374606|oakland, california|17903485|Error|1|2
+22374606|oakland, california|3066611|Israel|1|2
+22374606|oakland, california|15719066|Israel|1|2
+22374606|oakland, california|16273144|New York|1|2
+22374606|oakland, california|15780429|Minneapolis, Minnesota|1|2
+22374606|oakland, california|16170981|Portland, OR|1|2
+22374606|oakland, california|16877999|Travel internationally.|1|2
+22374606|oakland, california|0|Error|1|2
+22374606|oakland, california|0|Error|1|2
+22374606|oakland, california|0|Error|1|2
+22374606|oakland, california|16108468|Phoenix, Arizona|1|2
+22374606|oakland, california|30630826|England-Norwich|1|2
+22374606|oakland, california|48116135|Malaysia & London|1|2
+22374606|oakland, california|0|Error|1|2
+44964304|oakland, ca|14655906|Broomfield, CO|6|2
+44964304|oakland, ca|29727560|Chicago IL, USA|4|2
+44964304|oakland, ca|81936642|San Francisco, California|3|2
+44964304|oakland, ca|17877466|San Francisco|2|2
+44964304|oakland, ca|83883736|Error|2|2
+44964304|oakland, ca|0|Error|1|2
+44964304|oakland, ca|85462508|Red Hook, NY|1|2
+44964304|oakland, ca|0|Error|1|2
+44964304|oakland, ca|0|Error|1|2
+44964304|oakland, ca|367276477|Error|1|2
+44964304|oakland, ca|24608680|Los Angeles|1|2
+44964304|oakland, ca|14985228|Chicago|1|2
+44964304|oakland, ca|480793|Manhattan|1|2
+44964304|oakland, ca|18229798|San Francisco|1|2
+44964304|oakland, ca|2700411|iPhone: 33.764542,-118.182709|1|2
+44964304|oakland, ca|44964304|Somerville, MA|1|2
+18812102|oakland, california|20551702|New York, NY (sometimes)|3|2
+18812102|oakland, california|944498515|Error|3|2
+18812102|oakland, california|16833957|San Francisco Bay Area|3|2
+18812102|oakland, california|31685247|San Francisco|2|2
+18812102|oakland, california|1067271|Oakland, CA|2|2
+18812102|oakland, california|522925933|Error|2|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|3178567668|Error|1|2
+18812102|oakland, california|32518818|National Capital Region|1|2
+18812102|oakland, california|16481668|Error|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|15603291|san francisco-atl-spello|1|2
+18812102|oakland, california|15201162|living in the future (Sydney)|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|16217319|Boulder, CO|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|110044393|Error|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|17433815|San Francisco Bay Area|1|2
+18812102|oakland, california|16729309|about.me/lucybernholz|1|2
+18812102|oakland, california|20833720|Berkeley, CA|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|16699452|Here and there|1|2
+18812102|oakland, california|158794978|Error|1|2
+18812102|oakland, california|18079110|Durham, NC|1|2
+18812102|oakland, california|14061771|washington, dc|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|17667607|New York|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|18470902|South Bend, IN|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|14348255|Satellite Beach, FL|1|2
+18812102|oakland, california|61157966|Tajikistan|1|2
+18812102|oakland, california|15775613|San Francisco, CA|1|2
+18812102|oakland, california|39216517|CDG-SFO|1|2
+18812102|oakland, california|14161937|all over|1|2
+18812102|oakland, california|19956474|San Francisco|1|2
+18812102|oakland, california|215239279|Error|1|2
+18812102|oakland, california|7042572|Tokyo / Shibuya / Kawasaki|1|2
+18812102|oakland, california|14102677|San Francisco|1|2
+18812102|oakland, california|30597092|Rocky Mountains|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|22341950|New York|1|2
+18812102|oakland, california|40932856|Palo Alto|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|15117711|San Francisco, CA|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|22843575|Seattle|1|2
+18812102|oakland, california|21069162|Colorado|1|2
+18812102|oakland, california|0|Error|1|2
+18812102|oakland, california|0|Error|1|2
+28688283|oakland, california|0|Error|3|2
+28688283|oakland, california|45449023|LA LA LAND|3|2
+28688283|oakland, california|61479303|Richmond, Ca|2|2
+28688283|oakland, california|0|Error|2|2
+28688283|oakland, california|78535805|Error|2|2
+28688283|oakland, california|0|Error|2|2
+28688283|oakland, california|20828397|Las Vegas|2|2
+28688283|oakland, california|0|Error|1|2
+28688283|oakland, california|0|Error|1|2
+28688283|oakland, california|0|Error|1|2
+28688283|oakland, california|595683722|Error|1|2
+28688283|oakland, california|56814022|Berkeley dude|1|2
+19687578|oakland, ca|16018479|Yosemite Lakes, CA|1|2
+19687578|oakland, ca|23027648|Into The Sun|1|2
+19687578|oakland, ca|0|Error|1|2
+19687578|oakland, ca|0|Error|1|2
+19687578|oakland, ca|0|Error|1|2
+19687578|oakland, ca|0|Error|1|2
+19687578|oakland, ca|10798802|boston/upstate NY/oz/the road|1|2
+18384896|oakland, ca|19096694|Bay Area America|1|2
+18384896|oakland, ca|15631113|Brooklyn, NY |1|2
+18384896|oakland, ca|0|Error|1|2
+17467556|oakland, california|15278784|Atlanta, GA|1|2
+59542480|oakland, ca|0|Error|1|2
+14860828|oakland, california|14370819|Los Angeles|2|2
+14860828|oakland, california|23277125|La Quinta|1|2
+14860828|oakland, california|18634085|Chicago, Illinois|1|2
+14860828|oakland, california|7864222|Los Angeles, CA|1|2
+14860828|oakland, california|3586084752|Error|1|2
+14860828|oakland, california|14630443|Error|1|2
+14860828|oakland, california|6751172|Brooklyn, NY|1|2
+14860828|oakland, california|0|Error|1|2
+14860828|oakland, california|13524182|Washington, D.C.|1|2
+18256103|oakland, ca|18859285|Seattle|4|2
+18256103|oakland, ca|2272414140|Tanganyika, Califas|4|2
+18256103|oakland, ca|18755291|OAKLAND|3|2
+18256103|oakland, ca|0|Error|2|2
+18256103|oakland, ca|0|Error|2|2
+18256103|oakland, ca|20252085|Khemet, Aztlan & Timbuktu|2|2
+18256103|oakland, ca|17975353| Oakland,CA|1|2
+18256103|oakland, ca|19176429|San Francisco, CA|1|2
+18256103|oakland, ca|35490978|Chicago, IL USA|1|2
+18256103|oakland, ca|16074809|Houston, Texas|1|2
+18256103|oakland, ca|41712158|Oakland, CA |1|2
+18256103|oakland, ca|106115722|Atlanta, GA|1|2
+18256103|oakland, ca|19545879|Error|1|2
+18256103|oakland, ca|1496971|New York, NY|1|2
+18256103|oakland, ca|35084726|Nashville, Tennessee|1|2
+18256103|oakland, ca|0|Error|1|2
+18256103|oakland, ca|0|Error|1|2
+18256103|oakland, ca|0|Error|1|2
+18256103|oakland, ca|16896311|Oakland, CA|1|2
+7236582|oakland, ca|7016382|NYC|2|2
+7236582|oakland, ca|14688245|San Francisco|1|2
+7236582|oakland, ca|7237242|Alameda, ca|1|2
+7236582|oakland, ca|17127294|Petaluma, CA|1|2
+7236582|oakland, ca|0|Error|1|2
+16818513|oakland, ca|19009721|wherever i am called|3|2
+16818513|oakland, ca|48170117|San Jose, California|3|2
+16818513|oakland, ca|0|Error|3|2
+16818513|oakland, ca|0|Error|2|2
+16818513|oakland, ca|38690576|iPhone: 37.306740,-121.940475|2|2
+16818513|oakland, ca|0|Error|2|2
+16818513|oakland, ca|15926905|brooklyn|2|2
+16818513|oakland, ca|19211664|California |2|2
+16818513|oakland, ca|35384664|san luis obispo ca|2|2
+16818513|oakland, ca|17893091|Patusan|2|2
+16818513|oakland, ca|349627860|Error|1|2
+16818513|oakland, ca|20156265|Baltimore, MD|1|2
+16818513|oakland, ca|15110530|Las Vegas, Los Angeles|1|2
+16818513|oakland, ca|30552196|In ya mouth...|1|2
+16818513|oakland, ca|24733425|Columbus OH|1|2
+16818513|oakland, ca|17450875|iPhone: 0.000000,0.000000|1|2
+11970082|oakland, ca|29620091|Columbus, Ohio|4|2
+11970082|oakland, ca|17278521|Berkeley, CA|2|2
+11970082|oakland, ca|602213533|Seattle, Washington, USA|2|2
+11970082|oakland, ca|18370656|San Francisco, CA|1|2
+11970082|oakland, ca|17034457|USA|1|2
+11970082|oakland, ca|22400786|New York|1|2
+11970082|oakland, ca|15454951|Charlotte, NC|1|2
+11970082|oakland, ca|616988811|Error|1|2
+11970082|oakland, ca|0|Error|1|2
+11970082|oakland, ca|41874610|Washington DC|1|2
+11970082|oakland, ca|14978234|San Francisco|1|2
+11970082|oakland, ca|18621945|Ottawa, Canada|1|2
+11970082|oakland, ca|45774691|East Bay, California|1|2
+11970082|oakland, ca|15725077|New York City|1|2
+11970082|oakland, ca|45733180|Calgary, AB, Canada|1|2
+11970082|oakland, ca|14372143|Chicago, IL|1|2
+11970082|oakland, ca|16135105|Error|1|2
+11970082|oakland, ca|15052639|San Rafael, CA|1|2
+11970082|oakland, ca|16146838|Berkeley, California|1|2
+11970082|oakland, ca|9207632|Brooklyn, NY|1|2
+11970082|oakland, ca|0|Error|1|2
+11970082|oakland, ca|78792100|Newburyport, Mass.|1|2
+11970082|oakland, ca|0|Error|1|2
+11970082|oakland, ca|60364771|San Francisco & Laguna Beach|1|2
+11970082|oakland, ca|0|Error|1|2
+11970082|oakland, ca|0|Error|1|2
+11970082|oakland, ca|29387127|Oakland, CA|1|2
+11970082|oakland, ca|9096592|Berkeley, CA|1|2
+11970082|oakland, ca|3839|New York, NY|1|2
+11970082|oakland, ca|88096391|Chicago|1|2
+15640533|oakland, ca|15640533|Oakland, CA|2|2
+15640533|oakland, ca|19010715|Southern California|1|2
+15640533|oakland, ca|6459152|Seattle, WA|1|2
+15640533|oakland, ca|22063479|New York|1|2
+15640533|oakland, ca|16222737|Error|1|2
+15640533|oakland, ca|21952872|San Francisco|1|2
+15640533|oakland, ca|756302|Berkeley, CA|1|2
+15640533|oakland, ca|14427176|Error|1|2
+15640533|oakland, ca|5389182|San Francisco, CA|1|2
+15640533|oakland, ca|14120151|Cities worldwide|1|2
+15640533|oakland, ca|65240958|Bay Area|1|2
+15640533|oakland, ca|17882388|San Francisco Bay Area|1|2
+15640533|oakland, ca|261509794|Error|1|2
+15640533|oakland, ca|14375609|Boston...NYC...Boston|1|2
+15640533|oakland, ca|1206422196|Error|1|2
+15640533|oakland, ca|113408223|Error|1|2
+15640533|oakland, ca|460493|California|1|2
+15640533|oakland, ca|885611|Alameda, CA|1|2
+15640533|oakland, ca|58596933|SF Bay Area|1|2
+15640533|oakland, ca|21877615|Orange County, CA|1|2
+15640533|oakland, ca|3839|New York, NY|1|2
+15640533|oakland, ca|589607337|Error|1|2
+18379329|oakland, ca|60088443|GREENSBORO,NC - USA|1|2
+881301|oakland, ca|756129|Error|2|2
+881301|oakland, ca|15093212|Error|2|2
+881301|oakland, ca|224100318|city by the bay|2|2
+881301|oakland, ca|74543|Oakland, CA|1|2
+881301|oakland, ca|13467872|SF Bay Area & LA|1|2
+881301|oakland, ca|0|Error|1|2
+881301|oakland, ca|30815404|Error|1|2
+881301|oakland, ca|15235815|SF Bay|1|2
+881301|oakland, ca|43975483|Oakland, CA|1|2
+881301|oakland, ca|647473|Error|1|2
+881301|oakland, ca|7518622|Error|1|2
+881301|oakland, ca|1468801|Between SF and NYC|1|2
+881301|oakland, ca|15934340|San Francisco|1|2
+881301|oakland, ca|1722607423|Telluride, Colorado|1|2
+881301|oakland, ca|369759979|Error|1|2
+881301|oakland, ca|6623742|Portland, Ore.|1|2
+881301|oakland, ca|0|Error|1|2
+881301|oakland, ca|1186|San Francisco|1|2
+881301|oakland, ca|2319611|Menlo Park|1|2
+881301|oakland, ca|785347|Ottawa, ON|1|2
+881301|oakland, ca|814316|San Francisco|1|2
+881301|oakland, ca|0|Error|1|2
+881301|oakland, ca|14905552|San Francisco, CA|1|2
+881301|oakland, ca|534677003|San Francisoc|1|2
+881301|oakland, ca|20002491|San Francisco, CA |1|2
+881301|oakland, ca|11271432|Error|1|2
+881301|oakland, ca|3754891|Boulder, CO|1|2
+881301|oakland, ca|3283901|San Francisco, CA|1|2
+881301|oakland, ca|0|Error|1|2
+881301|oakland, ca|0|Error|1|2
+881301|oakland, ca|14224191|Vancouver|1|2
+881301|oakland, ca|0|Error|1|2
+881301|oakland, ca|662323|San Francisco|1|2
+34124406|oakland, ca|0|Error|5|2
+34124406|oakland, ca|9728702|New York City|3|2
+34124406|oakland, ca|16173774|Minneapolis, MN|2|2
+34124406|oakland, ca|18148282|Queens, NY|2|2
+34124406|oakland, ca|19513060|1580 Solano, Albany, CA 94707|2|2
+34124406|oakland, ca|13356562|SF Bay Area|2|2
+34124406|oakland, ca|19795432|Bay Area|1|2
+34124406|oakland, ca|8416832|San Francisco, CA|1|2
+34124406|oakland, ca|3004231|Error|1|2
+34124406|oakland, ca|52748333|Oregon, WI|1|2
+34124406|oakland, ca|20455334|Napa & San Francisco, CA|1|2
+34124406|oakland, ca|20834936|Woodinville, Washington USA|1|2
+34124406|oakland, ca|15446531|Washington, DC|1|2
+34124406|oakland, ca|13483152|Paris, France|1|2
+34124406|oakland, ca|27479039|Lost Angeles and New York  |1|2
+34124406|oakland, ca|52852137|Paris|1|2
+34124406|oakland, ca|3586084752|Error|1|2
+34124406|oakland, ca|19388491|San Francisco|1|2
+34124406|oakland, ca|91129287|Error|1|2
+34124406|oakland, ca|34124406|Oakland, CA|1|2
+34124406|oakland, ca|0|Error|1|2
+34124406|oakland, ca|62581962|Error|1|2
+34124406|oakland, ca|43972628|Oakland, California|1|2
+34124406|oakland, ca|41152021|Keene, NH|1|2
+34124406|oakland, ca|29674668|Seattle, WA |1|2
+34124406|oakland, ca|15853490|Base: center of the universe|1|2
+34124406|oakland, ca|14709355|The Ranch|1|2
+37008978|oakland, california|41615372|Error|2|2
+5292562|oakland, ca|6171852|CA|2|2
+5292562|oakland, ca|6522552|Los Angeles, CA|1|2
+5292562|oakland, ca|18794329|SF Bay Area|1|2
+5292562|oakland, ca|691353|Cambridge, MA|1|2
+5292562|oakland, ca|5380152|Tokyo|1|2
+5292562|oakland, ca|756236|San Francisco & Seattle|1|2
+35177493|oakland, ca|0|Error|3|2
+35177493|oakland, ca|35177493|Oakland, CA|1|2
+35177493|oakland, ca|29675255|The Heart of the Bay|1|2
+35177493|oakland, ca|167557703|Error|1|2
+35177493|oakland, ca|21161356|the land of fire and trees |1|2
+35177493|oakland, ca|22458201|WhereThereIsLOVEthereIsHOPE|1|2
+72316710|oakland, ca|0|Error|1|2
+7720142|oakland, ca|72593015|Oakland, California, USA|3|2
+7720142|oakland, ca|14019612|San Francisco|2|2
+7720142|oakland, ca|22038351|San Franicsco, California|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+7720142|oakland, ca|0|Error|1|2
+18533588|oakland, california|0|Error|3|2
+18533588|oakland, california|0|Error|3|2
+18533588|oakland, california|16229878|SF/LA/NYC/OMG|2|2
+18533588|oakland, california|45689597|California|2|2
+18533588|oakland, california|58840693|Malibu, CA|2|2
+18533588|oakland, california|15917819|Nashville, TN|2|2
+18533588|oakland, california|28609947|San Francisco|2|2
+18533588|oakland, california|30922126|Los Angeles|2|2
+18533588|oakland, california|24425895|Atlanta, GA|1|2
+18533588|oakland, california|39822897|Vienna, VA (Washington, DC)|1|2
+18533588|oakland, california|15769327|Washington, DC|1|2
+18533588|oakland, california|14453982|Mountain View, CA|1|2
+18533588|oakland, california|14095519|Frederick, Maryland|1|2
+18533588|oakland, california|75209240|Error|1|2
+18533588|oakland, california|19221222|Body: Calif.; Spirit: Ladakh|1|2
+18533588|oakland, california|15131310|Austin, TX|1|2
+18533588|oakland, california|16233813|Fishers, Indiana|1|2
+18533588|oakland, california|0|Error|1|2
+18533588|oakland, california|14895952|Error|1|2
+18533588|oakland, california|20716038|Los Angeles|1|2
+18533588|oakland, california|16215262|Australia|1|2
+18533588|oakland, california|10101462|Miami, FL|1|2
+18533588|oakland, california|20088988|Los Angeles, California|1|2
+18533588|oakland, california|17396212|New York, NY|1|2
+18533588|oakland, california|0|Error|1|2
+18533588|oakland, california|400342190|Error|1|2
+18533588|oakland, california|21663950|Washington, DC|1|2
+22074729|oakland, ca|19119809|Berkeley, CA|1|2
+22074729|oakland, ca|0|Error|1|2
+22074729|oakland, ca|49788101|Personal acct @flywithpurpose|1|2
+22074729|oakland, ca|24296988|Error|1|2
+22074729|oakland, ca|18263026|Los Angeles|1|2
+22074729|oakland, ca|0|Error|1|2
+22074729|oakland, ca|29250924|where the willows weep no more|1|2
+22074729|oakland, ca|0|Error|1|2
+22074729|oakland, ca|27191547|Long Beach, CA|1|2
+22074729|oakland, ca|1705481208|Error|1|2
+22074729|oakland, ca|0|Error|1|2
+22074729|oakland, ca|36483092|San Francisco Bay Area|1|2
+31643554|oakland, ca|19644419|Oaktown, CA|20|2
+31643554|oakland, ca|72728948|Oakland, CA|15|2
+31643554|oakland, ca|31643554|Oakland, CA|14|2
+31643554|oakland, ca|42427787|oakland, CA|8|2
+31643554|oakland, ca|19415621|Bay Area|7|2
+31643554|oakland, ca|28387015|Brooklyn NY|6|2
+31643554|oakland, ca|33173099|oakland|5|2
+31643554|oakland, ca|19567974|Oakland, CA, USA|5|2
+31643554|oakland, ca|17470086|SFC|5|2
+31643554|oakland, ca|30750076|Oakland, CA|4|2
+31643554|oakland, ca|19059772|Los Angeles, CA|4|2
+31643554|oakland, ca|19332537|Oakland USA |4|2
+31643554|oakland, ca|0|Error|3|2
+31643554|oakland, ca|0|Error|2|2
+31643554|oakland, ca|14379090|Bay Area|2|2
+31643554|oakland, ca|263330885|Error|2|2
+31643554|oakland, ca|17639429|Philadelphia|2|2
+31643554|oakland, ca|82175502|The Whole Damn Yay.|2|2
+31643554|oakland, ca|20352107|Oakland|1|2
+31643554|oakland, ca|18989681|Bay Area|1|2
+31643554|oakland, ca|20695648|SAN JOSE WHERE THE SHARKS BITE|1|2
+31643554|oakland, ca|18555919|Austin|1|2
+31643554|oakland, ca|0|Error|1|2
+31643554|oakland, ca|19304936|San Jose, CA|1|2
+31643554|oakland, ca|16514874|Error|1|2
+31643554|oakland, ca|39636450|SJ/LA/LV|1|2
+31643554|oakland, ca|19687025|Oakland, CA|1|2
+31643554|oakland, ca|15847598|37.73 122.22 |1|2
+31643554|oakland, ca|0|Error|1|2
+31643554|oakland, ca|0|Error|1|2
+31643554|oakland, ca|0|Error|1|2
+31643554|oakland, ca|0|Error|1|2
+31643554|oakland, ca|0|Error|1|2
+31643554|oakland, ca|274549468|queens NY|1|2
+31643554|oakland, ca|38913520|Oakland, CA|1|2
+31643554|oakland, ca|25339026|4oneFunk / Starship Connection|1|2
+31643554|oakland, ca|0|Error|1|2
+31643554|oakland, ca|0|Error|1|2
+31643554|oakland, ca|21799988|OAKLAND/WORLDWIDE|1|2
+31643554|oakland, ca|26888631|Philadelphia, PA|1|2
+31643554|oakland, ca|45285550|Bay Area|1|2
+31643554|oakland, ca|18186078|iPhone: 37.782288,-122.410278|1|2
+31643554|oakland, ca|1048360951|SF/LA|1|2
+31643554|oakland, ca|182181992|Minneapolis, MN|1|2
+31643554|oakland, ca|18554038|Austin|1|2
+73062717|oakland, california|36300569|Error|1|2
+73062717|oakland, california|1780771|San Francisco|1|2
+28043|oakland, ca|0|Error|5|2
+28043|oakland, ca|360734358|San Francisco, CA|4|2
+28043|oakland, ca|16283823|Austin, Texas, USA|3|2
+28043|oakland, ca|25402994|Hamilton City, California, USA|2|2
+28043|oakland, ca|27007885|Rome, Lazio|2|2
+28043|oakland, ca|13156502|Loudoun County, VA|1|2
+28043|oakland, ca|4108201|Washington, DC|1|2
+28043|oakland, ca|16188303|95073|1|2
+28043|oakland, ca|2021791|Delta Vega|1|2
+28043|oakland, ca|0|Error|1|2
+28043|oakland, ca|71139289|Minneapolis, MN|1|2
+28043|oakland, ca|4648511|Error|1|2
+28043|oakland, ca|36182212|Error|1|2
+28043|oakland, ca|17956715|Greater San Diego, CA|1|2
+28043|oakland, ca|9023182|Santa Cruz, CA|1|2
+28043|oakland, ca|55273|Richmond, CA|1|2
+28043|oakland, ca|14577706|Carmichael, CA|1|2
+28043|oakland, ca|7272382|San Francisco|1|2
+17179724|oakland, ca|0|Error|1|2
+11199042|oakland, california|0|Error|3|2
+11199042|oakland, california|15984469|SF Bay Area, CA|3|2
+11199042|oakland, california|17693080|Elgin, Illinois, United States|2|2
+11199042|oakland, california|0|Error|1|2
+11199042|oakland, california|793830|Milwaukee, Wisconsin|1|2
+11199042|oakland, california|8501792|san francisco|1|2
+11199042|oakland, california|0|Error|1|2
+11199042|oakland, california|0|Error|1|2
+11199042|oakland, california|11209682|San Francisco, Ca|1|2
+11199042|oakland, california|43149244|Louisville, KY|1|2
+11199042|oakland, california|0|Error|1|2
+11199042|oakland, california|15241350|California|1|2
+11199042|oakland, california|16037742|Oakland, CA|1|2
+11199042|oakland, california|21571161|Error|1|2
+11199042|oakland, california|14485018|San Francisco, CA|1|2
+24044209|oakland, ca|14853258|oakland|7|2
+24044209|oakland, ca|24044209|Oakland- which isn't near L.A.|5|2
+24044209|oakland, ca|23023236|Union Town|3|2
+24044209|oakland, ca|4726381|Error|3|2
+24044209|oakland, ca|0|Error|3|2
+24044209|oakland, ca|39685392|Rheinland-Pfalz, Germany|2|2
+24044209|oakland, ca|0|Error|2|2
+24044209|oakland, ca|80105796|Oakland, CA|2|2
+24044209|oakland, ca|0|Error|2|2
+24044209|oakland, ca|70575857|oakland, CA|1|2
+24044209|oakland, ca|169735062|Error|1|2
+24044209|oakland, ca|19661611|Error|1|2
+24044209|oakland, ca|330|Error|1|2
+24044209|oakland, ca|1017571|USA|1|2
+24044209|oakland, ca|23379405|Central to Nowhere|1|2
+24044209|oakland, ca|0|Error|1|2
+24044209|oakland, ca|33809283|Las Vegas, Nevada|1|2
+24044209|oakland, ca|34116470|NOR*CAL|1|2
+24044209|oakland, ca|21822933|Sri Lankan Roots || CA raised |1|2
+24044209|oakland, ca|0|Error|1|2
+24044209|oakland, ca|5503472|Lost City of Uranus|1|2
+24044209|oakland, ca|10772102|Santa Cruz, California|1|2
+24044209|oakland, ca|18598014|Garden State|1|2
+24044209|oakland, ca|2949289473|sober cinematographer, Leeds|1|2
+24044209|oakland, ca|24347716|Los Angeles, CA|1|2
+24044209|oakland, ca|41830510|Singer | Songwriter |Activist |1|2
+24044209|oakland, ca|0|Error|1|2
+24044209|oakland, ca|14778719|WEST OAKLAND |1|2
+24044209|oakland, ca|229746137|Error|1|2
+24044209|oakland, ca|566053848|Error|1|2
+24044209|oakland, ca|0|Error|1|2
+24044209|oakland, ca|41615932|Error|1|2
+24044209|oakland, ca|19829889|Error|1|2
+24044209|oakland, ca|20081419|Everett, WA |1|2
+24044209|oakland, ca|0|Error|1|2
+24044209|oakland, ca|0|Error|1|2
+24044209|oakland, ca|27388441|MTL|1|2
+24044209|oakland, ca|16129828|Paris|1|2
+24044209|oakland, ca|16689512| organizing|1|2
+24044209|oakland, ca|39997102|Where The Wild Things Are|1|2
+24044209|oakland, ca|12|California, USA|1|2
+24044209|oakland, ca|34267331|Western NY|1|2
+24044209|oakland, ca|0|Error|1|2
+24044209|oakland, ca|19119809|Berkeley, CA|1|2
+24044209|oakland, ca|22177439|oakland, ca (and everywhere)|1|2
+24044209|oakland, ca|0|Error|1|2
+24044209|oakland, ca|0|Error|1|2
+24044209|oakland, ca|0|Error|1|2
+24044209|oakland, ca|12036652|Error|1|2
+24044209|oakland, ca|87075439|Error|1|2
+7985672|oakland, california|2480089620|Error|2|2
+7985672|oakland, california|8481222|Bay Area|2|2
+7985672|oakland, california|7517052|Coronado|2|2
+7985672|oakland, california|0|Error|1|2
+7985672|oakland, california|819999|Palo Alto, CA|1|2
+7985672|oakland, california|17000169|Toronto|1|2
+7985672|oakland, california|0|Error|1|2
+7985672|oakland, california|14935367|New York|1|2
+7985672|oakland, california|5558642|Scottsdale, AZ|1|2
+7985672|oakland, california|17836795|By the Sea|1|2
+7985672|oakland, california|15673780|NJ/NYC|1|2
+7985672|oakland, california|0|Error|1|2
+7985672|oakland, california|0|Error|1|2
+7985672|oakland, california|0|Error|1|2
+7985672|oakland, california|816653|San Francisco, CA|1|2
+7985672|oakland, california|15080801|Mill Valley, CA|1|2
+7985672|oakland, california|14715542|Sacramento, California|1|2
+7985672|oakland, california|2499351493|Error|1|2
+7985672|oakland, california|16827489|Chicago|1|2
+7985672|oakland, california|106689794|Sincheon, S.Korea|1|2
+7985672|oakland, california|15935591|Chicago|1|2
+7985672|oakland, california|13974442|LA, CA|1|2
+7985672|oakland, california|0|Error|1|2
+7985672|oakland, california|688483|New York|1|2
+7985672|oakland, california|0|Error|1|2
+29289265|oakland, ca|43931142|So Cal|2|2
+29289265|oakland, ca|20745587|Connecticut|1|2
+29289265|oakland, ca|16546913|portland, Oregon|1|2
+29289265|oakland, ca|42650972|Redmond, OR|1|2
+29289265|oakland, ca|12002612|Overland Park, KS|1|2
+29289265|oakland, ca|29879593|Lancaster|1|2
+29289265|oakland, ca|25230178|Error|1|2
+29289265|oakland, ca|27435691|Error|1|2
+29289265|oakland, ca|19075371|Error|1|2
+17494153|oakland, ca|0|Error|4|2
+17494153|oakland, ca|14991142|Places|3|2
+17494153|oakland, ca|102163810|Error|3|2
+17494153|oakland, ca|24188753|Error|3|2
+17494153|oakland, ca|19329393|New York City, New York|2|2
+17494153|oakland, ca|18465629|Waffle House|2|2
+17494153|oakland, ca|392401751|Los Angeles, CA|2|2
+17494153|oakland, ca|14354410|San Francisco|2|2
+17494153|oakland, ca|19141369|BROOKLYN|2|2
+17494153|oakland, ca|16171898|NYC|2|2
+17494153|oakland, ca|835922240|Washington, DC|1|2
+17494153|oakland, ca|2914837274|Error|1|2
+17494153|oakland, ca|30338263|next stop mars|1|2
+17494153|oakland, ca|19248106|Citizen of the World Dahhhling|1|2
+17494153|oakland, ca|22945797|San Francisco, CA|1|2
+17494153|oakland, ca|414055253|Error|1|2
+17494153|oakland, ca|33189248|California, USA|1|2
+17494153|oakland, ca|28391092|Boston, MA|1|2
+17494153|oakland, ca|5135521|New York|1|2
+17494153|oakland, ca|18519494|Always Moving Forward|1|2
+17494153|oakland, ca|0|Error|1|2
+17494153|oakland, ca|0|Error|1|2
+17494153|oakland, ca|576148116|Error|1|2
+17494153|oakland, ca|15926905|brooklyn|1|2
+17494153|oakland, ca|15589322|Portland, OR|1|2
+17494153|oakland, ca|0|Error|1|2
+17494153|oakland, ca|21943937|San Francisco|1|2
+17494153|oakland, ca|14230524|Error|1|2
+17494153|oakland, ca|38117104|San Francisco|1|2
+17494153|oakland, ca|20165753|Philadelphia|1|2
+17494153|oakland, ca|18014941|bay area.|1|2
+17494153|oakland, ca|15927868|38.47136,-122.655835|1|2
+17494153|oakland, ca|0|Error|1|2
+17494153|oakland, ca|0|Error|1|2
+17494153|oakland, ca|0|Error|1|2
+17494153|oakland, ca|14744569|Boston, MA|1|2
+17494153|oakland, ca|0|Error|1|2
+17494153|oakland, ca|10724692|McKinney, TX|1|2
+17494153|oakland, ca|0|Error|1|2
+17494153|oakland, ca|17643683|Los Angeles|1|2
+17494153|oakland, ca|4050431|Los Angeles|1|2
+17494153|oakland, ca|2374384477|Error|1|2
+17494153|oakland, ca|35611672|Huntington Beach|1|2
+17494153|oakland, ca|15190687|Error|1|2
+17494153|oakland, ca|0|Error|1|2
+17494153|oakland, ca|17914117|Los Angeles|1|2
+81458762|oakland, ca|51538319|Berkeley, CA|1|2
+59963405|oakland, ca|18755291|OAKLAND|1|2
+16316580|oakland, ca|324289926|Error|3|2
+16316580|oakland, ca|15503910|Delaware|2|2
+16316580|oakland, ca|14840041|NY & sometimes SF / LA|2|2
+16316580|oakland, ca|17377084|Oakland, CA|2|2
+16316580|oakland, ca|1702195838|Error|2|2
+16316580|oakland, ca|17793431|Los Angeles, CA|2|2
+16316580|oakland, ca|18398964|Marblehead, MA|1|2
+16316580|oakland, ca|6643562|Austin|1|2
+16316580|oakland, ca|3439831|san francisco|1|2
+16316580|oakland, ca|25226261|Brooklyn|1|2
+16316580|oakland, ca|54021953|Paris, France|1|2
+16316580|oakland, ca|21237045|San Francisco, CA|1|2
+16316580|oakland, ca|21249488|Minneapolis, MN|1|2
+16316580|oakland, ca|18638800|SF & BKLYN|1|2
+5568682|oakland, ca|1717291|2,450 m|1|2
+5568682|oakland, ca|0|Error|1|2
+19332537|oakland, california|554646468|Error|4|2
+19332537|oakland, california|19332537|Oakland USA |3|2
+19332537|oakland, california|16232389|Naperville, IL |2|2
+19332537|oakland, california|18845876|buysomeblap@gmail.com|2|2
+19332537|oakland, california|0|Error|2|2
+19332537|oakland, california|19501634|Error|2|2
+19332537|oakland, california|15786957|Oakland, CA|2|2
+19332537|oakland, california|42731299|BERKELEY, CA.|1|2
+19332537|oakland, california|0|Error|1|2
+19332537|oakland, california|18989681|Bay Area|1|2
+19332537|oakland, california|18169302|Richmond, CA|1|2
+19332537|oakland, california|20566859|Bay Area, Cali|1|2
+19332537|oakland, california|19687025|Oakland, CA|1|2
+19332537|oakland, california|15782102|The Matrix|1|2
+19332537|oakland, california|15933655|Los Angeles|1|2
+19332537|oakland, california|18865803|San Francisco|1|2
+19332537|oakland, california|7911062|Brooklyn, NY|1|2
+19332537|oakland, california|59131343|Bay Area, CA|1|2
+19332537|oakland, california|18123507|PHILLY!!|1|2
+76742453|oakland, ca|0|Error|4|2
+76742453|oakland, ca|61279171|94605|3|2
+76742453|oakland, ca|20685723|Bay Area, CA|2|2
+76742453|oakland, ca|18168557|iPhone: 38.915428,-77.229813|1|2
+76742453|oakland, ca|56885242|Oakland, CA|1|2
+82520804|oakland, california|18220175|EVERYWHERE!!!|4|2
+82520804|oakland, california|0|Error|2|2
+82520804|oakland, california|174852785|Error|2|2
+82520804|oakland, california|960734364|Error|1|2
+82520804|oakland, california|171709278|Error|1|2
+82520804|oakland, california|0|Error|1|2
+82520804|oakland, california|128199480|Miami, FL|1|2
+82520804|oakland, california|18181521|In ur mind fucking YOU! |1|2
+82520804|oakland, california|8729502|Error|1|2
+82520804|oakland, california|558777055|Error|1|2
+82520804|oakland, california|216874995|Error|1|2
+82520804|oakland, california|24093376|La Mirada/Cerritos/L.A. C.a.|1|2
+82520804|oakland, california|44527648|I'm from Winnipeg you idiot! |1|2
+82520804|oakland, california|0|Error|1|2
+82520804|oakland, california|31313343|Los Angeles|1|2
+82520804|oakland, california|23572331|SAN FRAN.|1|2
+82520804|oakland, california|0|Error|1|2
+82520804|oakland, california|192041522|MemphiS,Tennessee|1|2
+82520804|oakland, california|18704092|Watts, CA|1|2
+82520804|oakland, california|23832022|Worldwide |1|2
+21823932|oakland, california|29608924|SF Bayarea|1|2
+21823932|oakland, california|16635134|Bay Area California|1|2
+21823932|oakland, california|82283108|san francisco bay area!|1|2
+21823932|oakland, california|392492843|Error|1|2
+21823932|oakland, california|21590343|Error|1|2
+68223629|oakland, ca|16334303|Error|1|2
+68223629|oakland, ca|2982372473|Tomsk
+|1|2
+68223629|oakland, ca|20655330|Los Angeles, California|1|2
+4916651|oakland, ca|36730504|Oakland, the Town|8|2
+4916651|oakland, ca|16896311|Oakland, CA|4|2
+4916651|oakland, ca|16028750|Washington, D.C.|3|2
+4916651|oakland, ca|853821|Menlo Park, CA|3|2
+4916651|oakland, ca|9973392|Boulder, CO|3|2
+4916651|oakland, ca|7315732|State of Pronoia|2|2
+4916651|oakland, ca|15292430|Easthampton, MA|2|2
+4916651|oakland, ca|14120151|Cities worldwide|2|2
+4916651|oakland, ca|3936|94606 or 94612 or 94804|2|2
+4916651|oakland, ca|2874241|St. Paul, MN   |2|2
+4916651|oakland, ca|852241|Cambridge, MA|2|2
+4916651|oakland, ca|823980|Ballarat|2|2
+4916651|oakland, ca|14446171|San Antonio, Texas|2|2
+4916651|oakland, ca|93954102|Oakland, CA|2|2
+4916651|oakland, ca|285831270|Error|2|2
+4916651|oakland, ca|11616772|Baton Rouge, LA|2|2
+4916651|oakland, ca|15534474|Columbia, MO|2|2
+4916651|oakland, ca|824157|43.776188,-79.149103|2|2
+4916651|oakland, ca|42773|iPhone: 38.086746,-122.232300|1|2
+4916651|oakland, ca|9676722|Oakland|1|2
+4916651|oakland, ca|19006956|Columbia, MO|1|2
+4916651|oakland, ca|10632442|Los Angeles, CA|1|2
+4916651|oakland, ca|9200012|Up Your Butt With A Coconut|1|2
+4916651|oakland, ca|12127972|Portland, OR|1|2
+4916651|oakland, ca|14606079|New York, NY|1|2
+4916651|oakland, ca|10202|Boston, MA|1|2
+4916651|oakland, ca|25836508|Bethlehem, PA|1|2
+4916651|oakland, ca|23844501|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|79543|Silicon Valley, CA|1|2
+4916651|oakland, ca|13919072|California|1|2
+4916651|oakland, ca|2967051|somewhere over the rainbow|1|2
+4916651|oakland, ca|9693732|San Francisco Bay Area, CA|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|17073235|501 Lexington Ave New York, NY|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|8962112|Oakland, CA|1|2
+4916651|oakland, ca|97724386|washington, DC|1|2
+4916651|oakland, ca|10135802|Savannah, GA|1|2
+4916651|oakland, ca|230284290|Error|1|2
+4916651|oakland, ca|14188202|bay city, michigan|1|2
+4916651|oakland, ca|15859033|New York and Northampton, MA|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|16045004|Wasilla, Alaska|1|2
+4916651|oakland, ca|11435642|New York, NY|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|38254252|53.632035,10.006425|1|2
+4916651|oakland, ca|11348282|Error|1|2
+4916651|oakland, ca|175375568|Error|1|2
+4916651|oakland, ca|1772941|Washington, DC|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|17459392|Washington, DC|1|2
+4916651|oakland, ca|17367621|New York|1|2
+4916651|oakland, ca|18417043|Orange County CA|1|2
+15618485|oakland, ca|14428838|Castro Valley, CA|3|2
+15618485|oakland, ca|282092648|Error|2|2
+15618485|oakland, ca|26677910|Error|2|2
+15618485|oakland, ca|0|Error|1|2
+15618485|oakland, ca|0|Error|1|2
+15618485|oakland, ca|0|Error|1|2
+15618485|oakland, ca|16599383|PHX, AZ |1|2
+15618485|oakland, ca|0|Error|1|2
+15618485|oakland, ca|17332620|New York, New York|1|2
+15618485|oakland, ca|29845458|Bay Area, CA.|1|2
+15618485|oakland, ca|26571224|Dallas, most of the time.|1|2
+15618485|oakland, ca|259750075|Error|1|2
+15618485|oakland, ca|22548403|Error|1|2
+7144922|oakland, ca|0|Error|2|2
+7144922|oakland, ca|14470724|Toronto, Ontario, Canada|1|2
+7144922|oakland, ca|0|Error|1|2
+7144922|oakland, ca|1299939524|Error|1|2
+7144922|oakland, ca|21794314|Baltimore, MD|1|2
+7144922|oakland, ca|0|Error|1|2
+7144922|oakland, ca|0|Error|1|2
+7144922|oakland, ca|451199750|Error|1|2
+7144922|oakland, ca|19235792|UK|1|2
+7144922|oakland, ca|18709570|Los Angeles|1|2
+7144922|oakland, ca|19028622|Austin, TX|1|2
+13489812|oakland, ca|14379552|San Francisco, CA|3|2
+13489812|oakland, ca|6450742|North Beach, San Francisco, CA|2|2
+13489812|oakland, ca|16896311|Oakland, CA|1|2
+13489812|oakland, ca|0|Error|1|2
+13489812|oakland, ca|6332422|Alameda, CA|1|2
+76090142|oakland, ca|0|Error|5|2
+76090142|oakland, ca|0|Error|5|2
+76090142|oakland, ca|0|Error|4|2
+76090142|oakland, ca|0|Error|3|2
+76090142|oakland, ca|0|Error|2|2
+76090142|oakland, ca|0|Error|2|2
+76090142|oakland, ca|16225240|NYC|2|2
+76090142|oakland, ca|0|Error|1|2
+76090142|oakland, ca|17788194|Everywhere you are|1|2
+19991590|oakland, ca|16160969|NYC, LA, ATL now in Oakland|5|2
+19991590|oakland, ca|0|Error|5|2
+19991590|oakland, ca|19991590|Oakland, USA|4|2
+19991590|oakland, ca|0|Error|3|2
+19991590|oakland, ca|287750060|Born in brooklyn live in fl |3|2
+19991590|oakland, ca|13791372|Miami, FL|3|2
+19991590|oakland, ca|0|Error|2|2
+19991590|oakland, ca|19141448|Baltimore|2|2
+19991590|oakland, ca|32628514|Error|2|2
+19991590|oakland, ca|123319391|Indiana |2|2
+19991590|oakland, ca|0|Error|2|2
+19991590|oakland, ca|282570871|Error|2|2
+19991590|oakland, ca|23635843|Error|2|2
+19991590|oakland, ca|1856029819|PVT. eye.run.knee|2|2
+19991590|oakland, ca|0|Error|2|2
+19991590|oakland, ca|17464499|Miami, B*tch|1|2
+19991590|oakland, ca|18150123|New York|1|2
+19991590|oakland, ca|17674009|berkeley, ca|1|2
+19991590|oakland, ca|507914769|IL/IA|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|33547051|ATL, N.O., L.A.|1|2
+19991590|oakland, ca|17175834|St. Louis, Missouri|1|2
+19991590|oakland, ca|190877274|Grimsby, Ontario, Canada|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|19322829|BROOKLYN AKA CROOKLYN|1|2
+19991590|oakland, ca|29034654|NYC|1|2
+19991590|oakland, ca|249353708|San Jose|1|2
+19991590|oakland, ca|16291464|Error|1|2
+19991590|oakland, ca|34818458|Error|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|14275624|New York, NY|1|2
+19991590|oakland, ca|17296546|K A L I F O R N I A|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|3657177382|Error|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|6780032|USA|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|243780368|BEHIND THE SCREEN|1|2
+19991590|oakland, ca|18755291|OAKLAND|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|1355642928|Error|1|2
+19991590|oakland, ca|29924192|Where You Are Not|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|148480828|Error|1|2
+19991590|oakland, ca|18431625|from Maui to Nor-Cal|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|85506525|kenya|1|2
+19991590|oakland, ca|2574035025|Error|1|2
+19991590|oakland, ca|23363380|Los Angeles, CA|1|2
+19991590|oakland, ca|23748699|Error|1|2
+19991590|oakland, ca|21784570|WORLDWIDE-Walkin In The Rain|1|2
+19991590|oakland, ca|24753725|South Beach|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|292385282|Error|1|2
+19991590|oakland, ca|6961112|Error|1|2
+19991590|oakland, ca|18275658|International Get into Me|1|2
+19991590|oakland, ca|84972597|iPhone: 29.508751,-98.469467|1|2
+19991590|oakland, ca|62336849|EAST SIDE OAKLAND|1|2
+19991590|oakland, ca|18888376|Error|1|2
+19991590|oakland, ca|0|Error|1|2
+19991590|oakland, ca|18179281|Oakland, CA|1|2
+19991590|oakland, ca|40753682|WorldWide|1|2
+19991590|oakland, ca|90538450|Oakland, CA|1|2
+19991590|oakland, ca|239857890|Error|1|2
+78370703|oakland, ca|0|Error|2|2
+33434856|oakland, ca|0|Error|1|2
+33434856|oakland, ca|10349922|Oakland|1|2
+36699728|oakland, ca|24498289|WORLDWIDE|6|2
+36699728|oakland, ca|171317482|Error|3|2
+36699728|oakland, ca|37453075|Wash DC  - by way of Philly|1|2
+36699728|oakland, ca|540094868|Error|1|2
+36699728|oakland, ca|0|Error|1|2
+36699728|oakland, ca|25365536|where I'm meant to be...|1|2
+36699728|oakland, ca|0|Error|1|2
+36699728|oakland, ca|35094637|New York City|1|2
+36699728|oakland, ca|0|Error|1|2
+36699728|oakland, ca|30022428|LOS ANGELES|1|2
+36699728|oakland, ca|358035436|Invisible but Everywhere...|1|2
+36699728|oakland, ca|30317085|Atlanta, Ga|1|2
+41277410|oakland, ca|16424204|Atlanta GA |3|2
+41277410|oakland, ca|0|Error|3|2
+41277410|oakland, ca|28907586|The Bay Area|2|2
+41277410|oakland, ca|2983480760|Hell A, CA|2|2
+41277410|oakland, ca|43026925|San Francisco|1|2
+41277410|oakland, ca|21804207|Oakland California|1|2
+41277410|oakland, ca|17883546|Youtube: |1|2
+41277410|oakland, ca|0|Error|1|2
+40600243|oakland, ca|14732530|CA Central Coast- Santa Maria|2|2
+40600243|oakland, ca|13709992|Error|1|2
+86840463|oakland, ca|326859892|Error|1|2
+86840463|oakland, ca|82255789|da club, LSU, jail, Houston|1|2
+86840463|oakland, ca|0|Error|1|2
+86840463|oakland, ca|941724637|Error|1|2
+86840463|oakland, ca|23516582|Washington, DC|1|2
+86840463|oakland, ca|87012558|Oak-town|1|2
+86840463|oakland, ca|0|Error|1|2
+86840463|oakland, ca|719255252|Error|1|2
+86840463|oakland, ca|31303747|Los Angeles, CA|1|2
+86840463|oakland, ca|0|Error|1|2
+86840463|oakland, ca|35479509|Error|1|2
+8984102|oakland, ca|0|Error|1|2
+8984102|oakland, ca|22927050|ABQ, NM|1|2
+19607400|oakland, ca|0|Error|2|2
+19607400|oakland, ca|0|Error|2|2
+19607400|oakland, ca|62772182|The best coast|2|2
+19607400|oakland, ca|47840595|Error|2|2
+19607400|oakland, ca|29831336|Error|2|2
+19607400|oakland, ca|20754509|California, USA|1|2
+19607400|oakland, ca|156004251|Error|1|2
+19607400|oakland, ca|15235026|Oakland, CA, USA|1|2
+19607400|oakland, ca|49515673|the bay |1|2
+19607400|oakland, ca|0|Error|1|2
+19607400|oakland, ca|459292595|Error|1|2
+19607400|oakland, ca|0|Error|1|2
+19607400|oakland, ca|95441359|Error|1|2
+71639073|oakland, ca|71639073|Oakland, CA|1|2
+71639073|oakland, ca|1071596678|NYC|1|2
+71639073|oakland, ca|50116117|Seattle, WA|1|2
+10952962|oakland, ca|14497491|Error|32|2
+10952962|oakland, ca|5822|London|1|2
+10952962|oakland, ca|807095|New York City|1|2
+10952962|oakland, ca|0|Error|1|2
+10952962|oakland, ca|493287958|Error|1|2
+10952962|oakland, ca|32977350|Los Angeles|1|2
+10952962|oakland, ca|3839|New York, NY|1|2
+74543|oakland, ca|15852140|iPhone: 37.784027,-122.401741|3|2
+74543|oakland, ca|9676722|Oakland|1|2
+74543|oakland, ca|96259882|Error|1|2
+74543|oakland, ca|1048651|NYC mostly, SF sometimes|1|2
+74543|oakland, ca|16298747|Washington, DC|1|2
+74543|oakland, ca|11398562|Los Angeles|1|2
+74543|oakland, ca|3799945038|Error|1|2
+74543|oakland, ca|73172734|Where you live|1|2
+74543|oakland, ca|19786800|Colorado|1|2
+74543|oakland, ca|0|Error|1|2
+74543|oakland, ca|1186|San Francisco|1|2
+74543|oakland, ca|12841|Washington, DC|1|2
+74543|oakland, ca|83707315|San Francisco, CA|1|2
+74543|oakland, ca|673973|San Francisco|1|2
+74543|oakland, ca|64482503|San Francisco, California|1|2
+74543|oakland, ca|6151482|iPhone: 19.715929,-155.983109|1|2
+74543|oakland, ca|17503180|San Francisco, CA|1|2
+74543|oakland, ca|7377552|Philly'ish, PA|1|2
+74543|oakland, ca|14410169|Petaluma, CA|1|2
+74543|oakland, ca|15400221|San Francisco Bay Area|1|2
+74543|oakland, ca|2384071|Oakland, CA|1|2
+74543|oakland, ca|13918942|San Francisco|1|2
+74543|oakland, ca|0|Error|1|2
+74543|oakland, ca|11435642|New York, NY|1|2
+74543|oakland, ca|0|Error|1|2
+74543|oakland, ca|2333071|Sebastopol|1|2
+74543|oakland, ca|43975483|Oakland, CA|1|2
+77931797|oakland, ca|80700341|Oakland, CA|1|2
+77931797|oakland, ca|17072959|Oakland, CA|1|2
+77931797|oakland, ca|45774691|East Bay, California|1|2
+18818380|oakland, ca|20633797|Oakland, CA|2|2
+18818380|oakland, ca|8962112|Oakland, CA|1|2
+14886375|oakland, ca|15246621|Denver|9|2
+14886375|oakland, ca|16827489|Chicago|8|2
+14886375|oakland, ca|15935591|Chicago|8|2
+14886375|oakland, ca|14117774|Florida|7|2
+14886375|oakland, ca|17790265|New York City|6|2
+14886375|oakland, ca|12329252|Portland, OR|5|2
+14886375|oakland, ca|29219633|Germany|5|2
+14886375|oakland, ca|22522178|New York City / Long Island|4|2
+14886375|oakland, ca|7520262|New Canaan, CT|4|2
+14886375|oakland, ca|23342113|Boston|3|2
+14886375|oakland, ca|14250809|Where the money is|3|2
+14886375|oakland, ca|2806599425|Error|3|2
+14886375|oakland, ca|17512904|Manhattan|3|2
+14886375|oakland, ca|31835812|NYC|3|2
+14886375|oakland, ca|17780244|Islamorada, Florida Keys|2|2
+14886375|oakland, ca|19739279|West Coast|2|2
+14886375|oakland, ca|17525227|NJ|2|2
+14886375|oakland, ca|15485461|Error|2|2
+14886375|oakland, ca|0|Error|2|2
+14886375|oakland, ca|0|Error|2|2
+14886375|oakland, ca|129771158|Booyah, Pennyland|2|2
+14886375|oakland, ca|81860566|New York|2|2
+14886375|oakland, ca|18726451|Charlotte, NC|2|2
+14886375|oakland, ca|58808528|North East America|2|2
+14886375|oakland, ca|195317118|Error|2|2
+14886375|oakland, ca|14960007|Talking #BigData somewhere|2|2
+14886375|oakland, ca|52166809|Error|2|2
+14886375|oakland, ca|43353207|Error|2|2
+14886375|oakland, ca|6875072|718 & 215|2|2
+14886375|oakland, ca|14877483|Freedom To Choose At Will|2|2
+14886375|oakland, ca|0|Error|2|2
+14886375|oakland, ca|0|Error|2|2
+14886375|oakland, ca|5768632|New Jersey|2|2
+14886375|oakland, ca|259506693|Chicago|2|2
+14886375|oakland, ca|15407387|US|2|2
+14886375|oakland, ca|45846574|Demotte  IN|2|2
+14886375|oakland, ca|25709609|planet bloomberg|2|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|18571332|Error|1|2
+14886375|oakland, ca|28873217|Fla|1|2
+14886375|oakland, ca|96601831|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|15429772|Orange County, CA|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|609378408|Error|1|2
+14886375|oakland, ca|82399769|Error|1|2
+14886375|oakland, ca|36121245|Error|1|2
+14886375|oakland, ca|19172884|Lansing, MI|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|18560146|NEW YORK|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|291764000|Error|1|2
+14886375|oakland, ca|28571999|Harrison, New York|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|819375|DFW, Texas|1|2
+14886375|oakland, ca|15368728|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|17880354|NYC, Suburban NJ. Charlotte NC|1|2
+14886375|oakland, ca|31001654|Chicago|1|2
+14886375|oakland, ca|14860631|Coral Springs, FL.|1|2
+14886375|oakland, ca|13871042|chicago|1|2
+14886375|oakland, ca|84412382|Minneapolis, MN|1|2
+14886375|oakland, ca|20888115|new york city|1|2
+14886375|oakland, ca|2480089620|Error|1|2
+14886375|oakland, ca|48419861|Error|1|2
+14886375|oakland, ca|14160347|Northern Indiana|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|7557352|Minneapolis|1|2
+14886375|oakland, ca|15546459|Andorra|1|2
+14886375|oakland, ca|15943226|both sides of the Atlantic|1|2
+14886375|oakland, ca|14481468|Huntington Beach|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|15832595|Austin, TX|1|2
+14886375|oakland, ca|14935367|New York|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|15007519|On 2 wheels|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|17836795|By the Sea|1|2
+14886375|oakland, ca|1075217892|Error|1|2
+14886375|oakland, ca|15984351|Seattle, WA|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|12420452|Berkeley, CA|1|2
+14886375|oakland, ca|34164971|USA|1|2
+14886375|oakland, ca|249461815|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|15754679|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|53978117|Alabama|1|2
+14886375|oakland, ca|10202342|Atlanta, GA|1|2
+14886375|oakland, ca|19191402|Jersey Shore - Jupiter FL|1|2
+14886375|oakland, ca|32095233|Error|1|2
+14886375|oakland, ca|4066432336|Error|1|2
+14886375|oakland, ca|916481|San Francisco, CA|1|2
+14886375|oakland, ca|21778898|United States|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|7517052|Coronado|1|2
+14886375|oakland, ca|14446488|Downtown Los Angeles|1|2
+31469906|oakland, ca|31469906|Oakland, CA|7|2
+31469906|oakland, ca|0|Error|6|2
+31469906|oakland, ca|21932411|Ojai, California|5|2
+31469906|oakland, ca|72947109|Norway, IA|5|2
+31469906|oakland, ca|20126262|NYC, Washington DC,LA, SF, PDX|4|2
+31469906|oakland, ca|19663483|Milwaukee, WI|4|2
+31469906|oakland, ca|27880897|Mount Dora, Florida|3|2
+31469906|oakland, ca|0|Error|3|2
+31469906|oakland, ca|17093876|Seattle, WA|3|2
+31469906|oakland, ca|0|Error|2|2
+31469906|oakland, ca|17850018|MA|2|2
+31469906|oakland, ca|24932988|Tucson |2|2
+31469906|oakland, ca|102434415|Error|2|2
+31469906|oakland, ca|0|Error|2|2
+31469906|oakland, ca|62883008|Sugar Land, Texas|2|2
+31469906|oakland, ca|15586997|Doylestown, PA|2|2
+31469906|oakland, ca|18544086|Error|2|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|69746094|the boonies|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|1658964751|Error|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|19452899|New England|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|29241814|Santa Fe, NM|1|2
+31469906|oakland, ca|16149114|Bethesda, MD|1|2
+31469906|oakland, ca|306459101|Error|1|2
+31469906|oakland, ca|16230195|San Francisco, California|1|2
+31469906|oakland, ca|17783925|Chattahoochee Hills, GA|1|2
+31469906|oakland, ca|26459038|Oakland, CA|1|2
+31469906|oakland, ca|64441175|West Virginia|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|15819471|san francisco, california|1|2
+31469906|oakland, ca|18136234|UK |1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|47368477|Fort Worth|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|14634454|Chicago, IL|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|21436561|San Francisco, CA|1|2
+31469906|oakland, ca|24952086|Knoxville|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|45293880|Error|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|0|Error|1|2
+31469906|oakland, ca|139903439|Error|1|2
+31469906|oakland, ca|16409872|Error|1|2
+31469906|oakland, ca|0|Error|1|2
+14102236|oakland, california|4816|San Francisco, CA|3|2
+14102236|oakland, california|165498593|Error|2|2
+14102236|oakland, california|0|Error|1|2
+14102236|oakland, california|5971922|Directory of Wonderful Things|1|2
+14102236|oakland, california|22186723|Washington, DC USA|1|2
+14102236|oakland, california|30082981|Error|1|2
+14102236|oakland, california|44538317|Error|1|2
+14102236|oakland, california|19590009|Europe|1|2
+14102236|oakland, california|774909|Home|1|2
+14102236|oakland, california|0|Error|1|2
+14102236|oakland, california|64017773|Error|1|2
+14102236|oakland, california|19658826|Worldwide|1|2
+14102236|oakland, california|20867261|Error|1|2
+734843|oakland, ca|22074729|Oakland, CA|2|2
+734843|oakland, ca|0|Error|1|2
+734843|oakland, ca|19119809|Berkeley, CA|1|2
+734843|oakland, ca|11963662|Stevastopol|1|2
+734843|oakland, ca|0|Error|1|2
+734843|oakland, ca|9988842|Error|1|2
+734843|oakland, ca|48133747|Error|1|2
+734843|oakland, ca|335595480|Error|1|2
+13188222|oakland, ca|18561541|Detroit|7|2
+13188222|oakland, ca|980611|West Coast|4|2
+13188222|oakland, ca|2856942411|Error|3|2
+13188222|oakland, ca|0|Error|2|2
+13188222|oakland, ca|59159771|New York|1|2
+13188222|oakland, ca|26706105|Baltimore2Louisville|1|2
+13188222|oakland, ca|0|Error|1|2
+13188222|oakland, ca|0|Error|1|2
+13188222|oakland, ca|15041273|Washington, DC|1|2
+13188222|oakland, ca|374916661|Error|1|2
+13188222|oakland, ca|20956390|Marin County, CA|1|2
+13188222|oakland, ca|20182089|White House & elsewhere |1|2
+13188222|oakland, ca|15162962| Connecticut|1|2
+21140073|oakland, ca|7577862|Menlo Park, CA|1|2
+21140073|oakland, ca|16216421|the bay |1|2
+21140073|oakland, ca|0|Error|1|2
+20633797|oakland, ca|16890873|Oakland, CA, USA|3|2
+20633797|oakland, ca|77626935|Oakland, California & Beyond|2|2
+20633797|oakland, ca|24932461|Oakland, California|1|2
+20633797|oakland, ca|3004576179|Saint Petersburg
+, Russia|1|2
+20633797|oakland, ca|26142716|Seattle|1|2
+20633797|oakland, ca|26087440|Berkeley|1|2
+20633797|oakland, ca|18785238|Oakland, CA |1|2
+20633797|oakland, ca|0|Error|1|2
+20633797|oakland, ca|22074729|Oakland, CA|1|2
+20633797|oakland, ca|0|Error|1|2
+20633797|oakland, ca|30534652|Error|1|2
+20633797|oakland, ca|19176429|San Francisco, CA|1|2
+20633797|oakland, ca|25668422|Dublin City, Ireland|1|2
+20633797|oakland, ca|12618282|Brooklyn|1|2
+8864422|oakland, ca|19791019|Error|6|2
+8864422|oakland, ca|15676492|Dearborn, MI|5|2
+8864422|oakland, ca|14247769|Dallas, Texas|2|2
+8864422|oakland, ca|18861601|Error|2|2
+8864422|oakland, ca|42319504|palmy nz|2|2
+8864422|oakland, ca|1315196882|Error|1|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|22811695|Grand Haven, MI|1|2
+8864422|oakland, ca|43703145|Munich|1|2
+8864422|oakland, ca|23664963|HOLLYWOOD.|1|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|2411676464|Error|1|2
+8864422|oakland, ca|21914820|Seattle, WA|1|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|1035491|Ann Arbor, MI|1|2
+8864422|oakland, ca|24134009|Los Angeles, CA|1|2
+8864422|oakland, ca|15416955|wherever i go|1|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|53267708|Error|1|2
+8864422|oakland, ca|826611|Brooklyn, NY|1|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|755068|San Francisco, CA|1|2
+8864422|oakland, ca|17230547|Berlin, Germany|1|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|581697377|Error|1|2
+17792538|oakland, ca|17792538|Oakland, CA|22|2
+17792538|oakland, ca|0|Error|5|2
+17792538|oakland, ca|16229337|California, USA|4|2
+17792538|oakland, ca|0|Error|3|2
+17792538|oakland, ca|37836873|United States|3|2
+17792538|oakland, ca|39939897|Bay Area, Ca|2|2
+17792538|oakland, ca|0|Error|2|2
+17792538|oakland, ca|15906933|Brooklyn | California|2|2
+17792538|oakland, ca|2321178012|jakarta|2|2
+17792538|oakland, ca|44683597|everywhere |2|2
+17792538|oakland, ca|0|Error|2|2
+17792538|oakland, ca|589448499|Error|2|2
+17792538|oakland, ca|0|Error|2|2
+17792538|oakland, ca|0|Error|2|2
+17792538|oakland, ca|18854754|ZombieLand.Chicago|2|2
+17792538|oakland, ca|20968976|melbourne |2|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|16188828|Capitol Records|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|23639729|**SICK OF WONDERING**|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|24083861|North Hollywood|1|2
+17792538|oakland, ca|3355525752|Atlanta, GA|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|143474870|Brighton/Chichester|1|2
+17792538|oakland, ca|81830227|The Netherlands|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|59066546|BORN & RAISED IN SOUTH CENRAL |1|2
+17792538|oakland, ca|8729502|Error|1|2
+17792538|oakland, ca|451735822|Error|1|2
+17792538|oakland, ca|66924563|Cheyenne, Wyoming|1|2
+17792538|oakland, ca|19469547|Compton Ca |1|2
+17792538|oakland, ca|27354637|Error|1|2
+17792538|oakland, ca|1320067298|Error|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|19310109|Error|1|2
+17792538|oakland, ca|17159495|The Beach|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|183028632|i have moved to @Ashlay_Tpk |1|2
+17792538|oakland, ca|37866934|Insta: itsmattgarner (BayArea)|1|2
+17792538|oakland, ca|0|Error|1|2
+17792538|oakland, ca|283666752|Error|1|2
+14763294|oakland, ca|11850752|Concord, CA, USA|3|2
+14763294|oakland, ca|52010330|San Francisco|2|2
+14763294|oakland, ca|14428838|Castro Valley, CA|2|2
+14763294|oakland, ca|10350|San Francisco|1|2
+14763294|oakland, ca|22533741|Washington, DC|1|2
+14763294|oakland, ca|752673|Brooklyn, NY|1|2
+14763294|oakland, ca|6292042|Petaluma|1|2
+14763294|oakland, ca|18931618|Tehran|1|2
+14763294|oakland, ca|305414701|Error|1|2
+14763294|oakland, ca|0|Error|1|2
+14763294|oakland, ca|364866012|Error|1|2
+14763294|oakland, ca|2247119738|Wonderland|1|2
+74532389|oakland, california|14494310|South Carolina|7|2
+74532389|oakland, california|43890920|Error|4|2
+74532389|oakland, california|17780244|Islamorada, Florida Keys|1|2
+74532389|oakland, california|0|Error|1|2
+74532389|oakland, california|18596023|Eugene, OR|1|2
+74532389|oakland, california|90582128|Malaysia|1|2
+74532389|oakland, california|0|Error|1|2
+74532389|oakland, california|20321150|Birmingham, England|1|2
+74532389|oakland, california|0|Error|1|2
+74532389|oakland, california|3513571|Austin, Texas|1|2
+74532389|oakland, california|0|Error|1|2
+74532389|oakland, california|20091104|hither & thither|1|2
+74532389|oakland, california|38221470|NJ|1|2
+74532389|oakland, california|22522178|New York City / Long Island|1|2
+74532389|oakland, california|0|Error|1|2
+74532389|oakland, california|0|Error|1|2
+32851555|oakland, ca|32238092|Download #Playboy on iTunes:|14|2
+32851555|oakland, ca|0|Error|6|2
+32851555|oakland, ca|291449685|Error|3|2
+32851555|oakland, ca|528887532|Error|3|2
+32851555|oakland, ca|25194028|Error|2|2
+32851555|oakland, ca|0|Error|2|2
+32851555|oakland, ca|114040681|Error|2|2
+32851555|oakland, ca|2806317306|Error|2|2
+32851555|oakland, ca|0|Error|1|2
+32851555|oakland, ca|0|Error|1|2
+32851555|oakland, ca|28041555|707|1|2
+32851555|oakland, ca|6834152|Oakland, Cali|1|2
+32851555|oakland, ca|18473588|CA|1|2
+32851555|oakland, ca|6273552|Bay Area #GoldenState |1|2
+32851555|oakland, ca|0|Error|1|2
+32851555|oakland, ca|377103326|Error|1|2
+32851555|oakland, ca|18651556|San Francisco, CA|1|2
+32851555|oakland, ca|614770173|Tacoma253|1|2
+32851555|oakland, ca|14533095|Error|1|2
+32851555|oakland, ca|558717257|St. Louis,Mo|1|2
+32851555|oakland, ca|18755291|OAKLAND|1|2
+32851555|oakland, ca|20291516|Arizona (520)|1|2
+32851555|oakland, ca|19046392|Los Angeles|1|2
+32851555|oakland, ca|0|Error|1|2
+32851555|oakland, ca|0|Error|1|2
+32851555|oakland, ca|17516246|SF|1|2
+32851555|oakland, ca|19310109|Error|1|2
+32851555|oakland, ca|0|Error|1|2
+32851555|oakland, ca|0|Error|1|2
+10700952|oakland, ca|7794752|Lake Winnebago-ish|3|2
+10700952|oakland, ca|9973542|Seattle, WA|3|2
+10700952|oakland, ca|16868389|Not here.|2|2
+10700952|oakland, ca|2504350122|Error|2|2
+10700952|oakland, ca|42773|iPhone: 38.086746,-122.232300|1|2
+10700952|oakland, ca|962301|Denver, CO|1|2
+10700952|oakland, ca|2731801|The Internet|1|2
+10700952|oakland, ca|11253262|Washington, DC|1|2
+10700952|oakland, ca|2211081|brooklyn, ny|1|2
+10700952|oakland, ca|19671329|Oakland, CA|1|2
+10700952|oakland, ca|14305932|Charleston, SC|1|2
+10700952|oakland, ca|0|Error|1|2
+10700952|oakland, ca|5971922|Directory of Wonderful Things|1|2
+10700952|oakland, ca|14897792|Toronto|1|2
+10700952|oakland, ca|0|Error|1|2
+10700952|oakland, ca|1159661|Western MA|1|2
+10700952|oakland, ca|6548072|Philadelphia, PA|1|2
+10700952|oakland, ca|18268293|Ottawa, ON, Canada|1|2
+34417085|oakland, california|8247952|UK|1|2
+34417085|oakland, california|40526435|Belle River ON|1|2
+34417085|oakland, california|21000542|Chi-City by way of Columbus,OH|1|2
+34417085|oakland, california|921|San Francisco, CA|1|2
+60247542|oakland, ca|39829513|San Jose, CA|4|2
+60247542|oakland, ca|593179727|Error|3|2
+60247542|oakland, ca|17878196|Philadelphia, PA|3|2
+60247542|oakland, ca|40168339|The Vicinity|2|2
+60247542|oakland, ca|0|Error|2|2
+60247542|oakland, ca|42562446|Worldwide|2|2
+60247542|oakland, ca|69715753|Seattle|1|2
+60247542|oakland, ca|0|Error|1|2
+60247542|oakland, ca|941724637|Error|1|2
+60247542|oakland, ca|14608893|NYC, NBA Basketball World|1|2
+60247542|oakland, ca|0|Error|1|2
+30494742|oakland, ca|468782822|Error|2|2
+30494742|oakland, ca|2116071|sfbayarea|2|2
+30494742|oakland, ca|12237102|oakland|1|2
+30494742|oakland, ca|2435981941|Error|1|2
+30494742|oakland, ca|17308518|San Rafael, CA|1|2
+30494742|oakland, ca|16050784|Pittsburgh, PA, USA!!!|1|2
+30494742|oakland, ca|25461274|Seattle, WA|1|2
+30494742|oakland, ca|20466609|Kansas City, Missouri|1|2
+1299181|oakland, ca|85749015|Oakland, CA|6|2
+1299181|oakland, ca|7839382|Error|4|2
+1299181|oakland, ca|8418982|Oakland|3|2
+1299181|oakland, ca|65403556|Palo Alto, CA|3|2
+1299181|oakland, ca|20755723|A bar near you! |2|2
+1299181|oakland, ca|14225630|Error|2|2
+1299181|oakland, ca|12116|Los Angeles, CA|1|2
+1299181|oakland, ca|32890860|Error|1|2
+1299181|oakland, ca|20735648|San Francisco|1|2
+1299181|oakland, ca|0|Error|1|2
+1299181|oakland, ca|0|Error|1|2
+1299181|oakland, ca|783214|San Francisco, CA|1|2
+1299181|oakland, ca|0|Error|1|2
+1299181|oakland, ca|2237571|PDX|1|2
+1299181|oakland, ca|43972424|The island city of Alameda, CA|1|2
+1299181|oakland, ca|0|Error|1|2
+1299181|oakland, ca|20217626|Error|1|2
+1299181|oakland, ca|0|Error|1|2
+1299181|oakland, ca|0|Error|1|2
+46589188|oakland, ca|16305330|Los Angeles, CA|4|2
+46589188|oakland, ca|2535169099|Error|2|2
+46589188|oakland, ca|31140464|Anacostia, DC|2|2
+46589188|oakland, ca|22589004|New York|2|2
+46589188|oakland, ca|1947301|Error|2|2
+46589188|oakland, ca|15846407|California|2|2
+46589188|oakland, ca|25257797|oakland|2|2
+46589188|oakland, ca|0|Error|1|2
+46589188|oakland, ca|15138349|Washington, DC|1|2
+46589188|oakland, ca|1542548954|Error|1|2
+46589188|oakland, ca|7793902|Durham, NC|1|2
+46589188|oakland, ca|7334402|Minnesota|1|2
+46589188|oakland, ca|0|Error|1|2
+46589188|oakland, ca|0|Error|1|2
+46589188|oakland, ca|16129920|New York, NY USA|1|2
+46589188|oakland, ca|0|Error|1|2
+46589188|oakland, ca|8962112|Oakland, CA|1|2
+46589188|oakland, ca|22184329|USA|1|2
+46589188|oakland, ca|3586084752|Error|1|2
+46589188|oakland, ca|0|Error|1|2
+46589188|oakland, ca|14630443|Error|1|2
+46589188|oakland, ca|14197487|Error|1|2
+46589188|oakland, ca|15096075|New York, NY / Portland, OR|1|2
+46589188|oakland, ca|17861565|Error|1|2
+46589188|oakland, ca|15504885|NYC|1|2
+46589188|oakland, ca|59840001|Inside The Beltway|1|2
+46589188|oakland, ca|19621110|Los Angeles, CA|1|2
+46589188|oakland, ca|24189318|washington, dc|1|2
+46589188|oakland, ca|25963763|Berkeley, CA|1|2
+46589188|oakland, ca|28107483|Washington, DC, USA|1|2
+46589188|oakland, ca|19519252|New York City|1|2
+46589188|oakland, ca|34793170|New York|1|2
+46589188|oakland, ca|21796378|San Francisco|1|2
+46589188|oakland, ca|135996938|Houston, TX|1|2
+46589188|oakland, ca|32135038|Error|1|2
+46589188|oakland, ca|0|Error|1|2
+46589188|oakland, ca|0|Error|1|2
+46589188|oakland, ca|32004130|New York, NY|1|2
+46589188|oakland, ca|0|Error|1|2
+46589188|oakland, ca|25668422|Dublin City, Ireland|1|2
+46589188|oakland, ca|15369351|Error|1|2
+46589188|oakland, ca|0|Error|1|2
+25255462|oakland, ca|326025608|Error|3|2
+25255462|oakland, ca|16849209|House of Love, Brooklyn, NY|3|2
+25255462|oakland, ca|17766153|Chicago, Illinois|2|2
+25255462|oakland, ca|14996270|Self-Worth ReBirth|2|2
+25255462|oakland, ca|2901164378|Error|2|2
+25255462|oakland, ca|45376295|LOS ANGELES, CA|1|2
+25255462|oakland, ca|0|Error|1|2
+25255462|oakland, ca|0|Error|1|2
+25255462|oakland, ca|16879321|Los Angeles, CA|1|2
+25255462|oakland, ca|6150922|earth for now|1|2
+14377222|oakland, california|912612306|Error|1|2
+14377222|oakland, california|6539592|About to perform near you|1|2
+14377222|oakland, california|29236848|San Diego; Portland|1|2
+14377222|oakland, california|16660451|Error|1|2
+14377222|oakland, california|20209459|san francisco|1|2
+80700341|oakland, ca|58619100|Oakland, California|1|2
+80700341|oakland, ca|41436587|Error|1|2
+80700341|oakland, ca|71174024|Oakland/SF/Bay Area|1|2
+80700341|oakland, ca|1355741|Oakland, CA #SDCC #NFL Vlogger|1|2
+80700341|oakland, ca|0|Error|1|2
+80700341|oakland, ca|66198770|Oakland, CA|1|2
+80700341|oakland, ca|15212433|Westport CT|1|2
+80700341|oakland, ca|29659590|Error|1|2
+80700341|oakland, ca|11001962|Oakland-San Francisco|1|2
+80700341|oakland, ca|0|Error|1|2
+80700341|oakland, ca|16896311|Oakland, CA|1|2
+80700341|oakland, ca|18208415|San Francisco Bay Area|1|2
+80700341|oakland, ca|17561594|Oakland, California|1|2
+18179281|oakland, ca|31456003|Bay Area, California|6|2
+18179281|oakland, ca|132078036|Error|4|2
+18179281|oakland, ca|224891138|Error|2|2
+18179281|oakland, ca|721137670|Error|2|2
+18179281|oakland, ca|0|Error|2|2
+18179281|oakland, ca|0|Error|2|2
+18179281|oakland, ca|0|Error|2|2
+18179281|oakland, ca|111382257|Outside the Friend Zone |1|2
+18179281|oakland, ca|0|Error|1|2
+18179281|oakland, ca|15652540|Oakland, CA|1|2
+18179281|oakland, ca|0|Error|1|2
+15428642|oakland, ca|16829239|Error|3|2
+15428642|oakland, ca|0|Error|3|2
+15428642|oakland, ca|18445548|San Jose, California|3|2
+15428642|oakland, ca|14174116|South San Francisco, CA|2|2
+15428642|oakland, ca|7834642|Bay Area|2|2
+15428642|oakland, ca|319390837|Error|2|2
+15428642|oakland, ca|9064672|Sydney, Australia|2|2
+15428642|oakland, ca|17724360|San Frantastic|1|2
+15428642|oakland, ca|527876407|Sydney wide|1|2
+15428642|oakland, ca|16415665|San Francisco|1|2
+15428642|oakland, ca|38530603|San Francisco, CA 94103|1|2
+15428642|oakland, ca|13979142|San Francisco|1|2
+15428642|oakland, ca|591428861|Brisbane|1|2
+15428642|oakland, ca|363708899|Error|1|2
+15428642|oakland, ca|22336247|Cincinnati, Oh|1|2
+15428642|oakland, ca|0|Error|1|2
+15428642|oakland, ca|17450672|San Francisco, CA|1|2
+15428642|oakland, ca|696453|SF|1|2
+15428642|oakland, ca|635543|San Francisco|1|2
+15428642|oakland, ca|0|Error|1|2
+15428642|oakland, ca|26351575|Philly v Chicago v Oakland |1|2
+15428642|oakland, ca|16830897|San Francisco|1|2
+15428642|oakland, ca|12487172|Walnut Creek, CA|1|2
+14717546|oakland, ca|14166714|Mountain View, CA|3|2
+14717546|oakland, ca|3012648014|Error|2|2
+14717546|oakland, ca|809760|Nebraska and NYC|2|2
+14717546|oakland, ca|14703681|California|2|2
+14717546|oakland, ca|0|Error|1|2
+14717546|oakland, ca|15923745|baaaaay|1|2
+14717546|oakland, ca|643653|Easthampton, Pizzachussetts|1|2
+14717546|oakland, ca|23792942|Flavor Country, NY |1|2
+14717546|oakland, ca|14313755|Portland, Oregon, USA|1|2
+14717546|oakland, ca|2540557579|Tokyo|1|2
+14717546|oakland, ca|15914986|Upper Botwell, Hangleby-on-Wye|1|2
+14717546|oakland, ca|13566872|New York City|1|2
+14717546|oakland, ca|1103361|Boston, MA|1|2
+14717546|oakland, ca|0|Error|1|2
+14717546|oakland, ca|0|Error|1|2
+14717546|oakland, ca|0|Error|1|2
+14717546|oakland, ca|83883736|Error|1|2
+26702805|oakland, ca|177165469|Madrid, Spain|1|2
+26702805|oakland, ca|36994774|Ja Earth A - Bay Area|1|2
+26702805|oakland, ca|57705651|Error|1|2
+26702805|oakland, ca|0|Error|1|2
+26702805|oakland, ca|0|Error|1|2
+26702805|oakland, ca|0|Error|1|2
+26702805|oakland, ca|56825776|in someone's heart|1|2
+26702805|oakland, ca|0|Error|1|2
+26702805|oakland, ca|0|Error|1|2
+18351581|oakland, ca|16017472|Paonia, CO|5|2
+18351581|oakland, ca|17506358|OakLeyVille, CA|5|2
+18351581|oakland, ca|17905715|Philadelphia, PA|3|2
+18351581|oakland, ca|20279370|Oakland|2|2
+18351581|oakland, ca|24224268|NorCal|2|2
+18351581|oakland, ca|29628889|North Carolina/Austin|2|2
+18351581|oakland, ca|18351581|Fort Collins, CO|1|2
+18351581|oakland, ca|8644082|on a sailboat|1|2
+18351581|oakland, ca|14634720|New York, Everywhere|1|2
+18351581|oakland, ca|53607453|Berkeley, California|1|2
+18351581|oakland, ca|135831872|Error|1|2
+18351581|oakland, ca|18787053|Davis, CA|1|2
+18351581|oakland, ca|17505090|Phoenix, Arizona|1|2
+18351581|oakland, ca|25402994|Hamilton City, California, USA|1|2
+18351581|oakland, ca|17884418|Cincinnati, OH|1|2
+18351581|oakland, ca|16132526|Richland, WA|1|2
+18351581|oakland, ca|17033321|Seattle, Washington, USA|1|2
+18351581|oakland, ca|17856208|New Yorker in DC|1|2
+18351581|oakland, ca|0|Error|1|2
+18351581|oakland, ca|14511951|Error|1|2
+18351581|oakland, ca|14603515|New York, NY|1|2
+18351581|oakland, ca|14267226|NYC|1|2
+18351581|oakland, ca|38748615|It begins with reporting|1|2
+18351581|oakland, ca|24626969|United States|1|2
+18351581|oakland, ca|19576733|Error|1|2
+18351581|oakland, ca|16100028|Durango, CO|1|2
+18351581|oakland, ca|1621934078|Error|1|2
+18351581|oakland, ca|147048476|Error|1|2
+18351581|oakland, ca|3148356377|Error|1|2
+18351581|oakland, ca|14647570|New York City, NY, USA|1|2
+18351581|oakland, ca|46157531|Davis, CA|1|2
+24740039|oakland, ca|0|Error|1|2
+24740039|oakland, ca|18751506|Tennessee|1|2
+24740039|oakland, ca|14166508|Florida|1|2
+90538450|oakland, ca|16160969|NYC, LA, ATL now in Oakland|4|2
+90538450|oakland, ca|23832022|Worldwide |2|2
+90538450|oakland, ca|90538450|Oakland, CA|1|2
+26444857|oakland, ca|109979360|Basement.|2|2
+26444857|oakland, ca|24502450|LA X DMV X NYC X SYD|1|2
+26444857|oakland, ca|2481013718|Error|1|2
+26444857|oakland, ca|0|Error|1|2
+26444857|oakland, ca|29924767|Error|1|2
+26444857|oakland, ca|27930140|LA by way of So. Maryland|1|2
+17010345|oakland, ca|17944812|Seattle,Wa|1|2
+17010345|oakland, ca|9782032|Error|1|2
+17010345|oakland, ca|14649755|PHX | LND|1|2
+78745809|oakland, ca|84041774|Los Angeles|1|2
+78745809|oakland, ca|23375688|Los Angeles |1|2
+78745809|oakland, ca|83652926|Error|1|2
+78745809|oakland, ca|21111883|DALLAS/LA|1|2
+16094096|oakland, ca|807025|San Francisco, CA|3|2
+16094096|oakland, ca|15318416|Switzerland|1|2
+16094096|oakland, ca|668423|San Francisco, CA|1|2
+14915152|oakland, ca|18094706|Los Angeles, Califas|2|2
+14915152|oakland, ca|17893091|Patusan|2|2
+14915152|oakland, ca|19096694|Bay Area America|2|2
+14915152|oakland, ca|28654732|City of Angers|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|18384896|Oakland, CA|1|2
+14915152|oakland, ca|21869719|Kingston Upon Thames|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|3089621|Washington, DC|1|2
+14915152|oakland, ca|24921240|in my own skin|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|0|Error|1|2
+14915152|oakland, ca|19211664|California |1|2
+14915152|oakland, ca|121652748|Error|1|2
+22910621|oakland, ca|0|Error|6|2
+22910621|oakland, ca|38183000|WORLDWIDE|3|2
+22910621|oakland, ca|1494033746|USA|3|2
+22910621|oakland, ca|0|Error|2|2
+22910621|oakland, ca|0|Error|2|2
+22910621|oakland, ca|0|Error|2|2
+22910621|oakland, ca|36742174|NYC|2|2
+22910621|oakland, ca|0|Error|1|2
+22910621|oakland, ca|14238353|Yay Today. Right Coast 4ever|1|2
+22910621|oakland, ca|23542414|Error|1|2
+22910621|oakland, ca|37167826|Oakland, CA|1|2
+22910621|oakland, ca|0|Error|1|2
+22910621|oakland, ca|581335705|Palo Alto, CA|1|2
+22910621|oakland, ca|39024386|EVERYWHERE|1|2
+22910621|oakland, ca|0|Error|1|2
+22910621|oakland, ca|92448610|Miami, Fl|1|2
+22910621|oakland, ca|71586090|Munich|1|2
+22910621|oakland, ca|84169495|New York|1|2
+22910621|oakland, ca|0|Error|1|2
+22910621|oakland, ca|16909050|ca|1|2
+25536051|oakland, ca|34999618|Oakland, CA|1|2
+25536051|oakland, ca|14868562|Los Angeles, CA|1|2
+25536051|oakland, ca|0|Error|1|2
+25536051|oakland, ca|62921673|Port of Oakland, CA|1|2
+25536051|oakland, ca|43972628|Oakland, California|1|2
+25536051|oakland, ca|9200692|Republic of California|1|2
+25536051|oakland, ca|34063620|Oakland, CA|1|2
+16885390|oakland, ca|27468913|Brooklyn, NY|26|2
+16885390|oakland, ca|16297037|Detroit, MI|3|2
+16885390|oakland, ca|0|Error|1|2
+16885390|oakland, ca|0|Error|1|2
+16885390|oakland, ca|111142755|New York|1|2
+16885390|oakland, ca|213772877|Error|1|2
+16885390|oakland, ca|27796059|Error|1|2
+16885390|oakland, ca|15353799|Right Here...Where are you?|1|2
+16885390|oakland, ca|0|Error|1|2
+23964821|oakland, ca|18198414|Bay Area|10|2
+23964821|oakland, ca|349298917|Error|7|2
+23964821|oakland, ca|17869864|Austin, TX  2  Atlanta, GA|3|2
+23964821|oakland, ca|19574258|Austin/ Houston, TX|2|2
+23964821|oakland, ca|27057981|Error|2|2
+23964821|oakland, ca|0|Error|1|2
+23964821|oakland, ca|19417672|Dallas, Texas|1|2
+23964821|oakland, ca|22954602|SF Bay Area / Silicon Valley|1|2
+23964821|oakland, ca|14939981|Philly & Fi-Di NYC & 31Rock|1|2
+23964821|oakland, ca|18473588|CA|1|2
+23964821|oakland, ca|0|Error|1|2
+23964821|oakland, ca|37138827|Washington, D.C.|1|2
+23964821|oakland, ca|56463364|Los Angeles, CA|1|2
+23964821|oakland, ca|108719584|Error|1|2
+20031242|oakland, ca|19836571|everywhere|1|2
+20031242|oakland, ca|27958582|OHLONE LAND, CALIFORNIA|1|2
+20031242|oakland, ca|109623329|Baltimore, MD|1|2
+20031242|oakland, ca|26314960|#YoungCalifornia|1|2
+20031242|oakland, ca|18489160|TORONTO|1|2
+21474233|oakland, ca|18302204|New York, NY|14|2
+21474233|oakland, ca|1928625402|Error|11|2
+21474233|oakland, ca|0|Error|10|2
+21474233|oakland, ca|0|Error|9|2
+21474233|oakland, ca|35839816|worldwide|6|2
+21474233|oakland, ca|751594825|Error|6|2
+21474233|oakland, ca|25891954|The Uncanny Valley|5|2
+21474233|oakland, ca|17361115|Error|4|2
+21474233|oakland, ca|282247180|Error|3|2
+21474233|oakland, ca|44053330|Error|3|2
+21474233|oakland, ca|2995008886|Error|3|2
+21474233|oakland, ca|17674009|berkeley, ca|2|2
+21474233|oakland, ca|65070337|Error|2|2
+21474233|oakland, ca|122208388|*poof*|2|2
+21474233|oakland, ca|25110374|Error|2|2
+21474233|oakland, ca|246969730|Error|2|2
+21474233|oakland, ca|25365406|The Universe|2|2
+21474233|oakland, ca|136417827|Brooklyn|2|2
+21474233|oakland, ca|413580414|Porto, Portugal|2|2
+21474233|oakland, ca|808739|Los Angeles|2|2
+21474233|oakland, ca|0|Error|2|2
+21474233|oakland, ca|14927129|Los Angeles|2|2
+21474233|oakland, ca|0|Error|2|2
+21474233|oakland, ca|15648401|bkallday.|2|2
+21474233|oakland, ca|135684302|all up in  your mental mind|2|2
+21474233|oakland, ca|85338334|Error|2|2
+21474233|oakland, ca|23146830|Apple. Big.|1|2
+21474233|oakland, ca|26310340|KALI BWOY|1|2
+21474233|oakland, ca|0|Error|1|2
+21474233|oakland, ca|1396520792|Error|1|2
+21474233|oakland, ca|19894501|'roun chea|1|2
+21474233|oakland, ca|22949131|Error|1|2
+21474233|oakland, ca|14939981|Philly & Fi-Di NYC & 31Rock|1|2
+21474233|oakland, ca|36516476|Low. Firing.|1|2
+21474233|oakland, ca|0|Error|1|2
+21474233|oakland, ca|2797132908|Error|1|2
+21474233|oakland, ca|18363585|California, USA|1|2
+21474233|oakland, ca|140243599|Error|1|2
+21474233|oakland, ca|0|Error|1|2
+21474233|oakland, ca|10161712|VA|1|2
+21474233|oakland, ca|14964802|iPhone: 0.000000,0.000000|1|2
+21474233|oakland, ca|19009721|wherever i am called|1|2
+21474233|oakland, ca|0|Error|1|2
+21474233|oakland, ca|851991|austin.tx|1|2
+21474233|oakland, ca|15113650|Niagara Falls Ontario|1|2
+21474233|oakland, ca|6487292|Los Angeles|1|2
+21474233|oakland, ca|0|Error|1|2
+21474233|oakland, ca|1263362234|Error|1|2
+21474233|oakland, ca|333539068|Error|1|2
+21474233|oakland, ca|2528745901|Error|1|2
+21474233|oakland, ca|15941530|Charlotte/Zamunda|1|2
+21474233|oakland, ca|0|Error|1|2
+21474233|oakland, ca|0|Error|1|2
+21474233|oakland, ca|0|Error|1|2
+21474233|oakland, ca|10310152|Error|1|2
+21474233|oakland, ca|2503738729|Error|1|2
+21474233|oakland, ca|14392795|MISSISSIPPI|1|2
+21474233|oakland, ca|0|Error|1|2
+21474233|oakland, ca|0|Error|1|2
+21474233|oakland, ca|70735999|Sugar Land, TX|1|2
+34321319|oakland, ca|54908952|Error|2|2
+34321319|oakland, ca|36394950|San Francisco, CA|1|2
+34321319|oakland, ca|0|Error|1|2
+34321319|oakland, ca|16049481|New York, NY|1|2
+34321319|oakland, ca|259160695|London|1|2
+34321319|oakland, ca|15985824|Portland, OR|1|2
+34321319|oakland, ca|14140509|Birmingham, Alabama|1|2
+34321319|oakland, ca|20247533|NYC|1|2
+34321319|oakland, ca|61703343|Over your head.|1|2
+34321319|oakland, ca|284159343|On Twitter|1|2
+34321319|oakland, ca|44363498|Error|1|2
+34321319|oakland, ca|21149840|Crystal Lake, IL|1|2
+34321319|oakland, ca|73436079|Error|1|2
+34321319|oakland, ca|27786932|San Francisco, CA|1|2
+34321319|oakland, ca|34368966|Cleveland,OH|1|2
+16337114|oakland, ca|0|Error|2|2
+16337114|oakland, ca|8128442|Eldorado Springs, CO|1|2
+16337114|oakland, ca|15182798|new york city|1|2
+16337114|oakland, ca|45645232|Colorado|1|2
+16337114|oakland, ca|14838870|Berkeley, CA, USA|1|2
+16337114|oakland, ca|11347122|California|1|2
+16337114|oakland, ca|18338228|San Francisco, CA|1|2
+16337114|oakland, ca|7863632|Error|1|2
+16337114|oakland, ca|0|Error|1|2
+16337114|oakland, ca|0|Error|1|2
+16337114|oakland, ca|0|Error|1|2
+16337114|oakland, ca|0|Error|1|2
+16337114|oakland, ca|10688432|Kansas, USA|1|2
+16337114|oakland, ca|8223542|Somerville, MA|1|2
+16337114|oakland, ca|18812690|Missoula|1|2
+16337114|oakland, ca|17565166|Berkeley, California|1|2
+16337114|oakland, ca|859131|iPhone: 30.262444,-97.740677|1|2
+16337114|oakland, ca|0|Error|1|2
+16337114|oakland, ca|19394188|Phoenix, AZ / Washington, DC|1|2
+16337114|oakland, ca|18639089|Denver, CO|1|2
+16337114|oakland, ca|0|Error|1|2
+16337114|oakland, ca|14735884|Washington, DC|1|2
+16337114|oakland, ca|24431892|Berkeley, California|1|2
+1067271|oakland, ca|0|Error|4|2
+1067271|oakland, ca|0|Error|2|2
+1067271|oakland, ca|21453086|Global|2|2
+1067271|oakland, ca|15703434|El Cerrito, CA|2|2
+1067271|oakland, ca|14886176|New York, NY|2|2
+1067271|oakland, ca|71093654|Atlanta|1|2
+1067271|oakland, ca|18362676|santa cruz, ca|1|2
+1067271|oakland, ca|0|Error|1|2
+1067271|oakland, ca|25726953|Atlanta|1|2
+1067271|oakland, ca|15509404|Massachusetts|1|2
+1067271|oakland, ca|457947188|Error|1|2
+1067271|oakland, ca|0|Error|1|2
+1067271|oakland, ca|32439209|Austin, TX|1|2
+1067271|oakland, ca|16835170|Washington, DC|1|2
+1067271|oakland, ca|16773121|San Francisco, CA|1|2
+19642990|oakland, ca|4916651|Boulder, CO|5|2
+19642990|oakland, ca|36730504|Oakland, the Town|3|2
+19642990|oakland, ca|3936|94606 or 94612 or 94804|2|2
+19642990|oakland, ca|36511031|San Francisco|2|2
+19642990|oakland, ca|2272414140|Tanganyika, Califas|2|2
+19642990|oakland, ca|9676722|Oakland|1|2
+19642990|oakland, ca|10159762|Portugal |1|2
+19642990|oakland, ca|14193558|San Francisco|1|2
+19642990|oakland, ca|17975353| Oakland,CA|1|2
+19642990|oakland, ca|1695811|SF Bay Area|1|2
+19642990|oakland, ca|0|Error|1|2
+19642990|oakland, ca|0|Error|1|2
+19642990|oakland, ca|0|Error|1|2
+19642990|oakland, ca|0|Error|1|2
+19642990|oakland, ca|26239696|Error|1|2
+19642990|oakland, ca|6304662|Berkeley/SF|1|2
+19642990|oakland, ca|12019502|Bay Area, California|1|2
+19642990|oakland, ca|9483752|NYC|1|2
+19642990|oakland, ca|11616772|Baton Rouge, LA|1|2
+19642990|oakland, ca|0|Error|1|2
+19642990|oakland, ca|890101|Palo Alto, CA|1|2
+19642990|oakland, ca|15680097|Seattle, WA|1|2
+19642990|oakland, ca|28018958|Earth Terra Gaia|1|2
+19642990|oakland, ca|2450851627|1628 Webster St Oakland, CA |1|2
+19642990|oakland, ca|2211823159|Error|1|2
+19642990|oakland, ca|49116026|SITTING ON TOP OF THE RAINBOW|1|2
+19642990|oakland, ca|8071902|Minneapolis / Minnesota / MN|1|2
+19642990|oakland, ca|12796532|Northern California|1|2
+20954885|oakland, california|12044602|Los Angeles, California|2|2
+20954885|oakland, california|0|Error|2|2
+20954885|oakland, california|16014113|SF Bay Area|1|2
+20954885|oakland, california|0|Error|1|2
+20954885|oakland, california|16727535|Austin/Aspen|1|2
+20954885|oakland, california|14187312|NYC|1|2
+20954885|oakland, california|16096562|Error|1|2
+20954885|oakland, california|16162149|San Francisco, CA USA|1|2
+20954885|oakland, california|858051|Newport Beach, Orange County|1|2
+20954885|oakland, california|813286|Washington, DC|1|2
+15516535|oakland, ca|9534522|USA|3|2
+15516535|oakland, ca|15363671|Berkeley, CA|2|2
+15516535|oakland, ca|15754281|USA TODAY HQ, McLean, Va.|1|2
+15516535|oakland, ca|0|Error|1|2
+15516535|oakland, ca|18647850|Oakland, CA|1|2
+15516535|oakland, ca|3116564975|Error|1|2
+15516535|oakland, ca|17073987|College Park, Maryland|1|2
+15516535|oakland, ca|54632949|Washington D.C. |1|2
+15516535|oakland, ca|0|Error|1|2
+15516535|oakland, ca|9345172|Palo Alto, California|1|2
+15516535|oakland, ca|62581962|Error|1|2
+15516535|oakland, ca|14390225|New York, NY|1|2
+15516535|oakland, ca|0|Error|1|2
+15516535|oakland, ca|807095|New York City|1|2
+15516535|oakland, ca|1855740926|Error|1|2
+15516535|oakland, ca|17592800|Washington, DC|1|2
+15516535|oakland, ca|12765|NOWHERE|1|2
+15516535|oakland, ca|0|Error|1|2
+32752079|oakland, ca|25650165|NoWhere Land, CA|9|2
+32752079|oakland, ca|0|Error|6|2
+32752079|oakland, ca|24978333|Error|6|2
+32752079|oakland, ca|2290189736|Error|1|2
+32752079|oakland, ca|0|Error|1|2
+32752079|oakland, ca|0|Error|1|2
+32752079|oakland, ca|0|Error|1|2
+32752079|oakland, ca|0|Error|1|2
+7717422|oakland, ca|69462845|Error|6|2
+7717422|oakland, ca|21360626|San Francisco, CA|3|2
+7717422|oakland, ca|4708351|San Francisco|3|2
+7717422|oakland, ca|82787303|San Francisco, CA|2|2
+7717422|oakland, ca|7717422|30 x 30|1|2
+7717422|oakland, ca|62902439|Bay Areaaaaaa|1|2
+7717422|oakland, ca|16065736|New York, NY|1|2
+7717422|oakland, ca|32688798|Error|1|2
+7717422|oakland, ca|45284657|Error|1|2
+7717422|oakland, ca|42153873|El Cerrito, Ca|1|2
+7717422|oakland, ca|47469109|The Oakland of New York.|1|2
+7717422|oakland, ca|0|Error|1|2
+7717422|oakland, ca|15865964|iPhone: 21.366819,-157.939178|1|2
+7717422|oakland, ca|158191017|Error|1|2
+7717422|oakland, ca|22532796|San Francisco, CA|1|2
+7717422|oakland, ca|246364182|Error|1|2
+7717422|oakland, ca|217544776|Error|1|2
+3038461|oakland, ca|14872054|San.Frandisco.CA.USA|2|2
+3038461|oakland, ca|9149222|San Francisco|2|2
+3038461|oakland, ca|5247961|Probably not at home|2|2
+3038461|oakland, ca|2563828880|Error|1|2
+3038461|oakland, ca|0|Error|1|2
+3038461|oakland, ca|222|San Francisco,CA|1|2
+3038461|oakland, ca|5064|A Series of Tubes|1|2
+3038461|oakland, ca|624683|San Francisco, CA|1|2
+3038461|oakland, ca|13980622|San Mateo, CA|1|2
+3038461|oakland, ca|11339892|Lehigh Valley, PA|1|2
+3038461|oakland, ca|2148071|San Francisco, CA|1|2
+3038461|oakland, ca|1040301|Mostly San Francisco|1|2
+17379084|oakland, ca|14222100|San Francisco|2|2
+17379084|oakland, ca|16014113|SF Bay Area|1|2
+17379084|oakland, ca|385016623|Worldwide, International|1|2
+17379084|oakland, ca|15380717|Seattle, WA|1|2
+17379084|oakland, ca|0|Error|1|2
+17379084|oakland, ca|560063697|Error|1|2
+17379084|oakland, ca|0|Error|1|2
+17379084|oakland, ca|820585|Brooklyn, NY|1|2
+17379084|oakland, ca|54288013|Brooklyn, NY|1|2
+17379084|oakland, ca|14923512| Houston,Texas|1|2
+17379084|oakland, ca|8071902|Minneapolis / Minnesota / MN|1|2
+17379084|oakland, ca|8817382|California Coastline|1|2
+17379084|oakland, ca|20118774|Asia |1|2
+26857672|oakland, california|810777|Walnut Creek, California|2|2
+26857672|oakland, california|48071988|Oakland|1|2
+26857672|oakland, california|26857672|Oakland, California|1|2
+26857672|oakland, california|23044822|San Francisco Bay Area, CA|1|2
+26857672|oakland, california|15782054|Error|1|2
+26857672|oakland, california|16488147|Fresno, CA|1|2
+26857672|oakland, california|50545304|Berkeley, CA|1|2
+26857672|oakland, california|0|Error|1|2
+26857672|oakland, california|40760908|Berkeley, CA|1|2
+21488930|oakland, california|1451274673|Error|2|2
+21488930|oakland, california|17561594|Oakland, California|2|2
+21488930|oakland, california|11970082|San Francisco Bay Area|2|2
+21488930|oakland, california|17975353| Oakland,CA|1|2
+21488930|oakland, california|767678|San Diego, California|1|2
+21488930|oakland, california|7192112|Washington, DC|1|2
+21488930|oakland, california|0|Error|1|2
+21488930|oakland, california|0|Error|1|2
+21488930|oakland, california|2388503381|Norwich|1|2
+21488930|oakland, california|0|Error|1|2
+21488930|oakland, california|14939981|Philly & Fi-Di NYC & 31Rock|1|2
+21488930|oakland, california|14868562|Los Angeles, CA|1|2
+21488930|oakland, california|37033098|1444 Broadway | 3419 Fruitvale|1|2
+21488930|oakland, california|583138771|Canada|1|2
+21488930|oakland, california|0|Error|1|2
+21488930|oakland, california|14875024|oakland, calif.|1|2
+21488930|oakland, california|0|Error|1|2
+21488930|oakland, california|0|Error|1|2
+21488930|oakland, california|28564212|Oakland, CA|1|2
+21488930|oakland, california|0|Error|1|2
+21488930|oakland, california|0|Error|1|2
+21488930|oakland, california|19836571|everywhere|1|2
+21488930|oakland, california|214105698|Error|1|2
+21488930|oakland, california|0|Error|1|2
+21488930|oakland, california|711303|NYC | Long Island|1|2
+21488930|oakland, california|16553544|Error|1|2
+21488930|oakland, california|7295172|San Jose, CA|1|2
+21488930|oakland, california|20252085|Khemet, Aztlan & Timbuktu|1|2
+93694061|oakland, ca|0|Error|2|2
+93694061|oakland, ca|835003136|Error|2|2
+93694061|oakland, ca|103703343|Error|1|2
+93694061|oakland, ca|29109574|Honolulu, HI|1|2
+93694061|oakland, ca|0|Error|1|2
+93694061|oakland, ca|0|Error|1|2
+45741040|oakland, ca|145373322|Error|7|2
+45741040|oakland, ca|45741040|Oakland, CA|2|2
+45741040|oakland, ca|18224432|everywhere!|2|2
+45741040|oakland, ca|0|Error|2|2
+45741040|oakland, ca|19577528|San Francisco|1|2
+45741040|oakland, ca|22645379|San Francisco, CA|1|2
+45741040|oakland, ca|38249459|Temecula, CA|1|2
+45741040|oakland, ca|19629008|San Francisco|1|2
+45741040|oakland, ca|20392987|Las Vegas, NV|1|2
+45741040|oakland, ca|2206413804|San Francisco - Las Vegas |1|2
+45741040|oakland, ca|251867077|Error|1|2
+45741040|oakland, ca|497333756|Miskolc|1|2
+45741040|oakland, ca|119236324|Error|1|2
+45741040|oakland, ca|0|Error|1|2
+45741040|oakland, ca|1886264108|Error|1|2
+45741040|oakland, ca|0|Error|1|2
+45741040|oakland, ca|13255172|San Francisco, CA|1|2
+45741040|oakland, ca|31736700|Bay Area, CA|1|2
+45741040|oakland, ca|51268109|San Francisco, CA|1|2
+45741040|oakland, ca|53771648|15th & L, Sacramento, CA|1|2
+16381003|oakland, ca|0|Error|6|2
+16381003|oakland, ca|1491517362|Error|3|2
+16381003|oakland, ca|18041726|los angeles|3|2
+16381003|oakland, ca|16335779|downstairs|2|2
+16381003|oakland, ca|14591114|Los Angeles, CA|2|2
+16381003|oakland, ca|0|Error|1|2
+4208931|oakland, ca|7058842|sf|2|2
+4208931|oakland, ca|0|Error|1|2
+4208931|oakland, ca|16830897|San Francisco|1|2
+4208931|oakland, ca|0|Error|1|2
+4208931|oakland, ca|7890282|Oakland, CA|1|2
+4208931|oakland, ca|1183041|Los Angeles|1|2
+4208931|oakland, ca|16711071|Santa Rosa, CA|1|2
+4208931|oakland, ca|6558702|San Francisco, Ca|1|2
+4208931|oakland, ca|796766|San Francisco|1|2
+4208931|oakland, ca|14707266|Error|1|2
+4208931|oakland, ca|372762376|Error|1|2
+4208931|oakland, ca|14416477|Oakland|1|2
+4208931|oakland, ca|10798802|boston/upstate NY/oz/the road|1|2
+4208931|oakland, ca|4147471|LAX; BOS; Hiraeth|1|2
+4208931|oakland, ca|15473413|San Francisco|1|2
+28043|oakland, ca|2990621|Santa Cruz, CA|3|2
+28043|oakland, ca|14306942|San Francisco, CA 94110|2|2
+28043|oakland, ca|14577706|Carmichael, CA|2|2
+28043|oakland, ca|0|Error|2|2
+28043|oakland, ca|0|Error|2|2
+28043|oakland, ca|0|Error|1|2
+28043|oakland, ca|0|Error|1|2
+28043|oakland, ca|0|Error|1|2
+28043|oakland, ca|0|Error|1|2
+28043|oakland, ca|12693432|Washington, DC|1|2
+28043|oakland, ca|46051524|alaska|1|2
+28043|oakland, ca|0|Error|1|2
+28043|oakland, ca|2018911|San Francisco|1|2
+28043|oakland, ca|2628121|Santa Cruz, California|1|2
+28043|oakland, ca|17466313|Arlington, WA|1|2
+5292562|oakland, ca|712173|Tokyo, Japan|2|2
+5292562|oakland, ca|6882962|Error|1|2
+29424823|oakland, ca|21700639|iPhone: 37.626541,-122.125656|4|2
+29424823|oakland, ca|0|Error|3|2
+29424823|oakland, ca|20181873|USA|2|2
+29424823|oakland, ca|50491692|THEE Bay|2|2
+29424823|oakland, ca|16332223|Oakland, CA|1|2
+29424823|oakland, ca|0|Error|1|2
+29424823|oakland, ca|278615858|charging my iphone.|1|2
+29424823|oakland, ca|0|Error|1|2
+27340357|oakland, ca|27340357|Error|15|2
+27340357|oakland, ca|0|Error|15|2
+27340357|oakland, ca|39939897|Bay Area, Ca|1|2
+27340357|oakland, ca|21732233|Las Vegas, NV|1|2
+27340357|oakland, ca|45470133|CALI-BAY-AREA ($AN LEANDRO)|1|2
+27340357|oakland, ca|19807527|37.375646,-121.874417|1|2
+27340357|oakland, ca|0|Error|1|2
+27340357|oakland, ca|37179757|EAST OAKLAND,CA |1|2
+27340357|oakland, ca|28496551|SemCity, Oakland Ca.|1|2
+27340357|oakland, ca|15327227|On your Timeline|1|2
+27340357|oakland, ca|0|Error|1|2
+27340357|oakland, ca|21461410|Oakland, CA|1|2
+27340357|oakland, ca|27395551|Global|1|2
+27340357|oakland, ca|30327233|#THEBAY|1|2
+27340357|oakland, ca|19197110|Bay Area|1|2
+27340357|oakland, ca|0|Error|1|2
+27340357|oakland, ca|0|Error|1|2
+27340357|oakland, ca|26064848|the west coast|1|2
+27340357|oakland, ca|29610316|Oakland, CA, USA|1|2
+27340357|oakland, ca|18208972|North Cali Bay Area|1|2
+27340357|oakland, ca|23392431|BIG CAT/ICE KING OAKLAND/ATL|1|2
+35656714|oakland, ca|0|Error|2|2
+35656714|oakland, ca|0|Error|1|2
+35656714|oakland, ca|2487855468|Vigan City, Ilocos Sur|1|2
+35656714|oakland, ca|0|Error|1|2
+35656714|oakland, ca|502381613|SC CLT MIA LA NY|1|2
+20022965|oakland, ca|64608084|Error|5|2
+20022965|oakland, ca|0|Error|1|2
+28446038|oakland, ca|0|Error|7|2
+28446038|oakland, ca|0|Error|5|2
+28446038|oakland, ca|64278032|Clovis, CA|2|2
+28446038|oakland, ca|28446038|In a Swisher Living Sweet|2|2
+28446038|oakland, ca|0|Error|2|2
+28446038|oakland, ca|17009519|NEW YORK|1|2
+28446038|oakland, ca|279616934|Error|1|2
+28446038|oakland, ca|59280279|north oakland ca|1|2
+28446038|oakland, ca|0|Error|1|2
+28446038|oakland, ca|0|Error|1|2
+28446038|oakland, ca|37836873|United States|1|2
+28446038|oakland, ca|0|Error|1|2
+28446038|oakland, ca|434796745|Error|1|2
+32643705|oakland, ca|16634754|Error|6|2
+32643705|oakland, ca|130209459|Error|4|2
+32643705|oakland, ca|27542845|the bat cave |2|2
+29506084|oakland, ca|0|Error|2|2
+29506084|oakland, ca|55075466|Error|1|2
+29506084|oakland, ca|169387478|Error|1|2
+35828166|oakland, ca|721301701|Error|2|2
+35828166|oakland, ca|39111070|Mississippi :)|2|2
+35828166|oakland, ca|66837294|Verneuil-sur-Avre|1|2
+35828166|oakland, ca|2909577797|Error|1|2
+35828166|oakland, ca|14703882|jordan@lugg.com|1|2
+49465464|oakland, ca|0|Error|4|2
+49465464|oakland, ca|2642232577|Error|4|2
+49465464|oakland, ca|159344552|india|4|2
+49465464|oakland, ca|0|Error|2|2
+49465464|oakland, ca|0|Error|2|2
+49465464|oakland, ca|60523949|West Side Fresno, California|2|2
+49465464|oakland, ca|23029067|Error|1|2
+49465464|oakland, ca|0|Error|1|2
+49465464|oakland, ca|733087507|Portsmouth, UK|1|2
+49465464|oakland, ca|0|Error|1|2
+49465464|oakland, ca|0|Error|1|2
+33738195|oakland, ca|0|Error|2|2
+33738195|oakland, ca|0|Error|2|2
+33738195|oakland, ca|0|Error|1|2
+33738195|oakland, ca|21701364|OH-10 by way of Oakland Ca|1|2
+33738195|oakland, ca|94950438|THAILAND|1|2
+33738195|oakland, ca|45661919|Error|1|2
+33738195|oakland, ca|16638685|UP THRU DERE!|1|2
+29615368|oakland, ca|15505750| San Francisco, CA 94126|2|2
+29615368|oakland, ca|6124282|Error|1|2
+29615368|oakland, ca|0|Error|1|2
+14886375|oakland, ca|18639734|Times Square, New York|4|2
+14886375|oakland, ca|43353207|Error|4|2
+14886375|oakland, ca|56218043|New York, NY|2|2
+14886375|oakland, ca|0|Error|2|2
+14886375|oakland, ca|0|Error|1|2
+14886375|oakland, ca|17790265|New York City|1|2
+14886375|oakland, ca|14165212|South Florida|1|2
+14886375|oakland, ca|21099562|South Sound, Grand Cayman|1|2
+14886375|oakland, ca|26583295|New Mexico|1|2
+14886375|oakland, ca|14134555|Central KY|1|2
+14886375|oakland, ca|14886375|New York, NY|1|2
+14886375|oakland, ca|18206836|Error|1|2
+14886375|oakland, ca|68970135|G5 Global|1|2
+14886375|oakland, ca|15246621|Denver|1|2
+14886660|oakland, ca|0|Error|1|2
+14886660|oakland, ca|15746599|Berkeley, CA|1|2
+14886660|oakland, ca|14498667|Qualicum Beach, BC|1|2
+14886660|oakland, ca|14875024|oakland, calif.|1|2
+14886660|oakland, ca|0|Error|1|2
+19608019|oakland, california|0|Error|6|2
+19608019|oakland, california|563729552|Error|4|2
+19608019|oakland, california|491735696|Error|2|2
+19608019|oakland, california|8208842|Ingelheim, Germany|1|2
+19608019|oakland, california|384854055|Where You Need To Be|1|2
+19608019|oakland, california|285437422|Error|1|2
+19608019|oakland, california|0|Error|1|2
+19608019|oakland, california|0|Error|1|2
+19608019|oakland, california|283550533|Guam|1|2
+16993395|oakland, ca|23566481|Error|1|2
+16993395|oakland, ca|0|Error|1|2
+16993395|oakland, ca|571494324|Error|1|2
+14546391|oakland, ca|202715499|Error|2|2
+14546391|oakland, ca|0|Error|2|2
+14546391|oakland, ca|23803265|Los Angeles|1|2
+22289183|oakland, ca|0|Error|3|2
+22289183|oakland, ca|0|Error|3|2
+22289183|oakland, ca|0|Error|2|2
+22289183|oakland, ca|16060833|jackson,ky|1|2
+22289183|oakland, ca|424489806|Error|1|2
+22289183|oakland, ca|23572331|SAN FRAN.|1|2
+22289183|oakland, ca|30309979|New York, NY|1|2
+22289183|oakland, ca|0|Error|1|2
+20194979|oakland, california|0|Error|4|2
+20194979|oakland, california|30327233|#THEBAY|4|2
+20194979|oakland, california|20194979|Oakland, California|3|2
+20194979|oakland, california|19197110|Bay Area|3|2
+20194979|oakland, california|36475129|SAN FRANCISCO / MONEY COUNTY|2|2
+20194979|oakland, california|0|Error|2|2
+20194979|oakland, california|0|Error|1|2
+20194979|oakland, california|0|Error|1|2
+20194979|oakland, california|0|Error|1|2
+20194979|oakland, california|0|Error|1|2
+71575839|oakland, ca|22285880|Los Angeles|1|2
+71575839|oakland, ca|0|Error|1|2
+71575839|oakland, ca|16431276|Error|1|2
+71575839|oakland, ca|17270668|Chicago, Illinois (US)|1|2
+71575839|oakland, ca|17999296|Error|1|2
+29635819|oakland, ca|798638|Wife's Apartment|3|2
+29635819|oakland, ca|18655567|San Francisco|2|2
+29635819|oakland, ca|29766529|9th Circle of Hell, Lido Deck|2|2
+29635819|oakland, ca|375659923|Error|1|2
+29635819|oakland, ca|16329199|New York|1|2
+29635819|oakland, ca|16906137|Error|1|2
+29635819|oakland, ca|20791346|sacramento, ca|1|2
+29635819|oakland, ca|0|Error|1|2
+29635819|oakland, ca|0|Error|1|2
+29635819|oakland, ca|12709722|Brooklyn, NY|1|2
+29635819|oakland, ca|15087011|Error|1|2
+29635819|oakland, ca|2937433978|Error|1|2
+29635819|oakland, ca|13524182|Washington, D.C.|1|2
+16019024|oakland, ca|19637934|Los Angeles-ish|3|2
+16019024|oakland, ca|17833574|Turn off Notifications! Boom!|2|2
+16019024|oakland, ca|0|Error|2|2
+16019024|oakland, ca|14056486|SF, Ca |1|2
+16019024|oakland, ca|186124041|Error|1|2
+16019024|oakland, ca|17383687|Sacramento, CA|1|2
+16019024|oakland, ca|20167644|Error|1|2
+16019024|oakland, ca|21675205|Spacerocket with 02 and 03|1|2
+16019024|oakland, ca|14297115|San Francisco|1|2
+16019024|oakland, ca|29344169|Behind a Disused Railway Line|1|2
+16019024|oakland, ca|16546495|San Francisco|1|2
+16019024|oakland, ca|15871429|iPhone: 37.735355,-122.504250|1|2
+35954073|oakland, california|23170458|Blessed n Highly Favored|5|2
+35954073|oakland, california|0|Error|4|2
+35954073|oakland, california|0|Error|2|2
+35954073|oakland, california|12101862|23 US and Mexico destinations|1|2
+35954073|oakland, california|0|Error|1|2
+35954073|oakland, california|35939070|Aiea, HI|1|2
+35954073|oakland, california|15817977|Berkeley, CA|1|2
+17004141|oakland, ca|14467251|Carlsbad, CA, USA|2|2
+17004141|oakland, ca|0|Error|1|2
+17004141|oakland, ca|2893835363|Error|1|2
+17004141|oakland, ca|0|Error|1|2
+17004141|oakland, ca|38485426|Berkeley, CA|1|2
+7675082|oakland, ca|18985501|London|5|2
+7675082|oakland, ca|3099501|Sydney|3|2
+7675082|oakland, ca|2957390544|Error|2|2
+7675082|oakland, ca|16248168|Error|1|2
+7675082|oakland, ca|7093352|San Francisco, CA|1|2
+7675082|oakland, ca|7865122|San Francisco,|1|2
+7675082|oakland, ca|37117376|New York|1|2
+7675082|oakland, ca|102212710|Error|1|2
+7675082|oakland, ca|11107172|Oakland, CA|1|2
+7675082|oakland, ca|11317392|Chicago, IL|1|2
+7675082|oakland, ca|23565277|all over the ether|1|2
+7675082|oakland, ca|0|Error|1|2
+7675082|oakland, ca|13862172|The Village; Be Seeing You!|1|2
+7675082|oakland, ca|1211311|San Francisco, CA|1|2
+7675082|oakland, ca|18757859|San Francisco|1|2
+7675082|oakland, ca|42982012|Sacramento River Delta|1|2
+7675082|oakland, ca|0|Error|1|2
+18179281|oakland, ca|20504483|Bay Area|3|2
+18179281|oakland, ca|23672746|San Francisco, California|2|2
+18179281|oakland, ca|16359560|IM AT WHERE IM AT|1|2
+18179281|oakland, ca|0|Error|1|2
+18179281|oakland, ca|283666920|Worldwide|1|2
+18179281|oakland, ca|19995247|OAKLAND CA|1|2
+18179281|oakland, ca|455250356|iG @MontanaMontanaMONTANAA|1|2
+28688283|oakland, california|240361159|Error|4|2
+28688283|oakland, california|0|Error|3|2
+28688283|oakland, california|402953887|Error|2|2
+28688283|oakland, california|100670304|Error|2|2
+28688283|oakland, california|57229967|Away From The Publics View .|1|2
+28688283|oakland, california|0|Error|1|2
+28688283|oakland, california|0|Error|1|2
+28688283|oakland, california|56814022|Berkeley dude|1|2
+28688283|oakland, california|0|Error|1|2
+21351081|oakland, ca|57213418|Chinatown, Los Angeles|2|2
+21351081|oakland, ca|0|Error|2|2
+21351081|oakland, ca|76093|New York|1|2
+7747372|oakland, ca|1029211|San Francisco, CA|2|2
+7747372|oakland, ca|79903|Jersey City, NJ|1|2
+7747372|oakland, ca|39613|San Francisco, CA|1|2
+7747372|oakland, ca|16283807|Oakland, CA|1|2
+7747372|oakland, ca|255045265|Error|1|2
+7747372|oakland, ca|10293822|San Francisco|1|2
+7747372|oakland, ca|0|Error|1|2
+7747372|oakland, ca|8858932|San Francisco, CA|1|2
+7747372|oakland, ca|15127748|New York City|1|2
+76090142|oakland, ca|16541216|Houston, TX|10|2
+76090142|oakland, ca|210865831|AZ to Belgium4now|2|2
+76090142|oakland, ca|67805798|Cali|2|2
+54945259|oakland, ca|23716052|Mt. Morris|9|2
+54945259|oakland, ca|19477940|Error|3|2
+54945259|oakland, ca|40068078|the islands of virgins|3|2
+54945259|oakland, ca|17977701|ATL, GA|2|2
+54945259|oakland, ca|0|Error|1|2
+54945259|oakland, ca|0|Error|1|2
+49706968|oakland, ca|22511319|Oakland, CA|4|2
+49706968|oakland, ca|0|Error|2|2
+49706968|oakland, ca|17098190|iPhone: 37.793488,-122.399994|2|2
+49706968|oakland, ca|0|Error|2|2
+49706968|oakland, ca|0|Error|2|2
+49706968|oakland, ca|14930624|International|1|2
+49706968|oakland, ca|27694216|Edina, MN USA|1|2
+49706968|oakland, ca|66224716|USA|1|2
+49706968|oakland, ca|248029132|Brooklyn, NY|1|2
+49706968|oakland, ca|0|Error|1|2
+49706968|oakland, ca|14798658|downtown, uptown, all around |1|2
+49706968|oakland, ca|74446640|Paris|1|2
+49706968|oakland, ca|16386805|Ottawa, Canada|1|2
+49706968|oakland, ca|35764073|Boston, MA|1|2
+49706968|oakland, ca|15456784| Colorado|1|2
+49706968|oakland, ca|0|Error|1|2
+49706968|oakland, ca|24899910|Silicon Valley, CA|1|2
+49706968|oakland, ca|15774048|New York NY (Forest Hills) USA|1|2
+49706968|oakland, ca|41155451|Baltimore, MD|1|2
+49706968|oakland, ca|17528562|California|1|2
+49706968|oakland, ca|0|Error|1|2
+49706968|oakland, ca|24167293|Cascadia|1|2
+49706968|oakland, ca|117120175|Washington, DC|1|2
+35024481|oakland, ca|27830862|Error|6|2
+35024481|oakland, ca|1099223262|Error|4|2
+35024481|oakland, ca|17066103|Largo, FL|3|2
+35024481|oakland, ca|17033150|Southwest US|1|2
+35024481|oakland, ca|25686210|Texas, Diboll|1|2
+35024481|oakland, ca|21509741|Oakland, CA|1|2
+46732539|oakland, ca|0|Error|1|2
+65473173|oakland, california|96642442|Error|11|2
+65473173|oakland, california|173854918|Kenner City Livin'|3|2
+65473173|oakland, california|0|Error|1|2
+65473173|oakland, california|0|Error|1|2
+65473173|oakland, california|36072264|Bon Temps, LA|1|2
+27731652|oakland, ca|0|Error|4|2
+27731652|oakland, ca|0|Error|4|2
+27731652|oakland, ca|0|Error|3|2
+27731652|oakland, ca|0|Error|1|2
+27731652|oakland, ca|20090922|Error|1|2
+15148814|oakland, ca|19189469|Brighton, Michigan|4|2
+15148814|oakland, ca|42762432|Error|4|2
+15148814|oakland, ca|20825865|Chicago, Illinois|2|2
+15148814|oakland, ca|424472595|Error|1|2
+15148814|oakland, ca|31391190|Somewhere South of Somewhere|1|2
+15148814|oakland, ca|407971743|ashland, ohio|1|2
+15148814|oakland, ca|21629979|Montreal|1|2
+15148814|oakland, ca|21578982|Hockeyland!|1|2
+8864422|oakland, ca|14247769|Dallas, Texas|3|2
+8864422|oakland, ca|19791019|Error|3|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|8864422|Bay Area, CA|1|2
+8864422|oakland, ca|15676492|Dearborn, MI|1|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|0|Error|1|2
+8864422|oakland, ca|0|Error|1|2
+5724642|oakland, california|7020132|London, England|1|2
+5724642|oakland, california|49860367|Asleep at the wheel|1|2
+5724642|oakland, california|14349096|Error|1|2
+5724642|oakland, california|677603|San Francisco, CA|1|2
+5724642|oakland, california|19668715|San Francisco|1|2
+5724642|oakland, california|25612932|San Francisco |1|2
+26702805|oakland, ca|20118774|Asia |2|2
+26702805|oakland, ca|32468028|san francisco|1|2
+26702805|oakland, ca|999537073|Error|1|2
+26702805|oakland, ca|0|Error|1|2
+26702805|oakland, ca|0|Error|1|2
+26702805|oakland, ca|0|Error|1|2
+26702805|oakland, ca|0|Error|1|2
+26702805|oakland, ca|15699281|Dallas|1|2
+16254226|oakland, ca|52065781|UK (and Ghana)|2|2
+16254226|oakland, ca|27206027|Planet Earth|1|2
+16254226|oakland, ca|2567100798|Error|1|2
+16254226|oakland, ca|0|Error|1|2
+16254226|oakland, ca|19503553|Twitter Vineyard /USA /CANADA|1|2
+16254226|oakland, ca|64955740|Australia|1|2
+16254226|oakland, ca|33299767|New York|1|2
+16254226|oakland, ca|22224939|Hutchinson, MN|1|2
+1592491|oakland, ca|39383128|Error|3|2
+1592491|oakland, ca|16033979|Error|2|2
+1592491|oakland, ca|0|Error|1|2
+1592491|oakland, ca|62581962|Error|1|2
+1592491|oakland, ca|0|Error|1|2
+1592491|oakland, ca|17397962|San Francisco|1|2
+1592491|oakland, ca|4417201|Flyover Country|1|2
+1592491|oakland, ca|0|Error|1|2
+32597513|oakland, california|0|Error|1|2
+32597513|oakland, california|31139787|Oakland, California|1|2
+32597513|oakland, california|5698342|NorCal|1|2
+32597513|oakland, california|353757845|Lagos|1|2
+32597513|oakland, california|30318395|San Francisco, California|1|2
+16283807|oakland, ca|0|Error|1|2
+14205037|oakland, ca|14456297|AMS (formerly NYC + DCA)|1|2
+14205037|oakland, ca|14114434|New York, NY|1|2
+14205037|oakland, ca|14737271|Seattle, WA|1|2
+14205037|oakland, ca|18243006|New York, NY|1|2
+14205037|oakland, ca|20774514|Cambridge, MA USA|1|2
+14205037|oakland, ca|6273502|Missoula,  MT|1|2
+14205037|oakland, ca|90560670|Harvard, MA|1|2
+14205037|oakland, ca|0|Error|1|2
+14205037|oakland, ca|12456402|Africa (mostly)|1|2
+14205037|oakland, ca|14805814|A Moveable Feast|1|2
+14205037|oakland, ca|19869059|Error|1|2
+14205037|oakland, ca|4641021|World Wide Web|1|2
+14205037|oakland, ca|0|Error|1|2
+14205037|oakland, ca|16811636|Detroit, MI|1|2
+16316580|oakland, ca|1702195838|Error|2|2
+16316580|oakland, ca|26418278|Error|1|2
+16316580|oakland, ca|28297742|San Francisco, CA|1|2
+16316580|oakland, ca|25940364|Ulster County, New York|1|2
+16316580|oakland, ca|6643562|Austin|1|2
+16316580|oakland, ca|14231458|Error|1|2
+16316580|oakland, ca|0|Error|1|2
+16316580|oakland, ca|324289926|Error|1|2
+16316580|oakland, ca|40150909|New York|1|2
+16316580|oakland, ca|50677128|Los Angeles, CA|1|2
+68777468|oakland, ca|8453452|Silicon Valley, California|1|2
+68777468|oakland, ca|13734992|Hollywood, FL|1|2
+68777468|oakland, ca|8921852|NY, NY|1|2
+68777468|oakland, ca|0|Error|1|2
+68777468|oakland, ca|0|Error|1|2
+68777468|oakland, ca|816653|San Francisco, CA|1|2
+14259695|oakland, ca|12376|San Francisco|1|2
+14259695|oakland, ca|170800615|Error|1|2
+14259695|oakland, ca|18153494|here, there, everywhere|1|2
+4821041|oakland, ca|0|Error|2|2
+4821041|oakland, ca|44659603|Error|1|2
+4821041|oakland, ca|12139142|Virginia|1|2
+4821041|oakland, ca|0|Error|1|2
+4821041|oakland, ca|33588153|The Land of Oaks|1|2
+4821041|oakland, ca|0|Error|1|2
+4821041|oakland, ca|14005712|Durham, NC|1|2
+4821041|oakland, ca|0|Error|1|2
+4821041|oakland, ca|11974932|Plymouth, Minnesota|1|2
+4821041|oakland, ca|79543|Silicon Valley, CA|1|2
+4821041|oakland, ca|474497524|My own little world|1|2
+4821041|oakland, ca|13919072|California|1|2
+17430627|oakland, ca|19384215|Error|6|2
+17430627|oakland, ca|18625707|Sacramento, CA|1|2
+17430627|oakland, ca|16227133|sacramento, ca|1|2
+17430627|oakland, ca|14219328|Portland OR|1|2
+21638768|oakland, ca|15395206|San Francisco, CA|6|2
+21638768|oakland, ca|0|Error|3|2
+21638768|oakland, ca|16848539|Often L.A.|2|2
+21638768|oakland, ca|21908993|Oakland|2|2
+21638768|oakland, ca|21035409|#firstclass |2|2
+21638768|oakland, ca|0|Error|1|2
+21638768|oakland, ca|0|Error|1|2
+21638768|oakland, ca|20978728|Worldwide|1|2
+21638768|oakland, ca|14522546|Error|1|2
+20604101|oakland, ca|36887288|Brooklyn to Virginia Beach|6|2
+20604101|oakland, ca|54913320|Mendonoma Coast, CA USA|3|2
+20604101|oakland, ca|16083185|Washington, DC|1|2
+20604101|oakland, ca|18673943|Surrey,British Columbia,Canada|1|2
+20604101|oakland, ca|463518504|Error|1|2
+6977972|oakland, ca|4039321|New York, NY|3|2
+6977972|oakland, ca|24233|San Francisco|2|2
+6977972|oakland, ca|13213532|Southern Coast, California|2|2
+6977972|oakland, ca|0|Error|2|2
+16429861|oakland, ca|0|Error|3|2
+16429861|oakland, ca|2388503381|Norwich|1|2
+16429861|oakland, ca|3147925133|Error|1|2
+16429861|oakland, ca|0|Error|1|2
+16429861|oakland, ca|0|Error|1|2
+16429861|oakland, ca|0|Error|1|2
+16429861|oakland, ca|73199227|Error|1|2
+16429861|oakland, ca|0|Error|1|2
+16429861|oakland, ca|0|Error|1|2
+5010731|oakland, ca|14104847|Philadelphia, PA|2|2
+5010731|oakland, ca|71583156|Error|1|2
+5010731|oakland, ca|816812|TO & Airports!|1|2
+5010731|oakland, ca|51235705|San Francisco|1|2
+5010731|oakland, ca|14278989|NYC|1|2
+4916651|oakland, ca|7703052|San Lorenzo, California|2|2
+4916651|oakland, ca|3936|94606 or 94612 or 94804|2|2
+4916651|oakland, ca|9096972|Round Rock, Texas|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|14574055|Boulder, CO|1|2
+4916651|oakland, ca|10422862|Harrisburg, PA|1|2
+4916651|oakland, ca|5822042|Northern California|1|2
+4916651|oakland, ca|0|Error|1|2
+4916651|oakland, ca|7809252|Boulder, CO|1|2
+4916651|oakland, ca|17459392|Washington, DC|1|2
+4916651|oakland, ca|0|Error|1|2
+18549650|oakland, ca|0|Error|1|2
+18549650|oakland, ca|21797761|Los Angeles, CA|1|2
+18549650|oakland, ca|26099658|San Francisco|1|2
+35344526|oakland, ca|0|Error|2|2
+35344526|oakland, ca|24579144|Chicago|1|2
+35344526|oakland, ca|22064080|Error|1|2
+755544|oakland, ca|16881261|Oakland, California|2|2
+755544|oakland, ca|18393773|a bit all over the place|2|2
+755544|oakland, ca|7747592|Portland, OR|2|2
+755544|oakland, ca|42570892|San Francisco, baby!|1|2
+755544|oakland, ca|302351315|Error|1|2
+755544|oakland, ca|9427202|blanket fort with my pitbull|1|2
+15680095|oakland, ca|15648829|Error|3|2
+15680095|oakland, ca|15637445|San Diego|2|2
+15680095|oakland, ca|30967192|Oakland, CA|2|2
+15680095|oakland, ca|49847025|Near earth orbit|1|2
+15680095|oakland, ca|1183041|Los Angeles|1|2
+15680095|oakland, ca|15537391|San Jose, CA, USA|1|2
+15680095|oakland, ca|14377537|Error|1|2
+15680095|oakland, ca|15638513|Neither here nor there|1|2
+15680095|oakland, ca|0|Error|1|2
+19642990|oakland, ca|9676722|Oakland|1|2
+19642990|oakland, ca|18999112|San Francisco|1|2
+19642990|oakland, ca|19112539|BKNY, Oh My|1|2
+19642990|oakland, ca|38961112|In my heart|1|2
+19642990|oakland, ca|196106984|Error|1|2
+19642990|oakland, ca|37060898|San Francisco, Ca|1|2
+19642990|oakland, ca|2355181|SF East Bay |1|2
+19642990|oakland, ca|0|Error|1|2
+19642990|oakland, ca|820585|Brooklyn, NY|1|2
+19642990|oakland, ca|113461221|Error|1|2
+19642990|oakland, ca|14468265|New York, NY|1|2
+19642990|oakland, ca|0|Error|1|2
+19642990|oakland, ca|14166473|New York, NY|1|2
+19642990|oakland, ca|772303807|Error|1|2
+19642990|oakland, ca|14511951|Error|1|2
+19642990|oakland, ca|2272414140|Tanganyika, Califas|1|2
+19642990|oakland, ca|810560|Brooklyn, NY|1|2
+19642990|oakland, ca|0|Error|1|2
+19642990|oakland, ca|14400197|Bay Area|1|2
+19642990|oakland, ca|22233065|las vegas, nv|1|2
+19642990|oakland, ca|16204159|New York City|1|2
+19642990|oakland, ca|10109182|NY, NY|1|2
+19642990|oakland, ca|51333|San Francisco, CA (37.771402,-|1|2
+19642990|oakland, ca|0|Error|1|2
+19642990|oakland, ca|17298532|San Francisco, CA|1|2
+31183219|oakland, ca|0|Error|3|2
+31183219|oakland, ca|0|Error|3|2
+31183219|oakland, ca|0|Error|3|2
+31183219|oakland, ca|0|Error|2|2
+31183219|oakland, ca|33442224|Error|2|2
+31183219|oakland, ca|0|Error|2|2
+31183219|oakland, ca|45252339|Error|2|2
+31183219|oakland, ca|2783002123|Error|2|2
+31183219|oakland, ca|0|Error|2|2
+31183219|oakland, ca|2148620694|Davenport, Ia|2|2
+31183219|oakland, ca|64287307|BACK DOE, CA|2|2
+31183219|oakland, ca|55883634|Sacto|2|2
+31183219|oakland, ca|5342642|Universe |2|2
+31183219|oakland, ca|19329393|New York City, New York|1|2
+31183219|oakland, ca|16292646|Seven Trees, CA (Bay Area) |1|2
+31183219|oakland, ca|19004202|The Bay Area|1|2
+31183219|oakland, ca|23122597|los angeles|1|2
+31183219|oakland, ca|36295280|killafornia|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|26191300|The Bay Area|1|2
+31183219|oakland, ca|562619928|@djscottyfoxx|1|2
+31183219|oakland, ca|23028868|Heaven on Earth|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|20645417|The Bay, CA|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|32780195|charlotte|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|18755291|OAKLAND|1|2
+31183219|oakland, ca|1514133805|Error|1|2
+31183219|oakland, ca|15619260|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|335829932|Error|1|2
+31183219|oakland, ca|33459401|TOWN BIDNESS East Oakland USA |1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|19058681|Los Angeles, California|1|2
+31183219|oakland, ca|382826621|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|24446175|WORLDWIDE MOB FI99A|1|2
+31183219|oakland, ca|3181310064|Error|1|2
+31183219|oakland, ca|16190898|Los Angeles, CA|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|26443848|Error|1|2
+31183219|oakland, ca|24932461|Oakland, California|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|312216232|glasgow|1|2
+31183219|oakland, ca|136084965|Error|1|2
+31183219|oakland, ca|25365536|where I'm meant to be...|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|39586092|Error|1|2
+31183219|oakland, ca|180948159|Error|1|2
+31183219|oakland, ca|18220175|EVERYWHERE!!!|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|2751357734|Error|1|2
+31183219|oakland, ca|322430138|Error|1|2
+31183219|oakland, ca|19940921|The Bay, CA|1|2
+31183219|oakland, ca|35815753|OAKLAND,CA|1|2
+31183219|oakland, ca|19562228|Error|1|2
+31183219|oakland, ca|15084438|NEW YORK CITY!|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|18222378|NYC|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|31336025|INTERNATIONAL|1|2
+31183219|oakland, ca|1498193125|Querer es poder, siempre|1|2
+31183219|oakland, ca|4113241|Error|1|2
+31183219|oakland, ca|30611798|Error|1|2
+31183219|oakland, ca|18228898|New York, NY, USA|1|2
+31183219|oakland, ca|39543324|Bay Area |1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|30327233|#THEBAY|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|759593|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|22208477|Hollywood|1|2
+31183219|oakland, ca|17884382|UK|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|10349922|Oakland|1|2
+31183219|oakland, ca|23453895|Bay Area, CA|1|2
+31183219|oakland, ca|32959253|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|2295136591|Error|1|2
+31183219|oakland, ca|23354862|Bay Area, California, USA|1|2
+31183219|oakland, ca|53191359|NEW YORK|1|2
+31183219|oakland, ca|17608613|Planet Earth|1|2
+31183219|oakland, ca|26106757|Scrapertown, CA|1|2
+31183219|oakland, ca|31429363|United States|1|2
+31183219|oakland, ca|16359560|IM AT WHERE IM AT|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|30590477|Pacific Northwest|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|23392431|BIG CAT/ICE KING OAKLAND/ATL|1|2
+31183219|oakland, ca|15108422|Los Angeles|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|65730655|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|50159115|HARLEM|1|2
+31183219|oakland, ca|25049325|Frisco|1|2
+31183219|oakland, ca|1475500160|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|59943894|In a city near you|1|2
+31183219|oakland, ca|146199486|Error|1|2
+31183219|oakland, ca|8729502|Error|1|2
+31183219|oakland, ca|2578210225|Los Angeles|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|813286|Washington, DC|1|2
+31183219|oakland, ca|60586080|Philippines|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|74780109|Error|1|2
+31183219|oakland, ca|0|Error|1|2
+31183219|oakland, ca|18626783|At the record store|1|2
+31183219|oakland, ca|0|Error|1|2
+778112|oakland, ca|5637652|Bay Area, CA|2|2
+778112|oakland, ca|15023|Warren, NJ|1|2
+778112|oakland, ca|697163|Seattle, WA|1|2
+778112|oakland, ca|90827216|Error|1|2
+778112|oakland, ca|765694|Rancho San Diego, CA|1|2
+778112|oakland, ca|9700652|Knoxville, TN|1|2
+778112|oakland, ca|14149937|Los Angeles|1|2
+778112|oakland, ca|0|Error|1|2
+46932792|oakland, ca|19203998|Error|2|2
+46932792|oakland, ca|44030515|Next door!   |1|2
+46932792|oakland, ca|0|Error|1|2
+46932792|oakland, ca|0|Error|1|2
+46932792|oakland, ca|15642617|Error|1|2
+46932792|oakland, ca|0|Error|1|2
+46932792|oakland, ca|30271748|ATLANTA|1|2
+46932792|oakland, ca|0|Error|1|2
+46932792|oakland, ca|17954379|From NY to Charlotte, NC|1|2
+46932792|oakland, ca|378251206|Pittsburg, TX|1|2
+18625707|oakland, ca|17430627|Oakland, CA|4|2
+18625707|oakland, ca|19384215|Error|3|2
+18625707|oakland, ca|14219328|Portland OR|2|2
+18625707|oakland, ca|0|Error|2|2
+19677312|oakland, ca|19677312|Oakland, CA|2|2
+19677312|oakland, ca|596079721|Error|1|2
+19677312|oakland, ca|18651556|San Francisco, CA|1|2
+19677312|oakland, ca|0|Error|1|2
+14294390|oakland, california|14295713|Oslo, Norway|1|2
+14294390|oakland, california|0|Error|1|2
+14294390|oakland, california|18226574|San Francisco, CA|1|2
+24978333|oakland, ca|158994619|Error|4|2
+24978333|oakland, ca|0|Error|3|2
+24978333|oakland, ca|28706024|los angeles|1|2
+24978333|oakland, ca|161355360|Error|1|2
+24978333|oakland, ca|0|Error|1|2
+74266750|oakland, ca|0|Error|8|2
+74266750|oakland, ca|0|Error|5|2
+74266750|oakland, ca|24719097|City of Angels|2|2
+74266750|oakland, ca|23702397|HARLEM WORLD|1|2
+74266750|oakland, ca|0|Error|1|2
+17646904|oakland, ca|16274613|California|2|2
+17646904|oakland, ca|36528126|Hollywood|2|2
+17646904|oakland, ca|21716650|Oakland, CA|2|2
+17646904|oakland, ca|14203895|San Francisco, CA, USA|1|2
+17646904|oakland, ca|22461427|Los Angeles|1|2
+17646904|oakland, ca|1077971|earthling|1|2
+17646904|oakland, ca|17646904|Oakland, CA|1|2
+17646904|oakland, ca|52625053|Honolulu, Hawaii USA|1|2
+17646904|oakland, ca|19058681|Los Angeles, California|1|2
+50155282|oakland, ca|0|Error|3|2
+50155282|oakland, ca|227765533|Error|2|2
+50155282|oakland, ca|16818600|Error|1|2
+50155282|oakland, ca|43139414|Bristol, Ct.|1|2
+37722131|oakland, ca|8609022|Planet Earth|2|2
+37722131|oakland, ca|13418552|San Francisco|2|2
+37722131|oakland, ca|60256515|Los Angeles, CA|1|2
+37722131|oakland, ca|145007091|Error|1|2
+18148793|oakland, ca|17277598|Los Angeles, CA|1|2
+18148793|oakland, ca|678953|Everywhere|1|2
+15672542|oakland, ca|6843412|Northern Ireland|2|2
+15672542|oakland, ca|8468542|Rantoul, IL|1|2
+15672542|oakland, ca|4672781|Toronto, ON|1|2
+15672542|oakland, ca|17671847|Los Angeles|1|2
+15672542|oakland, ca|0|Error|1|2
+15672542|oakland, ca|0|Error|1|2
+54396008|oakland, ca|0|Error|3|2
+15607662|oakland, ca|31562713|Oakland, CA|2|2
+15607662|oakland, ca|1355741|Oakland, CA #SDCC #NFL Vlogger|1|2
+31337227|oakland, ca|1404951|lost angeles|3|2
+31337227|oakland, ca|63539154|Californee|3|2
+31337227|oakland, ca|0|Error|1|2
+31337227|oakland, ca|55570697|NJ USA|1|2
+31337227|oakland, ca|213648952|Error|1|2
+31337227|oakland, ca|0|Error|1|2
+15616690|oakland, ca|24124706|SF Bay Area|2|2
+15616690|oakland, ca|23832789|Berkeley, CA|1|2
+15616690|oakland, ca|257788783|Error|1|2
+15616690|oakland, ca|22984215|David Brower Center, Berkeley|1|2
+15616690|oakland, ca|15652540|Oakland, CA|1|2
+15616690|oakland, ca|14850083|Philadelphia, Pa. area|1|2
+15616690|oakland, ca|15317770|Oakland, California|1|2
+15616690|oakland, ca|0|Error|1|2
+15616690|oakland, ca|54809628|Oakland, California|1|2
+15616690|oakland, ca|18013831|Portland, OR|1|2
+21915443|oakland, ca|560790290|Error|2|2
+21915443|oakland, ca|0|Error|1|2
+21915443|oakland, ca|14222518|everywhere|1|2
+31364170|oakland, ca|85338334|Error|3|2
+31364170|oakland, ca|0|Error|2|2
+31364170|oakland, ca|2346614509|d.I.S.C.O|1|2
+31364170|oakland, ca|15249156|Los Angeles, CA|1|2
+31364170|oakland, ca|31364170|occupied Duwamish land|1|2
+31364170|oakland, ca|198422630|Error|1|2
+31364170|oakland, ca|7039892|PDX|1|2
+18787771|oakland, ca|0|Error|5|2
+18787771|oakland, ca|0|Error|2|2
+18787771|oakland, ca|21414885|Pittsburgh, PA|2|2
+18787771|oakland, ca|19211835|Oklahoma City|2|2
+18787771|oakland, ca|0|Error|1|2
+18787771|oakland, ca|15226433|Error|1|2
+18787771|oakland, ca|15819292|Japan/NY/LA/Vegas/Detroit|1|2
+18787771|oakland, ca|26094977|Los Angeles/Hawaii|1|2
+18787771|oakland, ca|0|Error|1|2
+18787771|oakland, ca|0|Error|1|2
+18787771|oakland, ca|16734945|Portland, OR|1|2
+18787771|oakland, ca|293490761|USA|1|2
+18787771|oakland, ca|806583126|Error|1|2
+18787771|oakland, ca|14938017|Muskegon, MI|1|2
+18787771|oakland, ca|22382790|Canada|1|2
+18787771|oakland, ca|30707953|Florida|1|2
+18787771|oakland, ca|55444454|Error|1|2
+18787771|oakland, ca|30557334|Santa Clara, CA|1|2
+18787771|oakland, ca|17858706|Seattle Area|1|2
+69123004|oakland, ca|66780605|Error|1|2
+69123004|oakland, ca|18601847|New York|1|2
+24044209|oakland, ca|24044209|Oakland- which isn't near L.A.|3|2
+24044209|oakland, ca|29110313|Error|2|2
+24044209|oakland, ca|20205975|Nr Blackburn, England|1|2
+24044209|oakland, ca|17830944|Los Angeles, CA|1|2
+24044209|oakland, ca|16105942|Philadelphia|1|2
+24044209|oakland, ca|24456250|Gardner, KS|1|2
+24044209|oakland, ca|396453553|Error|1|2
+24044209|oakland, ca|2949289473|sober cinematographer, Leeds|1|2
+51321523|oakland, ca|73812530|Bay/ LA|1|2
+51321523|oakland, ca|57229967|Away From The Publics View .|1|2
+51321523|oakland, ca|19011203|Ontario/Los Angeles|1|2
+51321523|oakland, ca|0|Error|1|2
+51321523|oakland, ca|27814006|Bay Area , CA|1|2
+51321523|oakland, ca|0|Error|1|2
+51321523|oakland, ca|37703655|New York, NY|1|2
+51321523|oakland, ca|17975036|Error|1|2
+51321523|oakland, ca|3173154840|Error|1|2
+15703434|oakland, ca|163132577|Error|7|2
+15703434|oakland, ca|15182686|Alameda, CA|2|2
+15703434|oakland, ca|0|Error|1|2
+15703434|oakland, ca|15624338|NYC/PHILLY|1|2
+15703434|oakland, ca|0|Error|1|2
+15703434|oakland, ca|388493866|UK|1|2
+15703434|oakland, ca|0|Error|1|2
+15703434|oakland, ca|62118550|Omaha, NE|1|2
+15703434|oakland, ca|19321908|Colorado|1|2
+15703434|oakland, ca|15073044|Orlando, FL, USA|1|2
+15703434|oakland, ca|0|Error|1|2
+15703434|oakland, ca|14721630|Oakland, CA|1|2
+15703434|oakland, ca|7336132|Error|1|2
+15703434|oakland, ca|13197872|Whittier, CA USA|1|2
+15703434|oakland, ca|16896400|Oakland, CA|1|2
+15703434|oakland, ca|384641725|Error|1|2
+15703434|oakland, ca|17096992|Phoenix, AZ|1|2

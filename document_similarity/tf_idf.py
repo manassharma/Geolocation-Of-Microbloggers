@@ -11,7 +11,7 @@ def compute_maximum_similarity(input_user_tweets_file):
     tfidf_files = TfidfVectorizer(input='file').fit_transform(user_tweets)
 
     for i in range(1,tfidf_files.shape[0]):
-        similarity_values.append(cosine_similarity(tfidf_files[0], tfidf_files[i]))
+            similarity_values.append(cosine_similarity(tfidf_files[0], tfidf_files[i]))
 
     most_similar_measure = max(similarity_values)
     most_similar_doc_index = similarity_values.index(most_similar_measure)

@@ -3,7 +3,11 @@
     Precision Visualizer
 </title>
 <head>
+<<<<<<< HEAD
     <h1 style = "font-size:40px; color:blue;" align = "center">
+=======
+    <h1 style = "font-size:40px">
+>>>>>>> 0be773a50119884bc601cbab2e8a72df8c38a3fd
         This application visualizes the actual and computed places on a map!
     </h1>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -15,17 +19,29 @@
 </br>
 </br>
 </br>
+<<<<<<< HEAD
 <body style = "background-color:black">
 <label id = "label1" style = "color:blue" align = "left"">Actual Location:</label>
 <input style = "margin:50px" type = "text" id = "inputBox1" align = "middle"/>
 <label id = "label2" style = "color:blue" align = "center">Computed Location:</label>
 <input style = "marging:50px" type = "text" id = "inputBox2" align = "right"/>
+=======
+<body>
+<label id = "label1">Actual Location:</label>
+<input style = "margin:50px" type = "text" id = "inputBox1" align = "middle"/>
+<label id = "label2">Computed Location:</label>
+<input style = "marging:50px" type = "text" id = "inputBox2" align = "middle"/>
+>>>>>>> 0be773a50119884bc601cbab2e8a72df8c38a3fd
 <input type = "submit" id = "button1" value="Get Distance!" onclick = "getDistance()">
 </br>
 </br>
 </br>
 <script type = "text/javascript">
     function getDistance() {
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0be773a50119884bc601cbab2e8a72df8c38a3fd
         var actualLocation = document.getElementById("inputBox1").value;
         var myLocation = document.getElementById("inputBox2").value;
         var service = new google.maps.DistanceMatrixService;
@@ -40,6 +56,7 @@
                 if (status !== google.maps.DistanceMatrixStatus.OK) {
                     alert('Error was: ' + status);
                 } else {
+<<<<<<< HEAD
                     var destinationList = response.rows[0].elements[0].distance.text;
 					var timeForTravel = response.rows[0].elements[0].duration.text;
                     alert("Total Distance between points = "+destinationList+ " time needed by car for travel "+timeForTravel)
@@ -49,3 +66,21 @@
 </script>
 </body>
 </html>
+=======
+
+                    var destinationList = response.rows[0].elements[0].distance.text;
+                    alert(destinationList)
+
+
+
+                }
+            });
+
+
+
+    }
+
+</script>
+</body>
+</html>
+>>>>>>> 0be773a50119884bc601cbab2e8a72df8c38a3fd

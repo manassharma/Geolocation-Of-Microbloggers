@@ -1,0 +1,245 @@
+It is an 11 hour drive from my house to Philadelphia Why did it take me this long to make up my mind to fly to the Conj
+@raganwald @mjlangford It saves me at least an hour of my life 5 days a week
+My first reaction was that MySQL was optimized for beginners Now I think it is designed for people who hate databases
+@clojureconj trying to fill out the survey for which talks I want to go to  Might be easier if you doubled the length and just did 1 track
+@jeremyheiler eventual comprehensibility
+Woo hoo I know what I am doing this evening 
+Datomic Yes I am practically a Tardis  All the reason you need to read Conversations with Datomic 
+@ktcoders Is there anything I should be installing or learning this week to get ready for the training this weekend
+@gigasquid Thats a happy accident
+@jeremyheiler Yep Then my schedule changed I have never more happily paid a change fee
+I know NY area doesnt mean that the airport will actually be IN NY Why didnt I pay attention to which airport when I bought the ticket
+@thepunningman @demmer12 Thats a circular argument
+@ChrisBui said we should be doing bottomup development linking this essay  do people have other good resources
+@caolan @shaunlebron I want to go see it again anyway  Now I have something to look for
+@swannodette well I do have all of those sky miles
+I am looking forward to presenting an Intro to Clojure at the Atlanta Code Camp 
+@mrbbk @swannodette That is terrible
+@airportyh Thanks it was great to watch that again Here is one of my favorites 
+Thank you to all the people who worked to put on @strangeloopstl I cant even express what a great experience it was to attend
+@gigasquid @strangeloopstl woo hoo  See you there
+@jeremyheiler That is a relief to hear
+@adriennefriend every time
+@danbjson @lexicallyscoped @omegapointab Do you recommend reading Continuous Integration before Continuous Delivery
+@adriennefriend I once sat next to a user of software I wrote Hearing her say This system sucks hurt I learned a lot from that
+This weekend I listened to @jessitron on the @cognicast Today I am writing better tests 
+Women of Atlanta dont miss your chance to get started building websites at this free event   
+@swannodette @ktcoders Its only 900 miles tempting
+@kyro @gortok Wow how do you get the amplitude to decrease like that
+@briprowe Sounds like a good day to me
+@adriennefriend is already doing lots for the ATL dev community Help her so she can have more to share 
+@aaroniba @sgrove I could never remember if it was else or default Eventually I realized why both worked
+I am amazed the rate at which @pluralsight produces interesting courses Should I watch Flux or Cassandra first
+@sgrove I was about to say You must be in Atlanta Looking at your profile I guess they must offer that service nationwide
+Rent Path is looking for Sr Clojure devs  100 remote
+@adriennefriend I had no idea email could be such a formal occasion
+@gigasquid Happy Birthday
+Every time 
+@6 @borkdude I never knew what it did but couldnt imagine why I would want to run without it
+@jeremyheiler Congratulations
+@meltar If you are using a hammer you dont need the manual
+@meltar @tholmes Who is having a better day
+@ShawnWildermuth I thought of several responses but no suggestions so I will keep them to my self
+@mrbbk I guess I dont have to ask if you are enjoying the book you are reading 
+@ShawnWildermuth The mall @ New PtreeChambleeDunwoody has Hot Pot Food Court also good Buford hwy is also good for authentic Chinese
+@MarkStringer @otfrom You might get me with Ice Cream cake
+@gigasquid met couple of Ruby devs on a MARTA train Wed Was right before their stop so all I had time for was Theres an atlclj meetup
+@borkdude I am familiar with all of the English words in that posting The ones I cant read cant be that important I should apply
+Thanks @jcrossley3 and @tcrawley for a great presentation on @Immutant 2x last night
+@VesperLangford @mjlangford Welcome
+@gigasquid haha what did you buy
+@ShawnWildermuth This is how I do React 
+@briprowe You talked me into it  Just bought it and it is next on my reading list
+That was my first thought when I heard about the pragprog sale Thanks for the reminder 
+@gigasquid Hah considering the source I was expecting killer robots Should have realized that isnt something you are scared of
+@briprowe Oh you are from NY do you know my friend 
+@mbanzi @lispmeister Well reasoned argument completely the opposite of my intuition Great article
+@VentureAtlanta @GAAtlanta link takes me to a page with a bar at the top and nothing else Tried chrome firefox amp safari
+@mrbbk It is nice that he can work on the train
+conf looks like a lot of fun 
+@jcrossley3 That should be on one of those lists of lifehacks
+@gortok Good idea Unfortunately I am reading over coffee not wine so I am not vowing anything But it is a good idea
+@seancorfield @strangeloopstl Is there a conference hotel I didnt see any mention of it
+7 days left to fund gradual typing in Clojure   
+@jtcummiatl That is pretty neat  There are a group of us working our way through SICP at work  I will have to show them that
+@antiheroine Would it defeat the purpose if we come in from out of town
+I am sure the book is even better but the SICP lectures are one hell of a computer science education 
+@mtrimpe @AnnaPawlicka Thanks for those links  Amazing stuff
+@AnnaPawlicka Cool video The focus and the timing I kept asking is this real Dont know where they got the idea but it was really great
+@hyperlinda @plexus Growing up in upstate NY in the 80s guys was definitely unisex At least now I notice now when I say it progress
+Every once in a while I just stop what I am doing and think Om without cursors  What will that be like
+@jeremyheiler I have the same problem with the HR system at work
+@chrishouser Nice  I think I have only seen through season 7
+@chrishouser Oh no is the series over I have one more episode of Luther and then I was going to look for more Foyles War
+@antiheroine you may have just motivated me to get out more
+@AnnaPawlicka @apkeedle congrats
+@PyLadiesATL Hey thanks for checking 2nd Tuesday of the month for ATLCLJ
+@meltar Seldom are mixed metaphors so disturbing
+@vincentmayers Awesome I wanted to go to that talk but I was at a conference
+I definitely want to check that out 
+@shanselman Only when I miss the escape key
+@kaborso Thats great  Good Luck
+@kaborso Wow  What are you going to study
+I am looking forward to reading this 
+There was so much so good at ClojureWest but this project programming Clojure in other human languages is heroic 
+@cognitect thanks for putting on a great conference
+@dpp At least the kids arrive
+@jtcummiatl I am really looking forward to your presentation about GorillaREPL at the Atlanta Clojure meetup on Tuesday
+@adriennefriend @DjangoConEurope @pyladies That is awesome congratulations
+@gigasquid I wasnt worried until I saw that the first picture on their carousel was the terminator
+swirl is a really good R tutorial  
+@adriennefriend The Atlanta Clojure meetup typically meets the 2nd Tues each month The best place to get info is  
+Great presentation and even better discussion at the Atlanta Clojure meetup tonight
+@gigasquid Instead of explosives couldnt you send in the robots
+@devnexus is finally here I will be talking about the Clojure features that really matter for app developers in Ballroom D at 230
+@bitquabit @gortok At least they know how to take the reservation
+Time to redo my slide deck @swannodette broke my CLJS REPL too complicated slide  devnexus
+@swannodette Ok  If I read the directions it all works just fine
+@swannodette rlwrap java cp cljsjarsrc clojuremain replclj  rlwrap not found for me removing it gabe me a browser repl
+Did someone fix Clojure stack traces Trying to force one for a demo had to divide by 0 inside a go block to get more than a single line
+@jessitron @searls Wow that sounds like a great way to evaluate any metric
+Counting the days until @devnexus
+@jasonbelldata @otfrom Please blog about this
+Just got an email that @devnexus tickets are nearly sold out March is a usually nice in Atlanta You should come visit
+@sehnaoui @mtrimpe Somebody warn @gigasquid
+@gigasquid Looks like a really cool format
+Just got my ClojureWest ticket
+Woo Hoo  I will be speaking at @devnexus
+Exciting to see so many Clojure libraries on the ThoughtWorks radar 
+Yet another error that would have been caught with type checking I Really need to try out coretyped
+Every time I see a mention of the Athens FSharp group I get my hopes up then I realize it is Athens Greece not Athens Georgia
+@EuroClojure Any timeline on when a city for the 2015 conference will be announced
+@gigasquid A far off hope that one day you will have readable error messages is a litmus test to identify Clojure developers
+Just submitted my first ever talk proposal @devnexus
+The example in the first 8 minutes of this talk are all the motivation I need to try @TypedClojure 
+Anyone interested in starting a @paperswelove group in Atlanta
+Thurs a 60 year old told me about a trip her spouse was taking when she could have said husband I was impressed by the subtle inclusiveness
+@samaaron Wow Congratulations
+I had to miss todays last talk at clojureconj and here is is online already   Thanks
+On my way to clojureconj  See you there
+@buwilliams @gigasquid Congrats Buddy  That is really exciting
+Just had my first code change merged into an open source project
+@fogus raises hand
+@mjlangford bah helps if I past the link 
+@mjlangford This is the blog post I mentioned about testcheck
+Looking forward to seeing how @ShowcaseIDX does web development at the Atlanta Clojure meetup tomorrow 
+@AaronIMarcus @ChrChristensen @LatuffCartoons @emeyersson The Berlin wall wasnt to keep people OUT  It was to keep people IN
+@headinthebox Can I use the The Prof ate my homework excuse now
+@gigasquid Thats awesome  I know what my niece is getting for Christmas
+@bodil I got to the part about Ruby being the ideal replacement and decided it must be satire
+@headinthebox For the last derby I kept asking is it over yet I am ok with fighting hard and losing 10
+I wonder if I can get the rest of my team to try out testcheck  
+@BartoszMilewski @bodil Great preface When can I buy the book
+If it werent for the threats against @femfreq I might never have watched any of her videos  Powerful stuff
+@ashedryden @ra We have an opening at 
+@fogus Have you ever lived with cats  They already rule
+Om has reference cursors and I like them  
+@plexus Thanks for getting back to me Great template It is awesome to have such an easy way to set up a browser repl
+@plexus I am having fun playing with Chestnut but I am surprised it does not include coreasync
+@swannodette And in an instant my plans for the weekend have changed
+@kelseyinnis I read yesterday that yall is preferable to guys Funny I made that switch soon after moving to Georgia from New York
+@mrbbk @danmelnick I really like Dicks Picks 29 I will have to listen to 33 today
+2 presentations tonight participating in the Clojure Cup and Instaparse at the Atlanta Clojure Meetup 
+I did the @cognitect Clojure survey  but left out the most important comment Thanks for all you do in the community
+@fogus Yeah sounds good
+@databyte I found myself at a meat market in XiAn China one afternoon The culture shock was too much so I went to pizza hut for dinner
+My team ROCKS clojurecup
+Working hard having fun and learning a bunch clojurecup
+Rested and ready for the home stretch clojurecup
+Wonder how many dead shows I will listen to while coding this weekend  clojurecup
+@cemerick Congratulations
+@anettebgo @PragmaticAndy Cant count the times in my past I wish I could have expressed that Thank you for giving it to me for the future
+@JenniferSmithCo The 1st story is slow If you dont like the 2nd Encyclopedists you probably wont like the whole bookseries
+My nephew graduated from college today and it is freakin awesome
+Thanks @swannodette and @cognitect for the coreasync webinar
+On the top of my shopping list 
+My nephew is making a film 
+@gigasquid Happy Birthday
+@ambrosebs Congratulations
+@gigasquid I am so glad Clojure doesnt have tuples
+Sometime in the last year my mindset shifted from I want to learn how to do X to I want to do X Now I am learning like never before
+style suggestion for Clojure bloggers dont refer all from multiple namespaces in samples Its helpful to see which fns are in which libs
+@cemerick Congratulations
+@lordofthejam As a Bills fan I can think of 31 teams that qualify Maybe our nemesis is Sunday
+Wow Om is on the technology radar 
+in which I discuss math code and Manchester United 
+@mrbbk I think you could make a case for generative testing
+Just wow Datoms constitute a single flat universal relation and there is no other structural component to Datomic @richhickey
+Indexes have a different meaning in datomic @craigandera does a great job explaining them in this talk  
+@gigasquid Thats fantastic Congratulations
+@doctorow @bodil I bought the book a while ago  Now I have a reason to read it
+@BridgetHillyer Do you have a strategy for developing expertise that you recommend
+@gigasquid Geese
+@mrbbk That cannot be done without mutation
+This datomic talk by @richhickey is fantastic 
+Really looking forward to learning about coretyped Tuesday at the Atlanta Clojure Meetup 
+@gigasquid Wow I cant wait to read about what you do with that
+@puredanger Happy Birthday
+Watching older movies from NY always has a hint of sadness when they show the buildings
+I cant wait to start my new job today I will be writing Clojure at RentPath
+I read this whole article about a robot uprising and it doesnt mention @gigasquid once Clearly a cover up  
+I decided to watch ONE episode of 24 Friday evening Now it is Sunday and I have 2 days of twitter to catch up on Where did Saturday go
+@bodil This may be one of those times when you tell a big secret only to find out that everyone already knew 
+@timbaldridge I rewrote my post to avoid the bug and focus on difference between clj and cljs Thanks for pointing it out
+One of my coreasync demos didnt work as expected at the Atlanta Clojure meetup so I spent some time experimenting 
+@cognitect @swannodette Congratulations to you both
+Looking forward to the Atlanta Clojure meetup tonight  
+I cant believe how much more I like baseball when I dont even know the name of the Yankees third baseman
+@otfrom indentation and syntax coloring
+A small coreasync example 
+I have a Clojure job interview this afternoon Please send positive homoiconic immutable thoughts
+@gigasquid 
+I created an very basic Ohms law calculator with Om to see if I could Then I wrote about it 
+@shanselman Public Search found a promo code in a google group Ethical for nonmember to use Then saw same group tweeted it Fair game
+@fogus You are supposed to wait for them to ask  I need to apologize to that Java dev I was talking to last night
+@gigasquid @Hive13 four legs good six legs better
+Great discussion at the Clojure meetup tonight Really exciting to so many Clojure devs in Atlanta
+Atlanta Clojure meetup tonight @jtcummiatl will be doing a presentation on Datomic 
+Future sessions of coding Clojure in public will be held in cafes not bars Recent experience casts doubts on Ballmer peak
+Great demonstration of Clojure macros by @timbaldridge 
+Coding in public Playing with coreasync at The Bird in Dunwoody this evening  for any that want to drop by
+@bodil You wrote an in browser editor with type inference and eval into your slide deck  @amp awesome
+Just bought my ticket to Great Wide Open open source conf in Atlanta next month Still 2 weeks for early reg 
+@jeffdik Whats the plan for the Greenville Clojure meetup this week
+Web Development with Clojure is a really good book  
+@Litag8r I could unfollow and follow a bunch of times if it would help increment the counter
+When doge hits big @bodil will rule us all RT You learn to work fast when reassembling mining rigs because time is literally dogecoin
+@ericnormand Are you going to have that in your web dev videos
+My REPL and I are going to The Bird in Dunwoody this evening Anyone want to hang out for Clojure and beer 
+@gortok George I saw you left the Fool where are you working now
+I posted a Clojure getting started guide for the Atlanta meetup  Any suggestions to improve it 
+@antiheroine It is if you are looking for suggestions of what to do with your chair
+The Huffington Post does a story about the garbage plate Who says the media never covers good news  
+@stuartsierra Thanks a lot for coming to talk to us  It was a great time
+Im taking Machine Learning on @Coursera  ml
+@garannm @angelinamagnum 
+HOCKEY
+The FCC is investigating how TV stations choose news stories to make sure Critical Information Needs are met 
+I realize that due to TiVo I am a few days behind but the ice dancing is fantastic
+Atlanta is ice free this week so join us Tuesday for Parkour Hadoop MapReduce in Clojure  
+@mattpodwysocki It could be worse  Atlanta has winter storms and no Wegmans
+@ShawnWildermuth On the news last night Q In your 35 years with GA Power have you ever seen 1 of ice A Never
+Thank you in advance to emergency responders and power crews working in Georgia
+I wish there were a webcam in the Kroger parking lot I want food but I dont want to fight over parking I guess I will check the fridge
+Looking forward to the Greenville Clojure meetup tomorrow It is for beginners so if you are curious come on out 
+@airportyh Thanks for posting this  I am definitely going to have to get out more
+As much as I loved the multilingual cocacola ad I knew I would hear today how unamerican it was I am disgusted to know I was right
+Why did the Bob Dylan commercial make me sad
+@buwilliams Awesome What did you build
+Textbooks should copy @gigasquid s style  Dropout rates would plummet  
+The times I understand @headinthebox make me really want to overcome the times I dont  
+The Reasoned Schemer is blowing my mind  Repeatedly  1 chapter per weekend seems like a good pace
+@gigasquid I was disappointed last week but thought last night was the best episode of any show I had ever seen
+Om looks great but this tutorial really convinced me that I should be using Light Table  
+Ah there two videos with the same name which is why I didnt notice @bodil s tshirt the first time I watched 
+@nntaleb @farnamstreet Would that be a variation on Tolstoy  Failed people each fail in there own way
+@joyofclojure The lazy quicksort in Ch 6 is worth the price of the book by itself How many lessons in that one function
+Presumably after that a hockey game broke out  
+run r fresh x y  conde    split x pea y    navy x bean y    lcons x lcons y  rreally
+Just watched @gigasquid video Joy of Flying Robots  with my 12 year old niece
+My next project is crunching data in NET with no user interface and I will be the sole maintainer Looks like I get to play with F
+Just got my ticket to @devnexus Last day for early bird  I need to stop procrastinating   someday
+Youtube with TiVo nice now that I can select videos with my laptop but I cant watch lectures on R except when I have the place to myself
+Calling a function is like giving it a hug with parentheses  from the Clojure Koans
+Flashback copying BASIC programs from magazines into an Atari 400  Now I am retyping @swannodette s code trying to learn Om
+Great time at @RobotsConf Thank you organizers presenters and guides Thanks  @LeapMotion @sparkdevices and @BloombergNews for the cool toys

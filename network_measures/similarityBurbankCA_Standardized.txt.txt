@@ -1,0 +1,2 @@
+Average similarity value for BurbankCA_Standardized.txt is : 0.316363636364
+Most frequent similarity value for BurbankCA_Standardized.txt is : [(0.2, 16), (0.3, 14), (0.4, 9), (0.5, 8), (0.1, 5), (0.6, 2), (0.7, 1)]

@@ -1,0 +1,602 @@
+30017318    2474727876     Colorado Springs, CO
+30017318    18953232     Oregon
+30017318    16075148     Englewood, CO
+30017318    374341422     San Diego, CA
+30017318    28283473     New York, NY
+30017318    16785615     United States
+30017318    30237426     worldwide
+30017318    19695950     New York City
+30017318    279670518     Seattle, WA
+30017318    52104913     
+30017318    60727036     New York, NY
+30017318    14769365     New York 
+30017318    32530653     Los Angeles, CA
+30017318    73702860     Hauula, HI
+30017318    121234113     Pioneer Square, Seattle, WA
+30017318    39383798     Seattle, WA
+30017318    14847894     Nashville, TN
+30017318    14690233     Chicago, IL
+30017318    25589776     
+30017318    24055177     
+30017318    92495081     seattle
+30017318    15984028     Ladera Ranch, CA
+30017318    18512478     Everywhere
+30017318    75022710     Huntsville, AL
+30017318    16207185     Los Angeles + Anywhere
+30017318    17797448     Boston, Massachusetts
+30017318    14706837     Chapel Hill, NC
+30017318    17088407     Los Angeles, CA.
+30017318    40075688     San Francisco
+30017318    23016245     The South
+30017318    14081542     fullerton - orange county, ca
+30017318    53160925     Orange County
+30017318    6242522     Paris, France
+30017318    35582189     Los Angeles
+30017318    14799728     iPhone: 38.230901,-85.707859
+30017318    89755402     Everywhere
+30017318    17059956     
+30017318    205836698     Los Angeles
+30017318    40282921     Seattle, WA
+30017318    49882420     Norman, Oklahoma
+30017318    15856080     Seattle
+30017318    190510352     Seattle, WA 
+30017318    210700895     
+30017318    8466192     Mckinney, Texas
+30017318    106837463     San Francisco, CA
+30017318    37855521     seattle, wa
+30017318    39601084     new york, ny
+30017318    24007168     Seattle, WA
+30017318    14126950     the pacific northwest
+30017318    20416375     Richland, WA 
+30017318    34389455     
+30017318    48708753     New York
+30017318    166632526     
+30017318    41494651     Arizona
+30017318    16124193     Seattle, WA
+30017318    16001206     Anywhere my camera takes me.
+30017318    189233076     
+30017318    19421455     Washington
+30017318    18545292     Minneapolis
+30017318    20986442     Seattle, WA
+30017318    23775898     United States
+30017318    9022852     Wilmington, NC
+30017318    21505346     Austin, TX
+30017318    18452253     Eagan, MN
+30017318    14621504     
+30017318    34982402     Iowa
+30017318    17771537     5470 W 84th St. Indianapolis
+30017318    14535152     St. Louis, MO 
+30017318    19397785     
+15603079    1544367750     
+15603079    39522692     London, UK
+15603079    8963722     San Francisco, California
+15603079    33967252     
+15603079    574913601     Alberta
+15603079    557688029     Bothell, WA
+15603079    928490268     
+15603079    27281534     Seattle
+15603079    19596074     Toronto
+15603079    68328922     Seattle
+15603079    3080761     Bay Area, California
+15603079    20536157     Mountain View, CA
+15603079    8695992     Galloway, NJ
+15603079    4816     San Francisco, CA
+15603079    18576537     Israel
+76154375    23993598     Los Angeles, CA, USA
+76154375    41007012     
+76154375    8164072     India
+76154375    19682808     Hollywood, CA
+76154375    35927341     
+76154375    56369184     
+76154375    45926542     
+76154375    14778445     Bangalore, Seattle
+76154375    29983802     Dubai, Dubai, United Arab Emir
+76154375    51201307     Heaven
+76154375    67262743     
+76154375    19093550     India
+76154375    41549052     
+76154375    10961682     Mumbai, India
+76154375    56715082     New York, NY
+76154375    46568089     
+76154375    6732342     
+76154375    18288362     New Delhi, India
+76154375    16507391     India
+76154375    16540502     Los Angeles, CA
+76154375    15917485     Atlanta
+76154375    28233921     US
+76154375    30341213     Lemesos / Limassol, Cyprus
+76154375    18033062     Santa Monica, CA
+76154375    17135313     New York, NY
+20951221    123268464     The Mountains
+20951221    446441901     Beebe, AR
+20951221    708635978     
+20951221    177551177     A beach...anywhere...
+20951221    46805913     Tulsa, OK
+20951221    400188586     Orem, Utah 
+20951221    16263806     Huntsville, AL
+20951221    199155913     Chicago, IL USA
+20951221    261944315     Global
+20951221    30720383     London, Toronto, etc.
+20951221    578992077     Lake District, England
+20951221    20789234     Denver, Colorado
+20951221    400100044     California
+20951221    723266917     Los Angeles
+20951221    406705025     Arizona, USA
+20951221    448405703     Chicago
+20951221    16481074     Southern California
+20951221    481753231     Saint Paul, Minnesota
+20951221    455430915     St. Paul, MN
+20951221    532462001     Telford, PA, USA
+20951221    540246624     California
+20951221    36910746     London
+20951221    218293776     
+20951221    587790101     Minnesota, USA
+20951221    54433272     Puyallup, WA
+20951221    379876837     Phoenix, AZ
+20951221    56075873     usa - Seattle
+20951221    166460053     Southend-on-Sea, Essex, UK
+20951221    546957871     
+20951221    629590371     India
+20951221    22100978     Hershey, PA
+20951221    724461674     
+20951221    18551102     Zurich
+20951221    584420601     
+20951221    45350509     
+20951221    401748072     
+20951221    619819608     
+20951221    15203873     Albuquerque, New Mexico
+20951221    629912886     Mount Pilot, North Carolina
+20951221    250019655     Sydney, Australia
+20951221    322136465     Albany, NY
+20951221    362842628     Ireland
+20951221    527712709     United Kingdom
+20951221    782190498     Oudenaarde
+20951221    635802019     
+20951221    46039590     Phillipines
+20951221    18343779     Sydney, Australia
+20951221    211204221     Beverly Hills
+20951221    125407470     New York City
+20951221    43127414     Tucson, Arizona
+20951221    185724748     Miami, FL
+20951221    152850954     Southern CA, USA
+20951221    18997466     Atlantic City and Across the C
+20951221    116695513     Atlanta, GA
+20951221    103961294     Malibu, California
+20951221    18062227     
+20951221    60321100     Indianapolis, IN
+20951221    205224960     
+20951221    195788313     Minsk, Belarus
+20951221    28395626     Cardiff, United Kingdom
+15079315    58166411     Palo Alto, CA
+15079315    108701082     Carrollton, TX
+15079315    305141546     New York City
+15079315    2612620524     
+15079315    25589776     
+15079315    8983712     Colorado | Worldwide
+15079315    14282169     New York City, New York
+15079315    10774652     New York, NY
+15079315    32166535     New York, NY
+15079315    55460477     Atlanta, GA
+15079315    1576798711     
+15079315    98701523     Lake Forest, CA
+15079315    250176401     
+15079315    2165703715     
+15079315    335804558     Seattle Wa
+15079315    34542919     
+15079315    85024602     Salt Lake City
+15079315    316613503     Medford, Oregon
+15079315    17093617     Vancouver, Canada
+15079315    19362341     Los Angeles, CA
+15079315    427142698     
+15079315    227024341     Washington DC
+15079315    17788593     Los Angeles +
+15079315    59959530     
+15079315    27175009     
+15079315    24252817     Los Angeles
+15079315    27960003     Pembroke Pines, Fl
+15079315    14453529     Nashville by way of Seattle
+15079315    230677731     Seattle
+15079315    1439618964     Seattle
+15079315    257785668     Colorado
+15079315    18452743     Ozark & Springfield, MO
+15079315    19356314     Springfield/ Ozark
+15079315    142891467     
+15079315    17666119     Springfield, Missouri
+15079315    349846222     Minneapolis
+15079315    462156189     
+15079315    19191229     
+15079315    533447169     Vancouver, WA
+15079315    1297396778     
+15079315    154717863     Tulsa, OK
+15079315    132955370     
+15079315    21571252     Seattle
+15079315    17995566     Vista, CA
+15079315    783763632     Dallas, Texas
+15079315    17082078     Los Angeles 
+15079315    400108710     KEEP LOOKING FOR WALDO
+15079315    240825918     Hollywood
+15079315    394354696     
+43263615    93919739     WA
+43263615    65075704     Bellevue, WA
+43263615    25570733     Bellevue, Washington
+16654030    16281313     Gainesville, Florida
+16654030    14999880     Seattle, WA
+16654030    6173842     Seattle, WA
+16654030    273197054     San Francisco
+16654030    482431052     Mercer Island, WA, USA
+16654030    17428272     Greenbelt, MD
+16654030    15493365     Glencoe, Illinois
+16654030    41172828     Dublin, Ohio
+16654030    75036125     Colorado 
+16654030    184946373     Brisbane
+16654030    17088878     Eureka, CA
+16654030    116490969     Corona, CA
+16654030    87950138     
+16654030    64056634     
+16654030    40532655     Northern KY
+16654030    26530389     Minneapolis/St. Paul
+16654030    24396366     Loveland, CO
+16654030    10814     You Can Change YOUR World
+16654030    161680142     The Garden Of Aden
+16654030    157064834     Connecticut
+16654030    38934178     Topanga Canyon, CA
+16654030    25818363     Wi Zone 5 -Appleton Fox Cities
+16654030    34445110     Evanston IL
+16654030    13532012     Bethesda MD
+16654030    17070233     Atlanta, GA, SE US
+16654030    66778072     U.S.
+16654030    59340495     Pennsylvania
+16654030    162736631     Indianapolis, IN
+16654030    79241219     32 Locations in California
+16654030    24184448     Little Rock, Arkansas
+19924665    1143465535     
+19924665    588073719     
+19924665    601320686     
+19924665    375266631     
+19924665    129900508     
+19924665    374212227     
+19924665    299434664     New York City 
+19924665    2339234808     
+19924665    20474254     Tulsa, OK
+19924665    36117822     Dallas, Texas
+19924665    753937466     
+19924665    2350417981     
+19924665    28880710     Dothan/Montgomery, AL
+19924665    21254634     Seattle, Washington
+19924665    25126565     Seattle
+19924665    15485441     New York, New York
+19924665    2387535084     Great Falls
+19924665    3164887302     Federal Way & Mill Creek, WA
+19924665    1726452606     
+19924665    2571637916     
+19924665    49499023     Seattle
+19924665    55667299     Federal Way, WA
+19924665    175941563     Yakima, Wa
+19924665    182569914     Seattle, WA
+19924665    53513975     
+19924665    39897563     Mercer Island, Washington
+19924665    29182084     
+19924665    1377493736     
+19924665    15416505     Little Rock, Arkansas
+19924665    44945327     
+19924665    23387352     city of angels...
+19924665    393782137     Denver, CO
+19924665    19566101     Los Angeles, CA
+19924665    37964921     
+19924665    77254053     Texas
+19924665    16244272     Henderson & Las Vegas, NV
+19924665    15395661     
+19924665    15588423     
+19924665    15443159     Seattle, WA
+19924665    31540671     New York, NY
+19924665    62567936     
+19924665    523743624     Fed Way
+19924665    36070676     Bellevue, WA, USA
+19924665    712205820     Bloemfontein,South Africa
+19924665    261829327     FedWay
+19924665    63923796      Monroe, WA
+19924665    8559342     Nashville, TN
+19924665    149739270     
+19924665    20328809     Miami, FL
+19924665    22972842     College Park, Georgia
+19924665    24693319     Los Angeles,California
+19924665    152341346     
+19924665    274036440     Sacramento, CA
+19924665    20355992     Seattle, WA
+19924665    451590488     Seattle, WA
+19924665    2180650076     
+19924665    29412312     Forest Park, IL
+19924665    83069895     Yakima, WA
+19924665    58163296     Changes daily
+19924665    204417294     Lisboa
+19924665    195785570     
+19924665    1343486720     
+19924665    64254324     
+19924665    355211981     1100 Glendale Blvd. LA, CA
+19924665    20481743     Phoenix, AZ
+19924665    26410604     Kirkland, WA
+19924665    21632108     Mt. Juliet, TN
+19924665    29127857     San Diego, California
+19924665    69493608     Dallas, TX
+19924665    37503136     Portland, OR
+19924665    40972872     Mesa, AZ
+19924665    74791999     Bagdad, Florida
+19924665    15853875     Raleigh, NC
+19924665    48468167     Dallas...the heart of the city
+19924665    34867508     England, United Kingdom
+19924665    219384512     
+19924665    19260374     Grapevine, TX
+19924665    20202518     Lakeland, Florida
+19924665    36483901     Vancouver, BC
+19924665    20280308     Los Angeles
+19924665    79102550     Switzerland
+19924665    16365417     Austin 
+19924665    151986771     Concord, CA
+19924665    15225950     Seattle, Washington
+19924665    373035398     
+19924665    314553314     
+19924665    300971297     Enumclaw, WA
+19924665    254375869     Melbourne, Australia 
+19924665    41636576     Marysville Washington
+19924665    1177383901     
+19924665    31890687     Tucson, AZ
+19924665    85923114     Washington
+19924665    21380104     Seattle
+19924665    316865635     Los Angeles
+19924665    25640309     Dallas, TX
+19924665    32150862     Dallas, TX
+19924665    36201174     Leesburg, FL
+19924665    20934829     
+19924665    34847330     Las Vegas, NV
+19924665    592434464     
+19924665    16570573     North Carolina
+19924665    16352440     Jacksonville, Florida
+19924665    33759078     
+19924665    168760960     
+19924665    335203794     Ewa Beach, Hawaii
+19924665    30934246     Tulsa, OK
+19924665    16835256     Lima, Peru
+19924665    42417039     Gainesville, FL
+19924665    135451341     Stoneridge Centre, Greeenstone
+19924665    286826990     Phoenix, AZ
+19924665    21192884     Miami Fl.
+19924665    714644120     Woodland Hills, CA
+19924665    431275369     Dallas
+19924665    26483706     Charlotte, NC
+19924665    37415357     Orlando Florida 
+19924665    39514270     The right place...Worldwide
+19924665    23150981     Alexandria LA (or plane to ??)
+19924665    174729837     Moscow, Russia
+19924665    202980291     Seattle WA 
+19924665    106861422     Birmingham, AL
+19924665    23584953     New York City
+19924665    32875790     Up Here
+19924665    551891862     
+19924665    282677425     Dallas, Texas
+19924665    19600921     Atlanta
+19924665    334919269     El Paso 
+19924665    36316716     Auckland. NZ
+19924665    14956667     Las Vegas and Orange County
+19924665    16195167     Birmingham, Alabama
+19924665    77365550     
+19924665    121462767     Phoenix, AZ
+19924665    87034433     Indio, ca
+19924665    15373100     Oklahoma City, OK
+19924665    304736996     West Covina, CA
+19924665    22230280     Sydney, Australia
+19924665    417493796     Sayreville, New Jersey
+19924665    44510259     Jakarta
+19924665    543628196     
+19924665    19739121     Texas, USA
+19924665    16935905     Los Angeles
+19924665    18170890     New York
+19924665    189315742     New York, NY
+19924665    63192527     Global
+19924665    453204615     
+19924665    67492430     www.gracechurchlive.com
+19924665    378910619     Seattle, WA @cfcSeattle
+19924665    23273690     Oklahoma City, OK
+19924665    75805556     
+19924665    72933401     Dallas/Fort Worth, Texas
+19924665    15021824     Pre: 33.5345488,-101.92209
+19924665    169827326     
+19924665    73402979     
+19924665    50044510     
+19924665    19051864     Always Somwhere
+19924665    25917291     Nashville, Tennessee
+19924665    16122551     Tulsa
+19924665    16340018     Sydney, Australia
+19924665    17593694     Houston, TX
+19924665    22309791     Hollywood, CA
+19924665    25203449     Kailua Kona, Hawaii
+19924665    15953477     Oklahoma City
+19924665    21626248     
+19924665    12084422     
+19924665    15055242     
+19924665    20622698     
+19924665    15356933     Federal Way and Mill Creek, Wa
+19924665    70893837     Federal Way & Mill Creek
+19924665    11808732     Washington state
+19924665    45891504     El Paso, Texas
+19924665    46979986     Orlando, Florida
+19924665    26049651     Frisco, TX
+19924665    35701503     Jakarta, INDONESIA
+19924665    8541982     Maple Valley, WA
+19924665    39909283     Vancouver, WA. 
+19924665    45011095     Fort Worth, Texas
+19924665    57989594     
+19924665    213961131     Mill Creek, WA
+19924665    20545055     
+19924665    179210580     
+19924665    14066413     Houston, TX
+19924665    281696129     Tulsa, Oklahoma 
+19924665    15395642     Tulsa, Oklahoma
+19924665    18060584     
+19924665    43703516     Singapore
+19924665    22000517     
+19924665    360787240     Houston, Texas
+19924665    16004393     
+19924665    19555152     Online at
+19924665    34982142     Canada
+19924665    15809249     St. Louis, MO
+19924665    16614663     Los Angeles, CA, USA
+19924665    460902780     Lovin' the sun in Arizona!
+19924665    47475621     Nashville, TN
+19924665    5577902     I live in the State of Grace
+14200945    82364810     Cambridge, MA
+14200945    1959146485     San Francisco, CA
+14200945    3431864655     Philadelphia
+14200945    15933312     Toronto, you guys.
+14200945    2898869350     Grand Rapids
+14200945    8443982     Seattle,WA 
+14200945    3741680838     San Francisco, CA
+14200945    397455346     Troy, NY
+14200945    1197619002     A White Room
+14200945    15051820     San Jose
+14200945    231756759     Berlin
+14200945    1445174156     Brooklyn, NY
+14200945    16956955     Los Angeles
+14200945    2251623492     
+14200945    3029301963     The Indeterminate Future
+14200945    2230528244     Almere, the Netherlands
+14200945    23034673     
+14200945    152034528     Freedonia
+14200945    3399591687     Out of Bounds
+14200945    14315023     
+14200945    278523798     Third cubicle on the right.
+14200945    3359967291     
+14200945    1605     SF
+14200945    12     
+14200945    3285680335     
+14200945    3282828716     
+14200945    24227674     Palo Alto, CA
+14200945    2468699718     California
+14200945    1305940272     SF, Vancouver & Dublin
+14200945    19040598     New York 
+14200945    2987598990     
+14200945    14069034     Pittsburgh
+14200945    18518096     everywhere
+14200945    74580436     Cupertino, CA 
+55096910    150525677     Bellingham, WA
+55096910    76390925     The Bellingham Herald
+55096910    185073526     Bellingham, Washington
+55096910    145729918     Deming WA
+55096910    151758429     Bellingham, WA
+55096910    193740744     Bellingham Washington
+55096910    28154771     New York, New York USA
+55096910    71638335     
+55096910    215183838     Salt Lake CIty, Utah
+55096910    222613280     Bellingham, WA
+55096910    44136355     Bellingham, Washingon
+55096910    242596530     Bellingham, WA
+55096910    245883604     Washington
+55096910    260613211     Bellingham WA
+55096910    64560288     Bellingham, WA
+55096910    276349705     Bellingham, WA
+55096910    253656428     Bellingham, WA
+55096910    37717762     Bellingham, WA
+55096910    249525022     Bothell
+55096910    15718356     Bellingham, WA  USA
+55096910    19667772     iPhone: 48.770489,-122.488174
+55096910    18229569     Seattle
+55096910    18811918     Bellingham, WA
+55096910    131408346     
+55096910    85972102     Bellingham, Washington
+55096910    36701284     Bellingham, WA
+55096910    20298945     Seattle, WA
+55096910    83890340     Nationwide
+55096910    110926650     Bellingham, WA
+55096910    52889691     Snohomish
+55096910    117312537     Blaine, WA USA
+55096910    123939156     Bellingham, Washington
+55096910    30272395     Bellingham, WA
+55096910    59830959     Bellingham WA
+55096910    45421972     Bellingham, WA
+55096910    125747834     Bellingham, WA
+55096910    17876581     Bellingham
+55096910    16423067     Bellingham, WA
+55096910    16299398     San Diego, CA
+55096910    14737536     Tampa/Nashville
+55096910    16118882     iPhone: 45.664630,-118.766584
+55096910    18210106     Blaine, wa
+55096910    19568569     Bellingham, Washington
+55096910    19471864     Pacific Northwest
+55096910    20413287     Bellingham, Wa
+55096910    17008102     Bellingham, Washington
+55096910    24065746     
+55096910    20786180     Bellingham, Washington
+55096910    17085964     Palos Verdes Estates, CA 90274
+55096910    21169748     Bellingham, WA
+55096910    49681067     Ferndale, WA
+55096910    14770700     Bellingham, wA
+55096910    63830313     Lynden, Washington, USA
+55096910    73246709     Washington, Bellingham
+55096910    79013339     
+55096910    18699053     Lynden, WA
+55096910    55747611     
+55096910    82147152     Fairhaven
+55096910    21379262     Bellingham, WA
+55096910    43649498     Pacific Northwest
+55096910    66491746     Seattle, WA
+55096910    17332240     Yakima, WA
+55096910    14120151     Cities worldwide
+55096910    73156191     Bellingham, WA
+55096910    33137136     Austin, TX
+55096910    32683254     
+55096910    18624666     Bellingham, Washington
+55096910    29743182     Bellingham, WA - USA
+55096910    35832475     Anacortes, WA
+55096910    76827001     Bellingham, WA
+55096910    15897776     Bellingham WA
+55096910    18703939     Bellingham, WA
+55096910    20177349     Bellingham, WA, USA
+55096910    37435873     Bellingham, WA, USA
+55096910    58585169     Blaine, WA
+55096910    47165015     Bellingham,WA
+55096910    78724723     1300 Bay St Bham WA 98225
+55096910    32420073     Bellingham, WA
+55096910    50207966     
+55096910    75091026     1155 N. State Street
+55096910    20122865     Bellingham
+55096910    62303072     U.S.
+55096910    76131822     Washington
+55096910    59693791     Bellingham, WA
+55096910    20269820     Nashville, TN
+55096910    59502140     Whatcom County, WA
+55096910    20647026     Whatcom County, WA
+55096910    73312502     Bellingham, WA
+55096910    55419339     Whatcom County, WA
+55096910    26579651     Bellingham, Washington
+55096910    55580527     Bellingham, WA
+55096910    9689322     Bellingham, WA
+55096910    19834615     Bellingham WA
+55096910    44488692     Bellingham, Washington
+55096910    21220846     Bellingham, WA
+55096910    29297251     Seattle area
+55096910    63760097     Seattle, Bellingham & Lynden
+55096910    34989607     Bellingham, WA
+55096910    17077093     Las Vegas, NV
+55096910    33690904     1501 12th Street, Fairhaven
+55096910    46447367     Bellingham/Whatcom County, WA
+55096910    29289027     Bellingham, Washington
+55096910    27970990     Bellingham, WA
+55096910    20037231     Bellingham, WA
+55096910    23108272     Bellingham,WA
+55096910    43389529     Bellingham, Washington
+55096910    17493531     
+55096910    17550174     Bellingham, WA
+55096910    55689600     Seattle, WA
+55096910    54935710     Bellingham, WA
+55096910    73248717     Bellingham
+55096910    14608899     Seattle, WA
+55096910    40100709     San Diego, CA
+55096910    22390716     Bellingham, WA
+55096910    14926825     Bellingham, Wash.
+55096910    58913914     Bellingham, WA
+55096910    23510858     48.280801,-122.414155
+55096910    35136205     Seattle WA
+55096910    25596335     La Crosse, WI
+55096910    23035057     Ferndale, WA & Westlake, LA
+20495742    2300715309     Boston
+20495742    392908948     Seattle, WA
+20495742    14703036     Iowa City, IA

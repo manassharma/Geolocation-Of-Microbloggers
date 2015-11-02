@@ -1,0 +1,484 @@
+32768037    20689265     Llanymynech
+32768037    47545233     
+32768037    19992063     
+32768037    16507871     Carson City, Nevada
+32768037    5763262     San Francisco
+32768037    15224867     New York
+32768037    55009164     New York
+32768037    26548315      New York
+32768037    27901418     Washington, DC
+32768037    12685742     Manhattan / North Bergen, NJ
+32768037    22587869     Hong Kong
+32768037    87036422     PetVille
+32768037    27057013     UK
+32768037    99511811     India
+32768037    31891798     Houston
+32768037    80608027     Toronto
+32768037    17415455     L.A., Oaktown & Grand Rapids
+32768037    16953794     edmonton, alberta
+32768037    54356929     Tucson, AZ
+32768037    92917485     California
+32768037    17311609     Halifax 
+32768037    15914878     New Zealand
+32768037    3916831     Marietta, GA
+32768037    96206753     
+32768037    14154581     Audubon PA
+32768037    18343099     Worldwide
+32768037    84280070     Web
+32768037    12768092     bakersfield, california
+32768037    20191661     Aberdeen
+29100810    14888330     LA LA Land
+29100810    30364057     state of Palestine 
+29100810    30991884     Los Angeles, CA
+44175158    44257521     Austin, Texas
+44175158    10985382      San Antonio, TX, USA
+44175158    87403396     Los Angeles, CA
+44175158    99838316     USA-AUS
+44175158    24840127     BACK TO THE WOODS
+44175158    374822255     New York City, NY
+44175158    19629138     Gabon
+44175158    20114002     Austin, TX
+897    431907549     Twitter
+897    51373     Herriman, Utah
+897    14288966     Sydney, Australia
+897    404162401     Amsterdam, NL
+897    118199605     San Francisco
+897    4711     The Transbay Tube
+897    12     
+897    571202103     San Francisco, CA, US
+897    65739266     SF and Austin
+897    46800814     Herndon, VA
+897    17503180     San Francisco, CA
+897    926981     Burlingame Volunteer Living
+897    3839     New York, NY
+897    14002612     Stowe, VT, USA
+897    22922889     Oregon
+897    5530002     Hanover, NH
+897    1224891     Leander, Texas
+897    276074805     A City Near You!
+897    28961865     
+897    8940312     Portland, Oregon
+897    777908     44.013439,-91.629945
+897    21716275     Portland, OR
+897    164134567     Chicago, IL
+897    281223516     San Francisco, CA
+897    293601824     Espetus, San Francisco, CA
+897    52248110     San Francisco, CA
+897    477898117     Westchester, NY
+897    499275959     San Francisco, CA
+897    490928022     
+897    202395038     San Francisco, CA
+897    507188084     Atlantic Ocean
+897    545708579     
+897    823129     Denver for 20 years, now KC.
+897    200456962     San Francisco, CA
+897    14166065     San Francisco, CA
+897    243284052     Los Angeles, CA
+897    133824534     San Francisco, CA
+897    491695202     Charlotte Baby!
+897    462845102     Austin, TX
+897    7383672     Oakland, California
+897    611823     San Francisco, CA
+897    11020722     State College 
+897    12533     Austin, Texas 
+897    1809041     San Marcos, Texas
+897    785133     Manalapan, NJ
+70506827    1183982923     
+70506827    1889268530     Fort Bend County
+70506827    2881361658     Duncanville, Texas 
+70506827    1113343482     Houston, Texas
+70506827    199024145     
+70506827    218670377     Houston TX
+70506827    868125350     Houston, TX
+70506827    306552878     
+70506827    407513321     
+70506827    75639094     The Woodlands, Texas
+70506827    70404137     Spring, Texas
+15194469    39857635     USA
+15194469    24253126     Chattanooga, Tennessee
+15194469    560021678     Eugene
+15194469    3118261313     
+15194469    48319933     Lake Toxaway, N.C.
+15194469    747946999     Los Angeles
+15194469    3593192241     Aiken, SC
+15194469    2298766638     
+15194469    1944122346     
+15194469    3181109376     Colorado, USA
+15194469    2395011366     Bethel SPRINGS,TN
+15194469    733144520     Minneapolis, MN
+15194469    592923638     Essex, UK
+15194469    393063928     United Kingdom (based)
+15194469    2416547862     
+15194469    15166145     Dallas, TX
+15194469    2315461052     Houston, TX
+15194469    263096487     UK, USA, Canada, Australia, NZ
+15194469    114436514     England, United Kingdom
+15194469    1858278324     Orlando, Florida
+15194469    9547222     Exotic Salt Lake City, UT
+15194469    2409894007     
+15194469    125533937     Miami Florida
+15194469    2827109622     
+15194469    3677799867     
+73128325    2402243905     
+73128325    353735225     
+73128325    20166540     TX, OK, GA and CA
+73128325    2902149661     Austin, Tx
+73128325    15535851     Austin, TX
+73128325    475552872     Texas, Colorado
+73128325    23770875     Austin, Texas
+73128325    23364487     Austin, TX
+73128325    2319254008     Nashville, TN
+73128325    1148611514     
+73128325    2618269508     Austin
+73128325    19412816     Austin, TX/Greensboro, NC
+73128325    131993447     Austin, TX
+73128325    55358683     Austin, TX
+73128325    2297438054     Austin, TX
+73128325    3018690980     
+73128325    849709783     Austin, TX
+73128325    236710210     Austin, Texas
+73128325    91360419     Austin, Texas
+73128325    38366319     Austin, TX
+73128325    789574957     
+44292662    65289126     Los Angeles
+44292662    325832193     
+44292662    1137700339     Los Angeles
+44292662    1323187164     
+44292662    627643923     Los Angeles
+44292662    130491582     
+44292662    19029137     Malibu, CA
+44292662    18396070     Los Angeles, CA
+44292662    90420314     Manhattanland
+44292662    104969057     London, UK
+44292662    602317143     
+44292662    15227791     Los Angeles, CA
+44292662    128956175     Mostly Los Angeles
+44292662    237845487     Broadway - New York, NY
+44292662    5162861     
+44292662    709226545     Los Angeles, CA
+44292662    25520720     
+44292662    197496743     
+44292662    2207987545     
+44292662    1486879447     San Francisco
+44292662    998311658     San Francisco, CA
+44292662    34740131     
+44292662    2173279256     USA
+44292662    124272846     
+44292662    93454995     uk
+44292662    25365907     New England
+44292662    17995951     
+44292662    2185362503     
+44292662    109308915     Connecticut
+44292662    14669722     Royalton, Vt 05068
+44292662    235288656     Houston
+44292662    92678118     
+44292662    127396703     Atlanta, Ga
+44292662    23627555     Somewhere NE of Houston, TX
+44292662    48086986     Spring
+44292662    43870963     
+44292662    30618167     NEW ORLEANS
+44292662    29295180     Goodlettsville, TN
+44292662    15222932     Katy, TX
+44292662    55299527     
+44292662    53267255     Asbury Park, NJ
+44292662    58738441      
+44292662    60407529     California
+44292662    41696922     
+44292662    52290073     
+44292662    64091469     
+44292662    56753006     Albany, NY
+44292662    65333153     
+44292662    14438417     Orlando, FL
+44292662    69560446     
+44292662    74487382     
+44292662    80215905     
+44292662    80484805     The United States of America
+44292662    59344028     Cortez, CO
+44292662    82665099     To many to visit in a year!
+44292662    41420669     Jacksonville, FL
+44292662    84601095     Ontario, Canada
+44292662    90065540     North Pole
+44292662    18125898     San Diego, California
+44292662    91903509     Chicago, New Mexico, & WA
+44292662    41704564     Los Angeles
+44292662    101605197     uk
+44292662    31383845     
+44292662    82873985     
+44292662    95536607     Miami, FL
+44292662    76971665     Iowa
+44292662    103898495     
+44292662    97932739     Missouri
+44292662    10156532     Burbank, Calif.
+44292662    20888676     USA
+44292662    20271080     Summit, New Jersey (NJ)
+44292662    18067868     Indianapolis
+44292662    71688505     New York
+44292662    95806117     Cape Cod, MA/Jersey Shore
+44292662    21679967     San Antonio, TX
+44292662    40773349     beat street
+44292662    22527745     New Jersey
+44292662    115850165     On Dollars
+44292662    96779768     Everywhere!
+44292662    116926634     Jupiter, Florida
+44292662    16022682     San Francisco, CA
+44292662    117826205     
+44292662    96463779     WorldWideWeb
+44292662    44780094     
+44292662    16942611     helping YOU get freebies!
+44292662    19497498     San Francisco
+44292662    115210021     South Elgin, IL
+44292662    17216525     Waterford, Michigan
+65709169    96848570     
+65709169    41456363     Richmond, British Columbia
+65709169    2389961460     Worldwide
+65709169    1968617971     The Internet
+65709169    540668378     Vellmar, Germany / Ohio, USA
+65709169    16905329     All over the world
+65709169    34955221     Worldwide
+65709169    1122330865     Toronto, Ontario
+65709169    235836838     Toronto, Canada (for now)
+65709169    793038200     
+65709169    431947388     Los Angeles Area
+65709169    25536234     Canada
+65709169    1511870983     
+65709169    803091096     Los Angeles, CA
+65709169    334265411     
+65709169    2371123190     
+65709169    2178845744     Amsterdam
+65709169    1043532373     
+65709169    300488881     Canada
+65709169    94309930     Portugal
+65709169    54315171     Greensboro, NC
+65709169    383106686     Oregon
+65709169    933782696     Chicago
+65709169    21380640     Germany
+65709169    423188726     New York City
+65709169    373802545     Seattle
+65709169    205802842     Florida
+65709169    222725454     Global
+65709169    24032692     
+65709169    2897774300     Blizzard Ent. in Irvine, CA
+65709169    2420931980     Future Earth
+65709169    1861393146     The Nexus
+65709169    2369126940     Hong Kong
+65709169    174307074     Twitter Hrs: M-F 6am - 9pm PDT
+65709169    1209608880     Irvine, CA
+65709169    17258481     
+65709169    40913981     
+65709169    61040833     New Tristram, Sanctuary
+65709169    61033129     Irvine, California
+15850297    66504234     
+15850297    3309103381     College Station, TX
+15850297    24198769     Austin, Texas
+15850297    14277364     Austin, TX
+15850297    38443495     Austin, TX
+15850297    139741506     Austin, TX
+15850297    107117835     New York, NY
+15850297    64783592     Roseburg, Oregon United States
+15850297    3164585851     Austin, TX
+15850297    845736264     Austin, Texas
+15850297    928562208     Austin, TX
+15850297    50877894     Vermont
+15850297    2981825497     San Antonio Tx
+15850297    546212136     
+15850297    47841548     Austin, TX
+15850297    2291339130     
+15850297    253582818     
+15850297    3277891093     Austin, TX
+15850297    28388270     austin
+15850297    333431313     Brenham, Texas
+15850297    2909768231     Austin, TX
+15850297    1904665818     portland, oregon
+15850297    160946337     Washington, D.C.
+15850297    488679352     New York, NY
+15850297    20291394     Dallas, Texas
+15850297    310678886     Austin | NYC
+15850297    7563792     United States
+15850297    143947826     Los Angeles
+15850297    1300678026     Brooklyn, NY
+15850297    142125788     Austin, TX
+15850297    119593082     Los Angeles, CA
+15850297    551918929     Austin, Texas
+15850297    140070953     
+15850297    1544450809     Austin, TX
+15850297    240705584     Photographing All Over Texas
+15850297    266320468     Leander, Texas
+15850297    2307771108     Hays County
+15850297    2853830799     Austin, TX
+15850297    2859850457     Austin, Texas
+15850297    34798624     Amarillo, TX
+15850297    2205449471     
+15850297    1220469217     
+15850297    1536791610     Washington, D.C.
+15850297    454313925     Silver Spring, MD
+15850297    594749537     New Braunfels, Texas
+15850297    16886593     Manor, Texas
+15850297    371568890     Travis County, Texas
+15850297    65647594     International Space Station
+15850297    45840174     The Great State of Texas
+15850297    32431468     Elk Grove Village, IL
+15850297    27706099     Baltimore, MD
+15850297    22197119     Baltimore, MD
+15850297    133448051     United States
+15850297    62988756     FOX
+15850297    18690078     Charlotte, NC
+15850297    575422517     
+15393598    2835886194     
+15393598    25203361     NY
+15393598    31641658     Los Angeles/New York
+15393598    3282828716     
+15393598    811377     San Francisco, CA
+15393598    86395621     Santa Clara, CA
+15393598    709226545     Los Angeles, CA
+15393598    1330457336     New York, NY
+15393598    16303106     
+15393598    56819122     USA
+15393598    465851525     Houston, Texas
+15393598    910699910     Houston, Texas
+15393598    30109507     San Francisco, CA
+15393598    733557398     Loudoun County, VA
+15393598    54369123     Youngstown
+15393598    23765247     Houston, TX
+15393598    292396995     
+15393598    19253725     Houston
+15393598    96097140     
+15393598    356929792     Fairfax, va
+15393598    14357885     
+15393598    820502827     
+15393598    131023300     Houston, Texas
+15393598    30906825     Leesburg, VA, USA
+15393598    14824849     preparing for Bright Star!
+15393598    387281462     Houston, TX
+15393598    155845563     
+15393598    19253330     Topeka, Kansas
+15393598    13058232     Charleston, SC
+15393598    12925072     Delivering your photos
+15393598    61854815     Washington, DC/North America
+15393598    13784642     
+15393598    30167258     
+15393598    78843830     Houston
+15393598    115485051     Los Angeles
+15393598    17075581     San Antonio, TX
+15393598    23753584     
+15393598    25070035     
+15393598    20629465     Chicago, IL
+15393598    86584594     
+15393598    87075439     
+15393598    69410214     
+15393598    6698022     Minneapolis, MN
+15393598    27179932     Nashville/Muscle Shoals
+15393598    18493001     Taxachusetts
+15393598    34041217     Austin
+15393598    26560072     Houston, Texas
+15393598    57844411     Houston, Texas
+15393598    4603991     Columbus, OH
+15393598    17879538     Washington, DC
+15393598    2384071     Oakland, CA
+15393598    29984787     Everywhere
+15393598    794124     Traverse City, MI
+15393598    15756089     Austin, Texas
+15393598    7152572     Washington, DC
+15393598    14740219     Seattle
+15393598    19995481     Texas
+15393598    34366569     Fayetteville, Arkansas
+15393598    20087830     modern sounds for old souls.
+15393598    19363265     the Ozarks
+15393598    19966557     London
+15393598    17967925     New York, NY
+15393598    46188190     Athens, GA
+15393598    19152541     London & Starkley
+15393598    46179664     Athens, GA
+15393598    14372486     Global
+15393598    2890961     
+15393598    18955776     Chicago
+15393598    17236163     Houston
+15393598    6263782     sugar land texas
+15393598    14172201     Seattle, WA
+15393598    15447034     Portland, OR
+15393598    972651     
+15393598    47137393      Minute Maid Park
+15393598    17054699     Online & with baseball fans
+15393598    14085798     Chicago
+15393598    8432282     North Carolina
+15393598    23641580     
+15393598    19402584     New York 
+15393598    19656482     Chicago, IL
+15393598    14075513     Chicago, IL
+15393598    17324566     Lyons, CO, USA
+15393598    1344951     San Francisco/New York
+15393598    14089195     Chicago/Brooklyn
+15393598    5971922     Directory of Wonderful Things
+15393598    5392522     Washington, DC
+15393598    17492846     Austin, TX
+15393598    14749606     San Francisco, CA
+15393598    6436872     
+15393598    18609893     Boston
+15393598    20595739     The Dealsphere
+15393598    9628732     Cali/NYC/Texas
+15393598    28744383     
+15393598    34935679     Concord, NC
+15393598    19927627     New York, NY
+15393598    14123751     London
+15393598    28471046     SF Bay Area & Seattle
+15393598    16374713     Worldwide
+15393598    27718339     
+15393598    20557892     
+15393598    20469820     Brighton, Brooklyn, L.A.
+15393598    24447643     Earth
+15393598    19119542     Everywhere
+15393598    17889970     New York
+15393598    18403152     
+15393598    1010181     Houston, TX
+15393598    7696162     Dallas, TX
+15393598    734493     Dallas, TX
+15393598    8413012     
+15393598    19472606     Oregon
+15393598    20540938     Houston, Texas
+15393598    16013208     Houston, TX
+15393598    19381301     Austin, TX
+15393598    15966494     Abbott, Texas
+15393598    19035286     iPhone: 29.759712,-95.370316
+15393598    17242874     It's Foodimentary my dear...
+15393598    18202153     Midwest USA
+15393598    15676870     Austin, Texas
+15393598    16286660     Houston, TX
+15393598    2182641     Brooklyn NY & Marin County CA
+15393598    14348594     Brooklyn
+15393598    16257390     New York
+15393598    16257197     White Plains, NY
+15393598    618593     Empire, CO
+15393598    17249923     San Antonio
+15393598    9004562     Westborough, MA
+15393598    17220934     Nashville, TN
+15393598    428333     Everywhere
+15393598    7115622     Houston/Meadows Place, TX
+15393598    5729952     Houston, Texas
+15393598    5862922     Houston, TX USA
+15393598    6940122     Houston, TX
+15393598    15169290     New York, NY
+15393598    16069382     Houston, TX
+15393598    813286     Washington, DC
+15393598    14600999     Minnesota
+15393598    15439395     London, England
+15393598    1874131     Houston, TX
+15393598    15746202     santa rosa, ca
+15393598    14115074     West Yorkshire, UK
+15393598    8418772     McFartland, Wisconsin
+15393598    15141800     New Yorkish
+15393598    741033     Austin, TX
+15393598    5815922     
+15393598    8419502     
+15393598    5865652     Crondall, Hampshire, UK
+20637591    1517154434     
+20637591    57778499     Seattle, WA
+20637591    180821354     
+20637591    18307793     Los Angeles, CA
+20637591    50687788     
+20637591    234053160     
+20637591    314792669     
+20637591    217518231     
+20637591    14777215     
+20637591    68412310     The Heavens
+20637591    891794228     Slumberland 
+20637591    286348843     Dallas, TX
+20637591    45266183     New York 
