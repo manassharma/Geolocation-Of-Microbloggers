@@ -1,0 +1,1707 @@
+23990483	WBHomeEnt	CA	58748818	zach_roerig	
+23990483	WBHomeEnt	CA	87318558	AADaddario	
+23990483	WBHomeEnt	CA	122805750	carlagugino	
+23990483	WBHomeEnt	CA	123585931	alextorrr	
+23990483	WBHomeEnt	CA	1939017829	mkmalarkey	
+23990483	WBHomeEnt	CA	24574039	ErnestoRiley	
+23990483	WBHomeEnt	CA	449349346	BradBirdA113	CA
+23990483	WBHomeEnt	CA	369206130	SarahSoWitty	CA
+23990483	WBHomeEnt	CA	30282704	Mark_Sheppard	
+23990483	WBHomeEnt	CA	59703952	OsricChau	
+23990483	WBHomeEnt	CA	116838461	RuthieConnell	CA
+23990483	WBHomeEnt	CA	933128688	curtisisbooger	
+23990483	WBHomeEnt	CA	382218838	TheJimMichaels	
+20922781	StevieKrug	CO	1623606978	KKCDallas	
+20922781	StevieKrug	CO	3415305573	brock_mckinsey	
+20922781	StevieKrug	CO	2290146017	cjfwifey	
+20922781	StevieKrug	CO	224353486	philleenmeskin	
+20922781	StevieKrug	CO	2237989560	msanford52	
+20922781	StevieKrug	CO	27797892	ThomasETrue	CA
+20922781	StevieKrug	CO	269376134	gerald_turpin	CA
+20922781	StevieKrug	CO	329983787	NealAtkin	
+20922781	StevieKrug	CO	88319005	QuixoticMoose	
+20922781	StevieKrug	CO	159910925	JohnnieFzWalker	
+20922781	StevieKrug	CO	511328324	flyingthumbs	
+20922781	StevieKrug	CO	2908576324	boyerhome	
+20922781	StevieKrug	CO	505195537	AlanFuhrman	
+20922781	StevieKrug	CO	24037501	tripperscott	
+20922781	StevieKrug	CO	182531204	davidvoda	CA
+20922781	StevieKrug	CO	18203697	janeengle	
+20922781	StevieKrug	CO	448550404	psubeav	
+20922781	StevieKrug	CO	618351716	KariHicks3	
+20922781	StevieKrug	CO	328275678	1Geist	
+20922781	StevieKrug	CO	245223402	LoriKallenberg	NY
+20922781	StevieKrug	CO	179688231	Bruce_Mims	AZ
+20922781	StevieKrug	CO	25031897	julianjules	
+20922781	StevieKrug	CO	22461427	alyankovic	
+20922781	StevieKrug	CO	783214		twitter		CA
+20922781	StevieKrug	CO	19087330	navyslang	
+20922781	StevieKrug	CO	17758656	yensid98	CA
+20922781	StevieKrug	CO	19029137	BrentSpiner	CA
+20922781	StevieKrug	CO	14735100	attebury	OR
+20922781	StevieKrug	CO	36933993	kfuhrman83	PA
+20922781	StevieKrug	CO	18909480	lojoz	
+20922781	StevieKrug	CO	15786137	harajukuroxy	
+20922781	StevieKrug	CO	19660686	BridyDesigns	NY
+20922781	StevieKrug	CO	16397742	CorvidCastle	
+35928335	kdivas		CA	25740897	autismfilms	CA
+35928335	kdivas		CA	3221411311	NLRDash	
+35928335	kdivas		CA	313072096	filmtvplacement	 
+35928335	kdivas		CA	2524120566	DirectedbyWomen	
+35928335	kdivas		CA	2643477972	thedonisjr	CA
+35928335	kdivas		CA	40107120	chrisstokes1969	
+35928335	kdivas		CA	16864146	HeyJamie	
+35928335	kdivas		CA	3013069332	ChrisUhebe	
+35928335	kdivas		CA	1423997096	PardueSuzanne	 
+35928335	kdivas		CA	124230640	goodblacknews	CA
+35928335	kdivas		CA	21452184	laurencbyrd14	
+35928335	kdivas		CA	16688083	LogoTV	
+35928335	kdivas		CA	17718497	LAWeekly	
+35928335	kdivas		CA	30814895	p9o2o7h	
+35928335	kdivas		CA	394443070	MzPynkBling	FL
+35928335	kdivas		CA	203783659	sbxduval	FL
+35928335	kdivas		CA	24254832	AmericanFilm	CA
+35928335	kdivas		CA	2972082791	TheNewMactunes	
+35928335	kdivas		CA	583988926	SBXAlphaDelta	AZ
+35928335	kdivas		CA	19678610	IFCFilms	NY
+35928335	kdivas		CA	13992132	indiewire	NY
+35928335	kdivas		CA	15588104	melsil	
+35928335	kdivas		CA	95931102	womenmakemovies	NY
+35928335	kdivas		CA	1214810773	TheDirectorList	CA
+35928335	kdivas		CA	745529353	FredRoseFilms	
+35928335	kdivas		CA	3253913880	BreakingTCmovie	CA
+35928335	kdivas		CA	2331114428	MelodieCasta1	
+35928335	kdivas		CA	18476403	TedHope		CA
+35928335	kdivas		CA	29312780	WomenInTheArts	DC
+35928335	kdivas		CA	625710376	womenartists_	
+35928335	kdivas		CA	47358610	ifpfilm		NY
+35928335	kdivas		CA	1177956894	MsInTheBiz	
+35928335	kdivas		CA	14137823	LeahMeyerhoff	NY
+35928335	kdivas		CA	1973158964	FilmFatales	NY
+35928335	kdivas		CA	275634156	AWD_Directors	CA 
+35928335	kdivas		CA	930980120	EtheriaFN	CA
+35928335	kdivas		CA	23619624	LAFilmFestival	CA
+35928335	kdivas		CA	2987818676	IamMelanieWise	CA
+35928335	kdivas		CA	3015852242	BroadsWordThtr	CA
+35928335	kdivas		CA	133425961	globaleffects	CA
+35928335	kdivas		CA	22738203	realbadger	CA
+35928335	kdivas		CA	1878177331	Vicarious_Films	CA
+35928335	kdivas		CA	243840035	NetworkISA	CA
+35928335	kdivas		CA	15830809	temasls		CA
+35928335	kdivas		CA	16874234	lafilmschool	CA
+35928335	kdivas		CA	2941438106	Artemis_FF	CA
+35928335	kdivas		CA	2445991008	SeekingOurStory	CA
+35928335	kdivas		CA	311013303	IAmAutisticTV	FL
+35928335	kdivas		CA	180568685	WIF_LosAngeles	CA
+35928335	kdivas		CA	2635340887	WomenNMedia	 
+35928335	kdivas		CA	71758310	real_lilwill	TN
+35928335	kdivas		CA	94705718	BossHaasENT	IL
+35928335	kdivas		CA	17217173	epic1tv		GA
+35928335	kdivas		CA	36843988	TEDNews	NY, 	NY
+35928335	kdivas		CA	15492359	TEDTalks	NY
+35928335	kdivas		CA	11740902	tferriss	
+35928335	kdivas		CA	29272446	SPressfield	
+35928335	kdivas		CA	2903112295	CaliWorship	CA
+35928335	kdivas		CA	106586622	MACTUNESRADIO	OH
+35928335	kdivas		CA	97544703	ZealousSBX	MI
+35928335	kdivas		CA	24117655	MrsSBXSmalls	
+35928335	kdivas		CA	24574351	rocksteadyb	
+35928335	kdivas		CA	38745620	Thee_C_Renee	
+35928335	kdivas		CA	359555311	MacTunesMag	
+35928335	kdivas		CA	142854271	JISERM3F	
+35928335	kdivas		CA	308151547	sbaroncohen	
+35928335	kdivas		CA	274673392	Chase		NY
+35928335	kdivas		CA	3018111009	Real923LA	
+35928335	kdivas		CA	494456296	Record_Labels	
+35928335	kdivas		CA	19996417	PHBell15	NJ
+35928335	kdivas		CA	23996427	masner	
+35928335	kdivas		CA	178098567	TheHelpGroup	
+35928335	kdivas		CA	472872558	MrT	
+35928335	kdivas		CA	754206721	ShareThisFact	
+35928335	kdivas		CA	1931811601	WritingFestival	
+35928335	kdivas		CA	2656243922	HashTag_LAX	CA
+35928335	kdivas		CA	2706800587	BonafideRoyalty	
+35928335	kdivas		CA	125408839	andraeballard	
+35928335	kdivas		CA	15251252	AriesFitBonnie	
+35928335	kdivas		CA	20704331	AutismisnotBoss	MO
+35928335	kdivas		CA	193433439	BlessedSound	CA
+35928335	kdivas		CA	259348680	PriceIsRight	
+35928335	kdivas		CA	59299583	HelenFicalora	
+35928335	kdivas		CA	189400421	BornAdiva2011	
+35928335	kdivas		CA	65767741	ChikkChikk	CA
+35928335	kdivas		CA	2804758435	naniwhitfield	
+35928335	kdivas		CA	2598836168	GameShowCasting	CA
+35928335	kdivas		CA	588902679	letsaskamerica	
+35928335	kdivas		CA	39610775	DorelBaca	CA
+35928335	kdivas		CA	174527570	fionazwieb	FL
+35928335	kdivas		CA	40965813	Rachel_Noelle	
+35928335	kdivas		CA	35255090	KawanPrather	
+35928335	kdivas		CA	122216533	NikkiSixx	
+35928335	kdivas		CA	43003845	paramore	TN
+35928335	kdivas		CA	23561980	kendricklamar	
+35928335	kdivas		CA	25879140	aloeblacc	
+35928335	kdivas		CA	529645563	flytetymejam	
+35928335	kdivas		CA	1319921		rascalflatts	TN
+35928335	kdivas		CA	248858352	GlenBallard	CA
+35928335	kdivas		CA	20293092	fauntleroy	
+35928335	kdivas		CA	155705264	Zedd		LA
+35928335	kdivas		CA	207923746	Timbaland	
+35928335	kdivas		CA	33446119	TLSOUNDOFF	
+35928335	kdivas		CA	98759752	UrsVerse	 
+35928335	kdivas		CA	21547627	rachelassil	
+35928335	kdivas		CA	145806439	BabyGMusic	
+35928335	kdivas		CA	26171234	LundonKnighten	
+35928335	kdivas		CA	233814639	RnB_Live	CA
+35928335	kdivas		CA	568851996	ItsTamaraPowell	
+35928335	kdivas		CA	17499296	AFTRA	
+35928335	kdivas		CA	96846955	IAmSteveHarvey	
+35928335	kdivas		CA	47905488	HamiltonAntho	NY	
+35928335	kdivas		CA	506378832	PKtheProducer	
+35928335	kdivas		CA	16319940	livioharris	CA
+36724724	livinginburbank	CA	107667402	mytwitvance	
+36724724	livinginburbank	CA	66512200	nghype	Germa	NY
+36724724	livinginburbank	CA	16540406	djsamhouse	
+36724724	livinginburbank	CA	22189786	MusiciansPage	CA 
+36724724	livinginburbank	CA	103877455	crunchdot	
+36724724	livinginburbank	CA	101551424	EgyptianKey	CA
+36724724	livinginburbank	CA	21658477	bigguy4		MI
+36724724	livinginburbank	CA	71272705	jobs_web_design	CA
+36724724	livinginburbank	CA	27503114	WindPowerSystem	
+36724724	livinginburbank	CA	25095050	MargaretMcElroy	WA
+36724724	livinginburbank	CA	18914991	sevgotbeats	
+36724724	livinginburbank	CA	19386359	To		NY
+36724724	livinginburbank	CA	23976650	zerolover	CA
+36724724	livinginburbank	CA	90941240	editornewswire	
+36724724	livinginburbank	CA	57977654	trumpglobal	
+36724724	livinginburbank	CA	17684681	AprilMac	CA
+36724724	livinginburbank	CA	114799423	EquityOTC	
+36724724	livinginburbank	CA	17227214	reelseo	
+36724724	livinginburbank	CA	16257048	WEGOTHISCOVERED	CA
+36724724	livinginburbank	CA	109104844	ShoppingApple	
+36724724	livinginburbank	CA	25516317	standardhwood	CA
+36724724	livinginburbank	CA	96243124	AFlirtYourself	
+36724724	livinginburbank	CA	16690453	karenabbate	NY
+36724724	livinginburbank	CA	72605151	xpatcost	
+36724724	livinginburbank	CA	16069206	joe_hollywood	
+36724724	livinginburbank	CA	130081723	WetwaterLA	CA
+36724724	livinginburbank	CA	90983134	DailyPoolTips	PA
+36724724	livinginburbank	CA	63405566	Passport66	CA
+36724724	livinginburbank	CA	109539183	eCashStats	AZ
+36724724	livinginburbank	CA	48472573	followup101	
+36724724	livinginburbank	CA	32756207	JeremySaville	CA
+36724724	livinginburbank	CA	37391190	AxelKoster	
+36724724	livinginburbank	CA	11434502	andrewdaum	TX
+36724724	livinginburbank	CA	119108963	Blazestrong	IL
+36724724	livinginburbank	CA	46526663	LovexAmelia	GA
+36724724	livinginburbank	CA	17884338	JodyUnderhill	
+36724724	livinginburbank	CA	63920134	shortsalecourse	
+36724724	livinginburbank	CA	132038125	uniquebuttaphly	
+36724724	livinginburbank	CA	138841327	The_Dickenz	
+36724724	livinginburbank	CA	14511995	7rex	
+36724724	livinginburbank	CA	40100158	hieuiee	
+36724724	livinginburbank	CA	136425452	mara1Eip	
+36724724	livinginburbank	CA	55607316	AboutHeroes	KY
+36724724	livinginburbank	CA	17259678	nztv	
+36724724	livinginburbank	CA	78815858	rockmagic14	NY
+36724724	livinginburbank	CA	69895721	BmxkingsBikes	
+36724724	livinginburbank	CA	36922203	Vaghei	
+36724724	livinginburbank	CA	46108625	DigitalLeader	
+36724724	livinginburbank	CA	15870058	NotableCA	 
+36724724	livinginburbank	CA	111696574	ReicheOma	
+36724724	livinginburbank	CA	14240046	mikexcore	
+36724724	livinginburbank	CA	119163227	StockPromotions	
+36724724	livinginburbank	CA	95969899	KarateKidMovie	
+36724724	livinginburbank	CA	29951351	bpuckett2	
+36724724	livinginburbank	CA	82684087	ZazZyu	
+36724724	livinginburbank	CA	19600652	Acoustics101	VA 
+36724724	livinginburbank	CA	131022374	BlackBoxAdvisor	
+36724724	livinginburbank	CA	17302075	brettclothier	TN
+36724724	livinginburbank	CA	20326676	ThinkingCoach	IN
+36724724	livinginburbank	CA	108945571	KingValleyAust	
+36724724	livinginburbank	CA	122974749	mom22cutekids	
+36724724	livinginburbank	CA	115609479	IMG4U	
+36724724	livinginburbank	CA	30054059	normbond	 
+36724724	livinginburbank	CA	36845747	CyanPages	
+36724724	livinginburbank	CA	134159565	arkom_boston	
+36724724	livinginburbank	CA	132385628	iamtoptoday	
+36724724	livinginburbank	CA	137371313	matystaty10	
+36724724	livinginburbank	CA	17581008	FollowMe_RnBE	NY 
+36724724	livinginburbank	CA	105885069	MemoryRamp	
+36724724	livinginburbank	CA	126413239	HotStockProfits	NY
+36724724	livinginburbank	CA	133693579	ppcgb	
+36724724	livinginburbank	CA	87452198	live4Liverpool	
+36724724	livinginburbank	CA	23126093	kmarthome	IL
+36724724	livinginburbank	CA	73846568	Sesarhmh	
+36724724	livinginburbank	CA	85029738	AscendingStocks	NY
+36724724	livinginburbank	CA	14865439	RoadWarriorsUSA	
+36724724	livinginburbank	CA	103874854	StockProfitz	NY
+36724724	livinginburbank	CA	104076047	smmexpertseo	
+36724724	livinginburbank	CA	79402903	hemyindiesoul	
+64250735	organicconnect	TX	33564465	Niq728		PA
+64250735	organicconnect	TX	1859943450	charlesampong22	
+64250735	organicconnect	TX	15453338	Kash_GP	
+64250735	organicconnect	TX	244058554	meizatianty	
+64250735	organicconnect	TX	37201485	KC_Dubya	
+64250735	organicconnect	TX	15105671	cmva		NY
+64250735	organicconnect	TX	316044311	ElementalImpact	GA
+64250735	organicconnect	TX	210725822	lpariscomcastne	NJ
+64250735	organicconnect	TX	45634159	ajamaya		CA
+64250735	organicconnect	TX	220706464	lrverknit	
+64250735	organicconnect	TX	172748255	Mimisdarlings	MA
+64250735	organicconnect	TX	20210607	beardfistmcfist	
+64250735	organicconnect	TX	345349516	ENKHBAATARG	
+64250735	organicconnect	TX	291490081	myglobalpac	
+64250735	organicconnect	TX	333748830	mercybasin	
+64250735	organicconnect	TX	51379645	thenderson67	
+64250735	organicconnect	TX	19469067	WisconsinKim	
+64250735	organicconnect	TX	87621141	anjelakitten	LA
+64250735	organicconnect	TX	97686472	ivanzuky	
+64250735	organicconnect	TX	47139543	kujokublai	NY
+64250735	organicconnect	TX	1134672060	Ber	
+64250735	organicconnect	TX	186129035	Bella1V		IL
+64250735	organicconnect	TX	123309717	MsMokasen	NY
+64250735	organicconnect	TX	15738456	Gran2Dausha	AL
+64250735	organicconnect	TX	18828675	paperculture	CA
+64250735	organicconnect	TX	42743957	tarantinoel	KS
+64250735	organicconnect	TX	278352684	EcoWiseman	WA
+64250735	organicconnect	TX	45663323	USDA_NRCS	DC
+64250735	organicconnect	TX	239169701	LMJ125	
+64250735	organicconnect	TX	1136164572	MexiTinn	MI
+64250735	organicconnect	TX	632935005	StartrelleDsign	CA
+64250735	organicconnect	TX	1543242104	ImamaeVer86	
+64250735	organicconnect	TX	20118192	kristinenglish	CA
+49746303	HIGHWIREDAZE	CA	16504153	paniccitymusic	CA
+49746303	HIGHWIREDAZE	CA	2901773941	studiopetro	
+49746303	HIGHWIREDAZE	CA	3000116440	kingsharemband	NY
+49746303	HIGHWIREDAZE	CA	3307098846	WeAreBKS	CA
+49746303	HIGHWIREDAZE	CA	452662930	joeschaef	CA
+49746303	HIGHWIREDAZE	CA	138295022	OliviaSomerlyn	
+49746303	HIGHWIREDAZE	CA	289969718	LindseyStirling	CA
+49746303	HIGHWIREDAZE	CA	390312250	SimonDaniels4	
+49746303	HIGHWIREDAZE	CA	3013726315	hellebrus	CO
+49746303	HIGHWIREDAZE	CA	311270509	TheBulletBoys	
+49746303	HIGHWIREDAZE	CA	2971544125	movementsbandca	CA
+49746303	HIGHWIREDAZE	CA	180203868	YandTRocks	CA
+49746303	HIGHWIREDAZE	CA	29532412	JunkyardBlooze	
+49746303	HIGHWIREDAZE	CA	18020081	JohnKasich	OH
+49746303	HIGHWIREDAZE	CA	2977112512	OWTOUpdate	
+49746303	HIGHWIREDAZE	CA	78672966	oceansatealaska	
+49746303	HIGHWIREDAZE	CA	34848331	gilbyclarke	CA
+49746303	HIGHWIREDAZE	CA	219374073	bettymoonmusic	CA
+49746303	HIGHWIREDAZE	CA	46909910	ExtremeBand	MA
+49746303	HIGHWIREDAZE	CA	381232503	nunobettencourt	
+49746303	HIGHWIREDAZE	CA	720158504	Shatteredsun	TX 
+49746303	HIGHWIREDAZE	CA	2383751126	RikisRacPac	
+20255162	wbpictures	CA	509531549	TopherGrace	
+20255162	wbpictures	CA	136361303	voguemagazine	NY
+20255162	wbpictures	CA	20177423	ELLEmagazine	
+20255162	wbpictures	CA	14934818	InStyle	NY, 	NY
+20255162	wbpictures	CA	19247844	glamourmag	
+20255162	wbpictures	CA	19074134	marieclaire	NY
+20255162	wbpictures	CA	783214		twitter		CA
+20255162	wbpictures	CA	3678453193	laurenkesposito	
+20255162	wbpictures	CA	25589776	people	
+20255162	wbpictures	CA	57385263	natandalex	NY
+20255162	wbpictures	CA	7997092		ZackPearlman	MI
+20255162	wbpictures	CA	1183541408	PopularPugs	
+20255162	wbpictures	CA	3687721995	RealGDT	
+20255162	wbpictures	CA	22268649	coulter28	
+20255162	wbpictures	CA	1536791610	POTUS		DC
+20255162	wbpictures	CA	1431301		jhoffman	NY
+20255162	wbpictures	CA	48048888	jeffskoll	CA
+20255162	wbpictures	CA	1576799316	dominicflores40	
+20255162	wbpictures	CA	155993989	ReynaldoAndres	CA
+20255162	wbpictures	CA	190391928	scootmcnairy	
+20255162	wbpictures	CA	610566084	zoeinthecities	
+20255162	wbpictures	CA	21544620	ImFairyPrincess	
+20255162	wbpictures	CA	17031030	themjeans	
+20255162	wbpictures	CA	557379987	emrata	
+20255162	wbpictures	CA	390735738	TheManFromUNCLE	
+20255162	wbpictures	CA	3298933854	the33film	
+20255162	wbpictures	CA	480634600	AidanTurner	
+20255162	wbpictures	CA	26259480	MensFitness	NY
+20255162	wbpictures	CA	3278809183	SuicideSquadWB	
+85185402	myso		CA	31062956	aketzaly_lozano	NM
+85185402	myso		CA	18630197	WaseemMirza	 
+85185402	myso		CA	65106699	biggestfanever	
+85185402	myso		CA	125331429	OTCSTOCKEXPRESS	
+85185402	myso		CA	46633832	CareerTool	
+85185402	myso		CA	22189786	MusiciansPage	CA 
+85185402	myso		CA	18771312	CofCJoni	
+85185402	myso		CA	57586856	Motive8Media	
+85185402	myso		CA	50534198	specialtal	
+85185402	myso		CA	67010977	NMbiz	
+85185402	myso		CA	105676342	wedding_shoppe	
+85185402	myso		CA	92749252	myvaplace	
+85185402	myso		CA	36150678	weddzilla	
+85185402	myso		CA	151164418	BadManRecordsuk	
+85185402	myso		CA	69723684	iUEBO		CA
+85185402	myso		CA	63387228	GreenCon24	
+85185402	myso		CA	51446354	chessqueen	MI
+85185402	myso		CA	130522927	msspringbreak	MS
+85185402	myso		CA	148914864	Pen		NY	
+85185402	myso		CA	20118774	Flipbooks	 
+85185402	myso		CA	55413995	chesspics	
+85185402	myso		CA	94420015	Wise_Team	TX
+85185402	myso		CA	133017008	technorious	
+85185402	myso		CA	29300696	Kagiman	Katy
+85185402	myso		CA	166520890	NoMoreDebtWorry	CA
+85185402	myso		CA	115686164	StockParty	NY
+85185402	myso		CA	75567037	TooNiceStocks	NY
+85185402	myso		CA	139152266	KarlPavelski	
+85185402	myso		CA	77039758	chessking	FL
+85185402	myso		CA	87290751	IMwithTo	NY	
+85185402	myso		CA	54176793	selfmillionaer	NY
+85185402	myso		CA	83189838	TheSavalots	
+85185402	myso		CA	28441592	PorterGroup	
+85185402	myso		CA	109190226	imniche	
+85185402	myso		CA	130500436	AppQuotes	
+85185402	myso		CA	110164514	inetmarketerman	
+85185402	myso		CA	110543527	affiliateopts	NY
+85185402	myso		CA	109169111	homemadewealth	
+85185402	myso		CA	109024996	webprofitplans	
+85185402	myso		CA	109820053	TheBestReviewer	
+85185402	myso		CA	110810263	myday2010	
+85185402	myso		CA	110114937	dogoodgvotools	
+85185402	myso		CA	110818726	nigelmakesmoney	
+85185402	myso		CA	110088998	retireusnow	
+85185402	myso		CA	108415950	imbestdeal	CA
+85185402	myso		CA	109125338	WealthMethods	
+85185402	myso		CA	89276254	twitrevenue	
+85185402	myso		CA	108713461	thecovenanter	
+85185402	myso		CA	105224658	IncomeSteady	
+85185402	myso		CA	99655032	MarketersWorld	
+85185402	myso		CA	108427629	GoGreenWithGary	MI
+85185402	myso		CA	109315020	insanecash2010	IL
+85185402	myso		CA	110712488	internetmaveric	
+85185402	myso		CA	107717786	SmartMoneyAds	
+85185402	myso		CA	109280315	tviexpress10	
+85185402	myso		CA	110662648	imarketingviews	
+85185402	myso		CA	16388972	SharonHayes	CA
+85185402	myso		CA	110649484	DigDigital	
+85185402	myso		CA	108965929	emailmarketcash	OH
+85185402	myso		CA	110009052	LocalDirectory_	
+85185402	myso		CA	109977963	teamworldprofit	
+85185402	myso		CA	109466123	WebAdTutor	
+85185402	myso		CA	44233791	Iaintastar	
+85185402	myso		CA	112926701	iloveiipm	
+85185402	myso		CA	111120412	BrandStarAgency	FL
+85185402	myso		CA	46817877	BubblesBodywear	FL
+85185402	myso		CA	105926317	CFGCanada	
+85185402	myso		CA	111831817	arindamfanclub	
+85185402	myso		CA	14950987	markjoyner	CA
+85185402	myso		CA	63223404	FORTISwatches	
+85185402	myso		CA	40834740	dubai_offers	
+85185402	myso		CA	25177100	EternityNews	
+85185402	myso		CA	52523826	BellesEscorts	
+85185402	myso		CA	38139562	JohnBMazur	
+85185402	myso		CA	16033093	bobenton	
+20641995	MarioLopezExtra	CA	22685200	kingsthings	CA
+20641995	MarioLopezExtra	CA	3737791874	DesiredScents	VA
+20641995	MarioLopezExtra	CA	26691053	ROCKSTARSENT	
+14144817	Ladycates	CA	49663422	MeghanKEdmonds	
+14144817	Ladycates	CA	31583155	TamraBarney	CA
+14144817	Ladycates	CA	27588709	vgunvalson	CA
+14144817	Ladycates	CA	52708956	Cindyluellis	
+14144817	Ladycates	CA	34418203	Robin_McGraw	CA
+14144817	Ladycates	CA	517731072	TThomasKemp	IN
+14144817	Ladycates	CA	25073986	KimberlySBelle	
+14144817	Ladycates	CA	63623549	Brenda_Novak	
+14144817	Ladycates	CA	19708503	JasonMott	NC
+14144817	Ladycates	CA	1167504919	MaryKubica	IL
+14144817	Ladycates	CA	400979427	writershona	AZ
+14144817	Ladycates	CA	17349514	PamJenoff	PA
+14144817	Ladycates	CA	21446198	thrillerchick	TX
+14144817	Ladycates	CA	15223444	susanwiggs	
+14144817	Ladycates	CA	2282770158	ShannonBeador	
+14144817	Ladycates	CA	3303293865	Caitlyn_Jenner	
+14144817	Ladycates	CA	276108762	MainStreetBeats	
+14144817	Ladycates	CA	27949006	Rmeyer08	CA
+14144817	Ladycates	CA	266921522	DowntownBUR	CA
+14144817	Ladycates	CA	354589296	burbankmom	CA
+14144817	Ladycates	CA	2282655512	ChatsworthBB	CA
+14144817	Ladycates	CA	243442402	amandabynes	
+14144817	Ladycates	CA	216348190	KailLowry	
+14144817	Ladycates	CA	14090017	Causecast	CA
+14144817	Ladycates	CA	154622017	lachjaw		CA
+14144817	Ladycates	CA	21116962	joemachi	
+14144817	Ladycates	CA	277108277	VinceSamperio	CA
+14144817	Ladycates	CA	210034713	RodManComedy	NY
+14144817	Ladycates	CA	36108355	SpyDaVrblz	
+14144817	Ladycates	CA	1730308896	BasebaIIVines	
+14144817	Ladycates	CA	19539377	TheSportsDude	CA
+14144817	Ladycates	CA	2517117270	HiddenCash	CA
+14144817	Ladycates	CA	2370079741	JourneyOIJ	CA
+14144817	Ladycates	CA	241544156	Cut4	
+14144817	Ladycates	CA	83970687	brownbirdmusic	RI
+14144817	Ladycates	CA	285641117	DodgersBeat	
+14144817	Ladycates	CA	446539807	AJEllis17	
+14144817	Ladycates	CA	146249884	JennifersWayJE	NY
+14144817	Ladycates	CA	75916180	Imaginedragons	NV
+14144817	Ladycates	CA	727184677	TheBridgeFX	
+14144817	Ladycates	CA	159852658	TravisStorkMD	
+14144817	Ladycates	CA	27339792	mollyorangette	
+14144817	Ladycates	CA	572325732	DodgerInsider	
+14144817	Ladycates	CA	481465758	FluNearYou	MA
+14144817	Ladycates	CA	19104915	camelbackranch	AZ
+14144817	Ladycates	CA	310463188	RondaRousey	CA
+14144817	Ladycates	CA	26102955	atchek	
+14144817	Ladycates	CA	283830242	reneegraziano	
+14144817	Ladycates	CA	43803786	GretchenRossi	
+14144817	Ladycates	CA	283895895	LAScanner	 
+14144817	Ladycates	CA	16228398	mcuban	
+14144817	Ladycates	CA	44163738	ralphmacchio	NY
+14144817	Ladycates	CA	861852626	JoeCarroll	
+14144817	Ladycates	CA	5971922		BoingBoing	
+14144817	Ladycates	CA	36771787	GadiNBCLA	
+14144817	Ladycates	CA	154216795	travisbrowneMMA	CA
+14144817	Ladycates	CA	808138		deaudude	
+14144817	Ladycates	CA	2233154425	StephenKing	
+14144817	Ladycates	CA	14380001	ellenbritt	GA
+14144817	Ladycates	CA	249346453	puddinstrip	
+14144817	Ladycates	CA	229973724	tommyperez20	CA
+14144817	Ladycates	CA	417224567	gabekapler	
+14144817	Ladycates	CA	288399711	joperesie	CA
+14144817	Ladycates	CA	19551338	mch2k	
+14144817	Ladycates	CA	34057577	BrookeNOwensMom	CA
+14144817	Ladycates	CA	1713682262	JBHSBBPlayers	CA
+14144817	Ladycates	CA	1729669597	myBurbankNights	
+14144817	Ladycates	CA	32959253	khloekardashian	
+14144817	Ladycates	CA	18216186	kirkfox	 
+14144817	Ladycates	CA	255858570	HanleyRamirez	
+14144817	Ladycates	CA	781206247	myBurbankSports	CA
+14144817	Ladycates	CA	1831601005	bbkid42	
+14144817	Ladycates	CA	437229519	RNolasco47	MI
+14144817	Ladycates	CA	42500897	salemredsox	VA
+14144817	Ladycates	CA	1135675872	MiLBPromos	
+14144817	Ladycates	CA	1053754759	shawnabacquet	
+14144817	Ladycates	CA	1618838168	BBKid24	
+14144817	Ladycates	CA	29425265	dancleary79	
+14144817	Ladycates	CA	48126072	JetHawks	CA
+14144817	Ladycates	CA	1491330559	YasielPuig	 
+14144817	Ladycates	CA	373180628	VinScullyTweet	CA
+14144817	Ladycates	CA	234467579	MLBJesus	NY
+14144817	Ladycates	CA	19013887	LAKings		CA
+14144817	Ladycates	CA	512544642	TheRealJHair	
+14144817	Ladycates	CA	495486267	AdrianTitan23	
+14144817	Ladycates	CA	626414778	CochitoCruz	NM
+14144817	Ladycates	CA	23043294	Dodgers	
+14144817	Ladycates	CA	24831373	ChiliAddiction	CA
+14144817	Ladycates	CA	566019038	ClaytonKersh22	
+14144817	Ladycates	CA	36285406	ellenkershaw	
+14144817	Ladycates	CA	205348909	billplunkettocr	
+14144817	Ladycates	CA	1023222830	KevinKennedyMLB	
+14144817	Ladycates	CA	989826266	BurbankLL16	CA
+14144817	Ladycates	CA	1250033370	YenterLindsay	
+14144817	Ladycates	CA	1110684349	nursybarbi05	CA
+14144817	Ladycates	CA	202495093	ChelseaHouska	CA
+14144817	Ladycates	CA	21148293	kathygriffin	CA
+14144817	Ladycates	CA	7025662		DrPhil	
+14144817	Ladycates	CA	216299334	piersmorgan	CA 
+14144817	Ladycates	CA	83590349	bencnn	Earth
+14144817	Ladycates	CA	556041332	prairiedog18	CA
+25375098	BurbankLeader	CA	18786263	burbankonparade	
+25375098	BurbankLeader	CA	466121422	JoyceRudolph	
+25375098	BurbankLeader	CA	887495323	NatRWheeler	
+25375098	BurbankLeader	CA	1195479883	TCNArts	
+25375098	BurbankLeader	CA	479956242	RyFons		CA 
+25375098	BurbankLeader	CA	151295556	jeremiahdobruck	CA
+25375098	BurbankLeader	CA	188018559	acocarpio	CA
+25375098	BurbankLeader	CA	342711933	MichaelMillerHB	CA
+25375098	BurbankLeader	CA	551326408	BradleyZint	CA
+25375098	BurbankLeader	CA	598060279	ALopezCityEd	
+25375098	BurbankLeader	CA	1132905925	AldertonBryce	
+25375098	BurbankLeader	CA	1727077808	HannahFryTCN	CA 
+25375098	BurbankLeader	CA	2614288879	KathleenLuppi	
+25375098	BurbankLeader	CA	737884945	photorog1	
+25375098	BurbankLeader	CA	308751479	LACo_FD		CA
+25375098	BurbankLeader	CA	115705583	LAPDHQ		CA
+25375098	BurbankLeader	CA	46470122	LASDHQ	 	CA
+25375098	BurbankLeader	CA	9648652		myfoxla		CA
+25375098	BurbankLeader	CA	202418142	TheBrianPark	CA
+25375098	BurbankLeader	CA	18784453	CaltransDist7	 
+25375098	BurbankLeader	CA	950239297	BurbankVotes	CA
+25375098	BurbankLeader	CA	1483648951	EmpireLanding	CA
+25375098	BurbankLeader	CA	364394824	BurbankPhil	CA
+25375098	BurbankLeader	CA	2372228268	BurbankRecycle	CA
+25375098	BurbankLeader	CA	120355121	BurbankLodge406	CA
+25375098	BurbankLeader	CA	44935248	BurbankYMCA	CA
+25375098	BurbankLeader	CA	94242227	BurbankRotary	CA
+25375098	BurbankLeader	CA	1924259203	BurbankMother	CA
+25375098	BurbankLeader	CA	108647805	BurbankTownCtr	CA
+25375098	BurbankLeader	CA	39541804	StFinbarChurch	CA 
+25375098	BurbankLeader	CA	45749147	LAnews360	CA
+25375098	BurbankLeader	CA	2660060114	BikeBurbank	CA
+25375098	BurbankLeader	CA	72126219	madeinburbank	CA
+25375098	BurbankLeader	CA	840086840	brosefloat	CA
+25375098	BurbankLeader	CA	2575166521	LANewsCentral	CA
+25375098	BurbankLeader	CA	221211081	BurbankBike	CA
+25375098	BurbankLeader	CA	297758192	MarriottBurbank	CA
+25375098	BurbankLeader	CA	989826266	BurbankLL16	CA
+25375098	BurbankLeader	CA	202334240	Burbank_Tennis	CA 
+25375098	BurbankLeader	CA	426967004	MsBurbank	
+25375098	BurbankLeader	CA	2439010140	BurbankComFest	
+25375098	BurbankLeader	CA	203220633	MagParkBurbank	CA
+25375098	BurbankLeader	CA	2515150081	Burbankbulldog	Ca
+25375098	BurbankLeader	CA	124503275	PHS_Burbank	CA
+25375098	BurbankLeader	CA	1623533360	FilmFestBurbank	CA
+25375098	BurbankLeader	CA	2492614950	BurbankPOA	CA
+25375098	BurbankLeader	CA	123686983	BurbankAYSO	CA
+25375098	BurbankLeader	CA	347925183	BurbankKiwanis	CA
+25375098	BurbankLeader	CA	1554462668	VisitBurbankUSA	CA
+25375098	BurbankLeader	CA	300636269	BurbankTourism	CA 
+25375098	BurbankLeader	CA	14967143	chadgarland	
+25375098	BurbankLeader	CA	51345866	Carolyn_Cole	NY
+25375098	BurbankLeader	CA	16960002	dailybruin	
+25375098	BurbankLeader	CA	61009451	peard33		CA
+25375098	BurbankLeader	CA	28164096	rachaelray	NY
+25375098	BurbankLeader	CA	15263981	LilEdit	
+25375098	BurbankLeader	CA	22794790	calottery	CA
+25375098	BurbankLeader	CA	1607291378	RonaldsevillaB	CA
+25375098	BurbankLeader	CA	2359926157	CIA		VA
+25375098	BurbankLeader	CA	14801058	dabendschein	
+25375098	BurbankLeader	CA	12750422	schwanksta	
+25375098	BurbankLeader	CA	145788734	csaillant2	
+25375098	BurbankLeader	CA	314082472	AliciaDotBanks	CA
+25375098	BurbankLeader	CA	38078047	LAWeeklyMusic	
+25375098	BurbankLeader	CA	24478052	dangobeats	
+25375098	BurbankLeader	CA	16126572	hollywoodfringe	CA
+25375098	BurbankLeader	CA	36607569	DanielleSadd	
+25375098	BurbankLeader	CA	18394497	LauraStegman	
+25375098	BurbankLeader	CA	48456663	GuyMcCarthy	CA
+25375098	BurbankLeader	CA	43174516	CamilleGoldberg	CA
+25375098	BurbankLeader	CA	14261961	GerrickKennedy	
+25375098	BurbankLeader	CA	21374976	LorraineAli	
+25375098	BurbankLeader	CA	992789466	petosagan	
+25375098	BurbankLeader	CA	11175592	AmgenTOC	
+25375098	BurbankLeader	CA	1007722262	RMahbubani	
+25375098	BurbankLeader	CA	251784709	RickCarusoLA	CA
+25375098	BurbankLeader	CA	971235416	CHPHQ	
+25375098	BurbankLeader	CA	21807663	LACountyRRCC	 
+25375098	BurbankLeader	CA	2363147946	ArinMikailian	CA
+25375098	BurbankLeader	CA	250468666	LASPD	
+25375098	BurbankLeader	CA	613802350	LosFelizLedger	
+25375098	BurbankLeader	CA	2282950538	ArtsRise	
+25375098	BurbankLeader	CA	616254595	ArtShare_LA	CA
+25375098	BurbankLeader	CA	2349160002	SaraCardine	CA
+25375098	BurbankLeader	CA	16460641	GeoAndy	CA
+25375098	BurbankLeader	CA	1442977914	MattySandz	CA
+25375098	BurbankLeader	CA	76614813	burbankraptors	CA
+25375098	BurbankLeader	CA	324521745	melisanews	
+25375098	BurbankLeader	CA	2267195648	qmccray1	OH
+25375098	BurbankLeader	CA	204447314	PatrickNBCLA	
+25375098	BurbankLeader	CA	34139306	DevineNews	CA
+25375098	BurbankLeader	CA	47943706	FrankBuckleyTV	
+25375098	BurbankLeader	CA	125501124	pbcbstudios	CA
+25375098	BurbankLeader	CA	2324329423	KaeCor	CA
+25375098	BurbankLeader	CA	69139435	AnnieGilbertson	CA
+25375098	BurbankLeader	CA	18742360	TheWrap	CA
+25375098	BurbankLeader	CA	551285226	LinkNHops	CA
+25375098	BurbankLeader	CA	14652452	mayhemstudios	
+25375098	BurbankLeader	CA	45917174	brentellesmith	CA
+25375098	BurbankLeader	CA	24602525	aaronpita	 
+25375098	BurbankLeader	CA	45735211	str8ace211	
+25375098	BurbankLeader	CA	84591916	sarahfavot	CA
+25375098	BurbankLeader	CA	509391633	MontroseBowl	CA
+25375098	BurbankLeader	CA	2255394775	TraegerTim	
+25375098	BurbankLeader	CA	283173178	RacersEdgeCa	CA
+25375098	BurbankLeader	CA	10045182	darthsauce	
+25375098	BurbankLeader	CA	360196818	ArroyoSecoFound	CA
+25375098	BurbankLeader	CA	209681820	ShorealoneFilms	CA
+25375098	BurbankLeader	CA	27786628	bryanchanphoto	
+25375098	BurbankLeader	CA	19087496	the818	
+25375098	BurbankLeader	CA	1509389371	SandyBanksLAT	
+25375098	BurbankLeader	CA	77068400	SweetSaltFood	CA
+25375098	BurbankLeader	CA	531599133	SameeaKamal	CA
+25375098	BurbankLeader	CA	2198258246	ringbcartoons	
+25375098	BurbankLeader	CA	545401179	ChiefVillegas	
+25375098	BurbankLeader	CA	1457461825	twirlerrific	CA
+25375098	BurbankLeader	CA	132533271	echosmith	CA
+25375098	BurbankLeader	CA	175425687	calymca		CA
+25375098	BurbankLeader	CA	35219914	collinevans	DC
+25375098	BurbankLeader	CA	288124052	BearsGlendale	CA
+25375098	BurbankLeader	CA	349213283	hhstornados	CA
+25375098	BurbankLeader	CA	1671561595	MelMelconPhoto	
+25375098	BurbankLeader	CA	1268512064	GamehausCafe	CA
+25375098	BurbankLeader	CA	50914327	acrostical	
+25375098	BurbankLeader	CA	1680091		quartzcity	CA
+25375098	BurbankLeader	CA	731231340	GottliebJeff	CA
+25375098	BurbankLeader	CA	115173296	TrysteroCoffee	CA
+25375098	BurbankLeader	CA	23977394	bettyhallock	
+25375098	BurbankLeader	CA	12511062	letlifehappen	
+25375098	BurbankLeader	CA	836568895	Bikes4Orphans	CA
+25375098	BurbankLeader	CA	402242041	SFHSLaCanadaCA	CA
+25375098	BurbankLeader	CA	23468186	nancydtei	CA
+25375098	BurbankLeader	CA	1262519695	LAPDCGHD	
+25375098	BurbankLeader	CA	16600574	bouska		CA
+25375098	BurbankLeader	CA	1963390086	LCFloat		CA
+25375098	BurbankLeader	CA	207825635	BurbankArts4All	CA
+25375098	BurbankLeader	CA	822077070	LCHSAthletics	
+25375098	BurbankLeader	CA	1966176703	cvsportsnews	
+25375098	BurbankLeader	CA	91186036	UltimateFighter	
+25375098	BurbankLeader	CA	1031157822	sevaksilverback	
+25375098	BurbankLeader	CA	949593240	MuscleShoalsMov	
+25375098	BurbankLeader	CA	364128302	lacanadasports	CA
+25375098	BurbankLeader	CA	1273237111	Laurie_Ochoa	
+25375098	BurbankLeader	CA	61281816	swsandell	
+25375098	BurbankLeader	CA	576650437	latimespast	CA
+25375098	BurbankLeader	CA	259948061	TWDCjobs	CA
+25375098	BurbankLeader	CA	72433559	johnNBCLA	CA
+25375098	BurbankLeader	CA	253083234	tugirouxx	
+25375098	BurbankLeader	CA	435175078	newton_jim	
+25375098	BurbankLeader	CA	325001316	KenDilanianAP	DC
+25375098	BurbankLeader	CA	23503181	AsteroidWatch	CA
+25375098	BurbankLeader	CA	30303851	Appsmakerstore_	
+25375098	BurbankLeader	CA	23006082	ChildrensLA	CA
+25375098	BurbankLeader	CA	18206806	worldofcrap	CA
+25375098	BurbankLeader	CA	67819221	thejgold	
+25375098	BurbankLeader	CA	220485783	OfframpGallery	CA
+25375098	BurbankLeader	CA	121665027	SardosBar	CA
+25375098	BurbankLeader	CA	6826692		AliceBag	
+25375098	BurbankLeader	CA	24778851	TheAutry	
+25375098	BurbankLeader	CA	500012905	JasmineElist	
+25375098	BurbankLeader	CA	513656051	Sky5Tim		CA
+25375098	BurbankLeader	CA	17396590	BostonCourt	CA
+25375098	BurbankLeader	CA	16394640	sewella		CA
+25375098	BurbankLeader	CA	887791940	k8ertotz	CA
+25375098	BurbankLeader	CA	89792919	HuffPostLA	
+25375098	BurbankLeader	CA	23011345	LAGalaxy	CA
+25375098	BurbankLeader	CA	1671362244	Falcon_Theatre	CA
+25375098	BurbankLeader	CA	69361450	CIFSS	
+25375098	BurbankLeader	CA	25601292	umamiburger	
+25375098	BurbankLeader	CA	299893453	BurbankCA	CA
+25375098	BurbankLeader	CA	15162193	Nordstrom	WA
+25375098	BurbankLeader	CA	221895551	jamiewetherbe	
+25375098	BurbankLeader	CA	22093833	LATgreatreads	
+25375098	BurbankLeader	CA	17027073	SportChalet	
+25375098	BurbankLeader	CA	1020058453	BuzzFeedNews	
+25375098	BurbankLeader	CA	35778582	FilmLA	CA
+25375098	BurbankLeader	CA	22821175	IMAX	
+25375098	BurbankLeader	CA	26106309	latams		DC
+25375098	BurbankLeader	CA	29573606	TedTrent	 
+25375098	BurbankLeader	CA	30617395	DTLAtoday	
+25375098	BurbankLeader	CA	111511376	bensaki	Pasadena
+25375098	BurbankLeader	CA	122609423	JessicaHamlinB	CA
+25375098	BurbankLeader	CA	20641995	MarioLopezExtra	CA
+25375098	BurbankLeader	CA	371963148	darinharvey	
+25375098	BurbankLeader	CA	1671864619	KatherineYamada	CA
+25375098	BurbankLeader	CA	1661136721	BrianFCrosby	
+25375098	BurbankLeader	CA	334062806	SquaredOut	
+25375098	BurbankLeader	CA	70697241	MuseumofNeonArt	CA
+25375098	BurbankLeader	CA	46966900	hiddenla	
+25375098	BurbankLeader	CA	16510540	eaterla		CA
+25375098	BurbankLeader	CA	44705716	USGSted		CO
+25375098	BurbankLeader	CA	20552066	IWillRide	
+25375098	BurbankLeader	CA	1428400668	coughlin_LA	
+25375098	BurbankLeader	CA	87827548	GlendaleCAChmbr	CA
+25375098	BurbankLeader	CA	805174892	GlendaleCAFire	CA
+25375098	BurbankLeader	CA	43591855	Saints_Baseball	CA
+25375098	BurbankLeader	CA	66544351	MieshaTate	
+25375098	BurbankLeader	CA	17544524	ToddRokita	IN
+25375098	BurbankLeader	CA	30354991	KamalaHarris	CA
+25375098	BurbankLeader	CA	46740532	nickelodeoncast	NY
+25375098	BurbankLeader	CA	204825315	MundonickLA	
+25375098	BurbankLeader	CA	58309829	NickelodeonTV	
+25375098	BurbankLeader	CA	606625312	Angeles_NF	CA
+25375098	BurbankLeader	CA	545524836	LAPDOVB		CA
+25375098	BurbankLeader	CA	29467516	Cal_OES		CA
+25375098	BurbankLeader	CA	22666255	laraazar1	
+25375098	BurbankLeader	CA	385535253	CHP_HQ		CA
+25375098	BurbankLeader	CA	22467386	ozomatli	CA
+25375098	BurbankLeader	CA	1542767436	GoogleNewsTeam	CA
+25375098	BurbankLeader	CA	1561483825	ScotchVala	
+25375098	BurbankLeader	CA	73708365	newsterrier	CA
+25375098	BurbankLeader	CA	304807430	BurbankDems	
+25375098	BurbankLeader	CA	21630311	KateAurthur	
+25375098	BurbankLeader	CA	155572186	jackdolanLAT	
+25375098	BurbankLeader	CA	612021842	TeresaWatanabe	
+25375098	BurbankLeader	CA	266085613	latimescafe	CA
+25375098	BurbankLeader	CA	16408759	flySFO		CA
+25375098	BurbankLeader	CA	60397177	KristenLepore	
+25375098	BurbankLeader	CA	1511282612	Ta		NY 
+25375098	BurbankLeader	CA	23899230	JacqueRobinson	CA
+25375098	BurbankLeader	CA	255571625	DavanMaharaj	
+25375098	BurbankLeader	CA	607856488	villaraigosa	CA
+25375098	BurbankLeader	CA	22407421	paulkatami	CA
+25375098	BurbankLeader	CA	169253069	YogaBlend	CA
+25375098	BurbankLeader	CA	82824999	JohnCanalis	
+25375098	BurbankLeader	CA	15919765	la_nicola	CA 
+25375098	BurbankLeader	CA	403676245	latpix	 
+25375098	BurbankLeader	CA	1395857510	rudolphjoyce10	CA
+25375098	BurbankLeader	CA	14615871	EPA	
+25375098	BurbankLeader	CA	87795011	GAMChealth	CA
+25375098	BurbankLeader	CA	1465844287	PasadenaFD	CA
+25375098	BurbankLeader	CA	24451035	MeGoodWriter	MT
+25375098	BurbankLeader	CA	24596887	haileybranson	
+25375098	BurbankLeader	CA	107184104	rverrier	
+25375098	BurbankLeader	CA	61293362	RFaughnder	CA
+25375098	BurbankLeader	CA	510586613	SurfAir		CA
+25375098	BurbankLeader	CA	16538210	laura_nelson	
+25375098	BurbankLeader	CA	1020499860	litpas		CA
+25375098	BurbankLeader	CA	1507251889	GeBraxton	
+25375098	BurbankLeader	CA	16135536	discoverLA	
+25375098	BurbankLeader	CA	238843647	SLeasca	
+25375098	BurbankLeader	CA	196279268	DanielNMiller	
+25375098	BurbankLeader	CA	222218135	emfoxhall	TX 
+25375098	BurbankLeader	CA	111517935	ThatRebecca	
+25375098	BurbankLeader	CA	44480630	Sam_Schaefer	NY
+25375098	BurbankLeader	CA	2267241		passantino	
+25375098	BurbankLeader	CA	620246462	KatherineTulich	
+25375098	BurbankLeader	CA	225226797	tiffhsulatimes	NY
+25375098	BurbankLeader	CA	356001513	JillCowan	
+25375098	BurbankLeader	CA	143183433	MMPasadena	CA
+25375098	BurbankLeader	CA	28249063	LynneHeffley	 
+25375098	BurbankLeader	CA	18301985	anitabrenner	CA
+25375098	BurbankLeader	CA	107504277	LATimesEvents	CA
+25375098	BurbankLeader	CA	1375084045	BurbankYMCA_CA	CA
+25375098	BurbankLeader	CA	374035582	SGVPride	CA
+25375098	BurbankLeader	CA	545473614	LAPDFoothill	
+25375098	BurbankLeader	CA	599632006	NWSLosAngeles	CA
+25375098	BurbankLeader	CA	3947371	biermann	
+25375098	BurbankLeader	CA	354589296	burbankmom	CA
+25375098	BurbankLeader	CA	16458756	LATHotProperty	CA
+25375098	BurbankLeader	CA	40054239	HomeboyInd	CA
+25375098	BurbankLeader	CA	222905007	GlendaleArtsCA	CA
+25375098	BurbankLeader	CA	21590299	geholland	 
+25375098	BurbankLeader	CA	61114114	latimeshouston	
+25375098	BurbankLeader	CA	16163818	RMGNews		CA
+25375098	BurbankLeader	CA	58539459	ahughan		CA
+25375098	BurbankLeader	CA	25235198	GigiGraciette	CA
+25375098	BurbankLeader	CA	14780915	RollingStone	NY
+25375098	BurbankLeader	CA	369143034	JosephSerna	
+25375098	BurbankLeader	CA	844380578	CVLASD		CA
+25375098	BurbankLeader	CA	180014457	YerevanReport	
+25375098	BurbankLeader	CA	214110749	echoparkpatch	
+25375098	BurbankLeader	CA	72491966	jackhammer135	CA 
+25375098	BurbankLeader	CA	1158647886	cherylaguerrero	CA
+25375098	BurbankLeader	CA	15650252	LianaAgh	
+25375098	BurbankLeader	CA	19829856	katemather	
+25375098	BurbankLeader	CA	206125458	SteveAppleford	
+25375098	BurbankLeader	CA	17918860	LATdatadesk	CA
+25375098	BurbankLeader	CA	59378077	CHPsouthern	 
+25375098	BurbankLeader	CA	14739442	jtcorrigan	
+25375098	BurbankLeader	CA	243953577	818NewGuy	CA
+25375098	BurbankLeader	CA	589430663	GlendaleSports	CA
+25375098	BurbankLeader	CA	16230098	MetrolinkANT	
+25375098	BurbankLeader	CA	15681098	Metrolink	CA
+25375098	BurbankLeader	CA	237016866	Colo		CA
+25375098	BurbankLeader	CA	246552744	ByMeganONeil	DC
+25375098	BurbankLeader	CA	193771633	CountyofLA	CA 
+25375098	BurbankLeader	CA	297678630	LibraryBurbank	CA
+25375098	BurbankLeader	CA	266921522	DowntownBUR	CA
+25375098	BurbankLeader	CA	20953901	latimesquakes	CA
+25375098	BurbankLeader	CA	19439718	raulroa		CA
+25375098	BurbankLeader	CA	29501253	RepAdamSchiff	CA
+25375098	BurbankLeader	CA	21286406	tiffmkelly	CA
+25375098	BurbankLeader	CA	385544032	LAMarkKellam	CA
+25375098	BurbankLeader	CA	388592315	JournalismPics	CA
+25375098	BurbankLeader	CA	65188405	JoePiasecki	CA
+25375098	BurbankLeader	CA	412503094	CarolCormaci	CA
+25375098	BurbankLeader	CA	611356125	kellymcorrigan	
+25375098	BurbankLeader	CA	26102955	atchek	
+25375098	BurbankLeader	CA	283826229	pamadden	NY
+25375098	BurbankLeader	CA	1058708239	jefftsports	CA
+25375098	BurbankLeader	CA	1041129380	TCNCharlesRich	CA
+25375098	BurbankLeader	CA	595011544	CBUShortall	CA
+25375098	BurbankLeader	CA	1012418210	TCNGrantGordon	
+25375098	BurbankLeader	CA	1029966896	campadresports	CA
+25375098	BurbankLeader	CA	271125874	hippitypix	CA
+25375098	BurbankLeader	CA	43458175	mikegatto	
+25375098	BurbankLeader	CA	17452154	daveantho	NY	
+25375098	BurbankLeader	CA	62936417	SFVBJ		CA
+25375098	BurbankLeader	CA	389155497	VeronicaRochaLA	
+14330504	kimmoffat		45639285	jenlawlessWPI	DC
+14330504	kimmoffat		3078004621	MrJoshCooke	
+14330504	kimmoffat		16906137	pourmecoffee	
+14330504	kimmoffat		3265372914	TigNotaro	
+14330504	kimmoffat		2294930731	jjbrooks319	
+14330504	kimmoffat		123015364	AllisonBJanney	
+14330504	kimmoffat		55117855	amyschumer	NY
+14330504	kimmoffat		855785161	HubbaDubbDubbs	
+14330504	kimmoffat		61031027	MissLeslieG	
+14330504	kimmoffat		7145052		ingsocbloc	TX
+14330504	kimmoffat		156335898	kari_jordan10	UT
+14330504	kimmoffat		2505726956	bringtheawkward	
+14330504	kimmoffat		19724979	bethmaurer	CA
+14330504	kimmoffat		2817971244	Smarovich1	
+14330504	kimmoffat		1592687594	keifer77	
+14330504	kimmoffat		1922199206	leilargerstein	
+14330504	kimmoffat		240402076	john		CA
+14330504	kimmoffat		179228880	WingerJeff	CO
+14330504	kimmoffat		45766461	staceys47	
+14330504	kimmoffat		780104972	XplodingUnicorn	
+14330504	kimmoffat		242484239	celiadmorgan	TX
+14330504	kimmoffat		733609076	alinadebellis	
+14330504	kimmoffat		1583692597	NerdSelects	CA
+14330504	kimmoffat		2803308529	PiperGillin	
+14330504	kimmoffat		209420522	24Stevens	
+14330504	kimmoffat		24919972	mperegrym	
+14330504	kimmoffat		876219102	andmichaelgreen	
+14330504	kimmoffat		2590131312	SieraJones1	
+14330504	kimmoffat		502442856	ConstanceZimmer	
+14330504	kimmoffat		74669397	billyeichner	
+14330504	kimmoffat		1342229258	SNLJeopardy	
+14330504	kimmoffat		71597660	SNLUpdate	NY
+14330504	kimmoffat		72423061	mulaney		NY 
+14330504	kimmoffat		15147397	birbigs	
+14330504	kimmoffat		227347152	TVLine		NY  
+14330504	kimmoffat		2480709962	BradleyBear2000	
+14330504	kimmoffat		38593200	KiwiLovesYou	
+14330504	kimmoffat		255747911	EllenPage	CA
+14330504	kimmoffat		113439399	smrtgrls	
+14330504	kimmoffat		31312972	mradamscott	
+14330504	kimmoffat		39364684	chrissyteigen	
+14330504	kimmoffat		41058324	LafeJordan	CA
+14330504	kimmoffat		322786017	ScottPorter	
+14330504	kimmoffat		515034648	theskimm	
+14330504	kimmoffat		14803301	LevyOnTV	CA
+14330504	kimmoffat		2384433792	JHendricksMusic	CA 
+14330504	kimmoffat		245237505	Liliana		NY
+14330504	kimmoffat		2360574168	SlatesForSarah	CA
+14330504	kimmoffat		18653078	timothycsimons	CA
+14330504	kimmoffat		432901621	lizr555	
+14330504	kimmoffat		63818558	DaveProps	CA
+14330504	kimmoffat		2238345151	MichelleWrkman	NC
+14330504	kimmoffat		22322730	leticiavdp	CA
+14330504	kimmoffat		494583213	SandraFluke	CA
+14330504	kimmoffat		39967187	philphriday	CA
+14330504	kimmoffat		130496027	jonfavs	CA
+14330504	kimmoffat		245223987	hellokiki3	
+14330504	kimmoffat		276308625	MandiRaye	CA
+14330504	kimmoffat		1482932185	EnlistedWriters	
+14330504	kimmoffat		332721226	BirdySoderdy	CA
+14330504	kimmoffat		34097876	LaurenConrad	CA
+14330504	kimmoffat		63262233	emilyslist	DC
+14330504	kimmoffat		1396671		fredgraver	NY
+14330504	kimmoffat		805040311	nbteacherdad	
+37749828	bryanmward	CA	2528464069	thomasbell485	
+37749828	bryanmward	CA	268628487	cjmechoso	CA
+37749828	bryanmward	CA	14825503	RhettReese	
+37749828	bryanmward	CA	61035840	ImManaal	
+37749828	bryanmward	CA	577473146	HardyHarHar87	CA
+37749828	bryanmward	CA	43522180	Courtney	
+37749828	bryanmward	CA	23544268	OfficialKat	
+37749828	bryanmward	CA	148838434	fairuza	
+37749828	bryanmward	CA	287413569	RonPaul	Clute	TX
+37749828	bryanmward	CA	2218177956	GovJVentura	
+37749828	bryanmward	CA	2517117270	HiddenCash	CA
+37749828	bryanmward	CA	57097104	McConaughey	
+37749828	bryanmward	CA	1198406491	RWitherspoon	
+37749828	bryanmward	CA	1588486417	DrewBarrymore	
+37749828	bryanmward	CA	47786101	RobertDowneyJr	
+37749828	bryanmward	CA	2233154425	StephenKing	
+37749828	bryanmward	CA	376231288	moviepilotnews	
+37749828	bryanmward	CA	95711070	Freecomicbook	
+37749828	bryanmward	CA	2176998871	CameronDiaz	
+37749828	bryanmward	CA	27711339	JaredLeto	
+37749828	bryanmward	CA	618300542	SusanSarandon	NY
+37749828	bryanmward	CA	23553343	NeoAnomaly6	
+37749828	bryanmward	CA	20273211	Antho	
+37749828	bryanmward	CA	275215221	David_Boreanaz	
+37749828	bryanmward	CA	196013643	AllCharisma	
+37749828	bryanmward	CA	1924364738	SarahMGellar	
+37749828	bryanmward	CA	255593228	mmajdt		TX
+37749828	bryanmward	CA	16573941	netflix		CA
+37749828	bryanmward	CA	581289301	UVVU	
+37749828	bryanmward	CA	21940170	barneysbeanery	CA
+37749828	bryanmward	CA	19731770	MichaelKeaton	
+37749828	bryanmward	CA	31196202	RegalMovies	
+37749828	bryanmward	CA	337405519	RichardDreyfuss	
+37749828	bryanmward	CA	27988038	therealadamwest	CA 
+37749828	bryanmward	CA	28208983	gwenstefani	
+37749828	bryanmward	CA	262359713	heidiklum	
+37749828	bryanmward	CA	20065936	mental_floss	
+37749828	bryanmward	CA	314662792	BWWings	
+37749828	bryanmward	CA	16618332	henryrollins	CA 
+37749828	bryanmward	CA	89554463	abouthappyhour	CA 
+37749828	bryanmward	CA	1339835893	HillaryClinton	NY
+37749828	bryanmward	CA	50205873	ERIKAjaneC	CA
+37749828	bryanmward	CA	121626258	RobLowe	
+37749828	bryanmward	CA	7517222	WWE	Stamford	CT
+37749828	bryanmward	CA	351834114	PhansOfPhoenix	WA
+37749828	bryanmward	CA	22018488	40AcresBrooklyn	NY
+37749828	bryanmward	CA	308625424	Purple_Reign_	WA
+37749828	bryanmward	CA	241745370	ThePhoenixJones	WA
+37749828	bryanmward	CA	105001809	TatyanaAli	CA
+14816956	BLNT		CA	42744294	AndrewWK	
+14816956	BLNT		CA	50087140	Britta		NY	
+14816956	BLNT		CA	96997907	Charalanahzard	
+14816956	BLNT		CA	2597139992	zombiemommy77	
+14816956	BLNT		CA	463418061	CkRai	
+14816956	BLNT		CA	398068313	HeadInjuries	CO
+14816956	BLNT		CA	14222486	mikeherreraTD	
+14816956	BLNT		CA	20813338	TheDollyrots	CA
+14816956	BLNT		CA	16452939	TheSwellers	
+14816956	BLNT		CA	27057753	DyingScene	
+16941814	greatestoceans	CA	310463188	RondaRousey	CA
+16941814	greatestoceans	CA	612299173	TheDEADicated	
+16941814	greatestoceans	CA	2382926011	LA_KingsFans	CA
+16941814	greatestoceans	CA	131482972	liamcunningham1	
+16941814	greatestoceans	CA	35369214	lovegwendoline	
+16941814	greatestoceans	CA	178812809	IAMLenaHeadey	
+16941814	greatestoceans	CA	90084099	caricevhouten	
+16941814	greatestoceans	CA	1723671666	RyanMiller3039	
+16941814	greatestoceans	CA	328810158	strombone1	
+16941814	greatestoceans	CA	484390754	eddielack	
+16941814	greatestoceans	CA	3256937514	13KCliffy	CA
+16941814	greatestoceans	CA	62513246	jk_rowling	
+16941814	greatestoceans	CA	562381032	iamrashidajones	
+16941814	greatestoceans	CA	34886346	LauraJaneGrace	
+16941814	greatestoceans	CA	92717138	idriselba	
+16941814	greatestoceans	CA	104969057	IanMcKellen	
+16941814	greatestoceans	CA	361270172	Antho	
+16941814	greatestoceans	CA	580097412	ChrisEvans	LA
+16941814	greatestoceans	CA	15687962	Marvel	 	NY
+16941814	greatestoceans	CA	47786101	RobertDowneyJr	
+16941814	greatestoceans	CA	41135738	MonarchsHockey	
+16941814	greatestoceans	CA	373739902	nabber03	 
+16941814	greatestoceans	CA	15663407	frozenroyalty	CA
+16941814	greatestoceans	CA	284674366	teamlastore	CA
+16941814	greatestoceans	CA	3013651669	LAKingsHistory	CA 
+16941814	greatestoceans	CA	1321550167	PumperNicholl	
+16941814	greatestoceans	CA	48785884	clarkgregg	
+16941814	greatestoceans	CA	393987775	Lil_Henstridge	
+16941814	greatestoceans	CA	153457964	jedwhedon	
+16941814	greatestoceans	CA	61083773	MingNa	Always on top
+16941814	greatestoceans	CA	16551788	Rich_Hammond	
+16941814	greatestoceans	CA	79293791	rihanna	ANTI
+16941814	greatestoceans	CA	289459291	TJOshie77	MN
+16941814	greatestoceans	CA	20793816	amazon		WA
+16941814	greatestoceans	CA	22976125	StLouisBlues	MO
+16941814	greatestoceans	CA	18671559	edgarwright	
+16941814	greatestoceans	CA	29264626	PredsNHL	
+16941814	greatestoceans	CA	274673392	Chase	 	NY
+16941814	greatestoceans	CA	15361389	EdmontonOilers	
+16941814	greatestoceans	CA	29460627	FlaPanthers	FL
+16941814	greatestoceans	CA	16332223	RAIDERS		CA
+16941814	greatestoceans	CA	16900536	unfoRETTAble	
+16941814	greatestoceans	CA	16131275	SURS	 	NY
+16941814	greatestoceans	CA	2884185331	GustlTweets	
+16941814	greatestoceans	CA	813286		BarackObama	DC
+16941814	greatestoceans	CA	146290693	ColinHanks	
+16941814	greatestoceans	CA	77958511	theroyalhalf	
+16941814	greatestoceans	CA	1270491402	DarylEvans15	CA 
+16941814	greatestoceans	CA	708932977	KealieMardell	
+16941814	greatestoceans	CA	50004938	NHL	
+16941814	greatestoceans	CA	492690986	KingsMenPodcast	
+16941814	greatestoceans	CA	2258238908	martin_jones31	 
+16941814	greatestoceans	CA	17919972	taylorswift13	
+16941814	greatestoceans	CA	39328369	LAKingsIceCrew	CA
+16941814	greatestoceans	CA	17968886	epitaphrecords	CA
+16941814	greatestoceans	CA	103987673	Patrick_ONeal	CA
+16941814	greatestoceans	CA	398098355	keeperofthecup	
+16941814	greatestoceans	CA	50321609	AllieKayBand	
+16941814	greatestoceans	CA	74669397	billyeichner	
+16941814	greatestoceans	CA	1692230930	LAKingsPR	CA
+16941814	greatestoceans	CA	33041426	daxshepard1	LA
+16941814	greatestoceans	CA	1715051		SethGreen	
+16941814	greatestoceans	CA	169686021	ka		NY
+16941814	greatestoceans	CA	14939981	questlove	
+16941814	greatestoceans	CA	23497233	Sia	
+16941814	greatestoceans	CA	244293586	RealMichelleT	NY
+16941814	greatestoceans	CA	66528154	mikeshinoda	
+16941814	greatestoceans	CA	17344075	gerardway	
+16941814	greatestoceans	CA	236481094	KingsVision	CA
+16941814	greatestoceans	CA	298711673	JimFox19	
+16941814	greatestoceans	CA	1090491589	dewyy8	
+16941814	greatestoceans	CA	205938397	BaileyLAKings	
+16941814	greatestoceans	CA	2727469914	JeffCarter_77	
+16941814	greatestoceans	CA	38523886	tannerjpearson	CA
+16941814	greatestoceans	CA	276811721	tytoff16	
+16941814	greatestoceans	CA	107593607	MGaborik12	
+16941814	greatestoceans	CA	78975783	lakingsinsider	CA
+16941814	greatestoceans	CA	198693792	MRichie_10	
+16941814	greatestoceans	CA	374253257	trevorlewis22	
+16941814	greatestoceans	CA	872789472	Willie_Mitch33	
+16941814	greatestoceans	CA	355309454	amartinez_27	
+16941814	greatestoceans	CA	69827637	AnzeKopitar	
+16941814	greatestoceans	CA	317338639	JonathanQuick32	
+16941814	greatestoceans	CA	21662960	DustinBrown23	
+16941814	greatestoceans	CA	16212952	falloutboy	IL
+16941814	greatestoceans	CA	15515656	ChloeBennet4	IL
+16941814	greatestoceans	CA	344779704	HaileeSteinfeld	
+16941814	greatestoceans	CA	207831555	dmndyouth	MD
+16941814	greatestoceans	CA	40245758	AMCTheatres	
+16941814	greatestoceans	CA	1736663305	IndiaHouseLB	CA
+16941814	greatestoceans	CA	332638587	aaronpaul_8	
+16941814	greatestoceans	CA	237845487	GeorgeTakei	NY
+16941814	greatestoceans	CA	1112465706	AgentsofSHIELD	
+16941814	greatestoceans	CA	65289126	TheRealStanLee	
+16941814	greatestoceans	CA	555448499	CobieSmulders	CA
+16941814	greatestoceans	CA	100322679	SophieT	
+16941814	greatestoceans	CA	101798589	Maisie_Williams	
+16941814	greatestoceans	CA	250831586	TheRock	
+16941814	greatestoceans	CA	19081351	qotsa	
+16941814	greatestoceans	CA	3013511		michellebranch	
+16941814	greatestoceans	CA	16264006	petewentz	
+16941814	greatestoceans	CA	443215941	Sethrogen	
+16941814	greatestoceans	CA	180463340	GameOfThrones	
+16941814	greatestoceans	CA	59949396	AnnaKendrick47	
+16941814	greatestoceans	CA	166739404	EmWatson	
+16941814	greatestoceans	CA	882854779	csulbUMS	CA
+16941814	greatestoceans	CA	406688524	emLAarmstrong	CA
+16941814	greatestoceans	CA	18219730	igotsole	CA
+16941814	greatestoceans	CA	6273762		theroxy	West 	CA
+16941814	greatestoceans	CA	17654192	justinmj	CA
+16941814	greatestoceans	CA	20796323	IlanRubin	CA
+16941814	greatestoceans	CA	17693277	TayJardine	NY
+16941814	greatestoceans	CA	140644567	acceptanceband	WA
+16941814	greatestoceans	CA	16519049	KevinLyman	
+16941814	greatestoceans	CA	116056728	SaveTheSperels	
+16941814	greatestoceans	CA	172896656	Yellowcard	
+16941814	greatestoceans	CA	52144222	everytimeidie	
+16941814	greatestoceans	CA	15840846	SensesFail	
+16941814	greatestoceans	CA	121962300	HeyitsFCC	CA
+16941814	greatestoceans	CA	54832863	FrankieLindia	CA
+16941814	greatestoceans	CA	19013887	LAKings	CA
+16941814	greatestoceans	CA	56927066	donald_faison	
+16941814	greatestoceans	CA	525782519	JADEDPUNKHULK	
+16941814	greatestoceans	CA	19879313	evilhag	hell swamp
+16941814	greatestoceans	CA	29329650	MekennaMelvin	
+16941814	greatestoceans	CA	68850939	AtomicRecordsLA	
+16941814	greatestoceans	CA	567813270	HopefulKnight	
+16941814	greatestoceans	CA	103755670	drewberinger	
+16941814	greatestoceans	CA	26565946	jtimberlake	TN
+16941814	greatestoceans	CA	76997832	zachbraff	
+16941814	greatestoceans	CA	165511377	AndyRichter	
+16941814	greatestoceans	CA	139162440	pattonoswalt	
+16941814	greatestoceans	CA	36663339	deathoftheparty	NY
+16941814	greatestoceans	CA	35649837	deadsara	
+16941814	greatestoceans	CA	75974281	SamuelLJackson	
+16941814	greatestoceans	CA	228794007	IamDonCheadle	
+16941814	greatestoceans	CA	53297035	IMKristenBell	CA 
+16941814	greatestoceans	CA	286795905	Dancing_Fighter	
+16941814	greatestoceans	CA	23421193	DCpierson	CA
+16941814	greatestoceans	CA	7322672		dominicdierkes	CA
+16941814	greatestoceans	CA	412825293	CloneTravis	
+16941814	greatestoceans	CA	21954529	MartinStarr	
+16941814	greatestoceans	CA	27022632	rejectedjokes	CA
+16941814	greatestoceans	CA	100312878	brandnewrock	NY
+16941814	greatestoceans	CA	31312972	mradamscott	
+16941814	greatestoceans	CA	62589395	IMDbTV	
+19081949	oicStars	CA	33712206	EvelynTaft	
+19081949	oicStars	CA	89602531	RickGarciaNews	
+19081949	oicStars	CA	15686484	AmberLeeNews	CA
+19081949	oicStars	CA	130967186	SharonTay888	
+19081949	oicStars	CA	84124647	StephatCBS2	
+19081949	oicStars	CA	59378077	CHPsouthern	 
+19081949	oicStars	CA	1442375030	LifeBelowZeroPT	
+19081949	oicStars	CA	2153719345	LifeBelowZeroTV	
+19081949	oicStars	CA	25073877	realDonaldTrump	NY
+19081949	oicStars	CA	3349543188	JeniusEzell	TX
+19081949	oicStars	CA	44945327	Franklin_Graham	
+19081949	oicStars	CA	134196350	flightradar24	
+19081949	oicStars	CA	18847632	U2	
+19081949	oicStars	CA	37840190	U2TOURFANS	NY
+19081949	oicStars	CA	786764		bbcworldservice	
+19081949	oicStars	CA	17919393	W7VOA	
+19081949	oicStars	CA	3167195552	NorthmenPK	
+19081949	oicStars	CA	63291287	REALStaceyDash	
+19081949	oicStars	CA	495486267	AdrianTitan23	
+19081949	oicStars	CA	17061263	neta	NYahu	
+19081949	oicStars	CA	102467108	E_SGVScanner	
+19081949	oicStars	CA	35474809	Peggynoonan	NY
+19081949	oicStars	CA	95658198	thedunwells	
+19081949	oicStars	CA	1087395890	iamnalacat	
+19081949	oicStars	CA	2565853348	JessaSeewald	
+19081949	oicStars	CA	17795275	LAZoo	
+19081949	oicStars	CA	18458941	finkylinky	
+19081949	oicStars	CA	75595790	CharleysMissing	
+19081949	oicStars	CA	19013887	LAKings	CA
+19081949	oicStars	CA	2400958227	Anna_Duggar	DC
+19081949	oicStars	CA	2353733644	jesspelletier_	
+19081949	oicStars	CA	482506246	JennPelletier3	
+19081949	oicStars	CA	68768019	derick4Him	AR
+19081949	oicStars	CA	2418209232	jillmdillard	AR
+19081949	oicStars	CA	876423338	JuliusBlumberg	
+19081949	oicStars	CA	19312573	SGVTribune	CA
+19081949	oicStars	CA	147118819	mummyto2kids	CA
+19081949	oicStars	CA	2389477621	TrafficNBCLA	CA
+19081949	oicStars	CA	82033951	joshduggar	DC
+19081949	oicStars	CA	475988505	GeorgeHWBush	TX
+19081949	oicStars	CA	1437159846	AnnaDuggar	DC
+19081949	oicStars	CA	2174203453	duggarfam	AR
+19081949	oicStars	CA	813784075	BenSeewald	
+19081949	oicStars	CA	1181077105	DavidNCil	
+19081949	oicStars	CA	27127111	charmoon	CO
+19081949	oicStars	CA	1152279248	EarthPix	
+19081949	oicStars	CA	10774652	theblaze	NY
+19081949	oicStars	CA	179245596	DavidLimbaugh	
+19081949	oicStars	CA	1709993712	rushrevere	
+19081949	oicStars	CA	193757722	DowntonAbbey	 
+19081949	oicStars	CA	122765125	theLadyGrantham	
+19081949	oicStars	CA	45251373	JonathanJoly	
+19081949	oicStars	CA	173650167	alainwhyte	
+19081949	oicStars	CA	612473		BBCNews	
+19081949	oicStars	CA	22047070	limbaugh	
+19081949	oicStars	CA	28171935	tlcontlc	TX
+19081949	oicStars	CA	403632664	ReallyBillKlein	TX
+19081949	oicStars	CA	605824568	JenArnoldMD	TX
+19081949	oicStars	CA	163131633	KWBFanPage	CA
+19081949	oicStars	CA	238193451	FindBenNeedham	
+19081949	oicStars	CA	78523300	RealJamesWoods	
+19081949	oicStars	CA	148841925	The_LorettaLynn	TN
+19081949	oicStars	CA	279169434	TheCrystalGayle	TN
+19081949	oicStars	CA	631478663	ABCNetwork	
+19081949	oicStars	CA	1708267974	HollywoodBabel	LA
+19081949	oicStars	CA	1582853809	HistoryInPics	
+19081949	oicStars	CA	299893453	BurbankCA	CA
+19081949	oicStars	CA	23043294	Dodgers	
+19081949	oicStars	CA	248917209	hwinkler4real	CA
+19081949	oicStars	CA	1373486120	MelBrooks	
+19081949	oicStars	CA	80937511	BobNewhart	CA
+19081949	oicStars	CA	14824849	SteveMartinToGo	
+19081949	oicStars	CA	262543492	iammrvandy	
+19081949	oicStars	CA	82713573	DineTheresas	CA
+19081949	oicStars	CA	43283406	MrsSOsbourne	
+19081949	oicStars	CA	43269420	JackOsbourne	CA
+19081949	oicStars	CA	28785486	ABC		NY
+19081949	oicStars	CA	5402612		BBCBreaking	
+19081949	oicStars	CA	774393817	NewsBreaker	
+19081949	oicStars	CA	14942701	BindiIrwin	 
+19081949	oicStars	CA	51241574	AP	
+19081949	oicStars	CA	283895895	LAScanner	
+19081949	oicStars	CA	15925193	AnnaSaccone	
+19081949	oicStars	CA	17454769	glennbeck	NY
+19081949	oicStars	CA	324398730	DougONeill1	
+19081949	oicStars	CA	54245524	ISNJH	
+21375816	TyphoidAnnie		72097925	Losangeleshaunt	
+21375816	TyphoidAnnie		1057037611	foodstirs	CA
+21375816	TyphoidAnnie		18853142	gabe_dylan	
+21375816	TyphoidAnnie		33578424	UniStudios	CA
+21375816	TyphoidAnnie		3303678356	theadampq	
+21375816	TyphoidAnnie		61346129	FYFFEST	
+21375816	TyphoidAnnie		2813652210	MeowTheJewels	
+21375816	TyphoidAnnie		15190378	lorrainecink	NY
+21375816	TyphoidAnnie		23155154	MPhilly015	CA
+21375816	TyphoidAnnie		15484301	doriancollier	CA
+21375816	TyphoidAnnie		5976992		kellysue	OR
+21375816	TyphoidAnnie		276811470	TaylorNPrice	
+21375816	TyphoidAnnie		76231847	Jawiin		CA
+21375816	TyphoidAnnie		2707577815	GtGAdam		MO
+21375816	TyphoidAnnie		14910027	JordanLyall	CA
+21375816	TyphoidAnnie		596697502	jacknife_33	
+21375816	TyphoidAnnie		17927954	asouers	
+21375816	TyphoidAnnie		77122191	NewAmsterdamn	CA
+21375816	TyphoidAnnie		80127034	SharonHorgan	
+21375816	TyphoidAnnie		36088191	1iota	
+21375816	TyphoidAnnie		2244257444	OffTracRob	
+21375816	TyphoidAnnie		24289404	JaimieAlexander	
+21375816	TyphoidAnnie		27826072	PSGraffiti	
+21375816	TyphoidAnnie		261398091	ashlynanstee	
+21375816	TyphoidAnnie		384031846	BaruchelNDG	
+21375816	TyphoidAnnie		19098960	BeTheMatch	
+21375816	TyphoidAnnie		814835581	iambjbritt	
+21375816	TyphoidAnnie		258736912	thedarkness	
+21375816	TyphoidAnnie		2473085666	LegionofLeia	
+21375816	TyphoidAnnie		56436152	Carrie_Rachel	
+21375816	TyphoidAnnie		2866358558	GoldenGirlsTNG	
+21375816	TyphoidAnnie		3305791		xtinehlee	
+21375816	TyphoidAnnie		596912223	IAMLILBUB	IN
+21375816	TyphoidAnnie		282539922	loopdeloopaloop	
+21375816	TyphoidAnnie		19726058	RiotFest	
+21375816	TyphoidAnnie		13007812	whedonesque	
+21375816	TyphoidAnnie		1137700339	gates_mcfadden	
+21375816	TyphoidAnnie		1378000488	OriginalFunko	WA
+21375816	TyphoidAnnie		709226545	lootcrate	CA
+21375816	TyphoidAnnie		25020437	KTANCH	
+21375816	TyphoidAnnie		174878986	kittybungalow	CA
+21375816	TyphoidAnnie		100322679	SophieT	
+21375816	TyphoidAnnie		101798589	Maisie_Williams	
+21375816	TyphoidAnnie		323030026	dosadood	CA
+21375816	TyphoidAnnie		602993818	MsSarahPaulson	NY
+21375816	TyphoidAnnie		2670449197	leepace	
+21375816	TyphoidAnnie		78482616	HasbroNews	
+21375816	TyphoidAnnie		25246760	jonlajoiecomedy	LA
+21375816	TyphoidAnnie		282392576	GroovyBruce	
+21375816	TyphoidAnnie		325832193	jonathansfrakes	
+21375816	TyphoidAnnie		19029137	BrentSpiner	CA
+21375816	TyphoidAnnie		561754773	akaWorf	
+21375816	TyphoidAnnie		1323187164	Marina_Sirtis	
+21375816	TyphoidAnnie		744867883	SHIELDtv	
+21375816	TyphoidAnnie		161864402	trekfm	
+21375816	TyphoidAnnie		609688553	laina622	
+21375816	TyphoidAnnie		17750231	nicksummers	
+21375816	TyphoidAnnie		2462907158	OzzyManReviews	
+21375816	TyphoidAnnie		236900428	overboardhumor	
+21375816	TyphoidAnnie		2359926157	CIA		VA
+21375816	TyphoidAnnie		23041522	VinelandDriveIn	CA
+21375816	TyphoidAnnie		393987775	Lil_Henstridge	
+21375816	TyphoidAnnie		61083773	MingNa	
+21375816	TyphoidAnnie		17275529	emeraldcitycon	WA
+21375816	TyphoidAnnie		26281970	Official_PAX	
+21375816	TyphoidAnnie		1416339126	IMBrettDalton	
+21375816	TyphoidAnnie		354133033	catsofinstagram	
+21375816	TyphoidAnnie		388426142	IAmMarkManson	
+21375816	TyphoidAnnie		233379824	ericaputze	
+21375816	TyphoidAnnie		1884429685	BadWordsMovie	
+21375816	TyphoidAnnie		54131291	PeteVenters	WA
+21375816	TyphoidAnnie		93523126	Spen		NY
+21375816	TyphoidAnnie		16391737	ken	
+21375816	TyphoidAnnie		495074432	StarTrek_DST	
+21375816	TyphoidAnnie		1445691252	TheLastSpaceman	
+21375816	TyphoidAnnie		945220710	DisneylandToday	CA
+21375816	TyphoidAnnie		1603419038	Schultz44	DC
+21375816	TyphoidAnnie		104937383	bluthquotes	
+21375816	TyphoidAnnie		740895416	NightValeRadio	
+21375816	TyphoidAnnie		14111650	skydart	
+21375816	TyphoidAnnie		509531549	TopherGrace	
+21375816	TyphoidAnnie		204688509	LauraPrepon	CA
+21375816	TyphoidAnnie		206960883	MeredithGLevine	
+21375816	TyphoidAnnie		1924364738	SarahMGellar	
+21375816	TyphoidAnnie		1306255004	SMC_PTK		CA
+21375816	TyphoidAnnie		1450473044	NOWishgames	WA
+21375816	TyphoidAnnie		109779429	Rai	
+21375816	TyphoidAnnie		622214601	TotalDisruption	
+21375816	TyphoidAnnie		1447535030	TerrifyingPics	
+21375816	TyphoidAnnie		144040563	GearsViking	
+21375816	TyphoidAnnie		1640799205	nerdstronggym	CA
+21375816	TyphoidAnnie		18664611	SMCPolitics	CA
+21375816	TyphoidAnnie		376617377	spidarmen	
+21375816	TyphoidAnnie		538584246	DinosaurDracula NY
+21375816	TyphoidAnnie		16619881	teefury		CA
+21375816	TyphoidAnnie		69981632	VidCon	
+21375816	TyphoidAnnie		1303061150	Courtneedray	CA
+21375816	TyphoidAnnie		434725454	TroyBakerVA	
+21375816	TyphoidAnnie		321726789	GeekyHooker	TX
+21375816	TyphoidAnnie		49690705	ParksAndCons	CA
+21375816	TyphoidAnnie		18396070	levarburton	CA
+21375816	TyphoidAnnie		784647		veronicamars	CA
+21375816	TyphoidAnnie		9942272	a	NYlaurie16	LA
+21375816	TyphoidAnnie		355906128	wendydavis	TX
+21375816	TyphoidAnnie		37517004	tomlenk		CA
+21375816	TyphoidAnnie		1486285009	AlexisDenisof	
+21375816	TyphoidAnnie		1455486151	VaporStarter	
+21375816	TyphoidAnnie		586671909	vine	
+21375816	TyphoidAnnie		37440018	CatchTwentyDu	CA 
+21375816	TyphoidAnnie		240555775	ArdaWigs	IL
+21375816	TyphoidAnnie		21356261	BigBoyler	
+21375816	TyphoidAnnie		118614063	AdamFeuerberg	CA
+21375816	TyphoidAnnie		408145258	TheTi	
+21375816	TyphoidAnnie		1250191058	arresteddev	
+21375816	TyphoidAnnie		1426841658	PhilYesPhil	
+21375816	TyphoidAnnie		1112465706	AgentsofSHIELD	
+21375816	TyphoidAnnie		1002778975	RealSAlexander	
+21375816	TyphoidAnnie		16665995	Oliver_Vaquer	
+21375816	TyphoidAnnie		526911841	stfoodcinema	
+21375816	TyphoidAnnie		19721040	TheDandyWarhols	
+21375816	TyphoidAnnie		23206141	duplaselton	
+21375816	TyphoidAnnie		1904841		cecilgene	AZ
+21375816	TyphoidAnnie		106828121	DaveNapoli	CA
+21375816	TyphoidAnnie		169973532	gamenightguys	AZ
+21375816	TyphoidAnnie		20279424	theCHIVE	TX
+21375816	TyphoidAnnie		22931893	sethmnookin	MA
+21375816	TyphoidAnnie		252741081	GTGamesLLC	
+21375816	TyphoidAnnie		970389937	AliMinus20	NJ
+21375816	TyphoidAnnie		18666623	drewholmes	
+21375816	TyphoidAnnie		17865580	flatlinejack	CA
+21375816	TyphoidAnnie		64488804	IGLevine	MA
+21375816	TyphoidAnnie		45862504	IrrationalGames	MA
+21375816	TyphoidAnnie		22643137	MoTancharoen	CA
+21375816	TyphoidAnnie		48785884	clarkgregg	
+21375816	TyphoidAnnie		1242601483	MuchAdoFilm	
+21375816	TyphoidAnnie		15656575	CABrowncoats	CA
+21375816	TyphoidAnnie		204870137	wizards_magic	WA
+21375816	TyphoidAnnie		1209698683	TyphoidSisters	
+21375816	TyphoidAnnie		974126456	HallHLine	
+21375816	TyphoidAnnie		383493565	MarkDuplass	
+21375816	TyphoidAnnie		65502818	justjenn	
+21375816	TyphoidAnnie		219088787	USofJR		CA
+21375816	TyphoidAnnie		41474889	SMC_edu		CA
+21375816	TyphoidAnnie		16734404	sdzombiewalk	CA
+21375816	TyphoidAnnie		23352907	allthathowl	
+21375816	TyphoidAnnie		19880458	lunatefossa	CA
+21375816	TyphoidAnnie		17358750	ericgarcetti	
+21375816	TyphoidAnnie		188616009	Sohinki	CA
+21375816	TyphoidAnnie		32707312	CrumbsBakeShop	NY 
+21375816	TyphoidAnnie		239675358	ricocolantoni	
+21375816	TyphoidAnnie		143922679	RobThomas	TX
+21375816	TyphoidAnnie		344226126	OutsideComicCon	CA
+21375816	TyphoidAnnie		262216372	comicconblog	IL
+21375816	TyphoidAnnie		1161678540	CaveBrawl	
+21375816	TyphoidAnnie		214581213	MarcoMannone	
+21375816	TyphoidAnnie		295277375	LouJohnB	
+21375816	TyphoidAnnie		31239408	Beyonce	
+21375816	TyphoidAnnie		62396008	BlackMilkTweets	
+21375816	TyphoidAnnie		16900044	WonderCon	
+21375816	TyphoidAnnie		9811502		jasonrapp	
+21375816	TyphoidAnnie		23027237	nickkroll	
+21375816	TyphoidAnnie		14426048	jeffcannata	CA
+21375816	TyphoidAnnie		33051095	edwardjolmos	
+21375816	TyphoidAnnie		113420831	PressSec	DC
+21375816	TyphoidAnnie		30313925	WhiteHouse	DC
+21375816	TyphoidAnnie		975019010	thelegfist	
+21375816	TyphoidAnnie		36728196	BarbaraCorcoran	NY 
+21375816	TyphoidAnnie		602317143	SirPatStew	
+21375816	TyphoidAnnie		476340081	StoryBots	CA
+21375816	TyphoidAnnie		30614676	alydenisof	
+21375816	TyphoidAnnie		15808765	CoryBooker	NJ
+21375816	TyphoidAnnie		813286		BarackObama	DC
+21375816	TyphoidAnnie		65289126	TheRealStanLee	
+21375816	TyphoidAnnie		19697415	billmaher	
+21375816	TyphoidAnnie		180505807	instagram	
+21375816	TyphoidAnnie		40040813	DisneyFoodBlog	
+21375816	TyphoidAnnie		77282988	thealisonbecker	
+21375816	TyphoidAnnie		213090101	jaugustrichards	
+21375816	TyphoidAnnie		20273211	Antho	
+21375816	TyphoidAnnie		454309617	SaffiCauthon	
+21375816	TyphoidAnnie		57995617	emmacaulfield	
+21375816	TyphoidAnnie		27754737	TeaPartyCat	
+21375816	TyphoidAnnie		409486555	MichelleObama	
+21375816	TyphoidAnnie		15109390	vidlit		CA
+21375816	TyphoidAnnie		15111389	breagrant	
+21375816	TyphoidAnnie		17199144	pingoman	
+21375816	TyphoidAnnie		224809136	StanLeeComikaze	CA
+21375816	TyphoidAnnie		36620039	clifflloret	CA
+21375816	TyphoidAnnie		12616		johnaugust	CA
+21375816	TyphoidAnnie		110365072	GordonRamsay	
+21375816	TyphoidAnnie		332638587	aaronpaul_8	
+21375816	TyphoidAnnie		15467052	JossWhedonFans	
+21375816	TyphoidAnnie		134668186	AmyAcker	
+21375816	TyphoidAnnie		44228076	SD_Comic_Con	CA
+21375816	TyphoidAnnie		153457964	jedwhedon	
+21375816	TyphoidAnnie		39689218	mishacollins	
+21375816	TyphoidAnnie		32122637	EatThisNotThat	NY
+21375816	TyphoidAnnie		225096034	TheMarySue	NY
+21375816	TyphoidAnnie		14167540	muskrat_john	WI
+21375816	TyphoidAnnie		15968048	GeekNation	
+21375816	TyphoidAnnie		20015311	rickygervais	
+21375816	TyphoidAnnie		316881789	DuffsCakemix	
+21375816	TyphoidAnnie		48027925	JaneEspenson	
+21375816	TyphoidAnnie		156453883	Crazy4ComicCon	
+21375816	TyphoidAnnie		618414095	ScienceAt	
+21375816	TyphoidAnnie		274626857	tweetbot	
+21375816	TyphoidAnnie		257713856	Firefly10th	
+21375816	TyphoidAnnie		135600905	KaiGGe	
+21375816	TyphoidAnnie		196013643	AllCharisma	
+21375816	TyphoidAnnie		30345764	BretEastonEllis	
+21375816	TyphoidAnnie		76044720	JM_Live	
+21375816	TyphoidAnnie		275215221	David_Boreanaz	
+21375816	TyphoidAnnie		61524920	theoneringnet	WI
+21375816	TyphoidAnnie		313916789	Duff_Goldman	CA
+21375816	TyphoidAnnie		131991069	BornToCall	
+21375816	TyphoidAnnie		569510579	ZooeySiri	
+21375816	TyphoidAnnie		214637103	brockwilbur	
+21375816	TyphoidAnnie		578448733	StateOfUsNews	
+21375816	TyphoidAnnie		116674891	JonHenryDoc	CA
+21375816	TyphoidAnnie		391891226	TNG_S8	
+21375816	TyphoidAnnie		23514176	Phil_Thompson	MN
+21375816	TyphoidAnnie		19356814	antonejohnson	CA
+21375816	TyphoidAnnie		16303106	StephenAtHome	
+21375816	TyphoidAnnie		33162603	wlip		CA
+21375816	TyphoidAnnie		76406874	The_Corsair	CA
+21375816	TyphoidAnnie		31080039	lenadunham	
+21375816	TyphoidAnnie		31312972	mradamscott	
+21375816	TyphoidAnnie		231902074	cbedgood	
+21375816	TyphoidAnnie		108088143	shanolahampton	
+21375816	TyphoidAnnie		177788613	TheSkiritae	CA
+21375816	TyphoidAnnie		18639249	JibJab		CA
+21375816	TyphoidAnnie		22387824	CameronMonaghan	CA
+21375816	TyphoidAnnie		21064165	julietlandau	CA
+21375816	TyphoidAnnie		20199809	hotdougs	
+21375816	TyphoidAnnie		241205343	TheGingerRunner	CA
+21375816	TyphoidAnnie		455898758	RoninGrey	
+21375816	TyphoidAnnie		18812795	cakewrecks	
+21375816	TyphoidAnnie		259916553	jenneedsanap	
+21375816	TyphoidAnnie		238456744	stevehowey	
+21375816	TyphoidAnnie		176895950	SHO_Shameless	IL
+21375816	TyphoidAnnie		107332508	Justingchatwin	CA
+21375816	TyphoidAnnie		19329324	ZocDoc		NY
+21375816	TyphoidAnnie		20259508	smosier	
+21375816	TyphoidAnnie		341218443	AnneWheaton	
+21375816	TyphoidAnnie		171772351	mintiiB		MI
+21375816	TyphoidAnnie		15730030	plainchicken	
+21375816	TyphoidAnnie		230232834	CoryAikman	CA
+21375816	TyphoidAnnie		157218534	DeathStarPR	
+21375816	TyphoidAnnie		65591955	bundy_kim	
+21375816	TyphoidAnnie		75974281	SamuelLJackson	
+21375816	TyphoidAnnie		24807616	hitRECordJoe	
+21375816	TyphoidAnnie		38488854	MarcNager	WA
+21375816	TyphoidAnnie		278778939	shitgirlssay	
+21375816	TyphoidAnnie		38611183	thebrianposehn	
+21375816	TyphoidAnnie		234640701	Faperture	
+21375816	TyphoidAnnie		434650027	J2thecarpenter	
+21375816	TyphoidAnnie		384953260	90sgirlproblem	
+21375816	TyphoidAnnie		428641510	procatinator	
+21375816	TyphoidAnnie		354847710	Codecademy	NY
+21375816	TyphoidAnnie		22084427	robdelaney	
+21375816	TyphoidAnnie		14038862	Raptr		CA
+21375816	TyphoidAnnie		425553421	EveryTweet_Ever	
+21375816	TyphoidAnnie		398444149	ReelBucket	CA
+21375816	TyphoidAnnie		28386584	meganrosedickey	CA
+21375816	TyphoidAnnie		304185486	_Snape_	
+21375816	TyphoidAnnie		95745540	FormPhotography	OR
+21375816	TyphoidAnnie		355988492	ColeKnapek	TX
+21375816	TyphoidAnnie		46555393	abrazilian	CA
+21375816	TyphoidAnnie		35421350	wavves	CA
+21375816	TyphoidAnnie		19430497	JonHenryMusic	WI
+21375816	TyphoidAnnie		20418842	stoprevolt	
+21375816	TyphoidAnnie		38022929	Dynamite2999	
+21375816	TyphoidAnnie		118975084	jgold85	
+21375816	TyphoidAnnie		202415747	TheRichardLewis	
+21375816	TyphoidAnnie		17051197	thinkgeekspam	
+21375816	TyphoidAnnie		16785010	dallasmorgan	CA
+21375816	TyphoidAnnie		211588704	HEROofTIME64	
+21375816	TyphoidAnnie		314368443	PamTheYam	
+21375816	TyphoidAnnie		147139142	Barl0we	
+21375816	TyphoidAnnie		91892420	DeadlySwordz	
+21375816	TyphoidAnnie		15201916	MarlonReyes	NJ
+21375816	TyphoidAnnie		373975061	MalinAkerman	
+21375816	TyphoidAnnie		362012823	IntheNameofGame	
+21375816	TyphoidAnnie		18757050	enjoymatt	CA
+21375816	TyphoidAnnie		23730417	Darrolm		CA
+21375816	TyphoidAnnie		32390093	redtapemedia	
+21375816	TyphoidAnnie		25399731	BreakingBad_AMC	NM
+21375816	TyphoidAnnie		247093237	EisMC2quared	
+21375816	TyphoidAnnie		43838349	itsaholiday88	
+21375816	TyphoidAnnie		57084769	edhelms		CA
+21375816	TyphoidAnnie		8231372		praisecheeses	CA
+21375816	TyphoidAnnie		251496825	RyanGosling	LA
+21375816	TyphoidAnnie		40150421	RockMe_Re	CA
+21375816	TyphoidAnnie		280304452	MikeB3Mayer	CA
+21375816	TyphoidAnnie		9884302		amaravp	
+21375816	TyphoidAnnie		349052775	Jamie_Baker_	CA
+21375816	TyphoidAnnie		240402076	john		CA
+21375816	TyphoidAnnie		18701067	onditimoner	
+21375816	TyphoidAnnie		20276213	ocularnervosa	
+21375816	TyphoidAnnie		57566042	mtbsteve	CA
+21375816	TyphoidAnnie		18652231	chrcharcor	
+21375816	TyphoidAnnie		19244500	Fiirvoen	
+21375816	TyphoidAnnie		193509328	CutsonCuts	
+21375816	TyphoidAnnie		101584375	selenetaron	OR
+21375816	TyphoidAnnie		127752294	MochiiMaccha	
+21375816	TyphoidAnnie		186642758	gamerzitch	
+21375816	TyphoidAnnie		44215023	janemarielynch	
+21375816	TyphoidAnnie		72457270	JenSchwalbach	
+21375816	TyphoidAnnie		14703765	wiltern		CA
+21375816	TyphoidAnnie		169686021	ka		NY
+21375816	TyphoidAnnie		24815916	GigawattConduit	
+21375816	TyphoidAnnie		78787157	SNOWWISS	MD
+21375816	TyphoidAnnie		124818259	whitegrlproblem	
+21375816	TyphoidAnnie		130600864	Sean_M_Maher	
+21375816	TyphoidAnnie		13188172	ArtsyNeurotic	CA
+21375816	TyphoidAnnie		37045830	MichaelMcKiddy	CA
+21375816	TyphoidAnnie		128956175	TheRealNimoy	
+21375816	TyphoidAnnie		40772054	anAntiHero	CA
+21375816	TyphoidAnnie		109038419	MissAngieChrist	
+21375816	TyphoidAnnie		321095858	4thQuarterBlues	
+21375816	TyphoidAnnie		318055869	JElwood10	
+21375816	TyphoidAnnie		57006383	3_Legged_Llama	CA
+21375816	TyphoidAnnie		358624102	HealthySurprise	CA
+21375816	TyphoidAnnie		23165803	StevenCorrea	CA
+21375816	TyphoidAnnie		354532302	MidnightShadow3	
+21375816	TyphoidAnnie		316608577	LosAngelesFoto	CA
+21375816	TyphoidAnnie		334321077	alan_tudyk	
+21375816	TyphoidAnnie		24418900	Phamista	CA
+21375816	TyphoidAnnie		356392460	TriviaTogether	CA
+21375816	TyphoidAnnie		213184382	TBDofficial	CA
+21375816	TyphoidAnnie		18321436	FilmSnobbery	CA
+21375816	TyphoidAnnie		225532943	darthvadersays	
+21375816	TyphoidAnnie		346986548	LilliColombo	
+21375816	TyphoidAnnie		247637481	kristinadamstv	
+21375816	TyphoidAnnie		193568828	ryguysir	
+21375816	TyphoidAnnie		22872643	kellyoxford	
+21375816	TyphoidAnnie		97564473	ohsnapjbsmoove	
+21375816	TyphoidAnnie		207186647	JWWallE	CA
+21375816	TyphoidAnnie		282813196	treyalexmovies	
+21375816	TyphoidAnnie		20113887	SchmoesKnow	
+21375816	TyphoidAnnie		64554142	JoseMolinaTV	CA
+21375816	TyphoidAnnie		196418610	WesTheEditor	
+21375816	TyphoidAnnie		15661871	donttrythis	CA
+21375816	TyphoidAnnie		6297852		warrenellis	
+21375816	TyphoidAnnie		90513723	SDConventionCtr	
+21375816	TyphoidAnnie		256778378	RobHatesZombies	VA
+21375816	TyphoidAnnie		19673424	DavidBruno	CA
+21375816	TyphoidAnnie		34097876	LaurenConrad	CA
+21375816	TyphoidAnnie		335442161	Skin		LA
+21375816	TyphoidAnnie		260137838	NealPabon	CA
+21375816	TyphoidAnnie		258268160	Antho		CA
+21375816	TyphoidAnnie		88501703	8bitwiz	L.A.
+21375816	TyphoidAnnie		233386754	missmorenab	
+21375816	TyphoidAnnie		15560418	Dagnabit	FL
+21375816	TyphoidAnnie		18521818	cassiecaine	NJ
+21375816	TyphoidAnnie		40834007	Ghostibee	
+21375816	TyphoidAnnie		24113768	thegriddlecafe	
+21375816	TyphoidAnnie		14144561	riknik	
+21375816	TyphoidAnnie		219682445	hellogiggles	CA
+21375816	TyphoidAnnie		3729891		audreyr		CA
+21375816	TyphoidAnnie		15134782	klout		CA
+21375816	TyphoidAnnie		116994659	SamHarrisOrg	
+21375816	TyphoidAnnie		26540841	TejBabra	
+21375816	TyphoidAnnie		16027904	TheAVClub	
+21375816	TyphoidAnnie		96368572	amanashraff	
+21375816	TyphoidAnnie		256158659	HRetrospective	TX
+21375816	TyphoidAnnie		124599813	rachel_grice	
+21375816	TyphoidAnnie		44039298	sethmeyers	NY
+21375816	TyphoidAnnie		130733783	videogamerdog	
+21375816	TyphoidAnnie		24477158	jduncs		DC
+21375816	TyphoidAnnie		246969697	retrollect	CA
+21375816	TyphoidAnnie		255747911	EllenPage	CA
+21375816	TyphoidAnnie		223697029	admprly	
+21375816	TyphoidAnnie		34175976	JewelStaite	
+21375816	TyphoidAnnie		309973766	greenberg_josh	CA
+21375816	TyphoidAnnie		140491455	gjdillon	CA
+21375816	TyphoidAnnie		44507340	iAngelos	DC
+21375816	TyphoidAnnie		16228398	mcuban	
+21375816	TyphoidAnnie		293156137	MahaloZombies	
+21375816	TyphoidAnnie		7157992		GraceMalone	
+21375816	TyphoidAnnie		19031054	halftongorilla	CA
+21375816	TyphoidAnnie		27425218	RealMattWayne	
+21375816	TyphoidAnnie		165794790	DKelly71170	
+21375816	TyphoidAnnie		304679484	HamillHimself	
+21375816	TyphoidAnnie		15224867	andersoncooper	NY
+21375816	TyphoidAnnie		297294835	TrevorDitzler	FL
+21375816	TyphoidAnnie		25456478	AdamRichman	
+21375816	TyphoidAnnie		298290927	tumamay_yo	
+21375816	TyphoidAnnie		180463340	GameOfThrones	
+21375816	TyphoidAnnie		30369329	borderstylo	
+21375816	TyphoidAnnie		17822186	BrokeAssBride	
+21375816	TyphoidAnnie		17298365	JennaBusch	
+21375816	TyphoidAnnie		1715051		SethGreen	
+21375816	TyphoidAnnie		16583672	ClareGrant	
+21375816	TyphoidAnnie		192354884	maudeapatow	CA
+21375816	TyphoidAnnie		7164672		Rupak	
+21375816	TyphoidAnnie		15521797	travhimself	CO
+21375816	TyphoidAnnie		257570411	SDCCnerdsattack	
+21375816	TyphoidAnnie		54588083	thegeekgroup	MI
+21375816	TyphoidAnnie		16897212	DrewLewis	CA
+21375816	TyphoidAnnie		195165206	ideakickLA	CA
+21375816	TyphoidAnnie		132386066	LucidDelusions	PA
+21375816	TyphoidAnnie		196007485	BetterWorks	CA
+21375816	TyphoidAnnie		20571423	TravisFischer	CA
+21375816	TyphoidAnnie		3829151		leolaporte	CA 
+21375816	TyphoidAnnie		143875114	UndeadZed	
+21375816	TyphoidAnnie		98388864	vince_vinnus	
+21375816	TyphoidAnnie		158195777	Godzillarex	
+21375816	TyphoidAnnie		11318892	mikerhoads	
+21375816	TyphoidAnnie		60173249	ADaniels3PO	
+21375816	TyphoidAnnie		14162498	matthunter	CA
+2358511		tryphoon	GA	2962886099	ChrisCoye	
+2358511		tryphoon	GA	37746503	MCYOGI108	
+2358511		tryphoon	GA	35857899	WanderlustFest	
+2358511		tryphoon	GA	28037631	alliemackay	 
+2358511		tryphoon	GA	89206712	Irdeto	
+2358511		tryphoon	GA	3420181873	nexttokimdavis	KY
+2358511		tryphoon	GA	3282702576	AppStoreGames	CA
+2358511		tryphoon	GA	31484985	mrsprague	CA
+2358511		tryphoon	GA	158414847	TheDailyShow	
+2358511		tryphoon	GA	107325601	Illeanarama	CA
+2358511		tryphoon	GA	1002513128	DrPhiltill	
+2358511		tryphoon	GA	3066860736	nhmacd	
+2358511		tryphoon	GA	2734713482	NASANewHorizons	
+2358511		tryphoon	GA	3222275355	NewHorizonsBot	
+2358511		tryphoon	GA	14681605	ThatKevinSmith	
+2358511		tryphoon	GA	515752079	StP_BrokenBones	
+2358511		tryphoon	GA	333306838	BuyMeaPieApp	
+2358511		tryphoon	GA	16156302	Leadercast	GA
+2358511		tryphoon	GA	321343511	cmpusateri	FL
+2358511		tryphoon	GA	759251		CNN	
+2358511		tryphoon	GA	41352761	lisaxmay	
+2358511		tryphoon	GA	546170165	GabeAul	Redmond
+2358511		tryphoon	GA	2930080250	gosuperhuman	
+2358511		tryphoon	GA	16827838	XIRecruiter	GA
+2358511		tryphoon	GA	2891060994	bradinthe80s	CA
+2358511		tryphoon	GA	17573212	thichnhathanh	
+2358511		tryphoon	GA	587811802	sunrise		NY
+2358511		tryphoon	GA	17572133	LionsRoar	
+2358511		tryphoon	GA	243235100	peaklabs	
+2358511		tryphoon	GA	476366739	Happify		NY
+2358511		tryphoon	GA	245841182	MindfulOnline	
+2358511		tryphoon	GA	117423359	andypuddicombe	LA
+2358511		tryphoon	GA	402025521	Get_Headspace	
+2358511		tryphoon	GA	15135752	comiXology	NY
+2358511		tryphoon	GA	146540920	AskPlayStation	
+2358511		tryphoon	GA	14167997	Scribd		CA
+2358511		tryphoon	GA	1060624962	Omvana		CA
+2358511		tryphoon	GA	2280627121	_tvty	
+2358511		tryphoon	GA	540999768	mesclado	
+2358511		tryphoon	GA	461886304	Thomas_Zaruba	
+2358511		tryphoon	GA	22498175	LouiseSawyer	
+2358511		tryphoon	GA	546314655	Le_ChevalBlanc	
+2358511		tryphoon	GA	926901		eapplen	
+2358511		tryphoon	GA	117547254	Attack_Secure	
+2358511		tryphoon	GA	6449392		jasonhowell	CA
+2358511		tryphoon	GA	1688461		hak5darren	CA
+2358511		tryphoon	GA	17214675	neilhunt	CA
+2358511		tryphoon	GA	386170457	NetflixOSS	CA
+2358511		tryphoon	GA	37534994	earthquakes	CA
+2358511		tryphoon	GA	2297489714	pkervern	
+2358511		tryphoon	GA	281441441	4sous2011		
+2358511		tryphoon	GA	584982284	TheMartinDew	
+2358511		tryphoon	GA	31144118	TuBap	
+2358511		tryphoon	GA	449601969	alanjwillis		
+2358511		tryphoon	GA	842537790	mikeweksler	
+2358511		tryphoon	GA	560562419	HenrycharlotteC	
+2358511		tryphoon	GA	7720212		picnik		WA
+2358511		tryphoon	GA	267955124	pceely	
+2358511		tryphoon	GA	4391991		dcanora		FL
+2358511		tryphoon	GA	811540		nsfw	
+2358511		tryphoon	GA	1603398810	ademontille	
+2358511		tryphoon	GA	16941233	blogtronix	CA
+2358511		tryphoon	GA	1039613198	AdeCheff	
+2358511		tryphoon	GA	359244035	byronortizmusic	
+7743632		malloy		NY	14992469	awesome_john	NJ
+7743632		malloy		NY	16923851	tbenjamin	NY
+7743632		malloy		NY	2172396199	L_J_Mitchell	NY
+7743632		malloy		NY	604772054	authorjsmorin	
+7743632		malloy		NY	16737406	briankoppelman	NY
+7743632		malloy		NY	167505578	mattvbernstein	
+7743632		malloy		NY	1149357277	gin		NY	 
+7743632		malloy		NY	2458840187	barbara_gaines1	
+7743632		malloy		NY	78805110	theblcklst	
+7743632		malloy		NY	167947361	primawesome	WA
+7743632		malloy		NY	195129672	MuseZack	CA
+7743632		malloy		NY	18224975	Bonobos		NY
+7743632		malloy		NY	202724099	dunn		NY
+7743632		malloy		NY	22084427	robdelaney	
+7743632		malloy		NY	116386309	StevenEdeSouza	
+7743632		malloy		NY	14982315	JamesGunn	
+7743632		malloy		NY	182576653	Uncan		NY	
+7743632		malloy		NY	20442967	woollensocks	
+7743632		malloy		NY	242145045	fadeinsoftware	
+7743632		malloy		NY	1493705484	Storium		CA
+7743632		malloy		NY	14258396	phillipvan	NY
+7743632		malloy		NY	15827690	HarrisonWeber	NY
+7743632		malloy		NY	5768872		garyvee		NY
+7743632		malloy		NY	1710428114	CreatorByWeWork	NY
+7743632		malloy		NY	571202103	Medium		CA
+7743632		malloy		NY	268586749	IAmSusanEgan	
+7743632		malloy		NY	863699941	TheClam	NYC	NY
+7743632		malloy		NY	71165241	simple		OR
+7743632		malloy		NY	1099960304	homesweethome	
+7743632		malloy		NY	6034842		AlexDubin	NY
+7743632		malloy		NY	258032184	ClayRenfroe	CA
+7743632		malloy		NY	543022487	NYctaxicabtales	NY 
+7743632		malloy		NY	5036321		RowdyBowden	
+7743632		malloy		NY	21906136	abiddledc	
+7743632		malloy		NY	811350		alexisohanian	CA
+7743632		malloy		NY	18644548	mcrispinmiller	NY
+7743632		malloy		NY	33348270	julie_bush	CA
+7743632		malloy		NY	15166776	ericMesquivel	
+7743632		malloy		NY	28517585	davelayton	UT
+7743632		malloy		NY	822028939	GRStrayton	CA
+7743632		malloy		NY	21326353	jnardino	NY
+7743632		malloy		NY	13837292	evernote	CA
+7743632		malloy		NY	740895416	NightValeRadio	
+7743632		malloy		NY	30980778	leverus		NY
+7743632		malloy		NY	386056280	MaraWritesStuff	NY
+7743632		malloy		NY	15743611	jamse		VT
+7743632		malloy		NY	20357486	TerryRossio	
+7743632		malloy		NY	20292157	JeffLieber	
+7743632		malloy		NY	249002023	byDougRich	CA
+7743632		malloy		NY	283161406	chrismcquarrie	
+7743632		malloy		NY	479063825	AdamOAbernathy	NY
+7743632		malloy		NY	44663728	HornBook	MA
+7743632		malloy		NY	463337324	WilliamFriedkin	CA
+7743632		malloy		NY	41713603	LizHackett	
+7743632		malloy		NY	338448432	zakpenn	
+7743632		malloy		NY	22822407	adammshankman	CA
+7743632		malloy		NY	19968983	markromanek	
+7743632		malloy		NY	19025270	gregmottola	NY
+7743632		malloy		NY	20938790	zacsanford	CA
+7743632		malloy		NY	88749392	JuddApatow	
+7743632		malloy		NY	233099308	MikeEsola	
+7743632		malloy		NY	38062562	KayKayCannon	
+7743632		malloy		NY	9296082		davidanaxagoras	
+7743632		malloy		NY	17768307	ZackS		CA
+7743632		malloy		NY	15578506	AvaJamshidi	CA

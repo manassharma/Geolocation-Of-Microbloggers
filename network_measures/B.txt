@@ -1,0 +1,2534 @@
+43843831|sacramento, california|0-Error|25|2
+43843831|sacramento, california|9582362-los angeles|25|2
+43843831|sacramento, california|28068601-Hollywood|25|2
+43843831|sacramento, california|1128416143-Error|25|2
+43843831|sacramento, california|16395164-Seattle, WA|25|2
+43843831|sacramento, california|26469686-Land of Make-Believe|25|2
+43843831|sacramento, california|104856807-Pittsburgh, PA|25|2
+43843831|sacramento, california|68813025-Nashville, TN|25|2
+43843831|sacramento, california|56068196-Los Angeles|25|2
+43843831|sacramento, california|90783315-Burbank Ca |25|2
+43843831|sacramento, california|0-Error|25|2
+43843831|sacramento, california|0-Error|25|2
+43843831|sacramento, california|23851973-My Dirty Mind Palace!|25|2
+43843831|sacramento, california|363303001-Error|25|2
+43843831|sacramento, california|0-Error|25|2
+43843831|sacramento, california|0-Error|25|2
+43843831|sacramento, california|24742957-Kind of Utah...|25|2
+43843831|sacramento, california|149140558-Error|25|2
+43843831|sacramento, california|0-Error|25|2
+43843831|sacramento, california|0-Error|25|2
+43843831|sacramento, california|65184192-Hollywood (up to no good)|25|2
+43843831|sacramento, california|8448182-Tokyo,Japan|25|2
+43843831|sacramento, california|0-Error|25|2
+43843831|sacramento, california|0-Error|25|2
+37226273|sacramento, california|13097772-Roseville, CA|4|2
+37226273|sacramento, california|30037412-sacramento, california|4|2
+37226273|sacramento, california|29470884-Roseville, CA|4|2
+37226273|sacramento, california|1125071-Mostly Mountain View, CA|4|2
+24120037|sacramento, california|24120037-sacramento, california|19|2
+24120037|sacramento, california|72711620-sacramento, california|19|2
+24120037|sacramento, california|21865953-Error|19|2
+24120037|sacramento, california|0-Error|19|2
+24120037|sacramento, california|263483374-Madison, WI|19|2
+24120037|sacramento, california|0-Error|19|2
+24120037|sacramento, california|21825422-Error|19|2
+24120037|sacramento, california|31256852-Las Vegas, NV |19|2
+24120037|sacramento, california|3232022539-Error|19|2
+24120037|sacramento, california|0-Error|19|2
+24120037|sacramento, california|0-Error|19|2
+24120037|sacramento, california|1301050812-Error|19|2
+24120037|sacramento, california|18658000-Los Angeles|19|2
+24120037|sacramento, california|74596194-Sactown|19|2
+24120037|sacramento, california|30080739-Toronto|19|2
+24120037|sacramento, california|0-Error|19|2
+24120037|sacramento, california|0-Error|19|2
+24120037|sacramento, california|28050351-San Diego|19|2
+24120037|sacramento, california|15251321-Cheeseman Estates|19|2
+30149850|sacramento, california|370721770-Error|13|2
+30149850|sacramento, california|0-Error|13|2
+30149850|sacramento, california|21737267-California, USA|13|2
+30149850|sacramento, california|0-Error|13|2
+30149850|sacramento, california|0-Error|13|2
+30149850|sacramento, california|427703008-Error|13|2
+30149850|sacramento, california|2813994307-A queens baby- living in Cali|13|2
+30149850|sacramento, california|45040450-Sactown 916|13|2
+30149850|sacramento, california|19692037-sacramento, california|13|2
+30149850|sacramento, california|16994903-WESTCOAST CAPITAL CITY 916|13|2
+30149850|sacramento, california|18755291-OAKLAND|13|2
+30149850|sacramento, california|291947196-Long Beach, CA|13|2
+16973729|sacramento, california|22798884-Sacramento|34|2
+16973729|sacramento, california|0-Error|34|2
+16973729|sacramento, california|923139523-Error|34|2
+16973729|sacramento, california|30618215-Error|34|2
+16973729|sacramento, california|0-Error|34|2
+16973729|sacramento, california|29102245-Los Angeles / Watsonville|34|2
+16973729|sacramento, california|44038000-California|34|2
+16973729|sacramento, california|16863700-South Central-Los Angeles, CA.|34|2
+16973729|sacramento, california|21341806-Philly to O hi O & back again|34|2
+16973729|sacramento, california|0-Error|34|2
+16973729|sacramento, california|19221720-iPhone: 38.488052,-122.449120|34|2
+16973729|sacramento, california|65146383-Where the Sidewalk Ends, 916!|34|2
+16973729|sacramento, california|19220878-Sacramento CA|34|2
+16973729|sacramento, california|0-Error|34|2
+16973729|sacramento, california|0-Error|34|2
+16973729|sacramento, california|0-Error|34|2
+16973729|sacramento, california|14607512-Error|34|2
+16973729|sacramento, california|0-Error|34|2
+16973729|sacramento, california|0-Error|34|2
+16973729|sacramento, california|61881931-Sacramento|34|2
+16973729|sacramento, california|16973729-sacramento, california|34|2
+16973729|sacramento, california|19636326-Best in the West|34|2
+16973729|sacramento, california|82469127-sacramento, california|34|2
+16973729|sacramento, california|27904623-New York City|34|2
+16973729|sacramento, california|43897435-MPLS/LA|34|2
+16973729|sacramento, california|1068000326-Error|34|2
+16973729|sacramento, california|19637934-Los Angeles-ish|34|2
+16973729|sacramento, california|1088280979-Error|34|2
+16973729|sacramento, california|0-Error|34|2
+16973729|sacramento, california|2849107022-Error|34|2
+16973729|sacramento, california|78994691-sacramento, california|34|2
+16973729|sacramento, california|0-Error|34|2
+16973729|sacramento, california|8962732-Minneapolis, MN|34|2
+16973729|sacramento, california|49704307-Sacramento CA|34|2
+20188930|sacramento, california|15200682-LA / NAPA|66|2
+20188930|sacramento, california|16508641-canada|66|2
+20188930|sacramento, california|43815496-Las Vegas, NV|66|2
+20188930|sacramento, california|20188930-Los Angeles, CA|66|2
+20188930|sacramento, california|15827591-Portland, OR|66|2
+20188930|sacramento, california|19748674-California|66|2
+20188930|sacramento, california|8115852-Tour Bus/Home|66|2
+20188930|sacramento, california|13790282-Your Computer, USA|66|2
+20188930|sacramento, california|14710369-Los Angeles, mostly.|66|2
+20188930|sacramento, california|19604744-California|66|2
+20188930|sacramento, california|18588279-Error|66|2
+20188930|sacramento, california|7846-Los Angeles, CA|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|14816607-Columbus, Ohio, USA|66|2
+20188930|sacramento, california|15079003-Outer Space|66|2
+20188930|sacramento, california|17587207-boston|66|2
+20188930|sacramento, california|355944023-Error|66|2
+20188930|sacramento, california|14413522-Miami, FL|66|2
+20188930|sacramento, california|16291762-Error|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|30574497-CT|66|2
+20188930|sacramento, california|29543380-Germany|66|2
+20188930|sacramento, california|16269994-UK|66|2
+20188930|sacramento, california|20138279-Error|66|2
+20188930|sacramento, california|16400388-Nashville, TN|66|2
+20188930|sacramento, california|37099071-Error|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|390243340-A casa mia xd|66|2
+20188930|sacramento, california|45214797-Chicago, Illinois |66|2
+20188930|sacramento, california|17908010-strawberry fields forever|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|38340886-Gainesville/Orlando|66|2
+20188930|sacramento, california|8940982-Winnipeg, Canada|66|2
+20188930|sacramento, california|15112249-a galaxy far far away |66|2
+20188930|sacramento, california|25167889-Waco, Texas, USA|66|2
+20188930|sacramento, california|6351572-Venice, California|66|2
+20188930|sacramento, california|2440735842-Error|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|30110784-San Luis Obispo, CA|66|2
+20188930|sacramento, california|181685282-Error|66|2
+20188930|sacramento, california|48522581-Afghanistan|66|2
+20188930|sacramento, california|18500346-Wisconsin|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|737614225-Error|66|2
+20188930|sacramento, california|79567274-US|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|6017542-Global|66|2
+20188930|sacramento, california|8445-Leicester, UK|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|101108630-Error|66|2
+20188930|sacramento, california|14813088-Los Angeles|66|2
+20188930|sacramento, california|21408955-Error|66|2
+20188930|sacramento, california|472004439-Error|66|2
+20188930|sacramento, california|12319862-Error|66|2
+20188930|sacramento, california|5768872-NYC|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|14698497-Error|66|2
+20188930|sacramento, california|1026464377-Error|66|2
+20188930|sacramento, california|18544677-Canada|66|2
+20188930|sacramento, california|3638504180-Error|66|2
+20188930|sacramento, california|58295690-Gorleston|66|2
+20188930|sacramento, california|518604399-Error|66|2
+20188930|sacramento, california|0-Error|66|2
+20188930|sacramento, california|18042171-Planet Paull|66|2
+58568036|sacramento, california|14263133-Error|2|2
+58568036|sacramento, california|6522212-Philippines|2|2
+21106859|sacramento, california|0-Error|1|2
+22156584|sacramento, california|16096113-Orange County, CA|13|2
+22156584|sacramento, california|7057922-SiliconValley & the wilderness|13|2
+22156584|sacramento, california|15663833-sacramento, california|13|2
+22156584|sacramento, california|14857975-Error|13|2
+22156584|sacramento, california|0-Error|13|2
+22156584|sacramento, california|17827683-Connecticut|13|2
+22156584|sacramento, california|13094222-Right Coast|13|2
+22156584|sacramento, california|18523938-Error|13|2
+22156584|sacramento, california|15266264-Seattle|13|2
+22156584|sacramento, california|14225711-Rochester, NY|13|2
+22156584|sacramento, california|22156584-sacramento, california|13|2
+22156584|sacramento, california|20117418-Winston-Salem, NC|13|2
+28841598|sacramento, california|33845304-Los Angeles, CA|7|2
+28841598|sacramento, california|21017038-BOSTON,MA|7|2
+28841598|sacramento, california|0-Error|7|2
+28841598|sacramento, california|0-Error|7|2
+28841598|sacramento, california|0-Error|7|2
+28841598|sacramento, california|0-Error|7|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+66921413|sacramento, california|0-Error|21|2
+18788119|sacramento, california|0-Error|8|2
+18788119|sacramento, california|0-Error|8|2
+18788119|sacramento, california|0-Error|8|2
+18788119|sacramento, california|0-Error|8|2
+18788119|sacramento, california|0-Error|8|2
+18788119|sacramento, california|0-Error|8|2
+18788119|sacramento, california|0-Error|8|2
+18788119|sacramento, california|0-Error|8|2
+18919469|sacramento, california|0-Error|15|2
+18919469|sacramento, california|0-Error|15|2
+18919469|sacramento, california|0-Error|15|2
+18919469|sacramento, california|0-Error|15|2
+18919469|sacramento, california|0-Error|15|2
+18919469|sacramento, california|0-Error|15|2
+18919469|sacramento, california|0-Error|15|2
+18919469|sacramento, california|0-Error|15|2
+18919469|sacramento, california|0-Error|15|2
+18919469|sacramento, california|0-Error|15|2
+18919469|sacramento, california|0-Error|15|2
+18919469|sacramento, california|61172452-Perthshire, Scotland|15|2
+18919469|sacramento, california|33063845-Dallas, TX |15|2
+18919469|sacramento, california|15989069-Error|15|2
+18919469|sacramento, california|0-Error|15|2
+24106020|sacramento, california|410103390-401, Rhode Island|6|2
+24106020|sacramento, california|0-Error|6|2
+24106020|sacramento, california|544240751-562|6|2
+24106020|sacramento, california|0-Error|6|2
+24106020|sacramento, california|94751721-W.Sac, CA|6|2
+16886623|sacramento, california|17513791-In stores & online!|9|2
+16886623|sacramento, california|17846406-Error|9|2
+16886623|sacramento, california|80245910-Error|9|2
+16886623|sacramento, california|2269352912-Error|9|2
+16886623|sacramento, california|285367026-Error|9|2
+16886623|sacramento, california|0-Error|9|2
+16886623|sacramento, california|0-Error|9|2
+16886623|sacramento, california|14511951-Error|9|2
+16886623|sacramento, california|43065557-Error|9|2
+19277467|sacramento, california|22604086-oakland, ca|24|2
+19277467|sacramento, california|2789155062-Error|24|2
+19277467|sacramento, california|295287062-Brooklyn, NY|24|2
+19277467|sacramento, california|5392522-Washington, DC|24|2
+19277467|sacramento, california|22811188-Error|24|2
+19277467|sacramento, california|31695564-san francisco|24|2
+19277467|sacramento, california|4119741-Error|24|2
+19277467|sacramento, california|19733804-Washington, DC |24|2
+19277467|sacramento, california|16314021-Portland, OR|24|2
+19277467|sacramento, california|15394452-Error|24|2
+19277467|sacramento, california|41521318-sacramento, california|24|2
+19277467|sacramento, california|0-Error|24|2
+19277467|sacramento, california|19000765-Texas|24|2
+19277467|sacramento, california|32332997-Error|24|2
+19277467|sacramento, california|12044602-Los Angeles, California|24|2
+19277467|sacramento, california|15164565-Error|24|2
+19277467|sacramento, california|41183843-Error|24|2
+19277467|sacramento, california|343516603-San Francisco, CA|24|2
+19277467|sacramento, california|1621934078-Error|24|2
+19277467|sacramento, california|0-Error|24|2
+19277467|sacramento, california|0-Error|24|2
+19277467|sacramento, california|54275319-New York|24|2
+19277467|sacramento, california|33086720-Decatur AL|24|2
+19277467|sacramento, california|0-Error|24|2
+28453895|sacramento, california|420655793-Error|1|2
+667563|sacramento, california|90960002-SAC ANTELOPE|62|2
+667563|sacramento, california|261080008-Error|62|2
+667563|sacramento, california|175061943-#Accra #Lagos #Worldwide |62|2
+667563|sacramento, california|62230014-Las Vegas, NV & Sacramento, CA|62|2
+667563|sacramento, california|327737265-sacramento, california |62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|90701684-sacramento, california|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|15490300-With more cowbell.|62|2
+667563|sacramento, california|3001403357-Error|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|997112004-Error|62|2
+667563|sacramento, california|22116069-Muskegon, MI|62|2
+667563|sacramento, california|36118349-WEST COAST *CALI*|62|2
+667563|sacramento, california|13874612-Error|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|25250576-Error|62|2
+667563|sacramento, california|20572133-707 Bay Area |62|2
+667563|sacramento, california|24474938-Error|62|2
+667563|sacramento, california|16462880-sacramento, california|62|2
+667563|sacramento, california|60697575-California Love|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|23105732-sacramento, california|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|2553370820-Error|62|2
+667563|sacramento, california|21377614-Los Angeles via Sacramento|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|18126379-Lake Havasu City, AZ|62|2
+667563|sacramento, california|667563-sacramento, california|62|2
+667563|sacramento, california|60419100-Error|62|2
+667563|sacramento, california|49081523-Sactown|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|84781075-California|62|2
+667563|sacramento, california|15251321-Cheeseman Estates|62|2
+667563|sacramento, california|1020176742-Error|62|2
+667563|sacramento, california|89102482-(916) 417-2517|62|2
+667563|sacramento, california|112678359-Australia|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|24357135-Here & There & Everywhere|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|21145799-Sacramento|62|2
+667563|sacramento, california|18498684-New York City|62|2
+667563|sacramento, california|21257195-sacramento, california|62|2
+667563|sacramento, california|2322954265-Bay Area/Wine Country|62|2
+667563|sacramento, california|417198737-Error|62|2
+667563|sacramento, california|216170944-Error|62|2
+667563|sacramento, california|2317902176-Error|62|2
+667563|sacramento, california|19996343-Las Vegas, NV|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|17104228-Error|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|17551272-Error|62|2
+667563|sacramento, california|0-Error|62|2
+667563|sacramento, california|28067195-sacramento, california|62|2
+667563|sacramento, california|87589140-Error|62|2
+667563|sacramento, california|0-Error|62|2
+13251122|sacramento, california|249343634-Error|7|2
+13251122|sacramento, california|17782228-Error|7|2
+13251122|sacramento, california|2356784568-Error|7|2
+13251122|sacramento, california|843031-Brooklyn, NY|7|2
+13251122|sacramento, california|19672966-Sacramento|7|2
+13251122|sacramento, california|14195968-Newcastle, CA|7|2
+2241221|sacramento, california|23673941-sacramento, california|17|2
+2241221|sacramento, california|435610572-San Diego|17|2
+2241221|sacramento, california|14401760-Error|17|2
+2241221|sacramento, california|15405541-iPhone: 41.822067,-71.418643|17|2
+2241221|sacramento, california|16964238-Error|17|2
+2241221|sacramento, california|29288466-sacramento, california|17|2
+2241221|sacramento, california|32340281-Error|17|2
+2241221|sacramento, california|0-Error|17|2
+2241221|sacramento, california|50893464-sacramento, california|17|2
+2241221|sacramento, california|22979351-sacramento, california|17|2
+2241221|sacramento, california|30026185-Sacramento CA|17|2
+2241221|sacramento, california|16922469-sacramento, california|17|2
+2241221|sacramento, california|0-Error|17|2
+2241221|sacramento, california|62073134-sacramento, california, USA|17|2
+2241221|sacramento, california|65406315-sacramento, california|17|2
+2241221|sacramento, california|2241221-Seattle IG @alejandroreyes|17|2
+2241221|sacramento, california|637373-Sooke, BC, Canada|17|2
+9974492|sacramento, california|17664850-Hanover, NH|3|2
+9974492|sacramento, california|6611882-Near the 57, 71, 60, & 10 fwy.|3|2
+9974492|sacramento, california|7151902-St. Louis, MO|3|2
+41431920|sacramento, california|25051389-Bristol. (UK)|4|2
+41431920|sacramento, california|33142966-sacramento, california|4|2
+41431920|sacramento, california|0-Error|4|2
+26096983|sacramento, california|36381965-Northern California|7|2
+26096983|sacramento, california|22790755-Error|7|2
+26096983|sacramento, california|497621646-Error|7|2
+26096983|sacramento, california|0-Error|7|2
+26096983|sacramento, california|0-Error|7|2
+26096983|sacramento, california|27157593-sacramento, california|7|2
+16660223|sacramento, california|756278-Seattle, WA|20|2
+16660223|sacramento, california|237745550-Error|20|2
+16660223|sacramento, california|32295125-NEW ORLEANS LOUISIANA|20|2
+16660223|sacramento, california|53512196-Chico, CA|20|2
+16660223|sacramento, california|14869341-Chicago, Il|20|2
+16660223|sacramento, california|643653-Easthampton, Pizzachussetts|20|2
+16660223|sacramento, california|41040752-Pacfic NW|20|2
+16660223|sacramento, california|18785430-Los Angeles, CA|20|2
+16660223|sacramento, california|14593084-Phoenix, AZ|20|2
+16660223|sacramento, california|19058681-Los Angeles, California|20|2
+16660223|sacramento, california|428761107-South Ozone Park NY|20|2
+16660223|sacramento, california|9358042-Dallas, TX|20|2
+16660223|sacramento, california|9833962-Error|20|2
+16660223|sacramento, california|14389031-Toronto, Ontario, Canada|20|2
+16660223|sacramento, california|10202-Boston, MA|20|2
+16660223|sacramento, california|0-Error|20|2
+16660223|sacramento, california|0-Error|20|2
+16660223|sacramento, california|43872897-England|20|2
+16660223|sacramento, california|8215672-Virginia Beach|20|2
+16660223|sacramento, california|19637934-Los Angeles-ish|20|2
+26098034|sacramento, california|0-Error|7|2
+26098034|sacramento, california|16598662-Tulsa, OK|7|2
+26098034|sacramento, california|25635650-tulsa, oklahoma|7|2
+26098034|sacramento, california|21461749-Error|7|2
+26098034|sacramento, california|0-Error|7|2
+26098034|sacramento, california|0-Error|7|2
+26098034|sacramento, california|26378849-Australia|7|2
+37763479|sacramento, california|783571153-Error|55|2
+37763479|sacramento, california|17077313-Southern California|55|2
+37763479|sacramento, california|52145003-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|16323673-California|55|2
+37763479|sacramento, california|17997175-Lewis Center, OH|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|40532762-Newport Beach, California|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|20816085-Fresno, California|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+37763479|sacramento, california|0-Error|55|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|19545887-sacramento, california|45|2
+19545887|sacramento, california|32238423-San Diego|45|2
+19545887|sacramento, california|25160492-El Capital, CA|45|2
+19545887|sacramento, california|1056363541-Error|45|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|26457416-WWW.GIGICAPONEPR.COM|45|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|27941701-Somewhere Over The Rainbow|45|2
+19545887|sacramento, california|20966147-inside your head|45|2
+19545887|sacramento, california|35897914-Error|45|2
+19545887|sacramento, california|76370375-Slapramento, CA|45|2
+19545887|sacramento, california|1120682311-Error|45|2
+19545887|sacramento, california|33429402-sacramento,ca|45|2
+19545887|sacramento, california|217320408-Error|45|2
+19545887|sacramento, california|21895768-Northern California|45|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|1009234362-Error|45|2
+19545887|sacramento, california|116086058-Error|45|2
+19545887|sacramento, california|15232908-Los Angeles x Long Beach.|45|2
+19545887|sacramento, california|27696615-Error|45|2
+19545887|sacramento, california|1613547512-New York|45|2
+19545887|sacramento, california|21821773-Parts Unknown|45|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|41887384-Tha Bay|45|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|166690050-Worldwide|45|2
+19545887|sacramento, california|15267836-North Myrtle Beach, SC |45|2
+19545887|sacramento, california|27688589-DEL PASO HEIGHTS CALI 916|45|2
+19545887|sacramento, california|16471860-Atlanta, GA|45|2
+19545887|sacramento, california|65910880-Bay Area Ca.|45|2
+19545887|sacramento, california|486326531-Error|45|2
+19545887|sacramento, california|15089543-WORLDWIDE|45|2
+19545887|sacramento, california|18062230-Real Bitch Island|45|2
+19545887|sacramento, california|971115014-Error|45|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|19310109-Error|45|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|0-Error|45|2
+19545887|sacramento, california|148458074-Error|45|2
+19545887|sacramento, california|18006637-ATLANTA|45|2
+19545887|sacramento, california|165493151-Error|45|2
+21249970|sacramento, california|0-Error|2|2
+66478105|sacramento, california|0-Error|15|2
+66478105|sacramento, california|15155727-Me: UK. yBC: global|15|2
+66478105|sacramento, california|220160052-Brisbane, California|15|2
+66478105|sacramento, california|60375135-RockyMountains|15|2
+66478105|sacramento, california|140497424-Exeter UK|15|2
+66478105|sacramento, california|8381062-Detroit, Michigan|15|2
+66478105|sacramento, california|42955246-Error|15|2
+66478105|sacramento, california|0-Error|15|2
+66478105|sacramento, california|133950237-Ahmedabad|15|2
+66478105|sacramento, california|18999248-Encinitas, CA|15|2
+66478105|sacramento, california|0-Error|15|2
+66478105|sacramento, california|17202665-Southeast|15|2
+66478105|sacramento, california|14316141-Boston, MA|15|2
+66478105|sacramento, california|53970569-Southern California|15|2
+66478105|sacramento, california|16688904-Boulder, CO|15|2
+15352545|sacramento, california|14517363-Pittsburgh, PA|10|2
+15352545|sacramento, california|80071199-California|10|2
+15352545|sacramento, california|14086409-Berkeley, CA USA|10|2
+15352545|sacramento, california|46832463-Santa Barbara, CA|10|2
+15352545|sacramento, california|15519119-Davis, CA|10|2
+15352545|sacramento, california|15034394-Roseville, Ca|10|2
+15352545|sacramento, california|15860455-Sonoma, California|10|2
+15352545|sacramento, california|16966837-Sacramento CA|10|2
+15352545|sacramento, california|18560680-Sacramento|10|2
+15352545|sacramento, california|17133211-Carmel Valley, CA|10|2
+20930767|sacramento, california|816653-San Francisco, CA|20|2
+20930767|sacramento, california|14155879-sacramento, california|20|2
+20930767|sacramento, california|0-Error|20|2
+20930767|sacramento, california|5768872-NYC|20|2
+20930767|sacramento, california|17681513-New York|20|2
+20930767|sacramento, california|14401760-Error|20|2
+20930767|sacramento, california|14327149-Los Angeles, CA|20|2
+20930767|sacramento, california|0-Error|20|2
+20930767|sacramento, california|18488821-Minnesota|20|2
+20930767|sacramento, california|21281317-NEW EP - Masterpiece Theater Act 1id here! Hit that link :)|20|2
+20930767|sacramento, california|38057913-1931 H Street, Sacramento|20|2
+20930767|sacramento, california|3174214732-Error|20|2
+20930767|sacramento, california|8259342-Seattle, WA|20|2
+20930767|sacramento, california|34991912-Midtown & Public Market|20|2
+20930767|sacramento, california|16596612-Portland, OR|20|2
+20930767|sacramento, california|15588657-Global|20|2
+20930767|sacramento, california|0-Error|20|2
+20930767|sacramento, california|19723879-Roseville, CA|20|2
+20930767|sacramento, california|30025232-Sebastopol, CA|20|2
+20930767|sacramento, california|0-Error|20|2
+71050670|sacramento, california|12044602-Los Angeles, California|1|2
+18107749|sacramento, california|16912160-Toulouse, France|16|2
+18107749|sacramento, california|63145883-Silver Spring, MD|16|2
+18107749|sacramento, california|0-Error|16|2
+18107749|sacramento, california|2621577807-Marion County, FL|16|2
+18107749|sacramento, california|7053202-sacramento, california|16|2
+18107749|sacramento, california|18412570-AppleValleyCA&LakeHavasuAZ|16|2
+18107749|sacramento, california|22879916-Sioux Falls, SD|16|2
+18107749|sacramento, california|23412691-Error|16|2
+18107749|sacramento, california|0-Error|16|2
+18107749|sacramento, california|0-Error|16|2
+18107749|sacramento, california|33862906-United States|16|2
+18107749|sacramento, california|32352423-Japan|16|2
+18107749|sacramento, california|21083557-Tallahassee, FL|16|2
+18107749|sacramento, california|15609677-Germany|16|2
+18107749|sacramento, california|0-Error|16|2
+18107749|sacramento, california|29930113-Perth, Western Australia|16|2
+60183766|sacramento, california|15907720-DC & NYC|4|2
+60183766|sacramento, california|972651-Error|4|2
+60183766|sacramento, california|14511951-Error|4|2
+60183766|sacramento, california|14138785-London, UK|4|2
+30037412|sacramento, california|13097772-Roseville, CA|5|2
+30037412|sacramento, california|29470884-Roseville, CA|5|2
+30037412|sacramento, california|37226273-sacramento, california|5|2
+30037412|sacramento, california|30037412-sacramento, california|5|2
+30037412|sacramento, california|1125071-Mostly Mountain View, CA|5|2
+39475581|sacramento, california|39475581-Error|26|2
+39475581|sacramento, california|18061237-Bay Area|26|2
+39475581|sacramento, california|38636109-SACRAMENTO |26|2
+39475581|sacramento, california|355142705-Error|26|2
+39475581|sacramento, california|15306327-Global|26|2
+39475581|sacramento, california|43041878-Ho Chi Minh city, VN |26|2
+39475581|sacramento, california|33171556-Sacramento |26|2
+39475581|sacramento, california|42831934-sacramento, california|26|2
+39475581|sacramento, california|0-Error|26|2
+39475581|sacramento, california|17829443-Error|26|2
+39475581|sacramento, california|0-Error|26|2
+39475581|sacramento, california|0-Error|26|2
+39475581|sacramento, california|45508407-Error|26|2
+39475581|sacramento, california|28209748-Sacramento, Cali BEST coast|26|2
+39475581|sacramento, california|208435405-philippines|26|2
+39475581|sacramento, california|0-Error|26|2
+39475581|sacramento, california|0-Error|26|2
+39475581|sacramento, california|48952671-LA to the Bay and NYC|26|2
+39475581|sacramento, california|0-Error|26|2
+39475581|sacramento, california|177728662-Error|26|2
+39475581|sacramento, california|64655553-Las Vegas, NV|26|2
+39475581|sacramento, california|0-Error|26|2
+39475581|sacramento, california|0-Error|26|2
+39475581|sacramento, california|7352142-Emeryville & San Jose, CA|26|2
+39475581|sacramento, california|25614782-sacramento, california|26|2
+18635755|sacramento, california|18635755-sacramento, california|42|2
+18635755|sacramento, california|19322167-Dallas/Fort Worth, Texas|42|2
+18635755|sacramento, california|15943715-Rockville, MD|42|2
+18635755|sacramento, california|19195342-Rocklin, California|42|2
+18635755|sacramento, california|15721421-Austin, TX|42|2
+18635755|sacramento, california|17967925-New York, NY|42|2
+18635755|sacramento, california|80152887-Error|42|2
+18635755|sacramento, california|22548996-Waimea, Big Island, Hawaii|42|2
+18635755|sacramento, california|7518252-Cleveland, Ohio|42|2
+18635755|sacramento, california|14390225-New York, NY|42|2
+18635755|sacramento, california|30156793-Boston, MA|42|2
+18635755|sacramento, california|0-Error|42|2
+18635755|sacramento, california|15320330-Phoenix,  Arizona|42|2
+18635755|sacramento, california|62118550-Omaha, NE|42|2
+18635755|sacramento, california|25233822-Arlington, TX|42|2
+18635755|sacramento, california|17956715-Greater San Diego, CA|42|2
+18635755|sacramento, california|114049862-Melbourne, Australia|42|2
+18635755|sacramento, california|15326799-Winnipeg, MB, Canada|42|2
+18635755|sacramento, california|17088996-Usually at my desk|42|2
+18635755|sacramento, california|1125071-Mostly Mountain View, CA|42|2
+18635755|sacramento, california|62636001-Seattle writer/writers' mentor|42|2
+18635755|sacramento, california|0-Error|42|2
+18635755|sacramento, california|8596022-Boston, Massachusetts|42|2
+18635755|sacramento, california|3041201-Sweet Home Alabama|42|2
+18635755|sacramento, california|36728196-New York City|42|2
+18635755|sacramento, california|14389031-Toronto, Ontario, Canada|42|2
+18635755|sacramento, california|2541771-iPhone: 40.721893,-73.999832|42|2
+18635755|sacramento, california|15693833-Palm Beach, FL|42|2
+18635755|sacramento, california|23800768-Arizona|42|2
+18635755|sacramento, california|15648612-In the Winnebago|42|2
+18635755|sacramento, california|0-Error|42|2
+18635755|sacramento, california|28654979-Oklahoma City, OK|42|2
+18635755|sacramento, california|46246596-Austin, Texas|42|2
+18635755|sacramento, california|55384319-Fair Oaks / Sacramento, CA|42|2
+18635755|sacramento, california|19017772-London, England|42|2
+18635755|sacramento, california|5644142-Austin, TX, USA|42|2
+18635755|sacramento, california|0-Error|42|2
+18635755|sacramento, california|18290167-Tucson|42|2
+18635755|sacramento, california|18512632-sacramento, california|42|2
+18635755|sacramento, california|0-Error|42|2
+18635755|sacramento, california|0-Error|42|2
+18635755|sacramento, california|0-Error|42|2
+19030221|sacramento, california|0-Error|2|2
+61104575|sacramento, california|0-Error|6|2
+61104575|sacramento, california|0-Error|6|2
+61104575|sacramento, california|0-Error|6|2
+61104575|sacramento, california|0-Error|6|2
+61104575|sacramento, california|0-Error|6|2
+61104575|sacramento, california|0-Error|6|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+23225221|sacramento, california|0-Error|26|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|40452011-Midtown Sacramento|32|2
+27157593|sacramento, california|17324527-sacramento, california|32|2
+27157593|sacramento, california|1020176742-Error|32|2
+27157593|sacramento, california|17181286-sacramento, california|32|2
+27157593|sacramento, california|40930189-1801 L St, Sacramento|32|2
+27157593|sacramento, california|86316387-Error|32|2
+27157593|sacramento, california|0-Error|32|2
+27157593|sacramento, california|15234546-London|32|2
+27157593|sacramento, california|19740592-New York, USA|32|2
+27157593|sacramento, california|40610085-sacramento, california|32|2
+27157593|sacramento, california|18396070-Los Angeles, CA|32|2
+27157593|sacramento, california|21865953-Error|32|2
+27157593|sacramento, california|21789095-sacramento, california 95814|32|2
+27157593|sacramento, california|38057913-1931 H Street, Sacramento|32|2
+27157593|sacramento, california|27157593-sacramento, california|32|2
+27157593|sacramento, california|22071503-sacramento, california|32|2
+27157593|sacramento, california|1621934078-Error|32|2
+30827928|sacramento, california|0-Error|5|2
+30827928|sacramento, california|556134047-Hiding in Bon Temps|5|2
+30827928|sacramento, california|0-Error|5|2
+30827928|sacramento, california|3009900475-Sactown|5|2
+30827928|sacramento, california|76557920-Error|5|2
+15887110|sacramento, california|12792612-Error|17|2
+15887110|sacramento, california|76991334-ca|17|2
+15887110|sacramento, california|86782602-Error|17|2
+15887110|sacramento, california|3560661-Georgia|17|2
+15887110|sacramento, california|215504932-Error|17|2
+15887110|sacramento, california|16020723-Error|17|2
+15887110|sacramento, california|15258814-Philadelphia, PA|17|2
+15887110|sacramento, california|0-Error|17|2
+15887110|sacramento, california|72434882-Error|17|2
+15887110|sacramento, california|0-Error|17|2
+15887110|sacramento, california|0-Error|17|2
+15887110|sacramento, california|0-Error|17|2
+15887110|sacramento, california|83233279-San Francisco, CA|17|2
+15887110|sacramento, california|16053585-Somewhere in Russia|17|2
+15887110|sacramento, california|0-Error|17|2
+15887110|sacramento, california|820281-Earth, circa 2015|17|2
+14839039|sacramento, california|42126151-Santa Barbara, CA|29|2
+14839039|sacramento, california|15841258-Rocklin, CA|29|2
+14839039|sacramento, california|17930292-sacramento, california|29|2
+14839039|sacramento, california|28165851-Vancouver, BC|29|2
+14839039|sacramento, california|17410631-California|29|2
+14839039|sacramento, california|15785650-Kansas City, Missouri|29|2
+14839039|sacramento, california|0-Error|29|2
+14839039|sacramento, california|14839039-sacramento, california|29|2
+14839039|sacramento, california|17053282-San Diego, CA|29|2
+14839039|sacramento, california|0-Error|29|2
+14839039|sacramento, california|18635755-sacramento, california|29|2
+14839039|sacramento, california|17815169-Fair Oaks, CA|29|2
+14839039|sacramento, california|41629219-California|29|2
+14839039|sacramento, california|29616173-Naperville, IL|29|2
+14839039|sacramento, california|18007215-Sacramento|29|2
+14839039|sacramento, california|0-Error|29|2
+14839039|sacramento, california|0-Error|29|2
+14839039|sacramento, california|0-Error|29|2
+14839039|sacramento, california|15249883-Southern, California|29|2
+14839039|sacramento, california|0-Error|29|2
+14839039|sacramento, california|26255541-Folsom / Sacramento, CA|29|2
+14839039|sacramento, california|18158135-Los Lunas, NM|29|2
+14839039|sacramento, california|410640314-Error|29|2
+14839039|sacramento, california|16860064-Tahoe/Reno|29|2
+14839039|sacramento, california|31541962-Roseville, Ca|29|2
+14839039|sacramento, california|15831817-Houston, Texas|29|2
+14839039|sacramento, california|18512632-sacramento, california|29|2
+14839039|sacramento, california|72921748-San Francisco|29|2
+14839039|sacramento, california|60410450-San Francisco|29|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|207432191-Error|28|2
+16280884|sacramento, california|17022511-East NY, Americas Got Talent, |28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|4025238073-Error|28|2
+16280884|sacramento, california|52655496-sacramento, california|28|2
+16280884|sacramento, california|16909451-CLICK THE LINK BELOW THIS|28|2
+16280884|sacramento, california|1599922532-pittsburgh|28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|22058525-HoustATLANTAvegas &hearts;|28|2
+16280884|sacramento, california|42888224-Motor City, MI|28|2
+16280884|sacramento, california|2331127740-Error|28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|387187240-Vegas x Brooklyn|28|2
+16280884|sacramento, california|23746241-In God's Hands|28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|43945725-QUEENS, NY|28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|17719694-New York, NY|28|2
+16280884|sacramento, california|0-Error|28|2
+16280884|sacramento, california|564054413-Error|28|2
+16280884|sacramento, california|0-Error|28|2
+8417802|sacramento, california|20483440-day: NYC / night: NJ coast|95|2
+8417802|sacramento, california|48850556-Near-Milwaukee, WI|95|2
+8417802|sacramento, california|171949377-Esmeraldas - Ecuador|95|2
+8417802|sacramento, california|24546155-Rhode Island|95|2
+8417802|sacramento, california|16633036-sacramento, california|95|2
+8417802|sacramento, california|45698498-Error|95|2
+8417802|sacramento, california|2909577797-Error|95|2
+8417802|sacramento, california|15937471-Portland, OR  Southwest WA|95|2
+8417802|sacramento, california|78176606-DC Metro|95|2
+8417802|sacramento, california|18327007-Dallas, TX|95|2
+8417802|sacramento, california|15939277-WestCoast|95|2
+8417802|sacramento, california|17595350-sacramento, california|95|2
+8417802|sacramento, california|22981339-Sunny San Diego|95|2
+8417802|sacramento, california|11235032-Katy, TX|95|2
+8417802|sacramento, california|14307725-Michigan|95|2
+8417802|sacramento, california|36059489-Maryland|95|2
+8417802|sacramento, california|15492983-Chicago, IL USA|95|2
+8417802|sacramento, california|40181865-Chicago|95|2
+8417802|sacramento, california|15120037-Atlanta, GA|95|2
+8417802|sacramento, california|15424135-Washington, DC|95|2
+8417802|sacramento, california|15085260-somewhere btwn Baltimore + DC|95|2
+8417802|sacramento, california|14144790-Delaware|95|2
+8417802|sacramento, california|7487322-New York |95|2
+8417802|sacramento, california|15485441-New York, New York|95|2
+8417802|sacramento, california|17547594-Across the Globe|95|2
+8417802|sacramento, california|84452740-New Canaan, CT|95|2
+8417802|sacramento, california|11325892-Florida|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|3079641-Toronto, Ontario, Canada|95|2
+8417802|sacramento, california|21730838-Error|95|2
+8417802|sacramento, california|483433752-Error|95|2
+8417802|sacramento, california|323200999-Everywhere|95|2
+8417802|sacramento, california|8123952-US|95|2
+8417802|sacramento, california|19611516-Brentwood, CA (the NorCal one)|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|14858819-Washington, DC|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|15470403-DC Metro|95|2
+8417802|sacramento, california|15495117-Brooklyn|95|2
+8417802|sacramento, california|38291630-Chicago, IL|95|2
+8417802|sacramento, california|587975072-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|118065823-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|8453452-Silicon Valley, California|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|21444191-Error|95|2
+8417802|sacramento, california|14609215-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|14195390-Vancouver, BC|95|2
+8417802|sacramento, california|61512401-Milan, Italy|95|2
+8417802|sacramento, california|18519264-sacramento, california|95|2
+8417802|sacramento, california|14170709-Error|95|2
+8417802|sacramento, california|18729095-Metro Vancouver|95|2
+8417802|sacramento, california|14349013-SoCal|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|11861062-Sacramento|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|14915325-Raleigh, NC|95|2
+8417802|sacramento, california|16302376-Austin, Texas|95|2
+8417802|sacramento, california|14785772-East Coast, USA|95|2
+8417802|sacramento, california|15494154-NC, US|95|2
+8417802|sacramento, california|14099017-Chicago, IL|95|2
+8417802|sacramento, california|14503354-Error|95|2
+8417802|sacramento, california|16153984-Salt Lake City|95|2
+8417802|sacramento, california|15293352-Atlanta, GA|95|2
+8417802|sacramento, california|16061753-Frederick, MD|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|5704832-Portland, OR|95|2
+8417802|sacramento, california|11892722-Boston suburbs|95|2
+8417802|sacramento, california|29223086-Pittsburgh, PA|95|2
+8417802|sacramento, california|14634197-Chicago|95|2
+8417802|sacramento, california|5381692-Nashville, Tennessee|95|2
+8417802|sacramento, california|9468812-Frederick, MD|95|2
+8417802|sacramento, california|14624492-Washington, DC|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|18638681-Sacramento|95|2
+8417802|sacramento, california|17576667-Pacific Northwest|95|2
+8417802|sacramento, california|15575630-Palo Alto, California|95|2
+8417802|sacramento, california|17556573-Grand Rapids Michigan|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|185310243-Sacramento|95|2
+8417802|sacramento, california|15323486-DC Metro/Rockville MD|95|2
+8417802|sacramento, california|5410262-Palo Alto, CA|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+8417802|sacramento, california|0-Error|95|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+21263769|sacramento, california|0-Error|23|2
+14710305|sacramento, california|0-Error|11|2
+14710305|sacramento, california|0-Error|11|2
+14710305|sacramento, california|0-Error|11|2
+14710305|sacramento, california|0-Error|11|2
+14710305|sacramento, california|0-Error|11|2
+14710305|sacramento, california|0-Error|11|2
+14710305|sacramento, california|0-Error|11|2
+14710305|sacramento, california|0-Error|11|2
+14710305|sacramento, california|0-Error|11|2
+14710305|sacramento, california|0-Error|11|2
+14710305|sacramento, california|0-Error|11|2
+53771648|sacramento, california|53771648-15th & L, Sacramento, CA|25|2
+53771648|sacramento, california|19390257-under a palm tree in NYC|25|2
+53771648|sacramento, california|19096575-Roseville, CA|25|2
+53771648|sacramento, california|18750157-West Coast|25|2
+53771648|sacramento, california|497333756-Miskolc|25|2
+53771648|sacramento, california|0-Error|25|2
+53771648|sacramento, california|19526337-San Francisco|25|2
+53771648|sacramento, california|0-Error|25|2
+53771648|sacramento, california|20883322-sacramento, california|25|2
+53771648|sacramento, california|0-Error|25|2
+53771648|sacramento, california|25365536-where I'm meant to be...|25|2
+53771648|sacramento, california|0-Error|25|2
+53771648|sacramento, california|125707876-Error|25|2
+53771648|sacramento, california|0-Error|25|2
+53771648|sacramento, california|0-Error|25|2
+53771648|sacramento, california|0-Error|25|2
+53771648|sacramento, california|0-Error|25|2
+53771648|sacramento, california|0-Error|25|2
+53771648|sacramento, california|19481573-sacramento, california.|25|2
+53771648|sacramento, california|20174226-sacramento, california|25|2
+53771648|sacramento, california|25688663-Los Angeles|25|2
+53771648|sacramento, california|17326983-107.9 the End, Sacramento, CA|25|2
+53771648|sacramento, california|2996868335-Error|25|2
+53771648|sacramento, california|17800764-Hollywood / Los Angeles|25|2
+15253419|sacramento, california|210013732-New York City, NY|2|2
+15253419|sacramento, california|0-Error|2|2
+18907463|sacramento, california|16224670-Walnut Creek, California|11|2
+18907463|sacramento, california|23730842-203 1st Davis, California|11|2
+18907463|sacramento, california|14749520-sacramento, california|11|2
+18907463|sacramento, california|17473443-Error|11|2
+18907463|sacramento, california|40037635-sacramento, california|11|2
+18907463|sacramento, california|0-Error|11|2
+18907463|sacramento, california|16261627-San Francisco Bay Area|11|2
+18907463|sacramento, california|17487795-Washington, D.C.|11|2
+18907463|sacramento, california|18907463-Third District of California|11|2
+18907463|sacramento, california|16004809-Portland OR (PDX)|11|2
+20219269|sacramento, california|11883132-San Francisco|7|2
+20219269|sacramento, california|7632042-Melbourne, Australia|7|2
+20219269|sacramento, california|972651-Error|7|2
+20219269|sacramento, california|0-Error|7|2
+20219269|sacramento, california|0-Error|7|2
+20219269|sacramento, california|0-Error|7|2
+20219269|sacramento, california|0-Error|7|2
+60755267|sacramento, california|223552580-Error|6|2
+60755267|sacramento, california|3318941297-Error|6|2
+60755267|sacramento, california|19604744-California|6|2
+60755267|sacramento, california|20188930-Los Angeles, CA|6|2
+60755267|sacramento, california|0-Error|6|2
+60755267|sacramento, california|119236324-Error|6|2
+41584448|sacramento, california|61782928-California|9|2
+41584448|sacramento, california|74337270-Long Island|9|2
+41584448|sacramento, california|16935292-New York, NY|9|2
+41584448|sacramento, california|15740610-Online and Bethesda, Md. |9|2
+41584448|sacramento, california|17036898-Los Angeles, CA|9|2
+41584448|sacramento, california|0-Error|9|2
+41584448|sacramento, california|72955005-San Francisco|9|2
+41584448|sacramento, california|1250406984-Error|9|2
+18618065|sacramento, california|11347122-California|14|2
+18618065|sacramento, california|33691779-Sacramento|14|2
+18618065|sacramento, california|247006938-Error|14|2
+18618065|sacramento, california|0-Error|14|2
+18618065|sacramento, california|0-Error|14|2
+18618065|sacramento, california|56631533-chicago, il|14|2
+18618065|sacramento, california|12044602-Los Angeles, California|14|2
+18618065|sacramento, california|6328572-Error|14|2
+18618065|sacramento, california|607856488-Los Angeles, CA|14|2
+18618065|sacramento, california|0-Error|14|2
+18618065|sacramento, california|92367751-Error|14|2
+18618065|sacramento, california|18220175-EVERYWHERE!!!|14|2
+18618065|sacramento, california|0-Error|14|2
+18618065|sacramento, california|0-Error|14|2
+14715542|sacramento, california|14949803-Boulder, CO|19|2
+14715542|sacramento, california|51077652-USA (many cities)|19|2
+14715542|sacramento, california|352553-Las Vegas & Boston, MA|19|2
+14715542|sacramento, california|15200486-Columbus, Ohio USA|19|2
+14715542|sacramento, california|7255652-San Francisco, CA|19|2
+14715542|sacramento, california|14273100-Miami Beach, FL|19|2
+14715542|sacramento, california|6164822-Seattle, WA|19|2
+14715542|sacramento, california|459295482-Error|19|2
+14715542|sacramento, california|39539297-Boston, MA|19|2
+14715542|sacramento, california|641213-Colorado Springs, CO|19|2
+14715542|sacramento, california|689113-Taipei, Taiwan|19|2
+14715542|sacramento, california|193917727-Error|19|2
+14715542|sacramento, california|15323119-united states|19|2
+14715542|sacramento, california|808458-USA|19|2
+14715542|sacramento, california|38679514-Boulder, Colorado|19|2
+14715542|sacramento, california|5252301-Veteran, Wyoming|19|2
+14715542|sacramento, california|13412-gone|19|2
+14715542|sacramento, california|23470946-Corvallis, OR|19|2
+14715542|sacramento, california|7579442-Chicago, IL|19|2
+19748674|sacramento, california|15200682-LA / NAPA|76|2
+19748674|sacramento, california|20188930-Los Angeles, CA|76|2
+19748674|sacramento, california|15425758-Arab, Alabama|76|2
+19748674|sacramento, california|7846-Los Angeles, CA|76|2
+19748674|sacramento, california|19604744-California|76|2
+19748674|sacramento, california|19748674-California|76|2
+19748674|sacramento, california|15984611-Kansas City, MO|76|2
+19748674|sacramento, california|17939037-Oldham, England|76|2
+19748674|sacramento, california|28906290-Pullman, WA|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|88260023-Macon, GA|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|10974312-London|76|2
+19748674|sacramento, california|3306862576-Error|76|2
+19748674|sacramento, california|36482049-Johnston, Rhode Island|76|2
+19748674|sacramento, california|54829905-Perth|76|2
+19748674|sacramento, california|66186707-Santiago, Chile|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|1032831648-BanjarmasinID|76|2
+19748674|sacramento, california|15616505-San Francisco|76|2
+19748674|sacramento, california|390243340-A casa mia xd|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|2384941699-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|35830816-In Daves Mailbox|76|2
+19748674|sacramento, california|24079268-Error|76|2
+19748674|sacramento, california|22160623-Instagram - shonesejc|76|2
+19748674|sacramento, california|1686219950-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|1150901658-Error|76|2
+19748674|sacramento, california|2176454922-Error|76|2
+19748674|sacramento, california|2969550411-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|43321142-England. [:|76|2
+19748674|sacramento, california|31535307-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|54062663-California|76|2
+19748674|sacramento, california|15827591-Portland, OR|76|2
+19748674|sacramento, california|41918489-Error|76|2
+19748674|sacramento, california|27166343-Hoth (Michigan)|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|14710369-Los Angeles, mostly.|76|2
+19748674|sacramento, california|202537036-Error|76|2
+19748674|sacramento, california|42810743-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|14323467-San Francisco, CA|76|2
+19748674|sacramento, california|43023258-Lomita, CA|76|2
+19748674|sacramento, california|46796007-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|554729080-america|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|31531736-costa mesa, ca|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|29558920-louisville, ky|76|2
+19748674|sacramento, california|25551264-TARDIS|76|2
+19748674|sacramento, california|24496136-Port Hedland|76|2
+19748674|sacramento, california|2172819302-Error|76|2
+19748674|sacramento, california|18932720-Washington State|76|2
+19748674|sacramento, california|16243471-Colorado|76|2
+19748674|sacramento, california|16662781-Rexburg, ID|76|2
+19748674|sacramento, california|3110228183-Error|76|2
+19748674|sacramento, california|489782094-Germany|76|2
+19748674|sacramento, california|15387013-Portland, Oregon|76|2
+19748674|sacramento, california|53002170-Lost|76|2
+19748674|sacramento, california|18588279-Error|76|2
+19748674|sacramento, california|0-Error|76|2
+19748674|sacramento, california|15846407-California|76|2
+19748674|sacramento, california|35778789-Error|76|2
+21138274|sacramento, california|15170196-Washington, DC|15|2
+21138274|sacramento, california|21019697-sacramento, california|15|2
+21138274|sacramento, california|21055197-iPhone|15|2
+21138274|sacramento, california|2771285805-Error|15|2
+21138274|sacramento, california|0-Error|15|2
+21138274|sacramento, california|21346365-Washington, DC|15|2
+21138274|sacramento, california|18622869-DC|15|2
+21138274|sacramento, california|0-Error|15|2
+21138274|sacramento, california|24712487-Error|15|2
+21138274|sacramento, california|7864222-Los Angeles, CA|15|2
+21138274|sacramento, california|21666809-Oregon|15|2
+21138274|sacramento, california|23232204-Washington, DC|15|2
+21138274|sacramento, california|2168932578-Error|15|2
+21138274|sacramento, california|0-Error|15|2
+21138274|sacramento, california|19562182-Error|15|2
+11307882|sacramento, california|0-Error|1|2
+23104386|sacramento, california|0-Error|12|2
+23104386|sacramento, california|0-Error|12|2
+23104386|sacramento, california|0-Error|12|2
+23104386|sacramento, california|0-Error|12|2
+23104386|sacramento, california|0-Error|12|2
+23104386|sacramento, california|0-Error|12|2
+23104386|sacramento, california|0-Error|12|2
+23104386|sacramento, california|0-Error|12|2
+23104386|sacramento, california|0-Error|12|2
+23104386|sacramento, california|0-Error|12|2
+23104386|sacramento, california|0-Error|12|2
+23104386|sacramento, california|0-Error|12|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+16551075|sacramento, california|0-Error|21|2
+76582604|sacramento, california|0-Error|4|2
+76582604|sacramento, california|0-Error|4|2
+76582604|sacramento, california|0-Error|4|2
+76582604|sacramento, california|0-Error|4|2
+18126379|sacramento, california|0-Error|20|2
+18126379|sacramento, california|18126379-Lake Havasu City, AZ|20|2
+18126379|sacramento, california|14944859-31.861179,-83.719032|20|2
+18126379|sacramento, california|16241878-Sk33no|20|2
+18126379|sacramento, california|22966188-Santa Rosa, CA|20|2
+18126379|sacramento, california|19829583-38.677580, -121.261973|20|2
+18126379|sacramento, california|35181288-sacramento, california|20|2
+18126379|sacramento, california|0-Error|20|2
+18126379|sacramento, california|0-Error|20|2
+18126379|sacramento, california|0-Error|20|2
+18126379|sacramento, california|21506437-anywhere with cell service|20|2
+18126379|sacramento, california|0-Error|20|2
+18126379|sacramento, california|2590886971-Far Away Fashion Galaxy |20|2
+18126379|sacramento, california|0-Error|20|2
+18126379|sacramento, california|0-Error|20|2
+18126379|sacramento, california|756318-Araraquara, Brazil|20|2
+18126379|sacramento, california|0-Error|20|2
+18126379|sacramento, california|64461059-Error|20|2
+18126379|sacramento, california|25009147-Right where I need to be|20|2
+18126379|sacramento, california|17846735-Error|20|2
+26413|sacramento, california|13255172-San Francisco, CA|10|2
+26413|sacramento, california|0-Error|10|2
+26413|sacramento, california|0-Error|10|2
+26413|sacramento, california|0-Error|10|2
+26413|sacramento, california|22275383-Error|10|2
+26413|sacramento, california|46227408-The Southwest|10|2
+26413|sacramento, california|77016872-The dancefloor|10|2
+26413|sacramento, california|0-Error|10|2
+26413|sacramento, california|15924127-Chicago, IL USA|10|2
+26413|sacramento, california|0-Error|10|2
+39360904|sacramento, california|1855110943-Error|1|2
+15636968|sacramento, california|14534959-Riverside, CA|12|2
+15636968|sacramento, california|14289750-Error|12|2
+15636968|sacramento, california|17950055-Downtown Bentonville, Arkansas|12|2
+15636968|sacramento, california|89560854-Instagram: @johnsowers|12|2
+15636968|sacramento, california|37845595-Los Angeles, CA|12|2
+15636968|sacramento, california|10989442-McKinney, TX|12|2
+15636968|sacramento, california|33590917-Portland, Oregon|12|2
+15636968|sacramento, california|15221267-Nashville, TN|12|2
+15636968|sacramento, california|12135022-El Paso, Texas|12|2
+15636968|sacramento, california|18151849-Tennessee|12|2
+15636968|sacramento, california|14902690-Portland, Oregon|12|2
+15636968|sacramento, california|9720392-Vancouver, Washington|12|2
+51289960|sacramento, california|17196740-Redditch, Worcestershire, UK|13|2
+51289960|sacramento, california|18912905-Irvine, CA|13|2
+51289960|sacramento, california|17046805-Redmond, WA|13|2
+51289960|sacramento, california|26133590-38.529908,-121.48379|13|2
+51289960|sacramento, california|3437943073-Error|13|2
+51289960|sacramento, california|0-Error|13|2
+51289960|sacramento, california|0-Error|13|2
+51289960|sacramento, california|0-Error|13|2
+51289960|sacramento, california|0-Error|13|2
+51289960|sacramento, california|43153068-Error|13|2
+51289960|sacramento, california|63597668-Online!|13|2
+51289960|sacramento, california|0-Error|13|2
+51289960|sacramento, california|0-Error|13|2
+20883322|sacramento, california|104984703-Error|30|2
+20883322|sacramento, california|20883322-sacramento, california|30|2
+20883322|sacramento, california|0-Error|30|2
+20883322|sacramento, california|756318-Araraquara, Brazil|30|2
+20883322|sacramento, california|0-Error|30|2
+20883322|sacramento, california|0-Error|30|2
+20883322|sacramento, california|53766710-CBS KSFM 102.5 Sacramento|30|2
+20883322|sacramento, california|22297637-Sacramento,CA|30|2
+20883322|sacramento, california|0-Error|30|2
+20883322|sacramento, california|24409890-Error|30|2
+20883322|sacramento, california|23308665-Error|30|2
+20883322|sacramento, california|18156180-Sacramento, Cali|30|2
+20883322|sacramento, california|19096575-Roseville, CA|30|2
+20883322|sacramento, california|17519185-SF|30|2
+20883322|sacramento, california|0-Error|30|2
+20883322|sacramento, california|0-Error|30|2
+20883322|sacramento, california|17959805-Sacramento|30|2
+20883322|sacramento, california|19526337-San Francisco|30|2
+20883322|sacramento, california|18624303-sacramento, california|30|2
+20883322|sacramento, california|26805383-California|30|2
+20883322|sacramento, california|0-Error|30|2
+20883322|sacramento, california|14587936-Error|30|2
+20883322|sacramento, california|18263434-Ear Canals Everywhere|30|2
+20883322|sacramento, california|0-Error|30|2
+20883322|sacramento, california|0-Error|30|2
+20883322|sacramento, california|20032393-San Fancisco, CA|30|2
+20883322|sacramento, california|29410949-Back from the Future|30|2
+20883322|sacramento, california|58591307-Greater Sacramento|30|2
+20883322|sacramento, california|0-Error|30|2
+20883322|sacramento, california|0-Error|30|2
+55879768|sacramento, california|14709709-Philadelphia/Lancaster|13|2
+55879768|sacramento, california|0-Error|13|2
+55879768|sacramento, california|13985082-Los Angeles|13|2
+55879768|sacramento, california|48849046-Error|13|2
+55879768|sacramento, california|25757838-Philadelphia|13|2
+55879768|sacramento, california|0-Error|13|2
+55879768|sacramento, california|0-Error|13|2
+55879768|sacramento, california|0-Error|13|2
+55879768|sacramento, california|13846312-Bristol, CT|13|2
+55879768|sacramento, california|324349797-Error|13|2
+55879768|sacramento, california|382370687-Error|13|2
+55879768|sacramento, california|21903212-Error|13|2
+55879768|sacramento, california|7212562-Dallas, Texas|13|2
+17345647|sacramento, california|15859184-Houston/At A Ballpark|21|2
+17345647|sacramento, california|12700662-Northern Colorado|21|2
+17345647|sacramento, california|43750993-Lafayette, IN|21|2
+17345647|sacramento, california|17345146-Toronto|21|2
+17345647|sacramento, california|117840084-Purgatory|21|2
+17345647|sacramento, california|14826398-Rip City|21|2
+17345647|sacramento, california|2240416472-Portland, OR|21|2
+17345647|sacramento, california|17112369-Washington, DC|21|2
+17345647|sacramento, california|114329275-Error|21|2
+17345647|sacramento, california|0-Error|21|2
+17345647|sacramento, california|15321506-Atlanta|21|2
+17345647|sacramento, california|497527957-St. Cloud, MN|21|2
+17345647|sacramento, california|20444254-Error|21|2
+17345647|sacramento, california|0-Error|21|2
+17345647|sacramento, california|81411085-Toronto, kinda|21|2
+17345647|sacramento, california|80477351-Toronto, ON|21|2
+17345647|sacramento, california|0-Error|21|2
+17345647|sacramento, california|30964045-my parents basement....duh|21|2
+17345647|sacramento, california|12254582-Toronto|21|2
+17345647|sacramento, california|0-Error|21|2
+17345647|sacramento, california|14737828-Sydney / London / Sassari|21|2
+39105810|sacramento, california|0-Error|19|2
+39105810|sacramento, california|39200476-Error|19|2
+39105810|sacramento, california|0-Error|19|2
+39105810|sacramento, california|27812187-San Diego|19|2
+39105810|sacramento, california|0-Error|19|2
+39105810|sacramento, california|0-Error|19|2
+39105810|sacramento, california|12575182-ILL-AY|19|2
+39105810|sacramento, california|0-Error|19|2
+39105810|sacramento, california|82270926-Sacramento|19|2
+39105810|sacramento, california|2688668366-United States|19|2
+39105810|sacramento, california|0-Error|19|2
+39105810|sacramento, california|21229200-City of Angels|19|2
+39105810|sacramento, california|49050597-Barbados|19|2
+39105810|sacramento, california|328970877-Error|19|2
+39105810|sacramento, california|0-Error|19|2
+39105810|sacramento, california|0-Error|19|2
+39105810|sacramento, california|68793687-33.969662,-118.371602|19|2
+39105810|sacramento, california|25035212-Error|19|2
+39105810|sacramento, california|23832022-Worldwide |19|2
+18655523|sacramento, california|14738267-Sacramento|10|2
+18655523|sacramento, california|15894801-Charleston, SC|10|2
+18655523|sacramento, california|3874013423-Error|10|2
+18655523|sacramento, california|0-Error|10|2
+18655523|sacramento, california|13265572-Brooklyn, NY|10|2
+18655523|sacramento, california|18229440-Charleston, SC|10|2
+18655523|sacramento, california|307067424-Sacramento|10|2
+18655523|sacramento, california|14336472-Charleston, WV|10|2
+18655523|sacramento, california|0-Error|10|2
+90486784|sacramento, california|766412858-Roseville, CA|7|2
+90486784|sacramento, california|59711064-urban hell|7|2
+90486784|sacramento, california|0-Error|7|2
+90486784|sacramento, california|0-Error|7|2
+90486784|sacramento, california|46186400-Error|7|2
+90486784|sacramento, california|0-Error|7|2
+90486784|sacramento, california|2996868335-Error|7|2
+21281360|sacramento, california|158264229-Error|10|2
+21281360|sacramento, california|2234380481-Error|10|2
+21281360|sacramento, california|0-Error|10|2
+21281360|sacramento, california|33259250-Beverly Hills|10|2
+21281360|sacramento, california|0-Error|10|2
+21281360|sacramento, california|254939558-Error|10|2
+21281360|sacramento, california|18099774-Bay Area Baby!! Holla!!|10|2
+21281360|sacramento, california|14713963-Pekin, Illinois USA|10|2
+21281360|sacramento, california|103146834-Error|10|2
+21281360|sacramento, california|166690050-Worldwide|10|2
+78953270|sacramento, california|234304256-Villmar|43|2
+78953270|sacramento, california|78953270-City of Trees 9:16|43|2
+78953270|sacramento, california|136718782-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|617513592-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|88599256-Error|43|2
+78953270|sacramento, california|32701104-Bay Area - Cali|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|29962157-Sacramento|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|27480483-DOWNLOAD my single #Designer|43|2
+78953270|sacramento, california|3246633044-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+78953270|sacramento, california|0-Error|43|2
+25215362|sacramento, california|0-Error|5|2
+25215362|sacramento, california|167536414-Error|5|2
+25215362|sacramento, california|22370838-sacramento, california|5|2
+25215362|sacramento, california|567541699-Error|5|2
+25215362|sacramento, california|38559878-Error|5|2
+22070094|sacramento, california|14842523-Chiang Mai|1|2
+61000119|sacramento, california|0-Error|13|2
+61000119|sacramento, california|81309715-California|13|2
+61000119|sacramento, california|0-Error|13|2
+61000119|sacramento, california|0-Error|13|2
+61000119|sacramento, california|0-Error|13|2
+61000119|sacramento, california|0-Error|13|2
+61000119|sacramento, california|81873391-Los Angeles, CA|13|2
+61000119|sacramento, california|0-Error|13|2
+61000119|sacramento, california|0-Error|13|2
+61000119|sacramento, california|81307920-Chicago|13|2
+61000119|sacramento, california|0-Error|13|2
+61000119|sacramento, california|81870716-California|13|2
+61000119|sacramento, california|80641737-Seattle|13|2
+26136077|sacramento, california|0-Error|2|2
+7918822|sacramento, california|44667618-sacramento, california|66|2
+7918822|sacramento, california|21263769-sacramento, california|66|2
+7918822|sacramento, california|9175762-Los Angeles, CA|66|2
+7918822|sacramento, california|14506351-Roseville, Ca/Paso Robles, Ca|66|2
+7918822|sacramento, california|14596842-SF Bay Area|66|2
+7918822|sacramento, california|17224082-Warren, MI (Detroit)|66|2
+7918822|sacramento, california|3269909749-Error|66|2
+7918822|sacramento, california|0-Error|66|2
+7918822|sacramento, california|80378247-San Francisco, CA |66|2
+7918822|sacramento, california|12131132-Home|66|2
+7918822|sacramento, california|14209389-Portland, Maine|66|2
+7918822|sacramento, california|14067246-St. Petersburg, Fla.|66|2
+7918822|sacramento, california|14170709-Error|66|2
+7918822|sacramento, california|488067049-Lost In Time or Reno.|66|2
+7918822|sacramento, california|7144422-Error|66|2
+7918822|sacramento, california|18322466-Western United States|66|2
+7918822|sacramento, california|8039542-iPhone: 45.498520,-122.685800|66|2
+7918822|sacramento, california|0-Error|66|2
+7918822|sacramento, california|18560680-Sacramento|66|2
+7918822|sacramento, california|11246242-Washington, DC/NoVA|66|2
+7918822|sacramento, california|0-Error|66|2
+7918822|sacramento, california|35665447-sacramento, california|66|2
+7918822|sacramento, california|19101733-Boise, ID|66|2
+7918822|sacramento, california|26413765-sacramento, california|66|2
+7918822|sacramento, california|2960721-Massachusetts|66|2
+7918822|sacramento, california|20445840-Right Here|66|2
+7918822|sacramento, california|48143629-Seattle, WA|66|2
+7918822|sacramento, california|11420742-Austin, Texas 78731|66|2
+7918822|sacramento, california|14577706-Carmichael, CA|66|2
+7918822|sacramento, california|17446400-Fair Oaks, CA|66|2
+7918822|sacramento, california|1357421-Skinners, CA|66|2
+7918822|sacramento, california|6067802-NY, CT, CA, Airports|66|2
+7918822|sacramento, california|210013732-New York City, NY|66|2
+7918822|sacramento, california|33142966-sacramento, california|66|2
+7918822|sacramento, california|782354-Marin, CA USA|66|2
+7918822|sacramento, california|0-Error|66|2
+7918822|sacramento, california|816653-San Francisco, CA|66|2
+7918822|sacramento, california|1539609079-Error|66|2
+7918822|sacramento, california|0-Error|66|2
+7918822|sacramento, california|1201191-iPhone: 30.264496,-97.738800|66|2
+7918822|sacramento, california|4510861-Jersey City|66|2
+7918822|sacramento, california|16014113-SF Bay Area|66|2
+7918822|sacramento, california|817268-Silicon Valley|66|2
+7918822|sacramento, california|15001450-El Dorado Hills, CA|66|2
+7918822|sacramento, california|14104847-Philadelphia, PA|66|2
+7918822|sacramento, california|0-Error|66|2
+7918822|sacramento, california|25763468-Error|66|2
+7918822|sacramento, california|16120265-San Francisco|66|2
+7918822|sacramento, california|14894472-Roseville, CA|66|2
+7918822|sacramento, california|0-Error|66|2
+7918822|sacramento, california|823825-San Diego|66|2
+7918822|sacramento, california|14553073-sacramento, california|66|2
+7918822|sacramento, california|12089552-Austin, TX (Liberty Hill)|66|2
+7918822|sacramento, california|0-Error|66|2
+7918822|sacramento, california|15825686-San Francisco, CA|66|2
+7918822|sacramento, california|2316691-sacramento, california|66|2
+7918822|sacramento, california|5749112-massachusetts|66|2
+7918822|sacramento, california|28697130-Pasadena, CA|66|2
+7918822|sacramento, california|16468365-#sanfrancisco|66|2
+7918822|sacramento, california|784912-Mill Valley, CA|66|2
+7918822|sacramento, california|0-Error|66|2
+7918822|sacramento, california|14331688-NYC|66|2
+7918822|sacramento, california|0-Error|66|2
+7918822|sacramento, california|12979762-Silicon Valley|66|2
+7918822|sacramento, california|10252962-Los Angeles, CA|66|2
+7918822|sacramento, california|818155-NYC|66|2
+72930810|sacramento, california|22007499-Error|6|2
+72930810|sacramento, california|0-Error|6|2
+72930810|sacramento, california|0-Error|6|2
+72930810|sacramento, california|0-Error|6|2
+72930810|sacramento, california|0-Error|6|2
+72930810|sacramento, california|76690643-Hilliard, Florida  US|6|2
+15653186|sacramento, california|31022437-Charlotte, NC|13|2
+15653186|sacramento, california|82636767-Southern Ontario|13|2
+15653186|sacramento, california|22206565-San Francisco, CA|13|2
+15653186|sacramento, california|46063508-Error|13|2
+15653186|sacramento, california|16229878-SF/LA/NYC/OMG|13|2
+15653186|sacramento, california|62173794-Hollywood, CA|13|2
+15653186|sacramento, california|22972332-Error|13|2
+15653186|sacramento, california|15588657-Global|13|2
+15653186|sacramento, california|36207902-Vista, California|13|2
+15653186|sacramento, california|0-Error|13|2
+15653186|sacramento, california|19363528-Washington, DC|13|2
+15653186|sacramento, california|84853270-Waiting for Miley|13|2
+16049323|sacramento, california|14453529-Nashville by way of Seattle|3|2
+16049323|sacramento, california|16900666-Franklin/Brentwood TN|3|2
+16049323|sacramento, california|15473607-California|3|2
+14608391|sacramento, california|0-Error|10|2
+14608391|sacramento, california|14608887-San Antonio, Texas|10|2
+14608391|sacramento, california|809529-ca|10|2
+14608391|sacramento, california|15097346-Kenton, United States|10|2
+14608391|sacramento, california|0-Error|10|2
+14608391|sacramento, california|34144717-Cleveland, Ohio|10|2
+14608391|sacramento, california|0-Error|10|2
+14608391|sacramento, california|0-Error|10|2
+14608391|sacramento, california|17551903-Athens, Ohio|10|2
+14608391|sacramento, california|36314303-New York City|10|2
+9496922|sacramento, california|0-Error|14|2
+9496922|sacramento, california|28043295-sacramento, california|14|2
+9496922|sacramento, california|14091741-Chicago|14|2
+9496922|sacramento, california|0-Error|14|2
+9496922|sacramento, california|23123226-Los Angeles, CA|14|2
+9496922|sacramento, california|19049793-Error|14|2
+9496922|sacramento, california|42817516-Error|14|2
+9496922|sacramento, california|22320795-sacramento, california|14|2
+9496922|sacramento, california|1894244370-Error|14|2
+9496922|sacramento, california|0-Error|14|2
+9496922|sacramento, california|0-Error|14|2
+9496922|sacramento, california|15471604-Error|14|2
+9496922|sacramento, california|48533605-sacramento, california|14|2
+9496922|sacramento, california|37066255-sacramento, california|14|2
+15657636|sacramento, california|254839546-Portland, OR|11|2
+15657636|sacramento, california|15080982-Mississauga, Ontario|11|2
+15657636|sacramento, california|15618071-Eagle River, Alaska|11|2
+15657636|sacramento, california|14901122-where the ghetto meets the sea|11|2
+15657636|sacramento, california|20821115-Glasgow,UK |11|2
+15657636|sacramento, california|10505322-Los Angeles|11|2
+15657636|sacramento, california|14706902-California, USA|11|2
+15657636|sacramento, california|0-Error|11|2
+15657636|sacramento, california|15922604-Toronto, Ontario|11|2
+15657636|sacramento, california|73587880-CA|11|2
+18149101|sacramento, california|7386412-Error|5|2
+18149101|sacramento, california|58581480-sacramento, california|5|2
+18149101|sacramento, california|15075999-California|5|2
+18149101|sacramento, california|0-Error|5|2
+26931835|sacramento, california|12044602-Los Angeles, California|1|2
+15398649|sacramento, california|18788737-Error|12|2
+15398649|sacramento, california|0-Error|12|2
+15398649|sacramento, california|9254272-iPhone: 40.753433,-73.969070|12|2
+15398649|sacramento, california|22882552-Northern California |12|2
+15398649|sacramento, california|16358736-Mechanicsburg, PA |12|2
+15398649|sacramento, california|0-Error|12|2
+15398649|sacramento, california|0-Error|12|2
+15398649|sacramento, california|30007505-Error|12|2
+15398649|sacramento, california|33080180-Auburn NY|12|2
+15398649|sacramento, california|1289661-Acworth, GA|12|2
+15398649|sacramento, california|5438392-Brooklyn, NY|12|2
+15398649|sacramento, california|16352615-Toronto, ON|12|2
+16307330|sacramento, california|14328368-Error|5|2
+16307330|sacramento, california|15070084-Error|5|2
+16307330|sacramento, california|3614685930-Pennsylvania, USA|5|2
+16307330|sacramento, california|0-Error|5|2
+16307330|sacramento, california|17475575-Richfield, MN|5|2
+23395480|sacramento, california|33142966-sacramento, california|8|2
+23395480|sacramento, california|37958618-Cool, CA, Northern California|8|2
+23395480|sacramento, california|23395480-sacramento, california|8|2
+23395480|sacramento, california|14454721-Global|8|2
+23395480|sacramento, california|1480429490-Error|8|2
+23395480|sacramento, california|44426039-California|8|2
+23395480|sacramento, california|1413025554-Error|8|2
+20873135|sacramento, california|17270667-sacramento, california|13|2
+20873135|sacramento, california|0-Error|13|2
+20873135|sacramento, california|16162149-San Francisco, CA USA|13|2
+20873135|sacramento, california|43143358-San Francisco, California|13|2
+20873135|sacramento, california|16077458-Chicago|13|2
+20873135|sacramento, california|29575412-Fresno|13|2
+20873135|sacramento, california|40532762-Newport Beach, California|13|2
+20873135|sacramento, california|20471087-California|13|2
+20873135|sacramento, california|23232204-Washington, DC|13|2
+20873135|sacramento, california|24424732-California|13|2
+20873135|sacramento, california|2511713503-Error|13|2
+20873135|sacramento, california|0-Error|13|2
+20873135|sacramento, california|0-Error|13|2
+16056120|sacramento, california|0-Error|3|2
+16056120|sacramento, california|0-Error|3|2
+16056120|sacramento, california|0-Error|3|2
+44499217|sacramento, california|0-Error|2|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|23888081-Hollyweird|82|2
+70713874|sacramento, california|23925354-Error|82|2
+70713874|sacramento, california|783214-San Francisco, CA|82|2
+70713874|sacramento, california|16288426-Los Angeles, CA|82|2
+70713874|sacramento, california|18395177-Error|82|2
+70713874|sacramento, california|23998156-Instagram: @latinaonamission|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|28461805-City of Graves, Boohio|82|2
+70713874|sacramento, california|19562228-Error|82|2
+70713874|sacramento, california|17203058-Edmonton, Alberta|82|2
+70713874|sacramento, california|16540322-Memphis, TN|82|2
+70713874|sacramento, california|15012385-Hawaii|82|2
+70713874|sacramento, california|243442402-Error|82|2
+70713874|sacramento, california|65260323-Santa Rosa Beach, Florida|82|2
+70713874|sacramento, california|15585383-Hollywood, CA|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|627089370-Error|82|2
+70713874|sacramento, california|21276187-Somewhere in La Gran Manzana|82|2
+70713874|sacramento, california|33199071-Error|82|2
+70713874|sacramento, california|58958537-Cleveland, Ohio|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|23396761-L.A.|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|21838634-PLANET 9|82|2
+70713874|sacramento, california|23975266-Seattle, WA|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|75103052-Error|82|2
+70713874|sacramento, california|286739475-Error|82|2
+70713874|sacramento, california|23405725-Seattle-ish|82|2
+70713874|sacramento, california|44293593-www.womentalksports.com|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|293155760-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|0-Error|82|2
+70713874|sacramento, california|633493-Error|82|2
+70713874|sacramento, california|47354075-Atlanta Ga|82|2
+86180683|sacramento, california|0-Error|16|2
+86180683|sacramento, california|27687551-New Orleans |16|2
+86180683|sacramento, california|0-Error|16|2
+86180683|sacramento, california|437335552-Budapest|16|2
+86180683|sacramento, california|0-Error|16|2
+86180683|sacramento, california|28264755-Bay Area #RICHCITY CA|16|2
+86180683|sacramento, california|27378742-nigeria|16|2
+86180683|sacramento, california|0-Error|16|2
+86180683|sacramento, california|0-Error|16|2
+86180683|sacramento, california|24459237-ATLANTA, TAMPA, SACRAMENTO|16|2
+86180683|sacramento, california|0-Error|16|2
+86180683|sacramento, california|31077695-West Coast|16|2
+86180683|sacramento, california|0-Error|16|2
+86180683|sacramento, california|87376926-BROOKLYN|16|2
+86180683|sacramento, california|0-Error|16|2
+86180683|sacramento, california|0-Error|16|2
+23528338|sacramento, california|873240258-SAMANTHA'S HOUSE |9|2
+23528338|sacramento, california|0-Error|9|2
+23528338|sacramento, california|16138664-Error|9|2
+23528338|sacramento, california|205145955-sacramento|9|2
+23528338|sacramento, california|46312080-L.A.|9|2
+23528338|sacramento, california|0-Error|9|2
+23528338|sacramento, california|0-Error|9|2
+23528338|sacramento, california|168811882-Error|9|2
+23528338|sacramento, california|0-Error|9|2
+38995123|sacramento, california|2194711-SF Bay Area|3|2
+38995123|sacramento, california|15029970-Planet Earth|3|2
+38995123|sacramento, california|8761432-Europe|3|2
+16581916|sacramento, california|25729606-Sacramento|28|2
+16581916|sacramento, california|16831706-Albany, New York|28|2
+16581916|sacramento, california|0-Error|28|2
+16581916|sacramento, california|0-Error|28|2
+16581916|sacramento, california|0-Error|28|2
+16581916|sacramento, california|40864405-Error|28|2
+16581916|sacramento, california|16523905-Los Angeles|28|2
+16581916|sacramento, california|0-Error|28|2
+16581916|sacramento, california|14930856-Los Angeles. CA|28|2
+16581916|sacramento, california|3196992551-iOS and Android|28|2
+16581916|sacramento, california|15430113-Herman, MN|28|2
+16581916|sacramento, california|20513603-Studio City, CA|28|2
+16581916|sacramento, california|16581712-iPhone: 40.318108,-74.619354|28|2
+16581916|sacramento, california|451757918-Error|28|2
+16581916|sacramento, california|25694637-Florida|28|2
+16581916|sacramento, california|68881089-Dayton, Ohio|28|2
+16581916|sacramento, california|0-Error|28|2
+16581916|sacramento, california|27593311-Detroit, MI|28|2
+16581916|sacramento, california|18147196-New York|28|2
+16581916|sacramento, california|0-Error|28|2
+16581916|sacramento, california|17703297-Worldwide|28|2
+16581916|sacramento, california|0-Error|28|2
+16581916|sacramento, california|19296580-Modesto, CA|28|2
+16581916|sacramento, california|0-Error|28|2
+16581916|sacramento, california|0-Error|28|2
+16581916|sacramento, california|8962732-Minneapolis, MN|28|2
+16581916|sacramento, california|60918510-Portland, OR|28|2
+16581916|sacramento, california|0-Error|28|2
+36405495|sacramento, california|36405495-Roseville, CA|18|2
+36405495|sacramento, california|0-Error|18|2
+36405495|sacramento, california|7632042-Melbourne, Australia|18|2
+36405495|sacramento, california|18039718-Error|18|2
+36405495|sacramento, california|595616944-UIUC '19|18|2
+36405495|sacramento, california|0-Error|18|2
+36405495|sacramento, california|0-Error|18|2
+36405495|sacramento, california|0-Error|18|2
+36405495|sacramento, california|150928029-Error|18|2
+36405495|sacramento, california|26795603-So. Arizona and South Florida|18|2
+36405495|sacramento, california|0-Error|18|2
+36405495|sacramento, california|0-Error|18|2
+36405495|sacramento, california|19169008-sacramento, california|18|2
+36405495|sacramento, california|15794195-Cambridge, MA|18|2
+36405495|sacramento, california|16621190-Houston, TX|18|2
+36405495|sacramento, california|0-Error|18|2
+36405495|sacramento, california|16895228-Nevada|18|2
+36405495|sacramento, california|11883132-San Francisco|18|2
+40962396|sacramento, california|43369337-San Francisco & Sacramento, CA|2|2
+46337327|sacramento, california|25417573-California|3|2
+46337327|sacramento, california|15293173-Largo, FL|3|2
+46337327|sacramento, california|0-Error|3|2
+14749520|sacramento, california|497621646-Error|1|2
+26285454|sacramento, california|0-Error|16|2
+26285454|sacramento, california|0-Error|16|2
+26285454|sacramento, california|1373480088-Error|16|2
+26285454|sacramento, california|21894197-Louisville, KY|16|2
+26285454|sacramento, california|18345735-Wichita, KS|16|2
+26285454|sacramento, california|23359922-Sacramento|16|2
+26285454|sacramento, california|0-Error|16|2
+26285454|sacramento, california|21478934-Halifax, NS, Canada|16|2
+26285454|sacramento, california|29143704-Error|16|2
+26285454|sacramento, california|0-Error|16|2
+26285454|sacramento, california|0-Error|16|2
+26285454|sacramento, california|176739820-Error|16|2
+26285454|sacramento, california|0-Error|16|2
+26285454|sacramento, california|39971761-Germany|16|2
+26285454|sacramento, california|14874125-Vacaville, CA|16|2
+26285454|sacramento, california|13929092-In a world like this|16|2
+5445422|sacramento, california|275660205-Error|15|2
+5445422|sacramento, california|18164425-Atlanta, GA |15|2
+5445422|sacramento, california|0-Error|15|2
+5445422|sacramento, california|40614142-Error|15|2
+5445422|sacramento, california|0-Error|15|2
+5445422|sacramento, california|0-Error|15|2
+5445422|sacramento, california|22047250-Uncasville, CT|15|2
+5445422|sacramento, california|0-Error|15|2
+5445422|sacramento, california|0-Error|15|2
+5445422|sacramento, california|125380817-Malang|15|2
+5445422|sacramento, california|261080008-Error|15|2
+5445422|sacramento, california|17159397-Error|15|2
+5445422|sacramento, california|261723694-USA|15|2
+5445422|sacramento, california|0-Error|15|2
+5445422|sacramento, california|0-Error|15|2
+58923456|sacramento, california|0-Error|13|2
+58923456|sacramento, california|0-Error|13|2
+58923456|sacramento, california|23151437-Philly/LA|13|2
+58923456|sacramento, california|82270926-Sacramento|13|2
+58923456|sacramento, california|0-Error|13|2
+58923456|sacramento, california|365021057-LA!!!|13|2
+58923456|sacramento, california|42513966-Error|13|2
+58923456|sacramento, california|46592035-Error|13|2
+58923456|sacramento, california|0-Error|13|2
+58923456|sacramento, california|22527671-Error|13|2
+58923456|sacramento, california|0-Error|13|2
+58923456|sacramento, california|15846407-California|13|2
+37952182|sacramento, california|39697202-Perth, Western Australia|66|2
+37952182|sacramento, california|19737713-everywhere|66|2
+37952182|sacramento, california|37952182-Error|66|2
+37952182|sacramento, california|13253502-Liverpool, NY|66|2
+37952182|sacramento, california|26520531-Swansea, Mass|66|2
+37952182|sacramento, california|16594778-Houston, Texas|66|2
+37952182|sacramento, california|19698202-Cambria, CA|66|2
+37952182|sacramento, california|24095880-Shelby Township, Michigan|66|2
+37952182|sacramento, california|19864909-Ottawa - Canada|66|2
+37952182|sacramento, california|22708140-winnipeg,canada|66|2
+37952182|sacramento, california|33560032-NJ|66|2
+37952182|sacramento, california|28676868-Wheaton, IL  USA|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|23359592-Orange County, CA|66|2
+37952182|sacramento, california|69873579-Error|66|2
+37952182|sacramento, california|47354075-Atlanta Ga|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|44220576-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|23274866-Maine and virtually everywhere|66|2
+37952182|sacramento, california|9676642-San Diego, Spain France Italy|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|22151880-Midland, ON. Canada|66|2
+37952182|sacramento, california|24086519- USA & AUSTRIA|66|2
+37952182|sacramento, california|37188645-Toronto, Ontario, Canada|66|2
+37952182|sacramento, california|28901253-USA|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|18233538-Error|66|2
+37952182|sacramento, california|32492407-Error|66|2
+37952182|sacramento, california|20344831-Indian Lake, OH|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|16082844-Wisconsin, USA|66|2
+37952182|sacramento, california|0-Error|66|2
+37952182|sacramento, california|323428158-kitson town |66|2
+37952182|sacramento, california|16725405-Pennsylvania|66|2
+37952182|sacramento, california|2451830989-Error|66|2
+37952182|sacramento, california|2269601922-Error|66|2
+37952182|sacramento, california|36989860-Miami, FL|66|2
+37952182|sacramento, california|17569105-Ashland, Oregon|66|2
+37952182|sacramento, california|14749508-Republic of India|66|2
+37952182|sacramento, california|303379869-Monterrey |66|2
+14630262|sacramento, california|1250104952-North Carolina, USA|23|2
+14630262|sacramento, california|9987572-Error|23|2
+14630262|sacramento, california|21247754-Los Angeles, CA|23|2
+14630262|sacramento, california|451757918-Error|23|2
+14630262|sacramento, california|0-Error|23|2
+14630262|sacramento, california|314092430-[sometimes] Sunny California|23|2
+14630262|sacramento, california|39663167-sacramento, california|23|2
+14630262|sacramento, california|14611719-sacramento, california|23|2
+14630262|sacramento, california|15618553-Norfolk, VA|23|2
+14630262|sacramento, california|16340505-California|23|2
+14630262|sacramento, california|1676601379-Error|23|2
+14630262|sacramento, california|0-Error|23|2
+14630262|sacramento, california|38857773-Error|23|2
+14630262|sacramento, california|9789222-LA|23|2
+14630262|sacramento, california|171105435-Error|23|2
+14630262|sacramento, california|0-Error|23|2
+14630262|sacramento, california|14389187-Boulder, Colorado|23|2
+14630262|sacramento, california|256102267-Error|23|2
+14630262|sacramento, california|14194287-Fremont, CA|23|2
+14630262|sacramento, california|14155879-sacramento, california|23|2
+14630262|sacramento, california|0-Error|23|2
+14630262|sacramento, california|0-Error|23|2
+14630262|sacramento, california|53153219-sacramento, california|23|2
+23138785|sacramento, california|704318275-Ottawa, Ontario|6|2
+23138785|sacramento, california|23138785-sacramento, california|6|2
+23138785|sacramento, california|60343108-Davis California|6|2
+23138785|sacramento, california|62411054-Sacramento|6|2
+23138785|sacramento, california|21795532-Mars|6|2
+35857076|sacramento, california|22279085-Toronto, ON Canada|2|2
+35857076|sacramento, california|35857076-Error|2|2
+22882552|sacramento, california|41156753-Error|15|2
+22882552|sacramento, california|68545352-Wine Country, across the globe|15|2
+22882552|sacramento, california|24001053-Las Vegas, NV|15|2
+22882552|sacramento, california|14128528-Toronto, Miami, Airplanes|15|2
+22882552|sacramento, california|6708952-Washington DC|15|2
+22882552|sacramento, california|11489-San Francisco, CA |15|2
+22882552|sacramento, california|45725703-Berkeley, CA|15|2
+22882552|sacramento, california|0-Error|15|2
+22882552|sacramento, california|10202-Boston, MA|15|2
+22882552|sacramento, california|1046791-New York|15|2
+22882552|sacramento, california|0-Error|15|2
+22882552|sacramento, california|14429823-Long Beach|15|2
+22882552|sacramento, california|8071902-Minneapolis / Minnesota / MN|15|2
+22882552|sacramento, california|16048575-Alaska|15|2
+22882552|sacramento, california|81931297-Hermann Missouri|15|2
+38349184|sacramento, california|32156433-California|29|2
+38349184|sacramento, california|11883132-San Francisco|29|2
+38349184|sacramento, california|15391168-San Francisco|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|20453624-sacramento, california|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|24424732-California|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|34964065-Sacramento|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|12044602-Los Angeles, California|29|2
+38349184|sacramento, california|24311134-Richmond, CA|29|2
+38349184|sacramento, california|18922205-Error|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|15521972-San Diego, California|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|494391216-Error|29|2
+38349184|sacramento, california|23990989-Los Angeles|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|0-Error|29|2
+38349184|sacramento, california|0-Error|29|2
+46213760|sacramento, california|0-Error|7|2
+46213760|sacramento, california|16879416-Error|7|2
+46213760|sacramento, california|0-Error|7|2
+46213760|sacramento, california|0-Error|7|2
+46213760|sacramento, california|0-Error|7|2
+46213760|sacramento, california|20725764-AT THE TOP |7|2
+46213760|sacramento, california|116086058-Error|7|2
+68365919|sacramento, california|34192375-Jaccramento, CA|89|2
+68365919|sacramento, california|1068000326-Error|89|2
+68365919|sacramento, california|24213281-the friend zone |89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|45499296-The Web|89|2
+68365919|sacramento, california|165089221-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|44599180-Lexington, Ky|89|2
+68365919|sacramento, california|136084965-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|22023364-DenverKoloraDOPE|89|2
+68365919|sacramento, california|69098473-Error|89|2
+68365919|sacramento, california|21737267-California, USA|89|2
+68365919|sacramento, california|19382074-South Jersey|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|65146383-Where the Sidewalk Ends, 916!|89|2
+68365919|sacramento, california|217320408-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|31189428-sacramento, california|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|960734364-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|29844140-Anywhere i want, CA.|89|2
+68365919|sacramento, california|18395177-Error|89|2
+68365919|sacramento, california|2901164378-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|18755291-OAKLAND|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|84358766-Everywhere Love IS|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|20499828-Lost Angels via Chi-Town. |89|2
+68365919|sacramento, california|398317611-Orangevale|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|85156247-sacramento, california|89|2
+68365919|sacramento, california|30407940-Error|89|2
+68365919|sacramento, california|34727909-Sacra State of Mind|89|2
+68365919|sacramento, california|18220175-EVERYWHERE!!!|89|2
+68365919|sacramento, california|22007499-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|282756057-Error|89|2
+68365919|sacramento, california|11738562-Tallahassee, Florida|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|22181502-Northern California, USA|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|1908341071-Error|89|2
+68365919|sacramento, california|22237007-ESP HQ|89|2
+68365919|sacramento, california|29029523-on the road again|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|50826280-Everywhere|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|48305573-The Bay, CA|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|829954015-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|38857027-SACRAMENTO  CALIFORNIA|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|50822817-N/A|89|2
+68365919|sacramento, california|25034172-BAY AREA, CA|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|37868827-NIGGA, NEW YORK|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+68365919|sacramento, california|0-Error|89|2
+21442177|sacramento, california|0-Error|12|2
+21442177|sacramento, california|0-Error|12|2
+21442177|sacramento, california|0-Error|12|2
+21442177|sacramento, california|31165633-sacramento, california|12|2
+21442177|sacramento, california|136038671-Error|12|2
+21442177|sacramento, california|0-Error|12|2
+21442177|sacramento, california|82000082-Error|12|2
+21442177|sacramento, california|0-Error|12|2
+21442177|sacramento, california|5738222-Atlanta, GA|12|2
+21442177|sacramento, california|0-Error|12|2
+21442177|sacramento, california|36307606-sacramento, california|12|2
+21442177|sacramento, california|0-Error|12|2
+37608885|sacramento, california|0-Error|3|2
+37608885|sacramento, california|0-Error|3|2
+12007872|sacramento, california|972651-Error|19|2
+12007872|sacramento, california|176549696-Here. There. Everywhere.|19|2
+12007872|sacramento, california|14603011-Minneapolis, Minnesota|19|2
+12007872|sacramento, california|0-Error|19|2
+12007872|sacramento, california|14050988-California|19|2
+12007872|sacramento, california|11883132-San Francisco|19|2
+12007872|sacramento, california|68777723-Memphis, TN.  Area|19|2
+12007872|sacramento, california|1693421-san francisco|19|2
+12007872|sacramento, california|0-Error|19|2
+12007872|sacramento, california|10202-Boston, MA|19|2
+12007872|sacramento, california|16261627-San Francisco Bay Area|19|2
+12007872|sacramento, california|17488225-Minneapolis MN Minnesota|19|2
+12007872|sacramento, california|0-Error|19|2
+12007872|sacramento, california|0-Error|19|2
+12007872|sacramento, california|5768872-NYC|19|2
+12007872|sacramento, california|76007092-India|19|2
+12007872|sacramento, california|816653-San Francisco, CA|19|2
+12007872|sacramento, california|14506351-Roseville, Ca/Paso Robles, Ca|19|2
+12007872|sacramento, california|15152780-ME NH  Global|19|2
+25747306|sacramento, california|0-Error|8|2
+25747306|sacramento, california|0-Error|8|2
+25747306|sacramento, california|24776235-US|8|2
+25747306|sacramento, california|0-Error|8|2
+25747306|sacramento, california|0-Error|8|2
+25747306|sacramento, california|0-Error|8|2
+25747306|sacramento, california|65264189-Los Angeles, CA|8|2
+25747306|sacramento, california|0-Error|8|2
+29288466|sacramento, california|6540631-sacramento, california|14|2
+29288466|sacramento, california|50893464-sacramento, california|14|2
+29288466|sacramento, california|1621934078-Error|14|2
+29288466|sacramento, california|71280201-sacramento, california|14|2
+29288466|sacramento, california|16336998-New York City, Cincinnati|14|2
+29288466|sacramento, california|15498498-sacramento, california|14|2
+29288466|sacramento, california|435610572-San Diego|14|2
+29288466|sacramento, california|22556477-Lodi, CA|14|2
+29288466|sacramento, california|14956714-My 100ft Yacht-Bahia Calebra |14|2
+29288466|sacramento, california|55149132-sacramento, california|14|2
+29288466|sacramento, california|16002426-Worldwide from Nashville|14|2
+29288466|sacramento, california|667563-sacramento, california|14|2
+29288466|sacramento, california|25614782-sacramento, california|14|2
+52510101|sacramento, california|0-Error|23|2
+52510101|sacramento, california|184455826-Scotland|23|2
+52510101|sacramento, california|18784113-Error|23|2
+52510101|sacramento, california|17296072-sacramento, california, USA|23|2
+52510101|sacramento, california|2291735774-Error|23|2
+52510101|sacramento, california|0-Error|23|2
+52510101|sacramento, california|0-Error|23|2
+52510101|sacramento, california|21812172-Greater Sacramento|23|2
+52510101|sacramento, california|0-Error|23|2
+52510101|sacramento, california|39227875-Error|23|2
+52510101|sacramento, california|43843935-Phoenix|23|2
+52510101|sacramento, california|0-Error|23|2
+52510101|sacramento, california|19425770-Silicon Valley|23|2
+52510101|sacramento, california|25768863-Los Angeles, CA|23|2
+52510101|sacramento, california|0-Error|23|2
+52510101|sacramento, california|0-Error|23|2
+52510101|sacramento, california|56397580-Error|23|2
+52510101|sacramento, california|0-Error|23|2
+52510101|sacramento, california|0-Error|23|2
+52510101|sacramento, california|1240329986-Error|23|2
+52510101|sacramento, california|14725016-Los Angeles|23|2
+52510101|sacramento, california|8567882-NYC|23|2
+52510101|sacramento, california|15637125-northwest Florida|23|2
+17599115|sacramento, california|10206812-Nashville, TN|15|2
+17599115|sacramento, california|16912863-Grand Rapids, Michigan|15|2
+17599115|sacramento, california|18030041-Bellingham, WA|15|2
+17599115|sacramento, california|18455252-Davidson, North Carolina|15|2
+17599115|sacramento, california|2982521847-Error|15|2
+17599115|sacramento, california|57561561-New Lenox, IL|15|2
+17599115|sacramento, california|14075928-Error|15|2
+17599115|sacramento, california|15740970-Westmont, IL|15|2
+17599115|sacramento, california|3937661-19081 USA|15|2
+17599115|sacramento, california|33643226-Manhattan NYC|15|2
+17599115|sacramento, california|57697070-USA|15|2
+17599115|sacramento, california|15737058-Holland, Michigan|15|2
+17599115|sacramento, california|16656242-grand rapids, michigan|15|2
+17599115|sacramento, california|0-Error|15|2
+17599115|sacramento, california|14626162-Error|15|2
+72957895|sacramento, california|58581480-sacramento, california|29|2
+72957895|sacramento, california|11237632-Omaha, NE|29|2
+72957895|sacramento, california|14606079-New York, NY|29|2
+72957895|sacramento, california|0-Error|29|2
+72957895|sacramento, california|0-Error|29|2
+72957895|sacramento, california|30050899-Washington, D.C.|29|2
+72957895|sacramento, california|9676722-Oakland|29|2
+72957895|sacramento, california|36474003-Sacramento, Calif.|29|2
+72957895|sacramento, california|362646022-Error|29|2
+72957895|sacramento, california|22538064-Chicago|29|2
+72957895|sacramento, california|44744034-Error|29|2
+72957895|sacramento, california|18094696-Berkeley CA|29|2
+72957895|sacramento, california|0-Error|29|2
+72957895|sacramento, california|11347122-California|29|2
+72957895|sacramento, california|363571014-Error|29|2
+72957895|sacramento, california|19034656-Washington, D.C.|29|2
+72957895|sacramento, california|2771285805-Error|29|2
+72957895|sacramento, california|32614987-sacramento, california|29|2
+72957895|sacramento, california|61782928-California|29|2
+72957895|sacramento, california|0-Error|29|2
+72957895|sacramento, california|5743162-Washington, DC|29|2
+72957895|sacramento, california|12044602-Los Angeles, California|29|2
+72957895|sacramento, california|37857475-San Francisco, CA|29|2
+72957895|sacramento, california|50090907-Omaha, Nebraska|29|2
+72957895|sacramento, california|11489102-Silicon Valley, CA|29|2
+72957895|sacramento, california|0-Error|29|2
+72957895|sacramento, california|0-Error|29|2
+72957895|sacramento, california|52052011-Washington, DC|29|2
+72957895|sacramento, california|20879578-Iowa, USA|29|2
+8995172|sacramento, california|28447209-#EastWing, CA|14|2
+8995172|sacramento, california|18560680-Sacramento|14|2
+8995172|sacramento, california|16512883-Dallas, TX|14|2
+8995172|sacramento, california|33142966-sacramento, california|14|2
+8995172|sacramento, california|23832022-Worldwide |14|2
+8995172|sacramento, california|0-Error|14|2
+8995172|sacramento, california|2609103494-Error|14|2
+8995172|sacramento, california|28246004-Texas, USA|14|2
+8995172|sacramento, california|1621934078-Error|14|2
+8995172|sacramento, california|15423903-Old Orchard Beach, Maine|14|2
+8995172|sacramento, california|0-Error|14|2
+8995172|sacramento, california|20512929-Sep 30 - Oct 2 Las Vegas, NV|14|2
+8995172|sacramento, california|0-Error|14|2
+8995172|sacramento, california|6619612-Juneau, AK|14|2
+49226788|sacramento, california|21397275-From CA to AZ!|1|2
+18560680|sacramento, california|7703052-San Lorenzo, California|27|2
+18560680|sacramento, california|16014113-SF Bay Area|27|2
+18560680|sacramento, california|15774048-New York NY (Forest Hills) USA|27|2
+18560680|sacramento, california|14155879-sacramento, california|27|2
+18560680|sacramento, california|16230073-Truckee, CA -- Sierra Nevada M|27|2
+18560680|sacramento, california|64558342-Carson City, NV|27|2
+18560680|sacramento, california|16467958-sacramento, california|27|2
+18560680|sacramento, california|818954-Sactown, California|27|2
+18560680|sacramento, california|1621934078-Error|27|2
+18560680|sacramento, california|44024088-sacramento, california|27|2
+18560680|sacramento, california|17854884-sacramento, california|27|2
+18560680|sacramento, california|15250836-LA, SF, Tokyo|27|2
+18560680|sacramento, california|3004231-Error|27|2
+18560680|sacramento, california|25836321-All over the place!!|27|2
+18560680|sacramento, california|15928168-Seattle|27|2
+18560680|sacramento, california|9667812-California, United States|27|2
+18560680|sacramento, california|14117777-Bay Area|27|2
+18560680|sacramento, california|19675870-London, UK|27|2
+18560680|sacramento, california|1172701980-Error|27|2
+18560680|sacramento, california|16261627-San Francisco Bay Area|27|2
+18560680|sacramento, california|22708540-sacramento, california|27|2
+18560680|sacramento, california|20728833-Sacramento,Ca|27|2
+18560680|sacramento, california|17916257-sacramento, california|27|2
+18560680|sacramento, california|17974731-Seattle|27|2
+18560680|sacramento, california|17551272-Error|27|2
+18560680|sacramento, california|0-Error|27|2
+18560680|sacramento, california|37246158-sacramento, california|27|2
+76417035|sacramento, california|33452988-new york, ny|33|2
+76417035|sacramento, california|279949754-Error|33|2
+76417035|sacramento, california|11590172-San Francisco, CA |33|2
+76417035|sacramento, california|14904123-Baltimore, Maryland|33|2
+76417035|sacramento, california|972651-Error|33|2
+76417035|sacramento, california|205205258-Error|33|2
+76417035|sacramento, california|20575862-ye|33|2
+76417035|sacramento, california|62828713-UK|33|2
+76417035|sacramento, california|25635841-next to @jpeepz|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|376568444-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|29788449-594 Fox Hollow Rd|33|2
+76417035|sacramento, california|14390311-USA & Europe|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|15665710-Apache Junction, AZ|33|2
+76417035|sacramento, california|3696040583-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|14681605-Body? L.A. Mind? N.J.|33|2
+76417035|sacramento, california|21177665-Northern California|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+76417035|sacramento, california|0-Error|33|2
+14240952|sacramento, california|0-Error|10|2
+14240952|sacramento, california|0-Error|10|2
+14240952|sacramento, california|0-Error|10|2
+14240952|sacramento, california|0-Error|10|2
+14240952|sacramento, california|0-Error|10|2
+14240952|sacramento, california|0-Error|10|2
+14240952|sacramento, california|0-Error|10|2
+14240952|sacramento, california|0-Error|10|2
+14240952|sacramento, california|0-Error|10|2
+14240952|sacramento, california|0-Error|10|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|22503010-iPhone: 38.580986,-121.496193|43|2
+20008266|sacramento, california|116086058-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|16520701-Error|43|2
+20008266|sacramento, california|22538118-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|15327227-On your Timeline|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|65910880-Bay Area Ca.|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|26653118-l Sacramento l LV l SF l LA l|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|21784570-WORLDWIDE-Walkin In The Rain|43|2
+20008266|sacramento, california|313028219-the Bronx NY|43|2
+20008266|sacramento, california|23409568-Portland, OR|43|2
+20008266|sacramento, california|0-Error|43|2
+20008266|sacramento, california|0-Error|43|2
+68892714|sacramento, california|15907720-DC & NYC|8|2
+68892714|sacramento, california|0-Error|8|2
+68892714|sacramento, california|0-Error|8|2
+68892714|sacramento, california|1343056897-Error|8|2
+68892714|sacramento, california|0-Error|8|2
+68892714|sacramento, california|0-Error|8|2
+68892714|sacramento, california|68892714-Sacramento, Santa Barbara, Ca|8|2
+68892714|sacramento, california|0-Error|8|2
+37048847|sacramento, california|436538901-Nuremberg, Germany|4|2
+37048847|sacramento, california|526725774-Error|4|2
+37048847|sacramento, california|3647021-Austin, TX|4|2
+37048847|sacramento, california|20958510-USA|4|2
+16212749|sacramento, california|17342661-California|21|2
+16212749|sacramento, california|4510861-Jersey City|21|2
+16212749|sacramento, california|16212749-sacramento, california|21|2
+16212749|sacramento, california|0-Error|21|2
+16212749|sacramento, california|14087524-California, USA|21|2
+16212749|sacramento, california|34524697-Midtown Sacramento|21|2
+16212749|sacramento, california|8453452-Silicon Valley, California|21|2
+16212749|sacramento, california|13874612-Error|21|2
+16212749|sacramento, california|4246761-sacramento, california|21|2
+16212749|sacramento, california|28043295-sacramento, california|21|2
+16212749|sacramento, california|0-Error|21|2
+16212749|sacramento, california|33085416-sacramento, california, USA|21|2
+16212749|sacramento, california|30609876-sacramento, california|21|2
+16212749|sacramento, california|185310243-Sacramento|21|2
+16212749|sacramento, california|30673492-San Diego|21|2
+16212749|sacramento, california|0-Error|21|2
+16212749|sacramento, california|14261496-Portland Maine|21|2
+16212749|sacramento, california|667563-sacramento, california|21|2
+16212749|sacramento, california|16248357-California|21|2
+16212749|sacramento, california|537933471-Error|21|2
+86202302|sacramento, california|2557521-Bristol, CT|11|2
+86202302|sacramento, california|0-Error|11|2
+86202302|sacramento, california|0-Error|11|2
+86202302|sacramento, california|17846406-Error|11|2
+86202302|sacramento, california|29279397-USA|11|2
+86202302|sacramento, california|15764001-USA TODAY|11|2
+86202302|sacramento, california|30128249-Sacramento|11|2
+86202302|sacramento, california|16745575-earthwide|11|2
+86202302|sacramento, california|9622722-Folsom, California|11|2
+86202302|sacramento, california|19602038-Error|11|2
+86202302|sacramento, california|41962915-Error|11|2
+24206895|sacramento, california|15534499-Toronto, ON|20|2
+24206895|sacramento, california|18746392-West Vancouver, BC, Canada|20|2
+24206895|sacramento, california|2666220234-Bewdley, Worcestershire|20|2
+24206895|sacramento, california|21658412-Denver, CO|20|2
+24206895|sacramento, california|15785650-Kansas City, Missouri|20|2
+24206895|sacramento, california|37853223-Ottawa, Ontario|20|2
+24206895|sacramento, california|17266725-USA|20|2
+24206895|sacramento, california|46620509-New York - Rio de Janeiro|20|2
+24206895|sacramento, california|14261168-Harrisburg, PA|20|2
+24206895|sacramento, california|17074440-New York, NY|20|2
+24206895|sacramento, california|16152659-Nashville, TN|20|2
+24206895|sacramento, california|7376382-NYC|20|2
+24206895|sacramento, california|89483952-Bethesda, MD|20|2
+24206895|sacramento, california|10458672-Ottawa, Ontario|20|2
+24206895|sacramento, california|15070904-Green Bay, Wi|20|2
+24206895|sacramento, california|215239279-Error|20|2
+24206895|sacramento, california|0-Error|20|2
+24206895|sacramento, california|14256775-Midwest|20|2
+24206895|sacramento, california|15847523-Kaua'i, Hawaii|20|2
+24206895|sacramento, california|15076390-California|20|2
+23814148|sacramento, california|0-Error|1|2
+49111161|sacramento, california|48214834-LIQNSNYC|16|2
+49111161|sacramento, california|18473588-CA|16|2
+49111161|sacramento, california|2337330030-Error|16|2
+49111161|sacramento, california|0-Error|16|2
+49111161|sacramento, california|44888488-Maryland|16|2
+49111161|sacramento, california|15885925-Portland, Oregon|16|2
+49111161|sacramento, california|2670519372-Error|16|2
+49111161|sacramento, california|929767496-Error|16|2
+49111161|sacramento, california|15661206-Error|16|2
+49111161|sacramento, california|0-Error|16|2
+49111161|sacramento, california|28612024-Error|16|2
+49111161|sacramento, california|40557153-CA|16|2
+49111161|sacramento, california|44487500-On the bench |16|2
+49111161|sacramento, california|402828162-Mumbai,India|16|2
+49111161|sacramento, california|25943968-Error|16|2
+17916257|sacramento, california|14728168-Houston, Texas|35|2
+17916257|sacramento, california|15762819-Washington, DC|35|2
+17916257|sacramento, california|2245600149-Error|35|2
+17916257|sacramento, california|0-Error|35|2
+17916257|sacramento, california|21313053-Charlottesville, VA|35|2
+17916257|sacramento, california|418964629-Error|35|2
+17916257|sacramento, california|15976697-USA|35|2
+17916257|sacramento, california|16386704-United States|35|2
+17916257|sacramento, california|19416225-Washington, DC|35|2
+17916257|sacramento, california|16212749-sacramento, california|35|2
+17916257|sacramento, california|640893-Atlanta, GA|35|2
+17916257|sacramento, california|834311078-Error|35|2
+17916257|sacramento, california|11246242-Washington, DC/NoVA|35|2
+17916257|sacramento, california|23449593-Los Angeles, CA|35|2
+17916257|sacramento, california|28150008-Washington, DC|35|2
+17916257|sacramento, california|0-Error|35|2
+17916257|sacramento, california|13218102-Austin, Texas|35|2
+17916257|sacramento, california|18144612-San Diego, California|35|2
+17916257|sacramento, california|14352112-Chicago, IL|35|2
+17916257|sacramento, california|17800215-Utah/Washington D.C.|35|2
+17916257|sacramento, california|9133652-Washington DC |35|2
+17916257|sacramento, california|3497941-Takoma Park, MD|35|2
+17916257|sacramento, california|21263769-sacramento, california|35|2
+17916257|sacramento, california|459424757-Error|35|2
+17916257|sacramento, california|809760-Nebraska and NYC|35|2
+17916257|sacramento, california|0-Error|35|2
+17916257|sacramento, california|21829480-Error|35|2
+17916257|sacramento, california|15335534-Authenticity Woods, Virginia.|35|2
+17916257|sacramento, california|526725774-Error|35|2
+17916257|sacramento, california|14233497-Sacramento (CA, United States)|35|2
+17916257|sacramento, california|18791763-Washington, D.C.|35|2
+17916257|sacramento, california|1194840374-Error|35|2
+17916257|sacramento, california|0-Error|35|2
+17916257|sacramento, california|16787084-Minneapolis|35|2
+17916257|sacramento, california|18168799-Cambridge, Mass.|35|2
+17916353|sacramento, california|17850012-Southern California|4|2
+17916353|sacramento, california|0-Error|4|2
+17916353|sacramento, california|15976697-USA|4|2
+17916353|sacramento, california|0-Error|4|2
+19882484|sacramento, california|21935569-Hopland, CA|8|2
+19882484|sacramento, california|14531957-South Florida|8|2
+19882484|sacramento, california|27711852-Error|8|2
+19882484|sacramento, california|47592582-Error|8|2
+19882484|sacramento, california|38572521-Error|8|2
+19882484|sacramento, california|114714855-Shoreditch, London|8|2
+19882484|sacramento, california|0-Error|8|2
+19882484|sacramento, california|0-Error|8|2
+39205863|sacramento, california|39205863-sacramento, california|72|2
+39205863|sacramento, california|2191022851-Error|72|2
+39205863|sacramento, california|20835508-SNAKE GANG DFMO|72|2
+39205863|sacramento, california|36411270-Nigeria to Houston|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|24408067-Error|72|2
+39205863|sacramento, california|44208725-Error|72|2
+39205863|sacramento, california|30929570-SF, TOKYO, BARCELONA|72|2
+39205863|sacramento, california|14414452-The City By The Bay|72|2
+39205863|sacramento, california|16737955-Porto Aelgre|72|2
+39205863|sacramento, california|138027345-The Old Coach House, Harston|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|17183594-The Sideshow|72|2
+39205863|sacramento, california|85748932-Folsom Wine Bar |72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|17709499-USA Seattle B4 Spokane WA|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|29567312-Murrieta, CA|72|2
+39205863|sacramento, california|48452573-The Moon |72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|16676450-iPhone: 37.756947,-122.420471|72|2
+39205863|sacramento, california|2511721322-Error|72|2
+39205863|sacramento, california|29302668-Seattle|72|2
+39205863|sacramento, california|27512460-On top of a rainbow sipping |72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|39629994-Sacramento|72|2
+39205863|sacramento, california|64103061-Seattle, WA|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|40245002-Northern Cali|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+39205863|sacramento, california|0-Error|72|2
+14378959|sacramento, california|0-Error|26|2
+14378959|sacramento, california|0-Error|26|2
+14378959|sacramento, california|0-Error|26|2
+14378959|sacramento, california|0-Error|26|2
+14378959|sacramento, california|40348386-sacramento, california|26|2
+14378959|sacramento, california|1413025554-Error|26|2
+14378959|sacramento, california|0-Error|26|2
+14378959|sacramento, california|2750272428-Error|26|2
+14378959|sacramento, california|16788305-NYC and LA|26|2
+14378959|sacramento, california|23092822-Sacramento|26|2
+14378959|sacramento, california|2909577797-Error|26|2
+14378959|sacramento, california|0-Error|26|2
+14378959|sacramento, california|14630443-Error|26|2
+14378959|sacramento, california|19362341-Los Angeles, CA|26|2
+14378959|sacramento, california|37050475-sacramento, california|26|2
+14378959|sacramento, california|0-Error|26|2
+14378959|sacramento, california|21445694-Hawaii|26|2
+14378959|sacramento, california|12089552-Austin, TX (Liberty Hill)|26|2
+14378959|sacramento, california|21689161-Menlo Park, CA|26|2
+14378959|sacramento, california|2996868335-Error|26|2
+14378959|sacramento, california|0-Error|26|2
+14378959|sacramento, california|1621934078-Error|26|2
+14378959|sacramento, california|0-Error|26|2
+14378959|sacramento, california|1931807173-Riverside, CA|26|2
+14378959|sacramento, california|0-Error|26|2
+24996141|sacramento, california|417198737-Error|1|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|15165555-Makati City, Philippines|42|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|16383523-Kennesaw GA |42|2
+31681545|sacramento, california|7494312-San Francisco|42|2
+31681545|sacramento, california|43016347-Tampa. Charlotte. Jacksonville|42|2
+31681545|sacramento, california|41536509-Japan|42|2
+31681545|sacramento, california|19535424-Norwich,UK|42|2
+31681545|sacramento, california|38723950-Miami, FL|42|2
+31681545|sacramento, california|455059002-Error|42|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|26410675-Sapporo, Japan!|42|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|42300372-CANADA & US |42|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|47942777-Roselle, NJ|42|2
+31681545|sacramento, california|227501273-Error|42|2
+31681545|sacramento, california|29634147-Pangbourne, Berkshire, UK|42|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|15685952-Loveland, CO|42|2
+31681545|sacramento, california|17414335-Colorado|42|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|45955305-New York|42|2
+31681545|sacramento, california|2160368744-Error|42|2
+31681545|sacramento, california|22882673-Arizona, USA|42|2
+31681545|sacramento, california|18234407-WA, USA|42|2
+31681545|sacramento, california|8647322-iPhone: 48.885880,2.259247|42|2
+31681545|sacramento, california|33065216-Costa Mesa , California|42|2
+31681545|sacramento, california|246531489-Error|42|2
+31681545|sacramento, california|30479742-Albuquerque, NM|42|2
+31681545|sacramento, california|18431625-from Maui to Nor-Cal|42|2
+31681545|sacramento, california|49005079-Korea. Dae-gu|42|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|229163373-Error|42|2
+31681545|sacramento, california|808313-Iwate, Japan|42|2
+31681545|sacramento, california|878332170-mexicali baja califas|42|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|0-Error|42|2
+31681545|sacramento, california|264736566-Error|42|2
+31681545|sacramento, california|0-Error|42|2
+19491987|sacramento, california|14813088-Los Angeles|28|2
+19491987|sacramento, california|6972182-Error|28|2
+19491987|sacramento, california|15169196-Venice, CA|28|2
+19491987|sacramento, california|19143584-New York City|28|2
+19491987|sacramento, california|6351572-Venice, California|28|2
+19491987|sacramento, california|12319862-Error|28|2
+19491987|sacramento, california|14722311-Right Now|28|2
+19491987|sacramento, california|20735735-BAY AREA /L.A. /TOKYO/N.Y.|28|2
+19491987|sacramento, california|14966163-askpetercoffin at gmail|28|2
+19491987|sacramento, california|18545675-SnapChat: DeStormPower|28|2
+19491987|sacramento, california|15812221-Error|28|2
+19491987|sacramento, california|283796045-belladonna land|28|2
+19491987|sacramento, california|153991966-Beijing, China|28|2
+19491987|sacramento, california|8848642-Los Angeles & the World|28|2
+19491987|sacramento, california|1875001-Fayetteville, Arkansas|28|2
+19491987|sacramento, california|0-Error|28|2
+19491987|sacramento, california|15616442-Los Angeles|28|2
+19491987|sacramento, california|15091877-London, UK|28|2
+19491987|sacramento, california|15079003-Outer Space|28|2
+19491987|sacramento, california|4250951-Los Angeles, CA|28|2
+19491987|sacramento, california|2781149535-Error|28|2
+19491987|sacramento, california|39159055-California |28|2
+19491987|sacramento, california|15622088-Cape Cod, MA|28|2
+19491987|sacramento, california|19183874-Error|28|2
+19491987|sacramento, california|0-Error|28|2
+19491987|sacramento, california|43815496-Las Vegas, NV|28|2
+19491987|sacramento, california|165267461-Error|28|2
+19491987|sacramento, california|14985524-Salt Lake City |28|2
+41905308|sacramento, california|43638824-sacramento, california|15|2
+41905308|sacramento, california|38349184-sacramento, california|15|2
+41905308|sacramento, california|7152572-Washington, DC|15|2
+41905308|sacramento, california|50490946-California|15|2
+41905308|sacramento, california|18955776-Chicago|15|2
+41905308|sacramento, california|0-Error|15|2
+41905308|sacramento, california|0-Error|15|2
+41905308|sacramento, california|18743016-Oakland, CA|15|2
+41905308|sacramento, california|17632346-Columbia, SC, USA|15|2
+41905308|sacramento, california|59185837-sacramento, california|15|2
+41905308|sacramento, california|26289109-St. Paul, Minnesota 55155|15|2
+41905308|sacramento, california|72633501-Hartford, CT|15|2
+41905308|sacramento, california|12044602-Los Angeles, California|15|2
+41905308|sacramento, california|14074515-Washington, DC|15|2
+37318064|sacramento, california|85662385-At the beach in So. Cal.|2|2
+38497880|sacramento, california|23126390-Northern California|3|2
+38497880|sacramento, california|1259023058-Error|3|2
+16084781|sacramento, california|756278-Seattle, WA|9|2
+16084781|sacramento, california|133959925-Error|9|2
+16084781|sacramento, california|109617027-Error|9|2
+16084781|sacramento, california|3454244234-Error|9|2
+16084781|sacramento, california|7415992-Plattsburgh, NY|9|2
+16084781|sacramento, california|9232542-Vancouver, British Columbia|9|2
+16084781|sacramento, california|15989069-Error|9|2
+16084781|sacramento, california|14098154-Austin, TX|9|2
+16084781|sacramento, california|16378845-Error|9|2
+20148396|sacramento, california|14500969-Utah|26|2
+20148396|sacramento, california|16594778-Houston, Texas|26|2
+20148396|sacramento, california|15600217-sacramento, california|26|2
+20148396|sacramento, california|0-Error|26|2
+20148396|sacramento, california|1205807533-Error|26|2
+20148396|sacramento, california|8453452-Silicon Valley, California|26|2
+20148396|sacramento, california|0-Error|26|2
+20148396|sacramento, california|12354252-Silicon Valley Paris|26|2
+20148396|sacramento, california|14116517-Gilbert, Arizona|26|2
+20148396|sacramento, california|14324893-Santa Monica, California|26|2
+20148396|sacramento, california|6424562-Scottsdale, AZ|26|2
+20148396|sacramento, california|4607-Washington, D.C. |26|2
+20148396|sacramento, california|754556-Boston, MA|26|2
+20148396|sacramento, california|817386-San Francisco|26|2
+20148396|sacramento, california|0-Error|26|2
+20148396|sacramento, california|15935927-Seattle, WA|26|2
+20148396|sacramento, california|5751742-New York City|26|2
+20148396|sacramento, california|1831719152-Error|26|2
+20148396|sacramento, california|9345162-California|26|2
+20148396|sacramento, california|2330802763-Error|26|2
+20148396|sacramento, california|14691367-Allegan, MI|26|2
+20148396|sacramento, california|16017251-Silicon Valley|26|2
+20148396|sacramento, california|12614742-Palo Alto, Califo
