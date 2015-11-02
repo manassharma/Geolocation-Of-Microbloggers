@@ -1,0 +1,51 @@
+<html>
+<title>
+    Precision Visualizer
+</title>
+<head>
+    <h1 style = "font-size:40px; color:blue;" align = "center">
+        This application visualizes the actual and computed places on a map!
+    </h1>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js??key=AIzaSyANG6qttafgMkIAnlhPgDkv3btfHLFfBHk&v=3.exp&signed_in=true&libraries=places"></script>
+
+</head>
+
+
+</br>
+</br>
+</br>
+<body style = "background-color:black">
+<label id = "label1" style = "color:blue" align = "left"">Actual Location:</label>
+<input style = "margin:50px" type = "text" id = "inputBox1" align = "middle"/>
+<label id = "label2" style = "color:blue" align = "center">Computed Location:</label>
+<input style = "marging:50px" type = "text" id = "inputBox2" align = "right"/>
+<input type = "submit" id = "button1" value="Get Distance!" onclick = "getDistance()">
+</br>
+</br>
+</br>
+<script type = "text/javascript">
+    function getDistance() {
+        var actualLocation = document.getElementById("inputBox1").value;
+        var myLocation = document.getElementById("inputBox2").value;
+        var service = new google.maps.DistanceMatrixService;
+            service.getDistanceMatrix({
+                origins: [actualLocation],
+                destinations: [myLocation],
+                travelMode: google.maps.TravelMode.DRIVING,
+                unitSystem: google.maps.UnitSystem.METRIC,
+                avoidHighways: false,
+                avoidTolls: false
+            }, function(response, status) {
+                if (status !== google.maps.DistanceMatrixStatus.OK) {
+                    alert('Error was: ' + status);
+                } else {
+                    var destinationList = response.rows[0].elements[0].distance.text;
+					var timeForTravel = response.rows[0].elements[0].duration.text;
+                    alert("Total Distance between points = "+destinationList+ " time needed by car for travel "+timeForTravel)
+                }
+            });
+    }
+</script>
+</body>
+</html>
