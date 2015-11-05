@@ -1,0 +1,1964 @@
+21890993|des moines, iowa|28646312|Chicago/ Des Moines |2|2
+21890993|des moines, iowa|244797828|Royalty, Texas|1|2
+21890993|des moines, iowa|0|Error|1|2
+21890993|des moines, iowa|17045150|Iowa|1|2
+21890993|des moines, iowa|0|Error|1|2
+21890993|des moines, iowa|15356954|Dallas, TX |1|2
+21890993|des moines, iowa|17823162|Falls Church, VA|1|2
+21890993|des moines, iowa|37686631|Minnesota|1|2
+21890993|des moines, iowa|21842374|Minneapolis, MN|1|2
+21890993|des moines, iowa|0|Error|1|2
+21890993|des moines, iowa|15897353|Des Moines, IA.|1|2
+21890993|des moines, iowa|13220962|New York, NY|1|2
+21890993|des moines, iowa|23396761|L.A.|1|2
+21890993|des moines, iowa|0|Error|1|2
+21890993|des moines, iowa|0|Error|1|2
+21890993|des moines, iowa|0|Error|1|2
+21629928|des moines, iowa|18753868|Ithaca|13|2
+21629928|des moines, iowa|19028980|NJ|7|2
+21629928|des moines, iowa|76568618|My location is classified. |7|2
+21629928|des moines, iowa|17428052|Error|4|2
+21629928|des moines, iowa|82210998|Waverly, IA|2|2
+21629928|des moines, iowa|20436716|Minneapolis, MN|2|2
+21629928|des moines, iowa|21527882|The world is my playground|2|2
+21629928|des moines, iowa|92176182|Error|2|2
+21629928|des moines, iowa|127416685|Error|2|2
+21629928|des moines, iowa|1718816310|Duque de Caxias|2|2
+21629928|des moines, iowa|18312262|Squad County|2|2
+21629928|des moines, iowa|21719702|Milwaukee, WI|1|2
+21629928|des moines, iowa|0|Error|1|2
+21629928|des moines, iowa|29475895|Ft Lauderdale, FL|1|2
+21629928|des moines, iowa|0|Error|1|2
+21629928|des moines, iowa|0|Error|1|2
+21629928|des moines, iowa|18230620|NYC|1|2
+21629928|des moines, iowa|0|Error|1|2
+21629928|des moines, iowa|21738549|iPhone: 40.739147,-74.038132|1|2
+21629928|des moines, iowa|0|Error|1|2
+21629928|des moines, iowa|23759019|Far from Ocean :( |1|2
+21629928|des moines, iowa|16490974|KarenCivil.com | LiveCivil.com|1|2
+21629928|des moines, iowa|0|Error|1|2
+21629928|des moines, iowa|125707876|Error|1|2
+21629928|des moines, iowa|29135810|MSP|1|2
+21629928|des moines, iowa|0|Error|1|2
+21629928|des moines, iowa|21529727|MI/CO/CA/IA/MN|1|2
+21629928|des moines, iowa|373722136|Error|1|2
+21629928|des moines, iowa|21529496|Cedar Rapids, IA|1|2
+21629928|des moines, iowa|25948063|JACKSONVILLE, FL|1|2
+21629928|des moines, iowa|25696596|Error|1|2
+21629928|des moines, iowa|28914372|Around The World And Back|1|2
+21629928|des moines, iowa|18238282|Santa Barbara, California|1|2
+21629928|des moines, iowa|0|Error|1|2
+21629928|des moines, iowa|21733911|St Paul, MN|1|2
+21629928|des moines, iowa|2736350664|Error|1|2
+21629928|des moines, iowa|21704381|Waverly, IA|1|2
+21629928|des moines, iowa|0|Error|1|2
+43943106|mount pleasant, iowa|11883132|San Francisco|2|2
+43943106|mount pleasant, iowa|2499038840|Error|1|2
+18880366|west des moines, iowa|18880366|West Des Moines, Iowa|5|2
+18880366|west des moines, iowa|31204113|Mooresville, NC|3|2
+18880366|west des moines, iowa|0|Error|1|2
+18880366|west des moines, iowa|18814198|Error|1|2
+18880366|west des moines, iowa|0|Error|1|2
+18880366|west des moines, iowa|16916895|Iowa|1|2
+18880366|west des moines, iowa|29733432|Omaha, NE|1|2
+18880366|west des moines, iowa|66376359|tulsa, oklahoma|1|2
+18880366|west des moines, iowa|0|Error|1|2
+18880366|west des moines, iowa|32949746|Mount Pleasant, Iowa|1|2
+18880366|west des moines, iowa|20624061|Springfield, Mo.|1|2
+18880366|west des moines, iowa|25134282|Under a tinfoil hat|1|2
+21502760|iowa city, iowa|0|Error|3|2
+21502760|iowa city, iowa|18056298|Cedar Rapids, IA, USA|2|2
+21502760|iowa city, iowa|18055134|Cedar Rapids, Iowa|2|2
+21502760|iowa city, iowa|314703798|Montreal|1|2
+21502760|iowa city, iowa|18189966|Cedar Rapids, IA|1|2
+21502760|iowa city, iowa|14925486|North Liberty, IA|1|2
+21502760|iowa city, iowa|0|Error|1|2
+21502760|iowa city, iowa|26496203|Error|1|2
+21502760|iowa city, iowa|15961955|Cedar Rapids, Iowa|1|2
+21502760|iowa city, iowa|16653734|West Des Moines, IA|1|2
+16915314|sioux city, iowa|637134907|Error|9|2
+16915314|sioux city, iowa|48190894|Southern Illinois |7|2
+16915314|sioux city, iowa|0|Error|4|2
+16915314|sioux city, iowa|70419617|Boca Raton- FL - /USA|3|2
+16915314|sioux city, iowa|84855187|Rio de janeiro - Brasil|2|2
+16915314|sioux city, iowa|121654524|Error|2|2
+16915314|sioux city, iowa|2513296800|Error|2|2
+16915314|sioux city, iowa|92150033|Santiago, Chile|2|2
+16915314|sioux city, iowa|14988344|MO, USA|2|2
+16915314|sioux city, iowa|79035469|Rio de janeiro - Brasil|2|2
+16915314|sioux city, iowa|85598309|Error|1|2
+16915314|sioux city, iowa|26754957|IL|1|2
+16915314|sioux city, iowa|18918274|Ellicott City, MD|1|2
+16915314|sioux city, iowa|15120037|Atlanta, GA|1|2
+16915314|sioux city, iowa|21227667|SF Bay Area|1|2
+16915314|sioux city, iowa|24701321|Beresford, SD|1|2
+16915314|sioux city, iowa|71689819|Internet|1|2
+16915314|sioux city, iowa|16339936|Rhode Island, USA|1|2
+16915314|sioux city, iowa|22171685|Canada|1|2
+16915314|sioux city, iowa|16426698|Parker, CO USA|1|2
+16915314|sioux city, iowa|21990874|New Orleans, LA|1|2
+16915314|sioux city, iowa|14458875|beautiful Gold Coast Australia|1|2
+16915314|sioux city, iowa|27688800| Phoenix, Arizona|1|2
+16915314|sioux city, iowa|17488225|Minneapolis MN Minnesota|1|2
+16915314|sioux city, iowa|15276401|North Carolina|1|2
+16915314|sioux city, iowa|105538590|Error|1|2
+16915314|sioux city, iowa|21122935|Coventry Uk|1|2
+16915314|sioux city, iowa|48653634|San Diego, CA|1|2
+16915314|sioux city, iowa|36421300|Nebraska|1|2
+16915314|sioux city, iowa|45656977|1100+ stores in US Nationwide|1|2
+16915314|sioux city, iowa|0|Error|1|2
+16915314|sioux city, iowa|14550649|Error|1|2
+16915314|sioux city, iowa|23172966|Las Vegas, NV|1|2
+16915314|sioux city, iowa|0|Error|1|2
+40756164|sioux city, iowa|43390873|Dallas, Tx|4|2
+40756164|sioux city, iowa|16980939|Davao City, Philippines|3|2
+40756164|sioux city, iowa|2814785729|Error|2|2
+40756164|sioux city, iowa|23377138|New Jersey|1|2
+40756164|sioux city, iowa|269981679|Rio de Jnaneiro|1|2
+40756164|sioux city, iowa|14939981|Philly & Fi-Di NYC & 31Rock|1|2
+40756164|sioux city, iowa|0|Error|1|2
+40756164|sioux city, iowa|2915504410|anambra|1|2
+25174961|des moines, iowa|0|Error|6|2
+25174961|des moines, iowa|1364630323|Orlando, FL|3|2
+25174961|des moines, iowa|0|Error|2|2
+25174961|des moines, iowa|25637319|Phoenix, Az|2|2
+25174961|des moines, iowa|28830707|My suitcase|2|2
+25174961|des moines, iowa|17413960|Barrie, Ontario, Canada|2|2
+25174961|des moines, iowa|16197457|St. Lucia |1|2
+25174961|des moines, iowa|2546832014|Error|1|2
+25174961|des moines, iowa|0|Error|1|2
+25174961|des moines, iowa|0|Error|1|2
+25174961|des moines, iowa|21211181|My Flat. Londinium. England.|1|2
+25174961|des moines, iowa|22294877|Los Angeles, CA|1|2
+25174961|des moines, iowa|22548403|Error|1|2
+25174961|des moines, iowa|33317922|Los Angeles, Ca|1|2
+25174961|des moines, iowa|0|Error|1|2
+25174961|des moines, iowa|20482393|Worldwide|1|2
+14692379|ankeny, iowa|6124172|Seattle, WA|2|2
+14692379|ankeny, iowa|0|Error|1|2
+14692379|ankeny, iowa|16485205|Lansing, MI|1|2
+14692379|ankeny, iowa|40047511|Error|1|2
+14692379|ankeny, iowa|6313612|Ankeny, Iowa|1|2
+16530358|marshalltown, iowa|3829151|Petaluma, CA USA|1|2
+16364775|council bluffs, iowa|27549414|Error|2|2
+16364775|council bluffs, iowa|74383709|Des Moines, Iowa|1|2
+16364775|council bluffs, iowa|56828667|NJ|1|2
+16364775|council bluffs, iowa|14867598|All gigs listed at|1|2
+16364775|council bluffs, iowa|41968898|Error|1|2
+16364775|council bluffs, iowa|14966228|United States|1|2
+16364775|council bluffs, iowa|26595291|Washington, DC|1|2
+22678257|urbandale, iowa|972651|Error|3|2
+22678257|urbandale, iowa|21849140|San Francisco, CA|1|2
+22678257|urbandale, iowa|540233339|Error|1|2
+19511275|fairfield, iowa|16377828|San Francisco|8|2
+19511275|fairfield, iowa|17859282|Staring at a Screen Somewhere|4|2
+19511275|fairfield, iowa|30445501|Error|4|2
+19511275|fairfield, iowa|24600565|Iowa|2|2
+19511275|fairfield, iowa|7861312|Los Angeles, CA|1|2
+19511275|fairfield, iowa|21372479|I am a global citizen|1|2
+19511275|fairfield, iowa|0|Error|1|2
+19511275|fairfield, iowa|0|Error|1|2
+19511275|fairfield, iowa|41263580|Palo Alto, CA|1|2
+19511275|fairfield, iowa|17382140|USA & ITALY|1|2
+19511275|fairfield, iowa|25569400|USA|1|2
+19511275|fairfield, iowa|0|Error|1|2
+19511275|fairfield, iowa|0|Error|1|2
+19511275|fairfield, iowa|18460854|Kansas City, MO|1|2
+19511275|fairfield, iowa|0|Error|1|2
+19511275|fairfield, iowa|0|Error|1|2
+19511275|fairfield, iowa|0|Error|1|2
+19511275|fairfield, iowa|23492901|Error|1|2
+6968762|des moines, iowa|14377870|Atlanta, GA|3|2
+6968762|des moines, iowa|18403623|Iowa|2|2
+6968762|des moines, iowa|14519177|North America|2|2
+6968762|des moines, iowa|3382|Northern California|2|2
+6968762|des moines, iowa|8071532|San Francisco|2|2
+6968762|des moines, iowa|6177|Milwaukee, WI, USA|1|2
+6968762|des moines, iowa|16841572|Central Florida|1|2
+6968762|des moines, iowa|0|Error|1|2
+6968762|des moines, iowa|14648864|Tempe, AZ|1|2
+6968762|des moines, iowa|14529569|Iowa|1|2
+21583433|des moines, iowa|0|Error|4|2
+21583433|des moines, iowa|0|Error|3|2
+21583433|des moines, iowa|0|Error|1|2
+21583433|des moines, iowa|0|Error|1|2
+21583433|des moines, iowa|0|Error|1|2
+21583433|des moines, iowa|0|Error|1|2
+21583433|des moines, iowa|14761339|Richmond, CA|1|2
+21583433|des moines, iowa|3054482772|Error|1|2
+21583433|des moines, iowa|0|Error|1|2
+21583433|des moines, iowa|13657922|Des Moines, Iowa, USA|1|2
+21583433|des moines, iowa|0|Error|1|2
+21583433|des moines, iowa|12439182|Des Moines, IA|1|2
+21583433|des moines, iowa|20078810|Reno, NV|1|2
+21583433|des moines, iowa|22039411|Des Moines, Iowa, USA|1|2
+21583433|des moines, iowa|875941|West Des Moines, Iowa|1|2
+22963399|west des moines, iowa|22963399|West Des Moines, Iowa|3|2
+22963399|west des moines, iowa|3267891|Des Moines, Iowa|1|2
+22963399|west des moines, iowa|11864862|Des Moines|1|2
+22963399|west des moines, iowa|16566202|Minneapolis, MN|1|2
+22963399|west des moines, iowa|0|Error|1|2
+22963399|west des moines, iowa|65643730|USA|1|2
+22963399|west des moines, iowa|17974739|NE, IA, KS, MO|1|2
+22963399|west des moines, iowa|14603011|Minneapolis, Minnesota|1|2
+22963399|west des moines, iowa|783705|San Carlos, CA|1|2
+22963399|west des moines, iowa|92318372|USA|1|2
+22963399|west des moines, iowa|8878752|Des Moines, IA|1|2
+22963399|west des moines, iowa|701105534|jacksonville|1|2
+16933779|johnston, iowa|0|Error|4|2
+16933779|johnston, iowa|0|Error|2|2
+16933779|johnston, iowa|81|Mill Valley, California|2|2
+16933779|johnston, iowa|0|Error|2|2
+16933779|johnston, iowa|39844001|Fun Town, USA|2|2
+16933779|johnston, iowa|329524449|Tejas|1|2
+16933779|johnston, iowa|0|Error|1|2
+16933779|johnston, iowa|0|Error|1|2
+16933779|johnston, iowa|0|Error|1|2
+16933779|johnston, iowa|718610292|Error|1|2
+16933779|johnston, iowa|41182107|Aspen/Snowmass|1|2
+16933779|johnston, iowa|29842036|San Clemente, CA|1|2
+16933779|johnston, iowa|0|Error|1|2
+16933779|johnston, iowa|0|Error|1|2
+16933779|johnston, iowa|14661972|Des Moines, Iowa |1|2
+16933779|johnston, iowa|27430245|Colorado|1|2
+19293096|cedar rapids, iowa|20187715|Cedar Rapids, Iowa|2|2
+19293096|cedar rapids, iowa|24893597|Cedar Rapids, Iowa 52404|1|2
+19293096|cedar rapids, iowa|0|Error|1|2
+19293096|cedar rapids, iowa|0|Error|1|2
+19293096|cedar rapids, iowa|19298904|Error|1|2
+24408737|des moines, iowa|0|Error|4|2
+24408737|des moines, iowa|0|Error|3|2
+24408737|des moines, iowa|0|Error|2|2
+24408737|des moines, iowa|176069638|Kansas, Fort Riley|1|2
+24408737|des moines, iowa|17303397|Error|1|2
+24408737|des moines, iowa|156433540|Error|1|2
+24408737|des moines, iowa|24644901|Iowa|1|2
+24408737|des moines, iowa|430938295|Error|1|2
+24408737|des moines, iowa|0|Error|1|2
+24408737|des moines, iowa|0|Error|1|2
+24408737|des moines, iowa|0|Error|1|2
+24408737|des moines, iowa|184102394|Error|1|2
+24408737|des moines, iowa|1013887411|Error|1|2
+24408737|des moines, iowa|0|Error|1|2
+24408737|des moines, iowa|760073232|Error|1|2
+24408737|des moines, iowa|0|Error|1|2
+24408737|des moines, iowa|0|Error|1|2
+24408737|des moines, iowa|0|Error|1|2
+24408737|des moines, iowa|368362340|Error|1|2
+14448710|cedar rapids, iowa|15786077|Austin, TX|5|2
+14448710|cedar rapids, iowa|1434051|Seattle, WA|5|2
+14448710|cedar rapids, iowa|15930954|Error|5|2
+14448710|cedar rapids, iowa|9645312|Topeka, KS|4|2
+14448710|cedar rapids, iowa|14184054|Austin, Texas|3|2
+14448710|cedar rapids, iowa|6532552|Raleigh, NC, USA|3|2
+14448710|cedar rapids, iowa|15524875|NJ -- NYC -- BK|2|2
+14448710|cedar rapids, iowa|0|Error|1|2
+14448710|cedar rapids, iowa|697163|Seattle, WA|1|2
+14448710|cedar rapids, iowa|0|Error|1|2
+14448710|cedar rapids, iowa|14444011|Perth, WA|1|2
+14448710|cedar rapids, iowa|1327871|Cascadia|1|2
+14448710|cedar rapids, iowa|38116695|Des Moines, IA|1|2
+14448710|cedar rapids, iowa|768197|Bellevue|1|2
+14448710|cedar rapids, iowa|52833|Marion, Iowa|1|2
+14448710|cedar rapids, iowa|0|Error|1|2
+14448710|cedar rapids, iowa|20091112|Sheffield|1|2
+14448710|cedar rapids, iowa|9238852|Austin, TX|1|2
+14448710|cedar rapids, iowa|0|Error|1|2
+14448710|cedar rapids, iowa|14642301|Edwardsville, IL|1|2
+18415018|des moines, iowa|132898198|Error|2|2
+18415018|des moines, iowa|58206770|Ankeny, IA|2|2
+18415018|des moines, iowa|0|Error|1|2
+18415018|des moines, iowa|0|Error|1|2
+17859081|waukee, iowa|230206088|Stockport, Manchester.|1|2
+17859081|waukee, iowa|0|Error|1|2
+17811745|urbandale, iowa|19178347|Cincinnati, Ohio|1|2
+17339745|cedar falls, iowa|8771022|Canton, Mass.|5|2
+17339745|cedar falls, iowa|25866969|Iowa|3|2
+17339745|cedar falls, iowa|30223906|Cedar Falls, Iowa|2|2
+17339745|cedar falls, iowa|17104903|Tucson, AZ|2|2
+17339745|cedar falls, iowa|0|Error|2|2
+17339745|cedar falls, iowa|26677075|Windsor Heights, IA|2|2
+17339745|cedar falls, iowa|14218155|Iowa|2|2
+17339745|cedar falls, iowa|18689390|Tulsa, OK|1|2
+17339745|cedar falls, iowa|462520821|Error|1|2
+17339745|cedar falls, iowa|14945097|Des Moines, IA|1|2
+17339745|cedar falls, iowa|16656254|Des Moines, KC, & Iowa City|1|2
+17339745|cedar falls, iowa|17412439|West Des Moines, Iowa|1|2
+17339745|cedar falls, iowa|16148608|Des Moines, Iowa|1|2
+17339745|cedar falls, iowa|412725099|Error|1|2
+17339745|cedar falls, iowa|19271367|Guyre, South Korea|1|2
+17339745|cedar falls, iowa|0|Error|1|2
+17339745|cedar falls, iowa|17838495|Des Moines, Iowa|1|2
+17339745|cedar falls, iowa|16554770|Des Moines, IA|1|2
+17339745|cedar falls, iowa|0|Error|1|2
+17339745|cedar falls, iowa|19058681|Los Angeles, California|1|2
+17339745|cedar falls, iowa|19094933|Wichita, KS|1|2
+17339745|cedar falls, iowa|11577712|Ankeny, Iowa|1|2
+17339745|cedar falls, iowa|39516670|Des Moines, IA|1|2
+17339745|cedar falls, iowa|954252608|Error|1|2
+17339745|cedar falls, iowa|16011556|Des Moines, Iowa|1|2
+17339745|cedar falls, iowa|16917869|Salt Lake City UT|1|2
+17339745|cedar falls, iowa|0|Error|1|2
+17339745|cedar falls, iowa|16835440|Des Moines, IA|1|2
+17339745|cedar falls, iowa|0|Error|1|2
+17339745|cedar falls, iowa|0|Error|1|2
+17339745|cedar falls, iowa|16950527|Cedar Falls, Iowa|1|2
+17339745|cedar falls, iowa|14416315|Des Moines, IA|1|2
+17339745|cedar falls, iowa|0|Error|1|2
+17339745|cedar falls, iowa|22215187|Des Moines|1|2
+17339745|cedar falls, iowa|17329215|Berkeley, CA|1|2
+17339745|cedar falls, iowa|20437898|Iowa|1|2
+17339745|cedar falls, iowa|18913730|Sherman Hill - Des Moines, IA|1|2
+17339745|cedar falls, iowa|7894512|Des Moines, IA|1|2
+17339745|cedar falls, iowa|8091512|Portland, OR|1|2
+17339745|cedar falls, iowa|16565797|USA|1|2
+17339745|cedar falls, iowa|0|Error|1|2
+17339745|cedar falls, iowa|15445849|denver, co|1|2
+17339745|cedar falls, iowa|15043584|Cedar Rapids, IA, USA|1|2
+17339745|cedar falls, iowa|8839502|Canada and Bermuda|1|2
+17339745|cedar falls, iowa|6219712|Des Moines, IA|1|2
+17339745|cedar falls, iowa|15114800|Elkhorn, NE|1|2
+17339745|cedar falls, iowa|21779301|Des Moines, IA|1|2
+17339745|cedar falls, iowa|0|Error|1|2
+17339745|cedar falls, iowa|15837871|Waukee, IA|1|2
+17339745|cedar falls, iowa|15571248|Dallas, Texas|1|2
+17339745|cedar falls, iowa|0|Error|1|2
+17339745|cedar falls, iowa|14757892|Cedar Rapids, IA|1|2
+18913730|des moines, iowa|58507167|Kansas City, Mo.|3|2
+18913730|des moines, iowa|342313047|Error|2|2
+18913730|des moines, iowa|19076678|Des Moines, Iowa|1|2
+18913730|des moines, iowa|16799528|Des Moines, Iowa|1|2
+18913730|des moines, iowa|0|Error|1|2
+18913730|des moines, iowa|45924265|Arrowhead Stadium|1|2
+18913730|des moines, iowa|0|Error|1|2
+18913730|des moines, iowa|24216003|Kansas City, MO|1|2
+18913730|des moines, iowa|15485441|New York, New York|1|2
+18913730|des moines, iowa|77244043|St. Louis, MO|1|2
+18913730|des moines, iowa|58510665|Indy|1|2
+18913730|des moines, iowa|0|Error|1|2
+18913730|des moines, iowa|17636179|In a glass cage of emotion|1|2
+18913730|des moines, iowa|0|Error|1|2
+18913730|des moines, iowa|18067335|The Hawkeye State|1|2
+72916686|des moines, iowa|0|Error|3|2
+72916686|des moines, iowa|25367445|Des Moines, Iowa|2|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|14244277|Des Moines, IA |1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|20414923|Iowa|1|2
+72916686|des moines, iowa|20892098|Des Moines Iowa|1|2
+72916686|des moines, iowa|16670993|Des Moines, IA|1|2
+72916686|des moines, iowa|24454808|Des Moines, IA|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|24461106|Iowa|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|14638346|Des Moines, Iowa|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|30021140|Des Moines, IA|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|14586323|Des Moines, Iowa, US|1|2
+72916686|des moines, iowa|0|Error|1|2
+72916686|des moines, iowa|0|Error|1|2
+15246383|des moines, iowa|15246383|Des Moines & Chicago|2|2
+15246383|des moines, iowa|11489|San Francisco, CA |2|2
+15246383|des moines, iowa|0|Error|2|2
+15246383|des moines, iowa|817832617|Error|2|2
+15246383|des moines, iowa|11883132|San Francisco|1|2
+15246383|des moines, iowa|332821632|Error|1|2
+15246383|des moines, iowa|43951450|Iowa|1|2
+15246383|des moines, iowa|18500081|Orlando, FL|1|2
+15246383|des moines, iowa|60699253|Error|1|2
+15246383|des moines, iowa|7799412|Prague, Czech Republic|1|2
+15246383|des moines, iowa|405177821|San Diego, CA|1|2
+15246383|des moines, iowa|0|Error|1|2
+15246383|des moines, iowa|14942647|Doha/Mumbai/Dubai|1|2
+15246383|des moines, iowa|16939148|San Francisco|1|2
+15246383|des moines, iowa|17166801|Columbus, Ohio|1|2
+15246383|des moines, iowa|20466813|San Francisco, CA|1|2
+15246383|des moines, iowa|62119578|Des Moines, Iowa|1|2
+15246383|des moines, iowa|6253282|San Francisco, CA|1|2
+15246383|des moines, iowa|16163767|Near Seattle|1|2
+15246383|des moines, iowa|56843255|Des Moines|1|2
+15246383|des moines, iowa|15407703|Des Moines, IA|1|2
+15246383|des moines, iowa|0|Error|1|2
+15246383|des moines, iowa|0|Error|1|2
+15246383|des moines, iowa|297070544|Error|1|2
+15246383|des moines, iowa|37737406|Pittsburgh, PA|1|2
+15246383|des moines, iowa|15256469|Des Moines - SFO |1|2
+15246383|des moines, iowa|469721437|Error|1|2
+23635361|iowa city, iowa|14153382|Habit|7|2
+23635361|iowa city, iowa|49812665|New York|2|2
+23635361|iowa city, iowa|0|Error|1|2
+23635361|iowa city, iowa|20692317|Iowa|1|2
+23635361|iowa city, iowa|15925848|Iowa City, Iowa|1|2
+23635361|iowa city, iowa|0|Error|1|2
+23635361|iowa city, iowa|17299739|Austin, TX|1|2
+24422240|council bluffs, iowa|21925787|Des Moines, IA|2|2
+24422240|council bluffs, iowa|19829266|Des Moines, IA|2|2
+24422240|council bluffs, iowa|13657922|Des Moines, Iowa, USA|2|2
+24422240|council bluffs, iowa|14412533|Washington, D.C.|1|2
+24422240|council bluffs, iowa|18915709|Iowa|1|2
+24422240|council bluffs, iowa|0|Error|1|2
+22456366|iowa city, iowa|47185154|Iowa City; Chicago|1|2
+22456366|iowa city, iowa|35940427|Error|1|2
+22456366|iowa city, iowa|18084951|Scottsdale, AZ|1|2
+22456366|iowa city, iowa|0|Error|1|2
+22456366|iowa city, iowa|0|Error|1|2
+22456366|iowa city, iowa|0|Error|1|2
+22456366|iowa city, iowa|78459055|San Francisco|1|2
+22456366|iowa city, iowa|22203657|Iowa City, Iowa|1|2
+22456366|iowa city, iowa|14620190|Dallas, TX|1|2
+22456366|iowa city, iowa|3296433407|Castellaro|1|2
+22456366|iowa city, iowa|11517172|Brno, Czech republic|1|2
+9743912|des moines, iowa|200895668|Sheffield|2|2
+9743912|des moines, iowa|14079361|Des Moines, Iowa|1|2
+9743912|des moines, iowa|791125|Whittier, CA 90603|1|2
+9743912|des moines, iowa|0|Error|1|2
+9743912|des moines, iowa|22640540|Fhloston Paradise|1|2
+9743912|des moines, iowa|0|Error|1|2
+9743912|des moines, iowa|15187542|Des Moines, Earth|1|2
+9743912|des moines, iowa|0|Error|1|2
+9743912|des moines, iowa|0|Error|1|2
+9743912|des moines, iowa|2684501|Honolulu Hawaii|1|2
+9743912|des moines, iowa|32259450|Los Angeles|1|2
+9743912|des moines, iowa|0|Error|1|2
+9743912|des moines, iowa|980611|West Coast|1|2
+9743912|des moines, iowa|0|Error|1|2
+45920082|sioux city, iowa|0|Error|3|2
+45920082|sioux city, iowa|16118857|Clive, Iowa|2|2
+45920082|sioux city, iowa|17616594|Chennai, India|1|2
+45920082|sioux city, iowa|56421925|Duluth, MN|1|2
+45920082|sioux city, iowa|40260936|Prescott AZ USA|1|2
+23768994|ames, iowa|11616772|Baton Rouge, LA|4|2
+23768994|ames, iowa|11883132|San Francisco|2|2
+23768994|ames, iowa|193611621|Error|2|2
+23768994|ames, iowa|23768994|Eugene, Oregon|2|2
+23768994|ames, iowa|23232776|Victoria, Texas|2|2
+23768994|ames, iowa|16442030|St. Paul, MN|2|2
+23768994|ames, iowa|0|Error|1|2
+23768994|ames, iowa|69954454|Ames, IA|1|2
+23768994|ames, iowa|21252723|New Haven, CT |1|2
+23768994|ames, iowa|27777132|Austin, TX|1|2
+23768994|ames, iowa|68291943|Des Moines|1|2
+23768994|ames, iowa|19037454|Iowa|1|2
+23768994|ames, iowa|41687709|New Jersey, USA|1|2
+23768994|ames, iowa|0|Error|1|2
+23768994|ames, iowa|16890151|Denver, CO|1|2
+23768994|ames, iowa|15717703|Austin, TX|1|2
+23768994|ames, iowa|56865735|Ames, IA|1|2
+23768994|ames, iowa|228474724|Chicago, IL|1|2
+23768994|ames, iowa|0|Error|1|2
+23768994|ames, iowa|13657922|Des Moines, Iowa, USA|1|2
+23768994|ames, iowa|0|Error|1|2
+23768994|ames, iowa|16725869|Des Moines, Iowa|1|2
+23768994|ames, iowa|61683927|Indianapolis, IN|1|2
+23768994|ames, iowa|41388714|Ames, IA|1|2
+23768994|ames, iowa|14815096|Chicago & Phnom Penh|1|2
+23768994|ames, iowa|0|Error|1|2
+23768994|ames, iowa|20690271|Minneapolis|1|2
+23768994|ames, iowa|14313986|Chicago, IL|1|2
+23768994|ames, iowa|16147499|Phoenix, Arizona|1|2
+23768994|ames, iowa|37347432|Des Moines, Iowa|1|2
+23768994|ames, iowa|0|Error|1|2
+23768994|ames, iowa|136388540|Error|1|2
+23768994|ames, iowa|0|Error|1|2
+23768994|ames, iowa|6141832|Shanghai|1|2
+23768994|ames, iowa|87550494|Chicago|1|2
+29030047|iowa city, iowa|6532142|Des Moines, IA|3|2
+29030047|iowa city, iowa|18183420|Iowa|3|2
+29030047|iowa city, iowa|0|Error|3|2
+29030047|iowa city, iowa|0|Error|2|2
+29030047|iowa city, iowa|19015896|San Jose, CA|2|2
+29030047|iowa city, iowa|19673682|Springfield, MO|2|2
+29030047|iowa city, iowa|1398135409|Error|1|2
+29030047|iowa city, iowa|31353077|Los Angeles|1|2
+29030047|iowa city, iowa|22456366|Somewhere in Between|1|2
+29030047|iowa city, iowa|0|Error|1|2
+29030047|iowa city, iowa|7282222|San Francisco, CA|1|2
+29030047|iowa city, iowa|19688927|los angeles|1|2
+16827044|des moines, iowa|143210965|Des Moines, Iowa|4|2
+16827044|des moines, iowa|8091512|Portland, OR|3|2
+16827044|des moines, iowa|197106129|Error|3|2
+16827044|des moines, iowa|17145377|Windsor Heights, Iowa|2|2
+16827044|des moines, iowa|18227844|Hawkeye State|2|2
+16827044|des moines, iowa|20801383|Error|2|2
+16827044|des moines, iowa|25960305|Waltham, MA|2|2
+16827044|des moines, iowa|14955908|New York|2|2
+16827044|des moines, iowa|0|Error|2|2
+16827044|des moines, iowa|0|Error|2|2
+16827044|des moines, iowa|0|Error|1|2
+16827044|des moines, iowa|22804962|Iowa|1|2
+16827044|des moines, iowa|16563221|midwest|1|2
+16827044|des moines, iowa|73054858|Iowa|1|2
+16827044|des moines, iowa|16570148|Iowa|1|2
+16827044|des moines, iowa|18557190|Iowa|1|2
+16827044|des moines, iowa|0|Error|1|2
+16827044|des moines, iowa|0|Error|1|2
+16827044|des moines, iowa|0|Error|1|2
+16827044|des moines, iowa|0|Error|1|2
+16827044|des moines, iowa|71105889|Des Moines, Iowa |1|2
+16827044|des moines, iowa|0|Error|1|2
+16827044|des moines, iowa|2165413807|Error|1|2
+16827044|des moines, iowa|0|Error|1|2
+16827044|des moines, iowa|0|Error|1|2
+16827044|des moines, iowa|0|Error|1|2
+16827044|des moines, iowa|22099067|Midwest|1|2
+16827044|des moines, iowa|0|Error|1|2
+36624509|marion, iowa|17292498|SoCal|8|2
+36624509|marion, iowa|0|Error|3|2
+36624509|marion, iowa|15437723|Error|2|2
+36624509|marion, iowa|19575977|THE WORLD|2|2
+36624509|marion, iowa|243287822|some place higher|2|2
+36624509|marion, iowa|18036427|because, why not.|1|2
+36624509|marion, iowa|24036264|New York, NY|1|2
+36624509|marion, iowa|16227630|New York's City|1|2
+36624509|marion, iowa|0|Error|1|2
+36624509|marion, iowa|0|Error|1|2
+36624509|marion, iowa|17911796|Milwaukee, WI|1|2
+36624509|marion, iowa|17969208|Los Angeles|1|2
+36624509|marion, iowa|25952630|Error|1|2
+36624509|marion, iowa|56468187|Error|1|2
+36624509|marion, iowa|841271970|Error|1|2
+36624509|marion, iowa|17184156|Error|1|2
+20951700|burlington, iowa|2817995382|Error|2|2
+29108129|marshalltown, iowa|1438925442|Error|8|2
+29108129|marshalltown, iowa|0|Error|7|2
+29108129|marshalltown, iowa|9569972|Colorado|4|2
+29108129|marshalltown, iowa|18537709|Flamingo, Las Vegas|3|2
+29108129|marshalltown, iowa|326485223|Error|3|2
+29108129|marshalltown, iowa|20755072|Error|3|2
+29108129|marshalltown, iowa|207393859|Error|3|2
+29108129|marshalltown, iowa|0|Error|2|2
+29108129|marshalltown, iowa|24133713|CantamessaMan.com|2|2
+29108129|marshalltown, iowa|218246983|Jamaica|2|2
+29108129|marshalltown, iowa|24843679|joannakrupa instagram|2|2
+29108129|marshalltown, iowa|0|Error|1|2
+29108129|marshalltown, iowa|0|Error|1|2
+29108129|marshalltown, iowa|0|Error|1|2
+29108129|marshalltown, iowa|412725099|Error|1|2
+29108129|marshalltown, iowa|0|Error|1|2
+29108129|marshalltown, iowa|77053455|Error|1|2
+29108129|marshalltown, iowa|16845188|Los Angeles |1|2
+29108129|marshalltown, iowa|2281573941|Error|1|2
+29108129|marshalltown, iowa|92674506|Wherever the wind blows|1|2
+29108129|marshalltown, iowa|40506595|Error|1|2
+29108129|marshalltown, iowa|216292595|Everywhere|1|2
+29108129|marshalltown, iowa|861947724|Error|1|2
+29108129|marshalltown, iowa|0|Error|1|2
+29108129|marshalltown, iowa|247919072|Error|1|2
+29108129|marshalltown, iowa|38370559|IA - United States of America|1|2
+29108129|marshalltown, iowa|23258715| Los Angeles, CA |1|2
+53409404|cedar falls, iowa|15753774|Dead Meat. |4|2
+53409404|cedar falls, iowa|14649755|PHX | LND|2|2
+53409404|cedar falls, iowa|0|Error|2|2
+53409404|cedar falls, iowa|6822302|Earth|1|2
+53409404|cedar falls, iowa|34479708|underyournose..aboveyourhead|1|2
+53409404|cedar falls, iowa|36454425|University of Northern Iowa|1|2
+53409404|cedar falls, iowa|15495396|planet earth|1|2
+53409404|cedar falls, iowa|34339144|Fargo, ND|1|2
+53409404|cedar falls, iowa|17486893|Flavortown|1|2
+53409404|cedar falls, iowa|0|Error|1|2
+53409404|cedar falls, iowa|39145988|Cedar Falls, Iowa|1|2
+53409404|cedar falls, iowa|0|Error|1|2
+53409404|cedar falls, iowa|8070382|Albuquerque, NM|1|2
+13563592|iowa city, iowa|72879160|suburbia|5|2
+13563592|iowa city, iowa|15985730|Johnston/Ankeny, IA|3|2
+13563592|iowa city, iowa|14664825|Cedar Rapids, IA, USA, Earth|2|2
+13563592|iowa city, iowa|48360562|Somewhere east of the sunrise|2|2
+13563592|iowa city, iowa|0|Error|2|2
+13563592|iowa city, iowa|19493243|Minnesota|2|2
+13563592|iowa city, iowa|16013759|Cedar Rapids, Iowa, USA|2|2
+13563592|iowa city, iowa|16655109|Dubuque, IA|2|2
+13563592|iowa city, iowa|117840084|Purgatory|1|2
+13563592|iowa city, iowa|0|Error|1|2
+13563592|iowa city, iowa|15747109|Iowa City-Cedar Rapids-The Fax|1|2
+13563592|iowa city, iowa|18823932|Cedar Rapids, Iowa|1|2
+13563592|iowa city, iowa|0|Error|1|2
+13563592|iowa city, iowa|42712961|St. Louis, Mo.|1|2
+13563592|iowa city, iowa|17916036|Error|1|2
+51891247|des moines, iowa|88236515|Error|5|2
+51891247|des moines, iowa|26264058|Error|3|2
+51891247|des moines, iowa|68022680|KY,USA|3|2
+51891247|des moines, iowa|591994412|Topeka, KS|3|2
+51891247|des moines, iowa|6571632|Pinedale,Wyoming|2|2
+51891247|des moines, iowa|46585657|Wisconsin|2|2
+51891247|des moines, iowa|0|Error|2|2
+51891247|des moines, iowa|27015441|Error|2|2
+51891247|des moines, iowa|20921313|Michigan|2|2
+51891247|des moines, iowa|40756537|Error|1|2
+51891247|des moines, iowa|14988757|Error|1|2
+51891247|des moines, iowa|19825646|Error|1|2
+51891247|des moines, iowa|42630503|Ohio|1|2
+51891247|des moines, iowa|202479656|race track |1|2
+51891247|des moines, iowa|31458659|Error|1|2
+51891247|des moines, iowa|0|Error|1|2
+9369722|des moines, iowa|14398592|Chicago, Illinois|2|2
+9369722|des moines, iowa|2503902313|Error|1|2
+9369722|des moines, iowa|9903052|Des Moines, IA|1|2
+9369722|des moines, iowa|26193895|Vancouver|1|2
+9369722|des moines, iowa|7564592|Brooklyn, NY|1|2
+9369722|des moines, iowa|2684501|Honolulu Hawaii|1|2
+9369722|des moines, iowa|8088412|boston|1|2
+9369722|des moines, iowa|755452|Chicago & the World |1|2
+9369722|des moines, iowa|980611|West Coast|1|2
+6750322|iowa city, iowa|18689064|Error|6|2
+6750322|iowa city, iowa|3839|New York, NY|3|2
+6750322|iowa city, iowa|41270090|West Des Moines, IA|2|2
+6750322|iowa city, iowa|14914910|St. Louis, MO|1|2
+6750322|iowa city, iowa|13076722|Cedar Rapids, IA|1|2
+6750322|iowa city, iowa|14277461|Iowa City, IA|1|2
+6750322|iowa city, iowa|9590682|Charleston, S.C.|1|2
+6750322|iowa city, iowa|16170444|Iowa City, IA|1|2
+6750322|iowa city, iowa|33423|Philadelphia|1|2
+6750322|iowa city, iowa|15040836|Iowa City, Iowa|1|2
+6750322|iowa city, iowa|0|Error|1|2
+6750322|iowa city, iowa|528888844|Error|1|2
+6750322|iowa city, iowa|15074348|Tampa|1|2
+6750322|iowa city, iowa|0|Error|1|2
+6750322|iowa city, iowa|78547719|Error|1|2
+6750322|iowa city, iowa|20690271|Minneapolis|1|2
+6750322|iowa city, iowa|14803701|Everywhere|1|2
+6750322|iowa city, iowa|0|Error|1|2
+6750322|iowa city, iowa|5809062|Gainesville, Florida|1|2
+6750322|iowa city, iowa|884301|Ashburn, VA|1|2
+6750322|iowa city, iowa|215928773|Error|1|2
+6750322|iowa city, iowa|14946976|Iowa City, Iowa|1|2
+6750322|iowa city, iowa|15506476|Midwest|1|2
+6750322|iowa city, iowa|371248981|Error|1|2
+71370595|sioux city, iowa|15842919|NCC-1701-A|14|2
+71370595|sioux city, iowa|14386631|A2, Michigan|3|2
+71370595|sioux city, iowa|79369259|Corn Town, Iowa|2|2
+71370595|sioux city, iowa|14276679|Highbury|1|2
+71370595|sioux city, iowa|18101713|Error|1|2
+71370595|sioux city, iowa|252043890|Error|1|2
+71370595|sioux city, iowa|2534024696|Error|1|2
+71370595|sioux city, iowa|14667274|Cobra Island|1|2
+71370595|sioux city, iowa|14464369|Error|1|2
+71370595|sioux city, iowa|17087456|Richmond, VA|1|2
+71370595|sioux city, iowa|0|Error|1|2
+71370595|sioux city, iowa|17415924|San Francisco, CA|1|2
+71370595|sioux city, iowa|0|Error|1|2
+71370595|sioux city, iowa|14535004|Portland|1|2
+71370595|sioux city, iowa|8066652|Pig's Eye, Minnesota|1|2
+71370595|sioux city, iowa|18671559|Error|1|2
+71370595|sioux city, iowa|45082357|Chicago|1|2
+71370595|sioux city, iowa|15279452|Los Angeles|1|2
+10322422|des moines, iowa|17636179|In a glass cage of emotion|2|2
+10322422|des moines, iowa|85733562|Iowa City, IA|2|2
+10322422|des moines, iowa|86111947|Des Moines & Ames, Iowa|1|2
+10322422|des moines, iowa|15437854|Des Moines, Iowa|1|2
+10322422|des moines, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|0|Error|2|2
+15799941|cedar rapids, iowa|0|Error|2|2
+15799941|cedar rapids, iowa|0|Error|2|2
+15799941|cedar rapids, iowa|0|Error|2|2
+15799941|cedar rapids, iowa|20622814|Error|2|2
+15799941|cedar rapids, iowa|725213|DC/Silver Spring/Baltimore|1|2
+15799941|cedar rapids, iowa|55504134|In The BIG Apple :)|1|2
+15799941|cedar rapids, iowa|7302282|Playa Vista, CA|1|2
+15799941|cedar rapids, iowa|19382074|South Jersey|1|2
+15799941|cedar rapids, iowa|16812787|Houston, TX|1|2
+15799941|cedar rapids, iowa|54227160|Meet me @ the Top!|1|2
+15799941|cedar rapids, iowa|24466367|georgia |1|2
+15799941|cedar rapids, iowa|18918550|Error|1|2
+15799941|cedar rapids, iowa|33324875|San Francisco, CA|1|2
+15799941|cedar rapids, iowa|21433279|Iowa|1|2
+15799941|cedar rapids, iowa|62661738|Silverton, Or|1|2
+15799941|cedar rapids, iowa|24236034|Cali|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|5748472|iPhone: 41.741773,-91.613255|1|2
+15799941|cedar rapids, iowa|29087112|Inside my skin. |1|2
+15799941|cedar rapids, iowa|23746241|In God's Hands|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|806437146|angola/luanda|1|2
+15799941|cedar rapids, iowa|23329566|Kansas City, MO|1|2
+15799941|cedar rapids, iowa|36072264|Bon Temps, LA|1|2
+15799941|cedar rapids, iowa|21029085|Error|1|2
+15799941|cedar rapids, iowa|18401702|SoFlo Ho!|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|14055919|Error|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|70710579|NYC|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|24740039|Oakland, CA|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|14763806|New Jersey, NY, Philly|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|633416765|Error|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|18273175|On the Web like a sexy Spider|1|2
+15799941|cedar rapids, iowa|22932545|The Batcave|1|2
+15799941|cedar rapids, iowa|41073372|Los Angeles|1|2
+15799941|cedar rapids, iowa|18150223|Chicago ATL NYC LA DC |1|2
+15799941|cedar rapids, iowa|16672159|Error|1|2
+15799941|cedar rapids, iowa|8618932|Laker Fan in Portland, OREGON|1|2
+15799941|cedar rapids, iowa|19500415|Denver |1|2
+15799941|cedar rapids, iowa|2982575519|Ryazan
+, Russia|1|2
+15799941|cedar rapids, iowa|24129054|Jax, FL|1|2
+15799941|cedar rapids, iowa|20715669|Columbus, Ohio|1|2
+63250296|mason city, iowa|0|Error|2|2
+63250296|mason city, iowa|2873066794|Error|2|2
+63250296|mason city, iowa|81858199|Los Angeles, Ca|2|2
+63250296|mason city, iowa|3439255726|Error|2|2
+63250296|mason city, iowa|0|Error|1|2
+63250296|mason city, iowa|230561093|Yogyakarta|1|2
+63250296|mason city, iowa|0|Error|1|2
+63250296|mason city, iowa|0|Error|1|2
+63250296|mason city, iowa|1960080348|Error|1|2
+63250296|mason city, iowa|26670167|WB ,Brooklyn New York|1|2
+63250296|mason city, iowa|964000320|Australia|1|2
+63250296|mason city, iowa|0|Error|1|2
+63250296|mason city, iowa|2654648616|Error|1|2
+63250296|mason city, iowa|47696812|Error|1|2
+63250296|mason city, iowa|14821347|Augusta|1|2
+63250296|mason city, iowa|104078563|Error|1|2
+63250296|mason city, iowa|23119555|The Left Side|1|2
+63250296|mason city, iowa|24929621|Error|1|2
+63250296|mason city, iowa|39379907|251|1|2
+63250296|mason city, iowa|23172966|Las Vegas, NV|1|2
+22916264|des moines, iowa|0|Error|9|2
+22916264|des moines, iowa|215304104|California & the stage. |6|2
+22916264|des moines, iowa|50112462|Lawrence, KS|6|2
+22916264|des moines, iowa|18749641|Error|6|2
+22916264|des moines, iowa|1068000326|Error|4|2
+22916264|des moines, iowa|13947542|Dirty Socks Studios|3|2
+22916264|des moines, iowa|33031379|Error|3|2
+22916264|des moines, iowa|18966441|EARTH AT THE MOMENT|2|2
+22916264|des moines, iowa|279581515|Error|2|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|20740959|Ozone, FL.|1|2
+22916264|des moines, iowa|24900321|KCMO|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|24899071|KCMO|1|2
+22916264|des moines, iowa|27578662|Toronto|1|2
+22916264|des moines, iowa|75869663|Winston Salem, NC|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|33607238|Souf Jersey |1|2
+22916264|des moines, iowa|3295377717|Chandigarh|1|2
+22916264|des moines, iowa|33658773|Nor. Cal to Auck. NZ|1|2
+22916264|des moines, iowa|16879416|Error|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|21346780|Gardena [L.A. - S.D.]|1|2
+22916264|des moines, iowa|16581795|KCMO|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|19717290|Los Angeles Kallousfornia|1|2
+15675855|des moines, iowa|16318151|Des Moines, Iowa|1|2
+15675855|des moines, iowa|22007499|Error|1|2
+50802769|des moines, iowa|0|Error|4|2
+50802769|des moines, iowa|21529484|Wherever I want.|3|2
+50802769|des moines, iowa|0|Error|1|2
+50802769|des moines, iowa|65415125|everywhere you're not...|1|2
+50802769|des moines, iowa|25625606|Des Moines, IA|1|2
+50802769|des moines, iowa|0|Error|1|2
+17642432|marion, iowa|0|Error|4|2
+17642432|marion, iowa|1126811642|NJ|2|2
+17642432|marion, iowa|1525999651|Error|2|2
+17642432|marion, iowa|24502450|LA X DMV X NYC X SYD|1|2
+17642432|marion, iowa|17471459|everywhere/all the time|1|2
+17120022|cedar rapids, iowa|22327432|northern california|4|2
+17120022|cedar rapids, iowa|38370559|IA - United States of America|2|2
+17120022|cedar rapids, iowa|16150587|Vail, Colorado|1|2
+17120022|cedar rapids, iowa|11891512|Chicago, IL|1|2
+17120022|cedar rapids, iowa|14163275|Worldwide|1|2
+17120022|cedar rapids, iowa|15666966|Eagle, CO|1|2
+17120022|cedar rapids, iowa|5417132|Sydney/London|1|2
+17120022|cedar rapids, iowa|15441394|Monticello, Iowa|1|2
+17120022|cedar rapids, iowa|17449749|London and Madrid|1|2
+17120022|cedar rapids, iowa|40885516|Tampa Bay|1|2
+17120022|cedar rapids, iowa|37332302|Clearwater, Florida|1|2
+17120022|cedar rapids, iowa|17120022|Cedar Rapids, Iowa|1|2
+67173567|ottumwa, iowa|37249530|Kauai, Hawaii|5|2
+67173567|ottumwa, iowa|27562128|Oklahoma City|3|2
+67173567|ottumwa, iowa|15683361|Chicago, IL|2|2
+67173567|ottumwa, iowa|0|Error|1|2
+67173567|ottumwa, iowa|0|Error|1|2
+67173567|ottumwa, iowa|0|Error|1|2
+16206101|mount pleasant, iowa|78061288|Worldwide|16|2
+16206101|mount pleasant, iowa|0|Error|15|2
+16206101|mount pleasant, iowa|16206101|Los Angeles, CA|15|2
+16206101|mount pleasant, iowa|14793278|Branson, MO|8|2
+16206101|mount pleasant, iowa|71218415|Los Angeles, CA|7|2
+16206101|mount pleasant, iowa|0|Error|5|2
+16206101|mount pleasant, iowa|5490392|San Francisco, CA|5|2
+16206101|mount pleasant, iowa|18321436|Los Angeles, CA|5|2
+16206101|mount pleasant, iowa|90450482|Mount Pleasant, Iowa|4|2
+16206101|mount pleasant, iowa|225900194|Error|4|2
+16206101|mount pleasant, iowa|2229084121|Error|4|2
+16206101|mount pleasant, iowa|0|Error|4|2
+16206101|mount pleasant, iowa|3107971|Error|4|2
+16206101|mount pleasant, iowa|29061673|Seattle, WA|3|2
+16206101|mount pleasant, iowa|16565744|Iowa City, Iowa (Global HQ)|3|2
+16206101|mount pleasant, iowa|19921754|Atlanta, GA|3|2
+16206101|mount pleasant, iowa|783705|San Carlos, CA|3|2
+16206101|mount pleasant, iowa|18588279|Error|3|2
+16206101|mount pleasant, iowa|16924670|Santa Monica, CA|3|2
+16206101|mount pleasant, iowa|47234256|San Diego, CA|3|2
+16206101|mount pleasant, iowa|0|Error|3|2
+16206101|mount pleasant, iowa|38722183|Everywhere|3|2
+16206101|mount pleasant, iowa|21776389|San Diego|3|2
+16206101|mount pleasant, iowa|39855004|Error|3|2
+16206101|mount pleasant, iowa|14813088|Los Angeles|3|2
+16206101|mount pleasant, iowa|57124671|Los Angeles|2|2
+16206101|mount pleasant, iowa|0|Error|2|2
+16206101|mount pleasant, iowa|6273552|Bay Area #GoldenState |2|2
+16206101|mount pleasant, iowa|0|Error|2|2
+16206101|mount pleasant, iowa|13501542|New Jersey/Philadelphia|2|2
+16206101|mount pleasant, iowa|16190898|Los Angeles, CA|2|2
+16206101|mount pleasant, iowa|19029137|Malibu, CA|2|2
+16206101|mount pleasant, iowa|0|Error|2|2
+16206101|mount pleasant, iowa|14134204|Los Angeles|2|2
+16206101|mount pleasant, iowa|23133240|CALIFORNIA, USA|2|2
+16206101|mount pleasant, iowa|15256509|Denver, Colorado|2|2
+16206101|mount pleasant, iowa|16941646|West Los Angeles, CA|2|2
+16206101|mount pleasant, iowa|17467647|East Coast|2|2
+16206101|mount pleasant, iowa|41073372|Los Angeles|2|2
+16206101|mount pleasant, iowa|16537472|Mount Pleasant, Iowa|2|2
+16206101|mount pleasant, iowa|16224273|Hollywood|2|2
+16206101|mount pleasant, iowa|14435124|Phoenix, AZ|2|2
+16206101|mount pleasant, iowa|0|Error|2|2
+16206101|mount pleasant, iowa|0|Error|2|2
+16206101|mount pleasant, iowa|86422542|Wuz up Vitch?|1|2
+16206101|mount pleasant, iowa|0|Error|1|2
+16206101|mount pleasant, iowa|15079003|Outer Space|1|2
+16206101|mount pleasant, iowa|6815302|Error|1|2
+16206101|mount pleasant, iowa|14871283|Austin, TX|1|2
+16206101|mount pleasant, iowa|269033594|Error|1|2
+16206101|mount pleasant, iowa|783214|San Francisco, CA|1|2
+16206101|mount pleasant, iowa|29054474|THE INTERNET|1|2
+16206101|mount pleasant, iowa|44409004|Barranquilla|1|2
+16206101|mount pleasant, iowa|50412011|Mount Pleasant, Iowa|1|2
+16206101|mount pleasant, iowa|7984262|Mississippi|1|2
+16206101|mount pleasant, iowa|0|Error|1|2
+16206101|mount pleasant, iowa|7251402|USA|1|2
+16206101|mount pleasant, iowa|0|Error|1|2
+16206101|mount pleasant, iowa|10221|san francisco|1|2
+16206101|mount pleasant, iowa|71876190|Los Angeles|1|2
+16206101|mount pleasant, iowa|16691049|California|1|2
+16206101|mount pleasant, iowa|243442402|Error|1|2
+16206101|mount pleasant, iowa|21891218|San Francisco|1|2
+16206101|mount pleasant, iowa|3611041|Las Vegas, NV|1|2
+16206101|mount pleasant, iowa|0|Error|1|2
+16206101|mount pleasant, iowa|0|Error|1|2
+16206101|mount pleasant, iowa|0|Error|1|2
+16206101|mount pleasant, iowa|0|Error|1|2
+16206101|mount pleasant, iowa|2747197563|Error|1|2
+16206101|mount pleasant, iowa|376504929|Error|1|2
+16206101|mount pleasant, iowa|24045282|Chicago, IL|1|2
+16206101|mount pleasant, iowa|6416322|VA|1|2
+16206101|mount pleasant, iowa|15488097|Los Angeles, CA|1|2
+16206101|mount pleasant, iowa|16285288|Whirling|1|2
+16206101|mount pleasant, iowa|7570172|Nashville, TN|1|2
+16206101|mount pleasant, iowa|158191017|Error|1|2
+16206101|mount pleasant, iowa|7781002|Los Angeles, CA|1|2
+16206101|mount pleasant, iowa|754576|Los Angeles, CA|1|2
+16206101|mount pleasant, iowa|22173346|Calgary, Alberta |1|2
+16206101|mount pleasant, iowa|398647674|england|1|2
+16206101|mount pleasant, iowa|17266725|USA|1|2
+16206101|mount pleasant, iowa|15667801|Martinsburg, WV|1|2
+16206101|mount pleasant, iowa|21377845|Washington|1|2
+16206101|mount pleasant, iowa|16101657|Midwest/Southeast U.S./Int'l|1|2
+16206101|mount pleasant, iowa|16936018|Collegedale, TN|1|2
+16206101|mount pleasant, iowa|2185154076|Worthing|1|2
+16206101|mount pleasant, iowa|11768142|Ankeny, Iowa|1|2
+16206101|mount pleasant, iowa|18420140|Error|1|2
+16206101|mount pleasant, iowa|26743|Bend, OR|1|2
+16206101|mount pleasant, iowa|24046993|Portland, Maine|1|2
+16206101|mount pleasant, iowa|15326707|Atlanta, GA|1|2
+16206101|mount pleasant, iowa|0|Error|1|2
+54218542|des moines, iowa|29300496|Marshalltown, Iowa|2|2
+54218542|des moines, iowa|18079850|Des Moines, IA|2|2
+54218542|des moines, iowa|0|Error|1|2
+54218542|des moines, iowa|45583839|Des Moines, IA|1|2
+54218542|des moines, iowa|18403623|Iowa|1|2
+54218542|des moines, iowa|29512942|USA|1|2
+54218542|des moines, iowa|0|Error|1|2
+54218542|des moines, iowa|3301225067|Error|1|2
+54218542|des moines, iowa|30113009|St. Louis, MO|1|2
+54218542|des moines, iowa|21587437|Des Moines, IA|1|2
+54218542|des moines, iowa|0|Error|1|2
+54218542|des moines, iowa|20345454|Ames, Iowa|1|2
+54218542|des moines, iowa|14926564|Rolling Hills of S. Iowa|1|2
+54218542|des moines, iowa|87001936|Des Moines, Iowa|1|2
+54218542|des moines, iowa|15031736|Ankeny, Iowa|1|2
+54218542|des moines, iowa|0|Error|1|2
+15028693|des moines, iowa|15906477|Atlanta, GA|8|2
+15028693|des moines, iowa|32711699|Iowa|5|2
+15028693|des moines, iowa|625093521|Error|1|2
+15028693|des moines, iowa|0|Error|1|2
+15028693|des moines, iowa|12064542|Wherever fine Twitter gadgets |1|2
+18306792|des moines, iowa|18795950|Italy + UK|4|2
+18306792|des moines, iowa|17602996|Washington|4|2
+18306792|des moines, iowa|0|Error|3|2
+18306792|des moines, iowa|19915953|ALL OVER THE WORLD|2|2
+18306792|des moines, iowa|21671594|Philippines|2|2
+18306792|des moines, iowa|62088627|Toronto|2|2
+18306792|des moines, iowa|25688058|Sweden|2|2
+18306792|des moines, iowa|76727413|LDN|2|2
+18306792|des moines, iowa|366427909|Error|2|2
+18306792|des moines, iowa|18403623|Iowa|2|2
+18306792|des moines, iowa|26398344|Error|1|2
+18306792|des moines, iowa|88103001|Right Here in my home office|1|2
+18306792|des moines, iowa|0|Error|1|2
+18306792|des moines, iowa|33375794|U.S.|1|2
+18306792|des moines, iowa|16459452|Bellingham,WA.|1|2
+18306792|des moines, iowa|0|Error|1|2
+18306792|des moines, iowa|48629937|Hamilton, Ontario, Canada|1|2
+18306792|des moines, iowa|15588657|Global|1|2
+18306792|des moines, iowa|21054933|Mah-v-lous Maine|1|2
+18306792|des moines, iowa|24274908|Brampton, Ont, Canada|1|2
+18306792|des moines, iowa|49733602|U.S.A|1|2
+18306792|des moines, iowa|0|Error|1|2
+18306792|des moines, iowa|17973137|Nicaragua|1|2
+18306792|des moines, iowa|37713082|Costa Maya, Mex|1|2
+18306792|des moines, iowa|36498054|Concord, Massachusetts|1|2
+18306792|des moines, iowa|73069473|Error|1|2
+18306792|des moines, iowa|32729111|Concord, CA|1|2
+18306792|des moines, iowa|33358477|Ozark Mts in MO|1|2
+18306792|des moines, iowa|4190421|Texas|1|2
+18306792|des moines, iowa|2357135037|Error|1|2
+18306792|des moines, iowa|49860235|Error|1|2
+18306792|des moines, iowa|0|Error|1|2
+18306792|des moines, iowa|33873713|Canada|1|2
+18306792|des moines, iowa|54328003|Tulsa, Oklahoma|1|2
+18306792|des moines, iowa|24655312|Redondo Beach, CA|1|2
+18306792|des moines, iowa|63053409|Canada|1|2
+18306792|des moines, iowa|35275095|Long Island, NY #Shaklee|1|2
+18306792|des moines, iowa|0|Error|1|2
+18306792|des moines, iowa|17573212|Plum Village, France|1|2
+18306792|des moines, iowa|1205807533|Error|1|2
+18306792|des moines, iowa|416838834|Error|1|2
+18306792|des moines, iowa|1468030674|Error|1|2
+2711511|des moines, iowa|14586323|Des Moines, Iowa, US|3|2
+2711511|des moines, iowa|43432321|Detroit, MI|3|2
+2711511|des moines, iowa|6108862|Northern Colorado|3|2
+2711511|des moines, iowa|1862183678|Error|2|2
+2711511|des moines, iowa|602924023|Error|1|2
+2711511|des moines, iowa|16917869|Salt Lake City UT|1|2
+2711511|des moines, iowa|14110945|Indianola, Iowa|1|2
+2711511|des moines, iowa|14399910|Des Moines, Iowa|1|2
+2711511|des moines, iowa|7135112|Des Moines, IA|1|2
+2711511|des moines, iowa|0|Error|1|2
+2711511|des moines, iowa|14614966|Bentonville, Arkansas - USA|1|2
+2711511|des moines, iowa|20806376|Singapore  /New York  /Taipei|1|2
+2711511|des moines, iowa|84879930|Des Moines Iowa|1|2
+2711511|des moines, iowa|14849301|City of the fallen angels|1|2
+2711511|des moines, iowa|14950717|Ames, IA|1|2
+2711511|des moines, iowa|11423272|Ankeny, IA|1|2
+18823932|cedar rapids, iowa|12704672|Longfellow, Minneapolis |4|2
+18823932|cedar rapids, iowa|16014809|Kansas City|3|2
+18823932|cedar rapids, iowa|13563592|Iowa City, Iowa|1|2
+18823932|cedar rapids, iowa|274885530|Error|1|2
+18823932|cedar rapids, iowa|48360562|Somewhere east of the sunrise|1|2
+18823932|cedar rapids, iowa|18915796|Scottsdale, AZ |1|2
+18823932|cedar rapids, iowa|18823932|Cedar Rapids, Iowa|1|2
+18823932|cedar rapids, iowa|19379367|Cedar Rapids, IA|1|2
+18823932|cedar rapids, iowa|14676226|Iowa|1|2
+18823932|cedar rapids, iowa|18846892|Iowa City - Rio de Janeiro|1|2
+18823932|cedar rapids, iowa|626043|Flyover Country|1|2
+18823932|cedar rapids, iowa|0|Error|1|2
+59234015|cedar rapids, iowa|0|Error|1|2
+59234015|cedar rapids, iowa|20345564|Error|1|2
+59234015|cedar rapids, iowa|70768179|Pella, Iowa|1|2
+18312823|davenport, iowa|39899385|Boulder, CO|2|2
+18312823|davenport, iowa|19154824|Florida, USA|1|2
+18312823|davenport, iowa|16916996|Southwest Riverside County|1|2
+18312823|davenport, iowa|17972321|Global|1|2
+18312823|davenport, iowa|0|Error|1|2
+18312823|davenport, iowa|79919956|Rock Island Illinois|1|2
+32600371|cedar rapids, iowa|14222518|everywhere|1|2
+32600371|cedar rapids, iowa|19709040|San Jose, CA|1|2
+16875018|des moines, iowa|19039943|Independence, Iowa|3|2
+16875018|des moines, iowa|59340495|Pennsylvania|2|2
+16875018|des moines, iowa|16319666|PacNW|2|2
+16875018|des moines, iowa|250078821|TAUNTON ENGLAND|1|2
+16875018|des moines, iowa|17719993|Northwest Connecticut|1|2
+16875018|des moines, iowa|11447852|New York|1|2
+16875018|des moines, iowa|14437962|Greater Nowheresville|1|2
+16875018|des moines, iowa|16668932|Des Moines, Iowa|1|2
+16875018|des moines, iowa|17808502|Error|1|2
+16875018|des moines, iowa|69342729|West Des Moines, Iowa|1|2
+16875018|des moines, iowa|15461548|San Antonio|1|2
+15353320|cedar falls, iowa|0|Error|6|2
+15353320|cedar falls, iowa|425302713|Fort Wayne, IN|3|2
+15353320|cedar falls, iowa|3324771|Cedar Falls, IA|2|2
+15353320|cedar falls, iowa|9970182|Kansas City, KS|2|2
+15353320|cedar falls, iowa|23785741|Cedar Falls, IA|2|2
+15353320|cedar falls, iowa|4087196957|Error|2|2
+15353320|cedar falls, iowa|17026683|Des Moines, Iowa|1|2
+15353320|cedar falls, iowa|85508391|Naperville, IL|1|2
+15353320|cedar falls, iowa|561341491|Error|1|2
+15353320|cedar falls, iowa|229105705|Error|1|2
+15353320|cedar falls, iowa|14685475|Cedar Falls, Iowa|1|2
+15353320|cedar falls, iowa|14864750|Perry, IA|1|2
+15353320|cedar falls, iowa|0|Error|1|2
+15353320|cedar falls, iowa|783214|San Francisco, CA|1|2
+15353320|cedar falls, iowa|17021029|Bellingham, WA|1|2
+15353320|cedar falls, iowa|19832687|Omaha|1|2
+15353320|cedar falls, iowa|625605876|Error|1|2
+15353320|cedar falls, iowa|0|Error|1|2
+15353320|cedar falls, iowa|79869825|Error|1|2
+15353320|cedar falls, iowa|0|Error|1|2
+27363735|iowa city, iowa|12439182|Des Moines, IA|10|2
+27363735|iowa city, iowa|0|Error|6|2
+27363735|iowa city, iowa|0|Error|4|2
+27363735|iowa city, iowa|0|Error|3|2
+27363735|iowa city, iowa|0|Error|2|2
+27363735|iowa city, iowa|0|Error|2|2
+27363735|iowa city, iowa|0|Error|2|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|21710331|Des Moines, Iowa|1|2
+27363735|iowa city, iowa|0|Error|1|2
+27363735|iowa city, iowa|0|Error|1|2
+22776465|grinnell, iowa|28508043|Chicago/Grinnell|4|2
+22776465|grinnell, iowa|72644227|On Tour|4|2
+22776465|grinnell, iowa|14123032|Willow Grove, PA|3|2
+22776465|grinnell, iowa|3641326157|Error|3|2
+22776465|grinnell, iowa|17815348|Minneapolis, MN|2|2
+22776465|grinnell, iowa|23404208|Los Angeles, CA|1|2
+22776465|grinnell, iowa|20734773|Hot Springs, Arkansas|1|2
+22776465|grinnell, iowa|29536019|Grinnell, Iowa|1|2
+22776465|grinnell, iowa|55413276|Toledo, OH|1|2
+22776465|grinnell, iowa|15829496|London|1|2
+22776465|grinnell, iowa|0|Error|1|2
+22776465|grinnell, iowa|15276289|Error|1|2
+22776465|grinnell, iowa|37663029|Error|1|2
+22776465|grinnell, iowa|23125412|Just left of Egalitarian|1|2
+19499856|cedar falls, iowa|14902979|Missoula, MT|8|2
+19499856|cedar falls, iowa|25761511|iowa|7|2
+19499856|cedar falls, iowa|27772554|Madison, WI|6|2
+19499856|cedar falls, iowa|14279618|missoula, mt|4|2
+19499856|cedar falls, iowa|19096087|Colorado|4|2
+19499856|cedar falls, iowa|342231527|Error|4|2
+19499856|cedar falls, iowa|18001598|Terra Nova|3|2
+19499856|cedar falls, iowa|36865350|Mizzur|3|2
+19499856|cedar falls, iowa|18497406|Minneapolis, Minnesota|3|2
+19499856|cedar falls, iowa|14347575|Seattle|2|2
+19499856|cedar falls, iowa|14642683|Missoula, MT|2|2
+19499856|cedar falls, iowa|16662478|Montreal|2|2
+19499856|cedar falls, iowa|15234057|Philadelphia |2|2
+19499856|cedar falls, iowa|1961334594|Error|2|2
+19499856|cedar falls, iowa|5415412|Cedar Falls, Iowa|2|2
+19499856|cedar falls, iowa|16206101|Los Angeles, CA|2|2
+19499856|cedar falls, iowa|0|Error|2|2
+19499856|cedar falls, iowa|32317913|Ontario, Canada|2|2
+19499856|cedar falls, iowa|0|Error|1|2
+19499856|cedar falls, iowa|225900194|Error|1|2
+19499856|cedar falls, iowa|0|Error|1|2
+19499856|cedar falls, iowa|42112641|Nerdfighteria|1|2
+19499856|cedar falls, iowa|0|Error|1|2
+19499856|cedar falls, iowa|8946022|Seattle|1|2
+19499856|cedar falls, iowa|0|Error|1|2
+19499856|cedar falls, iowa|14429823|Long Beach|1|2
+19499856|cedar falls, iowa|878938302|Error|1|2
+19499856|cedar falls, iowa|16148004|hell|1|2
+19499856|cedar falls, iowa|0|Error|1|2
+19499856|cedar falls, iowa|14118087|behind you|1|2
+19499856|cedar falls, iowa|11009852|San Francisco/Silicon Valley|1|2
+19499856|cedar falls, iowa|0|Error|1|2
+19499856|cedar falls, iowa|15175368|Scranton, PA|1|2
+19499856|cedar falls, iowa|0|Error|1|2
+19499856|cedar falls, iowa|61592079|Error|1|2
+19499856|cedar falls, iowa|14839457|the butt palace|1|2
+19499856|cedar falls, iowa|18517064|Sioux Falls, SD|1|2
+19499856|cedar falls, iowa|61129451|37.3317, -122.0307|1|2
+19499856|cedar falls, iowa|23834518|Davenport, IA|1|2
+19499856|cedar falls, iowa|0|Error|1|2
+19499856|cedar falls, iowa|0|Error|1|2
+19499856|cedar falls, iowa|14296230|Seattle|1|2
+19499856|cedar falls, iowa|15387013|Portland, Oregon|1|2
+19499856|cedar falls, iowa|61070297|Error|1|2
+30157614|des moines, iowa|16632315|San Diego, CA|1|2
+30157614|des moines, iowa|36078803|Des Moines |1|2
+30157614|des moines, iowa|1216232114|Error|1|2
+30157614|des moines, iowa|27822863|San Francisco Bay Area|1|2
+30157614|des moines, iowa|17300604|112 SE 4th, Des Moines, IA|1|2
+30157614|des moines, iowa|35071160|Des Moines, Iowa|1|2
+30157614|des moines, iowa|35732198|Sydney, Australia|1|2
+30157614|des moines, iowa|36909587|Jordan|1|2
+30157614|des moines, iowa|0|Error|1|2
+55030436|fairfield, iowa|25479598|the post-future |3|2
+55030436|fairfield, iowa|1937438472|Error|2|2
+55030436|fairfield, iowa|208594835|19. indy|2|2
+55030436|fairfield, iowa|53786651|Error|1|2
+55030436|fairfield, iowa|75859788|Error|1|2
+55030436|fairfield, iowa|0|Error|1|2
+55030436|fairfield, iowa|0|Error|1|2
+55030436|fairfield, iowa|0|Error|1|2
+55030436|fairfield, iowa|0|Error|1|2
+55030436|fairfield, iowa|0|Error|1|2
+55030436|fairfield, iowa|0|Error|1|2
+55030436|fairfield, iowa|3412537779|Error|1|2
+55030436|fairfield, iowa|37784273|Error|1|2
+55030436|fairfield, iowa|0|Error|1|2
+55030436|fairfield, iowa|2214461519|Error|1|2
+55030436|fairfield, iowa|76971086|Chigago, IL|1|2
+55030436|fairfield, iowa|0|Error|1|2
+55030436|fairfield, iowa|21001072|Amarillo, TEXAS|1|2
+55030436|fairfield, iowa|55030436|Fairfield, Iowa|1|2
+55030436|fairfield, iowa|26610500|Error|1|2
+55030436|fairfield, iowa|0|Error|1|2
+75477914|des moines, iowa|41184112|Where the winds take me|2|2
+75477914|des moines, iowa|108235852|Seoul, Korea|2|2
+75477914|des moines, iowa|83689509|All over the place!|2|2
+75477914|des moines, iowa|0|Error|1|2
+75477914|des moines, iowa|22044273|Washington D.C.|1|2
+75477914|des moines, iowa|2352960861|Funchal|1|2
+75477914|des moines, iowa|45957031|Santa Ana, CA|1|2
+75477914|des moines, iowa|29563251|Utah, USA|1|2
+75477914|des moines, iowa|17143720|Minnesota|1|2
+75477914|des moines, iowa|35995231|Texas City, TX|1|2
+75477914|des moines, iowa|20389200|Oregon, USA|1|2
+75477914|des moines, iowa|15403832|Cambridge, Minnesota, USA|1|2
+75477914|des moines, iowa|0|Error|1|2
+75477914|des moines, iowa|0|Error|1|2
+75477914|des moines, iowa|254294842|Error|1|2
+75477914|des moines, iowa|0|Error|1|2
+12041752|davenport, iowa|5577902|I live in the State of Grace|2|2
+12041752|davenport, iowa|9780812|Louisville, KY|2|2
+12041752|davenport, iowa|83690435|Error|1|2
+12041752|davenport, iowa|467849575|Error|1|2
+12041752|davenport, iowa|0|Error|1|2
+12041752|davenport, iowa|0|Error|1|2
+12041752|davenport, iowa|0|Error|1|2
+12041752|davenport, iowa|5146511|San Diego, CA|1|2
+12041752|davenport, iowa|0|Error|1|2
+12041752|davenport, iowa|3895571608|Error|1|2
+12041752|davenport, iowa|82703788|Davenport, IA|1|2
+12041752|davenport, iowa|28028282|Error|1|2
+12041752|davenport, iowa|54430890|Baltimore, MD|1|2
+12041752|davenport, iowa|0|Error|1|2
+12041752|davenport, iowa|0|Error|1|2
+12041752|davenport, iowa|24847295|Brisbane, Australia|1|2
+12041752|davenport, iowa|15400946|Iowa City, Iowa|1|2
+12041752|davenport, iowa|16102555|Santa Monica & New York|1|2
+12041752|davenport, iowa|16379191|Error|1|2
+33145401|des moines, iowa|0|Error|6|2
+33145401|des moines, iowa|33145401|Des Moines, Iowa|2|2
+33145401|des moines, iowa|8637672|On The Road|2|2
+33145401|des moines, iowa|14721260|Silicon Valley, CA|2|2
+33145401|des moines, iowa|0|Error|2|2
+33145401|des moines, iowa|15710826|Hermon, ME|2|2
+33145401|des moines, iowa|0|Error|2|2
+33145401|des moines, iowa|1918801|ATL | NY|1|2
+33145401|des moines, iowa|8878752|Des Moines, IA|1|2
+33145401|des moines, iowa|0|Error|1|2
+33145401|des moines, iowa|1450288753|Ames|1|2
+33145401|des moines, iowa|0|Error|1|2
+33145401|des moines, iowa|0|Error|1|2
+33145401|des moines, iowa|19167627|Charlotte, NC|1|2
+33145401|des moines, iowa|15443059|Fayetteville, Arkansas, USA|1|2
+33145401|des moines, iowa|0|Error|1|2
+33145401|des moines, iowa|19078112|Charlotte, NC|1|2
+33145401|des moines, iowa|3267891|Des Moines, Iowa|1|2
+33145401|des moines, iowa|0|Error|1|2
+33145401|des moines, iowa|34611577|Fort Dodge, Iowa|1|2
+33145401|des moines, iowa|0|Error|1|2
+33145401|des moines, iowa|0|Error|1|2
+33145401|des moines, iowa|0|Error|1|2
+33145401|des moines, iowa|161727461|Error|1|2
+33145401|des moines, iowa|33395969|Carmel, Indiana 46032|1|2
+33145401|des moines, iowa|15397660|Hayward, CA|1|2
+33145401|des moines, iowa|12114272|Toronto, Ontario|1|2
+33145401|des moines, iowa|0|Error|1|2
+33145401|des moines, iowa|20547516|Charlotte, NC|1|2
+33145401|des moines, iowa|2313940016|Error|1|2
+33145401|des moines, iowa|11889382|Charlotte, NC|1|2
+44976939|fairfield, iowa|1360658581|Seattle, Wa|6|2
+44976939|fairfield, iowa|29369271|Fairfield, Iowa|1|2
+44976939|fairfield, iowa|0|Error|1|2
+44976939|fairfield, iowa|23915100|El Dorado Hills, California|1|2
+44976939|fairfield, iowa|109903961|Error|1|2
+44976939|fairfield, iowa|30795207|Argyle, Texas|1|2
+44976939|fairfield, iowa|0|Error|1|2
+44976939|fairfield, iowa|16956020|Montreal, Quebec, Canada|1|2
+44976939|fairfield, iowa|31348404|Munich|1|2
+44976939|fairfield, iowa|0|Error|1|2
+44976939|fairfield, iowa|42824976|Jakarta,indonesia|1|2
+44976939|fairfield, iowa|29190694|Error|1|2
+44976939|fairfield, iowa|41655800|Hollywood|1|2
+44976939|fairfield, iowa|19041328|Mpls, MN|1|2
+44976939|fairfield, iowa|19211603|Utah|1|2
+44976939|fairfield, iowa|61997351|Error|1|2
+44976939|fairfield, iowa|16175706|St Petersburg, Florida |1|2
+44976939|fairfield, iowa|22234257|Dallas Texas|1|2
+44976939|fairfield, iowa|0|Error|1|2
+44976939|fairfield, iowa|29018768|NC, USA|1|2
+44976939|fairfield, iowa|0|Error|1|2
+44976939|fairfield, iowa|0|Error|1|2
+44976939|fairfield, iowa|60780338|Houston|1|2
+44976939|fairfield, iowa|541076044|montreal|1|2
+44976939|fairfield, iowa|51678407|Austin, Texas|1|2
+62322219|des moines, iowa|41651800|Error|1|2
+62322219|des moines, iowa|125128420|Green Bay, WI|1|2
+32492505|des moines, iowa|7956482|Minneapolis, MN|3|2
+32492505|des moines, iowa|15755923|New York City|2|2
+32492505|des moines, iowa|25422171|North of Boston!|2|2
+32492505|des moines, iowa|0|Error|1|2
+32492505|des moines, iowa|94024770|Toronto, Canada|1|2
+32492505|des moines, iowa|14344022|New York, NY|1|2
+32492505|des moines, iowa|20351595|Pure Michigan|1|2
+32492505|des moines, iowa|13259912|Portland, OR|1|2
+32492505|des moines, iowa|130082608|Error|1|2
+32492505|des moines, iowa|67028004|Global|1|2
+32492505|des moines, iowa|0|Error|1|2
+23973718|davenport, iowa|3218470648|New York, NY|4|2
+23973718|davenport, iowa|14926485|Denver, Colorado, USA|2|2
+23973718|davenport, iowa|16062828|Raleigh, NC, USA|1|2
+23973718|davenport, iowa|16364524|Boynton Beach, FL|1|2
+23973718|davenport, iowa|9335042|Boulder, CO|1|2
+23973718|davenport, iowa|2929075406|Error|1|2
+23973718|davenport, iowa|23816906|Davenport, Iowa|1|2
+23973718|davenport, iowa|9676642|San Diego, Spain France Italy|1|2
+18075561|des moines, iowa|590189324|Error|3|2
+18075561|des moines, iowa|14761630|San Diego, CA|3|2
+18075561|des moines, iowa|18227844|Hawkeye State|2|2
+18075561|des moines, iowa|12501272|Error|1|2
+18075561|des moines, iowa|15515919|Philadelphia|1|2
+18075561|des moines, iowa|0|Error|1|2
+18075561|des moines, iowa|0|Error|1|2
+18075561|des moines, iowa|0|Error|1|2
+18075561|des moines, iowa|22039411|Des Moines, Iowa, USA|1|2
+18075561|des moines, iowa|0|Error|1|2
+18075561|des moines, iowa|14837124|Des Moines|1|2
+59613971|des moines, iowa|14075395|iPhone: 41.616253,-93.979774|3|2
+59613971|des moines, iowa|25317426|Error|3|2
+59613971|des moines, iowa|75163063|Des Moines, Iowa|2|2
+59613971|des moines, iowa|53193754|Riverside, CA|2|2
+59613971|des moines, iowa|13227822|West Des Moines, Iowa|2|2
+59613971|des moines, iowa|16348176|Downtown Des Moines, IA|1|2
+59613971|des moines, iowa|42638627|Ames, Iowa|1|2
+59613971|des moines, iowa|38279027|Ames, Iowa|1|2
+4132841|ames, iowa|4132841|Ames, Iowa|3|2
+4132841|ames, iowa|2902901|Camilla, Georgia |3|2
+4132841|ames, iowa|730654938|Error|2|2
+4132841|ames, iowa|0|Error|1|2
+4132841|ames, iowa|5478812|Error|1|2
+4132841|ames, iowa|0|Error|1|2
+4132841|ames, iowa|0|Error|1|2
+4132841|ames, iowa|12363792|#VCU #RVA|1|2
+4132841|ames, iowa|15185380|Missouri, USA|1|2
+4132841|ames, iowa|0|Error|1|2
+4132841|ames, iowa|157527411|Melbourne, Victoria|1|2
+4132841|ames, iowa|759251|Error|1|2
+4132841|ames, iowa|19381661|Minneapolis MN|1|2
+4132841|ames, iowa|1349941|Flemington, New Jersey|1|2
+4132841|ames, iowa|0|Error|1|2
+17165517|ames, iowa|11883132|San Francisco|2|2
+17165517|ames, iowa|19058681|Los Angeles, California|1|2
+17165517|ames, iowa|70788197|Everywhere!|1|2
+17165517|ames, iowa|18326458|Tucson, AZ|1|2
+17165517|ames, iowa|15767403|Tucson, AZ|1|2
+17165517|ames, iowa|11522502|Everywhere|1|2
+17165517|ames, iowa|19990809|Trenton, Ga|1|2
+17165517|ames, iowa|15870133|Midwest, USA|1|2
+17165517|ames, iowa|0|Error|1|2
+17165517|ames, iowa|20222408|bursa|1|2
+17165517|ames, iowa|0|Error|1|2
+17165517|ames, iowa|0|Error|1|2
+17165517|ames, iowa|0|Error|1|2
+17165517|ames, iowa|20057594|41.692486,-88.081062|1|2
+17165517|ames, iowa|0|Error|1|2
+17165517|ames, iowa|0|Error|1|2
+17165517|ames, iowa|18520704|Utah|1|2
+17165517|ames, iowa|0|Error|1|2
+17165517|ames, iowa|278255226|Error|1|2
+17165517|ames, iowa|0|Error|1|2
+43904730|cedar rapids, iowa|38370559|IA - United States of America|2|2
+43904730|cedar rapids, iowa|0|Error|2|2
+43904730|cedar rapids, iowa|21778272|Error|1|2
+43904730|cedar rapids, iowa|20078009|Pennsylvania|1|2
+43904730|cedar rapids, iowa|18622869|DC|1|2
+43904730|cedar rapids, iowa|191507040|Error|1|2
+43904730|cedar rapids, iowa|0|Error|1|2
+43904730|cedar rapids, iowa|358549401|Error|1|2
+43904730|cedar rapids, iowa|2425151|Menlo Park, California|1|2
+43904730|cedar rapids, iowa|0|Error|1|2
+43904730|cedar rapids, iowa|45961385|Error|1|2
+43904730|cedar rapids, iowa|369273302|Iowa|1|2
+43904730|cedar rapids, iowa|16916895|Iowa|1|2
+43904730|cedar rapids, iowa|14849086|Cedar Rapids, Iowa|1|2
+28748190|des moines, iowa|12255632|Des Moines, IA|3|2
+67114337|des moines, iowa|0|Error|3|2
+67114337|des moines, iowa|14421674|iPhone: 41.584437,-93.662387|2|2
+67114337|des moines, iowa|0|Error|1|2
+67114337|des moines, iowa|339386613|Australia|1|2
+67114337|des moines, iowa|0|Error|1|2
+67114337|des moines, iowa|534852480|Portland|1|2
+25176693|iowa city, iowa|14664825|Cedar Rapids, IA, USA, Earth|3|2
+25176693|iowa city, iowa|15747109|Iowa City-Cedar Rapids-The Fax|3|2
+25176693|iowa city, iowa|19524856|Error|1|2
+6313612|ankeny, iowa|14335967|Ohio|4|2
+6313612|ankeny, iowa|14924307|Iowa|4|2
+6313612|ankeny, iowa|14692379|Ankeny, Iowa|3|2
+6313612|ankeny, iowa|20440461|Ankeny, Iowa|2|2
+6313612|ankeny, iowa|3829151|Petaluma, CA USA|1|2
+6313612|ankeny, iowa|21937155|Jacksonville, FL|1|2
+6313612|ankeny, iowa|3773401|Des Moines, Iowa|1|2
+6313612|ankeny, iowa|15264515|Error|1|2
+6313612|ankeny, iowa|14443217|Error|1|2
+6313612|ankeny, iowa|972651|Error|1|2
+6313612|ankeny, iowa|14589578|Kirkland, WA|1|2
+6313612|ankeny, iowa|0|Error|1|2
+6313612|ankeny, iowa|14692287|Des Moines, Iowa|1|2
+16800797|urbandale, iowa|15321096|Reno, NV|2|2
+16800797|urbandale, iowa|14985228|Chicago|1|2
+16800797|urbandale, iowa|27050004| Salt Lake City, UT|1|2
+14685475|cedar falls, iowa|17021029|Bellingham, WA|3|2
+14685475|cedar falls, iowa|17026683|Des Moines, Iowa|1|2
+14685475|cedar falls, iowa|10883722|New Hampshire|1|2
+14685475|cedar falls, iowa|0|Error|1|2
+14685475|cedar falls, iowa|49804129|Hamilton, New Zealand|1|2
+14685475|cedar falls, iowa|0|Error|1|2
+14685475|cedar falls, iowa|17307627|Heemstede, Netherlands|1|2
+14685475|cedar falls, iowa|0|Error|1|2
+14685475|cedar falls, iowa|0|Error|1|2
+14685475|cedar falls, iowa|14685475|Cedar Falls, Iowa|1|2
+14685475|cedar falls, iowa|15241255|Kansas City, MO|1|2
+7373072|boone, iowa|0|Error|4|2
+7373072|boone, iowa|41887707|Error|3|2
+7373072|boone, iowa|6757522|Iowa|1|2
+7373072|boone, iowa|20381086|Fayetteville, AR|1|2
+7387082|waterloo, iowa|0|Error|2|2
+7387082|waterloo, iowa|0|Error|2|2
+7387082|waterloo, iowa|101848581|Error|1|2
+7387082|waterloo, iowa|31031615|Error|1|2
+7387082|waterloo, iowa|14964767|Dedham, MA|1|2
+7387082|waterloo, iowa|41699998|Error|1|2
+7387082|waterloo, iowa|0|Error|1|2
+7387082|waterloo, iowa|41783|Portland|1|2
+52833|cedar rapids, iowa|14737736|Iowa|4|2
+52833|cedar rapids, iowa|6219712|Des Moines, IA|2|2
+52833|cedar rapids, iowa|0|Error|2|2
+52833|cedar rapids, iowa|49145376|Cedar Rapids, Iowa|1|2
+52833|cedar rapids, iowa|14453908|Kansas City|1|2
+18943730|cedar rapids, iowa|19154824|Florida, USA|1|2
+18943730|cedar rapids, iowa|46453523|Dover, IL|1|2
+18943730|cedar rapids, iowa|16016804|Naperville and the world|1|2
+18943730|cedar rapids, iowa|14925486|North Liberty, IA|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|0|Error|1|2
+15799941|cedar rapids, iowa|56881003|Error|1|2
+15799941|cedar rapids, iowa|199929606|Error|1|2
+15799941|cedar rapids, iowa|36771902|Studio City, Ca|1|2
+15799941|cedar rapids, iowa|29906739|Barbie World! Los Angeles|1|2
+12663042|sioux city, iowa|36758385|Sioux City, IA|1|2
+22108838|ames, iowa|0|Error|1|2
+22108838|ames, iowa|28184986|Error|1|2
+875941|des moines, iowa|17997511|San Diego|3|2
+875941|des moines, iowa|9096972|Round Rock, Texas|2|2
+875941|des moines, iowa|17145377|Windsor Heights, Iowa|2|2
+875941|des moines, iowa|22739318|Chicago|1|2
+875941|des moines, iowa|15866929|Columbus, OH|1|2
+875941|des moines, iowa|40321334|West Des Moines Iowa|1|2
+875941|des moines, iowa|13918302|De Pere, WI|1|2
+875941|des moines, iowa|14780680|Des Moines, IA|1|2
+875941|des moines, iowa|14270283|Des Moines, IA|1|2
+875941|des moines, iowa|15600217|Sacramento, California|1|2
+19768056|des moines, iowa|28110629|Columbia, SC|3|2
+19768056|des moines, iowa|19956026| Everywhere|3|2
+19768056|des moines, iowa|24007179|cali|2|2
+19768056|des moines, iowa|17196684|Atlanta, GA|2|2
+19768056|des moines, iowa|0|Error|2|2
+19768056|des moines, iowa|314148472|Error|2|2
+19768056|des moines, iowa|16229978|Error|1|2
+19768056|des moines, iowa|19580929|San Francisco Bay Area|1|2
+19768056|des moines, iowa|35197313|Cookeville, TN|1|2
+19768056|des moines, iowa|19808901|Los Angeles|1|2
+19768056|des moines, iowa|47323023|Error|1|2
+19768056|des moines, iowa|0|Error|1|2
+19768056|des moines, iowa|0|Error|1|2
+3267891|des moines, iowa|15187542|Des Moines, Earth|2|2
+3267891|des moines, iowa|15256469|Des Moines - SFO |2|2
+3267891|des moines, iowa|15395061|Des Moines, IA|1|2
+3267891|des moines, iowa|16916441|Dallas/Fort Worth, TX|1|2
+3267891|des moines, iowa|2643941|Los Angeles|1|2
+3267891|des moines, iowa|14110945|Indianola, Iowa|1|2
+3267891|des moines, iowa|0|Error|1|2
+3267891|des moines, iowa|19390940|Iowa|1|2
+3267891|des moines, iowa|0|Error|1|2
+3267891|des moines, iowa|7461252|yen town city|1|2
+3267891|des moines, iowa|12166752|Minneapolis, MN|1|2
+3267891|des moines, iowa|14270283|Des Moines, IA|1|2
+3267891|des moines, iowa|11489|San Francisco, CA |1|2
+3267891|des moines, iowa|14913203|Indianola, IA|1|2
+3267891|des moines, iowa|16668285|Minneapolis Minnesota|1|2
+22148486|waukee, iowa|3267891|Des Moines, Iowa|3|2
+22148486|waukee, iowa|9354752|New York, NY|1|2
+22916264|des moines, iowa|16992596|Error|4|2
+22916264|des moines, iowa|18749641|Error|4|2
+22916264|des moines, iowa|0|Error|3|2
+22916264|des moines, iowa|0|Error|3|2
+22916264|des moines, iowa|25650054|North Hollywood CA|3|2
+22916264|des moines, iowa|30110871|Passed out in Orlando, FL|2|2
+22916264|des moines, iowa|16879416|Error|2|2
+22916264|des moines, iowa|18966441|EARTH AT THE MOMENT|2|2
+22916264|des moines, iowa|19746834|Orlando FL (Ozone)|2|2
+22916264|des moines, iowa|18616620|Ozone |2|2
+22916264|des moines, iowa|23625052|Oz... Ducking flying monkey's!|2|2
+22916264|des moines, iowa|16990114|Liverpool|2|2
+22916264|des moines, iowa|0|Error|2|2
+22916264|des moines, iowa|279581515|Error|2|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|3257226236|Error|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|62370345|Inland Empire|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|114487305|Error|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|324643401|Error|1|2
+22916264|des moines, iowa|138057651|Baku, Azerbaijan|1|2
+22916264|des moines, iowa|38060490|Error|1|2
+22916264|des moines, iowa|0|Error|1|2
+22916264|des moines, iowa|289228671|Error|1|2
+22916264|des moines, iowa|0|Error|1|2
+60954361|knoxville, iowa|40756537|Error|2|2
+60954361|knoxville, iowa|21046818|Miami|1|2
+60954361|knoxville, iowa|15169828|Huntersville, NC|1|2
+60954361|knoxville, iowa|34516973|USA|1|2
+29497818|burlington, iowa|15907720|DC & NYC|7|2
+29497818|burlington, iowa|0|Error|1|2
+29497818|burlington, iowa|0|Error|1|2
+29497818|burlington, iowa|19031717|Ottumwa, Iowa|1|2
+29497818|burlington, iowa|0|Error|1|2
+29497818|burlington, iowa|19213332|New York|1|2
+29497818|burlington, iowa|16176135|Brooklyn, NY|1|2
+29497818|burlington, iowa|2201888738|Error|1|2
+29497818|burlington, iowa|19911224|Iowa|1|2
+29497818|burlington, iowa|18220272|Kansas|1|2
+29497818|burlington, iowa|3386439610|Error|1|2
+29497818|burlington, iowa|208659841|LA|1|2
+29497818|burlington, iowa|15669939|Iowa|1|2
+38938072|cedar rapids, iowa|136480465|Error|1|2
+38938072|cedar rapids, iowa|237609785|Error|1|2
+38938072|cedar rapids, iowa|64349420|Iowa|1|2
+38938072|cedar rapids, iowa|0|Error|1|2
+68300349|waterloo, iowa|0|Error|12|2
+68300349|waterloo, iowa|35874969|Los Angeles, CA|4|2
+68300349|waterloo, iowa|54682125|BillCosby.com/Concerts|3|2
+16928543|cedar rapids, iowa|18595985|Iowa|5|2
+16928543|cedar rapids, iowa|18130749|Los Angeles|2|2
+16928543|cedar rapids, iowa|18559033|Upland,CA|1|2
+16928543|cedar rapids, iowa|261577908|Error|1|2
+16928543|cedar rapids, iowa|134946345|Error|1|2
+16928543|cedar rapids, iowa|556676393|Error|1|2
+16928543|cedar rapids, iowa|0|Error|1|2
+16928543|cedar rapids, iowa|0|Error|1|2
+39665552|davenport, iowa|34050356|Warwick, Rhode Island|2|2
+39665552|davenport, iowa|22461427|Los Angeles|1|2
+39665552|davenport, iowa|43298203|Cameron, NC|1|2
+39665552|davenport, iowa|23545799|Here are my Piano Tunes =|1|2
+39665552|davenport, iowa|17454494|Error|1|2
+39665552|davenport, iowa|594091089|Error|1|2
+39665552|davenport, iowa|4062820637|New England/Australia|1|2
+39665552|davenport, iowa|24529777|Los Angeles, CA|1|2
+14849086|cedar rapids, iowa|398647674|england|2|2
+14849086|cedar rapids, iowa|0|Error|1|2
+14849086|cedar rapids, iowa|15866205|Iowa City, Iowa|1|2
+14849086|cedar rapids, iowa|0|Error|1|2
+69375949|sioux city, iowa|15163577|Omaha, Nebraska|1|2
+16951665|storm lake, iowa|2307776510|Error|7|2
+16951665|storm lake, iowa|14308618|Portland, OR|1|2
+16951665|storm lake, iowa|16721546|Roanoke Rapids, NC|1|2
+16951665|storm lake, iowa|18049840|Sarasota, FL |1|2
+16951665|storm lake, iowa|22743884|Error|1|2
+16951665|storm lake, iowa|24962849|Sioux City IA|1|2
+16951665|storm lake, iowa|0|Error|1|2
+16951665|storm lake, iowa|18326057|Grand Rapids, Michigan|1|2
+16951665|storm lake, iowa|16893652|Washington DC|1|2
+70810539|des moines, iowa|20090917|Whitehaven, Cumbria |5|2
+22223629|cedar rapids, iowa|26510338|ATX|4|2
+22223629|cedar rapids, iowa|0|Error|2|2
+22223629|cedar rapids, iowa|15462161|Bridgewater, MA|2|2
+22223629|cedar rapids, iowa|227050059|Error|2|2
+22223629|cedar rapids, iowa|7004532|SF Bay Area|2|2
+22223629|cedar rapids, iowa|16553826|iPhone: 33.955437,-118.396156|2|2
+22223629|cedar rapids, iowa|0|Error|1|2
+22223629|cedar rapids, iowa|21778272|Error|1|2
+22223629|cedar rapids, iowa|0|Error|1|2
+22223629|cedar rapids, iowa|456364163|MCR | 21 | #MUFC|1|2
+22223629|cedar rapids, iowa|0|Error|1|2
+22223629|cedar rapids, iowa|29825189|Error|1|2
+22223629|cedar rapids, iowa|25299070|Error|1|2
+22223629|cedar rapids, iowa|22745779|California|1|2
+22223629|cedar rapids, iowa|3289355358|Error|1|2
+22223629|cedar rapids, iowa|0|Error|1|2
+22223629|cedar rapids, iowa|398647674|england|1|2
+22223629|cedar rapids, iowa|11348282|Error|1|2
+18055134|cedar rapids, iowa|191507040|Error|2|2
+18055134|cedar rapids, iowa|14849086|Cedar Rapids, Iowa|2|2
+18055134|cedar rapids, iowa|18021318|New York, NY|1|2
+18055134|cedar rapids, iowa|0|Error|1|2
+18055134|cedar rapids, iowa|0|Error|1|2
+18055134|cedar rapids, iowa|16100000|Marion, Iowa|1|2
+18055134|cedar rapids, iowa|90500789|Error|1|2
+18055134|cedar rapids, iowa|14156567|NYC|1|2
+19111762|urbandale, iowa|19111762|US|1|2
+22933993|cedar falls, iowa|14102905|Los Angeles|1|2
+22933993|cedar falls, iowa|282863834|StP|1|2
+22933993|cedar falls, iowa|21506437|anywhere with cell service|1|2
+22933993|cedar falls, iowa|16449729|Harleysville, PA|1|2
+22933993|cedar falls, iowa|18103148|New York City|1|2
+22933993|cedar falls, iowa|16264006|jet lag city.|1|2
+22933993|cedar falls, iowa|17089021|Long Island, NY|1|2
+34846309|marion, iowa|39740382|Cedar Rapids, Iowa|1|2
+14940076|des moines, iowa|16668932|Des Moines, Iowa|2|2
+14940076|des moines, iowa|16174065|Des Moines, IA|2|2
+14940076|des moines, iowa|76382097|Des Moines, IA|2|2
+14940076|des moines, iowa|0|Error|2|2
+14940076|des moines, iowa|13657922|Des Moines, Iowa, USA|2|2
+14940076|des moines, iowa|16256253|Des Moines, Iowa|1|2
+14940076|des moines, iowa|29286621|Des Moines, Iowa|1|2
+14940076|des moines, iowa|0|Error|1|2
+14940076|des moines, iowa|540342125|Error|1|2
+14940076|des moines, iowa|45408398|Des Moines, Iowa|1|2
+14968258|cedar falls, iowa|0|Error|4|2
+14968258|cedar falls, iowa|14983438|Des Moines. IA. |2|2
+14968258|cedar falls, iowa|17024872|Los Angeles, CA|1|2
+14968258|cedar falls, iowa|0|Error|1|2
+14968258|cedar falls, iowa|15933987|it-leaked.com|1|2
+21271844|des moines, iowa|615519208|Error|2|2
+21271844|des moines, iowa|16534762|Englewood, Florida|1|2
+21271844|des moines, iowa|14709355|The Ranch|1|2
+21271844|des moines, iowa|14404642|iPhone: 41.334118,-94.013786|1|2
+20327578|des moines, iowa|14874772|Corpus Christi, Texas|4|2
+20327578|des moines, iowa|16474601|Cedar Rapids, U.S.|3|2
+20327578|des moines, iowa|19797083|Australia|1|2
+20327578|des moines, iowa|8566422|Phoenix, AZ|1|2
+20327578|des moines, iowa|19888859|Mooresville, NC|1|2
+20327578|des moines, iowa|0|Error|1|2
+20327578|des moines, iowa|19975425|UK my home; world my oyster|1|2
+20327578|des moines, iowa|14200904|Laguna Niguel, California|1|2
+20327578|des moines, iowa|0|Error|1|2
+20327578|des moines, iowa|20327578|Des Moines, Iowa|1|2
+20327578|des moines, iowa|0|Error|1|2
+20327578|des moines, iowa|12184042|London|1|2
+20327578|des moines, iowa|17401289|Sydney, Tonga, New Zealand|1|2
+20327578|des moines, iowa|28214784|Des Moines, IA|1|2
+20327578|des moines, iowa|21618344|Perth Australia|1|2
+20327578|des moines, iowa|16377828|San Francisco|1|2
+17120022|cedar rapids, iowa|15510903|Bellingham, WA. Cascadia|2|2
+17120022|cedar rapids, iowa|19186130|Coralville, Iowa|1|2
+17120022|cedar rapids, iowa|18513221|Utah|1|2
+17120022|cedar rapids, iowa|0|Error|1|2
+17120022|cedar rapids, iowa|16014000|Connecticut|1|2
+17120022|cedar rapids, iowa|0|Error|1|2
+17120022|cedar rapids, iowa|9707972|Iowa City, Iowa|1|2
+17120022|cedar rapids, iowa|0|Error|1|2
+17120022|cedar rapids, iowa|40885516|Tampa Bay|1|2
+17120022|cedar rapids, iowa|29484311|Longmont, Colorado|1|2
+17120022|cedar rapids, iowa|3021503208|Don't dream it, do it! |1|2
+17120022|cedar rapids, iowa|0|Error|1|2
+17120022|cedar rapids, iowa|0|Error|1|2
+17120022|cedar rapids, iowa|24321202|On the bike or on the mic!|1|2
+17120022|cedar rapids, iowa|13544042|Redwood City, CA|1|2
+17120022|cedar rapids, iowa|789658|Washington US|1|2
+16074785|des moines, iowa|20697516|Chicago, USA|1|2
+42305839|iowa city, iowa|19729863|Cedar Rapids, Iowa|1|2
+42305839|iowa city, iowa|60809481|Chicago|1|2
+42305839|iowa city, iowa|26770448|Des Moines, Iowa|1|2
+42305839|iowa city, iowa|53234301|Vernon Hills, Illinois|1|2
+42305839|iowa city, iowa|264036590|Error|1|2
+42305839|iowa city, iowa|0|Error|1|2
+42305839|iowa city, iowa|7337212|Iowa City, IA|1|2
+42305839|iowa city, iowa|68082733|BearDown, IL|1|2
+9801642|iowa city, iowa|15350768|37.622635,-122.416227|1|2
+9801642|iowa city, iowa|0|Error|1|2
+9801642|iowa city, iowa|15907720|DC & NYC|1|2
+9801642|iowa city, iowa|0|Error|1|2
+8803792|des moines, iowa|38370559|IA - United States of America|9|2
+8803792|des moines, iowa|17145377|Windsor Heights, Iowa|3|2
+8803792|des moines, iowa|15436430|Des Moines, IA|1|2
+8803792|des moines, iowa|0|Error|1|2
+8803792|des moines, iowa|15321096|Reno, NV|1|2
+11963292|ankeny, iowa|15233846|Canada|3|2
+11963292|ankeny, iowa|843941|Aurora, il|2|2
+11963292|ankeny, iowa|14378327|Aurora, IL|2|2
+11963292|ankeny, iowa|16232389|Naperville, IL |1|2
+11963292|ankeny, iowa|1512251|El Segundo, CA|1|2
+11963292|ankeny, iowa|16112541|Error|1|2
+11963292|ankeny, iowa|16466343|Baltimore, MD|1|2
+35374517|ames, iowa|0|Error|1|2
+35374517|ames, iowa|32305128|Chicago, IL|1|2
+28748190|des moines, iowa|2393547985|Error|3|2
+28748190|des moines, iowa|12255632|Des Moines, IA|1|2
+23527844|des moines, iowa|0|Error|2|2
+23527844|des moines, iowa|407278703|Error|2|2
+23527844|des moines, iowa|27681208|Des Moines, IA|1|2
+23527844|des moines, iowa|26595291|Washington, DC|1|2
+23527844|des moines, iowa|16422390|Montana|1|2
+25505137|marion, iowa|15747109|Iowa City-Cedar Rapids-The Fax|4|2
+25505137|marion, iowa|25176693|Error|2|2
+25505137|marion, iowa|15866205|Iowa City, Iowa|2|2
+25505137|marion, iowa|14664825|Cedar Rapids, IA, USA, Earth|1|2
+25505137|marion, iowa|17351190|Chicago, IL|1|2
+25505137|marion, iowa|19212622|Error|1|2
+25505137|marion, iowa|14780824|Rochester, MN|1|2
+51891247|des moines, iowa|67978376|Hollywood/Mooresville|2|2
+51891247|des moines, iowa|46585657|Wisconsin|2|2
+51891247|des moines, iowa|29199548|Daytona Beach, FL|1|2
+51891247|des moines, iowa|39095098|East Central Wisconsin, USA|1|2
+51891247|des moines, iowa|62546421|Error|1|2
+51891247|des moines, iowa|24449694|Error|1|2
+51891247|des moines, iowa|202479656|race track |1|2
+51891247|des moines, iowa|0|Error|1|2
+51928669|cedar rapids, iowa|35146193|Error|4|2
+51928669|cedar rapids, iowa|0|Error|1|2
+51928669|cedar rapids, iowa|286288864|Error|1|2
+51928669|cedar rapids, iowa|18220175|EVERYWHERE!!!|1|2
+51928669|cedar rapids, iowa|0|Error|1|2
+51928669|cedar rapids, iowa|23832022|Worldwide |1|2
+36220424|grinnell, iowa|42397436|Error|6|2
+36220424|grinnell, iowa|74150766|Error|2|2
+36220424|grinnell, iowa|31343744|Schenectady, NY USA|1|2
+26789775|cedar rapids, iowa|82131089|Copenhagen/Denmark|2|2
+26789775|cedar rapids, iowa|0|Error|2|2
+26789775|cedar rapids, iowa|0|Error|1|2
+26789775|cedar rapids, iowa|0|Error|1|2
+14608882|anamosa, iowa|0|Error|1|2
+14608882|anamosa, iowa|0|Error|1|2
+14608882|anamosa, iowa|0|Error|1|2
+19499856|cedar falls, iowa|0|Error|6|2
+19499856|cedar falls, iowa|0|Error|6|2
+19499856|cedar falls, iowa|0|Error|2|2
+19499856|cedar falls, iowa|0|Error|1|2
+19499856|cedar falls, iowa|23834518|Davenport, IA|1|2
+19499856|cedar falls, iowa|14608899|Seattle, WA|1|2
+19499856|cedar falls, iowa|25926469|Los Angeles, CA|1|2
+19499856|cedar falls, iowa|18487546|Lakewood, Washington|1|2
+19499856|cedar falls, iowa|0|Error|1|2
+19499856|cedar falls, iowa|16924670|Santa Monica, CA|1|2
+19499856|cedar falls, iowa|27772554|Madison, WI|1|2
+19499856|cedar falls, iowa|15079003|Outer Space|1|2
+19499856|cedar falls, iowa|50603575|Here there, eveywhere|1|2
+14270283|des moines, iowa|0|Error|2|2
+14270283|des moines, iowa|18567527|Des Moines, IA|2|2
+14270283|des moines, iowa|16099886|212 4th Street, Des Moines|2|2
+14270283|des moines, iowa|95455135|Error|2|2
+14270283|des moines, iowa|3267891|Des Moines, Iowa|1|2
+14270283|des moines, iowa|13271902|Des Moines|1|2
+14270283|des moines, iowa|575120736|Error|1|2
+14270283|des moines, iowa|17662844|Milwaukee, WI / on the road|1|2
+14270283|des moines, iowa|50697708|Error|1|2
+14270283|des moines, iowa|17504036|Des Moines, Iowa|1|2
+14270283|des moines, iowa|7694522|St. Paul, MN|1|2
+14270283|des moines, iowa|0|Error|1|2
+14270283|des moines, iowa|14619979|Los Angeles, CA|1|2
+14270283|des moines, iowa|13159532|Des Moines|1|2
+14270283|des moines, iowa|0|Error|1|2
+14270283|des moines, iowa|15435153|Des Moines, IA|1|2
+14270283|des moines, iowa|126002543|Indianola, IA|1|2
+14270283|des moines, iowa|19918957|Brooklyn, NY|1|2
+14270283|des moines, iowa|18785536|Des Moines, IOWA!!|1|2
+20572688|des moines, iowa|397387869|Bataan|2|2
+20572688|des moines, iowa|23767445|Des Moines|2|2
+20572688|des moines, iowa|0|Error|1|2
+65666230|cedar rapids, iowa|0|Error|5|2
+65666230|cedar rapids, iowa|16720651|Southlake, TX|2|2
+65666230|cedar rapids, iowa|14226680|Washington, DC|1|2
+65666230|cedar rapids, iowa|15792031|Kansas City, MO|1|2
+65666230|cedar rapids, iowa|997415454|Error|1|2
+65666230|cedar rapids, iowa|41515735|Orlando, FL|1|2
+21629928|des moines, iowa|0|Error|2|2
+21629928|des moines, iowa|18753868|Ithaca|1|2
+21629928|des moines, iowa|0|Error|1|2
+21629928|des moines, iowa|19028980|NJ|1|2
+21629928|des moines, iowa|22007499|Error|1|2
+15356954|des moines, iowa|8820652|San Diego, California |1|2
+15356954|des moines, iowa|19299155|Des Moines, IA |1|2
+15356954|des moines, iowa|98572916|Error|1|2
+15356954|des moines, iowa|0|Error|1|2
+15356954|des moines, iowa|21686388|Error|1|2
+15356954|des moines, iowa|18128729|Norfolk, VA|1|2
+15356954|des moines, iowa|15372900|Error|1|2
+75136610|des moines, iowa|8729502|Error|1|2
+75136610|des moines, iowa|0|Error|1|2
+75136610|des moines, iowa|709894490|Error|1|2
+15400946|iowa city, iowa|595597101|Error|1|2
+15400946|iowa city, iowa|1413801|Edmond|1|2
+15400946|iowa city, iowa|19777675|New Orleans, LA|1|2
+15400946|iowa city, iowa|0|Error|1|2
+15400946|iowa city, iowa|8131532|Washington, DC|1|2
+15400946|iowa city, iowa|17953541|dearborn, MI|1|2
+15400946|iowa city, iowa|14914938|Nashville, TN|1|2
+15400946|iowa city, iowa|1409471|USA|1|2
+18215735|ames, iowa|28123717|everywhere|2|2
+18215735|ames, iowa|263812431|Minneapolis, MN|2|2
+18215735|ames, iowa|23362015|Nashville, TN|1|2
+18215735|ames, iowa|31486078|US|1|2
+18215735|ames, iowa|15130891|Error|1|2
+18215735|ames, iowa|18794329|SF Bay Area|1|2
+18215735|ames, iowa|1322691|Error|1|2
+18215735|ames, iowa|60619428|Error|1|2
+18215735|ames, iowa|0|Error|1|2
+15434978|des moines, iowa|1862183678|Error|6|2
+15434978|des moines, iowa|14079361|Des Moines, Iowa|1|2
+15434978|des moines, iowa|17145377|Windsor Heights, Iowa|1|2
+15434978|des moines, iowa|25928904|West Des Moines, IA|1|2
+15434978|des moines, iowa|40663771|Error|1|2
+15434978|des moines, iowa|14780680|Des Moines, IA|1|2
+15434978|des moines, iowa|0|Error|1|2
+15441394|cedar rapids, iowa|14925486|North Liberty, IA|2|2
+15441394|cedar rapids, iowa|14837648|Cedar Rapids, IA|1|2
+15441394|cedar rapids, iowa|0|Error|1|2
+15441394|cedar rapids, iowa|197106129|Error|1|2
+15441394|cedar rapids, iowa|0|Error|1|2
+15441394|cedar rapids, iowa|12811952|Chicago|1|2
+15441394|cedar rapids, iowa|15817471|Baton Rouge, LA|1|2
+15441394|cedar rapids, iowa|13028322|Chicago|1|2
+15441394|cedar rapids, iowa|14355201|Cedar Rapids, IA|1|2
+15441394|cedar rapids, iowa|14397899|The Smith Compound|1|2
+15441394|cedar rapids, iowa|0|Error|1|2
+15441394|cedar rapids, iowa|31491686|Error|1|2
+15441394|cedar rapids, iowa|19908848|Error|1|2
+29086271|des moines, iowa|286336080|Error|1|2
+29086271|des moines, iowa|0|Error|1|2
+29086271|des moines, iowa|38429245|Oskaloosa, IA. |1|2
+29086271|des moines, iowa|20983140|Detroit, MI|1|2
+17558335|sioux city, iowa|0|Error|2|2
+17558335|sioux city, iowa|14789627|Sioux City, IA|1|2
+17558335|sioux city, iowa|17568791|Error|1|2
+17558335|sioux city, iowa|27651401|Waterloo, Iowa|1|2
+17558335|sioux city, iowa|44471158|Fort Worth, TX|1|2
+17558335|sioux city, iowa|1344951|San Francisco/New York|1|2
+17558335|sioux city, iowa|2151288834|Error|1|2
+17558335|sioux city, iowa|0|Error|1|2
+17558335|sioux city, iowa|15163577|Omaha, Nebraska|1|2
+17558335|sioux city, iowa|2884771|New York, NY|1|2
+29108129|marshalltown, iowa|40506595|Error|4|2
+29108129|marshalltown, iowa|25367082|Error|3|2
+29108129|marshalltown, iowa|2281573941|Error|3|2
+29108129|marshalltown, iowa|0|Error|2|2
+29108129|marshalltown, iowa|20755072|Error|2|2
+29108129|marshalltown, iowa|24579796|Everywhere USA|2|2
+29108129|marshalltown, iowa|207393859|Error|2|2
+29108129|marshalltown, iowa|2665511580|Error|1|2
+29108129|marshalltown, iowa|268414482|@happyhippiefdn|1|2
+29108129|marshalltown, iowa|0|Error|1|2
+29108129|marshalltown, iowa|0|Error|1|2
+29108129|marshalltown, iowa|412725099|Error|1|2
+29108129|marshalltown, iowa|17919972|Error|1|2
+29108129|marshalltown, iowa|454287398|Hotel California|1|2
+29108129|marshalltown, iowa|16845188|Los Angeles |1|2
+29108129|marshalltown, iowa|43447491|Marshalltown, Iowa|1|2
+29108129|marshalltown, iowa|75136722|CANADA|1|2
+29108129|marshalltown, iowa|1525999651|Error|1|2
+29108129|marshalltown, iowa|809282569|Error|1|2
+29108129|marshalltown, iowa|0|Error|1|2
+29108129|marshalltown, iowa|1438925442|Error|1|2
+29108129|marshalltown, iowa|861947724|Error|1|2
+29108129|marshalltown, iowa|247919072|Error|1|2
+29108129|marshalltown, iowa|38370559|IA - United States of America|1|2
+29108129|marshalltown, iowa|396305615|TDot|1|2
+29108129|marshalltown, iowa|21156271|Los Angeles, CA|1|2
+29108129|marshalltown, iowa|21111883|DALLAS/LA|1|2
+29108129|marshalltown, iowa|24843679|joannakrupa instagram|1|2
+29108129|marshalltown, iowa|9569972|Colorado|1|2
+15477993|urbandale, iowa|2484337543|On the grass, in the halls|4|2
+15477993|urbandale, iowa|49327508|Urb-dale|4|2
+15477993|urbandale, iowa|0|Error|1|2
+15477993|urbandale, iowa|58348469|San Jose, CA|1|2
+15477993|urbandale, iowa|17636179|In a glass cage of emotion|1|2
+36484147|sioux city, iowa|4278201|New York |1|2
+36484147|sioux city, iowa|0|Error|1|2
+36484147|sioux city, iowa|14247383|Error|1|2
+36484147|sioux city, iowa|0|Error|1|2
+17632046|des moines, iowa|2653965692|Error|2|2
+17632046|des moines, iowa|66781146|Cambridge, IA|1|2
+17632046|des moines, iowa|16246691|Des Moines, Iowa|1|2
+17632046|des moines, iowa|16807579|West Des Moines, IA|1|2
+17632046|des moines, iowa|15052887|Des Moines, Iowa|1|2
+17632046|des moines, iowa|18771862|Des Moines, Iowa|1|2
+17632046|des moines, iowa|0|Error|1|2
+17632046|des moines, iowa|16971383|Error|1|2
+17632046|des moines, iowa|61562295|305 E. 5th Des Moines|1|2
+17632046|des moines, iowa|15352824|Des Moines, Iowa|1|2
+17632046|des moines, iowa|70729632|Central Iowa|1|2
+17632046|des moines, iowa|17504036|Des Moines, Iowa|1|2
+17632046|des moines, iowa|14384844|Durban, South Africa|1|2
+17632046|des moines, iowa|0|Error|1|2
+17632046|des moines, iowa|0|Error|1|2
+17632046|des moines, iowa|17632046|Iowa|1|2
+17632046|des moines, iowa|9819952|Phoenix, AZ|1|2
+17632046|des moines, iowa|3267891|Des Moines, Iowa|1|2
+17632046|des moines, iowa|0|Error|1|2
+17632046|des moines, iowa|0|Error|1|2
+17632046|des moines, iowa|13227822|West Des Moines, Iowa|1|2
+17632046|des moines, iowa|13657922|Des Moines, Iowa, USA|1|2
+17632046|des moines, iowa|0|Error|1|2
+36514809|fort dodge, iowa|17478597|Beverly, Chicago|6|2
+36514809|fort dodge, iowa|153708936|OUTTATOWN.|4|2
+36514809|fort dodge, iowa|18424834|The (909)|1|2
+36514809|fort dodge, iowa|18004615|Atlanta, GA|1|2
+36514809|fort dodge, iowa|0|Error|1|2
+36514809|fort dodge, iowa|16972072|CA. ALL DAY.|1|2
+36514809|fort dodge, iowa|69873778|Leeds UK|1|2
+36514809|fort dodge, iowa|1418008028|Twin Cities, MN|1|2
+40719754|ames, iowa|2246091|Redwood City, CA|4|2
+40719754|ames, iowa|315423548|Error|2|2
+40719754|ames, iowa|14549655|Detroit|2|2
+40719754|ames, iowa|0|Error|1|2
+40719754|ames, iowa|0|Error|1|2
+47840184|ottumwa, iowa|24002130|Omaha NE|1|2
+47840184|ottumwa, iowa|0|Error|1|2
+47840184|ottumwa, iowa|0|Error|1|2
+47840184|ottumwa, iowa|0|Error|1|2
+18722446|mason city, iowa|0|Error|1|2
+18722446|mason city, iowa|0|Error|1|2
+6147062|iowa city, iowa|0|Error|2|2
+6147062|iowa city, iowa|0|Error|2|2
+6147062|iowa city, iowa|0|Error|1|2
+6147062|iowa city, iowa|614148224|Error|1|2
+6147062|iowa city, iowa|22660238|Cedar Rapids, IA|1|2
+6147062|iowa city, iowa|14448710|soon to be Dallas, Texas|1|2
+29261513|council bluffs, iowa|21618376|Sweden|6|2
+29261513|council bluffs, iowa|16644152|Omaha, NE|2|2
+29261513|council bluffs, iowa|120726111|Error|2|2
+29261513|council bluffs, iowa|34971257|Greenville, SC, USA|1|2
+29261513|council bluffs, iowa|0|Error|1|2
+29261513|council bluffs, iowa|14678740|Omaha, NE|1|2
+29261513|council bluffs, iowa|0|Error|1|2
+20877379|des moines, iowa|14188018|Denver|5|2
+20877379|des moines, iowa|0|Error|4|2
+20877379|des moines, iowa|7135112|Des Moines, IA|3|2
+20877379|des moines, iowa|15087361|Des Moines, IA|2|2
+20877379|des moines, iowa|20061632|Iowa|1|2
+20877379|des moines, iowa|25098117|Clive/West Des Moines, IA|1|2
+20877379|des moines, iowa|3301225067|Error|1|2
+20877379|des moines, iowa|374711657|Des Moines, IA|1|2
+20877379|des moines, iowa|15985730|Johnston/Ankeny, IA|1|2
+20877379|des moines, iowa|0|Error|1|2
+20877379|des moines, iowa|29208341|Spring, Texas|1|2
+20877379|des moines, iowa|16409683|Los Angeles, CA|1|2
+20877379|des moines, iowa|0|Error|1|2
+20877379|des moines, iowa|46233559|Los Angeles, CA|1|2
+20877379|des moines, iowa|575814762|Des Moines, Iowa|1|2
+18780665|creston, iowa|75954984|Error|2|2
+18780665|creston, iowa|69969098|Tacoma, WA|1|2
+18780665|creston, iowa|47261245|creston fucking iowa.|1|2
+18780665|creston, iowa|0|Error|1|2
+18780665|creston, iowa|99569799|Saturn|1|2
+18780665|creston, iowa|17847475|Stark Tower|1|2
+18780665|creston, iowa|0|Error|1|2
+18780665|creston, iowa|1654543885|Error|1|2
+18780665|creston, iowa|16499399|location, location|1|2
+18780665|creston, iowa|17919972|Error|1|2
+15713680|altoona, iowa|15726264|Venice, Florida|8|2
+15713680|altoona, iowa|16630502|NC|3|2
+15713680|altoona, iowa|15246951|Stamford, Connecticut|3|2
+15713680|altoona, iowa|17378892|Boonville, IN|3|2
+15713680|altoona, iowa|16296111|Error|2|2
+15713680|altoona, iowa|14777850|Roanoke, VA|2|2
+15713680|altoona, iowa|24108341|Altoona, IA|1|2
+15713680|altoona, iowa|15713680|Altoona, Iowa|1|2
+70179068|ames, iowa|31011312|Wisconsin|2|2
+70179068|ames, iowa|15282338|Ames, IA|1|2
+70179068|ames, iowa|978381|DSM|1|2
+19848931|muscatine, iowa|20255162|Burbank, CA|3|2
+19848931|muscatine, iowa|0|Error|3|2
+19848931|muscatine, iowa|128420531|Error|2|2
+19848931|muscatine, iowa|0|Error|2|2
+19848931|muscatine, iowa|48502553|Los Angeles|1|2
+19848931|muscatine, iowa|19768193|LA, CA|1|2
+19848931|muscatine, iowa|21035409|#firstclass |1|2
+19848931|muscatine, iowa|14497313|Culver City, CA|1|2
+19848931|muscatine, iowa|1932299737|California|1|2
+19848931|muscatine, iowa|18130749|Los Angeles|1|2
+19848931|muscatine, iowa|0|Error|1|2
+19848931|muscatine, iowa|14506253|Tauntuan belly|1|2
+19848931|muscatine, iowa|19637934|Los Angeles-ish|1|2
+13563592|iowa city, iowa|48360562|Somewhere east of the sunrise|4|2
+13563592|iowa city, iowa|272530885|Error|2|2
+13563592|iowa city, iowa|14533805|Error|1|2
+13563592|iowa city, iowa|117840084|Purgatory|1|2
+13563592|iowa city, iowa|0|Error|1|2
+13563592|iowa city, iowa|15985730|Johnston/Ankeny, IA|1|2
+13563592|iowa city, iowa|15747109|Iowa City-Cedar Rapids-The Fax|1|2
+13563592|iowa city, iowa|28546367|NY, LA, Tokyo, London....OHIO|1|2
+15667313|mount pleasant, iowa|2307776510|Error|8|2
+15667313|mount pleasant, iowa|2502704126|Error|2|2
+15667313|mount pleasant, iowa|1852191504|Roanoke, VA|2|2
+15667313|mount pleasant, iowa|8431652|South F-ing Florida|1|2
+15667313|mount pleasant, iowa|60983308|Los Angeles|1|2
+15667313|mount pleasant, iowa|57405911|United States of America|1|2
+15667313|mount pleasant, iowa|31127446|Washington, D.C.|1|2
+15667313|mount pleasant, iowa|1711391|Error|1|2
+15667313|mount pleasant, iowa|0|Error|1|2
+15667313|mount pleasant, iowa|18634085|Chicago, Illinois|1|2
+15667313|mount pleasant, iowa|19462341|United States|1|2
+15667313|mount pleasant, iowa|1304615755|Error|1|2
+15667313|mount pleasant, iowa|15667313|Cuenca, Ecuador|1|2
+15667313|mount pleasant, iowa|0|Error|1|2
+15667313|mount pleasant, iowa|33293016|New Mexico USA & Navajo Nation|1|2
+15667313|mount pleasant, iowa|21329783|Florida|1|2
+15667313|mount pleasant, iowa|0|Error|1|2
+15667313|mount pleasant, iowa|16892534|trapped in GOP-land|1|2
+15667313|mount pleasant, iowa|27512951|Home|1|2
+15667313|mount pleasant, iowa|619066636|Error|1|2
+29300496|marshalltown, iowa|29530747|Iowa|4|2
+29300496|marshalltown, iowa|0|Error|1|2
+18823932|cedar rapids, iowa|3244441|Columbus, OH|2|2
+18823932|cedar rapids, iowa|14780824|Rochester, MN|2|2
+18823932|cedar rapids, iowa|7194242|Glastonbury, CT|1|2
+18823932|cedar rapids, iowa|17351190|Chicago, IL|1|2
+18823932|cedar rapids, iowa|18027106|Hollywood|1|2
+18823932|cedar rapids, iowa|14803701|Everywhere|1|2
+18823932|cedar rapids, iowa|18937149|Error|1|2
+18823932|cedar rapids, iowa|15661871|San Francisco|1|2
+18823932|cedar rapids, iowa|21310946|Denver, CO|1|2
+18823932|cedar rapids, iowa|24151032|On top of twitter|1|2
+18823932|cedar rapids, iowa|74377375|San Francisco, CA|1|2
+18823932|cedar rapids, iowa|57413205|Chicago, IL|1|2
+18823932|cedar rapids, iowa|21243216| Swamps of Jersey|1|2
+18823932|cedar rapids, iowa|237275816|d.c.|1|2
+14638346|des moines, iowa|16371105|Bondurant IA|1|2
+14638346|des moines, iowa|0|Error|1|2
+15691300|ames, iowa|95142202|Error|2|2
+15691300|ames, iowa|44297103|Somewherein, Iowa|2|2
+15691300|ames, iowa|10282842|Des Moines, Iowa|1|2
+15691300|ames, iowa|10302902|iPhone: 41.600349,-93.655373|1|2
+15691300|ames, iowa|15670091|90621|1|2
+15691300|ames, iowa|17782348|Boone, IA|1|2
+15691300|ames, iowa|0|Error|1|2
+15691300|ames, iowa|1944318666|Error|1|2
+15691300|ames, iowa|15298735|ames, ia|1|2
+37722615|iowa city, iowa|0|Error|1|2
+37722615|iowa city, iowa|0|Error|1|2
+37722615|iowa city, iowa|19126869|Error|1|2
+37722615|iowa city, iowa|0|Error|1|2
+32492505|des moines, iowa|100691510|Portland, OR|2|2
+32492505|des moines, iowa|16909532|New Haven, CT|1|2
+32492505|des moines, iowa|41955131|Dallas, Texas|1|2
+32492505|des moines, iowa|0|Error|1|2
+32492505|des moines, iowa|325207864|Tempe, AZ|1|2
+32492505|des moines, iowa|14415367|Phoenix, AZ|1|2
+32492505|des moines, iowa|15149485|San Diego, California|1|2
+32492505|des moines, iowa|14592688|Boston, Kansas City, Hawaii|1|2
