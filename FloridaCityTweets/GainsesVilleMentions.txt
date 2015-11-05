@@ -1,0 +1,1161 @@
+6424622|gainesville, fl|0|Error|14|2
+6424622|gainesville, fl|15729017|Error|8|2
+6424622|gainesville, fl|9862782|Central Coast, California|2|2
+6424622|gainesville, fl|19080361|Brooklyn, NY|1|2
+6424622|gainesville, fl|0|Error|1|2
+6424622|gainesville, fl|125033|NYC vicinity|1|2
+6424622|gainesville, fl|14651414|Los Angeles, CA|1|2
+15469097|gainesville, fl|0|Error|4|2
+15469097|gainesville, fl|14839836|gvillian|3|2
+15469097|gainesville, fl|15148035|Gainesville, FL|1|2
+15469097|gainesville, fl|0|Error|1|2
+15469097|gainesville, fl|26483706|Charlotte, NC|1|2
+15469097|gainesville, fl|2338793348|THE YEAR 3000|1|2
+22942108|gainesville, fl|0|Error|1|2
+22942108|gainesville, fl|0|Error|1|2
+22942108|gainesville, fl|302771114|Error|1|2
+22942108|gainesville, fl|0|Error|1|2
+3806441|gainesville, fl|12469342|Gallatin, TN|3|2
+3806441|gainesville, fl|51755154|central Pennsylvania|3|2
+3806441|gainesville, fl|77062281|SoCal|2|2
+3806441|gainesville, fl|54642275|Gainesville, FL |2|2
+3806441|gainesville, fl|16985092|san francisco, ca|1|2
+3806441|gainesville, fl|18147022|Error|1|2
+3806441|gainesville, fl|11100952|Berlin|1|2
+3806441|gainesville, fl|26352530|San Diego, CA|1|2
+3806441|gainesville, fl|14776226|Error|1|2
+3806441|gainesville, fl|0|Error|1|2
+3806441|gainesville, fl|16512883|Dallas, TX|1|2
+3806441|gainesville, fl|26786357|Error|1|2
+3806441|gainesville, fl|66553463|Chile|1|2
+3806441|gainesville, fl|31190770|Leuven|1|2
+3806441|gainesville, fl|0|Error|1|2
+3806441|gainesville, fl|1114901137|Error|1|2
+3806441|gainesville, fl|14628649|Boston|1|2
+3806441|gainesville, fl|17815825|Over the  Double Rainbow, NJ|1|2
+3806441|gainesville, fl|996140904|Error|1|2
+3806441|gainesville, fl|773094|Anywhere but here|1|2
+3806441|gainesville, fl|0|Error|1|2
+3806441|gainesville, fl|887771|Error|1|2
+3806441|gainesville, fl|14235990|Atlanta via South Florida|1|2
+3806441|gainesville, fl|69263|California, USA|1|2
+3806441|gainesville, fl|13140|Canggu, Bali (til December)|1|2
+3806441|gainesville, fl|10447232|28.545723 -81.381699|1|2
+3806441|gainesville, fl|17625859|Austin, TX|1|2
+3806441|gainesville, fl|10138872|Eastbourne UK|1|2
+3806441|gainesville, fl|0|Error|1|2
+3806441|gainesville, fl|16056865|Gainesville, FL|1|2
+3806441|gainesville, fl|6215742|Columbus|1|2
+3806441|gainesville, fl|23611269|Error|1|2
+3806441|gainesville, fl|20062320|19.34956312,-99.14711058|1|2
+3806441|gainesville, fl|0|Error|1|2
+3806441|gainesville, fl|9826702|Saint John, NB, Canada|1|2
+3806441|gainesville, fl|0|Error|1|2
+3806441|gainesville, fl|28766175|Minneapolis, MN|1|2
+3806441|gainesville, fl|2732798133|Error|1|2
+3806441|gainesville, fl|0|Error|1|2
+20981439|gainesville, fl|6253282|San Francisco, CA|3|2
+20981439|gainesville, fl|17572296|Foster City, CA|2|2
+20981439|gainesville, fl|10239172|San Francisco|2|2
+20981439|gainesville, fl|2323641|New York|2|2
+20981439|gainesville, fl|1250104952|North Carolina, USA|1|2
+20981439|gainesville, fl|6090922|Atlanta, GA|1|2
+20981439|gainesville, fl|19130449|San Francisco, CA|1|2
+20981439|gainesville, fl|18208855|Utah|1|2
+20981439|gainesville, fl|0|Error|1|2
+20981439|gainesville, fl|6425782|Brooklyn, NY|1|2
+20981439|gainesville, fl|18627655|New York|1|2
+20981439|gainesville, fl|10638782|Canada|1|2
+20981439|gainesville, fl|15375238|San Francisco, CA|1|2
+20981439|gainesville, fl|19205385|New York|1|2
+20981439|gainesville, fl|0|Error|1|2
+20981439|gainesville, fl|17167591|iPhone: 40.997391,-74.217163|1|2
+35792776|gainesville, fl|0|Error|1|2
+35792776|gainesville, fl|19329393|New York City, New York|1|2
+35792776|gainesville, fl|15179494|Southport, NC|1|2
+35792776|gainesville, fl|35792776|Gainesville, FL|1|2
+35792776|gainesville, fl|6604072|Decatur, GA (U.S.)|1|2
+35792776|gainesville, fl|27140948|ATL|1|2
+35792776|gainesville, fl|45227274|SWFL|1|2
+35792776|gainesville, fl|0|Error|1|2
+35792776|gainesville, fl|29015302|Fort Myers/Naples, FL|1|2
+35792776|gainesville, fl|17219499|Error|1|2
+35792776|gainesville, fl|0|Error|1|2
+35792776|gainesville, fl|54013736|Washington DC|1|2
+18492948|gainesville, fl|745980554|Error|1|2
+32780058|gainesville, fl|56421771|Norwich, CT|1|2
+32780058|gainesville, fl|15960031|Error|1|2
+32780058|gainesville, fl|23019120|ORLANDO|1|2
+16789821|gainesville, fl|0|Error|3|2
+16789821|gainesville, fl|15428806|Orlando |1|2
+16789821|gainesville, fl|14767357|Nebraska|1|2
+16789821|gainesville, fl|0|Error|1|2
+69482187|gainesville, fl|45066891|University of Florida|3|2
+69482187|gainesville, fl|0|Error|3|2
+69482187|gainesville, fl|0|Error|2|2
+69482187|gainesville, fl|69482187|Gainesville, FL|2|2
+69482187|gainesville, fl|37479896|UCF-Orlando-Da Kut Fl.|2|2
+69482187|gainesville, fl|0|Error|1|2
+69482187|gainesville, fl|0|Error|1|2
+69482187|gainesville, fl|31129042|Frequent Flyer!!!   |1|2
+69482187|gainesville, fl|0|Error|1|2
+69482187|gainesville, fl|75581914|Orlando |1|2
+69482187|gainesville, fl|0|Error|1|2
+69482187|gainesville, fl|2362426490|Error|1|2
+69482187|gainesville, fl|317191950|813,786,954,213,|1|2
+86004281|gainesville, florida|25203129|Thomasville, GA|2|2
+86004281|gainesville, florida|73224138|Thailand for November|2|2
+86004281|gainesville, florida|16281313|Gainesville, Florida|1|2
+86004281|gainesville, florida|0|Error|1|2
+86004281|gainesville, florida|14178988|Bentonville, AR|1|2
+86004281|gainesville, florida|0|Error|1|2
+86004281|gainesville, florida|41313093|Hamburg, Germany|1|2
+86004281|gainesville, florida|15746084|Bangalore, India|1|2
+9070472|gainesville, florida|24487996|Error|4|2
+9070472|gainesville, florida|17632640|Planet Squaria|1|2
+9070472|gainesville, florida|0|Error|1|2
+9070472|gainesville, florida|0|Error|1|2
+9070472|gainesville, florida|83039046|Gainesville, FL|1|2
+9070472|gainesville, florida|0|Error|1|2
+9070472|gainesville, florida|0|Error|1|2
+9070472|gainesville, florida|3314508756|Error|1|2
+9070472|gainesville, florida|0|Error|1|2
+19032199|gainesville, fl|15461924|NYC|4|2
+19032199|gainesville, fl|0|Error|3|2
+19032199|gainesville, fl|63942426|New York City|2|2
+16281313|gainesville, florida|40516848|West Palm Beach, Florida|3|2
+16281313|gainesville, florida|15736190|Freiburg, Germany|2|2
+16281313|gainesville, florida|16910946|Error|2|2
+16281313|gainesville, florida|0|Error|1|2
+16281313|gainesville, florida|25203129|Thomasville, GA|1|2
+16281313|gainesville, florida|6602702|theIANternet|1|2
+16281313|gainesville, florida|86004281|In the Woods|1|2
+16281313|gainesville, florida|0|Error|1|2
+16281313|gainesville, florida|12304722|Minneapolis, MN|1|2
+16281313|gainesville, florida|2057421|Lincoln, Nebraska|1|2
+16281313|gainesville, florida|0|Error|1|2
+16281313|gainesville, florida|14178988|Bentonville, AR|1|2
+16281313|gainesville, florida|65988096|Elk Creek, VIRGINIA|1|2
+16281313|gainesville, florida|112433537|Error|1|2
+16281313|gainesville, florida|0|Error|1|2
+34631991|gainesville, fl|27001053|Atlanta by way of New Orleans|12|2
+14089741|gainesville, fl|981381|San Diego, California|2|2
+68321262|gainesville, fl|68321262|Ft. Lauderdale, FL|6|2
+68321262|gainesville, fl|0|Error|6|2
+68321262|gainesville, fl|37021731|...and they say Chi City.|4|2
+68321262|gainesville, fl|0|Error|4|2
+68321262|gainesville, fl|38095670|Error|3|2
+68321262|gainesville, fl|29396367|Brooklyn, NY|3|2
+68321262|gainesville, fl|260792476|Error|3|2
+68321262|gainesville, fl|0|Error|2|2
+68321262|gainesville, fl|0|Error|2|2
+68321262|gainesville, fl|0|Error|1|2
+68321262|gainesville, fl|348810178|ON Set|1|2
+68321262|gainesville, fl|14128000|Error|1|2
+68321262|gainesville, fl|0|Error|1|2
+68321262|gainesville, fl|0|Error|1|2
+68321262|gainesville, fl|18220175|EVERYWHERE!!!|1|2
+68321262|gainesville, fl|21753118|Error|1|2
+68321262|gainesville, fl|20015269|Error|1|2
+41977588|gainesville, florida|0|Error|1|2
+41977588|gainesville, florida|0|Error|1|2
+41977588|gainesville, florida|26633268|San Francisco Bay Area|1|2
+41977588|gainesville, florida|0|Error|1|2
+21140237|gainesville, florida|0|Error|2|2
+21140237|gainesville, florida|144877109|Washington, DC|1|2
+21140237|gainesville, florida|10226672|Ponte Vedra Beach, FL|1|2
+21140237|gainesville, florida|0|Error|1|2
+21140237|gainesville, florida|27100297|Maui, Hawaii|1|2
+21140237|gainesville, florida|15876379|Seattle|1|2
+21140237|gainesville, florida|559480177|Error|1|2
+21140237|gainesville, florida|17004286|Atlanta, GA|1|2
+21140237|gainesville, florida|17786630|Atlanta, GA|1|2
+63741872|gainesville, florida|0|Error|4|2
+63741872|gainesville, florida|17222625|Dayton, OH|2|2
+63741872|gainesville, florida|8963722|San Francisco, California|2|2
+63741872|gainesville, florida|0|Error|2|2
+63741872|gainesville, florida|3192544139|Error|2|2
+63741872|gainesville, florida|21364753|Washington, DC|2|2
+63741872|gainesville, florida|48061972|Gainesville Fl|2|2
+63741872|gainesville, florida|46167548|Fort Pierce, Florida|2|2
+63741872|gainesville, florida|1046661|Error|2|2
+63741872|gainesville, florida|0|Error|1|2
+63741872|gainesville, florida|0|Error|1|2
+63741872|gainesville, florida|54615652|Clearwater, Florida|1|2
+63741872|gainesville, florida|0|Error|1|2
+63741872|gainesville, florida|18939892|Tampa, FL|1|2
+63741872|gainesville, florida|261396836|Error|1|2
+63741872|gainesville, florida|64214941|Raleigh, NC|1|2
+63741872|gainesville, florida|14199378|Washington, DC|1|2
+63741872|gainesville, florida|0|Error|1|2
+63741872|gainesville, florida|15110431|Error|1|2
+63741872|gainesville, florida|16568227|Los Angeles, California|1|2
+63741872|gainesville, florida|0|Error|1|2
+63741872|gainesville, florida|133345634|Error|1|2
+63741872|gainesville, florida|23070306|Washington, D.C.|1|2
+63741872|gainesville, florida|16895274|Error|1|2
+63741872|gainesville, florida|17998609|Washington, D.C.|1|2
+74756463|gainesville, fl|38465758|austin tx.|1|2
+74756463|gainesville, fl|20796192|La Crosse, Wisconsin|1|2
+74756463|gainesville, fl|18996462|Error|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|18944017|Error|1|2
+74756463|gainesville, fl|53056602|Los Angeles|1|2
+74756463|gainesville, fl|17271531|Orlando|1|2
+74756463|gainesville, fl|3764395281|Error|1|2
+74756463|gainesville, fl|15752446|Madison, Wisconsin|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|965649277|Error|1|2
+74756463|gainesville, fl|73532085|Orlando, FL|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|62461810|Error|1|2
+74756463|gainesville, fl|17097654|Live on Maui; born/raised PA|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|26598275|Irvine, California|1|2
+74756463|gainesville, fl|21892837|Error|1|2
+74756463|gainesville, fl|862225406|Error|1|2
+74756463|gainesville, fl|35126489|Silicon Valley, USA|1|2
+74756463|gainesville, fl|849907952|Error|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|16272628|Viera, Florida|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|8736882|Canada|1|2
+74756463|gainesville, fl|285973830|Error|1|2
+74756463|gainesville, fl|17745188|Hollywood Hills, CA|1|2
+74756463|gainesville, fl|73068424|India|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|3496471|Error|1|2
+74756463|gainesville, fl|19071523|Los Angeles, CA|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|23342790|Northern California|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|72129010|Columbus Ohio|1|2
+74756463|gainesville, fl|62810332|Louisiana|1|2
+74756463|gainesville, fl|18142130|Knoxville, Tenn.|1|2
+74756463|gainesville, fl|39971076|Nashville, TN|1|2
+35043455|gainesville, fl|14733593|Beverly Hills, FL|11|2
+35043455|gainesville, fl|5972082|100% Mobile|2|2
+35043455|gainesville, fl|14095161|Knoxville, TN|1|2
+35043455|gainesville, fl|0|Error|1|2
+35043455|gainesville, fl|67385926|Global|1|2
+35043455|gainesville, fl|0|Error|1|2
+35043455|gainesville, fl|2965763697|Essex/London |1|2
+35043455|gainesville, fl|14131123|San Diego, CA|1|2
+35043455|gainesville, fl|0|Error|1|2
+14991366|gainesville, ga|23848707|Blairsville, GA|47|2
+14991366|gainesville, ga|0|Error|21|2
+14991366|gainesville, ga|18456173|Atlanta based; travel lots|20|2
+14991366|gainesville, ga|26956587|Gainesville, GA|9|2
+14991366|gainesville, ga|1352558485|Error|7|2
+14991366|gainesville, ga|14991366|St Augustine, FL|6|2
+14991366|gainesville, ga|851766253|Error|6|2
+14991366|gainesville, ga|14815766|New Haven, MO 63068 USA|6|2
+14991366|gainesville, ga|0|Error|5|2
+14991366|gainesville, ga|37759360|San Diego, CA|5|2
+14991366|gainesville, ga|23569141| Williams, AZ 86046|5|2
+14991366|gainesville, ga|17873605|Atlanta|4|2
+14991366|gainesville, ga|49721459|Earth|4|2
+14991366|gainesville, ga|8523822|Westerville, Ohio|4|2
+14991366|gainesville, ga|0|Error|4|2
+14991366|gainesville, ga|17174386|Atlanta Ga|4|2
+14991366|gainesville, ga|14687806|Oklahoma, USA|4|2
+14991366|gainesville, ga|38469582|Georgia, USA|3|2
+14991366|gainesville, ga|46288146|San Francisco|3|2
+14991366|gainesville, ga|22723596|NE Georgia|3|2
+14991366|gainesville, ga|37497677|Atlanta, GA, Us|3|2
+14991366|gainesville, ga|82119136|Williams, Arizona 86046|3|2
+14991366|gainesville, ga|13082862|Atlanta, GA|3|2
+14991366|gainesville, ga|15551263|Brazil |3|2
+14991366|gainesville, ga|386723759|Error|2|2
+14991366|gainesville, ga|0|Error|2|2
+14991366|gainesville, ga|0|Error|2|2
+14991366|gainesville, ga|82115283|Atlanta, GA|2|2
+14991366|gainesville, ga|14856673|NW PA|2|2
+14991366|gainesville, ga|20067608|Flowery Branch, GA|2|2
+14991366|gainesville, ga|314808130|Error|2|2
+14991366|gainesville, ga|0|Error|2|2
+14991366|gainesville, ga|15964528|New York, NY and LA|2|2
+14991366|gainesville, ga|27077188|Atlanta|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|15538071|Error|1|2
+14991366|gainesville, ga|151246101|Error|1|2
+14991366|gainesville, ga|62474041|Error|1|2
+14991366|gainesville, ga|14444028|Brighton. East Sussex. UK.|1|2
+14991366|gainesville, ga|16720708|West Palm Beach|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|31605987|Texas, USA|1|2
+14991366|gainesville, ga|22663045|San Francisco. Detroit. |1|2
+14991366|gainesville, ga|56698146|Delray Beach, FL|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|14391111|Santa Clarita - Santa Barbara|1|2
+14991366|gainesville, ga|103068662|Error|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|15012932|Flowery Branch, GA|1|2
+14991366|gainesville, ga|16088328|Charlotte, NC Area|1|2
+14991366|gainesville, ga|14521343|TX |1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|13817822|bodybyzna.com/fastfatblast|1|2
+14991366|gainesville, ga|16623759|Kansas|1|2
+14991366|gainesville, ga|37188645|Toronto, Ontario, Canada|1|2
+14991366|gainesville, ga|43301508|West Palm Beach, Fl.|1|2
+14991366|gainesville, ga|18755711|Edmonton|1|2
+14991366|gainesville, ga|7165802|Denver, CO|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|69935962|Memphis, Tennessee USA|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|1212558114|Error|1|2
+14991366|gainesville, ga|15520859|ATL and everywhere in between|1|2
+14991366|gainesville, ga|213879102|JAKARTA, INDONESIA|1|2
+14991366|gainesville, ga|211907186|New Rochelle  NY USA|1|2
+14991366|gainesville, ga|18482174|Error|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|568533782|NY,NY|1|2
+14991366|gainesville, ga|279406106|Palo Alto, CA|1|2
+14991366|gainesville, ga|0|Error|1|2
+14991366|gainesville, ga|0|Error|1|2
+87868472|gainesville, fl|33567100|Philadelphia|1|2
+62245860|gainesville, florida|0|Error|23|2
+62245860|gainesville, florida|0|Error|2|2
+24846869|gainesville, fl|41064921|[A]pply [P]ressure [E]veryday|8|2
+24846869|gainesville, fl|48203250|WishANigga Woods|7|2
+24846869|gainesville, fl|61530477|ILLinois shy city |4|2
+24846869|gainesville, fl|0|Error|3|2
+24846869|gainesville, fl|365066474|Error|3|2
+24846869|gainesville, fl|3808198047|Error|3|2
+24846869|gainesville, fl|0|Error|2|2
+24846869|gainesville, fl|47721184|Error|2|2
+24846869|gainesville, fl|0|Error|1|2
+24846869|gainesville, fl|30942970|Miami|1|2
+24846869|gainesville, fl|75159401|Error|1|2
+24846869|gainesville, fl|0|Error|1|2
+24846869|gainesville, fl|86040076|Error|1|2
+24846869|gainesville, fl|159699070|NewDelhi|1|2
+24846869|gainesville, fl|2159585453|Error|1|2
+24846869|gainesville, fl|0|Error|1|2
+24846869|gainesville, fl|25225446|Lake Mary, FL; Gainesville, FL|1|2
+24846869|gainesville, fl|0|Error|1|2
+24846869|gainesville, fl|0|Error|1|2
+24846869|gainesville, fl|0|Error|1|2
+24846869|gainesville, fl|437238463|Error|1|2
+24846869|gainesville, fl|10072372|Error|1|2
+24846869|gainesville, fl|54601076|Error|1|2
+7001972|gainesville, fl|1172007499|Error|4|2
+7001972|gainesville, fl|0|Error|4|2
+7001972|gainesville, fl|17981318|Florida|2|2
+7001972|gainesville, fl|25324597|Fort Collins, CO|2|2
+7001972|gainesville, fl|0|Error|1|2
+7001972|gainesville, fl|0|Error|1|2
+7001972|gainesville, fl|68689199|Gainesville, Florida|1|2
+7001972|gainesville, fl|34921346|Error|1|2
+7001972|gainesville, fl|23833976|Newtown, Connecticut|1|2
+7001972|gainesville, fl|0|Error|1|2
+7001972|gainesville, fl|0|Error|1|2
+7001972|gainesville, fl|15089463|Lincoln, NE|1|2
+7001972|gainesville, fl|1231877486|Error|1|2
+7001972|gainesville, fl|0|Error|1|2
+7001972|gainesville, fl|12122822|Raleigh, NC|1|2
+7001972|gainesville, fl|0|Error|1|2
+7001972|gainesville, fl|0|Error|1|2
+7001972|gainesville, fl|29525331|New Orleans|1|2
+7001972|gainesville, fl|0|Error|1|2
+7001972|gainesville, fl|13784592|NYC & Washington, DC|1|2
+7001972|gainesville, fl|78509935|Northern California|1|2
+46454704|gainesville, florida|0|Error|3|2
+46454704|gainesville, florida|0|Error|3|2
+46454704|gainesville, florida|18844828|The Swamp|3|2
+46454704|gainesville, florida|41607639|Mooresville, NC|2|2
+46454704|gainesville, florida|46454704|Gainesville, Florida|2|2
+46454704|gainesville, florida|2751026472|Error|2|2
+46454704|gainesville, florida|15578892|Error|2|2
+46454704|gainesville, florida|14398964|National|1|2
+46454704|gainesville, florida|24780037|Brazil|1|2
+46454704|gainesville, florida|12038432|Riverside, CA|1|2
+46454704|gainesville, florida|0|Error|1|2
+46454704|gainesville, florida|27380155|Louisiana|1|2
+37021731|gainesville, fl|38095670|Error|2|2
+37021731|gainesville, fl|0|Error|1|2
+37021731|gainesville, fl|0|Error|1|2
+37021731|gainesville, fl|0|Error|1|2
+37021731|gainesville, fl|39191205|Miami, FL|1|2
+37021731|gainesville, fl|40368708|Los Angeles, California|1|2
+37021731|gainesville, fl|35823898|NYC - MIA|1|2
+37021731|gainesville, fl|5746452|Washington, DC|1|2
+37021731|gainesville, fl|166690050|Worldwide|1|2
+37021731|gainesville, fl|0|Error|1|2
+37021731|gainesville, fl|14128000|Error|1|2
+37021731|gainesville, fl|0|Error|1|2
+37021731|gainesville, fl|38082379|In My Zone|1|2
+30870308|gainesville, fl|0|Error|7|2
+30870308|gainesville, fl|3392017061|Error|6|2
+30870308|gainesville, fl|3377341295|Error|4|2
+30870308|gainesville, fl|0|Error|3|2
+30870308|gainesville, fl|44644475|Gainesville, Fla.|2|2
+30870308|gainesville, fl|1237437932|In the O'Dome|2|2
+30870308|gainesville, fl|0|Error|2|2
+30870308|gainesville, fl|39272874|Gainesville, FL|1|2
+30870308|gainesville, fl|0|Error|1|2
+30870308|gainesville, fl|0|Error|1|2
+30870308|gainesville, fl|0|Error|1|2
+30870308|gainesville, fl|0|Error|1|2
+30870308|gainesville, fl|0|Error|1|2
+30870308|gainesville, fl|1876069075|Birmingham, Ala.|1|2
+30870308|gainesville, fl|40293713|Gainesville, Florida|1|2
+30870308|gainesville, fl|0|Error|1|2
+30870308|gainesville, fl|0|Error|1|2
+30870308|gainesville, fl|38678753|Gainesville, FL|1|2
+30870308|gainesville, fl|0|Error|1|2
+30870308|gainesville, fl|26097398|Gainesville, FL|1|2
+30870308|gainesville, fl|3377294523|Error|1|2
+64427608|gainesville, fl|64427608|Gainesville, FL|10|2
+64427608|gainesville, fl|0|Error|3|2
+64427608|gainesville, fl|344899841|Error|3|2
+64427608|gainesville, fl|0|Error|3|2
+64427608|gainesville, fl|45066891|University of Florida|3|2
+64427608|gainesville, fl|3313788234|Error|3|2
+64427608|gainesville, fl|5674772|Error|2|2
+64427608|gainesville, fl|0|Error|2|2
+64427608|gainesville, fl|145545038|united states|2|2
+64427608|gainesville, fl|356103170|Error|2|2
+64427608|gainesville, fl|0|Error|1|2
+64427608|gainesville, fl|0|Error|1|2
+64427608|gainesville, fl|0|Error|1|2
+64427608|gainesville, fl|0|Error|1|2
+64427608|gainesville, fl|0|Error|1|2
+64427608|gainesville, fl|0|Error|1|2
+64427608|gainesville, fl|0|Error|1|2
+64427608|gainesville, fl|0|Error|1|2
+64427608|gainesville, fl|15601062|Error|1|2
+64427608|gainesville, fl|0|Error|1|2
+64427608|gainesville, fl|0|Error|1|2
+64427608|gainesville, fl|50551121|Gainesville, FL|1|2
+64427608|gainesville, fl|0|Error|1|2
+14495824|gainesville, florida|0|Error|2|2
+14495824|gainesville, florida|15759609|Energy is All, WE are Energy|2|2
+14495824|gainesville, florida|17277210|Gainesville area, FL, USA|2|2
+14495824|gainesville, florida|17347991|World|2|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|52675213|Hawaii|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|21671594|Philippines|1|2
+14495824|gainesville, florida|16876339|Chicago, IL|1|2
+14495824|gainesville, florida|115539109|Honolulu, HI|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|44787596|St. Louis, MO|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|5768872|NYC|1|2
+14495824|gainesville, florida|17198288|Atlanta, GA|1|2
+14495824|gainesville, florida|45131471|Oranjemund, Namibia|1|2
+14495824|gainesville, florida|22890144|Moreno Valley, CA|1|2
+14495824|gainesville, florida|22429348|Charlotte area ~ USA|1|2
+14495824|gainesville, florida|7981702|San Diego, CA|1|2
+14495824|gainesville, florida|302783377|London|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|14521383|Grapevine, TX|1|2
+14495824|gainesville, florida|18210819|SF Bay Area|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|23266160|Arizona|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|401489570|Error|1|2
+14495824|gainesville, florida|8728602|Error|1|2
+14495824|gainesville, florida|15685662|Humble, Texas|1|2
+14495824|gainesville, florida|310840618|Error|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|8571322|Bristol, CT|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|22234257|Dallas Texas|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|42277190|Error|1|2
+14495824|gainesville, florida|3043124432|Error|1|2
+14495824|gainesville, florida|24939840|Florida|1|2
+14495824|gainesville, florida|465789732|Error|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|18104199|Kansas|1|2
+14495824|gainesville, florida|31890706|Global|1|2
+14495824|gainesville, florida|2160605215|Error|1|2
+14495824|gainesville, florida|16667542|Infinite|1|2
+14495824|gainesville, florida|24086519| USA & AUSTRIA|1|2
+14495824|gainesville, florida|18774581|Pakistan|1|2
+14495824|gainesville, florida|11896292|Terlingua, TX|1|2
+14495824|gainesville, florida|0|Error|1|2
+14495824|gainesville, florida|89389559|Dallas, TX|1|2
+14495824|gainesville, florida|14592688|Boston, Kansas City, Hawaii|1|2
+14495824|gainesville, florida|275608073|In your heart and everywhere.|1|2
+14495824|gainesville, florida|14090931|Wimberley, Texas|1|2
+62603460|gainesville, florida|16297945|Gainesville, FL|7|2
+62603460|gainesville, florida|18489905|The Road, USA |3|2
+62603460|gainesville, florida|40714299|Ontario|2|2
+62603460|gainesville, florida|54642275|Gainesville, FL |1|2
+62603460|gainesville, florida|25203129|Thomasville, GA|1|2
+62603460|gainesville, florida|0|Error|1|2
+62603460|gainesville, florida|67218664|San Juan, PR|1|2
+62603460|gainesville, florida|14800270|Boston, MA|1|2
+62603460|gainesville, florida|11883132|San Francisco|1|2
+62603460|gainesville, florida|17120109|Moscow, Russia|1|2
+62603460|gainesville, florida|17838033|Florida|1|2
+62603460|gainesville, florida|18360309|Darlington, United Kingdom|1|2
+62603460|gainesville, florida|19960072|Guwahati, India|1|2
+62603460|gainesville, florida|0|Error|1|2
+62603460|gainesville, florida|0|Error|1|2
+62603460|gainesville, florida|947670313|London|1|2
+62603460|gainesville, florida|28576558|USA|1|2
+62603460|gainesville, florida|18536530|Florence, Alabama|1|2
+36262466|gainesville, fl|38531995|New York, NY|1|2
+36262466|gainesville, fl|0|Error|1|2
+36262466|gainesville, fl|25093616|Error|1|2
+36262466|gainesville, fl|20571915|NYC|1|2
+36262466|gainesville, fl|305144707|Miami,  Fl|1|2
+36262466|gainesville, fl|19025165|Miami, Florida|1|2
+36262466|gainesville, fl|54781907|Cambridge, MA|1|2
+36262466|gainesville, fl|13325552|Taranna, Kanada!|1|2
+36262466|gainesville, fl|18700629|Rockville, MD|1|2
+36262466|gainesville, fl|0|Error|1|2
+36262466|gainesville, fl|20455625|New York, NY|1|2
+36262466|gainesville, fl|759251|Error|1|2
+36262466|gainesville, fl|0|Error|1|2
+36262466|gainesville, fl|16300786|New York|1|2
+13458132|gainesville, fl|16327427|Camillus, NY|3|2
+13458132|gainesville, fl|51241574|Global|2|2
+13458132|gainesville, fl|3001021|Sunnyside, Queens, New York|2|2
+13458132|gainesville, fl|0|Error|2|2
+13458132|gainesville, fl|4561341|Washington, DC|2|2
+13458132|gainesville, fl|12510|Portland, OR|2|2
+13458132|gainesville, fl|18950645|Gainesville, Florida|1|2
+13458132|gainesville, fl|20|San Francisco, CA, US|1|2
+13458132|gainesville, fl|14235990|Atlanta via South Florida|1|2
+13458132|gainesville, fl|666073|Los Feliz, California|1|2
+13458132|gainesville, fl|10135802|Savannah, GA|1|2
+13458132|gainesville, fl|2344122439|Error|1|2
+13458132|gainesville, fl|13458132|Gainesville, FL|1|2
+13458132|gainesville, fl|35955263|www.photowings.org|1|2
+13458132|gainesville, fl|61888710|Santiago, Chile|1|2
+13458132|gainesville, fl|286376902|Error|1|2
+13458132|gainesville, fl|14324035|NYC|1|2
+13458132|gainesville, fl|8310302|Boston, Mass.|1|2
+13458132|gainesville, fl|1256610733|Error|1|2
+13458132|gainesville, fl|272166936|Tualatin, OR|1|2
+22778877|gainesville, florida|88597989|USA|1|2
+70476821|gainesville, florida|0|Error|3|2
+70476821|gainesville, florida|325288320|Error|2|2
+70476821|gainesville, florida|0|Error|1|2
+70476821|gainesville, florida|0|Error|1|2
+70476821|gainesville, florida|0|Error|1|2
+70476821|gainesville, florida|8729502|Error|1|2
+70476821|gainesville, florida|16264006|jet lag city.|1|2
+70476821|gainesville, florida|16050554|Houston, Texas|1|2
+70476821|gainesville, florida|0|Error|1|2
+49998742|gainesville, florida|127983050|@CastleActive|2|2
+49998742|gainesville, florida|50449246|Error|2|2
+49998742|gainesville, florida|0|Error|1|2
+49998742|gainesville, florida|0|Error|1|2
+49998742|gainesville, florida|31353077|Los Angeles|1|2
+16225951|gainesville, fl|785715804|Vancouver, Canada|5|2
+16225951|gainesville, fl|25711536|OKC & G-ville, FL|3|2
+16225951|gainesville, fl|0|Error|3|2
+16225951|gainesville, fl|41175778|Boston, MA|2|2
+16225951|gainesville, fl|0|Error|2|2
+16225951|gainesville, fl|18286109|Atlanta, GA|2|2
+16225951|gainesville, fl|0|Error|1|2
+16225951|gainesville, fl|16935523|Washington, D.C.|1|2
+16225951|gainesville, fl|14235990|Atlanta via South Florida|1|2
+16225951|gainesville, fl|0|Error|1|2
+16225951|gainesville, fl|21877996|Charlottesville, VA|1|2
+16225951|gainesville, fl|17511989|Gainesville - North FL|1|2
+16225951|gainesville, fl|0|Error|1|2
+16225951|gainesville, fl|16396531|Algonquin, IL|1|2
+16225951|gainesville, fl|9074582|Gainesville, FL.|1|2
+16225951|gainesville, fl|18950645|Gainesville, Florida|1|2
+27762644|gainesville, fl|0|Error|4|2
+27762644|gainesville, fl|58081383|atlanta |3|2
+27762644|gainesville, fl|26258938|Error|2|2
+27762644|gainesville, fl|432888886|Error|2|2
+27762644|gainesville, fl|62732737|Tampa|2|2
+27762644|gainesville, fl|22462509|Orlando|1|2
+27762644|gainesville, fl|41665590|FL - TX - GA - TX - ?|1|2
+27762644|gainesville, fl|41660843|Error|1|2
+27762644|gainesville, fl|71586967|South Korea|1|2
+27762644|gainesville, fl|0|Error|1|2
+74162370|gainesville, ga|11883132|San Francisco|6|2
+74162370|gainesville, ga|62088627|Toronto|4|2
+74162370|gainesville, ga|15545849|Georgia|4|2
+74162370|gainesville, ga|16244378|Error|3|2
+74162370|gainesville, ga|18620441|Tampa Bay|3|2
+74162370|gainesville, ga|58463488|New York, NY|2|2
+74162370|gainesville, ga|45664993|Southern CA and worldwide|2|2
+74162370|gainesville, ga|2600489226|Error|2|2
+74162370|gainesville, ga|26956587|Gainesville, GA|2|2
+74162370|gainesville, ga|0|Error|2|2
+74162370|gainesville, ga|0|Error|2|2
+74162370|gainesville, ga|14779563|New Haven, CT|1|2
+74162370|gainesville, ga|18746559|NC|1|2
+74162370|gainesville, ga|41369676|Hawaii |1|2
+74162370|gainesville, ga|39341768|Error|1|2
+74162370|gainesville, ga|49675107|Dallas, TX|1|2
+74162370|gainesville, ga|0|Error|1|2
+74162370|gainesville, ga|0|Error|1|2
+74162370|gainesville, ga|25688058|Sweden|1|2
+74162370|gainesville, ga|0|Error|1|2
+74162370|gainesville, ga|34116242|Sandy, UT|1|2
+74162370|gainesville, ga|0|Error|1|2
+74162370|gainesville, ga|46494352|Error|1|2
+74162370|gainesville, ga|18532358|Marietta, GA 30064|1|2
+74162370|gainesville, ga|15159276|Error|1|2
+74162370|gainesville, ga|0|Error|1|2
+74162370|gainesville, ga|14174310|Atlanta, GA|1|2
+74162370|gainesville, ga|15037511|Brookfield, CT|1|2
+74162370|gainesville, ga|252788569|Error|1|2
+74162370|gainesville, ga|169661394|Salt Lake City, Utah|1|2
+74162370|gainesville, ga|14443235|Dallas, Texas|1|2
+74162370|gainesville, ga|46620509|New York - Rio de Janeiro|1|2
+74162370|gainesville, ga|59166962|Lisle, IL|1|2
+74162370|gainesville, ga|31409264|Monroe, Georgia|1|2
+74162370|gainesville, ga|23848707|Blairsville, GA|1|2
+74162370|gainesville, ga|0|Error|1|2
+74162370|gainesville, ga|481138336|Error|1|2
+74162370|gainesville, ga|36902944|NC USA|1|2
+74162370|gainesville, ga|0|Error|1|2
+74162370|gainesville, ga|70763076|Worldwide Family|1|2
+74162370|gainesville, ga|72190843|Southern NJ|1|2
+74162370|gainesville, ga|34922138|Chicago|1|2
+74162370|gainesville, ga|20638693|Sioux Falls SD|1|2
+74162370|gainesville, ga|24292180|Texas|1|2
+74162370|gainesville, ga|0|Error|1|2
+74162370|gainesville, ga|0|Error|1|2
+74162370|gainesville, ga|41687979|Dahlonega, Georgia|1|2
+74162370|gainesville, ga|30736991|Jacksonville, FL|1|2
+74162370|gainesville, ga|0|Error|1|2
+74162370|gainesville, ga|87272362|North Atlanta, GA|1|2
+74162370|gainesville, ga|0|Error|1|2
+74162370|gainesville, ga|77639629|Color Country|1|2
+74162370|gainesville, ga|16728976|San Diego, CA and global|1|2
+74162370|gainesville, ga|41121481|Boston MA|1|2
+74162370|gainesville, ga|58148088|Santa Monica, CA|1|2
+83601622|gainesville, ga|0|Error|9|2
+83601622|gainesville, ga|29018768|NC, USA|6|2
+83601622|gainesville, ga|23939797|Bristol, UK|5|2
+83601622|gainesville, ga|23848707|Blairsville, GA|5|2
+83601622|gainesville, ga|31251832|San Diego, CA|3|2
+83601622|gainesville, ga|74648249|Maui, Hawaii|3|2
+83601622|gainesville, ga|16692771|Atlanta, GA, USA|3|2
+83601622|gainesville, ga|18085424|New York State|3|2
+83601622|gainesville, ga|3433721|Brooklyn, NY|2|2
+83601622|gainesville, ga|14323769|Tampa, Florida|2|2
+83601622|gainesville, ga|0|Error|2|2
+83601622|gainesville, ga|39593825|Torrance, CA, USA|2|2
+83601622|gainesville, ga|19394137|Surrey / Sussex, UK|2|2
+83601622|gainesville, ga|0|Error|2|2
+83601622|gainesville, ga|0|Error|2|2
+83601622|gainesville, ga|65883743|The World Wide Web :-)|2|2
+83601622|gainesville, ga|493521983|Houston, TX|2|2
+83601622|gainesville, ga|16968917|New York|2|2
+83601622|gainesville, ga|19246850|Highland Park, IL|2|2
+83601622|gainesville, ga|73019923|Flowery Branch, GA|2|2
+83601622|gainesville, ga|11883132|San Francisco|2|2
+83601622|gainesville, ga|0|Error|2|2
+83601622|gainesville, ga|80417265|Atlanta, GA|2|2
+83601622|gainesville, ga|36163202|Phoenix, AZ|2|2
+83601622|gainesville, ga|14787863|Louisville, KY|2|2
+83601622|gainesville, ga|19110496|Alberta, Canada|1|2
+83601622|gainesville, ga|37494427|NH - USA|1|2
+83601622|gainesville, ga|15762845|Atlanta, Georgia|1|2
+83601622|gainesville, ga|21512585|Error|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|972651|Error|1|2
+83601622|gainesville, ga|998165604|Mulholland Drive|1|2
+83601622|gainesville, ga|17343595|Newport News, VA|1|2
+83601622|gainesville, ga|42684356|Washington DC|1|2
+83601622|gainesville, ga|15588657|Global|1|2
+83601622|gainesville, ga|402846491|London and Los Angeles|1|2
+83601622|gainesville, ga|54460212|Error|1|2
+83601622|gainesville, ga|22413898|Central Florida|1|2
+83601622|gainesville, ga|184965845|Error|1|2
+83601622|gainesville, ga|22192970|redcar|1|2
+83601622|gainesville, ga|52675213|Hawaii|1|2
+83601622|gainesville, ga|40728125|Tampa Bay, FL|1|2
+83601622|gainesville, ga|17086556|Wilmington, Delaware|1|2
+83601622|gainesville, ga|63101658|LA|1|2
+83601622|gainesville, ga|14521343|TX |1|2
+83601622|gainesville, ga|20835540|Melbourne, Australia|1|2
+83601622|gainesville, ga|1216654206|OKC|1|2
+83601622|gainesville, ga|15958265|Frisco, TX|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|19870858|usa|1|2
+83601622|gainesville, ga|37385239|Error|1|2
+83601622|gainesville, ga|21722083|Western New York|1|2
+83601622|gainesville, ga|14815766|New Haven, MO 63068 USA|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|20344831|Indian Lake, OH|1|2
+83601622|gainesville, ga|15626465|Basically Anywhere :-)|1|2
+83601622|gainesville, ga|36275740|San Diego|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|53543|Between the Moon and New York |1|2
+83601622|gainesville, ga|15637125|northwest Florida|1|2
+83601622|gainesville, ga|4034631|Sydney, Australia|1|2
+83601622|gainesville, ga|24071039|Iowa City|1|2
+83601622|gainesville, ga|115539109|Honolulu, HI|1|2
+83601622|gainesville, ga|24608086|US|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|74123717|Atlanta, GA|1|2
+83601622|gainesville, ga|5644142|Austin, TX, USA|1|2
+83601622|gainesville, ga|72084215|Las Vegas NV Baby! |1|2
+83601622|gainesville, ga|22377375|Clearwater, Florida|1|2
+83601622|gainesville, ga|404102402|Error|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|22987468|Winter Park, Florida, USA|1|2
+83601622|gainesville, ga|14327809|Los Angeles|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|14732187|Stockholm, Sweden|1|2
+83601622|gainesville, ga|81362392|Jakarta|1|2
+83601622|gainesville, ga|42074212|Error|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|307695063|Medellin, Colombia|1|2
+83601622|gainesville, ga|29732472|Atlanta, GA|1|2
+83601622|gainesville, ga|7423962|Error|1|2
+83601622|gainesville, ga|21322874|South Eastern MI|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|23506161|Knoxville, Tennessee (USA)|1|2
+83601622|gainesville, ga|31891798|Houston|1|2
+83601622|gainesville, ga|71414507|Atlanta,Ga|1|2
+83601622|gainesville, ga|22276232|Wisconsin|1|2
+83601622|gainesville, ga|17174386|Atlanta Ga|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|30595340|Prior Lake, Minnesota|1|2
+83601622|gainesville, ga|22346862|Error|1|2
+83601622|gainesville, ga|16130737|Santa Barbara, CA|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|113597831|Error|1|2
+83601622|gainesville, ga|14164943|USA|1|2
+83601622|gainesville, ga|14261168|Harrisburg, PA|1|2
+83601622|gainesville, ga|163169629|Cartersville, Georgia|1|2
+83601622|gainesville, ga|386723759|Error|1|2
+83601622|gainesville, ga|18673924|Florida|1|2
+83601622|gainesville, ga|42758427|Austin, TX|1|2
+83601622|gainesville, ga|20235575|Error|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|15195171|Washington DC|1|2
+83601622|gainesville, ga|37536611|Wyoming|1|2
+83601622|gainesville, ga|19709788|New Jersey, USA|1|2
+83601622|gainesville, ga|817977|Kansas City, MO|1|2
+83601622|gainesville, ga|18706957|Horseheads, New York|1|2
+83601622|gainesville, ga|32011415|Austin, Texas|1|2
+83601622|gainesville, ga|16354543|Atlanta, Ga|1|2
+83601622|gainesville, ga|14500344|Error|1|2
+83601622|gainesville, ga|3014412550|Error|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|34958117|San Diego, CA|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|15412070|Portland, Oregon|1|2
+83601622|gainesville, ga|26956587|Gainesville, GA|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|33160900|Ocala, Florida, USA|1|2
+83601622|gainesville, ga|16856019|Fontana, CA|1|2
+83601622|gainesville, ga|24601244|Tampa|1|2
+83601622|gainesville, ga|86847231|New York|1|2
+83601622|gainesville, ga|3592815854|Error|1|2
+83601622|gainesville, ga|610419764|indonesia|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|52501470|Error|1|2
+83601622|gainesville, ga|21746336|Kuenzelsau|1|2
+83601622|gainesville, ga|29039116|Lexington,KY|1|2
+83601622|gainesville, ga|28470558|Cincinnati, OH|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|2656681|Boulder, CO|1|2
+83601622|gainesville, ga|3833701|New York, NY|1|2
+83601622|gainesville, ga|11420742|Austin, Texas 78731|1|2
+83601622|gainesville, ga|43987752|Atlanta, GA|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|30387186|Sarasota, FL|1|2
+83601622|gainesville, ga|43622577|London, UK|1|2
+83601622|gainesville, ga|22643696|Athens, GA  USA|1|2
+83601622|gainesville, ga|24281654|Error|1|2
+83601622|gainesville, ga|14079425|Southampton, NY|1|2
+83601622|gainesville, ga|275603619|Error|1|2
+83601622|gainesville, ga|16476356|Valdosta, GA|1|2
+83601622|gainesville, ga|34902910|Brussels|1|2
+83601622|gainesville, ga|14329221|Maryland|1|2
+83601622|gainesville, ga|15014044|Denver, CO|1|2
+83601622|gainesville, ga|54046960|Alabama|1|2
+83601622|gainesville, ga|6174802|Singapore|1|2
+83601622|gainesville, ga|2776801|Dallas|1|2
+83601622|gainesville, ga|0|Error|1|2
+83601622|gainesville, ga|19273104|Silicon Valley|1|2
+83601622|gainesville, ga|18274110|Avondale, AZ|1|2
+83601622|gainesville, ga|14259600|Atlanta, GA |1|2
+37597165|gainesville, fl|2252658062|Orlando, Florida|7|2
+37597165|gainesville, fl|211269169|Error|3|2
+37597165|gainesville, fl|17611121|Central Florida|2|2
+37597165|gainesville, fl|21507104|Orlando, FL|2|2
+37597165|gainesville, fl|68855695|Florida|2|2
+37597165|gainesville, fl|16000167|Gainesville, Florida|2|2
+37597165|gainesville, fl|68482589|Hanover, NH|2|2
+37597165|gainesville, fl|25421533|Louisiana & North Carolina|2|2
+37597165|gainesville, fl|1020296503|Error|1|2
+37597165|gainesville, fl|11522502|Everywhere|1|2
+37597165|gainesville, fl|23032440|Tampa, FL|1|2
+37597165|gainesville, fl|18663924|San Antonio, Texas|1|2
+37597165|gainesville, fl|0|Error|1|2
+37597165|gainesville, fl|0|Error|1|2
+37597165|gainesville, fl|0|Error|1|2
+37597165|gainesville, fl|0|Error|1|2
+37597165|gainesville, fl|0|Error|1|2
+55816213|gainesville, florida|14346219|Cincinnati, Ohio|3|2
+55816213|gainesville, florida|0|Error|1|2
+55816213|gainesville, florida|50534971|Error|1|2
+55816213|gainesville, florida|0|Error|1|2
+55816213|gainesville, florida|14464331|Philadelphia|1|2
+55816213|gainesville, florida|10274302|Ellicott City, Maryland|1|2
+55816213|gainesville, florida|16908775|Tampa Bay, Florida|1|2
+85441546|gainesville, fl|12343612|Boontucky y'all! |13|2
+85441546|gainesville, fl|20380789|Vancouver|8|2
+85441546|gainesville, fl|14075881|Portland, OR|4|2
+85441546|gainesville, fl|0|Error|3|2
+85441546|gainesville, fl|68227919|Error|1|2
+85441546|gainesville, fl|85008244|Error|1|2
+16499470|gainesville, fl|20023129|Gainesville, FL|2|2
+16499470|gainesville, fl|68549583|Gainesville, SF, Abington PA|2|2
+16499470|gainesville, fl|11764992|Florida|1|2
+16499470|gainesville, fl|26551895|Winter Park, FL|1|2
+16499470|gainesville, fl|37422902|New York, NY|1|2
+16499470|gainesville, fl|2720290895|Error|1|2
+16499470|gainesville, fl|26636629|Error|1|2
+16499470|gainesville, fl|39662056|Florida|1|2
+16499470|gainesville, fl|20489830|Error|1|2
+16499470|gainesville, fl|0|Error|1|2
+16499470|gainesville, fl|0|Error|1|2
+22530611|gainesville, fl|31680533|Error|10|2
+22530611|gainesville, fl|0|Error|3|2
+22530611|gainesville, fl|0|Error|2|2
+22530611|gainesville, fl|0|Error|1|2
+22530611|gainesville, fl|16490235|DC + NYC|1|2
+22530611|gainesville, fl|29783155|On my way...|1|2
+22530611|gainesville, fl|308708304|New Life|1|2
+22530611|gainesville, fl|0|Error|1|2
+22530611|gainesville, fl|0|Error|1|2
+22530611|gainesville, fl|0|Error|1|2
+15966694|gainesville, fl|0|Error|5|2
+15966694|gainesville, fl|0|Error|4|2
+15966694|gainesville, fl|0|Error|2|2
+15966694|gainesville, fl|0|Error|1|2
+15966694|gainesville, fl|21688785|FL|1|2
+15966694|gainesville, fl|5363472|jacksonville, florida|1|2
+15966694|gainesville, fl|15329996|Gainesville, FL|1|2
+15966694|gainesville, fl|0|Error|1|2
+15966694|gainesville, fl|0|Error|1|2
+29879961|gainesville, fl|17728340|DFW|5|2
+29879961|gainesville, fl|0|Error|3|2
+29879961|gainesville, fl|58310613|New York City|3|2
+29879961|gainesville, fl|18713254|Earth|2|2
+29879961|gainesville, fl|20026791|Metro Detroit|1|2
+29879961|gainesville, fl|30820545|iPhone: 40.840549,-73.851151|1|2
+29879961|gainesville, fl|0|Error|1|2
+29879961|gainesville, fl|19656303|Error|1|2
+29879961|gainesville, fl|5380672|Chicago, IL|1|2
+29879961|gainesville, fl|45648595|Sesame Street|1|2
+29879961|gainesville, fl|46996486|Brooklyn, NY|1|2
+29879961|gainesville, fl|0|Error|1|2
+29879961|gainesville, fl|18713314|United Kingdom|1|2
+29879961|gainesville, fl|0|Error|1|2
+29879961|gainesville, fl|335823341|Error|1|2
+29879961|gainesville, fl|15050982|Gainesville|1|2
+29879961|gainesville, fl|52923016|Tallahassee, FL|1|2
+29879961|gainesville, fl|49169553|Los Angeles, CA|1|2
+30144233|gainesville, florida|34745210|South Tx|1|2
+14271925|gainesville, fl|2837087717|Error|2|2
+14271925|gainesville, fl|28857540|Gainesville, FL|2|2
+14271925|gainesville, fl|18383047|Miami FL|2|2
+14271925|gainesville, fl|14289886|Gainesville, FL USA|2|2
+14271925|gainesville, fl|666073|Los Feliz, California|1|2
+14271925|gainesville, fl|27168380|North Carolina|1|2
+14271925|gainesville, fl|0|Error|1|2
+14271925|gainesville, fl|14744436|Gainesville|1|2
+14271925|gainesville, fl|0|Error|1|2
+14271925|gainesville, fl|92706672|Error|1|2
+14271925|gainesville, fl|17511989|Gainesville - North FL|1|2
+14271925|gainesville, fl|132880705|Toronto|1|2
+14271925|gainesville, fl|626437153|Error|1|2
+14271925|gainesville, fl|19495940|2720 Oak View Rd.Templeton, CA|1|2
+14271925|gainesville, fl|16659654|Florida|1|2
+14271925|gainesville, fl|14305488|RDU, NC|1|2
+30419383|gainesville, fl|0|Error|2|2
+30419383|gainesville, fl|15166261|Error|2|2
+30419383|gainesville, fl|18498361|Error|2|2
+30419383|gainesville, fl|557035938|Cyberspace|1|2
+30419383|gainesville, fl|33719856|Boston|1|2
+30419383|gainesville, fl|20078009|Pennsylvania|1|2
+30419383|gainesville, fl|1917731|Washington, DC|1|2
+30419383|gainesville, fl|47700977|Boston, MA|1|2
+30419383|gainesville, fl|0|Error|1|2
+30419383|gainesville, fl|0|Error|1|2
+30419383|gainesville, fl|2460406159|Shanghai|1|2
+30419383|gainesville, fl|0|Error|1|2
+30419383|gainesville, fl|19316267|Somerville, Massachusetts|1|2
+30419383|gainesville, fl|0|Error|1|2
+30419383|gainesville, fl|15159315|Error|1|2
+30419383|gainesville, fl|2467791|Washington, DC|1|2
+30419383|gainesville, fl|16558796|Boston|1|2
+30419383|gainesville, fl|19185333|Boston, MA|1|2
+30419383|gainesville, fl|0|Error|1|2
+30419383|gainesville, fl|74561998|Chapel Hill, NC|1|2
+30419383|gainesville, fl|435213502|Error|1|2
+30419383|gainesville, fl|813286|Washington, DC|1|2
+30419383|gainesville, fl|227449332|Error|1|2
+30419383|gainesville, fl|0|Error|1|2
+19925463|gainesville, fl|16119128|Windermere, FL|2|2
+19925463|gainesville, fl|54324533|Gainesville, FL|2|2
+19925463|gainesville, fl|0|Error|1|2
+19925463|gainesville, fl|295362444|Error|1|2
+19925463|gainesville, fl|0|Error|1|2
+19925463|gainesville, fl|19925463|Sunshine State|1|2
+15768561|gainesville, florida|17022334|New York City|1|2
+73452320|gainesville, florida|40109709|Bham|1|2
+73452320|gainesville, florida|57996399|pace, fl|1|2
+73452320|gainesville, florida|0|Error|1|2
+73452320|gainesville, florida|0|Error|1|2
+14740629|gainesville, florida|14740629|Gainesville, Florida|6|2
+14740629|gainesville, florida|22376509|Gainesville, FL|3|2
+14740629|gainesville, florida|0|Error|2|2
+14740629|gainesville, florida|61366308|GAINESVILLE!|2|2
+14740629|gainesville, florida|18535701|Gainesville, FL|2|2
+14740629|gainesville, florida|37091315|Gainesville, FL|1|2
+14740629|gainesville, florida|0|Error|1|2
+14740629|gainesville, florida|65635325|Gainesville, Florida|1|2
+14740629|gainesville, florida|16043282|Gainesville, Florida|1|2
+14740629|gainesville, florida|0|Error|1|2
+14740629|gainesville, florida|56619583|Gainesville, FL|1|2
+66151931|gainesville, fl|44644475|Gainesville, Fla.|2|2
+66151931|gainesville, fl|25956135|Jacksonville, FL|1|2
+66151931|gainesville, fl|18844828|The Swamp|1|2
+14793555|gainesville, fl|0|Error|1|2
+14793555|gainesville, fl|23226957|www.instagram.com/amandasixx|1|2
+14793555|gainesville, fl|43735210|Lake Worth, FL|1|2
+14793555|gainesville, fl|34659357|FL|1|2
+14793555|gainesville, fl|33165791|Orlando, FL|1|2
+14793555|gainesville, fl|0|Error|1|2
+68321262|gainesville, fl|1966208112|Anywhere,  USA|3|2
+68321262|gainesville, fl|59541439|ATL/MIAMI/FT LAUDERDALE|2|2
+68321262|gainesville, fl|21278412|Where the Cash At|2|2
+68321262|gainesville, fl|17792373|DUBAI |1|2
+68321262|gainesville, fl|0|Error|1|2
+68321262|gainesville, fl|0|Error|1|2
+68321262|gainesville, fl|29396367|Brooklyn, NY|1|2
+68321262|gainesville, fl|0|Error|1|2
+68321262|gainesville, fl|291877432|Error|1|2
+68321262|gainesville, fl|260792476|Error|1|2
+68321262|gainesville, fl|18220175|EVERYWHERE!!!|1|2
+68321262|gainesville, fl|20658249|Miami|1|2
+68321262|gainesville, fl|48079920|The Trenches|1|2
+68321262|gainesville, fl|18021795|Error|1|2
+8570212|gainesville, fl|17898687|Error|1|2
+23505115|gainesville, fl|476648511|Error|2|2
+21169828|gainesville, florida|360710313|Error|1|2
+21169828|gainesville, florida|0|Error|1|2
+21169828|gainesville, florida|972651|Error|1|2
+26428272|gainesville, florida|0|Error|11|2
+64204551|gainesville, fl|19656303|Error|1|2
+29643654|gainesville, fl|24486766|The city of angels|4|2
+29643654|gainesville, fl|16677152|CA|1|2
+29643654|gainesville, fl|203009870|Error|1|2
+29643654|gainesville, fl|96921445|Error|1|2
+29643654|gainesville, fl|215496604|Louisville, Kentucky|1|2
+29643654|gainesville, fl|22293913|Dallas, TX|1|2
+29643654|gainesville, fl|125294211| IG: @brandundeshay|1|2
+14984636|gainesville, fl|360710313|Error|4|2
+14984636|gainesville, fl|18663924|San Antonio, Texas|2|2
+14984636|gainesville, fl|19133417|Houston, TX, serving worldwide|2|2
+14984636|gainesville, fl|1020296503|Error|1|2
+14984636|gainesville, fl|0|Error|1|2
+14984636|gainesville, fl|26005058|Error|1|2
+14984636|gainesville, fl|0|Error|1|2
+14984636|gainesville, fl|17070302|Cherry Hill, NJ|1|2
+14984636|gainesville, fl|74626741|Alachua, Florida|1|2
+14984636|gainesville, fl|0|Error|1|2
+14984636|gainesville, fl|31800915|Error|1|2
+14984636|gainesville, fl|34765837|Northern Illinois & Chicago|1|2
+14984636|gainesville, fl|17611121|Central Florida|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|27509864|Error|1|2
+74756463|gainesville, fl|20443412|Gator Country|1|2
+74756463|gainesville, fl|29030269|Error|1|2
+74756463|gainesville, fl|21040668|Lake City, FL|1|2
+74756463|gainesville, fl|18654043|Washington, DC|1|2
+74756463|gainesville, fl|24554676|Florida|1|2
+74756463|gainesville, fl|1668489721|Houston, Texas|1|2
+74756463|gainesville, fl|26593323|Linn, KS|1|2
+74756463|gainesville, fl|14148189|28.433515,-81.249737|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|26038301|Error|1|2
+74756463|gainesville, fl|19003449|Tampa, FL|1|2
+74756463|gainesville, fl|48591205|Cincinnati Ohio|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|26409094|Error|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|16745129|Evri HQ, Seattle, WA, USA|1|2
+74756463|gainesville, fl|0|Error|1|2
+74756463|gainesville, fl|47668792|Error|1|2
+18138642|gainesville, fl|69130407|Gainesville, FL|3|2
+18138642|gainesville, fl|15724437|Gainesville, FL|3|2
+18138642|gainesville, fl|14778268|Gainesville, FL, USA|2|2
+18138642|gainesville, fl|20274482|Jacksonville, Fl|2|2
+18138642|gainesville, fl|773003|Denver|1|2
+18138642|gainesville, fl|13063152|Oxford, UK|1|2
+19206746|gainesville, fl|26806930|Gainesville, United States|1|2
+45150479|gainesville, florida|16102274|St. Louis MO|3|2
+45150479|gainesville, florida|0|Error|2|2
+45150479|gainesville, florida|0|Error|1|2
+45150479|gainesville, florida|979385042|Error|1|2
+45150479|gainesville, florida|37308421|Corporate:Louisville, Kentucky|1|2
+45150479|gainesville, florida|17963088|St. Louis |1|2
+45150479|gainesville, florida|0|Error|1|2
+45150479|gainesville, florida|1704351336|Error|1|2
+45150479|gainesville, florida|0|Error|1|2
+32929177|gainesville, fl|41991772|Gainesville, Florida|1|2
+32929177|gainesville, fl|8737662|Gainesville, Fla.|1|2
+32929177|gainesville, fl|40671028|Florida|1|2
+32929177|gainesville, fl|556194224|Error|1|2
+32929177|gainesville, fl|28907211|Los Angeles|1|2
+29607365|gainesville, fl|0|Error|3|2
+29607365|gainesville, fl|0|Error|1|2
+16177521|gainesville, florida|0|Error|8|2
+16177521|gainesville, florida|0|Error|3|2
+16177521|gainesville, florida|2803261357|Error|3|2
+16177521|gainesville, florida|0|Error|1|2
+16177521|gainesville, florida|33799476|Boston, MA 02171|1|2
+16177521|gainesville, florida|0|Error|1|2
+55023091|gainesville, fl|37863560|Error|1|2
+16225951|gainesville, fl|41175778|Boston, MA|3|2
+16225951|gainesville, fl|14235990|Atlanta via South Florida|2|2
+16225951|gainesville, fl|5363472|jacksonville, florida|2|2
+16225951|gainesville, fl|33752765|Scottsdale, AZ|1|2
+16225951|gainesville, fl|19670346|Orlando, Florida|1|2
+16225951|gainesville, fl|16082354|Orlando, Fl|1|2
+16225951|gainesville, fl|1503071|Gainesville, FL|1|2
+16225951|gainesville, fl|18554178|Sunny Florida|1|2
+16225951|gainesville, fl|0|Error|1|2
+16225951|gainesville, fl|21626757|Washington, DC|1|2
+22530611|gainesville, fl|0|Error|8|2
+22530611|gainesville, fl|14155373|Error|6|2
+22530611|gainesville, fl|25138694|Between Psychotic and Iconic|4|2
+22530611|gainesville, fl|31680533|Error|1|2
+22530611|gainesville, fl|0|Error|1|2
+22530611|gainesville, fl|15515085|Atlanta, GA|1|2
+22530611|gainesville, fl|22530611|Chicago, IL|1|2
+27790214|gainesville, florida|337463491|Error|3|2
+27790214|gainesville, florida|21975242|PARTS UNKNOWN|3|2
+27790214|gainesville, florida|0|Error|2|2
+27790214|gainesville, florida|0|Error|2|2
+27790214|gainesville, florida|0|Error|2|2
+27790214|gainesville, florida|23832022|Worldwide |2|2
+27790214|gainesville, florida|43063087|Error|1|2
+27790214|gainesville, florida|25607733|Denver, CO|1|2
+27790214|gainesville, florida|14339483|Miami, FL |1|2
+27790214|gainesville, florida|22111002|Error|1|2
+20485342|gainesville, fl|15157960|Dallas, GA|1|2
+20485342|gainesville, fl|10563792|Error|1|2
+20485342|gainesville, fl|14800035|Dallas/Fort Worth, TX|1|2
+20485342|gainesville, fl|15536163|Cartersville, GA|1|2
+20485342|gainesville, fl|0|Error|1|2
+20485342|gainesville, fl|0|Error|1|2
+20485342|gainesville, fl|0|Error|1|2
+20485342|gainesville, fl|0|Error|1|2
+20485342|gainesville, fl|13183462|Lakeland, Florida|1|2
+55115343|gainesville, fl|39757887|Bradford, England|1|2
+55115343|gainesville, fl|20109973|New York, New York|1|2
+55115343|gainesville, fl|14939981|Philly & Fi-Di NYC & 31Rock|1|2
+55115343|gainesville, fl|0|Error|1|2
+55115343|gainesville, fl|21372746|Florida|1|2
+55115343|gainesville, fl|363786868|Error|1|2
+15329996|gainesville, fl|15166127|Lakeland, FL|5|2
+15329996|gainesville, fl|16573871|Error|2|2
+15329996|gainesville, fl|44268850|Los Angeles, CA|1|2
+15329996|gainesville, fl|11698692|Gainesville, fl|1|2
+15329996|gainesville, fl|38358016|Gainesville|1|2
+16382820|gainesville, florida|26432107|Error|1|2
+46852007|gainesville, florida|41368123|Gainesville, FL|2|2
+46852007|gainesville, florida|18685759|Florida|1|2
+46852007|gainesville, florida|10665742|gainesville, fl|1|2
+46852007|gainesville, florida|31800915|Error|1|2
+16453801|gainesville, fl|14676273|Lake Mary, FL|1|2
+16453801|gainesville, fl|19734114|Error|1|2
+57359657|gainesville, fl|0|Error|4|2
+57359657|gainesville, fl|1112792870|Error|4|2
+57359657|gainesville, fl|312148495|San Francisco|1|2
+57359657|gainesville, fl|15455314|Error|1|2
+57359657|gainesville, fl|16653780|Error|1|2
+12271842|gainesville, fl|12223|California|2|2
+12271842|gainesville, fl|11587712|Estonia|2|2
+12271842|gainesville, fl|13796572|Mountain View, California|2|2
+12271842|gainesville, fl|0|Error|1|2
+12271842|gainesville, fl|14372486|Global|1|2
+12271842|gainesville, fl|18653813|San Francisco|1|2
+37710310|gainesville, florida|0|Error|1|2
+37710310|gainesville, florida|56823983|Amsterdam|1|2
+45911325|gainesville, fl|0|Error|4|2
+45911325|gainesville, fl|0|Error|1|2
+45911325|gainesville, fl|25237279|South Florida|1|2
+45911325|gainesville, fl|8737662|Gainesville, Fla.|1|2
+45911325|gainesville, fl|28100678|Gainesville, FL|1|2
+45911325|gainesville, fl|194529009|catania|1|2
+72126070|gainesville, florida|0|Error|3|2
+72126070|gainesville, florida|44656660|Memphis, Tn|1|2
+72126070|gainesville, florida|26003479|Indianapolis, IN|1|2
+72126070|gainesville, florida|170147436|Error|1|2
+72126070|gainesville, florida|2154561535|Error|1|2
+72126070|gainesville, florida|18091904|Error|1|2
+18666189|gainesville, fl|47492251|Error|2|2
+18666189|gainesville, fl|0|Error|1|2
+18666189|gainesville, fl|18625494|Seattle, WA|1|2
+18666189|gainesville, fl|41725189|Error|1|2
+18666189|gainesville, fl|16231318|CLIFFS EDGE MUSIC VIDEO NOW!|1|2
+18666189|gainesville, fl|19557391|Fort Myers, FL|1|2
+14552063|gainesville, florida|16799864|Gainesville, Florida|2|2
+14552063|gainesville, florida|0|Error|2|2
+14552063|gainesville, florida|286376902|Error|1|2
+14552063|gainesville, florida|322472427|Error|1|2
+14552063|gainesville, florida|666073|Los Feliz, California|1|2
+14552063|gainesville, florida|777925|United States|1|2
+14552063|gainesville, florida|31808570|Florida|1|2
+14552063|gainesville, florida|9697732|NYC|1|2
+14552063|gainesville, florida|1906639824|Johannesburg , South Africa|1|2
+14552063|gainesville, florida|2752693417|Error|1|2
+14552063|gainesville, florida|9217222|Washington, DC|1|2
+14552063|gainesville, florida|5809062|Gainesville, Florida|1|2
+33429990|gainesville, fl|23965900|Virginia|10|2
+14563155|gainesville, fl|4068821|Miami, FL|1|2
+14563155|gainesville, fl|21840874|Annapolis, MD|1|2
+14563155|gainesville, fl|16563442|Infinity orbiting Requiem|1|2
+14563155|gainesville, fl|0|Error|1|2
+14563155|gainesville, fl|0|Error|1|2
+14563155|gainesville, fl|555308599|Error|1|2
+14563155|gainesville, fl|0|Error|1|2
+14563155|gainesville, fl|15987803|On a tiny island.|1|2
+14563155|gainesville, fl|0|Error|1|2
+14563155|gainesville, fl|15913|Seattle via New England|1|2
+14563155|gainesville, fl|13683032|Usually online or in airports|1|2
+14563155|gainesville, fl|19136145|Error|1|2
+14563155|gainesville, fl|3318987903|Error|1|2
+12491152|gainesville, fl|0|Error|5|2
+16697551|gainesville, florida|0|Error|3|2
+16697551|gainesville, florida|1020296503|Error|2|2
+16697551|gainesville, florida|91255128|Error|2|2
+16697551|gainesville, florida|6242522|Paris, France|1|2
+16697551|gainesville, florida|18246103|Mid-Atlantic|1|2
+16697551|gainesville, florida|18663924|San Antonio, Texas|1|2
+16697551|gainesville, florida|91878983|Florida, U.S|1|2
+16697551|gainesville, florida|19793573|Monterey Bay, CA|1|2
+16697551|gainesville, florida|454622816|Error|1|2
+16697551|gainesville, florida|0|Error|1|2
+16697551|gainesville, florida|14972523|CALIFORNIA BASED|1|2
