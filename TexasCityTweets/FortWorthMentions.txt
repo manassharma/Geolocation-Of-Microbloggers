@@ -1,0 +1,1624 @@
+18092692|fort worth, texas|726624445|Planet Earth|2|2
+18092692|fort worth, texas|26802755|Seattle, WA|2|2
+18092692|fort worth, texas|18401817|Error|2|2
+18092692|fort worth, texas|4923811|Washington, D.C.|1|2
+18092692|fort worth, texas|14345566|Texas Hill Country|1|2
+18092692|fort worth, texas|45001367|South Austin, TX|1|2
+18092692|fort worth, texas|298385416|The Kitchen.|1|2
+18092692|fort worth, texas|18771551|Dallas, Texas|1|2
+37771395|fort worth, tx|0|Error|1|2
+88350723|fort worth, texas|20595248|Live from Bedford Stuyvesant|2|2
+88350723|fort worth, texas|45435441|Cali|2|2
+88350723|fort worth, texas|47254709|Los Angeles|1|2
+88350723|fort worth, texas|251111351|Error|1|2
+88350723|fort worth, texas|87837277|sacramento, ca|1|2
+88350723|fort worth, texas|287342192|Error|1|2
+88350723|fort worth, texas|0|Error|1|2
+88350723|fort worth, texas|71968010|BROOKLYN, NEW YORK|1|2
+17368720|fort worth, texas|18341371|Dallas, TX, USA|3|2
+17368720|fort worth, texas|2504721146|Error|1|2
+17368720|fort worth, texas|10350|San Francisco|1|2
+17368720|fort worth, texas|16365305|Austin, TX|1|2
+17368720|fort worth, texas|29575792|South Carolina|1|2
+17368720|fort worth, texas|972651|Error|1|2
+17368720|fort worth, texas|6142982|Fort Worth, TX|1|2
+17368720|fort worth, texas|61231071|iPhone: 32.688295,-97.390102|1|2
+17368720|fort worth, texas|1528384508|Error|1|2
+17368720|fort worth, texas|0|Error|1|2
+17368720|fort worth, texas|2735591|New York, NY|1|2
+17368720|fort worth, texas|6067802|NY, CT, CA, Airports|1|2
+17368720|fort worth, texas|0|Error|1|2
+17368720|fort worth, texas|122151801|Error|1|2
+17368720|fort worth, texas|3386439610|Error|1|2
+17368720|fort worth, texas|14096877|Fort Worth, Texas|1|2
+17368720|fort worth, texas|14140390|Fort Worth, TX|1|2
+17368720|fort worth, texas|0|Error|1|2
+17368720|fort worth, texas|0|Error|1|2
+17368720|fort worth, texas|18665800|New York, NY|1|2
+17368720|fort worth, texas|9128152|New York, NY|1|2
+17368720|fort worth, texas|807095|New York City|1|2
+17368720|fort worth, texas|809760|Nebraska and NYC|1|2
+17368720|fort worth, texas|18105767|Washington DC|1|2
+17368720|fort worth, texas|15615783|Fort Worth, Texas|1|2
+17368720|fort worth, texas|12480582|New York and beyond...|1|2
+17368720|fort worth, texas|55611495|Error|1|2
+17368720|fort worth, texas|20413928|Error|1|2
+17368720|fort worth, texas|11522502|Everywhere|1|2
+17368720|fort worth, texas|0|Error|1|2
+17368720|fort worth, texas|0|Error|1|2
+17368720|fort worth, texas|0|Error|1|2
+17368720|fort worth, texas|16691493|Washington, DC|1|2
+17368720|fort worth, texas|0|Error|1|2
+17368720|fort worth, texas|16950863|Dallas, TX|1|2
+14428123|fort worth, texas|17952575|oklahoma city, ok|3|2
+14428123|fort worth, texas|17221236|Oklahoma|3|2
+14428123|fort worth, texas|14150580|Denver, CO|3|2
+14428123|fort worth, texas|14678419|California|3|2
+14428123|fort worth, texas|0|Error|3|2
+14428123|fort worth, texas|15669289|Fort Worth, TX, USA|3|2
+14428123|fort worth, texas|2274541412|Error|2|2
+14428123|fort worth, texas|788158|Denver, CO|2|2
+14428123|fort worth, texas|14049377|Oklahoma City, OK|2|2
+14428123|fort worth, texas|15205798|Boston, MA & Denver, CO|1|2
+14428123|fort worth, texas|17836026|Los Angeles, CA|1|2
+14428123|fort worth, texas|17211199|Crowley, TX|1|2
+14428123|fort worth, texas|25375465|Fort Worth, TX|1|2
+14428123|fort worth, texas|25911048|Dallas, TX|1|2
+14428123|fort worth, texas|23581822|Fort Worth, Texas|1|2
+14428123|fort worth, texas|353795392|United Kingdom|1|2
+50901815|fort worth, tx|156863143|Error|2|2
+15615783|fort worth, texas|0|Error|8|2
+15615783|fort worth, texas|0|Error|1|2
+19947195|fort worth, tx|18784654|Chicago (Jeff) - Space (Allen)|2|2
+19947195|fort worth, tx|21824185|Danger Zone|2|2
+19947195|fort worth, tx|45353487|Jackson, MO|2|2
+19947195|fort worth, tx|0|Error|2|2
+19947195|fort worth, tx|23548212|Error|2|2
+19947195|fort worth, tx|28297753|Nashville, TN|1|2
+19947195|fort worth, tx|1445387053|Error|1|2
+19947195|fort worth, tx|11185472|Madrid|1|2
+19947195|fort worth, tx|0|Error|1|2
+19947195|fort worth, tx|25562846|TCU, Fort Worth, Texas|1|2
+19947195|fort worth, tx|0|Error|1|2
+19947195|fort worth, tx|15936212|Error|1|2
+19947195|fort worth, tx|223592688|Error|1|2
+19947195|fort worth, tx|0|Error|1|2
+18243663|fort worth, tx|18195760|Seattleish|3|2
+18243663|fort worth, tx|16103573|Fort Worth|2|2
+18243663|fort worth, tx|1563001|Soviet Canuckistan|1|2
+18243663|fort worth, tx|25324919|Fort Worth, TX|1|2
+18243663|fort worth, tx|11883132|San Francisco|1|2
+18243663|fort worth, tx|43964892|San Francisco, California|1|2
+18243663|fort worth, tx|6941912|Austin, Texas, USA|1|2
+18243663|fort worth, tx|54793|Portland, Oregon|1|2
+18243663|fort worth, tx|756264|Austin, TX|1|2
+18243663|fort worth, tx|15203570|Dallas, TX|1|2
+18243663|fort worth, tx|1380911|San Francisco|1|2
+18243663|fort worth, tx|11656|New York|1|2
+18243663|fort worth, tx|0|Error|1|2
+18243663|fort worth, tx|1235521|Vancouver!|1|2
+79587418|fort worth, texas|14895914|Sarasota, FL|3|2
+79587418|fort worth, texas|54298920|3009 University, Fort Worth|1|2
+79587418|fort worth, texas|0|Error|1|2
+79587418|fort worth, texas|0|Error|1|2
+79587418|fort worth, texas|21369066|The Lone Star State|1|2
+79587418|fort worth, texas|43959175|Cary, NC|1|2
+79587418|fort worth, texas|76224013|Denver Co|1|2
+21786502|fort worth, tx|2957178063|East Barnet|1|2
+21786502|fort worth, tx|0|Error|1|2
+21786502|fort worth, tx|37098694|Worldwide|1|2
+21786502|fort worth, tx|2972571|Mumbai, India|1|2
+21786502|fort worth, tx|18994509|Southern California|1|2
+21786502|fort worth, tx|15164565|Error|1|2
+21786502|fort worth, tx|13062722|United States|1|2
+21786502|fort worth, tx|14523316|Menlo Park, California|1|2
+21786502|fort worth, tx|19586694|Israel|1|2
+21786502|fort worth, tx|16232843|NYC|1|2
+21786502|fort worth, tx|14569869|Error|1|2
+21786502|fort worth, tx|1672601|Cobble Hill, Brooklyn|1|2
+21786502|fort worth, tx|12578882|Boston|1|2
+21786502|fort worth, tx|17539313|London, NYC & San Fran|1|2
+21786502|fort worth, tx|14122768|Dublin, Ireland|1|2
+21786502|fort worth, tx|25174997|Error|1|2
+27947739|fort worth, tx|282355855|Error|6|2
+27947739|fort worth, tx|424809178|Dallas Texas|3|2
+27947739|fort worth, tx|16314843|Penn Yan, NY|2|2
+27947739|fort worth, tx|238210189|Error|2|2
+27947739|fort worth, tx|0|Error|2|2
+27947739|fort worth, tx|0|Error|2|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|28716190|somewhere in the NC|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|416198023|Fort Lauderdale, FL|1|2
+27947739|fort worth, tx|1203932972|Error|1|2
+27947739|fort worth, tx|35250709|D.M.V / N.Y.|1|2
+27947739|fort worth, tx|25000922|Error|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|20566864|NEW YORK, NY|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|17624364|IRELAND|1|2
+27947739|fort worth, tx|42273808| New York City Brooklyn|1|2
+27947739|fort worth, tx|27049555|Dallas, Texas|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|484412506|Error|1|2
+27947739|fort worth, tx|51541595|Unbothered|1|2
+27947739|fort worth, tx|14462946|Edinburgh|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|6629472|Orlando, Fl|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|41854795|Syracuse, NY|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|60174651|Wherever I may roam....|1|2
+27947739|fort worth, tx|21040529|SAINT LOUIS |1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|138486377|Las Gidi|1|2
+27947739|fort worth, tx|20236468|Venus|1|2
+27947739|fort worth, tx|31326082|Los Angeles, CA|1|2
+27947739|fort worth, tx|20412177|Depends on the time... AD|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|52393044|Auckland|1|2
+27947739|fort worth, tx|204553708|Error|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|21305426|TX, OK, & Thereabouts|1|2
+27947739|fort worth, tx|587043391|Error|1|2
+27947739|fort worth, tx|22808941|Fort worth, Texas|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|14768574|Texas|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|36376354|Philadelphia, PA|1|2
+27947739|fort worth, tx|18568439|Los Angeles (via Planet ASTRO)|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|18866896|Error|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|549351458|210, TEXAS |1|2
+27947739|fort worth, tx|0|Error|1|2
+27947739|fort worth, tx|15322793|GLOBALLY INFINITE|1|2
+27947739|fort worth, tx|330846256|Error|1|2
+27947739|fort worth, tx|24986361|Brooklyn N.Y.|1|2
+27947739|fort worth, tx|0|Error|1|2
+76448099|fort worth, tx|0|Error|10|2
+76448099|fort worth, tx|0|Error|7|2
+76448099|fort worth, tx|0|Error|6|2
+76448099|fort worth, tx|1271024803|Eastside of da Funk|4|2
+76448099|fort worth, tx|25099488|South |4|2
+76448099|fort worth, tx|0|Error|4|2
+76448099|fort worth, tx|284838843|Da Daux(Thibodaux)|4|2
+76448099|fort worth, tx|804206054|Error|3|2
+76448099|fort worth, tx|1328308988|Somewhere|1|2
+76448099|fort worth, tx|0|Error|1|2
+76448099|fort worth, tx|25872486|Error|1|2
+76448099|fort worth, tx|27919966|Dallas Texas|1|2
+76448099|fort worth, tx|47222317|Dallas/Ft.Worth Texas|1|2
+76448099|fort worth, tx|0|Error|1|2
+76448099|fort worth, tx|37866025|FUNKY TOWN|1|2
+76448099|fort worth, tx|0|Error|1|2
+76448099|fort worth, tx|0|Error|1|2
+76448099|fort worth, tx|0|Error|1|2
+76448099|fort worth, tx|30973861|FUNKYTOWN (8SEVENTEEN)|1|2
+23102115|fort worth, tx|23102115|Aledo, Texas |4|2
+23102115|fort worth, tx|523894820|Error|3|2
+23102115|fort worth, tx|3002000371|Error|3|2
+23102115|fort worth, tx|58629711|Milwaukee, Wi |3|2
+23102115|fort worth, tx|22381552|What tide is it? #SlackTide|3|2
+23102115|fort worth, tx|41507680|Australia|3|2
+23102115|fort worth, tx|0|Error|2|2
+23102115|fort worth, tx|26461252|Ohio, US|2|2
+23102115|fort worth, tx|24388844|Buffalo, NY|2|2
+23102115|fort worth, tx|179912967|Burt,Michigan|2|2
+23102115|fort worth, tx|12622662|Texas-Maine-Texas-Maine|2|2
+23102115|fort worth, tx|16150255|OKC |1|2
+23102115|fort worth, tx|43918584|Long Beach, CA|1|2
+23102115|fort worth, tx|43512440|Palm Springs,  California|1|2
+23102115|fort worth, tx|14453638|Ft. Worth, Texas|1|2
+23102115|fort worth, tx|20126604|In a bunker, a cat on my lap|1|2
+23102115|fort worth, tx|147835349|Western WA|1|2
+23102115|fort worth, tx|57663868|Houston, TX|1|2
+23102115|fort worth, tx|0|Error|1|2
+23102115|fort worth, tx|31153274|Seabeck, WA Kitsap County |1|2
+23102115|fort worth, tx|37332302|Clearwater, Florida|1|2
+23102115|fort worth, tx|62205754|Ozone, Florida|1|2
+23102115|fort worth, tx|34932726|Error|1|2
+23102115|fort worth, tx|0|Error|1|2
+23102115|fort worth, tx|2173591363|Error|1|2
+23102115|fort worth, tx|18124375|Auburn, Newcastle, Sacramento|1|2
+23102115|fort worth, tx|23172966|Las Vegas, NV|1|2
+87103856|fort worth, tx|8453452|Silicon Valley, California|4|2
+87103856|fort worth, tx|12008172|New Delhi|2|2
+87103856|fort worth, tx|3974655130|Error|2|2
+87103856|fort worth, tx|14312391|Chicago|1|2
+87103856|fort worth, tx|0|Error|1|2
+87103856|fort worth, tx|17116521|Error|1|2
+87103856|fort worth, tx|476158046|Error|1|2
+87103856|fort worth, tx|15650726|Richmond, VA 23060|1|2
+87103856|fort worth, tx|6123762|New York, NY|1|2
+87103856|fort worth, tx|0|Error|1|2
+87103856|fort worth, tx|41658823|Texas; London; and elsewhere|1|2
+87103856|fort worth, tx|33442030|Australia|1|2
+87103856|fort worth, tx|0|Error|1|2
+87103856|fort worth, tx|0|Error|1|2
+87103856|fort worth, tx|18429396|London - Pittsburgh |1|2
+52464134|fort worth, tx|15275532|Warwick NY, Washington|7|2
+52464134|fort worth, tx|40568641|33 000 feet up in the sky...|4|2
+52464134|fort worth, tx|52523883|San Francisco, CA|4|2
+52464134|fort worth, tx|85908230|California, USA|3|2
+52464134|fort worth, tx|0|Error|3|2
+52464134|fort worth, tx|0|Error|2|2
+52464134|fort worth, tx|14883127|Orange, VA|2|2
+52464134|fort worth, tx|1463195654|Error|2|2
+52464134|fort worth, tx|17093617|Vancouver, Canada|2|2
+52464134|fort worth, tx|0|Error|2|2
+52464134|fort worth, tx|47435414|USA|1|2
+52464134|fort worth, tx|590093556|Error|1|2
+52464134|fort worth, tx|0|Error|1|2
+52464134|fort worth, tx|37106137|La Jolla, California|1|2
+52464134|fort worth, tx|1985381|California, USA|1|2
+52464134|fort worth, tx|25297764|Chattanooga WAS: Athens GA|1|2
+52464134|fort worth, tx|18256977|San Diego, California, USA|1|2
+52464134|fort worth, tx|22668381|California|1|2
+52464134|fort worth, tx|41871968|San Francisco CA|1|2
+52464134|fort worth, tx|0|Error|1|2
+52464134|fort worth, tx|0|Error|1|2
+52464134|fort worth, tx|0|Error|1|2
+52464134|fort worth, tx|17035510|Purposeville, USA|1|2
+52464134|fort worth, tx|0|Error|1|2
+52464134|fort worth, tx|56632005|San Diego, CA|1|2
+52464134|fort worth, tx|63282718|within truth|1|2
+34041061|fort worth, texas|55604675|Chandler AZ|1|2
+34041061|fort worth, texas|62286829|Error|1|2
+34041061|fort worth, texas|16273144|New York|1|2
+34041061|fort worth, texas|16940599|Markham, Canada|1|2
+34041061|fort worth, texas|17964389|Tampa, FL|1|2
+34041061|fort worth, texas|23843522|Fall River Ma|1|2
+34041061|fort worth, texas|8131042|Vancouver|1|2
+34041061|fort worth, texas|26520531|Swansea, Mass|1|2
+34041061|fort worth, texas|69621107|Pittsburgh|1|2
+34041061|fort worth, texas|0|Error|1|2
+34041061|fort worth, texas|0|Error|1|2
+34041061|fort worth, texas|67626219|Error|1|2
+34041061|fort worth, texas|0|Error|1|2
+34041061|fort worth, texas|14056454|Sonoma, CA|1|2
+34041061|fort worth, texas|1024661838|TEMBISA|1|2
+34041061|fort worth, texas|16856670|Bedford, Tarrant County, Texas|1|2
+34041061|fort worth, texas|14837928|Cary, NC, USA|1|2
+18175122|fort worth, tx|15164442|Burlington, ON, Canada|4|2
+18175122|fort worth, tx|14389031|Toronto, Ontario, Canada|2|2
+18175122|fort worth, tx|22879297|Sitting|1|2
+18175122|fort worth, tx|849591|Land of Unicorns|1|2
+18175122|fort worth, tx|14652452|Los Angeles|1|2
+18175122|fort worth, tx|29600506|Chennai, India|1|2
+18175122|fort worth, tx|17111803|Error|1|2
+18175122|fort worth, tx|18634736|Error|1|2
+18175122|fort worth, tx|16693178|Arlington, TX|1|2
+18175122|fort worth, tx|0|Error|1|2
+18175122|fort worth, tx|15746084|Bangalore, India|1|2
+21404607|fort worth, tx|0|Error|3|2
+21404607|fort worth, tx|9959722|Error|3|2
+21404607|fort worth, tx|26155063|austin, tx|3|2
+21404607|fort worth, tx|18015094|t-x|2|2
+21404607|fort worth, tx|0|Error|2|2
+21404607|fort worth, tx|18519661|Los Angeles, CA|1|2
+21404607|fort worth, tx|45928061|w(here)ver|1|2
+21404607|fort worth, tx|17453527|New York City |1|2
+21404607|fort worth, tx|1427579408|Makotopong|1|2
+56401471|fort worth, texas|14412514|Fort Worth|4|2
+56401471|fort worth, texas|0|Error|1|2
+56401471|fort worth, texas|0|Error|1|2
+56401471|fort worth, texas|10403272|Surrey, BC |1|2
+56401471|fort worth, texas|0|Error|1|2
+56401471|fort worth, texas|6409682|London, E16|1|2
+63479537|fort worth, tx|2279731459|Error|1|2
+63479537|fort worth, tx|0|Error|1|2
+23373309|fort worth, texas|0|Error|16|2
+23373309|fort worth, texas|0|Error|10|2
+23373309|fort worth, texas|23373309|B/w Venus, Mercury & Jupiter|8|2
+23373309|fort worth, texas|32426601|California, USA|7|2
+23373309|fort worth, texas|0|Error|4|2
+23373309|fort worth, texas|0|Error|4|2
+23373309|fort worth, texas|0|Error|2|2
+23373309|fort worth, texas|0|Error|1|2
+23373309|fort worth, texas|19639088|Utah|1|2
+23373309|fort worth, texas|0|Error|1|2
+23373309|fort worth, texas|0|Error|1|2
+23373309|fort worth, texas|20086239|Honolulu, HI|1|2
+23373309|fort worth, texas|81974166|NEW JERSEY|1|2
+23373309|fort worth, texas|23832022|Worldwide |1|2
+61698439|fort worth, tx|166191405|Error|4|2
+61698439|fort worth, tx|0|Error|3|2
+61698439|fort worth, tx|17383274|Colorado|2|2
+61698439|fort worth, tx|54247379|Florida|1|2
+61698439|fort worth, tx|14499791|Fresno|1|2
+61698439|fort worth, tx|77867071|yo momas house|1|2
+61698439|fort worth, tx|90671344|Error|1|2
+61698439|fort worth, tx|35238243|Chicago, IL|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|12953442|Louisville, Ky|1|2
+61698439|fort worth, tx|1089591|Louisville, KY|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|18060557|instagram: sealegs_|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|19271823|Texas|1|2
+61698439|fort worth, tx|9128152|New York, NY|1|2
+61698439|fort worth, tx|33051327|not from The Bronx|1|2
+61698439|fort worth, tx|41016119|Ohio|1|2
+61698439|fort worth, tx|1089961154|Error|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|25106320|Los Angeles, CA|1|2
+61698439|fort worth, tx|38766163|Los Angeles, CA|1|2
+61698439|fort worth, tx|25453711|Orlando|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|40909055|Error|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|46516525|aurora co|1|2
+61698439|fort worth, tx|131406430|D.F|1|2
+61698439|fort worth, tx|0|Error|1|2
+61698439|fort worth, tx|292877041|muntilan-yogyakarta|1|2
+61698439|fort worth, tx|7055782|Mexico|1|2
+61698439|fort worth, tx|20146654|Chicago, IL|1|2
+7695782|fort worth, tx|17388817|I'm a traveler|4|2
+7695782|fort worth, tx|15147630|0.000000,0.000000|4|2
+7695782|fort worth, tx|14952156|Montana Retreat|3|2
+7695782|fort worth, tx|15850970|Michigan, USA|2|2
+7695782|fort worth, tx|5569112|Mill Valley, CA|2|2
+7695782|fort worth, tx|14632221|San Diego, CA|1|2
+7695782|fort worth, tx|15839886|Toronto|1|2
+7695782|fort worth, tx|15233739|Potomac, MD|1|2
+7695782|fort worth, tx|13082862|Atlanta, GA|1|2
+7695782|fort worth, tx|6529322|Delray Beach, FL|1|2
+7695782|fort worth, tx|36889543|Error|1|2
+7695782|fort worth, tx|17260743|New York metro|1|2
+7695782|fort worth, tx|15518906|Austin TX|1|2
+7695782|fort worth, tx|2531386238|Error|1|2
+7695782|fort worth, tx|14842523|Chiang Mai|1|2
+7695782|fort worth, tx|18027390|Your better dreams...|1|2
+7695782|fort worth, tx|14432003|Kingwood|1|2
+7695782|fort worth, tx|17567075|Scottsdale, AZ|1|2
+7695782|fort worth, tx|1237411|Palo Alto, CA|1|2
+7695782|fort worth, tx|2541771|iPhone: 40.721893,-73.999832|1|2
+7695782|fort worth, tx|0|Error|1|2
+7695782|fort worth, tx|0|Error|1|2
+7695782|fort worth, tx|7971732|Asheville, NC|1|2
+7695782|fort worth, tx|708390171|Error|1|2
+7695782|fort worth, tx|28479947|Error|1|2
+7695782|fort worth, tx|7966812|Boise, ID|1|2
+7695782|fort worth, tx|14098154|Austin, TX|1|2
+20876827|fort worth, texas|0|Error|2|2
+20876827|fort worth, texas|411248429|Error|2|2
+20876827|fort worth, texas|23491763|Chicago, IL|2|2
+20876827|fort worth, texas|15809964|Edmond, Oklahoma |1|2
+20876827|fort worth, texas|21976808|New Braunfels, TX|1|2
+20876827|fort worth, texas|19752130|Texas|1|2
+20876827|fort worth, texas|17356581|Miami/Fort Lauderdale|1|2
+20876827|fort worth, texas|0|Error|1|2
+20876827|fort worth, texas|15451434|Las Vegas, NV|1|2
+20876827|fort worth, texas|35105353|DFW|1|2
+20876827|fort worth, texas|0|Error|1|2
+20876827|fort worth, texas|21592450|Fort Worth. God Bless Texas|1|2
+20876827|fort worth, texas|259515059|Error|1|2
+20876827|fort worth, texas|0|Error|1|2
+20876827|fort worth, texas|0|Error|1|2
+20876827|fort worth, texas|0|Error|1|2
+20876827|fort worth, texas|16687193|Levelland, Texas USA|1|2
+20876827|fort worth, texas|19247566|Oklahoma City|1|2
+20876827|fort worth, texas|0|Error|1|2
+20876827|fort worth, texas|15933690|Error|1|2
+20876827|fort worth, texas|7212562|Dallas, Texas|1|2
+42125576|fort worth, tx|0|Error|1|2
+42125576|fort worth, tx|19239410|Indiana|1|2
+42125576|fort worth, tx|31711397|Londonderry, NH|1|2
+10800932|fort worth, texas|0|Error|3|2
+10800932|fort worth, texas|0|Error|2|2
+10800932|fort worth, texas|11883132|San Francisco|2|2
+10800932|fort worth, texas|0|Error|2|2
+10800932|fort worth, texas|17402779|USA|2|2
+10800932|fort worth, texas|10717962|CDA, ID|2|2
+10800932|fort worth, texas|0|Error|2|2
+10800932|fort worth, texas|0|Error|1|2
+10800932|fort worth, texas|0|Error|1|2
+10800932|fort worth, texas|20859563|Chicago, IL United States|1|2
+10800932|fort worth, texas|0|Error|1|2
+10800932|fort worth, texas|0|Error|1|2
+10800932|fort worth, texas|167767647|Error|1|2
+10800932|fort worth, texas|14138421|Israel|1|2
+10800932|fort worth, texas|73238320|Loomis, CA|1|2
+10800932|fort worth, texas|47043256|Victoria, British Columbia|1|2
+10800932|fort worth, texas|0|Error|1|2
+10800932|fort worth, texas|0|Error|1|2
+10800932|fort worth, texas|0|Error|1|2
+10800932|fort worth, texas|0|Error|1|2
+10800932|fort worth, texas|603886499|Error|1|2
+10800932|fort worth, texas|15980891|The Magnolia State!|1|2
+62574429|fort worth, tx|58696440|Missoula, MT|2|2
+62574429|fort worth, tx|20450994|Error|1|2
+62574429|fort worth, tx|125280401|Cape Town|1|2
+62574429|fort worth, tx|81909847|On the road, probably|1|2
+62574429|fort worth, tx|29745076|San Francisco, Ca|1|2
+62574429|fort worth, tx|0|Error|1|2
+62574429|fort worth, tx|0|Error|1|2
+62574429|fort worth, tx|102163523|Dallas, Tx|1|2
+62574429|fort worth, tx|0|Error|1|2
+62574429|fort worth, tx|15606416|Southern California|1|2
+62574429|fort worth, tx|40246433|Error|1|2
+62574429|fort worth, tx|0|Error|1|2
+62574429|fort worth, tx|0|Error|1|2
+62574429|fort worth, tx|21333836|ig:ersatzhaderach|1|2
+62574429|fort worth, tx|99062353|Ringwood, NJ|1|2
+62574429|fort worth, tx|23227413|Los Angeles|1|2
+62574429|fort worth, tx|17713109|iPhone: 37.838550,-122.203340|1|2
+62574429|fort worth, tx|84149173|Error|1|2
+39507739|fort worth, tx|41574591|Error|2|2
+39507739|fort worth, tx|2534939125|Error|1|2
+39507739|fort worth, tx|39507739|Fort Worth, TX|1|2
+39507739|fort worth, tx|41489841|DFW|1|2
+39507739|fort worth, tx|18130269|Austin & beyond|1|2
+39507739|fort worth, tx|15063625|Nashville, Tennessee|1|2
+39507739|fort worth, tx|16170327|Fort Worth, Texas|1|2
+81536800|fort worth, texas|0|Error|1|2
+25100389|fort worth, texas|18122925|Springfield, VA|2|2
+25100389|fort worth, texas|47411569|Bay Area, California|1|2
+25100389|fort worth, texas|0|Error|1|2
+56823399|fort worth, tx|0|Error|18|2
+56823399|fort worth, tx|264036590|Error|2|2
+56823399|fort worth, tx|0|Error|2|2
+56823399|fort worth, tx|0|Error|1|2
+56823399|fort worth, tx|84092181|Dallas, TX|1|2
+56823399|fort worth, tx|72426135|Catch Me In The (215)|1|2
+56823399|fort worth, tx|210685196|Error|1|2
+85136308|fort worth, tx|8042862|Garland, tx|3|2
+85136308|fort worth, tx|20649852|West of Jerusalem, east of LA|2|2
+85136308|fort worth, tx|0|Error|2|2
+85136308|fort worth, tx|16824146|Error|2|2
+85136308|fort worth, tx|22431811|Philippines|2|2
+85136308|fort worth, tx|12144232|West LA|2|2
+85136308|fort worth, tx|124469145|Grand Rapids, MI|2|2
+85136308|fort worth, tx|2280358356|My Tumblr Blog - |2|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|505298033|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|15685057| Florida|1|2
+85136308|fort worth, tx|18809599|Boston, Massachusetts|1|2
+85136308|fort worth, tx|463726311|bulukumba|1|2
+85136308|fort worth, tx|17843264|Netherlands|1|2
+85136308|fort worth, tx|3285564324|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|18086224|USA|1|2
+85136308|fort worth, tx|14870085|Denver, CO|1|2
+85136308|fort worth, tx|17613807|Kansas City|1|2
+85136308|fort worth, tx|11294522|Temecula, Los Angeles, Austin|1|2
+85136308|fort worth, tx|9075622|San Francisco, CA, USA|1|2
+85136308|fort worth, tx|16454768|jefferson city, mo|1|2
+85136308|fort worth, tx|51755316|A tiny town in CANADA|1|2
+85136308|fort worth, tx|90412074|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|21086432|Belgium|1|2
+85136308|fort worth, tx|30431711|San Francisco|1|2
+85136308|fort worth, tx|16692771|Atlanta, GA, USA|1|2
+85136308|fort worth, tx|16275054|Denver, CO|1|2
+85136308|fort worth, tx|21836409|West Fargo, ND|1|2
+85136308|fort worth, tx|20478136|Greater Philadelphia|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|33954511|USA|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|16359458|Eugene, Oregon|1|2
+85136308|fort worth, tx|38086090|Brisbane, Australia|1|2
+85136308|fort worth, tx|23272614|Sundridge, Ontario, Canada|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|24238388|Middle Tennessee|1|2
+85136308|fort worth, tx|474336072|Error|1|2
+85136308|fort worth, tx|385016623|Worldwide, International|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|26520531|Swansea, Mass|1|2
+85136308|fort worth, tx|36083368|Columbia, SC, USA|1|2
+85136308|fort worth, tx|14452622|Error|1|2
+85136308|fort worth, tx|35696650|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|27072070|Seattle|1|2
+85136308|fort worth, tx|34339347|Cali|1|2
+85136308|fort worth, tx|20710035|Atlanta, GA USA|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|22964443|Error|1|2
+85136308|fort worth, tx|21304194|Boston|1|2
+85136308|fort worth, tx|9950972|England|1|2
+85136308|fort worth, tx|18238282|Santa Barbara, California|1|2
+85136308|fort worth, tx|17274860|Ask Carmen San Diego|1|2
+85136308|fort worth, tx|84495449|Nationwide|1|2
+85136308|fort worth, tx|65342176|Baku|1|2
+85136308|fort worth, tx|14797949|Kuttawa, KY|1|2
+85136308|fort worth, tx|73588648|thailand|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|0|Error|1|2
+85136308|fort worth, tx|1728754837|Error|1|2
+85136308|fort worth, tx|16843404|PacNW|1|2
+85136308|fort worth, tx|0|Error|1|2
+38345241|fort worth, tx|16112606|Error|4|2
+38345241|fort worth, tx|14245388|Texas|2|2
+48836147|fort worth, texas|15181500|Fort Worth, Texas USA|2|2
+16330339|fort worth, tx|24020586|Orlando-Kennedy Space Center|3|2
+16330339|fort worth, tx|0|Error|1|2
+17904374|fort worth, tx|59775103|Error|1|2
+17904374|fort worth, tx|0|Error|1|2
+17904374|fort worth, tx|0|Error|1|2
+17904374|fort worth, tx|5741722|Washington, DC|1|2
+38745739|fort worth, texas|17955081|los ang|1|2
+38745739|fort worth, texas|27778893|Error|1|2
+38745739|fort worth, texas|183343751|Birmingham, MI|1|2
+38745739|fort worth, texas|0|Error|1|2
+76056915|fort worth, tx|0|Error|6|2
+76056915|fort worth, tx|2530598202|Milwaukee|3|2
+76056915|fort worth, tx|40923379|Error|1|2
+76056915|fort worth, tx|0|Error|1|2
+76056915|fort worth, tx|0|Error|1|2
+76056915|fort worth, tx|30090568|San Diego, California|1|2
+76056915|fort worth, tx|14335262|Minnesota|1|2
+76056915|fort worth, tx|0|Error|1|2
+76056915|fort worth, tx|0|Error|1|2
+76056915|fort worth, tx|18203782|KC & LA|1|2
+76056915|fort worth, tx|15120464|Minneapolis|1|2
+76056915|fort worth, tx|20091024|Error|1|2
+76056915|fort worth, tx|0|Error|1|2
+76056915|fort worth, tx|0|Error|1|2
+76056915|fort worth, tx|13357022|Los Angels, California |1|2
+76056915|fort worth, tx|0|Error|1|2
+76056915|fort worth, tx|24028229|Topeka, KS/DFW, Texas|1|2
+76056915|fort worth, tx|0|Error|1|2
+76056915|fort worth, tx|813286|Washington, DC|1|2
+13451412|fort worth, tx|17496987|Ponte Vedra Beach, FL|4|2
+13451412|fort worth, tx|10336042|Atlanta, Ga|4|2
+13451412|fort worth, tx|0|Error|4|2
+13451412|fort worth, tx|1322348018|Error|4|2
+13451412|fort worth, tx|16514875|North Salt Lake, Utah|4|2
+13451412|fort worth, tx|23651052|Midlothian, TX|3|2
+13451412|fort worth, tx|31336424|U.S.A.|3|2
+13451412|fort worth, tx|0|Error|3|2
+13451412|fort worth, tx|0|Error|2|2
+13451412|fort worth, tx|47874394|California|2|2
+13451412|fort worth, tx|14195727|Houston|2|2
+13451412|fort worth, tx|41889947|Error|2|2
+13451412|fort worth, tx|423928223|Error|2|2
+13451412|fort worth, tx|225395214|Error|2|2
+13451412|fort worth, tx|54049877|WILDERNESS|2|2
+13451412|fort worth, tx|56749178|Pre: 38.7087500,-90.674774|2|2
+13451412|fort worth, tx|0|Error|2|2
+13451412|fort worth, tx|0|Error|2|2
+13451412|fort worth, tx|18425602|Maine|2|2
+13451412|fort worth, tx|17100255|Princeton, Minnesota|2|2
+13451412|fort worth, tx|15574960|Vancouver BC|2|2
+13451412|fort worth, tx|16484412|Montana|2|2
+13451412|fort worth, tx|32482137|Republic of Panama|2|2
+13451412|fort worth, tx|0|Error|2|2
+13451412|fort worth, tx|15832913|Detroit, MI, USA|2|2
+13451412|fort worth, tx|38207388|stuck in suburbia|2|2
+13451412|fort worth, tx|85779137|New York|2|2
+13451412|fort worth, tx|15267256|Dallas-Plano tx|2|2
+13451412|fort worth, tx|14180984|Moving Forward, Moving On|1|2
+13451412|fort worth, tx|39611529|Southeast|1|2
+13451412|fort worth, tx|16968017|Michigan|1|2
+13451412|fort worth, tx|19543314|Error|1|2
+13451412|fort worth, tx|236118029|The Netherlands|1|2
+13451412|fort worth, tx|14849952|Charlotte|1|2
+13451412|fort worth, tx|15230191|Palmyra|1|2
+13451412|fort worth, tx|15392595|Virginia |1|2
+13451412|fort worth, tx|0|Error|1|2
+13451412|fort worth, tx|0|Error|1|2
+13451412|fort worth, tx|0|Error|1|2
+13451412|fort worth, tx|42925325|Fort Worth, Texas|1|2
+13451412|fort worth, tx|69458354|Nation Wide|1|2
+13451412|fort worth, tx|16372808|Can You Say Every Where?|1|2
+13451412|fort worth, tx|48002760|Florida, USA|1|2
+13451412|fort worth, tx|16637680|California|1|2
+13451412|fort worth, tx|0|Error|1|2
+13451412|fort worth, tx|34709909|Hidden In Christ |1|2
+13451412|fort worth, tx|211907186|New Rochelle  NY USA|1|2
+13451412|fort worth, tx|15808691|Mesa, Arizona|1|2
+13451412|fort worth, tx|0|Error|1|2
+13451412|fort worth, tx|0|Error|1|2
+13451412|fort worth, tx|16234406|High Point, North Carolina|1|2
+13451412|fort worth, tx|0|Error|1|2
+13451412|fort worth, tx|176072192|Florida, South Africa|1|2
+13451412|fort worth, tx|74545613|Heaven|1|2
+13451412|fort worth, tx|53717298|California|1|2
+13451412|fort worth, tx|47351829|United States|1|2
+13451412|fort worth, tx|13900252|global RTW digital nomads|1|2
+13451412|fort worth, tx|27500565|Minneapolis, MN|1|2
+13451412|fort worth, tx|23832022|Worldwide |1|2
+37046688|fort worth, tx|26594945|Error|1|2
+25905672|fort worth, tx|29246547|Brooklyn, NY|3|2
+25905672|fort worth, tx|87777131|Fort Hood, Texas|2|2
+25905672|fort worth, tx|54446531|Fort Worth Texas, USA|2|2
+25905672|fort worth, tx|27039511|Austin, TX|1|2
+25905672|fort worth, tx|5692542|Austin, Texas|1|2
+25905672|fort worth, tx|28293475|BayArea, Tahoe, California USA|1|2
+25905672|fort worth, tx|20448324|Texas|1|2
+25905672|fort worth, tx|0|Error|1|2
+25905672|fort worth, tx|135962114|Error|1|2
+25905672|fort worth, tx|6519522|Washington, DC|1|2
+25905672|fort worth, tx|25566616|Error|1|2
+25905672|fort worth, tx|14964429|Charlotte, NC|1|2
+25905672|fort worth, tx|42957164|Error|1|2
+25905672|fort worth, tx|10771662|Jacksonville, NC and Global|1|2
+25905672|fort worth, tx|12469012|Waco, Temple, Killeen, TX|1|2
+61821845|fort worth, tx|23346570|ATLANTA|1|2
+61821845|fort worth, tx|20091017|Error|1|2
+61821845|fort worth, tx|970622054|Error|1|2
+25781125|fort worth, tx|73029671|Fort Worth, TX|5|2
+25781125|fort worth, tx|55361351|Fremont, California |3|2
+25781125|fort worth, tx|28297753|Nashville, TN|3|2
+25781125|fort worth, tx|15250863|LA|2|2
+25781125|fort worth, tx|15822548|NYC|1|2
+25781125|fort worth, tx|21730415|Austin, TX|1|2
+25781125|fort worth, tx|15035028|Error|1|2
+25781125|fort worth, tx|26778574|Error|1|2
+25781125|fort worth, tx|17550898|Vancouver, Canada|1|2
+25781125|fort worth, tx|79930209|Texas|1|2
+13202642|fort worth, tx|15693172|Somewhere, Out There|9|2
+13202642|fort worth, tx|38961112|In my heart|7|2
+13202642|fort worth, tx|2354495159|Metro Atlanta Dweller|7|2
+13202642|fort worth, tx|15770432|Oklahoma. Ohio. Oakland.|6|2
+13202642|fort worth, tx|0|Error|5|2
+13202642|fort worth, tx|2771927130|Error|3|2
+13202642|fort worth, tx|10161712|VA|3|2
+13202642|fort worth, tx|15226023|Atlanta, GA|3|2
+13202642|fort worth, tx|0|Error|3|2
+13202642|fort worth, tx|2729584486|Error|3|2
+13202642|fort worth, tx|69093292|Anywhere I Am Needed|2|2
+13202642|fort worth, tx|16582002|Marietta, GA|2|2
+13202642|fort worth, tx|0|Error|2|2
+13202642|fort worth, tx|2814863658|Error|2|2
+13202642|fort worth, tx|2797132908|Error|2|2
+13202642|fort worth, tx|0|Error|2|2
+13202642|fort worth, tx|14682211|iPhone: 41.885105,-87.632217|1|2
+13202642|fort worth, tx|17186455|The Pacific Northwest.|1|2
+13202642|fort worth, tx|0|Error|1|2
+13202642|fort worth, tx|388930985|Error|1|2
+13202642|fort worth, tx|0|Error|1|2
+13202642|fort worth, tx|15595555|Error|1|2
+13202642|fort worth, tx|17888589|NYC|1|2
+13202642|fort worth, tx|19894501|'roun chea|1|2
+13202642|fort worth, tx|21208876|Henderson, NC|1|2
+13202642|fort worth, tx|8215672|Virginia Beach|1|2
+13202642|fort worth, tx|15659591|Where ever the game is on.|1|2
+13202642|fort worth, tx|0|Error|1|2
+13202642|fort worth, tx|0|Error|1|2
+13202642|fort worth, tx|15941530|Charlotte/Zamunda|1|2
+13202642|fort worth, tx|16650845|Somewhere in Delaware|1|2
+13202642|fort worth, tx|16628718|Boston|1|2
+13202642|fort worth, tx|0|Error|1|2
+13202642|fort worth, tx|0|Error|1|2
+13202642|fort worth, tx|0|Error|1|2
+13202642|fort worth, tx|16172862|Seattle girl in a DC world.|1|2
+13202642|fort worth, tx|0|Error|1|2
+13202642|fort worth, tx|0|Error|1|2
+13202642|fort worth, tx|2711740540|Error|1|2
+13202642|fort worth, tx|2995008886|Error|1|2
+13202642|fort worth, tx|0|Error|1|2
+13202642|fort worth, tx|0|Error|1|2
+13202642|fort worth, tx|0|Error|1|2
+9212982|fort worth, tx|65212470|here, there, and everywhere|3|2
+9212982|fort worth, tx|818647|Nashville|1|2
+9212982|fort worth, tx|471254019|Error|1|2
+9212982|fort worth, tx|16489378|NJ|1|2
+9212982|fort worth, tx|20071545|AR, USA|1|2
+9212982|fort worth, tx|68822889|Sacramento, CA|1|2
+9212982|fort worth, tx|16365953|Here and There|1|2
+9212982|fort worth, tx|130509253|Error|1|2
+9212982|fort worth, tx|25242194|Texas|1|2
+9212982|fort worth, tx|67476846|Error|1|2
+9212982|fort worth, tx|14216203|Earth...sometimes |1|2
+9212982|fort worth, tx|0|Error|1|2
+46758268|fort worth, texas|76060497|Error|3|2
+46758268|fort worth, texas|0|Error|3|2
+46758268|fort worth, texas|15371292|Fort Worth, Texas|2|2
+46758268|fort worth, texas|0|Error|2|2
+46758268|fort worth, texas|33277750|Error|2|2
+46758268|fort worth, texas|0|Error|1|2
+46758268|fort worth, texas|35177782|817 TEXAS|1|2
+46758268|fort worth, texas|28884048|Fort Worth / Dallas / North TX|1|2
+46758268|fort worth, texas|17432464|Wausau, Wisconsin|1|2
+46758268|fort worth, texas|9810182|Fort Worth, TX|1|2
+46758268|fort worth, texas|15427954|Texas|1|2
+46758268|fort worth, texas|15462556|NY|1|2
+46758268|fort worth, texas|30413040|Error|1|2
+46758268|fort worth, texas|401161025|South Africa|1|2
+46758268|fort worth, texas|614675690|Error|1|2
+46758268|fort worth, texas|48244252|Error|1|2
+46758268|fort worth, texas|17178202|California |1|2
+14776754|fort worth, tx|0|Error|2|2
+14776754|fort worth, tx|774971420|Error|2|2
+14776754|fort worth, tx|3000339744|Error|2|2
+14776754|fort worth, tx|61529319|Leander, Texas|2|2
+14776754|fort worth, tx|14802453|Chicagoland|2|2
+14776754|fort worth, tx|9279032|Silicon Valley|2|2
+14776754|fort worth, tx|14125882|Lubbock, TX|2|2
+14776754|fort worth, tx|0|Error|1|2
+14776754|fort worth, tx|0|Error|1|2
+14776754|fort worth, tx|0|Error|1|2
+14776754|fort worth, tx|488067049|Lost In Time or Reno.|1|2
+14776754|fort worth, tx|0|Error|1|2
+14776754|fort worth, tx|972651|Error|1|2
+14776754|fort worth, tx|27796739|Boston & London |1|2
+14776754|fort worth, tx|6852682|Chicago|1|2
+14776754|fort worth, tx|15377897|Houston, Texas|1|2
+14776754|fort worth, tx|15509217|Error|1|2
+14776754|fort worth, tx|0|Error|1|2
+14776754|fort worth, tx|0|Error|1|2
+14776754|fort worth, tx|22524719|Fort Worth, TX|1|2
+14776754|fort worth, tx|237302838|Error|1|2
+14776754|fort worth, tx|15925282|Texas|1|2
+14776754|fort worth, tx|8824902|Irving, TX|1|2
+14776754|fort worth, tx|0|Error|1|2
+14776754|fort worth, tx|17136110|San Francisco Bay Area|1|2
+14776754|fort worth, tx|27029537|Print, Web, Mobile |1|2
+14776754|fort worth, tx|15164442|Burlington, ON, Canada|1|2
+14776754|fort worth, tx|159685716|Error|1|2
+14776754|fort worth, tx|15427422| San Francisco|1|2
+14776754|fort worth, tx|18079077|DFW, TX|1|2
+14776754|fort worth, tx|1558165380|Error|1|2
+14776754|fort worth, tx|144239543|Error|1|2
+14776754|fort worth, tx|0|Error|1|2
+14776754|fort worth, tx|14778356|Fort Worth, TX|1|2
+14776754|fort worth, tx|20536157|Mountain View, CA|1|2
+14776754|fort worth, tx|0|Error|1|2
+14776754|fort worth, tx|17668347|Boston|1|2
+14776754|fort worth, tx|0|Error|1|2
+14776754|fort worth, tx|755452|Chicago & the World |1|2
+14776754|fort worth, tx|0|Error|1|2
+21462453|fort worth, tx|26573891|South of Seattle|6|2
+21462453|fort worth, tx|32366249|Las Vegas/Los Angeles|3|2
+21462453|fort worth, tx|0|Error|2|2
+21462453|fort worth, tx|15991543|Tyler, TX|1|2
+21462453|fort worth, tx|0|Error|1|2
+21462453|fort worth, tx|0|Error|1|2
+21462453|fort worth, tx|0|Error|1|2
+21462453|fort worth, tx|15976697|USA|1|2
+21462453|fort worth, tx|22234257|Dallas Texas|1|2
+21462453|fort worth, tx|36751312|Highlands Ranch, Colorado|1|2
+21462453|fort worth, tx|19091173|Ghostlike|1|2
+21462453|fort worth, tx|15876673|Fort Worth, Texas|1|2
+17013072|fort worth, texas|1356997861|Error|4|2
+17013072|fort worth, texas|0|Error|3|2
+17013072|fort worth, texas|7861312|Los Angeles, CA|3|2
+17013072|fort worth, texas|44217229|Deep South|3|2
+17013072|fort worth, texas|53511803|Error|3|2
+17013072|fort worth, texas|0|Error|3|2
+17013072|fort worth, texas|32717261|Newnan, GA|3|2
+17013072|fort worth, texas|36588177|New York, NY|3|2
+17013072|fort worth, texas|17576485|iPhone: 31.141499,-97.764221|3|2
+17013072|fort worth, texas|24391084|Houston, TX|3|2
+17013072|fort worth, texas|14229576|san diego, ca|2|2
+17013072|fort worth, texas|24010216|Error|2|2
+17013072|fort worth, texas|26541085|Bangor ME + Austin TX|2|2
+17013072|fort worth, texas|0|Error|2|2
+17013072|fort worth, texas|0|Error|1|2
+17013072|fort worth, texas|17013072|Fort Worth, Texas|1|2
+17013072|fort worth, texas|41630861|Error|1|2
+17013072|fort worth, texas|0|Error|1|2
+17013072|fort worth, texas|0|Error|1|2
+17013072|fort worth, texas|31892282|Canada|1|2
+17013072|fort worth, texas|0|Error|1|2
+17013072|fort worth, texas|24263898|Oklahoma|1|2
+17013072|fort worth, texas|27111455|Buenos Aires|1|2
+17013072|fort worth, texas|21823296|San Diego, California|1|2
+17013072|fort worth, texas|0|Error|1|2
+17013072|fort worth, texas|18126950|Upstate New York|1|2
+17013072|fort worth, texas|14927070|5th level of hell|1|2
+17013072|fort worth, texas|190795846|Error|1|2
+17013072|fort worth, texas|24831321|Melbourne.|1|2
+17013072|fort worth, texas|22016982|Miami, FL|1|2
+17013072|fort worth, texas|37676481|Illinois|1|2
+17013072|fort worth, texas|0|Error|1|2
+17013072|fort worth, texas|284965201|Error|1|2
+17013072|fort worth, texas|0|Error|1|2
+17013072|fort worth, texas|86990150|London:)|1|2
+17013072|fort worth, texas|0|Error|1|2
+17013072|fort worth, texas|47827099|Alabama, USA|1|2
+17013072|fort worth, texas|87501034|Dallas, Texas|1|2
+17013072|fort worth, texas|3280828111|Error|1|2
+17013072|fort worth, texas|23827083|Mexico |1|2
+17013072|fort worth, texas|14969860|Texas|1|2
+17013072|fort worth, texas|0|Error|1|2
+17013072|fort worth, texas|27649569|right where I want to be|1|2
+17013072|fort worth, texas|59163635|Dallas, Texas|1|2
+17013072|fort worth, texas|15838787|Texas|1|2
+17013072|fort worth, texas|6011972|Westwood Village, Los Angeles,|1|2
+17013072|fort worth, texas|0|Error|1|2
+17013072|fort worth, texas|43629631|Seattle, Wa|1|2
+27988812|fort worth, tx|29544657|Fort Worth, TX|1|2
+27988812|fort worth, tx|14826607|NYC|1|2
+27988812|fort worth, tx|40256169|Texas|1|2
+27988812|fort worth, tx|0|Error|1|2
+22389905|fort worth, texas|17528687|Fort Worth, TX|4|2
+22389905|fort worth, texas|11781142|New York|2|2
+22389905|fort worth, texas|31847329|Fort Worth, Texas|2|2
+22389905|fort worth, texas|599447263|woodstock |1|2
+22389905|fort worth, texas|27625893|Nation Wide|1|2
+22389905|fort worth, texas|17474682|Anywhere they'll let me|1|2
+22389905|fort worth, texas|24079549|Fort Worth|1|2
+22389905|fort worth, texas|16593415|west hollywood|1|2
+22389905|fort worth, texas|36060697|Error|1|2
+22389905|fort worth, texas|467546270|Error|1|2
+22389905|fort worth, texas|16917988|Fort Worth + Los Angeles|1|2
+22389905|fort worth, texas|0|Error|1|2
+22389905|fort worth, texas|14096877|Fort Worth, Texas|1|2
+22389905|fort worth, texas|0|Error|1|2
+22389905|fort worth, texas|14804295|Fort Worth, Texas|1|2
+22389905|fort worth, texas|18089163|Boulder, CO|1|2
+22389905|fort worth, texas|1934802841|San Francisco|1|2
+22389905|fort worth, texas|17065059|Salt Lake City, UT|1|2
+22389905|fort worth, texas|17071236|Baltimore|1|2
+22389905|fort worth, texas|15694286|Dallas, TX|1|2
+22389905|fort worth, texas|0|Error|1|2
+22389905|fort worth, texas|21499292|The universe's loving embra|1|2
+22389905|fort worth, texas|77322752|Error|1|2
+22389905|fort worth, texas|0|Error|1|2
+22389905|fort worth, texas|31927691|Dallas, Texas|1|2
+22389905|fort worth, texas|0|Error|1|2
+18195760|fort worth, tx|16474880|North Carolina|7|2
+18195760|fort worth, tx|661703|Minneapolis, MN|5|2
+18195760|fort worth, tx|0|Error|3|2
+18195760|fort worth, tx|233447114|Kentucky|2|2
+18195760|fort worth, tx|15998792|Willow Park, TX|2|2
+18195760|fort worth, tx|1380911|San Francisco|2|2
+18195760|fort worth, tx|161076740|Everywhere!|2|2
+18195760|fort worth, tx|0|Error|1|2
+18195760|fort worth, tx|83209672|Red Wing, MN|1|2
+18195760|fort worth, tx|15463876|Washington, DC Metro area|1|2
+18195760|fort worth, tx|0|Error|1|2
+18195760|fort worth, tx|81859780|Error|1|2
+18195760|fort worth, tx|76982370|North Texas|1|2
+18195760|fort worth, tx|6152112|N Richland Hills, TX|1|2
+18195760|fort worth, tx|14863544|Fort Worth, TX|1|2
+18195760|fort worth, tx|14100886|Denton, TX|1|2
+18195760|fort worth, tx|14139534|Nashville, TN|1|2
+18195760|fort worth, tx|3344601|Fort Worth, Texas|1|2
+18195760|fort worth, tx|15057170|New Jersey|1|2
+18195760|fort worth, tx|17528687|Fort Worth, TX|1|2
+18195760|fort worth, tx|2715916140|Error|1|2
+66957061|fort worth, tx|21280672|wonderland |1|2
+66957061|fort worth, tx|25953012|Worcester, MA|1|2
+30128953|fort worth, texas|30128953|Fort Worth, Texas|4|2
+30128953|fort worth, texas|22723496|Texas|3|2
+30128953|fort worth, texas|39621559|Atlanta, GA|2|2
+30128953|fort worth, texas|16363540|Rochester, NY|1|2
+30128953|fort worth, texas|7302182|Nashville - Minneapolis |1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|16139853|Huntington Beach|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|14175105|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|533984218|Error|1|2
+30128953|fort worth, texas|270141351|Leesburg, Fl.|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|65430909|Error|1|2
+30128953|fort worth, texas|70067768|new mexico|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|30142514|Huntington Beach|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+30128953|fort worth, texas|0|Error|1|2
+21216141|fort worth, texas|16862154|Vegas Baby! (Not that one).|4|2
+21216141|fort worth, texas|21216141|Dallas/Fort Worth, Texas|3|2
+21216141|fort worth, texas|23850184|SoCal|3|2
+21216141|fort worth, texas|1515403934|Error|1|2
+21216141|fort worth, texas|22485284|Worldwide|1|2
+21216141|fort worth, texas|18157079|Chicagoland|1|2
+21216141|fort worth, texas|0|Error|1|2
+21216141|fort worth, texas|28940725|San Diego, CA|1|2
+21216141|fort worth, texas|9507322|USA|1|2
+21216141|fort worth, texas|47027755|Error|1|2
+21216141|fort worth, texas|48864727|Error|1|2
+21216141|fort worth, texas|44561295|California|1|2
+21216141|fort worth, texas|30055808|Austin, TX|1|2
+21216141|fort worth, texas|17157736|Livin' the dream|1|2
+21216141|fort worth, texas|59037337|Dallas, TX|1|2
+21216141|fort worth, texas|0|Error|1|2
+21216141|fort worth, texas|18069111|Toronto|1|2
+21216141|fort worth, texas|17610907|Easton, CT|1|2
+21216141|fort worth, texas|17301504|Error|1|2
+21216141|fort worth, texas|18844828|The Swamp|1|2
+47751631|fort worth, tx|130730748|Error|2|2
+47751631|fort worth, tx|18739458|Fort Worth ,Texas|2|2
+47751631|fort worth, tx|19825828|Cedar Hill, TX|1|2
+47751631|fort worth, tx|68783365|TCU|1|2
+47751631|fort worth, tx|32279801|Baton Rouge|1|2
+47751631|fort worth, tx|288598568|Dallas Texas|1|2
+47751631|fort worth, tx|19723407|Dallas, TX|1|2
+47751631|fort worth, tx|16969200|Mansfield, Texas|1|2
+47751631|fort worth, tx|16726083|Arlington, TX|1|2
+47751631|fort worth, tx|48826253|Dallas, TX, USA|1|2
+47751631|fort worth, tx|14066346|Error|1|2
+47751631|fort worth, tx|0|Error|1|2
+47751631|fort worth, tx|65671723|Fort Worth, Texas|1|2
+47751631|fort worth, tx|5568562|Error|1|2
+47751631|fort worth, tx|0|Error|1|2
+47751631|fort worth, tx|14441596|Los Angeles, CA|1|2
+47751631|fort worth, tx|0|Error|1|2
+47751631|fort worth, tx|8336462|Spring, TX|1|2
+47751631|fort worth, tx|20652628|H-Town|1|2
+47751631|fort worth, tx|34400609|where im at|1|2
+47751631|fort worth, tx|277827094|Error|1|2
+47751631|fort worth, tx|15940500|Dallas, Texas|1|2
+47751631|fort worth, tx|18516087|Error|1|2
+47751631|fort worth, tx|0|Error|1|2
+47751631|fort worth, tx|16268161|Arlington, TX|1|2
+47751631|fort worth, tx|0|Error|1|2
+47751631|fort worth, tx|16856670|Bedford, Tarrant County, Texas|1|2
+47751631|fort worth, tx|85309536|Berkeley, CA|1|2
+47751631|fort worth, tx|0|Error|1|2
+47751631|fort worth, tx|169845113|Coventryyyy.|1|2
+47751631|fort worth, tx|6151422|Texas, Fort Worth|1|2
+47751631|fort worth, tx|1425816793|Error|1|2
+47751631|fort worth, tx|36546784|Setting in the west.|1|2
+40364650|fort worth, texas|0|Error|9|2
+40364650|fort worth, texas|25288300|Error|7|2
+40364650|fort worth, texas|41184112|Where the winds take me|6|2
+40364650|fort worth, texas|30998349|Jersey Girl|5|2
+40364650|fort worth, texas|71271040|Retirement in a sock|4|2
+40364650|fort worth, texas|40362345|Nice, France|2|2
+40364650|fort worth, texas|0|Error|2|2
+40364650|fort worth, texas|0|Error|2|2
+40364650|fort worth, texas|463149884|Error|2|2
+40364650|fort worth, texas|338670779|Error|2|2
+40364650|fort worth, texas|42768441|Memphis|2|2
+40364650|fort worth, texas|2352960861|Funchal|2|2
+40364650|fort worth, texas|0|Error|2|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|78166452|South of the Mason Dixon Line |1|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|30676068|Nowhere important enough|1|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|63977982|Error|1|2
+40364650|fort worth, texas|302030656|Melbourne|1|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|0|Error|1|2
+40364650|fort worth, texas|14775205|Miami|1|2
+40364650|fort worth, texas|225859667|Bergschenhoek|1|2
+40364650|fort worth, texas|0|Error|1|2
+47276390|fort worth, tx|24105607|Washington State|5|2
+47276390|fort worth, tx|28706024|los angeles|1|2
+47276390|fort worth, tx|112600958|Everywhere|1|2
+47276390|fort worth, tx|9488342|City of Brides|1|2
+47276390|fort worth, tx|210862827|Def Jam|1|2
+47276390|fort worth, tx|0|Error|1|2
+47276390|fort worth, tx|21979830|Born in the 216. Living in the 818.|1|2
+47276390|fort worth, tx|22929621|where the wild things are. |1|2
+47276390|fort worth, tx|32948225|Living bold and beautifully|1|2
+47276390|fort worth, tx|28220305|I belong To GOD|1|2
+47276390|fort worth, tx|166690050|Worldwide|1|2
+47276390|fort worth, tx|14817982|with my fur children.  |1|2
+47276390|fort worth, tx|0|Error|1|2
+47276390|fort worth, tx|59283767|LA|1|2
+19719631|fort worth, texas|0|Error|1|2
+19719631|fort worth, texas|0|Error|1|2
+45480098|fort worth, tx|15633129|The Universe|4|2
+45480098|fort worth, tx|31562892|Moriarty, NM|3|2
+45480098|fort worth, tx|2232472135|Error|3|2
+45480098|fort worth, tx|0|Error|2|2
+45480098|fort worth, tx|41282222|Arts unite locations!|2|2
+45480098|fort worth, tx|0|Error|2|2
+45480098|fort worth, tx|301598181|Error|1|2
+45480098|fort worth, tx|742143|London, UK|1|2
+45480098|fort worth, tx|0|Error|1|2
+45480098|fort worth, tx|15652889|Colorado|1|2
+45480098|fort worth, tx|17621549|Gaithersburg, MD USA|1|2
+45480098|fort worth, tx|528970754|Error|1|2
+45480098|fort worth, tx|41405412|Washington, DC|1|2
+9567012|fort worth, tx|205520008|Error|5|2
+9567012|fort worth, tx|14644509|Austin, TX|4|2
+9567012|fort worth, tx|9524712|Albany, NY|3|2
+9567012|fort worth, tx|27086759|Fort Worth, TX|3|2
+9567012|fort worth, tx|9973392|Boulder, CO|2|2
+9567012|fort worth, tx|10202|Boston, MA|2|2
+9567012|fort worth, tx|14096877|Fort Worth, Texas|2|2
+9567012|fort worth, tx|2780980734|Error|2|2
+9567012|fort worth, tx|858051|Newport Beach, Orange County|2|2
+9567012|fort worth, tx|7457322|London|1|2
+9567012|fort worth, tx|13294562|Fort Worth, TX|1|2
+9567012|fort worth, tx|8453452|Silicon Valley, California|1|2
+9567012|fort worth, tx|60661668|Owasso, Oklahoma|1|2
+9567012|fort worth, tx|0|Error|1|2
+9567012|fort worth, tx|9567012|Fort Worth, TX|1|2
+9567012|fort worth, tx|10039442|Plane or C-Suite or on Camera|1|2
+9567012|fort worth, tx|24303|Dallas, Texas|1|2
+9567012|fort worth, tx|6152112|N Richland Hills, TX|1|2
+9567012|fort worth, tx|283133555|Error|1|2
+25296794|fort worth, texas|52546829|Error|2|2
+29375463|fort worth, texas|22781096|Fort Worth, Texas|1|2
+29375463|fort worth, texas|0|Error|1|2
+23109575|fort worth, tx|34687493|Seattle, WA|3|2
+23109575|fort worth, tx|16899568|Minneapolis, MN|2|2
+23109575|fort worth, tx|18060430|Southern California|2|2
+23109575|fort worth, tx|18405451|Moses Lake|1|2
+23109575|fort worth, tx|1367531|U.S.A.|1|2
+23109575|fort worth, tx|26661354|Tallahassee, Florida |1|2
+23109575|fort worth, tx|15770846|Error|1|2
+23109575|fort worth, tx|37364014|Mill Valley, CA|1|2
+23109575|fort worth, tx|0|Error|1|2
+23109575|fort worth, tx|0|Error|1|2
+23109575|fort worth, tx|18732790|Atlanta, GA|1|2
+23109575|fort worth, tx|211153817|Error|1|2
+23109575|fort worth, tx|22000957|Mahwah, NJ|1|2
+23109575|fort worth, tx|9409552|Richmond, California|1|2
+23109575|fort worth, tx|0|Error|1|2
+23109575|fort worth, tx|21350323|Morgantown, KY|1|2
+32571352|fort worth, tx|92617815|Error|10|2
+32571352|fort worth, tx|0|Error|1|2
+32571352|fort worth, tx|0|Error|1|2
+32571352|fort worth, tx|0|Error|1|2
+32571352|fort worth, tx|23832022|Worldwide |1|2
+28377275|fort worth, texas|21106347|Dominican Republic|5|2
+28377275|fort worth, texas|17352029|Santo Domingo, Rep. Dominicana|2|2
+28377275|fort worth, texas|0|Error|2|2
+28377275|fort worth, texas|3283481|Santo Domingo / Nueva York|1|2
+28377275|fort worth, texas|21825207|Error|1|2
+28377275|fort worth, texas|0|Error|1|2
+28377275|fort worth, texas|71429382|Dallas|1|2
+28377275|fort worth, texas|33825519|Dominican Republic|1|2
+28377275|fort worth, texas|63852200|Miami, Florida |1|2
+60944761|fort worth, texas|21071549|iPhone: 0.000000,0.000000|3|2
+60944761|fort worth, texas|71949536|Ft. Worth, TX|2|2
+60944761|fort worth, texas|0|Error|1|2
+60944761|fort worth, texas|71948543|Fort Worth, TX|1|2
+35781996|fort worth, tx|705559753|Error|8|2
+35781996|fort worth, tx|28813087| Unnamed Rd Irving, TX 75038|1|2
+45233207|fort worth, texas|45304922|Ontario, California|4|2
+45233207|fort worth, texas|0|Error|3|2
+15875183|fort worth, tx|16880210|Grand Island, Nebraska|1|2
+15875183|fort worth, tx|2307776510|Error|1|2
+15875183|fort worth, tx|22227770|NY|1|2
+15875183|fort worth, tx|15531925|Braselton, GA|1|2
+51928986|fort worth, tx|0|Error|2|2
+51928986|fort worth, tx|17982105|New York, NY|2|2
+51928986|fort worth, tx|176726656|Error|2|2
+51928986|fort worth, tx|18545627|Colorado|2|2
+51928986|fort worth, tx|22851036|Error|2|2
+51928986|fort worth, tx|56600928|Ephraim, Utah|1|2
+51928986|fort worth, tx|15963246|Freehold, NJ|1|2
+51928986|fort worth, tx|16279546|Not all who wander are lost.|1|2
+51928986|fort worth, tx|36751532|Randland|1|2
+51928986|fort worth, tx|17748986|Atlanta|1|2
+51928986|fort worth, tx|44823|Portland, Oregon|1|2
+51928986|fort worth, tx|499774047|Error|1|2
+51928986|fort worth, tx|0|Error|1|2
+23232618|fort worth, texas|51302150|Burleson, TX|2|2
+23233663|fort worth, tx|31621214|Denver, CO|2|2
+23233663|fort worth, tx|15609285|Los Angeles, CA|1|2
+23233663|fort worth, tx|382479247|Error|1|2
+23233663|fort worth, tx|28061584|Dallas, TX|1|2
+23233663|fort worth, tx|18948085|Dallas/Fort Worth, Texas|1|2
+23233663|fort worth, tx|0|Error|1|2
+23233663|fort worth, tx|31049104|Error|1|2
+23233663|fort worth, tx|0|Error|1|2
+23233663|fort worth, tx|26632708|Denton, TX|1|2
+23233663|fort worth, tx|0|Error|1|2
+23233663|fort worth, tx|39516153|iPhone: 37.762524,-122.411171|1|2
+23233663|fort worth, tx|44076436|Texas|1|2
+23233663|fort worth, tx|270166419|Dallas, TX|1|2
+23233663|fort worth, tx|403025627|Error|1|2
+43194173|fort worth, texas|18383089|Fort Worth, Texas|5|2
+43194173|fort worth, texas|0|Error|3|2
+43194173|fort worth, texas|0|Error|1|2
+43194173|fort worth, texas|36987043|Houston/LA|1|2
+43194173|fort worth, texas|19653563|france|1|2
+18051062|fort worth, tx|15377897|Houston, Texas|4|2
+18051062|fort worth, tx|14140390|Fort Worth, TX|3|2
+18051062|fort worth, tx|24190128|Austin, TX|2|2
+18051062|fort worth, tx|233447114|Kentucky|1|2
+18051062|fort worth, tx|0|Error|1|2
+18051062|fort worth, tx|39608002|Scottsdale, Arizona|1|2
+18051062|fort worth, tx|0|Error|1|2
+18051062|fort worth, tx|14079852|Greater Philadelphia|1|2
+18051062|fort worth, tx|24463323|Dallas, TX|1|2
+18051062|fort worth, tx|48545254|Austin, TX|1|2
+18051062|fort worth, tx|55629427|Ft. Worth, TX & beyond |1|2
+18051062|fort worth, tx|16474880|North Carolina|1|2
+18051062|fort worth, tx|12299472|Boulder, CO|1|2
+18051062|fort worth, tx|0|Error|1|2
+15970567|fort worth, texas|0|Error|1|2
+15970567|fort worth, texas|0|Error|1|2
+15970567|fort worth, texas|12469012|Waco, Temple, Killeen, TX|1|2
+60684139|fort worth, texas|54297882|atl/chitown|10|2
+60684139|fort worth, texas|0|Error|5|2
+60684139|fort worth, texas|465949074|Error|2|2
+60684139|fort worth, texas|32295125|NEW ORLEANS LOUISIANA|1|2
+14935850|fort worth, texas|0|Error|1|2
+15998792|fort worth, tx|1183038558|Error|2|2
+15998792|fort worth, tx|0|Error|2|2
+15998792|fort worth, tx|21169490|Texas|2|2
+15998792|fort worth, tx|9453872|Nashville, TN|2|2
+15998792|fort worth, tx|233447114|Kentucky|1|2
+15998792|fort worth, tx|661703|Minneapolis, MN|1|2
+15998792|fort worth, tx|17967359|Murrells Inlet, SC|1|2
+15998792|fort worth, tx|447889802|Barcelona|1|2
+15998792|fort worth, tx|0|Error|1|2
+15998792|fort worth, tx|11956732|Austin, TX|1|2
+15998792|fort worth, tx|778112|Lafayette, CA|1|2
+15998792|fort worth, tx|15175423|Oakland, CA|1|2
+15998792|fort worth, tx|4514261|San Francisco, CA|1|2
+14150637|fort worth, tx|661703|Minneapolis, MN|2|2
+14150637|fort worth, tx|240777338|Error|1|2
+14150637|fort worth, tx|0|Error|1|2
+14150637|fort worth, tx|18195760|Seattleish|1|2
+14150637|fort worth, tx|14365789|NY NY baby|1|2
+14150637|fort worth, tx|0|Error|1|2
+14150637|fort worth, tx|841791|Boulder, CO|1|2
+14150637|fort worth, tx|17466578|Little Red Dot|1|2
+14150637|fort worth, tx|14621989|Denver, CO|1|2
+14150637|fort worth, tx|19356229|Fort Worth, Texas|1|2
+23373309|fort worth, texas|88745435|Error|9|2
+23373309|fort worth, texas|81751179|Error|4|2
+23373309|fort worth, texas|18220175|EVERYWHERE!!!|4|2
+23373309|fort worth, texas|23373309|B/w Venus, Mercury & Jupiter|1|2
+17178202|fort worth, tx|14225487|Alberta|6|2
+17178202|fort worth, tx|0|Error|4|2
+17178202|fort worth, tx|0|Error|1|2
+17178202|fort worth, tx|46758268|West Chester, Ohio|1|2
+16049630|fort worth, tx|14462663|Error|1|2
+16049630|fort worth, tx|177007396|Error|1|2
+16049630|fort worth, tx|17398166|Atlanta, GA via Jacksonville|1|2
+16049630|fort worth, tx|18995466|pontiac|1|2
+16049630|fort worth, tx|598581244|Error|1|2
+16049630|fort worth, tx|0|Error|1|2
+16049630|fort worth, tx|0|Error|1|2
+16049630|fort worth, tx|17563258|Houston, Tx|1|2
+16049630|fort worth, tx|357809059|Error|1|2
+16049630|fort worth, tx|136794375|Error|1|2
+16049630|fort worth, tx|18861131|cumberland,maryland|1|2
+16049630|fort worth, tx|0|Error|1|2
+16049630|fort worth, tx|548750920|Error|1|2
+16049630|fort worth, tx|0|Error|1|2
+16049630|fort worth, tx|16490667|NEPA/570|1|2
+16049630|fort worth, tx|39917650|Error|1|2
+16049630|fort worth, tx|0|Error|1|2
+16049630|fort worth, tx|274094177|Error|1|2
+16049630|fort worth, tx|60429982|Error|1|2
+17099568|fort worth, tx|17099568|Fort Worth, TX|18|2
+9779662|fort worth, tx|71320197|Flight level 350, give or take|3|2
+9779662|fort worth, tx|9687502|Irving, TX|3|2
+9779662|fort worth, tx|15843117|Denver, CO|2|2
+9779662|fort worth, tx|34747631|Around the World|1|2
+64307278|fort worth, tx|0|Error|5|2
+64307278|fort worth, tx|0|Error|4|2
+64307278|fort worth, tx|347562612|Error|1|2
+64307278|fort worth, tx|13790282|Your Computer, USA|1|2
+33915089|fort worth, tx|0|Error|1|2
+33915089|fort worth, tx|14529929|Error|1|2
+33915089|fort worth, tx|2604837139|MURPHY, TX|1|2
+18195760|fort worth, tx|661703|Minneapolis, MN|2|2
+18195760|fort worth, tx|233447114|Kentucky|1|2
+18195760|fort worth, tx|14365789|NY NY baby|1|2
+18195760|fort worth, tx|14139534|Nashville, TN|1|2
+18195760|fort worth, tx|16474880|North Carolina|1|2
+18195760|fort worth, tx|36357005|Arlington, TX.|1|2
+18195760|fort worth, tx|15998792|Willow Park, TX|1|2
+18195760|fort worth, tx|14100886|Denton, TX|1|2
+18195760|fort worth, tx|76203147|Error|1|2
+18195760|fort worth, tx|8203292|Fort Worth, Texas|1|2
+24498018|fort worth, tx|49715534|WPB, FL|13|2
+24498018|fort worth, tx|267098392|Error|4|2
+24498018|fort worth, tx|45485546|NY|2|2
+24498018|fort worth, tx|0|Error|2|2
+24498018|fort worth, tx|40315069|Everywhere|1|2
+24498018|fort worth, tx|61236006|Edgewater, NJ.|1|2
+24498018|fort worth, tx|0|Error|1|2
+18215014|fort worth, tx|27704113|Error|1|2
+18215014|fort worth, tx|0|Error|1|2
+18215014|fort worth, tx|11883132|San Francisco|1|2
+18215014|fort worth, tx|21252692|Error|1|2
+18215014|fort worth, tx|5894902|Global|1|2
+18215014|fort worth, tx|0|Error|1|2
+18215014|fort worth, tx|21849140|San Francisco, CA|1|2
+27664326|fort worth, texas|17372853|A Tale of Risky Business...|2|2
+27664326|fort worth, texas|18707617|Topeka, KS|2|2
+27664326|fort worth, texas|19892500|Los Angeles|2|2
+27664326|fort worth, texas|0|Error|1|2
+27664326|fort worth, texas|389637118|Error|1|2
+27664326|fort worth, texas|154637738|everywhere .|1|2
+27664326|fort worth, texas|292367425|Error|1|2
+27664326|fort worth, texas|0|Error|1|2
+27664326|fort worth, texas|22307857|Error|1|2
+27664326|fort worth, texas|16503218|Los Angeles, CA|1|2
+27664326|fort worth, texas|156302603|Error|1|2
+27664326|fort worth, texas|16498230|Lost Angeles|1|2
+27664326|fort worth, texas|23264543|California |1|2
+27664326|fort worth, texas|19956347|Manhattan, New York|1|2
+27664326|fort worth, texas|0|Error|1|2
+27664326|fort worth, texas|0|Error|1|2
+27664326|fort worth, texas|21452638|Los Angeles|1|2
+45496418|fort worth, tx|25373|Roanoke, VA|2|2
+45496418|fort worth, tx|0|Error|2|2
+45496418|fort worth, tx|0|Error|2|2
+45496418|fort worth, tx|14817235|Seattle, WA|1|2
+45496418|fort worth, tx|39344256|htx|1|2
+45496418|fort worth, tx|23636243|New York -ish|1|2
+45496418|fort worth, tx|19637934|Los Angeles-ish|1|2
+36061163|fort worth, tx|0|Error|3|2
+36061163|fort worth, tx|6100122|Barcelona|1|2
+17203437|fort worth, tx|721653|San Francisco|1|2
+17203437|fort worth, tx|14057533|New Zealand|1|2
+17203437|fort worth, tx|18625912|Rochester, Minnesota|1|2
+17203437|fort worth, tx|47018037|San Francisco|1|2
+17203437|fort worth, tx|0|Error|1|2
+17203437|fort worth, tx|8007782|Dallas, TX|1|2
+17203437|fort worth, tx|14369971|Austin-AUS/Cali-CLO/In the sky|1|2
+17203437|fort worth, tx|14343561|Austin, TX|1|2
+17203437|fort worth, tx|0|Error|1|2
+17203437|fort worth, tx|0|Error|1|2
+17210128|fort worth, tx|17138428|North Carolina|12|2
+17210128|fort worth, tx|26129312|South Coast Massachusetts |4|2
+17210128|fort worth, tx|21788535|San Francisco, CA|2|2
+17210128|fort worth, tx|74012896|Chicopee, Massachusetts|2|2
+17210128|fort worth, tx|37078240|Error|2|2
+17210128|fort worth, tx|405155402|Janesville|2|2
+17210128|fort worth, tx|45424737|8000' up|2|2
+17210128|fort worth, tx|16230209|Memphis, TN|1|2
+17210128|fort worth, tx|0|Error|1|2
+17210128|fort worth, tx|0|Error|1|2
+16161738|fort worth, texas|25514654|Dallas|2|2
+16161738|fort worth, texas|21151934|tallahassee|1|2
+18273610|fort worth, texas|18274199|Error|1|2
+24565656|fort worth, tx|709349726|Error|7|2
+24565656|fort worth, tx|74233147|Error|1|2
+24565656|fort worth, tx|2859807206|Error|1|2
+35054909|fort worth, tx|18790556|From Kansas to Maine to L.A.|2|2
+35054909|fort worth, tx|51363542|Error|1|2
+35054909|fort worth, tx|16208467|Austin, TX|1|2
+35054909|fort worth, tx|0|Error|1|2
+35054909|fort worth, tx|0|Error|1|2
+35054909|fort worth, tx|16118485|Dallas, TX |1|2
+35054909|fort worth, tx|17323972|Portland, OR|1|2
+13040412|fort worth, texas|0|Error|4|2
+13040412|fort worth, texas|0|Error|2|2
+13040412|fort worth, texas|1550053591|Error|1|2
+13040412|fort worth, texas|15631868|Error|1|2
+14096877|fort worth, texas|11632342|Minneapolis, Minnesota|2|2
+14096877|fort worth, texas|14386587|Ocean Springs, Mississippi|2|2
+14096877|fort worth, texas|22189551|Fort Worth, TX|1|2
+14096877|fort worth, texas|159685716|Error|1|2
+14096877|fort worth, texas|44497569|Wherever YOU are|1|2
+14096877|fort worth, texas|14463815|Denton, Texas|1|2
+14096877|fort worth, texas|11148602|Chicago|1|2
+14096877|fort worth, texas|15752435|Dallas, Texas|1|2
+14096877|fort worth, texas|0|Error|1|2
+14096877|fort worth, texas|357845828|Levittown pa|1|2
+14096877|fort worth, texas|0|Error|1|2
+14096877|fort worth, texas|17799880|United States|1|2
+14096877|fort worth, texas|17073973|Rockville, MD|1|2
+14096877|fort worth, texas|17219219|San Francisco, CA|1|2
+14096877|fort worth, texas|9895832|San Antonio, Texas|1|2
+14096877|fort worth, texas|10201332|Austin|1|2
+14096877|fort worth, texas|13436432|Las Vegas, NV|1|2
+14096877|fort worth, texas|19416002|Los Angeles|1|2
+17244122|fort worth, texas|42982108|Error|2|2
+17244122|fort worth, texas|5505312|Charlottesville, VA|2|2
+17244122|fort worth, texas|0|Error|1|2
+17244122|fort worth, texas|15714773|Texas|1|2
+62345067|fort worth, texas|0|Error|10|2
+1529611|fort worth, tx|46424039|Santa Monica, CA|2|2
+1529611|fort worth, tx|3887796856|Error|2|2
+1529611|fort worth, tx|10934732|The InterTubes|1|2
+1529611|fort worth, tx|1937751|Fresno, CA|1|2
+1529611|fort worth, tx|7409232|iPhone: 36.837681,-119.724739|1|2
+1529611|fort worth, tx|3266961|Pennsauken, NJ|1|2
+30894489|fort worth, texas|15946088| Atlanta|2|2
+30894489|fort worth, texas|0|Error|1|2
+30894489|fort worth, texas|1289338322|Error|1|2
+30894489|fort worth, texas|25458032|Texas|1|2
+30894489|fort worth, texas|49055904|Texas,kansas city,LasVegas |1|2
+30894489|fort worth, texas|42652259|Error|1|2
+30894489|fort worth, texas|30894489|Teddy Bear Town, TX|1|2
+30894489|fort worth, texas|0|Error|1|2
+14158675|fort worth, texas|23817355|Texas|10|2
+14158675|fort worth, texas|26593315|Warwick, RI|1|2
+14158675|fort worth, texas|2535314816|Error|1|2
+14158675|fort worth, texas|21550778|Irving, TX|1|2
+14158675|fort worth, texas|23316493|Lubbock, Texas|1|2
+14158675|fort worth, texas|2817995382|Error|1|2
+33033861|fort worth, texas|32585088|ft.worth texas|2|2
+16256753|fort worth, tx|28706024|los angeles|2|2
+16256753|fort worth, tx|53515450|MD, USA|2|2
+16256753|fort worth, tx|19524050|Las Vegas|1|2
+16256753|fort worth, tx|385232360|Error|1|2
+16256753|fort worth, tx|788270491|texas|1|2
+23611105|fort worth, tx|48929494|Texas =)|3|2
+23611105|fort worth, tx|264036590|Error|2|2
+28854547|fort worth, texas|270166419|Dallas, TX|3|2
+28854547|fort worth, texas|16228398|Error|1|2
+28854547|fort worth, texas|15694286|Dallas, TX|1|2
+28854547|fort worth, texas|29575792|South Carolina|1|2
+28854547|fort worth, texas|0|Error|1|2
+28854547|fort worth, texas|12661|Austin, Texas|1|2
+28854547|fort worth, texas|20012454|Frequent Flyer/ Los Angeles|1|2
+28854547|fort worth, texas|67175426|State Fair of Texas|1|2
+28854547|fort worth, texas|29260880|Dallas, TX|1|2
+28854547|fort worth, texas|18395755|Dallas, TX|1|2
+28854547|fort worth, texas|0|Error|1|2
+18383089|fort worth, texas|30658424|iphone:32.685833,97.413632|2|2
+18383089|fort worth, texas|0|Error|2|2
+18383089|fort worth, texas|29853091|Worldwide |1|2
+18383089|fort worth, texas|466386070|Error|1|2
+18383089|fort worth, texas|36987043|Houston/LA|1|2
+18383089|fort worth, texas|0|Error|1|2
+18383089|fort worth, texas|0|Error|1|2
+18383089|fort worth, texas|32768619|fort worth tx bby|1|2
+18383089|fort worth, texas|32150933|Error|1|2
+18383089|fort worth, texas|46582864|fort worth|1|2
+18383089|fort worth, texas|0|Error|1|2
+18383089|fort worth, texas|0|Error|1|2
+34117711|fort worth, texas|30309979|New York, NY|2|2
+34117711|fort worth, texas|8729502|Error|1|2
+36220662|fort worth, tx|0|Error|9|2
+36220662|fort worth, tx|3750153376|Error|7|2
+36220662|fort worth, tx|22889030|Los Angeles CA|2|2
+53014521|fort worth, texas|0|Error|6|2
+53014521|fort worth, texas|227837173|Florida|6|2
+53014521|fort worth, texas|51590948|Viva Las Vegas |2|2
+53014521|fort worth, texas|0|Error|2|2
+53014521|fort worth, texas|0|Error|1|2
+53014521|fort worth, texas|2256593899|Error|1|2
+53014521|fort worth, texas|56579869|Error|1|2
+16320544|fort worth, texas|34651691|DFW Metroplex|2|2
+16320544|fort worth, texas|19263890|Ottawa, ON.|1|2
+16320544|fort worth, texas|0|Error|1|2
+16320544|fort worth, texas|14469382|iPhone: 29.772827,-94.940971|1|2
+13202642|fort worth, tx|404235936|En tu suenos (-:|6|2
+13202642|fort worth, tx|19637929|LA: Palm Trees & Basketball|3|2
+13202642|fort worth, tx|0|Error|3|2
+13202642|fort worth, tx|2814863658|Error|1|2
+13202642|fort worth, tx|15024241|Global |1|2
+46758268|fort worth, texas|0|Error|2|2
+46758268|fort worth, texas|23754003|Denton, Texas|1|2
+46758268|fort worth, texas|16560465|Oberhausen Rhld.|1|2
+46758268|fort worth, texas|293477945|chicago, il|1|2
+46758268|fort worth, texas|661703|Minneapolis, MN|1|2
+46758268|fort worth, texas|17493438|Waco, TX|1|2
+46758268|fort worth, texas|0|Error|1|2
+46758268|fort worth, texas|17178202|California |1|2
+46758268|fort worth, texas|55629427|Ft. Worth, TX & beyond |1|2
+46758268|fort worth, texas|14120151|Cities worldwide|1|2
+46758268|fort worth, texas|3750153376|Error|1|2
+46758268|fort worth, texas|16981676|Brooklyn, NY|1|2
+46758268|fort worth, texas|16180947|Venice, CA|1|2
+16360420|fort worth, tx|14401761|Error|3|2
+16360420|fort worth, tx|2446474154|Error|1|2
+16360420|fort worth, tx|33399169|#TexasForever|1|2
+16360420|fort worth, tx|44227614|Fort Worth|1|2
+16360420|fort worth, tx|32665925|Fort Worth, Texas|1|2
+16360420|fort worth, tx|3158183552|Error|1|2
+16360420|fort worth, tx|22062460|Error|1|2
+16360420|fort worth, tx|17529858|Chicago, IL|1|2
+16365757|fort worth, texas|20987724|Peterborough, UK|4|2
+16365757|fort worth, texas|14837721|Gothenburg|3|2
+16365757|fort worth, texas|25874451|Conroe, Texas|2|2
+16365757|fort worth, texas|66470543|Lincoln, Nebraska|1|2
+16365757|fort worth, texas|18839056|Portsmouth|1|2
+16365757|fort worth, texas|16365757|Fort Worth, Texas|1|2
+16365757|fort worth, texas|27116045|Pennsylvania, US|1|2
+16365757|fort worth, texas|19084689|Chicago, Illinois, USA|1|2
+16365757|fort worth, texas|18294841|Glen Cove, WA, USA|1|2
+16365757|fort worth, texas|64793996|Saint Petersburg, FL|1|2
+16365757|fort worth, texas|43263615|Redmond, WA|1|2
+16365757|fort worth, texas|28978705|UK|1|2
+71948287|fort worth, texas|29304110|New Orleans|4|2
+71948287|fort worth, texas|0|Error|3|2
+71948287|fort worth, texas|35836267|DFW Area|2|2
+71948287|fort worth, texas|45030713|Music City|1|2
+71948287|fort worth, texas|71948287|Fort Worth, Texas|1|2
+71948287|fort worth, texas|0|Error|1|2
+71948287|fort worth, texas|33444740|Error|1|2
+71948287|fort worth, texas|221136037|Error|1|2
+661703|fort worth, tx|16091517|Des Moines, IA|2|2
+661703|fort worth, tx|31847329|Fort Worth, Texas|2|2
+661703|fort worth, tx|3344601|Fort Worth, Texas|2|2
+661703|fort worth, tx|0|Error|2|2
+661703|fort worth, tx|6443772|KFTW--KDAL|1|2
+661703|fort worth, tx|2513057830|Error|1|2
+661703|fort worth, tx|18195760|Seattleish|1|2
+661703|fort worth, tx|697163|Seattle, WA|1|2
+661703|fort worth, tx|233447114|Kentucky|1|2
+661703|fort worth, tx|70505892|Error|1|2
+661703|fort worth, tx|61781810|Fort Worth|1|2
+661703|fort worth, tx|14685475|Cedar Falls, Iowa|1|2
+661703|fort worth, tx|9253522|Oakrerf, CA|1|2
+17440860|fort worth, texas|16385556|Where I am - There I am.|1|2
+17440860|fort worth, texas|0|Error|1|2
+17440860|fort worth, texas|17289116|Washington, DC|1|2
+17440860|fort worth, texas|28018672|Hartford, Connecticut|1|2
+17440860|fort worth, texas|0|Error|1|2
+17440860|fort worth, texas|0|Error|1|2
+17440860|fort worth, texas|21010214|New York, NY|1|2
+17440860|fort worth, texas|20087297|New York|1|2
+17440860|fort worth, texas|2871406406|Error|1|2
+17440860|fort worth, texas|58232182|United States|1|2
+17440860|fort worth, texas|0|Error|1|2
+15371292|fort worth, texas|70702916|Dallas, Texas|1|2
+15371292|fort worth, texas|15371292|Fort Worth, Texas|1|2
+15371292|fort worth, texas|42984637|Fort Worth & Austin|1|2
+15371292|fort worth, texas|2868692725|Taipei , Taiwan|1|2
+15371292|fort worth, texas|10400102|Fort Worth, Texas|1|2
+15371292|fort worth, texas|0|Error|1|2
+62574429|fort worth, tx|0|Error|1|2
+22743108|fort worth, texas|1347020647|Error|2|2
+22743108|fort worth, texas|62544002|Texas|1|2
+22315655|fort worth, tx|0|Error|3|2
+22315655|fort worth, tx|0|Error|2|2
+22315655|fort worth, tx|17994148|Texas|1|2
+27993845|fort worth, tx|17355731|native Texan in Colorado|6|2
+27993845|fort worth, tx|14605436|New England, USA|2|2
+27993845|fort worth, tx|20090917|Whitehaven, Cumbria |1|2
+27993845|fort worth, tx|0|Error|1|2
+30107765|fort worth, tx|47209866|Western NY|5|2
+30107765|fort worth, tx|0|Error|2|2
+30107765|fort worth, tx|0|Error|1|2
+30107765|fort worth, tx|0|Error|1|2
+30107765|fort worth, tx|0|Error|1|2
+30107765|fort worth, tx|0|Error|1|2
+30107765|fort worth, tx|0|Error|1|2
+30107765|fort worth, tx|0|Error|1|2
+23830554|fort worth, tx|0|Error|1|2
+23830554|fort worth, tx|0|Error|1|2
+23830554|fort worth, tx|0|Error|1|2
+23830554|fort worth, tx|32817566|Fort Worth, Texas|1|2
+17572742|fort worth, tx|15371292|Fort Worth, Texas|1|2
+17572742|fort worth, tx|15545683|Austin, Tx|1|2
+17572742|fort worth, tx|53087919|Austin, Tx|1|2
+31267450|fort worth, texas|37982529|Error|3|2
+31267450|fort worth, texas|22726965|Error|3|2
+31267450|fort worth, texas|380938861|Error|1|2
+31267450|fort worth, texas|19516636|Los Angeles, CA|1|2
+31267450|fort worth, texas|21506437|anywhere with cell service|1|2
+31267450|fort worth, texas|16831036|Halifax - Canada|1|2
+31267450|fort worth, texas|0|Error|1|2
+31267450|fort worth, texas|18128444|Error|1|2
+31267450|fort worth, texas|0|Error|1|2
+31267450|fort worth, texas|24530474|iPhone: 0.000000,0.000000|1|2
+19741604|fort worth, tx|16474880|North Carolina|4|2
+19741604|fort worth, tx|0|Error|1|2
+19741604|fort worth, tx|23937112|Toronto|1|2
+19741604|fort worth, tx|0|Error|1|2
+19741604|fort worth, tx|46758268|West Chester, Ohio|1|2
+19741604|fort worth, tx|0|Error|1|2
+19741604|fort worth, tx|0|Error|1|2
+19741604|fort worth, tx|37676790|Boston|1|2
+19741604|fort worth, tx|1247533081|Error|1|2
+19741604|fort worth, tx|38292798|Los Angeles/New York|1|2
+19741604|fort worth, tx|25319725|Error|1|2
+19741604|fort worth, tx|15224275|Portland, OR|1|2
+11361782|fort worth, texas|8320702|Kansas|1|2
+11361782|fort worth, texas|0|Error|1|2
+11361782|fort worth, texas|15739383|High seas|1|2
+14513249|fort worth, tx|30699023|New York, New York|3|2
+14513249|fort worth, tx|12344562|Austin, TX|2|2
+14513249|fort worth, tx|21205089|New York, NY|2|2
+14513249|fort worth, tx|15766354|Error|2|2
+14513249|fort worth, tx|223592688|Error|1|2
+14513249|fort worth, tx|0|Error|1|2
+14513249|fort worth, tx|19445327|Error|1|2
+14513249|fort worth, tx|19563388|Philadelphia, PA|1|2
+14513249|fort worth, tx|14513249|New York, NY|1|2
+14513249|fort worth, tx|0|Error|1|2
+14513249|fort worth, tx|161412839|San Francisco, London, Vienna|1|2
+14513249|fort worth, tx|25757838|Philadelphia|1|2
+14513249|fort worth, tx|0|Error|1|2
+14513249|fort worth, tx|0|Error|1|2
+14513249|fort worth, tx|13699642|Seattle, WA|1|2
+14513249|fort worth, tx|15151435|Error|1|2
+14513249|fort worth, tx|0|Error|1|2
+14513249|fort worth, tx|618183|Copenhagen|1|2
+14513249|fort worth, tx|17695512|New York|1|2
+14513249|fort worth, tx|1151411|Hove|1|2
+14513249|fort worth, tx|24627889|State College, Pennsylvania|1|2
+14513249|fort worth, tx|624523284|Abuja, Nigeria|1|2
+26362994|fort worth, tx|0|Error|3|2
+26362994|fort worth, tx|15336250|Atlanta|2|2
+26362994|fort worth, tx|578250454|Error|1|2
+26362994|fort worth, tx|16004411|wherever i am, im prolly late|1|2
+26362994|fort worth, tx|60743165|Trotwood, Ohio|1|2
+26362994|fort worth, tx|0|Error|1|2
+26362994|fort worth, tx|0|Error|1|2
+26362994|fort worth, tx|18783665|NYC|1|2
+26362994|fort worth, tx|0|Error|1|2
+26362994|fort worth, tx|16562735|Texas|1|2
+26362994|fort worth, tx|26362994|KC WHERE IM FRM|1|2
+26362994|fort worth, tx|0|Error|1|2
+26362994|fort worth, tx|0|Error|1|2
+26362994|fort worth, tx|17456155|Everywhere. USA|1|2
+26362994|fort worth, tx|22093005|Hopefully in yo' speakerz!|1|2
+26362994|fort worth, tx|0|Error|1|2
+17678640|fort worth, texas|19212622|Error|2|2
+17678640|fort worth, texas|21842856|Arlington, TX|2|2
+17678640|fort worth, texas|32470920|Fort Worth, TX|1|2
+17678640|fort worth, texas|26358567|Error|1|2
+17678640|fort worth, texas|0|Error|1|2
+17678640|fort worth, texas|2298606438|Johnson City Tennessee|1|2
+17678640|fort worth, texas|30305201|Northeast, US|1|2
+17678640|fort worth, texas|16220694|Fort Worth, Texas|1|2
+17678640|fort worth, texas|15970567|Fort Worth, Texas|1|2
+17678640|fort worth, texas|0|Error|1|2
+17678640|fort worth, texas|21751701|Fort Worth|1|2
+17678640|fort worth, texas|23760398|Washington, D.C.|1|2
+1426731|fort worth, tx|667163|North-east Westsouthshire|2|2
+1426731|fort worth, tx|7067102|Error|2|2
+1426731|fort worth, tx|14218666|Plano, TX|1|2
+1426731|fort worth, tx|69753299|Miami Beach|1|2
+1426731|fort worth, tx|2458560776|Washington, DC|1|2
+28166539|fort worth, texas|0|Error|4|2
+28166539|fort worth, texas|350956123|Error|3|2
+28166539|fort worth, texas|0|Error|2|2
+28166539|fort worth, texas|16890969|Austin, Texas|1|2
+28166539|fort worth, texas|22808941|Fort worth, Texas|1|2
+28166539|fort worth, texas|0|Error|1|2
+47116446|fort worth, texas|0|Error|3|2
+47116446|fort worth, texas|40021244|DFW-TEXAS|3|2
+47116446|fort worth, texas|34812211|Louisiana/Texas|2|2
+47116446|fort worth, texas|0|Error|2|2
+47116446|fort worth, texas|0|Error|2|2
+47116446|fort worth, texas|25930881|Error|2|2
+47116446|fort worth, texas|28266951|FUNKY TOWN|2|2
+47116446|fort worth, texas|0|Error|1|2
+47116446|fort worth, texas|0|Error|1|2
+47116446|fort worth, texas|47670573|Error|1|2
+47116446|fort worth, texas|0|Error|1|2
+47116446|fort worth, texas|0|Error|1|2
+47116446|fort worth, texas|23832022|Worldwide |1|2
+54458398|fort worth, texas|18275317|Texas |9|2
+54458398|fort worth, texas|17325375|Error|2|2
+54458398|fort worth, texas|17919972|Error|1|2
+24056094|fort worth, texas|7393052|California|8|2
+24056094|fort worth, texas|19058681|Los Angeles, California|1|2
+24056094|fort worth, texas|8453452|Silicon Valley, California|1|2
+39807722|fort worth, tx|14267913|Grand Rapid, MI|4|2
+39807722|fort worth, tx|509537116|Error|2|2
+39807722|fort worth, tx|25362632|Fort Worth, TX|1|2
+39807722|fort worth, tx|14673448|Error|1|2
+39807722|fort worth, tx|14290754|Fort Worth, TX|1|2
+39807722|fort worth, tx|18957524|New York, NY|1|2
+39807722|fort worth, tx|19363044|Springfield USA|1|2
+39807722|fort worth, tx|24508019|texas, United States|1|2
+62888996|fort worth, tx|0|Error|1|2
+62888996|fort worth, tx|56550448|Texas|1|2
+16724068|fort worth, tx|15471351|Dallas, TX|2|2
+16724068|fort worth, tx|0|Error|1|2
+16724068|fort worth, tx|14624513|Greenville, South Carolina|1|2
+16724068|fort worth, tx|0|Error|1|2
+16724068|fort worth, tx|14348984|Fort Worth, TX|1|2
+16724068|fort worth, tx|18961861|Indiananpolis, IN, USA|1|2
+16724068|fort worth, tx|18175122|Fort Worth, TX|1|2

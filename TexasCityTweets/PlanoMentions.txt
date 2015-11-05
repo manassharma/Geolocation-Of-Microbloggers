@@ -1,0 +1,739 @@
+25168689|plano, tx|18604953|Error|7|2
+25168689|plano, tx|2395093188|Camarillo, CA|3|2
+25168689|plano, tx|27943978|Nashville, TN|3|2
+25168689|plano, tx|0|Error|1|2
+25168689|plano, tx|1598413856|Error|1|2
+25168689|plano, tx|49860148|All over the damn place.|1|2
+25168689|plano, tx|0|Error|1|2
+17829264|plano, tx|308750580|Mississippi Y'all |3|2
+17829264|plano, tx|48439306|NY's 23rd CD|2|2
+17829264|plano, tx|108417734|Virginia, USA|1|2
+17829264|plano, tx|0|Error|1|2
+17829264|plano, tx|15503074|United States of America|1|2
+17829264|plano, tx|34796565|Relocated from NY to Missouri|1|2
+17829264|plano, tx|23476830|Just right of you.|1|2
+17829264|plano, tx|0|Error|1|2
+17829264|plano, tx|16807199|NYC|1|2
+17043724|plano, tx|13553822|United States|3|2
+17043724|plano, tx|82674075|Plano Texas|2|2
+17043724|plano, tx|0|Error|2|2
+17043724|plano, tx|17703717|Error|2|2
+17043724|plano, tx|14600116|Marin, California|1|2
+17043724|plano, tx|12881372|Seattle, WA|1|2
+17043724|plano, tx|14479299|Cincinnati, Ohio|1|2
+17043724|plano, tx|16117767|Error|1|2
+17043724|plano, tx|18622869|DC|1|2
+17043724|plano, tx|941724637|Error|1|2
+17043724|plano, tx|11180212|Shirts in Washington|1|2
+17043724|plano, tx|20011858|Error|1|2
+17043724|plano, tx|19242018|U.S.A.|1|2
+17043724|plano, tx|23544596|Los Angeles |1|2
+17043724|plano, tx|26737490|Charlotte, NC|1|2
+17043724|plano, tx|19841583|Connecticut|1|2
+17043724|plano, tx|15131310|Austin, TX|1|2
+17043724|plano, tx|816653|San Francisco, CA|1|2
+17043724|plano, tx|0|Error|1|2
+17043724|plano, tx|17043724|Austin, TX|1|2
+17043724|plano, tx|13004962|The western front|1|2
+17043724|plano, tx|928481|Brooklyn, NY|1|2
+16398588|plano, tx|41736071|plano, tejas|8|2
+16398588|plano, tx|15609285|Los Angeles, CA|5|2
+16398588|plano, tx|3309106963|Error|2|2
+16398588|plano, tx|26875371|Error|2|2
+16398588|plano, tx|0|Error|1|2
+16398588|plano, tx|0|Error|1|2
+16398588|plano, tx|21063449|Texas|1|2
+16398588|plano, tx|0|Error|1|2
+16398588|plano, tx|385840199|Southern California|1|2
+16398588|plano, tx|272785999|Error|1|2
+16398588|plano, tx|0|Error|1|2
+16398588|plano, tx|65453717|Las Vegas|1|2
+49691104|plano, tx|0|Error|4|2
+49691104|plano, tx|82396289|los atlangeles, ny|2|2
+49691104|plano, tx|10161712|VA|1|2
+49691104|plano, tx|19679430|Houston, Texas|1|2
+49691104|plano, tx|2797132908|Error|1|2
+49691104|plano, tx|0|Error|1|2
+49691104|plano, tx|293878402|somewhere in Kentuckiana. |1|2
+44974102|plano, tx|16027653|Los Angeles, CA|1|2
+15339373|plano, tx|287883528|Ashland, KY|4|2
+15339373|plano, tx|286879526|Minnesota|3|2
+15339373|plano, tx|17201239|worldwide|3|2
+15339373|plano, tx|34519952|Lansing Michigan|3|2
+15339373|plano, tx|0|Error|2|2
+15339373|plano, tx|51087218|Error|2|2
+15339373|plano, tx|14955908|New York|2|2
+15339373|plano, tx|0|Error|2|2
+15339373|plano, tx|1157861690|Alexandria, VA|2|2
+15339373|plano, tx|2977171|Vancouver|1|2
+15339373|plano, tx|20536157|Mountain View, CA|1|2
+15339373|plano, tx|894941749|Error|1|2
+15339373|plano, tx|15705164|Waxhaw, NC|1|2
+15339373|plano, tx|540847466|Error|1|2
+15339373|plano, tx|0|Error|1|2
+15339373|plano, tx|19484289|UK|1|2
+15339373|plano, tx|35454452|Error|1|2
+15339373|plano, tx|13325552|Taranna, Kanada!|1|2
+15339373|plano, tx|0|Error|1|2
+40266764|plano, tx|0|Error|1|2
+6319192|plano, tx|0|Error|1|2
+6319192|plano, tx|1515471067|Error|1|2
+6319192|plano, tx|8188132|Tejas|1|2
+6319192|plano, tx|16417551|Canada|1|2
+6319192|plano, tx|386419187|Texas|1|2
+14641068|plano, texas|14390311|USA & Europe|5|2
+14641068|plano, texas|17822186|Los Angeles/everywhere|4|2
+14641068|plano, texas|14641068|Plano, Texas|4|2
+14641068|plano, texas|178633618|San Fran Bay Area|2|2
+14641068|plano, texas|43973313|Beacon, NY|2|2
+14641068|plano, texas|2375850120|Los Angeles, CA|2|2
+14641068|plano, texas|8929822|TEXAS|2|2
+14641068|plano, texas|23157179|Castle Rock, CO|2|2
+14641068|plano, texas|17850279|Dallas, TX|2|2
+14641068|plano, texas|544131321|USA|1|2
+14641068|plano, texas|547128056|Error|1|2
+14641068|plano, texas|0|Error|1|2
+14641068|plano, texas|7484302|Error|1|2
+14641068|plano, texas|0|Error|1|2
+14641068|plano, texas|74925244|Colorado Springs|1|2
+14641068|plano, texas|0|Error|1|2
+14641068|plano, texas|20407539|Los Angeles, CA|1|2
+14641068|plano, texas|14390225|New York, NY|1|2
+14641068|plano, texas|0|Error|1|2
+14641068|plano, texas|17334356|Error|1|2
+14641068|plano, texas|0|Error|1|2
+14641068|plano, texas|17905406|Everywhere|1|2
+14641068|plano, texas|0|Error|1|2
+14641068|plano, texas|301674657|Error|1|2
+14641068|plano, texas|87788247|Error|1|2
+14641068|plano, texas|31987673|Berkeley, CA|1|2
+14641068|plano, texas|0|Error|1|2
+14641068|plano, texas|60699354|Texas|1|2
+14641068|plano, texas|0|Error|1|2
+14641068|plano, texas|18795890|Earth |1|2
+14641068|plano, texas|20218625|Charlotte, NC|1|2
+14641068|plano, texas|36217048|Error|1|2
+14641068|plano, texas|20912095|Error|1|2
+14641068|plano, texas|41411848|Orange County, Ca|1|2
+14641068|plano, texas|25963254|Allen, Texas|1|2
+14641068|plano, texas|18947042|Santa Barbara, CA|1|2
+14641068|plano, texas|20289554|PLANO TEXAS|1|2
+14641068|plano, texas|0|Error|1|2
+14641068|plano, texas|107164405|Coventry|1|2
+14641068|plano, texas|0|Error|1|2
+19034322|plano, tx|972651|Error|11|2
+19034322|plano, tx|8453452|Silicon Valley, California|4|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|23371033|Scottsdale, AZ|1|2
+19034322|plano, tx|48824135|Error|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|17061999|Tampa, FL|1|2
+19034322|plano, tx|41573098|Franklin, Tn|1|2
+19034322|plano, tx|11883132|San Francisco|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|16404741|Sign for The 5 Mistakes Report|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|22470432|Tampa|1|2
+19034322|plano, tx|49698158|Greece|1|2
+19034322|plano, tx|21185810|O.T.B Old Tampa Bay The Port|1|2
+19034322|plano, tx|20858606|California|1|2
+19034322|plano, tx|22756955|Iceland|1|2
+19034322|plano, tx|11294522|Temecula, Los Angeles, Austin|1|2
+19034322|plano, tx|20329569|Syracuse, New York|1|2
+19034322|plano, tx|1425812300|CA|1|2
+19034322|plano, tx|17266725|USA|1|2
+19034322|plano, tx|44607904|North Carolina|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|35463664|Isle of Wight|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|16181186|Jackson,Wy|1|2
+19034322|plano, tx|57604473|Error|1|2
+19034322|plano, tx|60642052|San Francisco + NYC|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|17831966|Perth,Australia|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|126092067|Phoenix, Arizona|1|2
+19034322|plano, tx|325077962|Moscow|1|2
+19034322|plano, tx|16986565|PA|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|17488225|Minneapolis MN Minnesota|1|2
+19034322|plano, tx|31167183|New York|1|2
+19034322|plano, tx|20763387|Michigan|1|2
+19034322|plano, tx|23772472|California|1|2
+19034322|plano, tx|3359851|San Francisco & Los Angeles|1|2
+19034322|plano, tx|21661279|London|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|19940413|Springville,Utah|1|2
+19034322|plano, tx|36758111|California|1|2
+19034322|plano, tx|16326872|Error|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|141167994|croydon|1|2
+19034322|plano, tx|18358836|Estero, Florida|1|2
+19034322|plano, tx|2810991997|Error|1|2
+19034322|plano, tx|23505471|California|1|2
+19034322|plano, tx|17074240|St. Louis, MO|1|2
+19034322|plano, tx|17068379|iPhone: 45.086163,-93.432800|1|2
+19523518|plano, texas|0|Error|12|2
+19523518|plano, texas|20960800|Killeen, TX|9|2
+19523518|plano, texas|15524944|in a recording studio|9|2
+19523518|plano, texas|0|Error|8|2
+19523518|plano, texas|79615890|Dallas,TX|3|2
+19523518|plano, texas|0|Error|3|2
+19523518|plano, texas|0|Error|3|2
+19523518|plano, texas|0|Error|3|2
+19523518|plano, texas|86305274|Error|2|2
+19523518|plano, texas|0|Error|2|2
+19523518|plano, texas|0|Error|2|2
+19523518|plano, texas|22975632|Error|2|2
+19523518|plano, texas|18948085|Dallas/Fort Worth, Texas|2|2
+19523518|plano, texas|0|Error|2|2
+19523518|plano, texas|15191262|Arlington, TX|2|2
+19523518|plano, texas|25652905|Atlanta, GA|2|2
+19523518|plano, texas|0|Error|1|2
+19523518|plano, texas|31007007|Houston, TX|1|2
+19523518|plano, texas|1591222248|Error|1|2
+19523518|plano, texas|284838843|Da Daux(Thibodaux)|1|2
+19523518|plano, texas|0|Error|1|2
+19523518|plano, texas|29139361|Dallas, Tx |1|2
+19523518|plano, texas|0|Error|1|2
+19523518|plano, texas|38921119|DALLAS TAMPA JAPAN|1|2
+19523518|plano, texas|25429756|Dallas, TX|1|2
+19523518|plano, texas|0|Error|1|2
+19523518|plano, texas|0|Error|1|2
+19523518|plano, texas|24550746|dfw,tx|1|2
+19523518|plano, texas|0|Error|1|2
+19523518|plano, texas|0|Error|1|2
+19523518|plano, texas|0|Error|1|2
+19523518|plano, texas|625944781|Error|1|2
+19523518|plano, texas|0|Error|1|2
+19523518|plano, texas|939174708|Error|1|2
+18381515|plano, tx|0|Error|2|2
+18381515|plano, tx|1372019191|Error|1|2
+18381515|plano, tx|0|Error|1|2
+18381515|plano, tx|27098748|Texas, USA|1|2
+18381515|plano, tx|37218881|Dallas, Texas|1|2
+3182481|plano, texas|8531732|NYC / LA|3|2
+3182481|plano, texas|0|Error|3|2
+3182481|plano, texas|0|Error|2|2
+3182481|plano, texas|1835411|Sector ZZ9 Plural Z Alpha|1|2
+3182481|plano, texas|23275004|Hollywood|1|2
+3182481|plano, texas|3133251|New York|1|2
+3182481|plano, texas|24202701|Los Angeles|1|2
+3182481|plano, texas|0|Error|1|2
+3182481|plano, texas|3013511|Los Angeles|1|2
+3182481|plano, texas|14914631|Orange County, CA|1|2
+3182481|plano, texas|7081402|San Francisco, CA|1|2
+3182481|plano, texas|807027|Buffalo, NY|1|2
+3182481|plano, texas|133907837|Mexico|1|2
+3182481|plano, texas|0|Error|1|2
+3182481|plano, texas|2373551|San Francisco, CA|1|2
+3182481|plano, texas|16457104|Hollywood, Satan's Taint|1|2
+3182481|plano, texas|28521141|Los Angeles, CA|1|2
+3182481|plano, texas|458844453|Error|1|2
+3182481|plano, texas|14110996|New York City|1|2
+3182481|plano, texas|18038171|the octagon|1|2
+3182481|plano, texas|0|Error|1|2
+18133933|plano, tx|18033412|Melbourne|2|2
+18133933|plano, tx|437329626|Australia|2|2
+18133933|plano, tx|21723575|Error|2|2
+18133933|plano, tx|22981220|Paris, Kentucky|1|2
+18133933|plano, tx|0|Error|1|2
+17350680|plano, texas|14923512| Houston,Texas|6|2
+17350680|plano, texas|15721717|Dallas, TX-based, will travel!|3|2
+17350680|plano, texas|15150357|Nashville, TN|2|2
+17350680|plano, texas|18058188|Arizona|2|2
+17350680|plano, texas|14058085|Las Vegas, NV|1|2
+17350680|plano, texas|17350680|Plano, Texas|1|2
+17350680|plano, texas|16150075|Southern California|1|2
+17350680|plano, texas|90339435|Error|1|2
+17350680|plano, texas|0|Error|1|2
+17350680|plano, texas|1205791|Dallas, TX|1|2
+17350680|plano, texas|68460034|Error|1|2
+17350680|plano, texas|8765592|Everywhere!|1|2
+17350680|plano, texas|14562259|Norway/DC/ soon Columbia SC!|1|2
+15516803|plano, tx|16232940|Nashville, TN|1|2
+17876672|plano, texas|816653|San Francisco, CA|1|2
+24038817|plano, texas|0|Error|1|2
+11606702|plano, tx|14155205|Southern California|6|2
+11606702|plano, tx|0|Error|5|2
+11606702|plano, tx|0|Error|5|2
+11606702|plano, tx|0|Error|3|2
+11606702|plano, tx|0|Error|2|2
+11606702|plano, tx|0|Error|1|2
+11606702|plano, tx|0|Error|1|2
+11606702|plano, tx|0|Error|1|2
+11606702|plano, tx|0|Error|1|2
+11606702|plano, tx|310540812|Error|1|2
+11606702|plano, tx|275088315|California |1|2
+25029974|plano, texas|0|Error|8|2
+25029974|plano, texas|30685977|Spelljammer|4|2
+25029974|plano, texas|30090568|San Diego, California|2|2
+25029974|plano, texas|15120464|Minneapolis|2|2
+25029974|plano, texas|29140254|Austin, TX|1|2
+25029974|plano, texas|14335262|Minnesota|1|2
+25029974|plano, texas|2009831|Florida|1|2
+25029974|plano, texas|16941646|West Los Angeles, CA|1|2
+25029974|plano, texas|17602896|Seattle|1|2
+25029974|plano, texas|23084659|Lower East Side|1|2
+14553123|plano, texas|36247277|Singapore|4|2
+14553123|plano, texas|14662889|Purcellville, VA|3|2
+14553123|plano, texas|9887162|Wake Forest, NC|2|2
+14553123|plano, texas|12733362|iPhone: 41.893692,-87.624336|2|2
+14553123|plano, texas|8864512|Champaign, IL, USA|2|2
+14553123|plano, texas|790205|Berlin|2|2
+14553123|plano, texas|14655906|Broomfield, CO|2|2
+14553123|plano, texas|16171758|Error|2|2
+14553123|plano, texas|15310786|Error|1|2
+14553123|plano, texas|15096652|Florida|1|2
+14553123|plano, texas|823098|Berlin|1|2
+14553123|plano, texas|8170922|Portland, ME|1|2
+14553123|plano, texas|7018192|Kings Mills, Ohio|1|2
+14553123|plano, texas|10760422|Error|1|2
+14553123|plano, texas|8839052|Chicago, IL|1|2
+14553123|plano, texas|14678973|Olympia, WA|1|2
+14553123|plano, texas|5877822|Smithfield, UT|1|2
+14553123|plano, texas|27759688|Allen, TX, USA|1|2
+14553123|plano, texas|14184390|Chapel Hill, NC, USA|1|2
+14553123|plano, texas|9630822|Auburn, CA|1|2
+14553123|plano, texas|7545592|Perth, WA, Australia|1|2
+14553123|plano, texas|16891384|Southern Oregon|1|2
+5852762|plano, tx|14078677|dallas, TX|5|2
+5852762|plano, tx|68983340|Happily Lost in North Texas|1|2
+5852762|plano, tx|325346009|Error|1|2
+5852762|plano, tx|29903039|Dallas, TX Metromess|1|2
+5852762|plano, tx|0|Error|1|2
+5852762|plano, tx|2889846333|North Dallas Fort Worth|1|2
+5852762|plano, tx|15590455|Dallas, Tx|1|2
+5852762|plano, tx|10723|Dallas, TX|1|2
+5852762|plano, tx|783032|Grapevine, TX|1|2
+5852762|plano, tx|52933171|Error|1|2
+5852762|plano, tx|0|Error|1|2
+5852762|plano, tx|5867282|0.000, -180.000|1|2
+5852762|plano, tx|0|Error|1|2
+20009138|plano, tx|45198020|Rockies|2|2
+20009138|plano, tx|65652114|right behind you|2|2
+20009138|plano, tx|0|Error|2|2
+20009138|plano, tx|41173852|Dallas, TX|1|2
+20009138|plano, tx|14652452|Los Angeles|1|2
+20009138|plano, tx|17841658|Cape Town, South Africa|1|2
+20009138|plano, tx|13017662|Brooklyn, NY|1|2
+20009138|plano, tx|18863894|Stockholm, Sweden|1|2
+20009138|plano, tx|25104161|DaMaddenMatrix|1|2
+20009138|plano, tx|323234843|Error|1|2
+20009138|plano, tx|0|Error|1|2
+20009138|plano, tx|22040720|Portland, Maine|1|2
+20009138|plano, tx|143597044|Error|1|2
+20009138|plano, tx|15709535|Orange County, CA|1|2
+20009138|plano, tx|41640614|El Dorado Hills, CA|1|2
+20009138|plano, tx|17195943|Los Angeles, CA|1|2
+20009138|plano, tx|0|Error|1|2
+20009138|plano, tx|0|Error|1|2
+20009138|plano, tx|18704291|Edgewater Park, NJ|1|2
+20009138|plano, tx|32207755|York|1|2
+20009138|plano, tx|28054777|Hollywood|1|2
+20009138|plano, tx|0|Error|1|2
+20009138|plano, tx|3257987084|Error|1|2
+41113161|plano, tx|17501358|Los Angeles|4|2
+41113161|plano, tx|10111462|Error|3|2
+41113161|plano, tx|0|Error|2|2
+41113161|plano, tx|23346310|Error|2|2
+41113161|plano, tx|37599771|Lexington, KY|2|2
+41113161|plano, tx|29019304|Boston, MA|1|2
+41113161|plano, tx|19092888|Washington, D.C. area|1|2
+41113161|plano, tx|3294252925|Error|1|2
+41113161|plano, tx|355226693|Error|1|2
+41113161|plano, tx|14197569|Raleigh NC but a NYer at heart|1|2
+41113161|plano, tx|19319704|Dresden|1|2
+41113161|plano, tx|335800829|Error|1|2
+41113161|plano, tx|0|Error|1|2
+41113161|plano, tx|18840445|NJ|1|2
+41113161|plano, tx|5750332|nashville|1|2
+41113161|plano, tx|0|Error|1|2
+41113161|plano, tx|0|Error|1|2
+41113161|plano, tx|22301008|Amboise my dear :)|1|2
+41113161|plano, tx|24307907|San Diego, CA|1|2
+41113161|plano, tx|1615607130|Error|1|2
+41113161|plano, tx|0|Error|1|2
+41113161|plano, tx|290061254|Error|1|2
+1267911|plano, texas|17621873|Austin, TX|12|2
+1267911|plano, texas|15481850|St. Louis, MO|2|2
+1267911|plano, texas|0|Error|1|2
+1267911|plano, texas|305744811|Error|1|2
+33197922|plano, texas|14221588|Dallas, Texas|2|2
+33197922|plano, texas|54081388|Asheville, NC|2|2
+33197922|plano, texas|198741046|Austin TX|2|2
+33197922|plano, texas|2791671|Europe, Hungary, Budapest|1|2
+33197922|plano, texas|76680123|Error|1|2
+33197922|plano, texas|0|Error|1|2
+18441289|plano, texas|16602221|Zurich|2|2
+18441289|plano, texas|1114375657|Error|2|2
+18441289|plano, texas|13475382|Southern NJ|1|2
+18441289|plano, texas|399677680|Error|1|2
+18441289|plano, texas|1712831|Malaysia|1|2
+18441289|plano, texas|0|Error|1|2
+18441289|plano, texas|93213521|Error|1|2
+18441289|plano, texas|0|Error|1|2
+18441289|plano, texas|0|Error|1|2
+18441289|plano, texas|0|Error|1|2
+14345178|plano, tx|0|Error|5|2
+14345178|plano, tx|15280385|Charlotte, NC|3|2
+14345178|plano, tx|15130854|Los Angeles, CA|3|2
+14345178|plano, tx|66441732|Plano, Texas|2|2
+14345178|plano, tx|14103826|Washington, DC|1|2
+14345178|plano, tx|549512872|Error|1|2
+14345178|plano, tx|0|Error|1|2
+14345178|plano, tx|185966457|italia, Pordenone|1|2
+14345178|plano, tx|61587148|Bay Area|1|2
+14345178|plano, tx|0|Error|1|2
+14345178|plano, tx|7782442|Los Angeles, CA|1|2
+14345178|plano, tx|20109973|New York, New York|1|2
+14345178|plano, tx|19984001|Dallas, Texas|1|2
+14345178|plano, tx|16511202|Denver, CO|1|2
+14345178|plano, tx|0|Error|1|2
+14345178|plano, tx|14363344|Kansas City, Mo.|1|2
+14345178|plano, tx|8771022|Canton, Mass.|1|2
+14345178|plano, tx|17821331|Error|1|2
+14345178|plano, tx|1259581970|United States|1|2
+14345178|plano, tx|15839517|Fort Lee, NJ USA|1|2
+14345178|plano, tx|14463815|Denton, Texas|1|2
+14345178|plano, tx|39890894|Error|1|2
+14345178|plano, tx|30061764|Los Angeles@La Brea & Wils|1|2
+14345178|plano, tx|15276401|North Carolina|1|2
+14345178|plano, tx|0|Error|1|2
+14345178|plano, tx|0|Error|1|2
+14345178|plano, tx|16696384|Portland, OR|1|2
+14345178|plano, tx|2997985210|Error|1|2
+14345178|plano, tx|10055222|Baltimore, MD|1|2
+14345178|plano, tx|14243094|Charlotte, NC |1|2
+14345178|plano, tx|0|Error|1|2
+14345178|plano, tx|13438952|Error|1|2
+78746068|plano, texas|16929279|Basel, Switzerland|2|2
+78746068|plano, texas|32765679|Dallas, TX|1|2
+78746068|plano, texas|364961723|Cape Town, South Africa|1|2
+78746068|plano, texas|0|Error|1|2
+78746068|plano, texas|0|Error|1|2
+78746068|plano, texas|757648526|Error|1|2
+78746068|plano, texas|20956390|Marin County, CA|1|2
+78746068|plano, texas|85997631|Charlotte, NC USA|1|2
+78746068|plano, texas|37381909|Error|1|2
+78746068|plano, texas|21836409|West Fargo, ND|1|2
+78746068|plano, texas|1734381|Australia|1|2
+78746068|plano, texas|38742202|Los Angeles, CA|1|2
+78746068|plano, texas|14134823|Mandan, ND|1|2
+78746068|plano, texas|23703690|California|1|2
+78746068|plano, texas|14079425|Southampton, NY|1|2
+78746068|plano, texas|14831123|Vienna, Austria, Europe|1|2
+78746068|plano, texas|17123992|Dallas, TX|1|2
+78746068|plano, texas|23849753|Dallas Tx|1|2
+78746068|plano, texas|2303950214|Error|1|2
+78746068|plano, texas|1002191294|Error|1|2
+78746068|plano, texas|1068000326|Error|1|2
+78746068|plano, texas|15158464|Chicago|1|2
+78746068|plano, texas|14078808|Tacoma, WA|1|2
+78746068|plano, texas|28336545|Dallas FtWorth Metro|1|2
+78746068|plano, texas|81289014|Greensboro,North Carolina USA|1|2
+78746068|plano, texas|87623318|Error|1|2
+78746068|plano, texas|44208708|La Palma, California USA|1|2
+78746068|plano, texas|53240896|Delaware|1|2
+78746068|plano, texas|15896379|Portugal|1|2
+78746068|plano, texas|47494124|USA|1|2
+78746068|plano, texas|0|Error|1|2
+45192730|plano, tx|11883132|San Francisco|17|2
+9153332|plano, texas|0|Error|5|2
+9153332|plano, texas|0|Error|4|2
+9153332|plano, texas|12199652|1.4 miles high|4|2
+9153332|plano, texas|0|Error|2|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+9153332|plano, texas|0|Error|1|2
+16886842|plano, tx|0|Error|4|2
+16886842|plano, tx|0|Error|3|2
+16886842|plano, tx|0|Error|3|2
+16886842|plano, tx|0|Error|3|2
+16886842|plano, tx|0|Error|2|2
+16886842|plano, tx|9115332|Los Angeles|2|2
+16886842|plano, tx|15299829|Ames, IA|1|2
+16886842|plano, tx|2812811131|Error|1|2
+16886842|plano, tx|0|Error|1|2
+16886842|plano, tx|19512735|Plano, TX|1|2
+16886842|plano, tx|14110219|THE GREAT STATE OF TEXAS|1|2
+16886842|plano, tx|0|Error|1|2
+16886842|plano, tx|17035064|Stamford, CT|1|2
+16886842|plano, tx|18558209|Error|1|2
+16886842|plano, tx|14645160|Austin, TX|1|2
+16886842|plano, tx|0|Error|1|2
+16886842|plano, tx|113434859|Error|1|2
+16886842|plano, tx|21721067|go ask ya mutha|1|2
+16886842|plano, tx|18020390|Baltimore|1|2
+16886842|plano, tx|304281063|Error|1|2
+16886842|plano, tx|19749651|Los Angeles|1|2
+58192906|plano, tx|25860792|Texas|6|2
+58192906|plano, tx|292777080|Hawthorne,Cali|3|2
+58192906|plano, tx|36663339|buffalo|2|2
+58192906|plano, tx|0|Error|1|2
+58192906|plano, tx|123406854|Texas |1|2
+58192906|plano, tx|462262628|Error|1|2
+58192906|plano, tx|0|Error|1|2
+20731176|plano, texas|0|Error|3|2
+20731176|plano, texas|0|Error|1|2
+20731176|plano, texas|55591754|Colorado, USA|1|2
+25168689|plano, tx|2395093188|Camarillo, CA|5|2
+25168689|plano, tx|1598413856|Error|3|2
+25168689|plano, tx|27943978|Nashville, TN|2|2
+25168689|plano, tx|49860148|All over the damn place.|1|2
+25168689|plano, tx|18604953|Error|1|2
+71352916|plano, tx|39479339|iPhone: 25.729770,-80.319627|1|2
+7406432|plano, tx|786611|home (Denver, US)|1|2
+11606702|plano, tx|121530663|Error|5|2
+11606702|plano, tx|15175819|ShiftConMedia.com|4|2
+11606702|plano, tx|0|Error|2|2
+11606702|plano, tx|444042275|ATX|1|2
+11606702|plano, tx|7234682|Los Angeles |1|2
+11606702|plano, tx|6079132|Salt Lake City, UT|1|2
+11606702|plano, tx|65112322|Michigan, USA|1|2
+11606702|plano, tx|14155205|Southern California|1|2
+11606702|plano, tx|51361452|Homer , NY |1|2
+42025341|plano, tx|62921722|Plano, TX|1|2
+42025341|plano, tx|40479820|Plano, TX|1|2
+42025341|plano, tx|49639863|Error|1|2
+29446999|plano, tx|24447643|Earth|1|2
+13300322|plano, tx|14913612|Pasadena, California|3|2
+13300322|plano, tx|8725052|Dallas, Texas|2|2
+13300322|plano, tx|34709901|Plano, TX|2|2
+13300322|plano, tx|0|Error|2|2
+13300322|plano, tx|0|Error|1|2
+13300322|plano, tx|32115322|Italy, Texas|1|2
+13300322|plano, tx|0|Error|1|2
+13300322|plano, tx|14875909|Michigan|1|2
+13300322|plano, tx|21836409|West Fargo, ND|1|2
+13300322|plano, tx|364961723|Cape Town, South Africa|1|2
+13300322|plano, tx|0|Error|1|2
+13300322|plano, tx|222947339|Error|1|2
+13300322|plano, tx|18581437|Temecula, CA|1|2
+13300322|plano, tx|714547031|44 Alan Paton Drive|1|2
+13300322|plano, tx|21331005|Dallas, TX|1|2
+13300322|plano, tx|14465973|Vancouver, canada|1|2
+13300322|plano, tx|15916406|Hobbs, NM|1|2
+13300322|plano, tx|0|Error|1|2
+13300322|plano, tx|0|Error|1|2
+13300322|plano, tx|13300322|Plano, TX|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|16301273|Austin, TX|1|2
+19034322|plano, tx|29851021|Scottsdale, Arizona, USA|1|2
+19034322|plano, tx|29856819|Scottsdale, Arizona, USA|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|0|Error|1|2
+19034322|plano, tx|15643526|Cochin, Kerala, India|1|2
+19034322|plano, tx|15991049|USA|1|2
+19034322|plano, tx|0|Error|1|2
+15949733|plano, texas|1928731|NYC|2|2
+15949733|plano, texas|56833283|Poland|2|2
+15949733|plano, texas|21515577|Atlanta, GA|2|2
+15949733|plano, texas|17785809|Wanstead (East London, UK)|1|2
+15949733|plano, texas|8842252|Dublin, Ireland|1|2
+15949733|plano, texas|6587072|Error|1|2
+15949733|plano, texas|15537121|Error|1|2
+20155145|plano, tx|2242745182|Orlando|2|2
+20155145|plano, tx|34396078|Central Florida|2|2
+20155145|plano, tx|33909672|Error|1|2
+20155145|plano, tx|9602672|Suburb of Chicago|1|2
+20155145|plano, tx|0|Error|1|2
+20155145|plano, tx|16751898|33.81219900,-117.9187250|1|2
+20155145|plano, tx|14228245|Theme Parks|1|2
+20155145|plano, tx|19411974|Orlando|1|2
+20155145|plano, tx|15926441|Atlanta, GA|1|2
+20155145|plano, tx|21168053|Error|1|2
+34843782|plano, tx|42937337|Frisco, TX|2|2
+34843782|plano, tx|0|Error|1|2
+34843782|plano, tx|15858535|Dallas, TX|1|2
+34843782|plano, tx|16416131|TEXAS|1|2
+34843782|plano, tx|41900650|iPhone: 32.883698,-96.872696|1|2
+34843782|plano, tx|58689261|Los Angeles, CA |1|2
+34843782|plano, tx|16662161|CLE |1|2
+34843782|plano, tx|34639029|Dallas, Texas|1|2
+34843782|plano, tx|15609285|Los Angeles, CA|1|2
+34843782|plano, tx|0|Error|1|2
+34843782|plano, tx|26071604|Dallas Duhhhh!!|1|2
+34843782|plano, tx|39440824|Studio 1514 Dallas Tx|1|2
+34843782|plano, tx|0|Error|1|2
+34843782|plano, tx|66746969|Frisco, TX|1|2
+54792268|plano, texas|0|Error|1|2
+54792268|plano, texas|0|Error|1|2
+54792268|plano, texas|0|Error|1|2
+14553123|plano, texas|9630822|Auburn, CA|2|2
+14553123|plano, texas|0|Error|2|2
+14553123|plano, texas|15468964|Chapel Hill, NC|1|2
+14553123|plano, texas|15096652|Florida|1|2
+14553123|plano, texas|645143|Berlin|1|2
+14553123|plano, texas|14253068|Miami, FL|1|2
+14553123|plano, texas|18194778|Raleigh|1|2
+14553123|plano, texas|4216361|Palo Alto, CA|1|2
+14553123|plano, texas|6141442|Madison, WI|1|2
+14553123|plano, texas|9070452|iPhone: 39.229713,-84.521942|1|2
+14553123|plano, texas|14188383|Durham, NC|1|2
+14553123|plano, texas|14717608|Portland, OR, USA|1|2
+14553123|plano, texas|14630421|Frisco, TX|1|2
+76840471|plano, tx|0|Error|1|2
+46431990|plano, tx|2178974220|Error|3|2
+46431990|plano, tx|0|Error|1|2
+23392897|plano, tx|0|Error|3|2
+23392897|plano, tx|23140818|City of Sin, NV|3|2
+23392897|plano, tx|0|Error|1|2
+70141531|plano, tx|15913|Seattle via New England|1|2
+59153681|plano, tx|73785577|TX|4|2
+59153681|plano, tx|17720587|Error|1|2
+41113161|plano, tx|30073167|Error|2|2
+41113161|plano, tx|33012975|Error|2|2
+41113161|plano, tx|15493040|Provo, UT|2|2
+41113161|plano, tx|35949948|So Cali|2|2
+41113161|plano, tx|22724392|Memory Palace/Vancouver|2|2
+41113161|plano, tx|15761993|Error|1|2
+41113161|plano, tx|49680939|Sydney, Australia|1|2
+41113161|plano, tx|15539161|Schertz, TX|1|2
+41113161|plano, tx|0|Error|1|2
+41113161|plano, tx|302030656|Melbourne|1|2
+41113161|plano, tx|0|Error|1|2
+41113161|plano, tx|0|Error|1|2
+41113161|plano, tx|24307907|San Diego, CA|1|2
+41113161|plano, tx|221870706|PA|1|2
+41113161|plano, tx|36179694|North Hollywood, CA|1|2
+41113161|plano, tx|5226161|New Jersey|1|2
+41113161|plano, tx|45277180|California's Bay Area|1|2
+41113161|plano, tx|183068317|Bellingham, MA|1|2
+41113161|plano, tx|86899526|Error|1|2
+41113161|plano, tx|0|Error|1|2
+41113161|plano, tx|12741852|Middlesex County, Virginia|1|2
+21405565|plano, texas|19842097|Dallas, Tx|1|2
+21405565|plano, texas|0|Error|1|2
+21405565|plano, texas|556229767|Error|1|2
+21405565|plano, texas|14904123|Baltimore, Maryland|1|2
+21405565|plano, texas|17955097|Plano, TX|1|2
+21405565|plano, texas|3845208497|Error|1|2
+21405565|plano, texas|14575798|DFW|1|2
+21405565|plano, texas|15744114|San Francisco, CA|1|2
+21405565|plano, texas|15564535|Dallas, Texas|1|2
+21405565|plano, texas|17875053|Louisville, Kentucky|1|2
+21405565|plano, texas|0|Error|1|2
+21405565|plano, texas|0|Error|1|2
+58192906|plano, tx|87739632|bacau|1|2
+58192906|plano, tx|18457213|Newport Beach, CA|1|2
+58192906|plano, tx|292777080|Hawthorne,Cali|1|2
+58192906|plano, tx|272423447|Error|1|2
+16276732|plano, texas|16329181|Atlanta * Dallas * New York|16|2
+16276732|plano, texas|30692652|Dallas/Tx|1|2
+27877771|plano, texas|29835376|Denver|1|2
+27877771|plano, texas|712333|Arizona|1|2
+27877771|plano, texas|2444261694|USA|1|2
+27877771|plano, texas|16952953|Dallas, TX|1|2
+27877771|plano, texas|450953|Columbus, OH|1|2
+27877771|plano, texas|6123762|New York, NY|1|2
+27877771|plano, texas|16026300|RDU|1|2
+27877771|plano, texas|14442986|Atlanta, GA|1|2
+27877771|plano, texas|21103050|Canada|1|2
+27877771|plano, texas|14848408|California|1|2
+27877771|plano, texas|0|Error|1|2
+27877771|plano, texas|0|Error|1|2
+27877771|plano, texas|0|Error|1|2
+27877771|plano, texas|0|Error|1|2
+14267933|plano, tx|0|Error|1|2
+14267933|plano, tx|0|Error|1|2
+14267933|plano, tx|0|Error|1|2
+14267933|plano, tx|0|Error|1|2
+14267933|plano, tx|0|Error|1|2
+14267933|plano, tx|0|Error|1|2
+14267933|plano, tx|0|Error|1|2
+16377713|plano, tx|0|Error|1|2
+16377713|plano, tx|0|Error|1|2
+16377713|plano, tx|0|Error|1|2
+16377713|plano, tx|0|Error|1|2
+16377713|plano, tx|0|Error|1|2
+16377713|plano, tx|0|Error|1|2
+16377713|plano, tx|0|Error|1|2
+16377713|plano, tx|0|Error|1|2
+15487934|plano, tx|0|Error|2|2
+15487934|plano, tx|0|Error|1|2
+15487934|plano, tx|0|Error|1|2
+15487934|plano, tx|49716013|Dallas, Texas|1|2
+15487934|plano, tx|0|Error|1|2
+15487934|plano, tx|15239758|AZ|1|2
+15487934|plano, tx|15312009|DFW, TX|1|2
+15487934|plano, tx|42533585|Atlanta, GA|1|2
+15487934|plano, tx|12186732|Washington, DC|1|2
+15487934|plano, tx|18180799|Vancouver, BC|1|2
+21611786|plano, texas|0|Error|8|2
+21611786|plano, texas|39981780|Error|1|2
+21611786|plano, texas|39840201|Plano, Texas|1|2
+21611786|plano, texas|21585187|Fort Drum, NY|1|2
+21611786|plano, texas|0|Error|1|2
+21611786|plano, texas|62598893|Error|1|2
+21611786|plano, texas|43821576|Pura Vida :)|1|2
+30001692|plano, tx|18137724|Fayetteville, NC|3|2
+30001692|plano, tx|271681076|Error|2|2
+30001692|plano, tx|17461226|Error|2|2
+30001692|plano, tx|15976697|USA|1|2
+30001692|plano, tx|107443281|Error|1|2
+30001692|plano, tx|7528292|Error|1|2
+30001692|plano, tx|1213072608|Error|1|2
+30001692|plano, tx|14728168|Houston, Texas|1|2
+30001692|plano, tx|526725774|Error|1|2
+39503512|plano, tx|39497243|on a magic carpet ride|3|2
+39503512|plano, tx|0|Error|1|2
+55237743|plano, tx|0|Error|2|2
+55237743|plano, tx|64032760|Error|1|2
+55237743|plano, tx|60653124|Canada|1|2
+55237743|plano, tx|0|Error|1|2
+55237743|plano, tx|0|Error|1|2
+55237743|plano, tx|44745363|iPhone: -30.368200,153.097633|1|2
+55237743|plano, tx|63997373|Toronto|1|2
+55237743|plano, tx|15462032|USA|1|2
+55237743|plano, tx|0|Error|1|2
+55237743|plano, tx|0|Error|1|2
+14345178|plano, tx|0|Error|3|2
+14345178|plano, tx|14243094|Charlotte, NC |3|2
+14345178|plano, tx|1259581970|United States|2|2
+14345178|plano, tx|31614569|Indonesia|1|2
+14345178|plano, tx|18641695|New York|1|2
+14345178|plano, tx|0|Error|1|2
+14345178|plano, tx|66441732|Plano, Texas|1|2
+14345178|plano, tx|37291805|New York, NY|1|2
+14345178|plano, tx|795626|Adland|1|2
+14345178|plano, tx|9783492|New York, NY USA|1|2
+14345178|plano, tx|2836421|Error|1|2
+14345178|plano, tx|33714032|Error|1|2
+729213|plano, tx|783214|San Francisco, CA|1|2
+729213|plano, tx|56588195|Plano, Texas|1|2
+729213|plano, tx|26191233|San Antonio, TX|1|2
+729213|plano, tx|816653|San Francisco, CA|1|2
+53195851|plano, texas|28739689|Error|1|2
+53195851|plano, texas|15675545|Error|1|2
+53195851|plano, texas|19099864|Dallas, tx|1|2
+21884655|plano, texas|15675917|Error|2|2
+21884655|plano, texas|7808172|32.991128,-96.71714|1|2
+21884655|plano, texas|21206910|Error|1|2
+21884655|plano, texas|15452686|Worldwide|1|2
+58640582|plano, texas|0|Error|2|2
+58640582|plano, texas|36117822|Dallas, Texas|1|2
+58640582|plano, texas|11849072|Error|1|2
+58640582|plano, texas|40411008|Los Angeles, |1|2
+58640582|plano, texas|0|Error|1|2
+58640582|plano, texas|16812787|Houston, TX|1|2
+58640582|plano, texas|23967578|It all depends on the day...|1|2
+58640582|plano, texas|23151437|Philly/LA|1|2
