@@ -1,0 +1,808 @@
+18483337|carlsbad, california|15487785|New Orleans, Louisiana|2|2
+36198161|carlsbad, ca|58965920|Oneonta, NY|8|2
+36198161|carlsbad, ca|15874285|DC | SB|2|2
+36198161|carlsbad, ca|272114408|Error|2|2
+36198161|carlsbad, ca|502519547|Error|1|2
+36198161|carlsbad, ca|70737633|Texas|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|16856077|Westbrook, ME, USA|1|2
+36198161|carlsbad, ca|58865707|UK..|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|48625983|philippines|1|2
+36198161|carlsbad, ca|28785259|Minnesota|1|2
+36198161|carlsbad, ca|16606036|Washington, D.C.|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|10999012|Nakatomi Tower|1|2
+36198161|carlsbad, ca|39354565|Tucson|1|2
+36198161|carlsbad, ca|48319329|Error|1|2
+36198161|carlsbad, ca|16553676|iPhone: 30.256378,-97.734138|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|8729502|Error|1|2
+36198161|carlsbad, ca|186670436|Philadelphia|1|2
+36198161|carlsbad, ca|21161630|Vermont|1|2
+36198161|carlsbad, ca|15750456|Dallas, TX|1|2
+36198161|carlsbad, ca|1108726261|Cape Town, South Africa|1|2
+36198161|carlsbad, ca|20539012|Cork, Ireland|1|2
+36198161|carlsbad, ca|38542369|Seattle|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|58965920|Oneonta, NY|8|2
+36198161|carlsbad, ca|15874285|DC | SB|2|2
+36198161|carlsbad, ca|272114408|Error|2|2
+36198161|carlsbad, ca|502519547|Error|1|2
+36198161|carlsbad, ca|70737633|Texas|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|16856077|Westbrook, ME, USA|1|2
+36198161|carlsbad, ca|58865707|UK..|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|48625983|philippines|1|2
+36198161|carlsbad, ca|28785259|Minnesota|1|2
+36198161|carlsbad, ca|16606036|Washington, D.C.|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|10999012|Nakatomi Tower|1|2
+36198161|carlsbad, ca|39354565|Tucson|1|2
+36198161|carlsbad, ca|48319329|Error|1|2
+36198161|carlsbad, ca|16553676|iPhone: 30.256378,-97.734138|1|2
+36198161|carlsbad, ca|0|Error|1|2
+36198161|carlsbad, ca|8729502|Error|1|2
+36198161|carlsbad, ca|186670436|Philadelphia|1|2
+36198161|carlsbad, ca|21161630|Vermont|1|2
+36198161|carlsbad, ca|15750456|Dallas, TX|1|2
+36198161|carlsbad, ca|1108726261|Cape Town, South Africa|1|2
+36198161|carlsbad, ca|20539012|Cork, Ireland|1|2
+36198161|carlsbad, ca|38542369|Seattle|1|2
+36198161|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|293208477|Encinitas, CA|4|2
+18358676|carlsbad, ca|16800764|SF Bay Area, CA|3|2
+18358676|carlsbad, ca|17088407|Los Angeles, CA.|2|2
+18358676|carlsbad, ca|22560533|Brooklyn|2|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|17010677|Outside of Chicago|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|75323685|Kailua, HI|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|28457505|San Diego, CA|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|55321596|Bend, Oregon|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|14287191|Chicago, IL|1|2
+18358676|carlsbad, ca|17491982|1929 Hancock St, San Diego, CA|1|2
+18358676|carlsbad, ca|26745004|New York|1|2
+18358676|carlsbad, ca|26368993|US & Australia|1|2
+18358676|carlsbad, ca|14112824|Worldwide|1|2
+18358676|carlsbad, ca|14578519|San Diego|1|2
+18358676|carlsbad, ca|11617512|Escondido, CA, USA|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|17323733|Los Angeles, CA |1|2
+18358676|carlsbad, ca|19418058|San Francisco Bay Area|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|26006577|USA|1|2
+18358676|carlsbad, ca|15640775|San Francisco, CA|1|2
+18358676|carlsbad, ca|818548226|Error|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|14305711|New York, NY|1|2
+18358676|carlsbad, ca|419117523|Error|1|2
+18358676|carlsbad, ca|2584455834|Error|1|2
+18358676|carlsbad, ca|17581224|Error|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|18358676|So Cal|1|2
+18358676|carlsbad, ca|68845058|Salinas, CA|1|2
+18358676|carlsbad, ca|458158888|Error|1|2
+18358676|carlsbad, ca|14248002|Around the world!|1|2
+18358676|carlsbad, ca|16271952|New York, NY|1|2
+18358676|carlsbad, ca|32537629|Los Angeles, CA|1|2
+44706253|carlsbad, ca|974934008|The Left Canuck Coast|1|2
+81283946|carlsbad, ca|17583639|Silicon Valley|2|2
+81283946|carlsbad, ca|14100972|Boston, MA|1|2
+81283946|carlsbad, ca|34373064|Charlottesville, VA|1|2
+81283946|carlsbad, ca|18290719|SF & Global|1|2
+81283946|carlsbad, ca|39517630|Madison, Wisconsin|1|2
+47205435|carlsbad, ca|15867247|Chicago, IL|9|2
+47205435|carlsbad, ca|0|Error|4|2
+47205435|carlsbad, ca|0|Error|2|2
+47205435|carlsbad, ca|28534252|Poulterland|2|2
+47205435|carlsbad, ca|26315586|Fairhaven, MA|1|2
+47205435|carlsbad, ca|17245467|Error|1|2
+47205435|carlsbad, ca|64285986|Error|1|2
+47205435|carlsbad, ca|46895418|UK|1|2
+47205435|carlsbad, ca|16299673|Error|1|2
+47205435|carlsbad, ca|368871642|Error|1|2
+47205435|carlsbad, ca|23883037|Toronto, Canada|1|2
+47205435|carlsbad, ca|62130152|Medellin|1|2
+29256143|carlsbad, ca|22540123|new york|1|2
+29256143|carlsbad, ca|19264279|St. Louis, MO|1|2
+29256143|carlsbad, ca|19637934|Los Angeles-ish|1|2
+19687218|carlsbad, ca|17479880|Error|5|2
+19687218|carlsbad, ca|0|Error|5|2
+19687218|carlsbad, ca|0|Error|2|2
+19687218|carlsbad, ca|130852753|Error|1|2
+19687218|carlsbad, ca|73501767|Baldwinville, MA|1|2
+19687218|carlsbad, ca|0|Error|1|2
+19687218|carlsbad, ca|19946519|San Diego|1|2
+19687218|carlsbad, ca|0|Error|1|2
+19687218|carlsbad, ca|14761886|Tennessee, USA|1|2
+19687218|carlsbad, ca|36456350|Austin, Texas|1|2
+19687218|carlsbad, ca|44686725|Error|1|2
+19687218|carlsbad, ca|0|Error|1|2
+19687218|carlsbad, ca|0|Error|1|2
+19687218|carlsbad, ca|0|Error|1|2
+19687218|carlsbad, ca|233367868|Houston, Texas|1|2
+15496973|carlsbad, ca|2274205982|Error|2|2
+15496973|carlsbad, ca|26140667|USA|2|2
+15496973|carlsbad, ca|0|Error|2|2
+15496973|carlsbad, ca|15344833|California|1|2
+15496973|carlsbad, ca|14837079|San Diego|1|2
+15496973|carlsbad, ca|17475427|Orange, California|1|2
+34193035|carlsbad, ca|18404415|Error|18|2
+34193035|carlsbad, ca|14147680|West Chester, Ohio|1|2
+34193035|carlsbad, ca|0|Error|1|2
+74873323|carlsbad, california|0|Error|5|2
+74873323|carlsbad, california|2200264308|Error|4|2
+74873323|carlsbad, california|30658683|New York, New York|3|2
+74873323|carlsbad, california|20949830|Midlothian, VA|2|2
+74873323|carlsbad, california|15017215|Southern California|2|2
+74873323|carlsbad, california|0|Error|2|2
+74873323|carlsbad, california|0|Error|1|2
+74873323|carlsbad, california|14721716|Error|1|2
+74873323|carlsbad, california|0|Error|1|2
+74873323|carlsbad, california|19923144|Error|1|2
+74873323|carlsbad, california|32306015|Shit, I have no clue!|1|2
+74873323|carlsbad, california|2535314816|Error|1|2
+74873323|carlsbad, california|0|Error|1|2
+74873323|carlsbad, california|0|Error|1|2
+74873323|carlsbad, california|0|Error|1|2
+74873323|carlsbad, california|38002432|By the beach|1|2
+74873323|carlsbad, california|54438929|Error|1|2
+74873323|carlsbad, california|0|Error|1|2
+74873323|carlsbad, california|0|Error|1|2
+74873323|carlsbad, california|29122498|San Diego|1|2
+74873323|carlsbad, california|21418132|Eugene, OR|1|2
+74873323|carlsbad, california|38490096|Richmond, Va.|1|2
+74873323|carlsbad, california|0|Error|1|2
+2523231|carlsbad, ca|702773|San Jose, California|4|2
+2523231|carlsbad, ca|35653|Error|4|2
+2523231|carlsbad, ca|2523231|San Diego, CA|4|2
+2523231|carlsbad, ca|69037632|Error|2|2
+2523231|carlsbad, ca|15782390|Hermosa Beach, CA|2|2
+2523231|carlsbad, ca|15583328|Los Angeles|2|2
+2523231|carlsbad, ca|14345086|Portland, Oregon|2|2
+2523231|carlsbad, ca|19273373|Error|2|2
+2523231|carlsbad, ca|185413439|Error|1|2
+2523231|carlsbad, ca|16537844| Rockport, Massachusetts|1|2
+2523231|carlsbad, ca|18775790|Los Angeles|1|2
+2523231|carlsbad, ca|14518852|Los Angeles|1|2
+2523231|carlsbad, ca|0|Error|1|2
+2523231|carlsbad, ca|20020378|Hillsborough, NC|1|2
+2523231|carlsbad, ca|14902049|Sydney|1|2
+2523231|carlsbad, ca|944851|Currently: Everywhere|1|2
+2523231|carlsbad, ca|366478602|Error|1|2
+2523231|carlsbad, ca|18217939|RDU-BOS-JFK-PWM|1|2
+2523231|carlsbad, ca|3191096993|Error|1|2
+2523231|carlsbad, ca|12076002|Error|1|2
+2523231|carlsbad, ca|43131378|New York, NY|1|2
+2523231|carlsbad, ca|69683679|La Jolla, CA|1|2
+2523231|carlsbad, ca|0|Error|1|2
+2523231|carlsbad, ca|30973|Seattle, WA|1|2
+2523231|carlsbad, ca|3308325493|Error|1|2
+2523231|carlsbad, ca|12045642|Hermosa Beach, CA|1|2
+2523231|carlsbad, ca|73224138|Thailand for November|1|2
+19301635|carlsbad, ca|19301635|Carlsbad, CA|12|2
+19301635|carlsbad, ca|8820652|San Diego, California |5|2
+19301635|carlsbad, ca|14115000|Brooklyn, NY|5|2
+19301635|carlsbad, ca|17342661|California|4|2
+19301635|carlsbad, ca|14521343|TX |3|2
+19301635|carlsbad, ca|19665411|Error|2|2
+19301635|carlsbad, ca|12650382|San Diego|2|2
+19301635|carlsbad, ca|9100522|SD, OC, LA|2|2
+19301635|carlsbad, ca|3855911|San Diego, CA|1|2
+19301635|carlsbad, ca|4800271|New York City, NY, USA|1|2
+19301635|carlsbad, ca|0|Error|1|2
+19301635|carlsbad, ca|15757957|Los Angeles|1|2
+19301635|carlsbad, ca|14842523|Chiang Mai|1|2
+19301635|carlsbad, ca|15744281|San Diego|1|2
+19301635|carlsbad, ca|1315431|Chicago|1|2
+19301635|carlsbad, ca|0|Error|1|2
+19301635|carlsbad, ca|64403628|Error|1|2
+19301635|carlsbad, ca|18062820|Woodside, CA|1|2
+2234291|carlsbad, ca|23546086|Error|3|2
+2234291|carlsbad, ca|18951965|Error|3|2
+2234291|carlsbad, ca|1525065552|Error|1|2
+2234291|carlsbad, ca|0|Error|1|2
+2234291|carlsbad, ca|16727535|Austin/Aspen|1|2
+2234291|carlsbad, ca|17372853|A Tale of Risky Business...|1|2
+2234291|carlsbad, ca|3316198396|Error|1|2
+2234291|carlsbad, ca|1668528296|Error|1|2
+2234291|carlsbad, ca|781495903|Error|1|2
+2234291|carlsbad, ca|0|Error|1|2
+36214647|carlsbad, ca|19019298|Washington, DC|1|2
+36214647|carlsbad, ca|0|Error|1|2
+36214647|carlsbad, ca|0|Error|1|2
+36214647|carlsbad, ca|17060015|Error|1|2
+36214647|carlsbad, ca|0|Error|1|2
+36214647|carlsbad, ca|27094693|Orange County, CA|1|2
+19308651|carlsbad, ca|0|Error|1|2
+19308651|carlsbad, ca|42168775|My bedroom.... not yours|1|2
+21410807|carlsbad, california|972651|Error|3|2
+21410807|carlsbad, california|274046536|Error|1|2
+28228644|carlsbad, ca|2196921026|Error|3|2
+28228644|carlsbad, ca|19078110|Virginia|2|2
+28228644|carlsbad, ca|20943308|UK|2|2
+28228644|carlsbad, ca|13591092|Latvia|2|2
+28228644|carlsbad, ca|15351161|USA|2|2
+28228644|carlsbad, ca|0|Error|2|2
+28228644|carlsbad, ca|2849216779|Error|2|2
+28228644|carlsbad, ca|55449552|Worldwide|1|2
+28228644|carlsbad, ca|0|Error|1|2
+28228644|carlsbad, ca|0|Error|1|2
+28228644|carlsbad, ca|0|Error|1|2
+28228644|carlsbad, ca|60913923|Error|1|2
+28228644|carlsbad, ca|2836860520|Error|1|2
+28228644|carlsbad, ca|26377020|San Clemente, CA|1|2
+28228644|carlsbad, ca|690723|Nashville by way of New York|1|2
+28228644|carlsbad, ca|7524902|Edmond, Oklahoma|1|2
+28228644|carlsbad, ca|0|Error|1|2
+28228644|carlsbad, ca|0|Error|1|2
+28228644|carlsbad, ca|1780551|Oklahoma City|1|2
+28228644|carlsbad, ca|15825184|Tyler, TX|1|2
+28228644|carlsbad, ca|15826761|Boston, MA|1|2
+28228644|carlsbad, ca|13161|Seattle, WA|1|2
+28228644|carlsbad, ca|0|Error|1|2
+28228644|carlsbad, ca|16277226|Everywhere!|1|2
+28228644|carlsbad, ca|19383753|Cardiff by the Sea... |1|2
+28228644|carlsbad, ca|110615063|Seoul, Korea|1|2
+28228644|carlsbad, ca|21433590|Cleveland, Ohio|1|2
+28228644|carlsbad, ca|0|Error|1|2
+28228644|carlsbad, ca|14051529|Minnesota|1|2
+28228644|carlsbad, ca|72569521|Error|1|2
+28228644|carlsbad, ca|18339537|Atlanta - Medellin Colombia|1|2
+28228644|carlsbad, ca|364866012|Error|1|2
+28228644|carlsbad, ca|14334116|Tampa, FL|1|2
+85378124|carlsbad, ca|0|Error|1|2
+85378124|carlsbad, ca|0|Error|1|2
+85378124|carlsbad, ca|15760045|Boulder, Co|1|2
+55235265|carlsbad, california|0|Error|1|2
+55235265|carlsbad, california|19692933|Encinitas, CA|1|2
+55235265|carlsbad, california|972651|Error|1|2
+55235265|carlsbad, california|1344951|San Francisco/New York|1|2
+55235265|carlsbad, california|18523795|Central Coast, California|1|2
+55235265|carlsbad, california|2693983838|Error|1|2
+55235265|carlsbad, california|19739126|California|1|2
+74898593|carlsbad, ca|15499067|San Diego|4|2
+74898593|carlsbad, ca|61698230|San Diego, CA|3|2
+74898593|carlsbad, ca|869399388|Error|2|2
+74898593|carlsbad, ca|83189558|San Diego, CA|2|2
+74898593|carlsbad, ca|48216588|Error|1|2
+74898593|carlsbad, ca|941724637|Error|1|2
+74898593|carlsbad, ca|0|Error|1|2
+74898593|carlsbad, ca|0|Error|1|2
+74898593|carlsbad, ca|0|Error|1|2
+74898593|carlsbad, ca|0|Error|1|2
+18275548|carlsbad, california|14842523|Chiang Mai|2|2
+18275548|carlsbad, california|608578591|Error|1|2
+18275548|carlsbad, california|0|Error|1|2
+18275548|carlsbad, california|93273898|Error|1|2
+18275548|carlsbad, california|17272792|Riverside, California|1|2
+18275548|carlsbad, california|25559193|New York &amp; New Orleans|1|2
+18275548|carlsbad, california|0|Error|1|2
+18275548|carlsbad, california|0|Error|1|2
+18275548|carlsbad, california|0|Error|1|2
+18275548|carlsbad, california|0|Error|1|2
+18275548|carlsbad, california|62196783|Oklahoma|1|2
+32567736|carlsbad, ca|14376153|Chestnut Ridge, New York|2|2
+32567736|carlsbad, ca|41663178|Carlsbad, CA|1|2
+34928952|carlsbad, ca|29543057|The Land of Glamour|12|2
+34928952|carlsbad, ca|0|Error|2|2
+34928952|carlsbad, ca|52666252|Error|2|2
+34928952|carlsbad, ca|35115462|Error|1|2
+34928952|carlsbad, ca|0|Error|1|2
+34928952|carlsbad, ca|41974311|iPhone: 34.496833,-118.622731|1|2
+34928952|carlsbad, ca|0|Error|1|2
+34928952|carlsbad, ca|14878817|Yosemite Village, California|1|2
+34928952|carlsbad, ca|0|Error|1|2
+34928952|carlsbad, ca|0|Error|1|2
+26415102|carlsbad, california|0|Error|1|2
+18946552|carlsbad, ca|14129470|West Bloomfield, MI|3|2
+18946552|carlsbad, ca|3074122481|Error|2|2
+18946552|carlsbad, ca|570047477|UK|1|2
+18946552|carlsbad, ca|18392095|New York - L.A. - San Diego|1|2
+18946552|carlsbad, ca|28034781|Carlsbad|1|2
+18946552|carlsbad, ca|14773329|California-USA|1|2
+18946552|carlsbad, ca|3033596253|Error|1|2
+18946552|carlsbad, ca|43179718|Southern California|1|2
+18946552|carlsbad, ca|14195415|Carlsbad, CA|1|2
+18946552|carlsbad, ca|0|Error|1|2
+18946552|carlsbad, ca|29401333|San Diego, CA|1|2
+18946552|carlsbad, ca|28582186|Carlsbad|1|2
+18946552|carlsbad, ca|10269752|San Diego, CA|1|2
+14364779|carlsbad, ca|0|Error|1|2
+14364779|carlsbad, ca|8984572|Orlando, Florida|1|2
+14364779|carlsbad, ca|2244580466|lerdo de tejada, veracruz|1|2
+14364779|carlsbad, ca|10362462|iPhone: 43.060272,-87.887314|1|2
+62728950|carlsbad, ca|21681809|Los Angeles|2|2
+62728950|carlsbad, ca|0|Error|2|2
+62728950|carlsbad, ca|20816387|Los Angeles, CA|2|2
+62728950|carlsbad, ca|63153228|Everywhere|1|2
+62728950|carlsbad, ca|858201|New York, NY|1|2
+62728950|carlsbad, ca|0|Error|1|2
+62728950|carlsbad, ca|0|Error|1|2
+17905768|carlsbad, ca|16207185|Los Angeles + Anywhere|1|2
+8207562|carlsbad, ca|17893355|San Diego|5|2
+8207562|carlsbad, ca|8207562|Armada Drive, Carlsbad, CA|4|2
+8207562|carlsbad, ca|16331259|Escondido, CA|4|2
+8207562|carlsbad, ca|51335885|'In the cloud'|2|2
+8207562|carlsbad, ca|20653562|North San Diego County, CA|2|2
+8207562|carlsbad, ca|0|Error|1|2
+8207562|carlsbad, ca|0|Error|1|2
+8207562|carlsbad, ca|17695558|So-Cal|1|2
+8207562|carlsbad, ca|29398925|Los Angeles|1|2
+8207562|carlsbad, ca|1678353806|River Edge, NJ|1|2
+8207562|carlsbad, ca|766509|Palo Alto, CA|1|2
+8207562|carlsbad, ca|0|Error|1|2
+8207562|carlsbad, ca|249238246|CA  l  MD  l  VA|1|2
+8207562|carlsbad, ca|16267101|Brooklyn, New York|1|2
+8207562|carlsbad, ca|0|Error|1|2
+8207562|carlsbad, ca|22231561|interwebs|1|2
+8207562|carlsbad, ca|2714686380|Error|1|2
+8207562|carlsbad, ca|0|Error|1|2
+8207562|carlsbad, ca|8797512|Baltimore, MD|1|2
+8207562|carlsbad, ca|48553362|Encinitas California|1|2
+8207562|carlsbad, ca|18013014|Melbourne, Victoria|1|2
+8207562|carlsbad, ca|36722582|Worldwide and in Space|1|2
+8207562|carlsbad, ca|0|Error|1|2
+8207562|carlsbad, ca|0|Error|1|2
+8207562|carlsbad, ca|298573185|Error|1|2
+8207562|carlsbad, ca|14195415|Carlsbad, CA|1|2
+8207562|carlsbad, ca|20017798|Buena Park, CA|1|2
+55134808|carlsbad, ca|0|Error|1|2
+55134808|carlsbad, ca|51267107|Now in Maine!|1|2
+39931698|carlsbad, ca|293353605|Somewhere awesome|5|2
+39931698|carlsbad, ca|0|Error|4|2
+39931698|carlsbad, ca|20128523|From NY...Live in LA|3|2
+39931698|carlsbad, ca|0|Error|2|2
+39931698|carlsbad, ca|72756179|San Diego, CA|2|2
+39931698|carlsbad, ca|27493899|San Diego|2|2
+39931698|carlsbad, ca|80686540|Error|2|2
+39931698|carlsbad, ca|0|Error|1|2
+39931698|carlsbad, ca|41071378|LA/Malibu|1|2
+39931698|carlsbad, ca|0|Error|1|2
+39931698|carlsbad, ca|26824188|Lititz, PA.|1|2
+39931698|carlsbad, ca|3006359686|Newburgh, NY|1|2
+39931698|carlsbad, ca|49199705|Oceanside, CA|1|2
+15683714|carlsbad, ca|14879862|Carlsbad, CA | Kailua, HI|5|2
+15683714|carlsbad, ca|556226296|Error|3|2
+15683714|carlsbad, ca|57187721|Error|2|2
+15683714|carlsbad, ca|53601820|earth|2|2
+15683714|carlsbad, ca|16059420|Fairborn, Ohio|1|2
+15683714|carlsbad, ca|515599069|Error|1|2
+15683714|carlsbad, ca|20916546|Error|1|2
+15683714|carlsbad, ca|15139686|Seattle, WA|1|2
+15683714|carlsbad, ca|423831033|Error|1|2
+15683714|carlsbad, ca|46318413|Nashville, TN|1|2
+15683714|carlsbad, ca|54720890|Error|1|2
+68768187|carlsbad, ca|23018394|San Diego, CA|3|2
+68768187|carlsbad, ca|972651|Error|3|2
+68768187|carlsbad, ca|164891274|Error|3|2
+68768187|carlsbad, ca|32128610|San Diego|3|2
+68768187|carlsbad, ca|46668455|Carlsbad, CA|3|2
+68768187|carlsbad, ca|17886152|Error|2|2
+68768187|carlsbad, ca|15487945|Oakland, CA|2|2
+68768187|carlsbad, ca|11883132|San Francisco|2|2
+68768187|carlsbad, ca|25181359|Earth|2|2
+68768187|carlsbad, ca|14426346|Everywhere|2|2
+68768187|carlsbad, ca|71782274|Tainan, Taiwan|2|2
+68768187|carlsbad, ca|9867582|San Clemente, California|2|2
+68768187|carlsbad, ca|21735525|San Diego, California|2|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|15150828|San Diego, California|1|2
+68768187|carlsbad, ca|15456558|San Diego, CA|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|28457505|San Diego, CA|1|2
+68768187|carlsbad, ca|72538435|Oahu, Hawaii|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|14372471|Oceanside, CA|1|2
+68768187|carlsbad, ca|15588657|Global|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|807146354|Clayhidon, Devon,EX15 3TJ|1|2
+68768187|carlsbad, ca|41158555|San Diego, CA|1|2
+68768187|carlsbad, ca|15408055|san diego|1|2
+68768187|carlsbad, ca|49141218|Oceanside, California|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|20500599|2743 Shelter Island Drive|1|2
+68768187|carlsbad, ca|28576558|USA|1|2
+68768187|carlsbad, ca|21815782|Coronado, California|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|21879024|San Diego & world at large|1|2
+68768187|carlsbad, ca|35548861|San Diego, California|1|2
+68768187|carlsbad, ca|9617422|San Diego and La Mesa, CA|1|2
+68768187|carlsbad, ca|52281482|San Diego, CA|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|38236041|Oceanside CA|1|2
+68768187|carlsbad, ca|12041532|9 SuperCamps across USA|1|2
+68768187|carlsbad, ca|11317012|San Diego|1|2
+68768187|carlsbad, ca|57111200|San Diego, CA|1|2
+68768187|carlsbad, ca|17832811|St Paul|1|2
+68768187|carlsbad, ca|18623908|Old Town SD and Oceanside, CA|1|2
+68768187|carlsbad, ca|29920308|Fullerton, CA|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|268399087|San Diego|1|2
+68768187|carlsbad, ca|60636369|Fallbrook, CA|1|2
+68768187|carlsbad, ca|20174823|San Francisco, CA|1|2
+68768187|carlsbad, ca|34072922|San Diego, CA|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|75104479|San Diego|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|28140395|La Jolla, CA|1|2
+68768187|carlsbad, ca|47388801|San Diego, CA|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|44665149|Rancho Santa Fe, CA|1|2
+68768187|carlsbad, ca|0|Error|1|2
+68768187|carlsbad, ca|41409938|Oceanside, CA|1|2
+68768187|carlsbad, ca|76680446|5480 Grand Pacific Dr.|1|2
+68768187|carlsbad, ca|0|Error|1|2
+22888311|carlsbad, california|0|Error|1|2
+22888311|carlsbad, california|0|Error|1|2
+22888311|carlsbad, california|0|Error|1|2
+22888311|carlsbad, california|0|Error|1|2
+22888311|carlsbad, california|0|Error|1|2
+22888311|carlsbad, california|9653432|New York|1|2
+58293511|carlsbad, ca|32473519|San Diego|3|2
+58293511|carlsbad, ca|39549719|Santa Cruz, CA|2|2
+58293511|carlsbad, ca|54929935|Boulder, CO|2|2
+58293511|carlsbad, ca|43464948|Maui, Hawaii|2|2
+58293511|carlsbad, ca|50752006|New England|1|2
+58293511|carlsbad, ca|14592008|Vancouver|1|2
+58293511|carlsbad, ca|32729111|Concord, CA|1|2
+58293511|carlsbad, ca|55972234|Centurion, South Africa|1|2
+58293511|carlsbad, ca|14734609|Netherlands|1|2
+58293511|carlsbad, ca|19558149|Ojai|1|2
+58293511|carlsbad, ca|0|Error|1|2
+58293511|carlsbad, ca|15633129|The Universe|1|2
+58293511|carlsbad, ca|32799607|New York,  California. |1|2
+58293511|carlsbad, ca|22733967|Ojai, CA|1|2
+58293511|carlsbad, ca|320437867|Error|1|2
+58293511|carlsbad, ca|2274249235|Error|1|2
+58293511|carlsbad, ca|16379583|Sacramento Area USA|1|2
+58293511|carlsbad, ca|42334547|Hong Kong|1|2
+58293511|carlsbad, ca|0|Error|1|2
+58293511|carlsbad, ca|0|Error|1|2
+58293511|carlsbad, ca|14848221|Fort Lauderdale, Florida|1|2
+71926368|carlsbad, ca|0|Error|2|2
+71926368|carlsbad, ca|0|Error|1|2
+71926368|carlsbad, ca|2845806446|Error|1|2
+71926368|carlsbad, ca|19248106|Citizen of the World Dahhhling|1|2
+71926368|carlsbad, ca|0|Error|1|2
+71926368|carlsbad, ca|754576|Los Angeles, CA|1|2
+81758627|carlsbad, ca|0|Error|1|2
+81758627|carlsbad, ca|15907720|DC & NYC|1|2
+33221848|carlsbad, california|18420140|Error|1|2
+33221848|carlsbad, california|16365636|Error|1|2
+33221848|carlsbad, california|15150828|San Diego, California|1|2
+33221848|carlsbad, california|15456558|San Diego, CA|1|2
+33221848|carlsbad, california|54315479|Error|1|2
+33221848|carlsbad, california|27937719|San Diego|1|2
+33221848|carlsbad, california|14119629|Okinawa, Japan|1|2
+33221848|carlsbad, california|25365536|where I'm meant to be...|1|2
+33221848|carlsbad, california|21771965|Venice, CA|1|2
+33221848|carlsbad, california|22168739|Sunny Del Mar|1|2
+33221848|carlsbad, california|31160900|okinawa|1|2
+33221848|carlsbad, california|0|Error|1|2
+35101213|carlsbad, ca|62944940|Irvine, CA|2|2
+35101213|carlsbad, ca|972651|Error|2|2
+35101213|carlsbad, ca|0|Error|1|2
+35101213|carlsbad, ca|10865192|Westminster, CA|1|2
+35101213|carlsbad, ca|0|Error|1|2
+35101213|carlsbad, ca|7573332|Braselton, GA|1|2
+35101213|carlsbad, ca|17062577|Mumbai, India|1|2
+35101213|carlsbad, ca|8453452|Silicon Valley, California|1|2
+35101213|carlsbad, ca|16623514|In a State of Grace! |1|2
+35101213|carlsbad, ca|16317694|Miami New York Europe LA Vegas|1|2
+35101213|carlsbad, ca|17381346|Raleigh, NC|1|2
+35101213|carlsbad, ca|0|Error|1|2
+35101213|carlsbad, ca|18020370|Serbia|1|2
+35101213|carlsbad, ca|74235305|Milan|1|2
+35101213|carlsbad, ca|19395651|Mississauga|1|2
+82681687|carlsbad, ca|0|Error|1|2
+82681687|carlsbad, ca|428333|Everywhere|1|2
+82681687|carlsbad, ca|0|Error|1|2
+82681687|carlsbad, ca|0|Error|1|2
+82681687|carlsbad, ca|135837580|Error|1|2
+82681687|carlsbad, ca|0|Error|1|2
+82681687|carlsbad, ca|0|Error|1|2
+82681687|carlsbad, ca|759251|Error|1|2
+82681687|carlsbad, ca|0|Error|1|2
+82681687|carlsbad, ca|0|Error|1|2
+82681687|carlsbad, ca|0|Error|1|2
+14789783|carlsbad, ca|16374734|Back Country of San Diego|5|2
+14789783|carlsbad, ca|7981702|San Diego, CA|2|2
+14789783|carlsbad, ca|16893345|Salt Lake City, Utah|2|2
+14789783|carlsbad, ca|455402699|Error|2|2
+14789783|carlsbad, ca|34650115|Aiea, Hawaii|1|2
+14789783|carlsbad, ca|56514704|Houston|1|2
+14789783|carlsbad, ca|23713196|Error|1|2
+14789783|carlsbad, ca|68592952|Everywhere Baby !!!|1|2
+14789783|carlsbad, ca|2221386044|Error|1|2
+14789783|carlsbad, ca|0|Error|1|2
+14789783|carlsbad, ca|2270895690|Error|1|2
+14789783|carlsbad, ca|34767150|London, UK|1|2
+14789783|carlsbad, ca|16272650|Hudson WI|1|2
+14789783|carlsbad, ca|12444012|Gainesville, Florida|1|2
+14789783|carlsbad, ca|37992041|Tennessee - USANA Associate|1|2
+14789783|carlsbad, ca|23270331|Florida|1|2
+14789783|carlsbad, ca|21361968|Earth. Where you at? |1|2
+14789783|carlsbad, ca|13817822|bodybyzna.com/fastfatblast|1|2
+14789783|carlsbad, ca|15484029|Orlando, FL|1|2
+14789783|carlsbad, ca|0|Error|1|2
+14789783|carlsbad, ca|50490648|Error|1|2
+14789783|carlsbad, ca|0|Error|1|2
+14789783|carlsbad, ca|14729463|Sydney, Australia|1|2
+14789783|carlsbad, ca|23437415|Dallas|1|2
+14789783|carlsbad, ca|15825219|iPhone: 37.558258,-122.514114|1|2
+14789783|carlsbad, ca|40032182|Ventura, Ca.|1|2
+14789783|carlsbad, ca|18535667|San Antonio Texas|1|2
+17544399|carlsbad, ca|14752316|Los Angeles, CA|1|2
+15715655|carlsbad, ca|0|Error|4|2
+15715655|carlsbad, ca|21681809|Los Angeles|3|2
+15715655|carlsbad, ca|20816387|Los Angeles, CA|3|2
+15715655|carlsbad, ca|0|Error|1|2
+15715655|carlsbad, ca|33676643|switzerland|1|2
+15715655|carlsbad, ca|59265291|Urbana, IL|1|2
+15715655|carlsbad, ca|22532998|Shaker Heights Ohio|1|2
+15715655|carlsbad, ca|24173360|Guernsey Channel Islands|1|2
+15715655|carlsbad, ca|30271086|Worldwide |1|2
+15715655|carlsbad, ca|0|Error|1|2
+15715655|carlsbad, ca|0|Error|1|2
+15715655|carlsbad, ca|0|Error|1|2
+15715655|carlsbad, ca|52498333|Error|1|2
+17815082|carlsbad, ca|23819914|Lexington, KY 40502|3|2
+17815082|carlsbad, ca|45209752|Error|3|2
+17815082|carlsbad, ca|1289586745|Error|2|2
+17815082|carlsbad, ca|1265826572|Error|2|2
+17815082|carlsbad, ca|17104199|On the Range|2|2
+17815082|carlsbad, ca|26048940|Huntington Beach, CA|1|2
+17815082|carlsbad, ca|0|Error|1|2
+17815082|carlsbad, ca|18259838|Wood Dale, IL|1|2
+17815082|carlsbad, ca|61366143|Kansas City, MO|1|2
+17815082|carlsbad, ca|67384263|South Carolina|1|2
+17815082|carlsbad, ca|78904113|New Twitter: RickieFowlerPGA|1|2
+17815082|carlsbad, ca|17070013|Fairhaven, MA and Carlsbad, CA|1|2
+17815082|carlsbad, ca|36188207|Oklahoma (Most of the Time)|1|2
+17815082|carlsbad, ca|18032499|Crystal Lake, IL.|1|2
+17815082|carlsbad, ca|0|Error|1|2
+17815082|carlsbad, ca|0|Error|1|2
+17815082|carlsbad, ca|0|Error|1|2
+17815082|carlsbad, ca|0|Error|1|2
+17815082|carlsbad, ca|19015442|London | Falmouth|1|2
+17815082|carlsbad, ca|0|Error|1|2
+17815082|carlsbad, ca|19687799|Error|1|2
+17815082|carlsbad, ca|15368754|Stuart, FL|1|2
+17815082|carlsbad, ca|46448523|Practicing in SWFlorida|1|2
+17815082|carlsbad, ca|17744316|Laytown, Co. Meath, Ireland|1|2
+17815082|carlsbad, ca|7920492|Error|1|2
+17815082|carlsbad, ca|252983126|CA.|1|2
+33282922|	carlsbad, ca|34200998|CA and MD|3|2
+33282922|	carlsbad, ca|41651800|Error|2|2
+33282922|	carlsbad, ca|15639527|be a part of our story |2|2
+33282922|	carlsbad, ca|16663708|Brisbane|2|2
+33282922|	carlsbad, ca|0|Error|1|2
+33282922|	carlsbad, ca|50725573|Palm Beach Gardens, Fl|1|2
+33282922|	carlsbad, ca|11856342|Error|1|2
+33282922|	carlsbad, ca|57095359|Hamilton Ontatio Canada|1|2
+33282922|	carlsbad, ca|713143|San Diego, CA|1|2
+33282922|	carlsbad, ca|51263592|New York|1|2
+33282922|	carlsbad, ca|22168739|Sunny Del Mar|1|2
+33282922|	carlsbad, ca|17971684|Error|1|2
+33282922|	carlsbad, ca|217244967|Error|1|2
+33282922|	carlsbad, ca|3277377110|Error|1|2
+33282922|	carlsbad, ca|0|Error|1|2
+33282922|	carlsbad, ca|0|Error|1|2
+33282922|	carlsbad, ca|949053248|Error|1|2
+33282922|	carlsbad, ca|29122498|San Diego|1|2
+33282922|	carlsbad, ca|21879024|San Diego & world at large|1|2
+33282922|	carlsbad, ca|0|Error|1|2
+33282922|	carlsbad, ca|0|Error|1|2
+17999087|carlsbad, ca|412346426|Error|4|2
+17999087|carlsbad, ca|21232553|New York, New York, USA|3|2
+17999087|carlsbad, ca|0|Error|3|2
+17999087|carlsbad, ca|7861312|Los Angeles, CA|2|2
+17999087|carlsbad, ca|17796986|Seattle, WA|2|2
+17999087|carlsbad, ca|89380060|NOLA|1|2
+17999087|carlsbad, ca|17069951|Lake Charles, La.|1|2
+17999087|carlsbad, ca|14427942|Eugene, OR|1|2
+17999087|carlsbad, ca|0|Error|1|2
+35082150|carlsbad, ca|62944940|Irvine, CA|2|2
+35082150|carlsbad, ca|972651|Error|2|2
+35082150|carlsbad, ca|0|Error|1|2
+35082150|carlsbad, ca|10865192|Westminster, CA|1|2
+35082150|carlsbad, ca|0|Error|1|2
+35082150|carlsbad, ca|7573332|Braselton, GA|1|2
+35082150|carlsbad, ca|17062577|Mumbai, India|1|2
+35082150|carlsbad, ca|8453452|Silicon Valley, California|1|2
+35082150|carlsbad, ca|16623514|In a State of Grace! |1|2
+35082150|carlsbad, ca|16317694|Miami New York Europe LA Vegas|1|2
+35082150|carlsbad, ca|17381346|Raleigh, NC|1|2
+35082150|carlsbad, ca|0|Error|1|2
+35082150|carlsbad, ca|18020370|Serbia|1|2
+35082150|carlsbad, ca|74235305|Milan|1|2
+35082150|carlsbad, ca|19395651|Mississauga|1|2
+17296820|carlsbad, california|62724916|San Diego, California|1|2
+17296820|carlsbad, california|64842990|Error|1|2
+16379892|carlsbad, ca|0|Error|1|2
+16379892|carlsbad, ca|428935278|Error|1|2
+16379892|carlsbad, ca|23437415|Dallas|1|2
+16379892|carlsbad, ca|61509904|Ireland|1|2
+16379892|carlsbad, ca|0|Error|1|2
+16379892|carlsbad, ca|17941492|San Diego|1|2
+16379892|carlsbad, ca|0|Error|1|2
+16379892|carlsbad, ca|15588657|Global|1|2
+16379892|carlsbad, ca|0|Error|1|2
+16379892|carlsbad, ca|37245591|California|1|2
+16379892|carlsbad, ca|37626804|Canada|1|2
+35799156|carlsbad, ca|264036590|Error|2|2
+35799156|carlsbad, ca|28706024|los angeles|1|2
+35799156|carlsbad, ca|11222|San Francisco, CA|1|2
+35799156|carlsbad, ca|0|Error|1|2
+35799156|carlsbad, ca|15876379|Seattle|1|2
+35799156|carlsbad, ca|566228386|Error|1|2
+35799156|carlsbad, ca|23967578|It all depends on the day...|1|2
+35799156|carlsbad, ca|17542901|dreamlover.com/nikkibenz|1|2
+35799156|carlsbad, ca|16989178|New York|1|2
+35799156|carlsbad, ca|15116570|Error|1|2
+35799156|carlsbad, ca|813286|Washington, DC|1|2
+16980213|carlsbad, ca|19582017|Orange County, CA|2|2
+16980213|carlsbad, ca|17276295|Sequim, WA, USA|2|2
+16980213|carlsbad, ca|19039912|Bay Area, California|1|2
+16980213|carlsbad, ca|16561212|Detroit|1|2
+16980213|carlsbad, ca|0|Error|1|2
+16980213|carlsbad, ca|0|Error|1|2
+16980213|carlsbad, ca|22961741|Error|1|2
+9644532|carlsbad, california|2966804422|USA|2|2
+9644532|carlsbad, california|0|Error|2|2
+9644532|carlsbad, california|14903290|San Diego, CA|2|2
+9644532|carlsbad, california|9391142|San Diego, California|2|2
+9644532|carlsbad, california|8820652|San Diego, California |1|2
+9644532|carlsbad, california|6265562|San Diego, California|1|2
+9644532|carlsbad, california|2521171|los angeles, ca|1|2
+9644532|carlsbad, california|361854909|Error|1|2
+9644532|carlsbad, california|384455036|Error|1|2
+9644532|carlsbad, california|29560446|Error|1|2
+9644532|carlsbad, california|14212297|Charleston, SC|1|2
+36739610|carlsbad, california|223219008|Carlsbad, CA|3|2
+36739610|carlsbad, california|0|Error|1|2
+36739610|carlsbad, california|3074122481|Error|1|2
+36739610|carlsbad, california|62290422|Red Hour Films - Los Angeles|1|2
+36739610|carlsbad, california|14223138|San Diego, CA / Carlsbad, CA|1|2
+36739610|carlsbad, california|0|Error|1|2
+36739610|carlsbad, california|2851792894|Austin, Texas|1|2
+8982102|carlsbad, california|0|Error|2|2
+8982102|carlsbad, california|14820544|Minneapolis, MN|1|2
+8982102|carlsbad, california|14218265|Middle of Nowhere|1|2
+8982102|carlsbad, california|1348912459|Error|1|2
+8982102|carlsbad, california|61290775|Error|1|2
+8982102|carlsbad, california|0|Error|1|2
+23403586|carlsbad, ca|331826088|Error|3|2
+23403586|carlsbad, ca|29773145|Where in the world am I ?!?|2|2
+23403586|carlsbad, ca|27778893|Error|2|2
+23403586|carlsbad, ca|0|Error|1|2
+23403586|carlsbad, ca|29324671|Error|1|2
+5664232|carlsbad, ca|11911082|Los Angeles & Charlotte|5|2
+5664232|carlsbad, ca|14376153|Chestnut Ridge, New York|1|2
+5664232|carlsbad, ca|20536157|Mountain View, CA|1|2
+5664232|carlsbad, ca|18215460|West Chester, PA|1|2
+5664232|carlsbad, ca|238852265|Blacksburg, VA|1|2
+5664232|carlsbad, ca|9625082|San Diego|1|2
+5664232|carlsbad, ca|2014741|Richmond, VA|1|2
+5664232|carlsbad, ca|14377870|Atlanta, GA|1|2
+5664232|carlsbad, ca|14084242|Error|1|2
+5664232|carlsbad, ca|3751441|NYC via ATL|1|2
+5664232|carlsbad, ca|17200375|San Diego, California|1|2
+5664232|carlsbad, ca|0|Error|1|2
+5664232|carlsbad, ca|16043308|Error|1|2
+5664232|carlsbad, ca|15691933|Arizona|1|2
+5664232|carlsbad, ca|833571|Los Angeles|1|2
+2523231|carlsbad, ca|394216985|Error|4|2
+2523231|carlsbad, ca|0|Error|3|2
+2523231|carlsbad, ca|11347122|California|3|2
+2523231|carlsbad, ca|3745781|Austin, TX|2|2
+2523231|carlsbad, ca|23888081|Hollyweird|2|2
+2523231|carlsbad, ca|67377700|Los Angeles|1|2
+2523231|carlsbad, ca|0|Error|1|2
+2523231|carlsbad, ca|7215532|Los Angeles|1|2
+2523231|carlsbad, ca|8453452|Silicon Valley, California|1|2
+2523231|carlsbad, ca|1100661|LA/SF/NYC/SG/BKK/Tokyo|1|2
+2523231|carlsbad, ca|7862912|Seattle, WA|1|2
+2523231|carlsbad, ca|122882870|Seattle|1|2
+2523231|carlsbad, ca|5490392|San Francisco, CA|1|2
+2523231|carlsbad, ca|791124|San Francisco|1|2
+2523231|carlsbad, ca|0|Error|1|2
+2523231|carlsbad, ca|0|Error|1|2
+2523231|carlsbad, ca|0|Error|1|2
+23538722|carlsbad, ca|14083864|chicago, il|2|2
+23538722|carlsbad, ca|18952281|Kansas City|1|2
+23538722|carlsbad, ca|270989155|Error|1|2
+23538722|carlsbad, ca|14742343|San Diego|1|2
+23538722|carlsbad, ca|15013572|Orange County, CA|1|2
+18358676|carlsbad, ca|16800764|SF Bay Area, CA|4|2
+18358676|carlsbad, ca|13220962|New York, NY|2|2
+18358676|carlsbad, ca|28127547|San Diego|2|2
+18358676|carlsbad, ca|62443939|San Diego: La Mesa, CA|2|2
+18358676|carlsbad, ca|15428715|Error|1|2
+18358676|carlsbad, ca|636920676|Global|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|16788305|NYC and LA|1|2
+18358676|carlsbad, ca|16492009|NY +wherever coolness is found|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|25940364|Ulster County, New York|1|2
+18358676|carlsbad, ca|17323733|Los Angeles, CA |1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|13919942|Seattle, most often|1|2
+18358676|carlsbad, ca|8861182|Long Island, NY|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|0|Error|1|2
+18358676|carlsbad, ca|23157179|Castle Rock, CO|1|2
+18358676|carlsbad, ca|26953547|Dallas, TX|1|2
+18358676|carlsbad, ca|21982720|Error|1|2
+18358676|carlsbad, ca|32601738|San Diego, CA|1|2
+11074812|carlsbad, ca|0|Error|1|2
+11074812|carlsbad, ca|20019974|Murcia, Spain|1|2
+11074812|carlsbad, ca|0|Error|1|2
+11074812|carlsbad, ca|35233288|Singapore|1|2
+11074812|carlsbad, ca|20031078|Omicron Persei 8|1|2
+11074812|carlsbad, ca|15136491|Temecula, California|1|2
+11074812|carlsbad, ca|3013511|Los Angeles|1|2
+42559694|carlsbad, ca|20090917|Whitehaven, Cumbria |2|2
+42664401|carlsbad, ca|4312721|Error|2|2
+42664401|carlsbad, ca|7029452|Holyoke, MA|1|2
+42664401|carlsbad, ca|20914888|Pasir Panjang, Singapore|1|2
+42664401|carlsbad, ca|14157522|Roswell, Ga|1|2
+42664401|carlsbad, ca|73260373|Error|1|2
+42664401|carlsbad, ca|9939002|Stockbridge, GA|1|2
+42664401|carlsbad, ca|6452782|Santa Cruz, California|1|2
+55282117|carlsbad, ca|44038092|california|1|2
+55282117|carlsbad, ca|0|Error|1|2
+23921732|carlsbad, ca|1855513004|Error|1|2
+23921732|carlsbad, ca|0|Error|1|2
+23921732|carlsbad, ca|55380541|CoyoteBrains Texas|1|2
+23921732|carlsbad, ca|49202006|Error|1|2
+23921732|carlsbad, ca|15650882|Error|1|2
+23921732|carlsbad, ca|0|Error|1|2
+23921732|carlsbad, ca|19491594|Florida|1|2
+23921732|carlsbad, ca|136722389|Error|1|2
+23921732|carlsbad, ca|28162811|Olympia, WA|1|2
+23921732|carlsbad, ca|26514231|America under seige |1|2
+23921732|carlsbad, ca|0|Error|1|2
+23921732|carlsbad, ca|19477077|Wisconsin|1|2
+23921732|carlsbad, ca|63615980|Western PA|1|2
+23921732|carlsbad, ca|22486679|Los Angeles |1|2
+23921732|carlsbad, ca|0|Error|1|2
+23921732|carlsbad, ca|15763092|Ft. Morgan, Co|1|2
+23921732|carlsbad, ca|18412629|Error|1|2
+23921732|carlsbad, ca|27157127|Houston, Texas|1|2
+23921732|carlsbad, ca|18265541|Duncan,SC, USA|1|2
+23921732|carlsbad, ca|68235734|Here|1|2
+23921732|carlsbad, ca|0|Error|1|2
+23921732|carlsbad, ca|0|Error|1|2
+23921732|carlsbad, ca|0|Error|1|2
+23921732|carlsbad, ca|0|Error|1|2
+19849655|carlsbad, california|0|Error|1|2
+19849655|carlsbad, california|1205807533|Error|1|2
+19849655|carlsbad, california|8820652|San Diego, California |1|2
+19849655|carlsbad, california|14390225|New York, NY|1|2
+19849655|carlsbad, california|15907720|DC & NYC|1|2
+15715655|carlsbad, ca|0|Error|2|2
+15715655|carlsbad, ca|30271086|Worldwide |1|2
+15715655|carlsbad, ca|74564019|New Zealand|1|2
+15715655|carlsbad, ca|0|Error|1|2
+15715655|carlsbad, ca|42209020|Error|1|2

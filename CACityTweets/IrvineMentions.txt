@@ -1,0 +1,1641 @@
+14415941|irvine, ca|14415941|Dripping Springs, TX|2|2
+14415941|irvine, ca|86145833|Error|2|2
+14415941|irvine, ca|17641086|Camarillo, CA.|1|2
+14415941|irvine, ca|15976697|USA|1|2
+50729148|irvine, california|56465524|Elk Grove Village, IL|2|2
+50729148|irvine, california|14540097|the South|1|2
+50729148|irvine, california|0|Error|1|2
+50729148|irvine, california|0|Error|1|2
+50729148|irvine, california|50729148|Irvine, California|1|2
+50729148|irvine, california|130584275|Denver, Colorado|1|2
+42603999|irvine, ca|45843341|Error|1|2
+42603999|irvine, ca|14113063|Cincinnati|1|2
+38672574|irvine, ca|264036590|Error|11|2
+38672574|irvine, ca|424359456|Error|7|2
+38672574|irvine, ca|62828932|Movies|3|2
+38672574|irvine, ca|256135777|Error|3|2
+38672574|irvine, ca|22221318|Long Island ... JMU|2|2
+38672574|irvine, ca|3534571|Milwaukee, WI|2|2
+38672574|irvine, ca|0|Error|2|2
+38672574|irvine, ca|16228398|Error|2|2
+38672574|irvine, ca|59584669|Error|1|2
+38672574|irvine, ca|30398947|NH / Miami |1|2
+38672574|irvine, ca|3001403357|Error|1|2
+38672574|irvine, ca|242893493|Error|1|2
+38672574|irvine, ca|0|Error|1|2
+38672574|irvine, ca|16812787|Houston, TX|1|2
+38672574|irvine, ca|0|Error|1|2
+38672574|irvine, ca|0|Error|1|2
+38672574|irvine, ca|0|Error|1|2
+38672574|irvine, ca|970797120|Evasions 17:27|1|2
+38672574|irvine, ca|0|Error|1|2
+38672574|irvine, ca|40098984|City of Angels|1|2
+38672574|irvine, ca|15014928|Indianapolis, IN|1|2
+38672574|irvine, ca|0|Error|1|2
+38672574|irvine, ca|0|Error|1|2
+38672574|irvine, ca|737224296|Error|1|2
+38672574|irvine, ca|49361243|Error|1|2
+38672574|irvine, ca|0|Error|1|2
+38672574|irvine, ca|2491405396|Error|1|2
+38672574|irvine, ca|19259284|Sonoma, California|1|2
+38672574|irvine, ca|17880141|Cincinnati, OH|1|2
+38672574|irvine, ca|816653|San Francisco, CA|1|2
+22552140|irvine, ca|22552140|Error|4|2
+22552140|irvine, ca|14266637|Error|4|2
+22552140|irvine, ca|588746397|Regina , Sask|2|2
+22552140|irvine, ca|42907311|Underwater|2|2
+22552140|irvine, ca|24655896|america|1|2
+22552140|irvine, ca|0|Error|1|2
+22552140|irvine, ca|7748402|6000+ Locations Worldwide|1|2
+22552140|irvine, ca|0|Error|1|2
+22552140|irvine, ca|192089607|Error|1|2
+22552140|irvine, ca|0|Error|1|2
+22552140|irvine, ca|25208572|Los Angeles, CA|1|2
+22552140|irvine, ca|35803355|CA & NY|1|2
+22552140|irvine, ca|0|Error|1|2
+22552140|irvine, ca|26712193|Space|1|2
+22552140|irvine, ca|14567918|Kenya & Europe|1|2
+22552140|irvine, ca|5293192|Draper, Ut.|1|2
+22552140|irvine, ca|12998412|LA|1|2
+22552140|irvine, ca|19497726|Wichita, KS|1|2
+22552140|irvine, ca|71283290|Lindenhurst, NY|1|2
+22552140|irvine, ca|0|Error|1|2
+22552140|irvine, ca|271991897|Error|1|2
+22552140|irvine, ca|30655574|British Virgin Island's|1|2
+22552140|irvine, ca|0|Error|1|2
+22552140|irvine, ca|40712681|Nottingham|1|2
+22552140|irvine, ca|19121462|Error|1|2
+22552140|irvine, ca|0|Error|1|2
+22552140|irvine, ca|14353131|Bellevue, WA, USA|1|2
+22552140|irvine, ca|35496024|Southern California|1|2
+22552140|irvine, ca|83644903|Error|1|2
+22552140|irvine, ca|55391997|Peoria, Arizona|1|2
+22552140|irvine, ca|19428423|38.897709,-77.036543|1|2
+76555532|irvine, ca|76555532|Las Vegas, NV |4|2
+76555532|irvine, ca|83850293|Pune|2|2
+76555532|irvine, ca|0|Error|2|2
+76555532|irvine, ca|0|Error|1|2
+76555532|irvine, ca|59350922|Error|1|2
+76555532|irvine, ca|20429483|Error|1|2
+76555532|irvine, ca|33144530|Los Angeles, CA |1|2
+76555532|irvine, ca|32867432|Los Angeles, CA|1|2
+76555532|irvine, ca|51905211|Los Angeles|1|2
+76555532|irvine, ca|0|Error|1|2
+76555532|irvine, ca|16849540|Torrance, Ca|1|2
+76555532|irvine, ca|0|Error|1|2
+76555532|irvine, ca|8248692|San Diego, CA|1|2
+76555532|irvine, ca|0|Error|1|2
+67381592|irvine, ca|3044949766|Error|1|2
+67381592|irvine, ca|67381592|Irvine, CA|1|2
+31076548|irvine, california|228920198|Error|3|2
+31076548|irvine, california|0|Error|2|2
+31076548|irvine, california|0|Error|1|2
+31076548|irvine, california|22548403|Error|1|2
+31076548|irvine, california|0|Error|1|2
+31076548|irvine, california|243442402|Error|1|2
+31076548|irvine, california|28687557|Error|1|2
+41693708|irvine, ca|30609882|Conway, AR|2|2
+41693708|irvine, ca|0|Error|2|2
+41693708|irvine, ca|18379357|Error|1|2
+41693708|irvine, ca|14842523|Chiang Mai|1|2
+41693708|irvine, ca|0|Error|1|2
+41693708|irvine, ca|0|Error|1|2
+41693708|irvine, ca|79493910|Error|1|2
+41693708|irvine, ca|18738503|Minnesota|1|2
+41693708|irvine, ca|1902752965|Error|1|2
+41693708|irvine, ca|63350526|Error|1|2
+41693708|irvine, ca|14852759|Error|1|2
+11809612|irvine, ca|0|Error|1|2
+11809612|irvine, ca|36722566|Long Beach, CA|1|2
+19544520|irvine, california|3003588753|Error|5|2
+19544520|irvine, california|20273398|Minneapolis|2|2
+19544520|irvine, california|7157132|Internet - US - UK - AU - Asia|2|2
+19544520|irvine, california|20558873|Around the world|2|2
+19544520|irvine, california|14703818|Joplin, MO|1|2
+19544520|irvine, california|0|Error|1|2
+19544520|irvine, california|0|Error|1|2
+19544520|irvine, california|0|Error|1|2
+19544520|irvine, california|0|Error|1|2
+19544520|irvine, california|0|Error|1|2
+19544520|irvine, california|15140144|Error|1|2
+19544520|irvine, california|0|Error|1|2
+19544520|irvine, california|0|Error|1|2
+19544520|irvine, california|0|Error|1|2
+19544520|irvine, california|19544520|Irvine, California|1|2
+19544520|irvine, california|36204399|San Francisco, CA|1|2
+19544520|irvine, california|0|Error|1|2
+19544520|irvine, california|0|Error|1|2
+14354955|irvine, ca|20337947|Chicago|17|2
+14354955|irvine, ca|18086347|Napa, CA|11|2
+14354955|irvine, ca|22467387|indy|7|2
+14354955|irvine, ca|39330475|Los Angeles, California|7|2
+14354955|irvine, ca|14111577|The OC|6|2
+14354955|irvine, ca|24780105|Orange County, CA|5|2
+14354955|irvine, ca|40187508|Southern California|4|2
+14354955|irvine, ca|14602930|Berkeley, CA|3|2
+14354955|irvine, ca|18044341|Twitter HQ|2|2
+14354955|irvine, ca|14738000|Escondido, CA|2|2
+14354955|irvine, ca|67224816|Orange County and Los Angeles|2|2
+14354955|irvine, ca|14709795|Southern California|2|2
+14354955|irvine, ca|16847994|Anaheim, California|1|2
+14354955|irvine, ca|16721886|Milton, DE|1|2
+14354955|irvine, ca|1260231|Los Gatos, CA|1|2
+14354955|irvine, ca|39659048|Seal Beach, CA|1|2
+14354955|irvine, ca|22047802|Barcelona, Spain|1|2
+14354955|irvine, ca|17886597|Error|1|2
+14354955|irvine, ca|11178592|Error|1|2
+14354955|irvine, ca|176973107|Santa Monica, CA|1|2
+14354955|irvine, ca|0|Error|1|2
+14354955|irvine, ca|20697142|Los Angeles|1|2
+14354955|irvine, ca|14354955|Irvine, CA|1|2
+14354955|irvine, ca|16093740|San Diego |1|2
+14354955|irvine, ca|0|Error|1|2
+14354955|irvine, ca|156487812|Error|1|2
+14354955|irvine, ca|0|Error|1|2
+14354955|irvine, ca|14456675|Los Angeles|1|2
+14354955|irvine, ca|14803701|Everywhere|1|2
+14354955|irvine, ca|38718470|Orange, CA|1|2
+14354955|irvine, ca|15445258|Los Angeles, CA|1|2
+14354955|irvine, ca|16103650|Error|1|2
+14354955|irvine, ca|0|Error|1|2
+14354955|irvine, ca|15205798|Boston, MA & Denver, CO|1|2
+14354955|irvine, ca|0|Error|1|2
+14354955|irvine, ca|9908482|San Francisco, CA|1|2
+14354955|irvine, ca|926863278|Error|1|2
+14354955|irvine, ca|0|Error|1|2
+14354955|irvine, ca|16331259|Escondido, CA|1|2
+20205471|irvine, ca|14464369|Error|2|2
+20205471|irvine, ca|12681982|Richmond, CA|2|2
+20205471|irvine, ca|7958322|San Francisco, CA|2|2
+20205471|irvine, ca|19413655|LA, CA|1|2
+20205471|irvine, ca|18666844|Los Angeles, CA|1|2
+20205471|irvine, ca|9637092|San Diego|1|2
+20205471|irvine, ca|14532200|California, United States|1|2
+20205471|irvine, ca|7872262|California|1|2
+20205471|irvine, ca|36479934|San Diego, CA|1|2
+42773093|irvine, ca|15130854|Los Angeles, CA|9|2
+42773093|irvine, ca|15034394|Roseville, Ca|6|2
+42773093|irvine, ca|0|Error|2|2
+42773093|irvine, ca|16516106|The Pike Street Hillclimb|2|2
+42773093|irvine, ca|27471613|Texacalindynois|2|2
+42773093|irvine, ca|15286695|oaktown via awesometown|2|2
+42773093|irvine, ca|15860455|Sonoma, California|2|2
+42773093|irvine, ca|16285985|San Pedro, CA|2|2
+42773093|irvine, ca|14716081|Hollywood, CA|2|2
+42773093|irvine, ca|799718683|Error|1|2
+42773093|irvine, ca|0|Error|1|2
+42773093|irvine, ca|15826886|Washington, DC|1|2
+42773093|irvine, ca|9551802|Muncie, IN (40.192520,-85.3862|1|2
+42773093|irvine, ca|39439294|Sacramento, CA|1|2
+42773093|irvine, ca|0|Error|1|2
+42773093|irvine, ca|20551700|Error|1|2
+42773093|irvine, ca|21983348|Sonoma California|1|2
+42773093|irvine, ca|0|Error|1|2
+42773093|irvine, ca|14086409|Berkeley, CA USA|1|2
+42773093|irvine, ca|20077075|Topanga, CA|1|2
+42773093|irvine, ca|61384729|Los Angeles|1|2
+42773093|irvine, ca|40556806|Los Angeles|1|2
+42773093|irvine, ca|74313582|LA|1|2
+42773093|irvine, ca|0|Error|1|2
+42773093|irvine, ca|16057639|Tampa, FL|1|2
+42773093|irvine, ca|8571502|Pittsburgh, PA|1|2
+42773093|irvine, ca|27518302|Berkeley, CA|1|2
+42773093|irvine, ca|17365270|Cleveland|1|2
+42773093|irvine, ca|23250197|The Bay(con) Area|1|2
+42773093|irvine, ca|41054194|San Francisco, CA|1|2
+42773093|irvine, ca|301018782|Error|1|2
+17719090|irvine, ca|609543|Alcaudete|6|2
+17719090|irvine, ca|14562685|Silicon Valley | SF | 39.5K Ft|3|2
+17719090|irvine, ca|19921435|Southwest Florida|3|2
+17719090|irvine, ca|18291483|Massachusetts, USA|2|2
+17719090|irvine, ca|16739444|New York|2|2
+17719090|irvine, ca|12031122|Raleigh, NC|2|2
+17719090|irvine, ca|17719090|Irvine, CA|2|2
+17719090|irvine, ca|14168335|San Francisco, USA|1|2
+17719090|irvine, ca|19598625|Austin, TX|1|2
+17719090|irvine, ca|72982024|Error|1|2
+17719090|irvine, ca|11745002|Castro Valley, CA|1|2
+17719090|irvine, ca|5025521|Error|1|2
+17719090|irvine, ca|0|Error|1|2
+17719090|irvine, ca|14208571|North of Boston, MA|1|2
+17719090|irvine, ca|14332143|US|1|2
+17719090|irvine, ca|78992232|Raleigh, NC|1|2
+17719090|irvine, ca|5751742|New York City|1|2
+17719090|irvine, ca|19240113|Orlando, Florida|1|2
+17719090|irvine, ca|41626400|interviewing innovators|1|2
+17719090|irvine, ca|14935281|San Jose, CA|1|2
+17719090|irvine, ca|5838092|Ottawa|1|2
+17719090|irvine, ca|0|Error|1|2
+17719090|irvine, ca|21642450|Oslo, Norway|1|2
+17719090|irvine, ca|5025251|here|1|2
+85486279|irvine, california|0|Error|1|2
+14630801|irvine, ca|12630192|Washington, DC|4|2
+14630801|irvine, ca|26876963|Error|3|2
+14630801|irvine, ca|34654783|Milwaukee WI|2|2
+14630801|irvine, ca|15310836|Likely in front of a computer|1|2
+14630801|irvine, ca|14630801|Zurich, Switzerland|1|2
+14630801|irvine, ca|18025428|St. Louis, MO|1|2
+14630801|irvine, ca|5676102|Portland, Oregon|1|2
+14630801|irvine, ca|17328735|Castle Pines, CO|1|2
+14630801|irvine, ca|12754522|Lausanne, Switzerland|1|2
+14630801|irvine, ca|0|Error|1|2
+14630801|irvine, ca|0|Error|1|2
+14630801|irvine, ca|85088475|Manalapan, NJ|1|2
+14630801|irvine, ca|3965911|Error|1|2
+14630801|irvine, ca|549103437|Error|1|2
+14630801|irvine, ca|15648617|Connecticut|1|2
+14630801|irvine, ca|2035631|Seattle, WA|1|2
+49049898|irvine, ca|17266725|USA|5|2
+49049898|irvine, ca|38621473|Error|3|2
+49049898|irvine, ca|23325965|Washington, DC|2|2
+49049898|irvine, ca|15754281|USA TODAY HQ, McLean, Va.|1|2
+49049898|irvine, ca|17894137|Bristol, England|1|2
+49049898|irvine, ca|43309561|Bristol, UK|1|2
+49049898|irvine, ca|18022195|Bristol|1|2
+49049898|irvine, ca|14800270|Boston, MA|1|2
+49049898|irvine, ca|80631844|Highland, Utah|1|2
+49049898|irvine, ca|26286007|Austin|1|2
+49049898|irvine, ca|40595196|Error|1|2
+49049898|irvine, ca|191161357|Cupertino, CA|1|2
+49049898|irvine, ca|30313925|Washington, DC|1|2
+49049898|irvine, ca|19307505|Error|1|2
+62944940|irvine, ca|17202106|Newport Beach CA.|22|2
+62944940|irvine, ca|14969598|West Palm Beach|16|2
+62944940|irvine, ca|38075718|Montreal|15|2
+62944940|irvine, ca|7573332|Braselton, GA|7|2
+62944940|irvine, ca|38247617|Los Angeles, CA|6|2
+62944940|irvine, ca|0|Error|4|2
+62944940|irvine, ca|0|Error|3|2
+62944940|irvine, ca|0|Error|3|2
+62944940|irvine, ca|0|Error|2|2
+62944940|irvine, ca|0|Error|2|2
+62944940|irvine, ca|0|Error|2|2
+62944940|irvine, ca|0|Error|1|2
+62944940|irvine, ca|0|Error|1|2
+62944940|irvine, ca|0|Error|1|2
+62944940|irvine, ca|0|Error|1|2
+62944940|irvine, ca|0|Error|1|2
+62944940|irvine, ca|14971837|Los Angeles, CA|1|2
+62944940|irvine, ca|0|Error|1|2
+62944940|irvine, ca|0|Error|1|2
+62944940|irvine, ca|17350597|Scotland|1|2
+62944940|irvine, ca|0|Error|1|2
+62944940|irvine, ca|0|Error|1|2
+62944940|irvine, ca|51776733|Toronto|1|2
+20477619|irvine, ca|85648393|Earth....for now. |4|2
+20477619|irvine, ca|14835752|NYC|2|2
+20477619|irvine, ca|57219430|Virginia... Maine one day.|2|2
+20477619|irvine, ca|369834434|Error|1|2
+20477619|irvine, ca|0|Error|1|2
+20477619|irvine, ca|20682570|New York City|1|2
+20477619|irvine, ca|313176304|Error|1|2
+20477619|irvine, ca|20816747|Montevideo|1|2
+20477619|irvine, ca|972651|Error|1|2
+20477619|irvine, ca|26910133|Huntington, WV|1|2
+20477619|irvine, ca|16669309|USA|1|2
+20477619|irvine, ca|16524392|Colorado, Arvada|1|2
+20477619|irvine, ca|290404859|Error|1|2
+20477619|irvine, ca|23287574|Kansas City, MO|1|2
+20477619|irvine, ca|0|Error|1|2
+20477619|irvine, ca|14324944|Dublin / Vancouver|1|2
+20477619|irvine, ca|93442103|Error|1|2
+20477619|irvine, ca|19386573|iPhone: 34.640717,-120.460800|1|2
+20477619|irvine, ca|30250474|SC|1|2
+20477619|irvine, ca|7660752|Mattoon, Il 61938|1|2
+20477619|irvine, ca|7392512|Error|1|2
+20477619|irvine, ca|0|Error|1|2
+20477619|irvine, ca|15300558|Vancouver, BC|1|2
+20477619|irvine, ca|61801992|Renton, WA USA|1|2
+20477619|irvine, ca|50791231|Error|1|2
+20477619|irvine, ca|444143978|Error|1|2
+20477619|irvine, ca|0|Error|1|2
+20477619|irvine, ca|545944334|kigali|1|2
+20477619|irvine, ca|15900578|Spam Land|1|2
+20477619|irvine, ca|14086744|San Francisco, CA|1|2
+20477619|irvine, ca|22875719|South Florida|1|2
+20477619|irvine, ca|18607674|Kampala - Uganda|1|2
+74270248|irvine, california|22007499|Error|1|2
+74270248|irvine, california|63562815|San Diego, CA|1|2
+17595318|irvine, ca|20803216|Los Angeles|3|2
+17595318|irvine, ca|0|Error|2|2
+17595318|irvine, ca|0|Error|1|2
+17595318|irvine, ca|2771075222|Error|1|2
+17595318|irvine, ca|14687193|NYC|1|2
+17595318|irvine, ca|0|Error|1|2
+17595318|irvine, ca|26045660|On a pond in the woods of NH|1|2
+17595318|irvine, ca|52127980|Laguna Beach, CA|1|2
+17595318|irvine, ca|12462062|Los Angeles, CA.|1|2
+17595318|irvine, ca|43181736|Los Angeles, CA|1|2
+17595318|irvine, ca|21730838|Error|1|2
+17595318|irvine, ca|22159470|Los Angeles|1|2
+17595318|irvine, ca|0|Error|1|2
+17595318|irvine, ca|18784254|Causing a Ruckus in Cali!|1|2
+17595318|irvine, ca|18179687|foothill ranch, ca|1|2
+17595318|irvine, ca|4189511|Elgin, IL|1|2
+17595318|irvine, ca|2927911946|Error|1|2
+17595318|irvine, ca|16117625|Based in LA.|1|2
+17595318|irvine, ca|34418791|Ventura, California|1|2
+17595318|irvine, ca|52235599|Error|1|2
+62160398|irvine, ca|0|Error|4|2
+18909605|irvine, california|17787705|Washington, DC|2|2
+18909605|irvine, california|9315032|Washington DC|2|2
+18909605|irvine, california|15075459|Bay Area, CA|1|2
+18909605|irvine, california|17730328|Grenoble (France)|1|2
+18909605|irvine, california|7093|Error|1|2
+18909605|irvine, california|19846640|Orange County, CA|1|2
+18909605|irvine, california|17177717|Kansas City, MO|1|2
+18909605|irvine, california|22256645|Ireland|1|2
+18909605|irvine, california|972651|Error|1|2
+18909605|irvine, california|14590903|Rochester, NY|1|2
+18909605|irvine, california|0|Error|1|2
+18909605|irvine, california|0|Error|1|2
+18909605|irvine, california|746323|New York|1|2
+18909605|irvine, california|13689662|Canada|1|2
+18909605|irvine, california|15839517|Fort Lee, NJ USA|1|2
+18909605|irvine, california|14571097|Somewhere near water.|1|2
+18909605|irvine, california|18665800|New York, NY|1|2
+18909605|irvine, california|19311539|Denver, Colorado USA|1|2
+18909605|irvine, california|3982515853|Error|1|2
+18909605|irvine, california|0|Error|1|2
+18909605|irvine, california|46786304|BetterPhoto.com|1|2
+18909605|irvine, california|15274752|Gold Coast, Australia|1|2
+18909605|irvine, california|18610151|Denver, CO|1|2
+18909605|irvine, california|15007107|San Diego|1|2
+18909605|irvine, california|14402553|Orange County, CA|1|2
+18909605|irvine, california|15893319|Philadelphia, PA|1|2
+18909605|irvine, california|46746431|Chandler, AZ|1|2
+18909605|irvine, california|27939638|San Francisco / Bay Area|1|2
+18909605|irvine, california|9425392|Franklin, TN|1|2
+18909605|irvine, california|0|Error|1|2
+18909605|irvine, california|71835114|Sunny Southern Nevada|1|2
+18909605|irvine, california|14239737|body in 310 | heart in 212|1|2
+18909605|irvine, california|0|Error|1|2
+18909605|irvine, california|14855279|Sioux Falls, SD|1|2
+18909605|irvine, california|29148266|San Francisco, CA|1|2
+18909605|irvine, california|37869741|Irvine, CA 92612|1|2
+17076391|irvine, ca|17722841|2200 N Lamar St, Dallas, TX|2|2
+17076391|irvine, ca|1858395132|San Francisco, CA|2|2
+17076391|irvine, ca|17169239|Milwaukee, WI|1|2
+17076391|irvine, ca|79216587|Mt. Gilead, OH|1|2
+17076391|irvine, ca|25341484|Mt. Gilead, Ohio|1|2
+17076391|irvine, ca|16412932|Error|1|2
+17076391|irvine, ca|17076391|10 Stops Across the U.S.|1|2
+17076391|irvine, ca|0|Error|1|2
+17076391|irvine, ca|17850279|Dallas, TX|1|2
+44471243|irvine, california|0|Error|1|2
+44471243|irvine, california|18536322|Melbourne Australia|1|2
+43162415|irvine, ca|21331977|Round Rock, Texas|4|2
+43162415|irvine, ca|16272650|Hudson WI|4|2
+43162415|irvine, ca|17627344|Los Angeles|2|2
+43162415|irvine, ca|47869661|California, Los Angeles|2|2
+43162415|irvine, ca|14837079|San Diego|2|2
+43162415|irvine, ca|0|Error|2|2
+43162415|irvine, ca|17833536|San Diego California|1|2
+43162415|irvine, ca|2215329121|Error|1|2
+43162415|irvine, ca|45151128|NEW YORK|1|2
+43162415|irvine, ca|0|Error|1|2
+43162415|irvine, ca|0|Error|1|2
+43162415|irvine, ca|0|Error|1|2
+43162415|irvine, ca|17804560|Meppel, Netherlands|1|2
+43162415|irvine, ca|0|Error|1|2
+43162415|irvine, ca|43629907|Whittier|1|2
+43162415|irvine, ca|28503812|Texas|1|2
+43162415|irvine, ca|23726395|Boulder, CO|1|2
+43162415|irvine, ca|139877851|Error|1|2
+43162415|irvine, ca|44314098|New Zealand|1|2
+43162415|irvine, ca|0|Error|1|2
+43162415|irvine, ca|112072873|Error|1|2
+43162415|irvine, ca|21718439|The East Is In The House!|1|2
+43162415|irvine, ca|0|Error|1|2
+43162415|irvine, ca|334332807|Maui, Hawaii|1|2
+43162415|irvine, ca|0|Error|1|2
+43162415|irvine, ca|0|Error|1|2
+43162415|irvine, ca|19632635|USA|1|2
+43162415|irvine, ca|0|Error|1|2
+43162415|irvine, ca|21005094|Phoenix, Arizona|1|2
+43162415|irvine, ca|16674441|Creedmoor, North Carolina|1|2
+43162415|irvine, ca|3117461|London|1|2
+43162415|irvine, ca|0|Error|1|2
+35953870|irvine, ca|273818254|Error|13|2
+35953870|irvine, ca|91022899|Error|4|2
+35953870|irvine, ca|144693342|California|2|2
+35953870|irvine, ca|2275708734|Error|2|2
+35953870|irvine, ca|18955286|Maryville, TN|1|2
+35953870|irvine, ca|45636166|Error|1|2
+35953870|irvine, ca|0|Error|1|2
+35953870|irvine, ca|22748101|Los Angeles, CA|1|2
+35953870|irvine, ca|30973|Seattle, WA|1|2
+35953870|irvine, ca|24901031|#Vegas #Chippendales|1|2
+35953870|irvine, ca|0|Error|1|2
+35953870|irvine, ca|0|Error|1|2
+35953870|irvine, ca|42655708|Error|1|2
+35953870|irvine, ca|14757934|Error|1|2
+35953870|irvine, ca|23564158|Orange County / San Francisco |1|2
+28296403|irvine, ca|23418051|IL, US|1|2
+28296403|irvine, ca|49079165|NY|1|2
+28296403|irvine, ca|794238|New York, NY|1|2
+28296403|irvine, ca|0|Error|1|2
+28296403|irvine, ca|30863036|Delaware, USA|1|2
+28296403|irvine, ca|40927173|Yankee Stadium|1|2
+73178656|irvine, ca|17374046|Southern California|7|2
+73178656|irvine, ca|14290568|Orange County, California|7|2
+73178656|irvine, ca|15695732|Santa Ana - A Place for Art|5|2
+73178656|irvine, ca|19300135|Orange County|5|2
+73178656|irvine, ca|43645948|Long Beach, California|5|2
+73178656|irvine, ca|396135735|Orange County, CA|4|2
+73178656|irvine, ca|0|Error|4|2
+73178656|irvine, ca|58060034|Orange County, CA|3|2
+73178656|irvine, ca|21668624|Southern California|3|2
+73178656|irvine, ca|18457213|Newport Beach, CA|2|2
+73178656|irvine, ca|36700421|Costa Mesa, Orange County, CA|2|2
+73178656|irvine, ca|14093909|Orange County, CA|2|2
+73178656|irvine, ca|19089993|Southern California|2|2
+73178656|irvine, ca|35120520|Southern California, USA|2|2
+73178656|irvine, ca|29825396|Orange County|2|2
+73178656|irvine, ca|10424912|Santa Ana, CA|2|2
+73178656|irvine, ca|23172966|Las Vegas, NV|2|2
+73178656|irvine, ca|15257682|Minneapolis, MN|1|2
+73178656|irvine, ca|16728001|Error|1|2
+73178656|irvine, ca|450952393|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|16164520|Austin|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|90441187|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|21419002|On the 5, 405, 55, or 91. |1|2
+73178656|irvine, ca|27868406|World Wide Web|1|2
+73178656|irvine, ca|18895765|Orange County, CA|1|2
+73178656|irvine, ca|18006508|SoCal|1|2
+73178656|irvine, ca|57068203|San Diego|1|2
+73178656|irvine, ca|46843001|Error|1|2
+73178656|irvine, ca|17299353|Orange, CA|1|2
+73178656|irvine, ca|15470209|NYC|1|2
+73178656|irvine, ca|22415987|Error|1|2
+73178656|irvine, ca|7275352|Orange County, CA|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|15036089|Orange County, CA|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|0|Error|1|2
+73178656|irvine, ca|83883736|Error|1|2
+73178656|irvine, ca|50835878|Los Angeles via Cleveland|1|2
+73178656|irvine, ca|24582303|Billy the Kid's grave|1|2
+73178656|irvine, ca|6120472|Paris, France|1|2
+73178656|irvine, ca|49153989|Costa Mesa, California|1|2
+73178656|irvine, ca|0|Error|1|2
+18786402|irvine, ca|18776017|San Francisco, CA|1|2
+18659866|irvine, ca|41027370|Error|2|2
+18659866|irvine, ca|1386205202|Instagram: @JennyTingTing|2|2
+18659866|irvine, ca|31596065|Sydney, Australia; LA - SoCal |2|2
+18659866|irvine, ca|0|Error|2|2
+18659866|irvine, ca|51673526|Vancouver, Canada|1|2
+18659866|irvine, ca|18157911|Error|1|2
+18659866|irvine, ca|1427191|Error|1|2
+18659866|irvine, ca|28046627|Error|1|2
+18659866|irvine, ca|0|Error|1|2
+18659866|irvine, ca|18657864|MOVAL/RIVERSIDE|1|2
+18659866|irvine, ca|0|Error|1|2
+18659866|irvine, ca|25655977|Error|1|2
+18659866|irvine, ca|16657990|Error|1|2
+18659866|irvine, ca|37486794|Socal!|1|2
+18659866|irvine, ca|54160287|I'm in yo kitchen.|1|2
+18659866|irvine, ca|22575497|Hacienda Heights, CA|1|2
+20100729|irvine, ca|21635894|San Francisco|3|2
+20100729|irvine, ca|0|Error|2|2
+20100729|irvine, ca|30459504|South Pasadena, Ca|1|2
+20100729|irvine, ca|20885642|California|1|2
+20100729|irvine, ca|462786426|Error|1|2
+20100729|irvine, ca|22064080|Error|1|2
+20100729|irvine, ca|25549616|Los Angeles|1|2
+20100729|irvine, ca|15640604|Error|1|2
+25740490|irvine, ca|26168878|San Fernando Valley|5|2
+25740490|irvine, ca|855388596|Brooklyn Ny|3|2
+25740490|irvine, ca|3107186846|Error|2|2
+25740490|irvine, ca|18209809|San Diego, California|2|2
+25740490|irvine, ca|190503816|Error|2|2
+25740490|irvine, ca|305018548|Error|2|2
+25740490|irvine, ca|19801501|Error|2|2
+25740490|irvine, ca|472544319|Harrison, NJ |2|2
+25740490|irvine, ca|18657864|MOVAL/RIVERSIDE|2|2
+25740490|irvine, ca|79883048|Las Vegas, NV|2|2
+25740490|irvine, ca|117875722|Error|1|2
+25740490|irvine, ca|0|Error|1|2
+25740490|irvine, ca|27589891|Orange County|1|2
+25740490|irvine, ca|47555386|Laguna Niguel, CA|1|2
+25740490|irvine, ca|0|Error|1|2
+25740490|irvine, ca|45758617|Long Beach|1|2
+25740490|irvine, ca|3183934003|Error|1|2
+25740490|irvine, ca|59997030|LA|1|2
+25740490|irvine, ca|619474699|Error|1|2
+25740490|irvine, ca|0|Error|1|2
+25740490|irvine, ca|0|Error|1|2
+25740490|irvine, ca|25908676|Diamond Bar|1|2
+25740490|irvine, ca|2417190930|Error|1|2
+25740490|irvine, ca|34399567|In God's hands|1|2
+25740490|irvine, ca|50213755|iPhone: 33.649368,-117.743767|1|2
+25740490|irvine, ca|18789334|Cali|1|2
+25740490|irvine, ca|31596065|Sydney, Australia; LA - SoCal |1|2
+25740490|irvine, ca|15782453|Southern California|1|2
+25740490|irvine, ca|0|Error|1|2
+25740490|irvine, ca|73950489|Error|1|2
+25740490|irvine, ca|20897385|South San Francisco, Ca.|1|2
+25740490|irvine, ca|0|Error|1|2
+25740490|irvine, ca|0|Error|1|2
+54316298|irvine, ca|27689110|the abyss of my childlike mind|1|2
+54316298|irvine, ca|27959242|Los Angeles, CA|1|2
+25349874|irvine, ca|2474902346|Error|3|2
+25349874|irvine, ca|58698223|Virginia|2|2
+25349874|irvine, ca|1321108122|Error|1|2
+25349874|irvine, ca|2757888352|Error|1|2
+25349874|irvine, ca|29495720|Secret Volcano Island Base|1|2
+25349874|irvine, ca|66388037|Error|1|2
+25349874|irvine, ca|89642022|Philadelphia, PA|1|2
+25349874|irvine, ca|23504348|Wyoming|1|2
+15126414|irvine, ca|21766746|San Antonio, TX|3|2
+15126414|irvine, ca|16681572|pittsburgh , pa|2|2
+15126414|irvine, ca|314696020|Error|2|2
+15126414|irvine, ca|19153818|NYC|2|2
+15126414|irvine, ca|14724790|Nibiru|2|2
+15126414|irvine, ca|7788922|Los Angeles, CA|2|2
+15126414|irvine, ca|5731382|Brooklyn, New York City|2|2
+15126414|irvine, ca|35610392|PORTLAND, OREGON|1|2
+15126414|irvine, ca|24083861|North Hollywood|1|2
+15126414|irvine, ca|0|Error|1|2
+15126414|irvine, ca|19956898|Pittsburgh, PA|1|2
+15126414|irvine, ca|8908202|Pittsburgh|1|2
+15126414|irvine, ca|0|Error|1|2
+15126414|irvine, ca|24578957|Aspen Dr & Spencer Rd|1|2
+15126414|irvine, ca|31298894|Shreveport, LA|1|2
+15126414|irvine, ca|20434822|Rochester, NY|1|2
+15126414|irvine, ca|0|Error|1|2
+15126414|irvine, ca|52228846|366 San Miguel, NB 92660|1|2
+15126414|irvine, ca|21668624|Southern California|1|2
+15126414|irvine, ca|0|Error|1|2
+15126414|irvine, ca|0|Error|1|2
+15126414|irvine, ca|9676642|San Diego, Spain France Italy|1|2
+15126414|irvine, ca|22744807|Philadelphia, PA|1|2
+24040122|irvine, ca|5620592|Santa Ana, CA, USA|3|2
+24040122|irvine, ca|6565052|Orange County, CA|3|2
+24040122|irvine, ca|24008967|Los Angeles|3|2
+24040122|irvine, ca|45914549|golden state|2|2
+24040122|irvine, ca|0|Error|2|2
+24040122|irvine, ca|30080739|Toronto|1|2
+24040122|irvine, ca|112924349|Error|1|2
+24040122|irvine, ca|30066939|Error|1|2
+24040122|irvine, ca|16387455|Orange, CA|1|2
+24040122|irvine, ca|24807904|Error|1|2
+24040122|irvine, ca|422918480|Error|1|2
+24040122|irvine, ca|15191755|Los Angeles, CA|1|2
+24040122|irvine, ca|15216292|Error|1|2
+24040122|irvine, ca|68753655|Los Angeles|1|2
+24040122|irvine, ca|38142047|San Diego|1|2
+24040122|irvine, ca|2163781|Orange County, CA|1|2
+18142273|irvine, ca|14220705|California|1|2
+18142273|irvine, ca|0|Error|1|2
+19294897|irvine, ca|46186400|Error|6|2
+19294897|irvine, ca|19294897|International|3|2
+19294897|irvine, ca|2861316093|Error|2|2
+19294897|irvine, ca|18467667|Aiea, Hawaii 96701|2|2
+19294897|irvine, ca|15362786|New York|1|2
+19294897|irvine, ca|2702177220|Error|1|2
+19294897|irvine, ca|32677682|All over the Seattle area|1|2
+19294897|irvine, ca|90514268|Error|1|2
+19294897|irvine, ca|0|Error|1|2
+19294897|irvine, ca|15631903|Oklahoma City, OK|1|2
+19294897|irvine, ca|37644831|New York|1|2
+19294897|irvine, ca|0|Error|1|2
+19294897|irvine, ca|15934926|New York City|1|2
+19294897|irvine, ca|81007985|So Cal, Fla, Tn |1|2
+19294897|irvine, ca|24771696|California|1|2
+19294897|irvine, ca|40361513|Forks, WA|1|2
+19294897|irvine, ca|0|Error|1|2
+32171828|irvine, ca|25872391|here|2|2
+32171828|irvine, ca|0|Error|1|2
+32171828|irvine, ca|508032073|Error|1|2
+32171828|irvine, ca|0|Error|1|2
+32171828|irvine, ca|22674340|los angeles. california.|1|2
+32171828|irvine, ca|15249785|San Francisco, CA|1|2
+32171828|irvine, ca|24398700|richmond, va|1|2
+32171828|irvine, ca|78377918|Error|1|2
+32171828|irvine, ca|820860356|CT|1|2
+44760095|irvine, ca|0|Error|2|2
+44760095|irvine, ca|24548574|Santa Ana|1|2
+44760095|irvine, ca|91508985|All Over!|1|2
+17662443|irvine, ca|15397465|Founded in 1954 in Miami FL |4|2
+17662443|irvine, ca|20172641|Washington, DC|4|2
+17662443|irvine, ca|18770350|Southern California|2|2
+17662443|irvine, ca|14402553|Orange County, CA|2|2
+17662443|irvine, ca|0|Error|1|2
+17662443|irvine, ca|0|Error|1|2
+17662443|irvine, ca|16746689|Tacoma, WA|1|2
+17662443|irvine, ca|16893652|Washington DC|1|2
+17662443|irvine, ca|0|Error|1|2
+17662443|irvine, ca|0|Error|1|2
+17662443|irvine, ca|21898214|Orange County, CA|1|2
+17662443|irvine, ca|0|Error|1|2
+25497863|irvine, ca|25497863|Irvine, CA|18|2
+25497863|irvine, ca|16092963|Orange County, CA|10|2
+25497863|irvine, ca|13397672|Around the way|8|2
+25497863|irvine, ca|44732342|Error|6|2
+25497863|irvine, ca|18647444|Orange County, CA|6|2
+25497863|irvine, ca|2542795657|Error|4|2
+25497863|irvine, ca|22889523|Anaheim, Azusa and Cucamonga|4|2
+25497863|irvine, ca|0|Error|2|2
+25497863|irvine, ca|10440072|Newport Beach|2|2
+25497863|irvine, ca|0|Error|2|2
+25497863|irvine, ca|0|Error|2|2
+25497863|irvine, ca|0|Error|2|2
+25497863|irvine, ca|0|Error|2|2
+25497863|irvine, ca|0|Error|2|2
+25497863|irvine, ca|0|Error|2|2
+25497863|irvine, ca|0|Error|2|2
+25497863|irvine, ca|0|Error|2|2
+25497863|irvine, ca|0|Error|2|2
+25497863|irvine, ca|24776235|US|2|2
+25497863|irvine, ca|32675095|California|2|2
+25497863|irvine, ca|783861|Anaheim|2|2
+25497863|irvine, ca|46719383|Newport Beach|2|2
+25497863|irvine, ca|44435167|Southern California|2|2
+15799079|irvine, ca|23695976|Error|2|2
+15799079|irvine, ca|2744374729|Error|1|2
+15799079|irvine, ca|29476351|city South of San Francisco|1|2
+15799079|irvine, ca|0|Error|1|2
+15799079|irvine, ca|0|Error|1|2
+15799079|irvine, ca|16218208|Los Angeles, CA|1|2
+15276209|irvine, california|22192970|redcar|3|2
+15276209|irvine, california|21592385|Los Gatos, CA|3|2
+15276209|irvine, california|15276209|Orange County, California|2|2
+15276209|irvine, california|0|Error|2|2
+15276209|irvine, california|31193927|The Lone Star State|2|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|18547040|Las Vegas|1|2
+15276209|irvine, california|22551621|international via Myrtle Beach|1|2
+15276209|irvine, california|28989605|British Columbia, Canada|1|2
+15276209|irvine, california|15249883|Southern, California|1|2
+15276209|irvine, california|24573232|Center of Universe - NYC|1|2
+15276209|irvine, california|15081182|Las Vegas, NV|1|2
+15276209|irvine, california|66385462|NE Cleveland area/Nationwide|1|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|9723032|Scottsdale, AZ.|1|2
+15276209|irvine, california|58775053|Atlanta, GA|1|2
+15539347|irvine, ca|14007612|Brooklyn, NY|1|2
+15539347|irvine, ca|0|Error|1|2
+15539347|irvine, ca|14183551|Windermere, Cumbria, United Ki|1|2
+15539347|irvine, ca|34821668|Sao Paulo, Brazil|1|2
+15539347|irvine, ca|33324015|chicago|1|2
+15539347|irvine, ca|77407683|Error|1|2
+15539347|irvine, ca|15539347|Chico, CA|1|2
+15539347|irvine, ca|0|Error|1|2
+15539347|irvine, ca|10788872|Georgia|1|2
+15539347|irvine, ca|19960690|Error|1|2
+15539347|irvine, ca|14629669|Cyberspace|1|2
+15539347|irvine, ca|17966374|Error|1|2
+17903807|irvine, california|14290568|Orange County, California|7|2
+17903807|irvine, california|0|Error|4|2
+17903807|irvine, california|19300135|Orange County|3|2
+17903807|irvine, california|25376348|Orange County, CA|2|2
+17903807|irvine, california|17893253|Redondo Beach, CA|2|2
+17903807|irvine, california|19089993|Southern California|2|2
+17903807|irvine, california|479653343|Error|2|2
+17903807|irvine, california|14977045|Utica, NY|2|2
+17903807|irvine, california|86843|Error|2|2
+17903807|irvine, california|15853714|Savannah, GA|2|2
+17903807|irvine, california|43645948|Long Beach, California|2|2
+17903807|irvine, california|0|Error|1|2
+17903807|irvine, california|17903807|Error|1|2
+17903807|irvine, california|0|Error|1|2
+17903807|irvine, california|29032231|Costa Mesa, CA, USA|1|2
+17903807|irvine, california|67224816|Orange County and Los Angeles|1|2
+17903807|irvine, california|25556362|Error|1|2
+17903807|irvine, california|20100222|Orange County, CA|1|2
+17903807|irvine, california|58060034|Orange County, CA|1|2
+17903807|irvine, california|396135735|Orange County, CA|1|2
+17903807|irvine, california|24663940|Los Angeles, CA|1|2
+17903807|irvine, california|23887203|Southern California|1|2
+17903807|irvine, california|0|Error|1|2
+17903807|irvine, california|15319119|Bay Area|1|2
+17903807|irvine, california|37869741|Irvine, CA 92612|1|2
+18034991|irvine, ca|81208083|Nantes (France)|1|2
+18034991|irvine, ca|30815744|Bloomington, Indiana, USA|1|2
+34682755|irvine, ca|574638073|Irvine, CA|14|2
+34682755|irvine, ca|22082228|LBC - 1888|8|2
+34682755|irvine, ca|19036315|Los Angeles, CA|5|2
+34682755|irvine, ca|42133841|Mobile, Al|5|2
+34682755|irvine, ca|20346956|Los Angeles, CA|5|2
+34682755|irvine, ca|0|Error|4|2
+34682755|irvine, ca|35838729|Error|4|2
+34682755|irvine, ca|0|Error|3|2
+34682755|irvine, ca|166528190|lagos nigeria|3|2
+34682755|irvine, ca|0|Error|3|2
+34682755|irvine, ca|0|Error|3|2
+34682755|irvine, ca|0|Error|3|2
+34682755|irvine, ca|23735286|SOUTH CENTRAL LOS ANGELES|2|2
+34682755|irvine, ca|0|Error|2|2
+34682755|irvine, ca|47759085|Irvine, CA|2|2
+34682755|irvine, ca|194208708|Error|2|2
+34682755|irvine, ca|0|Error|2|2
+34682755|irvine, ca|16794715|Error|2|2
+34682755|irvine, ca|6220372|Woodinville, WA|2|2
+34682755|irvine, ca|59064766|Where money grow on trees|2|2
+34682755|irvine, ca|202794061|ILLest|2|2
+34682755|irvine, ca|22452347|Error|2|2
+34682755|irvine, ca|0|Error|2|2
+34682755|irvine, ca|0|Error|2|2
+34682755|irvine, ca|392401751|Los Angeles, CA|2|2
+34682755|irvine, ca|0|Error|2|2
+34682755|irvine, ca|2933984735|Error|2|2
+34682755|irvine, ca|0|Error|2|2
+34682755|irvine, ca|27992486|Orange County, CA |2|2
+34682755|irvine, ca|14247795|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|203570081|TrendsetterNY |1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|42128875|For upcoming shows visit:|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|40339456|California|1|2
+34682755|irvine, ca|18210908|Koreatown, Los Angeles |1|2
+34682755|irvine, ca|22176459|East Long Beach, USA|1|2
+34682755|irvine, ca|179367466|Error|1|2
+34682755|irvine, ca|14498713|Los Angeles|1|2
+34682755|irvine, ca|14720701|Los Angeles, CA|1|2
+34682755|irvine, ca|161531424|Your Imagination, CA |1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|227504051|Houston Tx,|1|2
+34682755|irvine, ca|448455916|Zacatecas|1|2
+34682755|irvine, ca|24925573|Oklahoma City|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|20334975|NASHVILLE, TN|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|1036860588|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|531002602|All Around The World|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|605275602|Chula Vista, California|1|2
+34682755|irvine, ca|46521426|USA|1|2
+34682755|irvine, ca|1700444329|Error|1|2
+34682755|irvine, ca|18157057|Detroit|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|19951742|South Central Los Angeles|1|2
+34682755|irvine, ca|21038117|Foggy Bottom, DC|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|5516522|San Francisco|1|2
+34682755|irvine, ca|20336573|NASHVILLE / WORLDWIDE|1|2
+34682755|irvine, ca|18286505|Error|1|2
+34682755|irvine, ca|15914463|San Francisco, CA|1|2
+34682755|irvine, ca|59887824|Los Angeles, CA|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|290145993|Error|1|2
+34682755|irvine, ca|545657243|Error|1|2
+34682755|irvine, ca|17816143|Los Angeles, CA 90016|1|2
+34682755|irvine, ca|0|Error|1|2
+34682755|irvine, ca|528887532|Error|1|2
+29965389|irvine, ca|23987007|Foster City, CA|6|2
+29965389|irvine, ca|19173787|Error|6|2
+29965389|irvine, ca|22595168|Ocean Beach|3|2
+29965389|irvine, ca|19514538|Victoria, Australia|3|2
+29965389|irvine, ca|7841652|New York, NY|2|2
+29965389|irvine, ca|20068679|With The People|2|2
+29965389|irvine, ca|54348512|Northumberland|1|2
+29965389|irvine, ca|10752322|Wiesbaden|1|2
+29965389|irvine, ca|20808758|Cary, NC|1|2
+29965389|irvine, ca|5222|Yorkshire|1|2
+29965389|irvine, ca|59231650|Error|1|2
+29965389|irvine, ca|14454473|San Diego, CA|1|2
+29965389|irvine, ca|14851058|Guadalajara. Mx.|1|2
+29965389|irvine, ca|19293036|Joinville/SC|1|2
+29965389|irvine, ca|18490021|Seattle, WA|1|2
+29965389|irvine, ca|24704049|Ohio|1|2
+29965389|irvine, ca|116595509|South Bend, IN|1|2
+29965389|irvine, ca|3350031|Error|1|2
+29965389|irvine, ca|18956549|Atlanta GA|1|2
+29965389|irvine, ca|40601247|New York City|1|2
+29965389|irvine, ca|0|Error|1|2
+29965389|irvine, ca|0|Error|1|2
+29965389|irvine, ca|10330312|Winchester/London|1|2
+29965389|irvine, ca|51851931|North Korea|1|2
+29965389|irvine, ca|17901139|Front Range, Colorado|1|2
+29965389|irvine, ca|0|Error|1|2
+29965389|irvine, ca|18973742|Gainsborough, Lincolnshire|1|2
+29965389|irvine, ca|14960059|Honeoye Falls,NY|1|2
+29965389|irvine, ca|0|Error|1|2
+29965389|irvine, ca|16000255|iPhone: -22.913631,-43.237381|1|2
+29965389|irvine, ca|0|Error|1|2
+29965389|irvine, ca|3796|Before the sea, below the sky|1|2
+29965389|irvine, ca|15372799|Flatpoint|1|2
+29965389|irvine, ca|54935095|Alley|1|2
+29965389|irvine, ca|39974761|Virginia, USA|1|2
+29965389|irvine, ca|1683844296|Cuijk|1|2
+29965389|irvine, ca|18939846|Tristan da Cunha|1|2
+29965389|irvine, ca|775726560|Error|1|2
+29965389|irvine, ca|18104186|Around and about - Toronto/LA|1|2
+29965389|irvine, ca|15513604|New York City|1|2
+29965389|irvine, ca|21361939|Pittsburgh, PA|1|2
+29965389|irvine, ca|0|Error|1|2
+29965389|irvine, ca|1954825212|Error|1|2
+29965389|irvine, ca|3048|San Francisco, CA, USA|1|2
+29965389|irvine, ca|0|Error|1|2
+68763658|irvine, california|24491477|Jacksonville, United States|5|2
+68763658|irvine, california|419018987|Error|3|2
+68763658|irvine, california|21626015|vancouver, b.c.|2|2
+68763658|irvine, california|0|Error|1|2
+68763658|irvine, california|56555062|Error|1|2
+68763658|irvine, california|0|Error|1|2
+15811454|irvine, ca|15811454|Las Vegas, NV|10|2
+15811454|irvine, ca|0|Error|6|2
+15811454|irvine, ca|20608910|Washington, DC|2|2
+15811454|irvine, ca|75976839|Bay Area, California|2|2
+15811454|irvine, ca|270754664|Online, FL|1|2
+15811454|irvine, ca|14725016|Los Angeles|1|2
+15811454|irvine, ca|28793063|somerset|1|2
+15811454|irvine, ca|19362341|Los Angeles, CA|1|2
+40585839|irvine, ca|29141821|Balboa Island|3|2
+40585839|irvine, ca|0|Error|1|2
+40585839|irvine, ca|0|Error|1|2
+40585839|irvine, ca|23854554|San Rafael, CA|1|2
+40585839|irvine, ca|16727535|Austin/Aspen|1|2
+19346435|irvine, ca|2735591|New York, NY|21|2
+19346435|irvine, ca|14274606|New Jersey|7|2
+15422994|irvine, ca|25280477|New York|5|2
+15422994|irvine, ca|23018358|Los Angeles|3|2
+15422994|irvine, ca|0|Error|3|2
+15422994|irvine, ca|24139243|In bed|2|2
+15422994|irvine, ca|180107031|Error|2|2
+15422994|irvine, ca|36528126|Hollywood|2|2
+15422994|irvine, ca|19329393|New York City, New York|1|2
+15422994|irvine, ca|25913173|Error|1|2
+15422994|irvine, ca|0|Error|1|2
+15422994|irvine, ca|1041456829|Error|1|2
+15422994|irvine, ca|16212803|Orange County California|1|2
+15422994|irvine, ca|191672740| Miami, Florida|1|2
+15422994|irvine, ca|0|Error|1|2
+15422994|irvine, ca|22676390|New York, NY|1|2
+15422994|irvine, ca|18822640|Los Angeles|1|2
+15422994|irvine, ca|18847469|New York|1|2
+15422994|irvine, ca|0|Error|1|2
+15422994|irvine, ca|0|Error|1|2
+15422994|irvine, ca|12701412|NYC|1|2
+15422994|irvine, ca|56405314|Snapchat: Stamosofficial |1|2
+15422994|irvine, ca|27403910|Southern California-land|1|2
+15422994|irvine, ca|16664681|Los Angeles, CA|1|2
+15422994|irvine, ca|18130749|Los Angeles|1|2
+15422994|irvine, ca|19697415|Los Angeles|1|2
+15422994|irvine, ca|20443852|London|1|2
+15422994|irvine, ca|0|Error|1|2
+15422994|irvine, ca|172367220|Error|1|2
+15422994|irvine, ca|16691049|California|1|2
+15422994|irvine, ca|0|Error|1|2
+15422994|irvine, ca|41319021|Booking Nationwide|1|2
+15422994|irvine, ca|10252962|Los Angeles, CA|1|2
+15422994|irvine, ca|16190898|Los Angeles, CA|1|2
+9655952|irvine, ca|0|Error|6|2
+9655952|irvine, ca|0|Error|3|2
+9655952|irvine, ca|53748628|VIRGINIA|2|2
+9655952|irvine, ca|0|Error|2|2
+9655952|irvine, ca|31317590|Dallas, TX|2|2
+9655952|irvine, ca|1167679404|Error|2|2
+9655952|irvine, ca|46094179|Rochester, NY|2|2
+9655952|irvine, ca|26549996|Boston, MA|2|2
+9655952|irvine, ca|52290467|Baltimore, MD|1|2
+9655952|irvine, ca|0|Error|1|2
+9655952|irvine, ca|29284571|Augusta|1|2
+9655952|irvine, ca|871631|Mission, Tx|1|2
+9655952|irvine, ca|0|Error|1|2
+9655952|irvine, ca|0|Error|1|2
+9655952|irvine, ca|853370641|Error|1|2
+9655952|irvine, ca|89145845|Error|1|2
+9655952|irvine, ca|0|Error|1|2
+9655952|irvine, ca|0|Error|1|2
+9655952|irvine, ca|25100180|Miami, FL|1|2
+9655952|irvine, ca|73418962|813,Fl|1|2
+9655952|irvine, ca|0|Error|1|2
+9655952|irvine, ca|0|Error|1|2
+15031424|irvine, ca|0|Error|5|2
+15031424|irvine, ca|34882054|Beverly Hills adjacent |1|2
+15031424|irvine, ca|8337502|Louisiana|1|2
+15031424|irvine, ca|0|Error|1|2
+15031424|irvine, ca|21688470|Torrance, CA|1|2
+58809813|irvine, ca|14215348|Washington DC|3|2
+58809813|irvine, ca|0|Error|2|2
+58809813|irvine, ca|42079839|USA|2|2
+58809813|irvine, ca|19273794|Error|2|2
+58809813|irvine, ca|122503775|Error|1|2
+58809813|irvine, ca|19397785|Error|1|2
+58809813|irvine, ca|75463615|San Francisco|1|2
+58809813|irvine, ca|1367531|U.S.A.|1|2
+58809813|irvine, ca|71136523| USA|1|2
+58809813|irvine, ca|0|Error|1|2
+58809813|irvine, ca|52228846|366 San Miguel, NB 92660|1|2
+58809813|irvine, ca|14308003|Error|1|2
+58809813|irvine, ca|49344223|New York, NY|1|2
+58809813|irvine, ca|0|Error|1|2
+58809813|irvine, ca|58809813|Irvine, CA|1|2
+54877697|irvine, california|54877697|Southern California|4|2
+54877697|irvine, california|15863571|Southern California USA|3|2
+54877697|irvine, california|45390547|Miami Beach, FL|2|2
+54877697|irvine, california|19033446|Scio, OR|2|2
+54877697|irvine, california|20723589|Orange County, California USA|2|2
+54877697|irvine, california|59877783|Inside|1|2
+54877697|irvine, california|26287057|Santa Barbara, CA|1|2
+54877697|irvine, california|0|Error|1|2
+54877697|irvine, california|9014362|Huntington Beach, CA|1|2
+54877697|irvine, california|44115176|Knoxville, Tennessee|1|2
+81749101|irvine, california|115552867|Twitter|4|2
+81749101|irvine, california|0|Error|2|2
+81749101|irvine, california|83525011|Worldwide|1|2
+81749101|irvine, california|14939981|Philly & Fi-Di NYC & 31Rock|1|2
+81749101|irvine, california|93273898|Error|1|2
+81749101|irvine, california|50826280|Everywhere|1|2
+81749101|irvine, california|39841211|Philadelphia PA|1|2
+81749101|irvine, california|26300814|Charlottesville, VA|1|2
+81749101|irvine, california|81749101|Irvine, California|1|2
+19370213|irvine, ca|0|Error|4|2
+19370213|irvine, ca|30077076|iPhone: 33.322445,-111.724930|3|2
+19370213|irvine, ca|12223|California|2|2
+19370213|irvine, ca|13894102|Santa Monica, CA|2|2
+19370213|irvine, ca|1729737902|Error|2|2
+19370213|irvine, ca|19637934|Los Angeles-ish|2|2
+19370213|irvine, ca|89029966|Toronto|1|2
+19370213|irvine, ca|7159422|Redmond, WA|1|2
+19370213|irvine, ca|26046257|Atlanta, GA|1|2
+19370213|irvine, ca|14155052|New York|1|2
+19370213|irvine, ca|304281063|Error|1|2
+19370213|irvine, ca|14500681|Austin, TX|1|2
+19370213|irvine, ca|71676691|NJ|1|2
+19370213|irvine, ca|15913|Seattle via New England|1|2
+19370213|irvine, ca|0|Error|1|2
+19370213|irvine, ca|0|Error|1|2
+19370213|irvine, ca|0|Error|1|2
+61040299|irvine, california|21546130|Error|1|2
+61040299|irvine, california|30661454|Madrid |1|2
+61040299|irvine, california|89251105|Error|1|2
+61040299|irvine, california|33129270|Vancouver, BC|1|2
+61040299|irvine, california|17553503|Seattle, WA|1|2
+61040299|irvine, california|0|Error|1|2
+61040299|irvine, california|66971123|Australia|1|2
+61040299|irvine, california|61040299|Irvine, California|1|2
+61040299|irvine, california|14529517|Portland, OR|1|2
+61040299|irvine, california|55965458|Fountain Valley, CA|1|2
+61040299|irvine, california|34305452|Toronto|1|2
+61040833|irvine, california|86290067|Arizona|3|2
+61040833|irvine, california|395570767|On the Moon |3|2
+61040833|irvine, california|17382858|Chicago, IL|1|2
+61040833|irvine, california|15857303|Athens, GA|1|2
+61040833|irvine, california|78120288|CA|1|2
+61040833|irvine, california|3465851|Chicago, IL|1|2
+61040833|irvine, california|14870427|Ann Arbor|1|2
+61040833|irvine, california|0|Error|1|2
+61040833|irvine, california|66201668|Error|1|2
+61040833|irvine, california|141304850|Toronto, ON|1|2
+61040833|irvine, california|86540978|Missouri|1|2
+11364932|irvine, ca|13841232|a key click away|5|2
+11364932|irvine, ca|7624222|New Jersey|2|2
+11364932|irvine, ca|15497170|Burbank|2|2
+11364932|irvine, ca|49971035|Omaha, ne|2|2
+11364932|irvine, ca|14186348|Paris|2|2
+11364932|irvine, ca|8174142|Phoenix, AZ|1|2
+11364932|irvine, ca|11398562|Los Angeles|1|2
+11364932|irvine, ca|16108210|New York|1|2
+11364932|irvine, ca|58348469|San Jose, CA|1|2
+11364932|irvine, ca|18444530|Los Angeles|1|2
+11364932|irvine, ca|20384511|Error|1|2
+11364932|irvine, ca|803883|Durham, NC|1|2
+11364932|irvine, ca|14678900|NJ / NYC|1|2
+11364932|irvine, ca|16740570|Error|1|2
+11364932|irvine, ca|0|Error|1|2
+11364932|irvine, ca|761267|San Francisco, California|1|2
+11364932|irvine, ca|14453798|Seattle|1|2
+11364932|irvine, ca|18734182|california|1|2
+11364932|irvine, ca|13461662|Chicago, IL|1|2
+11364932|irvine, ca|2065521|San Francisco|1|2
+11364932|irvine, ca|19691059|Global|1|2
+11364932|irvine, ca|0|Error|1|2
+11364932|irvine, ca|0|Error|1|2
+80647346|irvine, ca|15012781|Everywhere |3|2
+80647346|irvine, ca|15568426|Error|2|2
+80647346|irvine, ca|57373996|Error|2|2
+80647346|irvine, ca|0|Error|2|2
+80647346|irvine, ca|0|Error|1|2
+80647346|irvine, ca|31026311|Washington, DC|1|2
+80647346|irvine, ca|23008414|It's Time to Renew!|1|2
+80647346|irvine, ca|0|Error|1|2
+80647346|irvine, ca|0|Error|1|2
+80647346|irvine, ca|13117252|yorba linda, the orange county|1|2
+80647346|irvine, ca|333159192|Error|1|2
+80647346|irvine, ca|18345963|Atlanta, Georgia, USA|1|2
+80647346|irvine, ca|0|Error|1|2
+80647346|irvine, ca|0|Error|1|2
+80647346|irvine, ca|43689684|54.6448,-1.2391|1|2
+80647346|irvine, ca|15842608|San Francisco Bay Area|1|2
+80647346|irvine, ca|18800022|Canada|1|2
+80647346|irvine, ca|35568072|Error|1|2
+80647346|irvine, ca|2267510160|Error|1|2
+80647346|irvine, ca|16374678|Error|1|2
+80647346|irvine, ca|706848398|Hartlepool|1|2
+80647346|irvine, ca|14872161|International|1|2
+80647346|irvine, ca|74058492|Wherever there are 'staches|1|2
+80647346|irvine, ca|17182701|Error|1|2
+80647346|irvine, ca|281179682|Error|1|2
+80647346|irvine, ca|56640821|Orange County, California|1|2
+80647346|irvine, ca|857039119|Error|1|2
+80647346|irvine, ca|179869095|Universal|1|2
+62226147|irvine, ca|0|Error|1|2
+16351551|irvine, ca|55306255|The Universe|4|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|39621559|Atlanta, GA|1|2
+16351551|irvine, ca|50531673|Phoenix, Arizona|1|2
+16351551|irvine, ca|39626053|I've been everywhere man.|1|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|23642470|:my nest:|1|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|0|Error|1|2
+44298886|irvine, ca|12480582|New York and beyond...|2|2
+44298886|irvine, ca|35120520|Southern California, USA|1|2
+44298886|irvine, ca|19915096|Chicago|1|2
+44298886|irvine, ca|0|Error|1|2
+44298886|irvine, ca|17064675|Cincinnati, Consumer Capital|1|2
+44298886|irvine, ca|19272650|New York|1|2
+44298886|irvine, ca|15458197|United States|1|2
+44298886|irvine, ca|9541782|United States|1|2
+44298886|irvine, ca|15811757|Henley on Thames|1|2
+44298886|irvine, ca|0|Error|1|2
+44298886|irvine, ca|17452788|Error|1|2
+44298886|irvine, ca|18730695|New York, NY|1|2
+44298886|irvine, ca|15009623|Costa Mesa, CA|1|2
+44298886|irvine, ca|39282927|Winnipeg, Canada|1|2
+44298886|irvine, ca|0|Error|1|2
+44298886|irvine, ca|55678606|New York, NY|1|2
+44298886|irvine, ca|0|Error|1|2
+44298886|irvine, ca|19354712|Columbus, Ohio|1|2
+44298886|irvine, ca|2694669218|Error|1|2
+44298886|irvine, ca|0|Error|1|2
+44298886|irvine, ca|0|Error|1|2
+35883964|irvine, california|0|Error|3|2
+35883964|irvine, california|0|Error|3|2
+35883964|irvine, california|0|Error|2|2
+35883964|irvine, california|74637227|Central Arkansas|2|2
+35883964|irvine, california|26507551|Error|2|2
+35883964|irvine, california|16190898|Los Angeles, CA|1|2
+35883964|irvine, california|18891736|orange county|1|2
+35883964|irvine, california|48535823|Planet Earth |1|2
+35883964|irvine, california|33999280|Salt Lake City, UT|1|2
+35883964|irvine, california|40316879|The World|1|2
+35883964|irvine, california|0|Error|1|2
+35883964|irvine, california|0|Error|1|2
+35883964|irvine, california|24558787|Los Angeles, CA / NYC|1|2
+35883964|irvine, california|37067390|Boston, MA|1|2
+35883964|irvine, california|293155760|Error|1|2
+35883964|irvine, california|21111883|DALLAS/LA|1|2
+35883964|irvine, california|65212470|here, there, and everywhere|1|2
+35883964|irvine, california|0|Error|1|2
+35883964|irvine, california|30364057|state of Palestine |1|2
+74349803|irvine, california|325062401|9thcloud.|10|2
+74349803|irvine, california|744736836|Los Angeles |2|2
+74349803|irvine, california|0|Error|2|2
+74349803|irvine, california|984246438|Error|1|2
+74349803|irvine, california|18655166|Los Angeles, CA |1|2
+74349803|irvine, california|383564635|Error|1|2
+74349803|irvine, california|2746387495|Follow @DulceCandy|1|2
+23696089|irvine, ca|24121099|Limbo|6|2
+23696089|irvine, ca|16248125|Barrie, Ontario|5|2
+23696089|irvine, ca|0|Error|3|2
+23696089|irvine, ca|189518306|Error|2|2
+23696089|irvine, ca|1293051|bay area|1|2
+23696089|irvine, ca|15153875|San Diego, CA|1|2
+23696089|irvine, ca|14085056|Washington, DC|1|2
+23696089|irvine, ca|17503114|Error|1|2
+23696089|irvine, ca|0|Error|1|2
+23696089|irvine, ca|13725232|Colombia|1|2
+23696089|irvine, ca|0|Error|1|2
+23696089|irvine, ca|20656172|Error|1|2
+23696089|irvine, ca|782502|Redmond aka Eastern Washington|1|2
+23696089|irvine, ca|14305907|Portland, OR|1|2
+23696089|irvine, ca|2164990406|Error|1|2
+23696089|irvine, ca|14877810|Palo Alto, California|1|2
+23696089|irvine, ca|2893971|Austin, TX|1|2
+23696089|irvine, ca|15524875|NJ -- NYC -- BK|1|2
+70494339|irvine, ca|0|Error|2|2
+70494339|irvine, ca|17462121|The Netherlands|1|2
+70494339|irvine, ca|0|Error|1|2
+21942365|irvine, ca|17704921|Europe|1|2
+21942365|irvine, ca|27692328|Southern California|1|2
+21942365|irvine, ca|0|Error|1|2
+16232365|irvine, ca|20891393|LA & ABQ|5|2
+16232365|irvine, ca|0|Error|4|2
+16232365|irvine, ca|13255152|Cupertino|4|2
+16232365|irvine, ca|9025732|Alabama|3|2
+16232365|irvine, ca|237003673|Philadelphia, PA|3|2
+16232365|irvine, ca|21501495|Vancouver, BC suburb|3|2
+16232365|irvine, ca|20833124|Error|3|2
+16232365|irvine, ca|0|Error|2|2
+16232365|irvine, ca|75367700|Scottsdale, AZ|2|2
+16232365|irvine, ca|2158792339|Error|1|2
+16232365|irvine, ca|15999280|Denver, CO|1|2
+16232365|irvine, ca|20565049|Greenwood Village, CO|1|2
+16232365|irvine, ca|0|Error|1|2
+16232365|irvine, ca|77551578|MT by heart. MN by trade.|1|2
+16232365|irvine, ca|0|Error|1|2
+16232365|irvine, ca|10497202|Hermosa Beach, Ca|1|2
+16232365|irvine, ca|15799163|Seattle|1|2
+14399458|irvine, ca|14471256|California, USA|7|2
+14399458|irvine, ca|14479803|Harrisburg, PA|3|2
+14399458|irvine, ca|14535157|Miami, Florida, USA|3|2
+14399458|irvine, ca|14641689|Mountain View, CA|2|2
+14399458|irvine, ca|3220884980|Error|2|2
+14399458|irvine, ca|0|Error|1|2
+14399458|irvine, ca|0|Error|1|2
+14399458|irvine, ca|0|Error|1|2
+14399458|irvine, ca|0|Error|1|2
+14399458|irvine, ca|14629757|Los Angeles, CA|1|2
+14399458|irvine, ca|13461562|RVA|1|2
+14399458|irvine, ca|15604692|The OC (don't call it that)|1|2
+14399458|irvine, ca|0|Error|1|2
+14399458|irvine, ca|0|Error|1|2
+14399458|irvine, ca|0|Error|1|2
+14399458|irvine, ca|5868362|Error|1|2
+29476351|irvine, ca|56255703|Error|4|2
+29476351|irvine, ca|15799079|Alameda, CA|3|2
+29476351|irvine, ca|19722414|Southern California|1|2
+29476351|irvine, ca|0|Error|1|2
+29476351|irvine, ca|34399273|San Francisco Bay Area|1|2
+29476351|irvine, ca|71061288|Cali|1|2
+29476351|irvine, ca|0|Error|1|2
+29476351|irvine, ca|29476351|city South of San Francisco|1|2
+29476351|irvine, ca|18363094|Los Angeles, CA|1|2
+29476351|irvine, ca|21883801|California|1|2
+29476351|irvine, ca|0|Error|1|2
+29476351|irvine, ca|5439022|North Hollywood, CA|1|2
+29476351|irvine, ca|0|Error|1|2
+27117306|irvine, california|0|Error|1|2
+27117306|irvine, california|43860784|UK|1|2
+25020648|irvine, ca|124399970|Error|2|2
+25020648|irvine, ca|25732785|Error|2|2
+25020648|irvine, ca|14386736|Washington D.C.|2|2
+25020648|irvine, ca|15265269|Detroit...Or...Costa Rica |2|2
+25020648|irvine, ca|675|Lewes Beach, Delaware|1|2
+25020648|irvine, ca|438138116|Error|1|2
+25020648|irvine, ca|14289456|Chico, California |1|2
+25020648|irvine, ca|240780620|Irvine|1|2
+25020648|irvine, ca|14837079|San Diego|1|2
+25020648|irvine, ca|0|Error|1|2
+25020648|irvine, ca|38051701|Boston|1|2
+25020648|irvine, ca|6336212|Error|1|2
+25020648|irvine, ca|15468231|Philadelphia, PA|1|2
+25020648|irvine, ca|14131123|San Diego, CA|1|2
+25020648|irvine, ca|0|Error|1|2
+33671789|irvine, ca|350117845|CA \m/|8|2
+33671789|irvine, ca|3190469868|Philippines|4|2
+33671789|irvine, ca|310064175|Error|2|2
+33671789|irvine, ca|47801262|Westeros|2|2
+33671789|irvine, ca|0|Error|1|2
+33671789|irvine, ca|0|Error|1|2
+33671789|irvine, ca|50699566|OC /LA|1|2
+33671789|irvine, ca|1967795036|Error|1|2
+33671789|irvine, ca|0|Error|1|2
+33671789|irvine, ca|0|Error|1|2
+33671789|irvine, ca|358663731|Error|1|2
+33671789|irvine, ca|0|Error|1|2
+33671789|irvine, ca|17903807|Error|1|2
+33671789|irvine, ca|0|Error|1|2
+33671789|irvine, ca|37788669|Get my new album! |1|2
+74199768|irvine, ca|16059100|Orange County, California|2|2
+74199768|irvine, ca|14290568|Orange County, California|2|2
+74199768|irvine, ca|74199768|Irvine, CA|2|2
+74199768|irvine, ca|0|Error|2|2
+74199768|irvine, ca|14167055|los angeles, ca|1|2
+74199768|irvine, ca|280950032|Error|1|2
+74199768|irvine, ca|76427196|Orange County|1|2
+74199768|irvine, ca|0|Error|1|2
+74199768|irvine, ca|0|Error|1|2
+74199768|irvine, ca|16286178|Vancouver, BC|1|2
+74199768|irvine, ca|16723838|outside of Seattle|1|2
+74199768|irvine, ca|33622288|Error|1|2
+74199768|irvine, ca|12981302|Orange County, CA|1|2
+74199768|irvine, ca|16564855|Dallas, Texas|1|2
+74199768|irvine, ca|15131310|Austin, TX|1|2
+74199768|irvine, ca|23849716|Global|1|2
+74199768|irvine, ca|16667262|LA|1|2
+74199768|irvine, ca|0|Error|1|2
+74199768|irvine, ca|222494399|New York|1|2
+74199768|irvine, ca|3985381|Londoner from LA|1|2
+74199768|irvine, ca|0|Error|1|2
+74199768|irvine, ca|66818412|California, USA|1|2
+74199768|irvine, ca|61919602|Irvine, California|1|2
+74199768|irvine, ca|0|Error|1|2
+74199768|irvine, ca|18732707|Orange County, CA|1|2
+74199768|irvine, ca|24777684|Orange County, CA|1|2
+74199768|irvine, ca|2272849292|Gtr. Manchester, UK|1|2
+9162512|irvine, ca|14222259|Los Angeles, CA|4|2
+9162512|irvine, ca|22712448|Error|3|2
+9162512|irvine, ca|53116770|San Francisco|3|2
+9162512|irvine, ca|41484083|Irvine, CA|2|2
+9162512|irvine, ca|9288912|Hong Kong|1|2
+9162512|irvine, ca|0|Error|1|2
+9162512|irvine, ca|16675826|Laguna Niguel, CA|1|2
+9162512|irvine, ca|18091031|Error|1|2
+9162512|irvine, ca|37432846|Error|1|2
+14144158|irvine, ca|6100112|wraysbury|3|2
+14144158|irvine, ca|25770421|Las Vegas|3|2
+14144158|irvine, ca|17378080|Santa Barbara, CA|2|2
+14144158|irvine, ca|0|Error|1|2
+14144158|irvine, ca|0|Error|1|2
+14144158|irvine, ca|17903807|Error|1|2
+14144158|irvine, ca|61807249|Dex Media. DFW, Texas|1|2
+14144158|irvine, ca|14845227|Orange County, CA|1|2
+14144158|irvine, ca|11883132|San Francisco|1|2
+14144158|irvine, ca|22023247|Florida|1|2
+14144158|irvine, ca|0|Error|1|2
+14144158|irvine, ca|1019091|Boston, MA|1|2
+14144158|irvine, ca|14120151|Cities worldwide|1|2
+14144158|irvine, ca|16882269|Orange County, CA|1|2
+14144158|irvine, ca|15134782|San Francisco|1|2
+14144158|irvine, ca|33808520|California|1|2
+14144158|irvine, ca|0|Error|1|2
+14144158|irvine, ca|14053430|Ventura, California|1|2
+14144158|irvine, ca|816653|San Francisco, CA|1|2
+14144158|irvine, ca|23508439|Error|1|2
+61033129|irvine, california|14872524|NYC|1|2
+61033129|irvine, california|36507205|Wilhelmshaven, Germany|1|2
+61033129|irvine, california|16367890|Error|1|2
+61033129|irvine, california|0|Error|1|2
+61033129|irvine, california|0|Error|1|2
+19263151|irvine, california|270411465|Error|2|2
+19263151|irvine, california|0|Error|2|2
+19263151|irvine, california|0|Error|2|2
+19263151|irvine, california|15768401|Gold Coast, Australia|1|2
+19263151|irvine, california|26717814|United States|1|2
+19263151|irvine, california|22235371|Thailand|1|2
+19263151|irvine, california|0|Error|1|2
+19263151|irvine, california|18243559|Greater Arizona and Nationwide|1|2
+19263151|irvine, california|0|Error|1|2
+19263151|irvine, california|0|Error|1|2
+19263151|irvine, california|17973137|Nicaragua|1|2
+19263151|irvine, california|0|Error|1|2
+19263151|irvine, california|7425242|43.822516,-115.838618|1|2
+55308527|irvine, ca|55308527|California|2|2
+55308527|irvine, ca|23767835|Fort Worth Texas |1|2
+55308527|irvine, ca|0|Error|1|2
+55308527|irvine, ca|0|Error|1|2
+55308527|irvine, ca|18510799|Web-only Retailer, PH|1|2
+55308527|irvine, ca|0|Error|1|2
+55308527|irvine, ca|0|Error|1|2
+55308527|irvine, ca|0|Error|1|2
+55308527|irvine, ca|14603919|Park City, Utah U.S.A.|1|2
+55308527|irvine, ca|4961351|NYC|1|2
+38564630|irvine, ca|21817319|Santa Monica, California|3|2
+38564630|irvine, ca|40526985|Texas|2|2
+38564630|irvine, ca|17903807|Error|2|2
+38564630|irvine, ca|366007384|Error|2|2
+38564630|irvine, ca|38564630|Irvine, CA|2|2
+38564630|irvine, ca|0|Error|1|2
+38564630|irvine, ca|75156523|South San Francisco|1|2
+38564630|irvine, ca|0|Error|1|2
+38564630|irvine, ca|0|Error|1|2
+38564630|irvine, ca|0|Error|1|2
+38564630|irvine, ca|196274765|WorldWide|1|2
+38564630|irvine, ca|2257150200|Error|1|2
+38564630|irvine, ca|83040653|Error|1|2
+38564630|irvine, ca|0|Error|1|2
+38564630|irvine, ca|16495296|China Grove|1|2
+38564630|irvine, ca|29281057|Palm Springs, CA|1|2
+38564630|irvine, ca|0|Error|1|2
+38564630|irvine, ca|10078882|Everywhere|1|2
+38564630|irvine, ca|15894786|USA|1|2
+38564630|irvine, ca|39640930|Error|1|2
+38564630|irvine, ca|88834093|Error|1|2
+38564630|irvine, ca|34508421|USA|1|2
+29409484|irvine, california|30156435|Hollywood|3|2
+29409484|irvine, california|2845015529|South-West London|2|2
+29409484|irvine, california|48179672|Tustin|1|2
+29409484|irvine, california|2159848176|Error|1|2
+29409484|irvine, california|55091316|714|1|2
+29409484|irvine, california|0|Error|1|2
+29409484|irvine, california|268414482|@happyhippiefdn|1|2
+29409484|irvine, california|17919972|Error|1|2
+29409484|irvine, california|16714474|Orange County, CA|1|2
+40958085|irvine, ca|471835768|Error|1|2
+40958085|irvine, ca|0|Error|1|2
+29335351|irvine, ca|41409354|32 Old Slip, NY, NY 10005|1|2
+29335351|irvine, ca|40466071|Denver|1|2
+29335351|irvine, ca|19406992|Florida|1|2
+29335351|irvine, ca|64271503|Error|1|2
+15408850|irvine, ca|5840602|A cookie jar|2|2
+15408850|irvine, ca|0|Error|1|2
+15408850|irvine, ca|14495506|Error|1|2
+15408850|irvine, ca|0|Error|1|2
+15408850|irvine, ca|0|Error|1|2
+15408850|irvine, ca|216246980|Acworth, Georgia|1|2
+18015945|irvine, california|0|Error|8|2
+18015945|irvine, california|18030244|San Diego, CA|2|2
+18015945|irvine, california|15682022|San Francisco, California|1|2
+18015945|irvine, california|15678531|Rhode Island|1|2
+18023829|irvine, ca|18757156|www.soundcloud.com/younglive|3|2
+18023829|irvine, ca|841271970|Error|2|2
+18023829|irvine, ca|0|Error|1|2
+18023829|irvine, ca|22875944|Memories, United States|1|2
+18023829|irvine, ca|16274968|iPhone: 41.950520,-87.656975|1|2
+18023829|irvine, ca|14685692|London New York|1|2
+18023829|irvine, ca|19343378|Brooklyn, NY|1|2
+18023829|irvine, ca|21512448|iPhone: 41.917562,-87.689180|1|2
+18023829|irvine, ca|0|Error|1|2
+18023829|irvine, ca|0|Error|1|2
+18023829|irvine, ca|0|Error|1|2
+18023829|irvine, ca|23541055|Two Chicago locations|1|2
+16993268|irvine, california|14438621|THE OC|2|2
+16993268|irvine, california|819800|San Francisco, CA|1|2
+16993268|irvine, california|20536157|Mountain View, CA|1|2
+16993268|irvine, california|13023802|Error|1|2
+16993268|irvine, california|14171929|Los Angeles |1|2
+16993268|irvine, california|20555801|Los Angeles, California|1|2
+16993268|irvine, california|0|Error|1|2
+16993268|irvine, california|9193012|San Diego, CA|1|2
+9655952|irvine, ca|33278017|Toledo, Ohio|11|2
+9655952|irvine, ca|15012486|New York, NY|1|2
+9655952|irvine, ca|1367531|U.S.A.|1|2
+9655952|irvine, ca|0|Error|1|2
+9655952|irvine, ca|19740592|New York, USA|1|2
+14904906|irvine, ca|14471733|San Francisco, CA|4|2
+14904906|irvine, ca|5426232|Heart towards Dammaj|2|2
+14904906|irvine, ca|25365536|where I'm meant to be...|2|2
+14904906|irvine, ca|15888142|Los Angeles|1|2
+14904906|irvine, ca|2556706216|Error|1|2
+26457898|irvine, ca|17374046|Southern California|4|2
+26457898|irvine, ca|502706592|Krokante krab|1|2
+41139821|irvine, ca|1402383679|Seoul,South Korean|4|2
+41139821|irvine, ca|30106776|Los Angeles|3|2
+41139821|irvine, ca|0|Error|2|2
+41139821|irvine, ca|5376742|Northern Virginia|2|2
+41139821|irvine, ca|67051303|Salt Lake City, UT|2|2
+41139821|irvine, ca|14372486|Global|1|2
+41139821|irvine, ca|0|Error|1|2
+41139821|irvine, ca|25899813|US|1|2
+41139821|irvine, ca|33538668|New Westminster B.C |1|2
+41139821|irvine, ca|0|Error|1|2
+19134740|irvine, california|18713434|Error|2|2
+19134740|irvine, california|16902803|OC|2|2
+19134740|irvine, california|2542795657|Error|1|2
+19134740|irvine, california|0|Error|1|2
+19134740|irvine, california|28949862|Irvine, CA|1|2
+22282376|irvine, ca|16365175|Error|5|2
+22282376|irvine, ca|22202628|Error|2|2
+22282376|irvine, ca|21439322|San Luis Obispo, CA|2|2
+22282376|irvine, ca|23544596|Los Angeles |1|2
+22282376|irvine, ca|6761682|Southern California|1|2
+22282376|irvine, ca|21035409|#firstclass |1|2
+22282376|irvine, ca|24090671|Orange, CA|1|2
+22282376|irvine, ca|17201277|Error|1|2
+22282376|irvine, ca|0|Error|1|2
+22282376|irvine, ca|46036177|Error|1|2
+22282376|irvine, ca|14506253|Tauntuan belly|1|2
+22282376|irvine, ca|1393225117|Error|1|2
+18571972|irvine, california|24265153|chicago|6|2
+18571972|irvine, california|21721233|Irvine, CA|2|2
+18571972|irvine, california|0|Error|1|2
+59019229|irvine, ca|56275210|So Cal 626|6|2
+59019229|irvine, ca|2316230190|Error|1|2
+59019229|irvine, ca|56883560|Whittier, CA|1|2
+63281329|irvine, ca|792907|Here, There, Everywhere...|3|2
+63281329|irvine, ca|10202|Boston, MA|3|2
+63281329|irvine, ca|14193185|Orange County, CA|2|2
+63281329|irvine, ca|21249293|Long Beach, CA|2|2
+63281329|irvine, ca|0|Error|1|2
+63281329|irvine, ca|18238282|Santa Barbara, California|1|2
+63281329|irvine, ca|14777649|Ohio boy in NYC and LA|1|2
+63281329|irvine, ca|14652452|Los Angeles|1|2
+63281329|irvine, ca|24897670|Burlington, VT|1|2
+63281329|irvine, ca|2442|San Jose, California|1|2
+63281329|irvine, ca|19056844|Newport Beach|1|2
+63281329|irvine, ca|16992515|Seattle, WA|1|2
+63281329|irvine, ca|14402553|Orange County, CA|1|2
+63281329|irvine, ca|23389575|The Woodlands, Texas|1|2
+33987445|irvine, ca|15024961|San Diego, California|6|2
+33987445|irvine, ca|32494907|Error|4|2
+33987445|irvine, ca|49798093|San francisco|2|2
+23492419|irvine, ca|41920315|Error|4|2
+23492419|irvine, ca|19787346|Neverland|2|2
+23492419|irvine, ca|0|Error|2|2
+23492419|irvine, ca|14678800|Galway, Ireland|1|2
+23492419|irvine, ca|0|Error|1|2
+23492419|irvine, ca|56802991|Error|1|2
+59185577|irvine, ca|23832022|Worldwide |9|2
+59185577|irvine, ca|66738879|Los Angeles, CA|1|2
+59185577|irvine, ca|288596224|I'm everywhere|1|2
+59185577|irvine, ca|2244001999|Sarawak|1|2
+59185577|irvine, ca|0|Error|1|2
+59185577|irvine, ca|208365551|Error|1|2
+20461845|irvine, california|22737256|NYC|8|2
+20461845|irvine, california|44214964|Error|4|2
+20461845|irvine, california|495719245|Error|1|2
+20461845|irvine, california|0|Error|1|2
+20461845|irvine, california|34487633|Los Angeles, CA|1|2
+20461845|irvine, california|0|Error|1|2
+37244030|irvine, ca|0|Error|1|2
+37244030|irvine, ca|8431652|South F-ing Florida|1|2
+37244030|irvine, ca|946946130|Vermont / DC|1|2
+37244030|irvine, ca|73252274|United States|1|2
+37244030|irvine, ca|16911584|Washington, DC|1|2
+37244030|irvine, ca|60767749|North Dakota|1|2
+37244030|irvine, ca|13493302|Washington, DC|1|2
+37244030|irvine, ca|19462341|United States|1|2
+37244030|irvine, ca|17842545|World|1|2
+37244030|irvine, ca|603675803|Lagos Nigeria|1|2
+37244030|irvine, ca|73250148|Error|1|2
+37244030|irvine, ca|15521774|San Francisco|1|2
+37244030|irvine, ca|15604572|PA|1|2
+16303237|irvine, ca|7089332|Reston, VA|2|2
+16303237|irvine, ca|611823|San Francisco, CA|1|2
+16303237|irvine, ca|0|Error|1|2
+16303237|irvine, ca|9534522|USA|1|2
+16303237|irvine, ca|0|Error|1|2
+16303237|irvine, ca|5658692|South San Francisco, CA|1|2
+16303237|irvine, ca|18044341|Twitter HQ|1|2
+16303237|irvine, ca|17530397|Atlanta|1|2
+16303237|irvine, ca|10638482|Palo Alto, CA|1|2
+16303237|irvine, ca|0|Error|1|2
+16303237|irvine, ca|14749606|San Francisco, CA|1|2
+16303237|irvine, ca|678953|Everywhere|1|2
+15276209|irvine, california|15249883|Southern, California|5|2
+15276209|irvine, california|15081182|Las Vegas, NV|3|2
+15276209|irvine, california|62888916|Mission Viejo, CA|2|2
+15276209|irvine, california|17526452|Los Angeles, CA|2|2
+15276209|irvine, california|17145442|Las Vegas, NV|2|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|410640314|Error|1|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|19173512|43.626383,-79.679713|1|2
+15276209|irvine, california|0|Error|1|2
+15276209|irvine, california|2866426080|Error|1|2
+15276209|irvine, california|43158512|Error|1|2
+29965389|irvine, ca|5222|Yorkshire|4|2
+29965389|irvine, ca|97303169|Columbus, Ohio|3|2
+29965389|irvine, ca|0|Error|1|2
+29965389|irvine, ca|19329393|New York City, New York|1|2
+29965389|irvine, ca|309414315|Error|1|2
+29965389|irvine, ca|1564081|-33.891861, 151.273636|1|2
+29965389|irvine, ca|0|Error|1|2
+29965389|irvine, ca|14884472|Freelancia|1|2
+29965389|irvine, ca|7841882|Error|1|2
+29965389|irvine, ca|340666197|Error|1|2
+39404213|irvine, ca|32273709|Irvine, CA|7|2
+49182334|irvine, california|14075928|Error|1|2
+17392438|irvine, ca|15438013|Santa Clara, CA|9|2
+17392438|irvine, ca|67729678|San Diego|2|2
+17392438|irvine, ca|17219077|Stanford, California|1|2
+17392438|irvine, ca|813286|Washington, DC|1|2
+16351551|irvine, ca|23642470|:my nest:|3|2
+16351551|irvine, ca|67892844|Orange County|2|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|21955058|Stage Right|1|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|15925382|suitcase|1|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|18165581|Error|1|2
+16351551|irvine, ca|17076385|Nashville, TN.|1|2
+16351551|irvine, ca|0|Error|1|2
+16351551|irvine, ca|20207873|OC-LA-SD-IE catchmeifyoucan|1|2
+23692020|irvine, ca|0|Error|1|2
+23692020|irvine, ca|127775216|Mumbra|1|2
+23692020|irvine, ca|33343716|undecided|1|2
+72634025|irvine, california|20090908|Error|1|2
+72634025|irvine, california|598337976|Error|1|2
+16413031|irvine, ca|39404532|Error|4|2
+16413031|irvine, ca|17939304|Error|3|2
+16413031|irvine, ca|15473158|Yeovil, United Kingdom|1|2
+16413031|irvine, ca|8313442|Los Angeles|1|2
+16413031|irvine, ca|21294094|London|1|2
+16413031|irvine, ca|17307041|los angeles|1|2
+16413031|irvine, ca|13917232|iPhone: 40.728497,-73.998993|1|2
+34302627|irvine, ca|0|Error|3|2
+34302627|irvine, ca|17249757|PA|3|2
+34302627|irvine, ca|16667262|LA|2|2
+34302627|irvine, ca|18228898|New York, NY, USA|2|2
+34302627|irvine, ca|36528126|Hollywood|2|2
+34302627|irvine, ca|33694840|Los Angeles|1|2
+34302627|irvine, ca|18002296|Error|1|2
+34302627|irvine, ca|0|Error|1|2
+34302627|irvine, ca|13734992|Hollywood, FL|1|2
+34302627|irvine, ca|8921852|NY, NY|1|2
+34302627|irvine, ca|0|Error|1|2
+34302627|irvine, ca|20019468|Error|1|2
+34302627|irvine, ca|22676390|New York, NY|1|2
+17526132|irvine, ca|7159422|Redmond, WA|3|2
+17526132|irvine, ca|23135183|Ventura Bay|3|2
+17526132|irvine, ca|0|Error|2|2
+17526132|irvine, ca|0|Error|2|2
+17526132|irvine, ca|13229902|Los Angeles, CA|2|2
+17526132|irvine, ca|16848203|LA | Nashville | NYC|1|2
+17526132|irvine, ca|0|Error|1|2
+17526132|irvine, ca|12463172|Twin Cities, Minnesota|1|2
+17526132|irvine, ca|0|Error|1|2
+17526132|irvine, ca|21637624|Error|1|2
+17526132|irvine, ca|24771696|California|1|2
+17526132|irvine, ca|5443002|Xbox Europe|1|2
+17526132|irvine, ca|0|Error|1|2
+17526132|irvine, ca|14709855|Redmond, WA|1|2
+17526132|irvine, ca|0|Error|1|2
+46887764|irvine, ca|0|Error|3|2
+46887764|irvine, ca|24253723|Orange County, CA|2|2
+46887764|irvine, ca|25376348|Orange County, CA|2|2
+46887764|irvine, ca|58060034|Orange County, CA|2|2
+46887764|irvine, ca|26225295|Orange County, CA|2|2
+46887764|irvine, ca|69102750|Pickerington, OH|1|2
+46887764|irvine, ca|0|Error|1|2
+46887764|irvine, ca|0|Error|1|2
+46887764|irvine, ca|0|Error|1|2
+46887764|irvine, ca|67435773|Orange County, CA|1|2
+46887764|irvine, ca|19320013|Irvine, CA|1|2
+46887764|irvine, ca|0|Error|1|2
+46887764|irvine, ca|0|Error|1|2
+46887764|irvine, ca|0|Error|1|2
+46887764|irvine, ca|46843001|Error|1|2
+46887764|irvine, ca|13603232|Can/USA Border (Sault Ontario)|1|2
+46887764|irvine, ca|0|Error|1|2
+46887764|irvine, ca|43645948|Long Beach, California|1|2
+46887764|irvine, ca|21961314|Costa Mesa, CA|1|2
+46887764|irvine, ca|24626969|United States|1|2
+46887764|irvine, ca|27925360|Orange County, CA|1|2
+46887764|irvine, ca|16702758|Dana Point, CA|1|2
+755477|irvine, ca|798725|Error|2|2
+755477|irvine, ca|635523|Danville, CA|2|2
+755477|irvine, ca|7617372|San Clemente, CA|1|2
+755477|irvine, ca|14399458|Aliso Viejo|1|2
+755477|irvine, ca|1281372391|New York City|1|2
+755477|irvine, ca|33581805|Error|1|2
+755477|irvine, ca|1643029537|Error|1|2
+19634279|irvine, ca|1576727516|Error|2|2
+19634279|irvine, ca|5577902|I live in the State of Grace|1|2
+19634279|irvine, ca|17833500|Tustin, CA|1|2
+19634279|irvine, ca|29154571|Error|1|2
+19634279|irvine, ca|24877613|Error|1|2
+19634279|irvine, ca|20697884|Anywhere|1|2
+19634279|irvine, ca|14194898|South Carolina|1|2
+19634279|irvine, ca|73473683|Error|1|2
+19634279|irvine, ca|2057|Orange County, CA|1|2
+19634279|irvine, ca|18428525|Global|1|2
+19634279|irvine, ca|17896333|Washington, DC|1|2
+19634279|irvine, ca|34854189|LA | SP|1|2
+19634279|irvine, ca|17950055|Downtown Bentonville, Arkansas|1|2
+19634279|irvine, ca|33093678|Detroit|1|2
+19634279|irvine, ca|0|Error|1|2
+53193336|irvine, ca|53193336|SoCal|2|2
+53193336|irvine, ca|2554741|Dana Point, CA|2|2
+53193336|irvine, ca|0|Error|1|2
+53193336|irvine, ca|11321492|Error|1|2
+53193336|irvine, ca|807095|New York City|1|2
+39111583|irvine, ca|32055619|Error|9|2
+39111583|irvine, ca|22245869|Pleasanton, CA|5|2
+39111583|irvine, ca|0|Error|1|2
+16619881|irvine, california|34783473|Error|1|2
+30274205|irvine, ca|28061932|Twitter|3|2
+30274205|irvine, ca|30943685|Bay Area, CA|3|2
+30274205|irvine, ca|18220175|EVERYWHERE!!!|3|2
+30274205|irvine, ca|16190898|Los Angeles, CA|1|2
+30274205|irvine, ca|20179403|Error|1|2
+30274205|irvine, ca|21447363|Error|1|2
+30274205|irvine, ca|0|Error|1|2
+30274205|irvine, ca|23804345|Los Angeles, California|1|2
+30274205|irvine, ca|25166595|Chicago, IL|1|2
+30274205|irvine, ca|19549779|LA.818.thevalley.|1|2
+15603412|irvine, ca|20562786|Irvine, California|1|2
+15603412|irvine, ca|50441616|Irvine, California|1|2
+15603412|irvine, ca|13003712|Vegas|1|2
+15603412|irvine, ca|19669207|Irvine, Calif.|1|2
+18830022|irvine, ca|24854633|Orange County, Ca|1|2
+18830022|irvine, ca|0|Error|1|2
+18830022|irvine, ca|0|Error|1|2
+15693354|irvine, ca|0|Error|1|2
+15693354|irvine, ca|972651|Error|1|2
+15693354|irvine, ca|16674572|Lake Arrowhead, CA|1|2
+15693354|irvine, ca|8453452|Silicon Valley, California|1|2
+15693354|irvine, ca|28374435|Long Beach, San Francisco|1|2

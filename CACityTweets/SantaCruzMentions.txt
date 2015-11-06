@@ -1,0 +1,896 @@
+22547252|santa cruz, ca|33576232|Los Angeles|6|2
+22547252|santa cruz, ca|85660998|Bay Area, CA|3|2
+22547252|santa cruz, ca|31548208|Culver City|2|2
+22547252|santa cruz, ca|49535266|San Diego|1|2
+22547252|santa cruz, ca|1656841507|Error|1|2
+22547252|santa cruz, ca|31829199|Silverlake, Noho.|1|2
+22547252|santa cruz, ca|11104732|ATX|1|2
+22547252|santa cruz, ca|7066672|Los Angeles|1|2
+22547252|santa cruz, ca|61627015|Los Angeles|1|2
+22547252|santa cruz, ca|30415545|Santa Clara|1|2
+22547252|santa cruz, ca|42484287|Error|1|2
+17699815|santa cruz, california|0|Error|2|2
+17699815|santa cruz, california|0|Error|1|2
+69604419|santa cruz, ca|0|Error|1|2
+69604419|santa cruz, ca|0|Error|1|2
+69604419|santa cruz, ca|62581962|Error|1|2
+69604419|santa cruz, ca|48740825|Santa Cruz, CA|1|2
+69604419|santa cruz, ca|67943192|Bay Area|1|2
+69604419|santa cruz, ca|15222653|hoodie land, CA, USA|1|2
+69604419|santa cruz, ca|167164759|Error|1|2
+5583|santa cruz, ca|18548221|Los Angeles|3|2
+5583|santa cruz, ca|5039|Northampton Mass.|1|2
+5583|santa cruz, ca|0|Error|1|2
+40939593|santa cruz, ca|14140420|Austin, TX|5|2
+40939593|santa cruz, ca|14792680|Los Angeles, California USA|2|2
+40939593|santa cruz, ca|56806629|Santa Cruz, CA|2|2
+40939593|santa cruz, ca|173850018|Error|1|2
+40939593|santa cruz, ca|17855061|Reno, NV|1|2
+40939593|santa cruz, ca|0|Error|1|2
+40939593|santa cruz, ca|972651|Error|1|2
+40939593|santa cruz, ca|15582643|Chardon, OH|1|2
+40939593|santa cruz, ca|22519253|Sunnyvale, CA|1|2
+40939593|santa cruz, ca|0|Error|1|2
+40939593|santa cruz, ca|597836338|North West Arkansas|1|2
+40939593|santa cruz, ca|17068617|Pearland  TX|1|2
+40939593|santa cruz, ca|11295352|Jackson, MS|1|2
+40939593|santa cruz, ca|17127294|Petaluma, CA|1|2
+40939593|santa cruz, ca|3041201|Sweet Home Alabama|1|2
+40939593|santa cruz, ca|15213661|San Diego, CA|1|2
+40939593|santa cruz, ca|14304083|RTP, NC|1|2
+40939593|santa cruz, ca|61590775|San Francisco Bay Area|1|2
+40939593|santa cruz, ca|5452712|Katy, TX|1|2
+40939593|santa cruz, ca|56800081|Santa Cruz, CA|1|2
+40939593|santa cruz, ca|23097023|Mountain View, CA|1|2
+40939593|santa cruz, ca|18337683|Sunnyvale, California|1|2
+40939593|santa cruz, ca|14132188|Pittsburgh, PA|1|2
+5907932|santa cruz, ca|14793674|San Francisco|6|2
+5907932|santa cruz, ca|14289937|Seattle, WA|3|2
+5907932|santa cruz, ca|12528|San Francisco, CA|2|2
+5907932|santa cruz, ca|16802731|Dallas, Texas|2|2
+5907932|santa cruz, ca|15911225|Los Angeles|2|2
+5907932|santa cruz, ca|746323|New York|2|2
+5907932|santa cruz, ca|796135|Bristol|1|2
+5907932|santa cruz, ca|2762949555|Error|1|2
+5907932|santa cruz, ca|756110|Rochester, NY|1|2
+5907932|santa cruz, ca|0|Error|1|2
+5907932|santa cruz, ca|1565991|Auckland|1|2
+5907932|santa cruz, ca|14803701|Everywhere|1|2
+5907932|santa cruz, ca|14098757|San Francisco, CA|1|2
+5907932|santa cruz, ca|31576785|Cali, Colombia|1|2
+5907932|santa cruz, ca|781730|Astoria, NY|1|2
+5907932|santa cruz, ca|12582082|Santa Cruz, CA|1|2
+5907932|santa cruz, ca|14422773|iPhone: 37.796478,-122.399979|1|2
+5907932|santa cruz, ca|21140611|Error|1|2
+5907932|santa cruz, ca|756466|Portland, OR|1|2
+17053116|santa cruz, california|0|Error|1|2
+17053116|santa cruz, california|16531600|brooklyn, ny|1|2
+17053116|santa cruz, california|16496063|Lawrenceville, GA|1|2
+17053116|santa cruz, california|417880595|Error|1|2
+17053116|santa cruz, california|29644185|Error|1|2
+17053116|santa cruz, california|15802031|New York, NY|1|2
+17053116|santa cruz, california|14634937|with your sister, Malaysia|1|2
+17053116|santa cruz, california|31469453| Washington DC|1|2
+39860972|santa cruz, ca|12354252|Silicon Valley | Paris|1|2
+15221710|santa cruz, ca|0|Error|2|2
+15221710|santa cruz, ca|0|Error|2|2
+15221710|santa cruz, ca|22007499|Error|2|2
+15221710|santa cruz, ca|0|Error|1|2
+15221710|santa cruz, ca|0|Error|1|2
+15221710|santa cruz, ca|0|Error|1|2
+15221710|santa cruz, ca|0|Error|1|2
+15221710|santa cruz, ca|0|Error|1|2
+15221710|santa cruz, ca|0|Error|1|2
+44451746|santa cruz, ca|30406287|Error|5|2
+44451746|santa cruz, ca|245083582|Error|4|2
+44451746|santa cruz, ca|43625781|4215 E. Columbus Dr. Tampa, FL|2|2
+44451746|santa cruz, ca|325185686|Error|2|2
+44451746|santa cruz, ca|48740825|Santa Cruz, CA|2|2
+44451746|santa cruz, ca|37862072|California|1|2
+44451746|santa cruz, ca|38511266|Fairfield, CT|1|2
+44451746|santa cruz, ca|0|Error|1|2
+44451746|santa cruz, ca|0|Error|1|2
+44451746|santa cruz, ca|21879024|San Diego & world at large|1|2
+44451746|santa cruz, ca|36883175|Error|1|2
+44451746|santa cruz, ca|15001089|Redwood City, CA|1|2
+44451746|santa cruz, ca|0|Error|1|2
+44451746|santa cruz, ca|27930135|Error|1|2
+44451746|santa cruz, ca|0|Error|1|2
+44451746|santa cruz, ca|45518674|Anaheim, CA|1|2
+44451746|santa cruz, ca|43331208|Tampa, Florida|1|2
+44451746|santa cruz, ca|813286|Washington, DC|1|2
+44451746|santa cruz, ca|0|Error|1|2
+44451746|santa cruz, ca|56211657|BC. |1|2
+44451746|santa cruz, ca|0|Error|1|2
+44451746|santa cruz, ca|0|Error|1|2
+44451746|santa cruz, ca|50153512|Los Angeles|1|2
+6703032|santa cruz, ca|36589531|san francisco, ca|3|2
+6703032|santa cruz, ca|33999870|San Jose|2|2
+6703032|santa cruz, ca|18147910|Manhattan|2|2
+6703032|santa cruz, ca|18861611|The RRV, Norcal.|2|2
+6703032|santa cruz, ca|25632104|Paris, France|1|2
+6703032|santa cruz, ca|15421042|Bay Area, California|1|2
+6703032|santa cruz, ca|19950572|Oakland, CA|1|2
+6703032|santa cruz, ca|21783645|iPhone: 37.756951,-122.421226|1|2
+6703032|santa cruz, ca|0|Error|1|2
+6703032|santa cruz, ca|0|Error|1|2
+6703032|santa cruz, ca|22703187|San Francisco|1|2
+6703032|santa cruz, ca|2117531|Sacramento, CA|1|2
+67654514|santa cruz, ca|0|Error|2|2
+18895807|santa cruz, ca|86578892|New Delhi|4|2
+18895807|santa cruz, ca|26797727|Mumbai|3|2
+18895807|santa cruz, ca|80945377|Eastern UP|2|2
+18895807|santa cruz, ca|18206764|San Francisco|2|2
+18895807|santa cruz, ca|25177041|UCSC|2|2
+18895807|santa cruz, ca|0|Error|2|2
+18895807|santa cruz, ca|27362521|Error|1|2
+18895807|santa cruz, ca|0|Error|1|2
+18895807|santa cruz, ca|38130529|New Delhi|1|2
+18895807|santa cruz, ca|6334512|Error|1|2
+18895807|santa cruz, ca|0|Error|1|2
+18895807|santa cruz, ca|0|Error|1|2
+18895807|santa cruz, ca|759251|Error|1|2
+18895807|santa cruz, ca|0|Error|1|2
+18110520|santa cruz, ca|0|Error|7|2
+18110520|santa cruz, ca|196312516|Error|3|2
+18110520|santa cruz, ca|13169612|The Santa Ana River Delta|2|2
+18110520|santa cruz, ca|3042534054|Error|1|2
+18110520|santa cruz, ca|3389513705|Error|1|2
+18110520|santa cruz, ca|194185069|Tu consiencia|1|2
+18110520|santa cruz, ca|0|Error|1|2
+18110520|santa cruz, ca|26280325|Error|1|2
+18110520|santa cruz, ca|0|Error|1|2
+18110520|santa cruz, ca|25968512|Error|1|2
+18110520|santa cruz, ca|83783442|The Untied Stats of Amercia. |1|2
+18110520|santa cruz, ca|1115666846|New Delhi, India|1|2
+18110520|santa cruz, ca|92839314|Error|1|2
+18110520|santa cruz, ca|0|Error|1|2
+18110520|santa cruz, ca|0|Error|1|2
+18110520|santa cruz, ca|2843505402|Error|1|2
+18110520|santa cruz, ca|0|Error|1|2
+18110520|santa cruz, ca|40423090|Error|1|2
+18110520|santa cruz, ca|46562358|Error|1|2
+18110520|santa cruz, ca|0|Error|1|2
+18110520|santa cruz, ca|18110520|Santa Cruz, CA|1|2
+18110520|santa cruz, ca|0|Error|1|2
+18110520|santa cruz, ca|128866417|Error|1|2
+18110520|santa cruz, ca|0|Error|1|2
+18110520|santa cruz, ca|151991579|Error|1|2
+18110520|santa cruz, ca|44957011|Portland, Oregon|1|2
+16715739|santa cruz, california|79543|Silicon Valley, CA|3|2
+16715739|santa cruz, california|13348|Half Moon Bay, California, USA|2|2
+16715739|santa cruz, california|746323|New York|2|2
+16715739|santa cruz, california|14263740|Los Angeles, Ca.|1|2
+16715739|santa cruz, california|17266725|USA|1|2
+16715739|santa cruz, california|80839532|Error|1|2
+16715739|santa cruz, california|16245064|Palo Alto, CA|1|2
+16715739|santa cruz, california|15932617|Santa Cruz, CA|1|2
+16715739|santa cruz, california|0|Error|1|2
+16715739|santa cruz, california|13259702|San Francisco|1|2
+16715739|santa cruz, california|0|Error|1|2
+16715739|santa cruz, california|14990608|India|1|2
+16715739|santa cruz, california|0|Error|1|2
+16715739|santa cruz, california|10318542|San Francisco|1|2
+27946955|santa cruz, ca|19503553|Twitter Vineyard /USA /CANADA|3|2
+27946955|santa cruz, ca|3307407595|Error|2|2
+27946955|santa cruz, ca|68846846|Santa Cruz, CA, USA|2|2
+27946955|santa cruz, ca|42872503|Error|2|2
+27946955|santa cruz, ca|11403462|S. Burlington, VT|2|2
+27946955|santa cruz, ca|327711112|Bonny Doon, CA|1|2
+27946955|santa cruz, ca|0|Error|1|2
+27946955|santa cruz, ca|14718120|Redwood City, CA|1|2
+27946955|santa cruz, ca|10867|Maui Hawaii, Global|1|2
+27946955|santa cruz, ca|655663|Error|1|2
+27946955|santa cruz, ca|0|Error|1|2
+27946955|santa cruz, ca|27637084|Toronto Canada|1|2
+27946955|santa cruz, ca|20683299|Spain|1|2
+27946955|santa cruz, ca|22571645|Earth|1|2
+27946955|santa cruz, ca|0|Error|1|2
+27946955|santa cruz, ca|807095|New York City|1|2
+27946955|santa cruz, ca|35263077|San Francisco, CA|1|2
+27946955|santa cruz, ca|14193787|West Palm Beach, FL|1|2
+27946955|santa cruz, ca|28167824|Canada |1|2
+27946955|santa cruz, ca|20258334|Global|1|2
+27946955|santa cruz, ca|813286|Washington, DC|1|2
+27946955|santa cruz, ca|466532637|Warren, Ohio|1|2
+27946955|santa cruz, ca|0|Error|1|2
+28864634|santa cruz, california|2901882510|Error|1|2
+73011920|santa cruz, california|945859693|Error|3|2
+73011920|santa cruz, california|0|Error|2|2
+73011920|santa cruz, california|0|Error|1|2
+73011920|santa cruz, california|5017|Silicon Valley|1|2
+73011920|santa cruz, california|252218335|Philadelphia, PA|1|2
+73011920|santa cruz, california|76157213|Worldwide|1|2
+73011920|santa cruz, california|30578360|Santa Cruz County, CA|1|2
+73011920|santa cruz, california|2601311|Error|1|2
+73011920|santa cruz, california|53153263|Error|1|2
+73011920|santa cruz, california|2166385369|Error|1|2
+73011920|santa cruz, california|18462064|Long Island, NY|1|2
+73011920|santa cruz, california|19397785|Error|1|2
+73011920|santa cruz, california|11267132|Error|1|2
+73011920|santa cruz, california|38889446|St Pete Beach|1|2
+73011920|santa cruz, california|0|Error|1|2
+73011920|santa cruz, california|346786674|Error|1|2
+73011920|santa cruz, california|48326068|Global|1|2
+73011920|santa cruz, california|2165516874|Error|1|2
+73011920|santa cruz, california|38798184|Error|1|2
+73011920|santa cruz, california|16228699|Los Angeles, CA|1|2
+73011920|santa cruz, california|0|Error|1|2
+73011920|santa cruz, california|61638411|Greater Boston, MA (USA)|1|2
+73011920|santa cruz, california|65349419|Midland,NC|1|2
+73011920|santa cruz, california|0|Error|1|2
+73011920|santa cruz, california|36528126|Hollywood|1|2
+73011920|santa cruz, california|15846407|California|1|2
+73011920|santa cruz, california|2166430543|Error|1|2
+19207045|santa cruz, ca|15981370|Brooklyn|1|2
+19207045|santa cruz, ca|36929352|Appleton, WI, USA|1|2
+19207045|santa cruz, ca|0|Error|1|2
+19207045|santa cruz, ca|3215342550|London, Essex|1|2
+19207045|santa cruz, ca|19207045|Santa Cruz, CA|1|2
+21216819|santa cruz, ca|8476352|iPhone: 33.022247,-96.794838|2|2
+21216819|santa cruz, ca|65774945|Navarre, FL|1|2
+68581025|santa cruz, ca|17266725|USA|1|2
+16549129|santa cruz, ca|17471614|33 locations in CA|2|2
+16549129|santa cruz, ca|15159099|Alameda, CA|2|2
+16549129|santa cruz, ca|11883132|San Francisco|2|2
+16549129|santa cruz, ca|21217761|Error|1|2
+16549129|santa cruz, ca|7134102|San Francisco|1|2
+16549129|santa cruz, ca|14803701|Everywhere|1|2
+16549129|santa cruz, ca|10252432|SF, PDX, Boulder|1|2
+16549129|santa cruz, ca|15932617|Santa Cruz, CA|1|2
+16549129|santa cruz, ca|16449603|Santa Cruz, CA|1|2
+16549129|santa cruz, ca|14389031|Toronto, Ontario, Canada|1|2
+16549129|santa cruz, ca|11028352|San Francisco|1|2
+16549129|santa cruz, ca|260064466|Error|1|2
+16549129|santa cruz, ca|15126388|Cambridge|1|2
+16549129|santa cruz, ca|1201491|Woodstock, IL|1|2
+16549129|santa cruz, ca|15248843|Phoenix, AZ|1|2
+46696539|santa cruz, ca|61590775|San Francisco Bay Area|6|2
+46696539|santa cruz, ca|16187120|SF Bay Area|5|2
+46696539|santa cruz, ca|10202|Boston, MA|4|2
+46696539|santa cruz, ca|12797|St. Louis, Mo|4|2
+46696539|santa cruz, ca|14533032|Error|4|2
+46696539|santa cruz, ca|972651|Error|2|2
+46696539|santa cruz, ca|24791859|Washington DC region|2|2
+46696539|santa cruz, ca|14079408|Austin, TX (!)|2|2
+46696539|santa cruz, ca|0|Error|1|2
+46696539|santa cruz, ca|45439216|Error|1|2
+46696539|santa cruz, ca|0|Error|1|2
+46696539|santa cruz, ca|0|Error|1|2
+46696539|santa cruz, ca|17941539|BK, NY|1|2
+46696539|santa cruz, ca|0|Error|1|2
+46696539|santa cruz, ca|56806629|Santa Cruz, CA|1|2
+46696539|santa cruz, ca|0|Error|1|2
+46696539|santa cruz, ca|31311757|Error|1|2
+46696539|santa cruz, ca|5452712|Katy, TX|1|2
+46696539|santa cruz, ca|16002550|Olean NY|1|2
+46696539|santa cruz, ca|0|Error|1|2
+46696539|santa cruz, ca|17583639|Silicon Valley|1|2
+46696539|santa cruz, ca|0|Error|1|2
+46696539|santa cruz, ca|0|Error|1|2
+20868566|santa cruz, california|260994456|Error|5|2
+20868566|santa cruz, california|0|Error|3|2
+20868566|santa cruz, california|2363713115|Error|3|2
+20868566|santa cruz, california|0|Error|3|2
+20868566|santa cruz, california|22333157|Chicago|2|2
+20868566|santa cruz, california|27750488|Los Angeles, CA|2|2
+20868566|santa cruz, california|16573745|Error|1|2
+20868566|santa cruz, california|0|Error|1|2
+20868566|santa cruz, california|23212352|Below the Mason Dixon|1|2
+20868566|santa cruz, california|21111883|DALLAS/LA|1|2
+20868566|santa cruz, california|16190898|Los Angeles, CA|1|2
+20868566|santa cruz, california|17249757|PA|1|2
+23239595|santa cruz, ca|0|Error|1|2
+23239595|santa cruz, ca|14230524|Error|1|2
+23239595|santa cruz, ca|44944701|Brasil|1|2
+23239595|santa cruz, ca|3959486240|Error|1|2
+23239595|santa cruz, ca|12861732|Chicago|1|2
+23239595|santa cruz, ca|14158101|Santa Cruz Cali BABY!|1|2
+23239595|santa cruz, ca|15755259|Miami|1|2
+23239595|santa cruz, ca|7644332|Santa Cruz, CA|1|2
+23239595|santa cruz, ca|29749448|Miami, Florida|1|2
+23239595|santa cruz, ca|4432431|Evanston, IL USA|1|2
+23239595|santa cruz, ca|84113864|Error|1|2
+23239595|santa cruz, ca|10166322|stratosphere|1|2
+23239595|santa cruz, ca|21334941|Left Coast|1|2
+23239595|santa cruz, ca|31226454|Brasil|1|2
+23239595|santa cruz, ca|1061692986|Error|1|2
+23239595|santa cruz, ca|23050699|Chicago|1|2
+23239595|santa cruz, ca|16355618|San Francisco, California|1|2
+23914637|santa cruz, california|17844776|CT|3|2
+23914637|santa cruz, california|0|Error|2|2
+23914637|santa cruz, california|0|Error|2|2
+23914637|santa cruz, california|17088835|St Louis|2|2
+23914637|santa cruz, california|19462713|St Albans|2|2
+23914637|santa cruz, california|0|Error|1|2
+23914637|santa cruz, california|81399274|Error|1|2
+23914637|santa cruz, california|37383590|England|1|2
+23914637|santa cruz, california|0|Error|1|2
+23914637|santa cruz, california|11155492|52.09022,4.312522|1|2
+23914637|santa cruz, california|51651997|Western US|1|2
+23914637|santa cruz, california|15491747|Harlow, UK|1|2
+23914637|santa cruz, california|50887239|Error|1|2
+23914637|santa cruz, california|0|Error|1|2
+9632452|santa cruz, california|884301|Ashburn, VA|2|2
+9632452|santa cruz, california|2307776510|Error|1|2
+9632452|santa cruz, california|20869789|Danbury, Conn.|1|2
+38730797|santa cruz, ca|71826841|San Jose, CA|1|2
+38730797|santa cruz, ca|17372314|Colorado|1|2
+38730797|santa cruz, ca|14426369|Salinas, CA|1|2
+17372411|santa cruz, ca|756302|Berkeley, CA|7|2
+17372411|santa cruz, ca|23358496|santa cruz, ca|4|2
+17372411|santa cruz, ca|14199355|Baltimore|2|2
+17372411|santa cruz, ca|74238944|DC|1|2
+17372411|santa cruz, ca|1688741|Seattle, WA|1|2
+17372411|santa cruz, ca|33147906|Somerville, MA|1|2
+17372411|santa cruz, ca|26621475|Boulder, CO|1|2
+17372411|santa cruz, ca|365017573|Error|1|2
+19470254|santa cruz, ca|12582082|Santa Cruz, CA|6|2
+19470254|santa cruz, ca|25512321|Curitiba, Brazil|2|2
+19470254|santa cruz, ca|58244097|Arizona|2|2
+19470254|santa cruz, ca|0|Error|2|2
+19470254|santa cruz, ca|276193049|Error|2|2
+19470254|santa cruz, ca|17503069|Palo Alto, CA|1|2
+19470254|santa cruz, ca|14422705|San Francisco|1|2
+19470254|santa cruz, ca|0|Error|1|2
+19470254|santa cruz, ca|14098757|San Francisco, CA|1|2
+19470254|santa cruz, ca|25046744|NYC|1|2
+19470254|santa cruz, ca|631583|San Diego, CA|1|2
+19470254|santa cruz, ca|0|Error|1|2
+19470254|santa cruz, ca|14253565|New York|1|2
+19470254|santa cruz, ca|756466|Portland, OR|1|2
+19470254|santa cruz, ca|816653|San Francisco, CA|1|2
+19470254|santa cruz, ca|11018442|United States|1|2
+19470254|santa cruz, ca|184855354|Error|1|2
+19470254|santa cruz, ca|35178084|san jose, ca|1|2
+19470254|santa cruz, ca|103068899|Error|1|2
+19470254|santa cruz, ca|14136986|Denver|1|2
+19470254|santa cruz, ca|134725091|Error|1|2
+19470254|santa cruz, ca|0|Error|1|2
+19470254|santa cruz, ca|0|Error|1|2
+19470254|santa cruz, ca|0|Error|1|2
+23012997|santa cruz, ca|0|Error|2|2
+23012997|santa cruz, ca|0|Error|1|2
+23012997|santa cruz, ca|0|Error|1|2
+23012997|santa cruz, ca|0|Error|1|2
+23012997|santa cruz, ca|0|Error|1|2
+16197462|santa cruz, ca|14605505|San Francisco|2|2
+16197462|santa cruz, ca|10579912|santa cruz mountains|1|2
+19564795|santa cruz, california|26951655|Calibama|1|2
+19564795|santa cruz, california|16878824|Los Angeles|1|2
+19564795|santa cruz, california|0|Error|1|2
+19564795|santa cruz, california|0|Error|1|2
+1260231|santa cruz, ca|33423|Philadelphia|4|2
+1260231|santa cruz, ca|184678968|Florida|2|2
+1260231|santa cruz, ca|13599812|Vancouver|2|2
+1260231|santa cruz, ca|14206068|San Francisco, CA, USA|2|2
+1260231|santa cruz, ca|35474533|Essex|2|2
+1260231|santa cruz, ca|74098848|Cupertino, CA|2|2
+1260231|santa cruz, ca|15267898|Ireland|2|2
+1260231|santa cruz, ca|164929328|USA|1|2
+1260231|santa cruz, ca|679083|iPhone: 40.691305,-74.027127|1|2
+1260231|santa cruz, ca|15480900|Tokyo, Japan|1|2
+1260231|santa cruz, ca|0|Error|1|2
+1260231|santa cruz, ca|22077320|San Antonio, Tx|1|2
+1260231|santa cruz, ca|4216361|Palo Alto, CA|1|2
+1260231|santa cruz, ca|12121792|Long Island, NY|1|2
+1260231|santa cruz, ca|8027732|Prague, CZ|1|2
+1260231|santa cruz, ca|325399551|Spring Park, MN|1|2
+1260231|santa cruz, ca|0|Error|1|2
+1260231|santa cruz, ca|23618669|Pittsburgh, PA|1|2
+1260231|santa cruz, ca|49421999|New Orleans|1|2
+1260231|santa cruz, ca|43183|San Jose, CA|1|2
+1260231|santa cruz, ca|1017280650|Error|1|2
+1260231|santa cruz, ca|644603|United Kingdom|1|2
+1260231|santa cruz, ca|17424954|Deventer, Overijssel|1|2
+1260231|santa cruz, ca|17658643|New York |1|2
+1260231|santa cruz, ca|14618789|columbia, sc|1|2
+1260231|santa cruz, ca|15773170|Cupertino, CA|1|2
+1260231|santa cruz, ca|0|Error|1|2
+1260231|santa cruz, ca|811530|Cali|1|2
+1260231|santa cruz, ca|60673185|Berlin|1|2
+1260231|santa cruz, ca|9787472|New York City|1|2
+1260231|santa cruz, ca|0|Error|1|2
+1260231|santa cruz, ca|41134839|Phoenix, AZ|1|2
+1260231|santa cruz, ca|1186|San Francisco|1|2
+1260231|santa cruz, ca|0|Error|1|2
+1260231|santa cruz, ca|18350383|Phoenix|1|2
+1260231|santa cruz, ca|2608101|Sydney, NSW|1|2
+1260231|santa cruz, ca|33192951|Fuquay-Varina, NC.|1|2
+1260231|santa cruz, ca|13801912|San Francisco, CA|1|2
+1260231|santa cruz, ca|22305130|Liverpool, England|1|2
+1260231|santa cruz, ca|21261782|Anaheim, CA |1|2
+1260231|santa cruz, ca|19245821|Orlando, FL|1|2
+1260231|santa cruz, ca|29052235|Palo Alto, CA|1|2
+1260231|santa cruz, ca|0|Error|1|2
+1260231|santa cruz, ca|7238432|Vienna, Austria|1|2
+1260231|santa cruz, ca|1685011|New York|1|2
+1260231|santa cruz, ca|14320642|Las Vegas, NV|1|2
+1260231|santa cruz, ca|15392765|Huntington Beach, CA 92647|1|2
+1260231|santa cruz, ca|7549272|San Francisco|1|2
+1260231|santa cruz, ca|14456539|Error|1|2
+1260231|santa cruz, ca|95259104|Error|1|2
+1260231|santa cruz, ca|135366935|Error|1|2
+1260231|santa cruz, ca|94654694|Northumberland, England, uk|1|2
+1260231|santa cruz, ca|18858937|Tel Aviv|1|2
+1260231|santa cruz, ca|18154048|Nashville/San Diego|1|2
+1260231|santa cruz, ca|17966966|Langley, BC, Canada|1|2
+1260231|santa cruz, ca|41783|Portland|1|2
+1260231|santa cruz, ca|18853916|Brooklyn, NY|1|2
+1260231|santa cruz, ca|15475506|Mexico, D.F.|1|2
+35339571|santa cruz, ca|26760652|Pittsburgh|1|2
+14240177|santa cruz, california|16643696|California, USA|3|2
+14240177|santa cruz, california|14443870|Near Philadelphia, PA USA|2|2
+14240177|santa cruz, california|780382|Grand Rapids MI|2|2
+14240177|santa cruz, california|12211652|iPhone: 52.049244,4.337711|1|2
+14240177|santa cruz, california|838793388|Error|1|2
+14240177|santa cruz, california|30845064|Paragould, AR|1|2
+14240177|santa cruz, california|1699751|Seattle, WA|1|2
+14240177|santa cruz, california|8087792|santa cruz|1|2
+14240177|santa cruz, california|3709051|Austin, TX|1|2
+14240177|santa cruz, california|6527972|Seattle, WA|1|2
+14240177|santa cruz, california|14512702|Error|1|2
+14240177|santa cruz, california|8385512|NYC | New Jersey|1|2
+14240177|santa cruz, california|8350042|Vancouver, BC|1|2
+14240177|santa cruz, california|1359731|Miami, Florida|1|2
+14240177|santa cruz, california|0|Error|1|2
+14240177|santa cruz, california|0|Error|1|2
+14240177|santa cruz, california|15455805|Error|1|2
+14240177|santa cruz, california|2821056675|California, USA|1|2
+14240177|santa cruz, california|14211504|Menlo Park, CA, USA|1|2
+14240177|santa cruz, california|15250935|iPhone: 33.457581,-86.815125|1|2
+14240177|santa cruz, california|176549696|Here. There. Everywhere.|1|2
+14240177|santa cruz, california|0|Error|1|2
+14240177|santa cruz, california|31509818|Colorado, USA|1|2
+14240177|santa cruz, california|0|Error|1|2
+14240177|santa cruz, california|0|Error|1|2
+14240177|santa cruz, california|0|Error|1|2
+14171061|santa cruz, ca|804573|Silicon Valley|6|2
+14171061|santa cruz, ca|16194469|Bay Area, LA, Chicago|6|2
+14171061|santa cruz, ca|16593362|US & Canada|2|2
+14171061|santa cruz, ca|16375096|Salinas, CA|2|2
+14171061|santa cruz, ca|0|Error|1|2
+14171061|santa cruz, ca|14076231|The World|1|2
+14171061|santa cruz, ca|13352|San Francisco|1|2
+14171061|santa cruz, ca|0|Error|1|2
+14171061|santa cruz, ca|3936151|Starfleet Academy, California|1|2
+14171061|santa cruz, ca|712653|Santa Cruz, California|1|2
+14171061|santa cruz, ca|197532095|Error|1|2
+14171061|santa cruz, ca|16549129|Santa Cruz, CA|1|2
+14171061|santa cruz, ca|7093352|San Francisco, CA|1|2
+14171061|santa cruz, ca|14367669|San Francisco|1|2
+14171061|santa cruz, ca|8453452|Silicon Valley, California|1|2
+14171061|santa cruz, ca|76469349|Atlanta, Ga|1|2
+14171061|santa cruz, ca|74673|San Francisco|1|2
+14171061|santa cruz, ca|0|Error|1|2
+14171061|santa cruz, ca|0|Error|1|2
+14171061|santa cruz, ca|6114542|iPhone: 37.767800,-122.431086|1|2
+14171061|santa cruz, ca|14230524|Error|1|2
+14171061|santa cruz, ca|1336231|Palo Alto, California|1|2
+14171061|santa cruz, ca|0|Error|1|2
+14171061|santa cruz, ca|0|Error|1|2
+14171061|santa cruz, ca|770729|San Francisco|1|2
+14171061|santa cruz, ca|0|Error|1|2
+14171061|santa cruz, ca|4641021|World Wide Web|1|2
+14171061|santa cruz, ca|245016770|Error|1|2
+14171061|santa cruz, ca|5695942|New York, NY|1|2
+14171061|santa cruz, ca|0|Error|1|2
+14171061|santa cruz, ca|0|Error|1|2
+14171061|santa cruz, ca|17633994|San Francisco|1|2
+14171061|santa cruz, ca|2468281111|Error|1|2
+19623187|santa cruz, ca|209172057|Error|3|2
+19623187|santa cruz, ca|6076462|Error|2|2
+19623187|santa cruz, ca|0|Error|2|2
+19623187|santa cruz, ca|31353077|Los Angeles|1|2
+19623187|santa cruz, ca|15565717|Error|1|2
+19623187|santa cruz, ca|14602930|Berkeley, CA|1|2
+19623187|santa cruz, ca|333504325|Error|1|2
+19623187|santa cruz, ca|14578000|Scotts Valley, CA|1|2
+19623187|santa cruz, ca|25523965|Little Rock, Arkansas|1|2
+19623187|santa cruz, ca|712653|Santa Cruz, California|1|2
+19623187|santa cruz, ca|16331259|Escondido, CA|1|2
+19623187|santa cruz, ca|0|Error|1|2
+14355287|santa cruz, ca|14540128|Salem, Oregon|6|2
+14355287|santa cruz, ca|216044239|Franklin, TN|4|2
+14355287|santa cruz, ca|17577629|Waco, Texas|3|2
+14355287|santa cruz, ca|39417853|Ann Arbor, MI|3|2
+14355287|santa cruz, ca|2999560125|Error|1|2
+14355287|santa cruz, ca|471254019|Error|1|2
+14355287|santa cruz, ca|15818391|Taipei, Taiwan|1|2
+14355287|santa cruz, ca|16228398|Error|1|2
+14355287|santa cruz, ca|14852024|The Virginia Coast|1|2
+14355287|santa cruz, ca|10989442|McKinney, TX|1|2
+14355287|santa cruz, ca|696823|DES MOINES|1|2
+14355287|santa cruz, ca|0|Error|1|2
+14355287|santa cruz, ca|15792672|Dallas|1|2
+14355287|santa cruz, ca|16679760|Escondido, CA, USA|1|2
+14355287|santa cruz, ca|14089213|Atlanta, GA|1|2
+14355287|santa cruz, ca|21353704|SoCal|1|2
+756466|santa cruz, ca|816653|San Francisco, CA|4|2
+756466|santa cruz, ca|15998300|Los Angeles, CA|2|2
+756466|santa cruz, ca|86564892|Omaha, Nebraska|2|2
+756466|santa cruz, ca|15178948|Leeds, England, UK, Earth|2|2
+756466|santa cruz, ca|1966|San Francisco, California|2|2
+756466|santa cruz, ca|5696|California|1|2
+756466|santa cruz, ca|0|Error|1|2
+756466|santa cruz, ca|5907932|Santa Cruz, CA|1|2
+756466|santa cruz, ca|14257071|STL by heart - KC by GPS|1|2
+756466|santa cruz, ca|756057|Berkeley, CA|1|2
+756466|santa cruz, ca|696343|California|1|2
+756466|santa cruz, ca|14343852|Omaha, Nebraska|1|2
+756466|santa cruz, ca|0|Error|1|2
+756466|santa cruz, ca|1081|Silicon Valley, CA|1|2
+756466|santa cruz, ca|14208503|Nashville, TN|1|2
+756466|santa cruz, ca|22113|Santa Monica, CA|1|2
+756466|santa cruz, ca|17732153|HOLLYWOOD, U.S.A.|1|2
+756466|santa cruz, ca|20449344|In my own little bubble!|1|2
+756466|santa cruz, ca|13461|Portland, OR|1|2
+756466|santa cruz, ca|134665872|Error|1|2
+756466|santa cruz, ca|2172|New York City|1|2
+756466|santa cruz, ca|23137476|Austin|1|2
+756466|santa cruz, ca|63049873|San Jose, Ca|1|2
+756466|santa cruz, ca|917|Brooklyn, NY|1|2
+756466|santa cruz, ca|0|Error|1|2
+21729014|santa cruz, ca|11202742|In your dreams|4|2
+21729014|santa cruz, ca|0|Error|2|2
+21729014|santa cruz, ca|0|Error|1|2
+21729014|santa cruz, ca|0|Error|1|2
+21729014|santa cruz, ca|0|Error|1|2
+21729014|santa cruz, ca|0|Error|1|2
+21729014|santa cruz, ca|0|Error|1|2
+21729014|santa cruz, ca|0|Error|1|2
+21729014|santa cruz, ca|0|Error|1|2
+21729014|santa cruz, ca|0|Error|1|2
+21729014|santa cruz, ca|0|Error|1|2
+21729014|santa cruz, ca|0|Error|1|2
+16356305|santa cruz, ca|17957523|Xalo, Spain|2|2
+16356305|santa cruz, ca|40976508|Gilbert, Arizona|2|2
+16356305|santa cruz, ca|19320233|Sunny and beautiful Naples, FL|2|2
+16356305|santa cruz, ca|21647305|Texas|1|2
+16356305|santa cruz, ca|406332330|Error|1|2
+16356305|santa cruz, ca|0|Error|1|2
+16356305|santa cruz, ca|79752580|Northwest Indiana|1|2
+16356305|santa cruz, ca|33100230|Ohio|1|2
+16356305|santa cruz, ca|0|Error|1|2
+16356305|santa cruz, ca|0|Error|1|2
+16356305|santa cruz, ca|23506185|New York City|1|2
+16356305|santa cruz, ca|15930616|New York City|1|2
+16356305|santa cruz, ca|0|Error|1|2
+16356305|santa cruz, ca|23777198|Gulf Coast | Maui|1|2
+16356305|santa cruz, ca|17194763|Oregon|1|2
+16356305|santa cruz, ca|0|Error|1|2
+16356305|santa cruz, ca|19006664|Colorado|1|2
+16356305|santa cruz, ca|17161625|Los Angeles|1|2
+16356305|santa cruz, ca|16356305|Santa Cruz, CA|1|2
+16356305|santa cruz, ca|79142338|New York City|1|2
+16356305|santa cruz, ca|15423903|Old Orchard Beach, Maine|1|2
+16356305|santa cruz, ca|74314497|Columbia, SC|1|2
+16356305|santa cruz, ca|0|Error|1|2
+16356305|santa cruz, ca|15447066|Brooklyn|1|2
+16356305|santa cruz, ca|23170519|Pittsburgh, PA|1|2
+16356305|santa cruz, ca|0|Error|1|2
+16356305|santa cruz, ca|17488225|Minneapolis MN Minnesota|1|2
+16356305|santa cruz, ca|14208275|Vancouver, BC, Canada|1|2
+16356305|santa cruz, ca|20970158|Bali, Indonesia|1|2
+16356305|santa cruz, ca|0|Error|1|2
+16356305|santa cruz, ca|206004479|Error|1|2
+16356305|santa cruz, ca|15989069|Error|1|2
+16356305|santa cruz, ca|22752559|Error|1|2
+16356305|santa cruz, ca|18219116|Long Beach, CA 90803|1|2
+16356305|santa cruz, ca|20091019|Error|1|2
+16356305|santa cruz, ca|15639821|Birmingham, AL|1|2
+16356305|santa cruz, ca|22516489|Atlanta|1|2
+16356305|santa cruz, ca|20586227|Bangalore|1|2
+16356305|santa cruz, ca|3942881|Brighton, UK|1|2
+16356305|santa cruz, ca|16809352|worldwide|1|2
+16356305|santa cruz, ca|15364944|Middle Tennessee|1|2
+16356305|santa cruz, ca|0|Error|1|2
+16356305|santa cruz, ca|14828558|New York|1|2
+16356305|santa cruz, ca|0|Error|1|2
+54480442|santa cruz, california|381509365|Ruther Glen|2|2
+54480442|santa cruz, california|18378446|Baltimore, MD|1|2
+54480442|santa cruz, california|99552143|North Carolina|1|2
+54480442|santa cruz, california|0|Error|1|2
+54480442|santa cruz, california|1582233474|Error|1|2
+54480442|santa cruz, california|194310372|Error|1|2
+54480442|santa cruz, california|0|Error|1|2
+54480442|santa cruz, california|0|Error|1|2
+54480442|santa cruz, california|0|Error|1|2
+54480442|santa cruz, california|284352783|lost in the music|1|2
+54480442|santa cruz, california|0|Error|1|2
+684743|santa cruz, ca|1279741|Error|2|2
+684743|santa cruz, ca|65418265|San Francisco|2|2
+684743|santa cruz, ca|12892452|Minneapolis, MN|2|2
+684743|santa cruz, ca|4690301|Sydney, Australia|1|2
+684743|santa cruz, ca|16525528|London|1|2
+684743|santa cruz, ca|844|Home base is Boston|1|2
+684743|santa cruz, ca|15558635|Bay Area, CA, USA|1|2
+684743|santa cruz, ca|0|Error|1|2
+684743|santa cruz, ca|794544|Sunnyvale, CA|1|2
+684743|santa cruz, ca|0|Error|1|2
+684743|santa cruz, ca|48803|London|1|2
+684743|santa cruz, ca|321060823|Toronto, Canada|1|2
+684743|santa cruz, ca|1734381|Australia|1|2
+684743|santa cruz, ca|761613|Berkeley, California|1|2
+684743|santa cruz, ca|10750482|San Francisco|1|2
+684743|santa cruz, ca|13519422|Error|1|2
+684743|santa cruz, ca|14767228|Error|1|2
+684743|santa cruz, ca|17462723|Everywhere|1|2
+684743|santa cruz, ca|14322273|Boxtel, The Netherlands|1|2
+684743|santa cruz, ca|0|Error|1|2
+14666440|santa cruz, california|15409936|Santa Cruz Mountains Ca.|2|2
+14666440|santa cruz, california|24589910|Santa Cruz, CA|2|2
+14666440|santa cruz, california|0|Error|2|2
+14666440|santa cruz, california|16986635|Earth|1|2
+14666440|santa cruz, california|16339776|Santa Cruz, California|1|2
+14666440|santa cruz, california|13055232|Error|1|2
+14666440|santa cruz, california|73773583|Error|1|2
+16632524|santa cruz, california|16549129|Santa Cruz, CA|2|2
+16632524|santa cruz, california|8844402|Toronto|1|2
+16632524|santa cruz, california|0|Error|1|2
+16632524|santa cruz, california|0|Error|1|2
+16632524|santa cruz, california|198958679|Error|1|2
+16632524|santa cruz, california|16256590|Marietta, Georgia, USA|1|2
+13236022|santa cruz, ca|0|Error|2|2
+13236022|santa cruz, ca|0|Error|2|2
+13236022|santa cruz, ca|29369271|Fairfield, Iowa|1|2
+13236022|santa cruz, ca|0|Error|1|2
+13236022|santa cruz, ca|14200904|Laguna Niguel, California|1|2
+13236022|santa cruz, ca|0|Error|1|2
+13236022|santa cruz, ca|22256645|Ireland|1|2
+13236022|santa cruz, ca|0|Error|1|2
+13236022|santa cruz, ca|16721263|Seattle|1|2
+13236022|santa cruz, ca|17796523|Chicago 'burbs|1|2
+13236022|santa cruz, ca|10373972|Portland, OR and the World|1|2
+13236022|santa cruz, ca|0|Error|1|2
+13236022|santa cruz, ca|0|Error|1|2
+13236022|santa cruz, ca|13614|Error|1|2
+13236022|santa cruz, ca|0|Error|1|2
+13236022|santa cruz, ca|0|Error|1|2
+13236022|santa cruz, ca|0|Error|1|2
+13236022|santa cruz, ca|14648962|Regina and Waterloo|1|2
+13236022|santa cruz, ca|0|Error|1|2
+13236022|santa cruz, ca|16000551|Houston|1|2
+13236022|santa cruz, ca|6548932|Cambridge, MA|1|2
+13236022|santa cruz, ca|16725666|Oakland CA|1|2
+13236022|santa cruz, ca|0|Error|1|2
+13236022|santa cruz, ca|0|Error|1|2
+8514902|santa cruz, ca|9951052|San Josie!|3|2
+8514902|santa cruz, ca|14779719|Toowoomba|3|2
+8514902|santa cruz, ca|844631|Silicon Valley, Ca.|3|2
+8514902|santa cruz, ca|10846482|Austin, Texas|2|2
+8514902|santa cruz, ca|14762127|Cupertino, CA|2|2
+8514902|santa cruz, ca|0|Error|2|2
+8514902|santa cruz, ca|972651|Error|1|2
+8514902|santa cruz, ca|37099008|Bay Area, California|1|2
+8514902|santa cruz, ca|30123299|Washington, DC|1|2
+8514902|santa cruz, ca|15486236|iPhone: 0.000000,0.000000|1|2
+8514902|santa cruz, ca|61282418|Watsonville, CA|1|2
+8514902|santa cruz, ca|3829151|Petaluma, CA USA|1|2
+8514902|santa cruz, ca|13348|Half Moon Bay, California, USA|1|2
+8514902|santa cruz, ca|19910492|Los Angeles, CA|1|2
+8514902|santa cruz, ca|2787551|Gone to the dogs, USA|1|2
+8514902|santa cruz, ca|14058301|Error|1|2
+8514902|santa cruz, ca|14390225|New York, NY|1|2
+8514902|santa cruz, ca|393570689|Austin, TX|1|2
+8514902|santa cruz, ca|24657520|bay area|1|2
+8514902|santa cruz, ca|816653|San Francisco, CA|1|2
+8514902|santa cruz, ca|15944875|London|1|2
+20049809|santa cruz, ca|9943872|San Francisco, CA|4|2
+20049809|santa cruz, ca|27602393|iPhone: 38.571175,-121.478554|4|2
+20049809|santa cruz, ca|14670507|Yuba City, California|2|2
+20049809|santa cruz, ca|19059222|Los Angeles, Ca|2|2
+20049809|santa cruz, ca|15604575|Hollywoodland|1|2
+26182650|santa cruz, ca|17635282|Bay Area|4|2
+26182650|santa cruz, ca|0|Error|2|2
+26182650|santa cruz, ca|3742697417|Error|1|2
+26182650|santa cruz, ca|16135012|San Diego|1|2
+26182650|santa cruz, ca|0|Error|1|2
+26182650|santa cruz, ca|0|Error|1|2
+26182650|santa cruz, ca|21736715|Santa Cruz, CA|1|2
+12582082|santa cruz, ca|15178948|Leeds, England, UK, Earth|3|2
+12582082|santa cruz, ca|14257071|STL by heart - KC by GPS|2|2
+12582082|santa cruz, ca|0|Error|2|2
+12582082|santa cruz, ca|5907932|Santa Cruz, CA|2|2
+12582082|santa cruz, ca|9112902|MIAMI|2|2
+12582082|santa cruz, ca|0|Error|1|2
+12582082|santa cruz, ca|3695361|San Diego, CA|1|2
+12582082|santa cruz, ca|14422705|San Francisco|1|2
+12582082|santa cruz, ca|15998300|Los Angeles, CA|1|2
+12582082|santa cruz, ca|0|Error|1|2
+12582082|santa cruz, ca|16347243|New York City|1|2
+12582082|santa cruz, ca|1226498318|Anderson, SC|1|2
+12582082|santa cruz, ca|21140611|Error|1|2
+12582082|santa cruz, ca|0|Error|1|2
+12582082|santa cruz, ca|0|Error|1|2
+12582082|santa cruz, ca|14098757|San Francisco, CA|1|2
+12582082|santa cruz, ca|749333|San Francisco/Melbourne|1|2
+12582082|santa cruz, ca|18695316|Austin, Texas|1|2
+12582082|santa cruz, ca|1866578918|Error|1|2
+12582082|santa cruz, ca|18752652|Asheville North Carolina|1|2
+12582082|santa cruz, ca|756110|Rochester, NY|1|2
+12582082|santa cruz, ca|1399231|California|1|2
+12582082|santa cruz, ca|12528|San Francisco, CA|1|2
+12582082|santa cruz, ca|16215145|Guatemala City, Guatemala|1|2
+12582082|santa cruz, ca|5673542|Tel Aviv|1|2
+12582082|santa cruz, ca|3486981|New York , New York|1|2
+12582082|santa cruz, ca|121182521|Error|1|2
+12582082|santa cruz, ca|15033958|Los Angeles, CA|1|2
+12582082|santa cruz, ca|12582082|Santa Cruz, CA|1|2
+9436712|santa cruz, ca|18344141|portland|3|2
+9436712|santa cruz, ca|0|Error|3|2
+9436712|santa cruz, ca|15514787|Denver, CO|2|2
+9436712|santa cruz, ca|80179891|Error|2|2
+9436712|santa cruz, ca|298149688|Error|1|2
+9436712|santa cruz, ca|22066992|Seattle, WA|1|2
+9436712|santa cruz, ca|14231127|NYC|1|2
+9436712|santa cruz, ca|23235056|The World|1|2
+28392431|santa cruz, ca|15280053|Portland, OR|1|2
+18787874|santa cruz, ca|0|Error|4|2
+18787874|santa cruz, ca|18837800|Nashville, TN|1|2
+18787874|santa cruz, ca|0|Error|1|2
+18787874|santa cruz, ca|69399037|Los Angeles, CA|1|2
+18787874|santa cruz, ca|17085161|New York, NY|1|2
+18787874|santa cruz, ca|23089953|United States|1|2
+18787874|santa cruz, ca|16909021|Brooklyn, NY|1|2
+18787874|santa cruz, ca|1192263252|Error|1|2
+14355287|santa cruz, ca|14534959|Riverside, CA|2|2
+14355287|santa cruz, ca|59363713|On College Campuses Everywhere|2|2
+14355287|santa cruz, ca|18305179|Error|1|2
+14355287|santa cruz, ca|0|Error|1|2
+14355287|santa cruz, ca|802318|Oklahoma City, Oklahoma|1|2
+14355287|santa cruz, ca|7528292|Error|1|2
+14355287|santa cruz, ca|20379975|Denver, Colorado|1|2
+14355287|santa cruz, ca|5359782|Pasadena, CA|1|2
+14355287|santa cruz, ca|216044239|Franklin, TN|1|2
+14355287|santa cruz, ca|2057|Orange County, CA|1|2
+14355287|santa cruz, ca|53530056|Orange County, CA|1|2
+14355287|santa cruz, ca|471254019|Error|1|2
+14355287|santa cruz, ca|21445694|Hawaii|1|2
+14355287|santa cruz, ca|39417853|Ann Arbor, MI|1|2
+14355287|santa cruz, ca|0|Error|1|2
+14355287|santa cruz, ca|154396389|The Internets!|1|2
+43143505|santa cruz, ca|14298114|LA|1|2
+43143505|santa cruz, ca|27100120|los angeles|1|2
+43143505|santa cruz, ca|0|Error|1|2
+43143505|santa cruz, ca|14188985|San Francisco, CA|1|2
+17053116|santa cruz, california|387612619|Error|1|2
+17053116|santa cruz, california|14186998|Edmonton, Alberta|1|2
+17053116|santa cruz, california|8601242|Error|1|2
+17053116|santa cruz, california|16219502|Error|1|2
+17053116|santa cruz, california|1268420935|Error|1|2
+17053116|santa cruz, california|27711339|SNAPCHAT: JaredLeto|1|2
+64356098|santa cruz, ca|75440814|Rohnert Park, CA|1|2
+64356098|santa cruz, ca|26952548|Error|1|2
+64356098|santa cruz, ca|490998437|Error|1|2
+50748606|santa cruz, ca|32189855|Error|6|2
+50748606|santa cruz, ca|24854688|The Oil Colony Called Alaska |4|2
+50748606|santa cruz, ca|19462341|United States|3|2
+50748606|santa cruz, ca|14855994|The 1980s|2|2
+50748606|santa cruz, ca|36300569|Error|1|2
+50748606|santa cruz, ca|21674448|Washington, DC|1|2
+50748606|santa cruz, ca|1179751585|Error|1|2
+50748606|santa cruz, ca|50748606|Santa Cruz Mountains, CA|1|2
+50748606|santa cruz, ca|0|Error|1|2
+50748606|santa cruz, ca|15313229|Burlington, VT|1|2
+50748606|santa cruz, ca|17481557|Santa Cruz, CA|1|2
+50748606|santa cruz, ca|435213502|Error|1|2
+50748606|santa cruz, ca|15041273|Washington, DC|1|2
+50748606|santa cruz, ca|18791763|Washington, D.C.|1|2
+50748606|santa cruz, ca|17454769|Dallas, TX. Rockies, NYC.|1|2
+15114859|santa cruz, ca|16887183|Baltimore,MD|3|2
+15114859|santa cruz, ca|14702627|London, England|2|2
+15114859|santa cruz, ca|53219687|Los Angeles|1|2
+15114859|santa cruz, ca|16944659|iPhone: 33.532349,-117.713409|1|2
+56877613|santa cruz, ca|19793573|Monterey Bay, CA|1|2
+10990292|santa cruz, ca|123743930|Error|2|2
+10990292|santa cruz, ca|9182942|Santa Cruz, CA.|2|2
+10990292|santa cruz, ca|22301555|Black Forest, Germany|1|2
+10990292|santa cruz, ca|1383481|Modesto, Ca|1|2
+10990292|santa cruz, ca|2277652862|Error|1|2
+10990292|santa cruz, ca|9463402|San Francisco, CA|1|2
+16356305|santa cruz, ca|972651|Error|3|2
+16356305|santa cruz, ca|4278201|New York |2|2
+16356305|santa cruz, ca|0|Error|1|2
+16356305|santa cruz, ca|14511951|Error|1|2
+16356305|santa cruz, ca|15249171|Los Angeles, CA|1|2
+14616430|santa cruz, ca|14352286|Tahrir Sq, Cairo, Egypt|2|2
+14616430|santa cruz, ca|0|Error|2|2
+14616430|santa cruz, ca|1671564168|Error|1|2
+3828571|santa cruz, ca|15689813|Santa Cruz|1|2
+3828571|santa cruz, ca|15149150|San Antonio, TX|1|2
+3828571|santa cruz, ca|0|Error|1|2
+3828571|santa cruz, ca|17503069|Palo Alto, CA|1|2
+3828571|santa cruz, ca|19098463|Santa Cruz, Ca|1|2
+3828571|santa cruz, ca|971126978|Barnsley, United Kingdom|1|2
+3828571|santa cruz, ca|3829151|Petaluma, CA USA|1|2
+3828571|santa cruz, ca|65698643|Santa Cruz, CA|1|2
+3828571|santa cruz, ca|15413467|Santa Cruz, Ca|1|2
+3828571|santa cruz, ca|0|Error|1|2
+3828571|santa cruz, ca|15150101|Sanger, CA|1|2
+3828571|santa cruz, ca|290009141|Error|1|2
+3828571|santa cruz, ca|0|Error|1|2
+3828571|santa cruz, ca|518727675|Hogwarts, middle earth,ireland|1|2
+65698643|santa cruz, ca|14420939|Boulder, CO|1|2
+65698643|santa cruz, ca|24835662|Santa Cruz Mountains|1|2
+65698643|santa cruz, ca|0|Error|1|2
+65698643|santa cruz, ca|15495171|Palo Alto, CA|1|2
+65698643|santa cruz, ca|0|Error|1|2
+65698643|santa cruz, ca|0|Error|1|2
+14098757|santa cruz, ca|756466|Portland, OR|4|2
+14098757|santa cruz, ca|5907932|Santa Cruz, CA|1|2
+14098757|santa cruz, ca|14074570|Lafayette, IN|1|2
+14098757|santa cruz, ca|755068|San Francisco, CA|1|2
+14098757|santa cruz, ca|142873813|Error|1|2
+14098757|santa cruz, ca|12582082|Santa Cruz, CA|1|2
+14098757|santa cruz, ca|14714040|Error|1|2
+14098757|santa cruz, ca|215133|Santa Cruz, Ca|1|2
+712653|santa cruz, ca|1374821|Error|2|2
+712653|santa cruz, ca|7040692|Santa Cruz, CA|2|2
+712653|santa cruz, ca|0|Error|1|2
+712653|santa cruz, ca|9210122|Denver, Colorado|1|2
+712653|santa cruz, ca|13129862|Silver Spring, MD|1|2
+712653|santa cruz, ca|14200945|Hell of Frozen Potatoes|1|2
+712653|santa cruz, ca|21809256|Ithaca, New York|1|2
+712653|santa cruz, ca|32692341|Sunnyvale, CA|1|2
+712653|santa cruz, ca|20218024|Sol III, a primitive dirtball|1|2
+712653|santa cruz, ca|0|Error|1|2
+58468930|santa cruz, ca|73940396|Franklin, TN|1|2
+58468930|santa cruz, ca|48227286|Error|1|2
+58468930|santa cruz, ca|33082516|Southern Oregon|1|2
+58468930|santa cruz, ca|17601203|St. Louis, MO|1|2
+58468930|santa cruz, ca|17930032|U.S.A.|1|2
+58468930|santa cruz, ca|35959196|Innisfail, Alberta, Canada|1|2
+15481755|santa cruz, ca|28464838|Oakdale, CA|1|2
+15481755|santa cruz, ca|8012762|Portland, OR|1|2
+15481755|santa cruz, ca|22412456|Oakland, CA / Boulder, CO |1|2
+15481755|santa cruz, ca|18824923|International|1|2
+33323849|santa cruz, ca|15808765|Newark, NJ|3|2
+33323849|santa cruz, ca|0|Error|3|2
+33323849|santa cruz, ca|24961671|Port Townsend, WA|1|2
+33323849|santa cruz, ca|22187339|Northwest, Iowa|1|2
+33323849|santa cruz, ca|61516568|Error|1|2
+33323849|santa cruz, ca|0|Error|1|2
+33323849|santa cruz, ca|16363|Toronto, Canada|1|2
+33323849|santa cruz, ca|3985381|Londoner from LA|1|2
+33323849|santa cruz, ca|55767468|Burbank, CA|1|2
+33323849|santa cruz, ca|13461|Portland, OR|1|2
+14480433|santa cruz, ca|71981089|Santa Cruz|5|2
+14480433|santa cruz, ca|40200735|Franklin TN|2|2
+14480433|santa cruz, ca|32956917|Error|2|2
+14480433|santa cruz, ca|972651|Error|2|2
+14480433|santa cruz, ca|0|Error|2|2
+14480433|santa cruz, ca|19098463|Santa Cruz, Ca|1|2
+14480433|santa cruz, ca|7144422|Error|1|2
+14480433|santa cruz, ca|7998822|Ingelheim am Rhein, Germany|1|2
+14480433|santa cruz, ca|0|Error|1|2
+14480433|santa cruz, ca|64807945|Franklin, TN, USA|1|2
+7198542|santa cruz, ca|14870340|Harrisonburg, VA|3|2
+7198542|santa cruz, ca|7010142|Los Angeles|3|2
+7198542|santa cruz, ca|9366812|Somewhere near Chicago, IL|3|2
+7198542|santa cruz, ca|10579912|santa cruz mountains|1|2
+7198542|santa cruz, ca|286520092|Error|1|2
+7198542|santa cruz, ca|4339081|Irmo, SC|1|2
+7198542|santa cruz, ca|71954690|Bay Area|1|2
+7198542|santa cruz, ca|28499257|Porterville, CA|1|2
+7198542|santa cruz, ca|1432291|Richmond, VA|1|2
+7198542|santa cruz, ca|74433525|St Louis, MO|1|2
+7198542|santa cruz, ca|25936164|Charlottesville|1|2
+7198542|santa cruz, ca|14257063|Error|1|2
+7198542|santa cruz, ca|14201924|Hammond, Louisiana, USA|1|2
+16657483|santa cruz, ca|0|Error|16|2
+16657483|santa cruz, ca|0|Error|1|2
+16657483|santa cruz, ca|0|Error|1|2
+16657483|santa cruz, ca|0|Error|1|2
+20868566|santa cruz, california|0|Error|3|2
+20868566|santa cruz, california|0|Error|3|2
+20868566|santa cruz, california|0|Error|1|2
+20868566|santa cruz, california|0|Error|1|2
+20868566|santa cruz, california|0|Error|1|2
+9363622|santa cruz, ca|0|Error|2|2
+9363622|santa cruz, ca|0|Error|1|2
+9363622|santa cruz, ca|0|Error|1|2
+9363622|santa cruz, ca|0|Error|1|2
+9363622|santa cruz, ca|0|Error|1|2
+9363622|santa cruz, ca|0|Error|1|2
+9363622|santa cruz, ca|0|Error|1|2

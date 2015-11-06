@@ -1,0 +1,757 @@
+17173026|manhattan beach, ca|7101972|Portland, OR|2|2
+17173026|manhattan beach, ca|0|Error|1|2
+17173026|manhattan beach, ca|16727535|Austin/Aspen|1|2
+17173026|manhattan beach, ca|17857522|Toronto, Ontario, Canada |1|2
+17173026|manhattan beach, ca|18747993|Online at swagbucks.com|1|2
+17173026|manhattan beach, ca|16458319|Los Angeles|1|2
+17173026|manhattan beach, ca|22720074|New Jersey|1|2
+16784826|manhattan beach, ca|54054837|Error|1|2
+38552812|manhattan beach, ca|5668202|Los Angeles, CA|1|2
+38552812|manhattan beach, ca|28571999|Harrison, New York|1|2
+38552812|manhattan beach, ca|15285305|Worldwide|1|2
+38552812|manhattan beach, ca|0|Error|1|2
+38552812|manhattan beach, ca|0|Error|1|2
+38552812|manhattan beach, ca|783214|San Francisco, CA|1|2
+38552812|manhattan beach, ca|540328975|Error|1|2
+38552812|manhattan beach, ca|7902052|Los Angeles|1|2
+38552812|manhattan beach, ca|14886968|Global|1|2
+38552812|manhattan beach, ca|5520332|Los Angeles|1|2
+38552812|manhattan beach, ca|0|Error|1|2
+38552812|manhattan beach, ca|0|Error|1|2
+38552812|manhattan beach, ca|0|Error|1|2
+38552812|manhattan beach, ca|0|Error|1|2
+43140869|manhattan beach, ca|43140869|Manhattan Beach, CA|4|2
+43140869|manhattan beach, ca|15782808|Kentucky's Bourbon Country|3|2
+43140869|manhattan beach, ca|49775752|Chicago|2|2
+43140869|manhattan beach, ca|0|Error|2|2
+43140869|manhattan beach, ca|9728442|iPhone: 32.167802,-81.322210|1|2
+43140869|manhattan beach, ca|935288256|Error|1|2
+43140869|manhattan beach, ca|48813526|314 East 13th Ave  Denver, CO|1|2
+43140869|manhattan beach, ca|0|Error|1|2
+43140869|manhattan beach, ca|0|Error|1|2
+43140869|manhattan beach, ca|0|Error|1|2
+43140869|manhattan beach, ca|17229122|Error|1|2
+43140869|manhattan beach, ca|26304307|Error|1|2
+43140869|manhattan beach, ca|0|Error|1|2
+43140869|manhattan beach, ca|14651225|St. Paul, Minnesota|1|2
+43140869|manhattan beach, ca|16066889|Kentucky|1|2
+43140869|manhattan beach, ca|20497714|Los Angeles|1|2
+43140869|manhattan beach, ca|33547480|Los Angeles.|1|2
+43140869|manhattan beach, ca|554686383|Error|1|2
+43140869|manhattan beach, ca|67506918|Georgetown / Washington DC|1|2
+43140869|manhattan beach, ca|14328935|San Diego - Chicago - New York|1|2
+43140869|manhattan beach, ca|108684640|Brasil|1|2
+43140869|manhattan beach, ca|16117169|Error|1|2
+43140869|manhattan beach, ca|68148951|East Bumble|1|2
+43140869|manhattan beach, ca|22914956|Error|1|2
+43140869|manhattan beach, ca|29161740|Mall of Asia, Manila|1|2
+43140869|manhattan beach, ca|39555305|I'm everywhere!|1|2
+43140869|manhattan beach, ca|14467098|Nashville|1|2
+43140869|manhattan beach, ca|0|Error|1|2
+43140869|manhattan beach, ca|0|Error|1|2
+43140869|manhattan beach, ca|0|Error|1|2
+43140869|manhattan beach, ca|533763052|Hollywood|1|2
+43140869|manhattan beach, ca|25609990|NC|1|2
+43140869|manhattan beach, ca|21328429|Minneapolis|1|2
+43140869|manhattan beach, ca|19654807|iPhone: 21.113464,-86.760483|1|2
+43140869|manhattan beach, ca|16226484|Minneapolis, Minnesota|1|2
+43140869|manhattan beach, ca|61023825|Palo Alto, California|1|2
+43140869|manhattan beach, ca|14839125|Oxnard, Ca|1|2
+43140869|manhattan beach, ca|0|Error|1|2
+43140869|manhattan beach, ca|62613521|Champaign, IL|1|2
+43140869|manhattan beach, ca|18699272|LA, NY, + everywhere!|1|2
+43140869|manhattan beach, ca|29187560|Error|1|2
+43140869|manhattan beach, ca|0|Error|1|2
+43140869|manhattan beach, ca|15277345|Kuala Lumpur|1|2
+47600980|manhattan beach, ca|19927870|The Best City in the World|3|2
+47600980|manhattan beach, ca|22304416|San Diego, CA|2|2
+29560538|manhattan beach, ca|972651|Error|10|2
+29560538|manhattan beach, ca|821609130|Zoetermeer|4|2
+29560538|manhattan beach, ca|58411097|Error|4|2
+29560538|manhattan beach, ca|0|Error|3|2
+29560538|manhattan beach, ca|130584275|Denver, Colorado|2|2
+29560538|manhattan beach, ca|53000898|South Africa|1|2
+29560538|manhattan beach, ca|38558470|Cambridge, Ontario, Canada|1|2
+29560538|manhattan beach, ca|21870855|#Harrisburg, PA|1|2
+29560538|manhattan beach, ca|0|Error|1|2
+29560538|manhattan beach, ca|0|Error|1|2
+29560538|manhattan beach, ca|22155691|New York|1|2
+29560538|manhattan beach, ca|49241025|Minneapolis|1|2
+9985802|manhattan beach, ca|0|Error|2|2
+9985802|manhattan beach, ca|0|Error|2|2
+9985802|manhattan beach, ca|972651|Error|2|2
+9985802|manhattan beach, ca|14074700|Error|2|2
+9985802|manhattan beach, ca|17412836|Brazil - Spain|2|2
+9985802|manhattan beach, ca|25008476|Boston-Brasil|2|2
+9985802|manhattan beach, ca|19669324|Somewhere in the Lowcountry,SC|2|2
+9985802|manhattan beach, ca|15147733|North Carolina|1|2
+9985802|manhattan beach, ca|18488950|Indianapolis, IN|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|70223647|Error|1|2
+9985802|manhattan beach, ca|43766579|South Bay, Los Angeles|1|2
+9985802|manhattan beach, ca|16900491|Southern California|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|73187252|Manhattan Beach, CA|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|19237920|New York, NY|1|2
+9985802|manhattan beach, ca|21731423|Kampala|1|2
+9985802|manhattan beach, ca|14181144|McLean, VA|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|35669998|Australia/the World|1|2
+9985802|manhattan beach, ca|52799865|San Diego, CA|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|1510701|Error|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|19167378|Bay Village, Ohio|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|14792483|Error|1|2
+9985802|manhattan beach, ca|9780692|Silicon Valley|1|2
+9985802|manhattan beach, ca|151550700|sp|1|2
+9985802|manhattan beach, ca|16723781|Chicago, IL|1|2
+9985802|manhattan beach, ca|29853720|Davis, California|1|2
+9985802|manhattan beach, ca|16815376|Tel Aviv, Israel|1|2
+9985802|manhattan beach, ca|16604344|Houston, TX|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|12697192|Lakeland, FL|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|72886657|Valley of the Sun, Gilbert AZ|1|2
+9985802|manhattan beach, ca|26725336|Taiwan |1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|84491426|Error|1|2
+9985802|manhattan beach, ca|21757605|London, U.K.|1|2
+9985802|manhattan beach, ca|12165312|Pasadena, California|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+9985802|manhattan beach, ca|64469925|Ireland|1|2
+9985802|manhattan beach, ca|23036817|New York|1|2
+9985802|manhattan beach, ca|0|Error|1|2
+14714826|manhattan beach, ca|70474174|Error|20|2
+14714826|manhattan beach, ca|70474595|Error|11|2
+14714826|manhattan beach, ca|35495567|Southern California|5|2
+14714826|manhattan beach, ca|35496024|Southern California|4|2
+14714826|manhattan beach, ca|42346547|La Jolla, CA |1|2
+14714826|manhattan beach, ca|15941908|Woodland Hills, CA|1|2
+14850509|manhattan beach, ca|14850509|Manhattan Beach, CA|7|2
+14850509|manhattan beach, ca|35891504|Santa Monica, CA|6|2
+14850509|manhattan beach, ca|36534110|Manhattan Beach, CA|3|2
+14850509|manhattan beach, ca|0|Error|3|2
+14850509|manhattan beach, ca|35890565|Torrance, CA|3|2
+14850509|manhattan beach, ca|35893315|Santa Monica|2|2
+14850509|manhattan beach, ca|35899246|Santa Monica, CA|2|2
+14850509|manhattan beach, ca|35900253|Hollywood, CA|2|2
+14850509|manhattan beach, ca|35939707|Santa Monica, CA|2|2
+14850509|manhattan beach, ca|18280854|San Diego CA|1|2
+14850509|manhattan beach, ca|1167639176|Error|1|2
+14850509|manhattan beach, ca|16637124|Naples & Coastal Orange County|1|2
+14850509|manhattan beach, ca|15178836|Error|1|2
+14850509|manhattan beach, ca|19007604|Florida|1|2
+14850509|manhattan beach, ca|41859799|Santa Monica, California|1|2
+14850509|manhattan beach, ca|14572947|World Wide|1|2
+14850509|manhattan beach, ca|198958679|Error|1|2
+14850509|manhattan beach, ca|0|Error|1|2
+14850509|manhattan beach, ca|29084047|Las Vegas|1|2
+14850509|manhattan beach, ca|7337392|Irvine|1|2
+14850509|manhattan beach, ca|15348935|Los Angeles|1|2
+14850509|manhattan beach, ca|0|Error|1|2
+14850509|manhattan beach, ca|17061754|Midwest|1|2
+14850509|manhattan beach, ca|39130836|Los Angeles, CA|1|2
+14850509|manhattan beach, ca|14219877|Torrance, CA|1|2
+14850509|manhattan beach, ca|0|Error|1|2
+14850509|manhattan beach, ca|18852254|Los Angeles, California.|1|2
+14850509|manhattan beach, ca|0|Error|1|2
+23373138|manhattan beach, ca|22113|Santa Monica, CA|2|2
+23373138|manhattan beach, ca|41067025|STRANGER IN A STRANGE LAND|1|2
+23373138|manhattan beach, ca|25478455|Your Heart|1|2
+29538025|manhattan beach, ca|21604684|Error|2|2
+29538025|manhattan beach, ca|2162502096|Error|2|2
+29538025|manhattan beach, ca|15808140|Chicago|2|2
+29538025|manhattan beach, ca|8792802|Alberta, Canada|2|2
+29538025|manhattan beach, ca|0|Error|2|2
+29538025|manhattan beach, ca|14401273|New Hampshire|2|2
+29538025|manhattan beach, ca|0|Error|1|2
+29538025|manhattan beach, ca|0|Error|1|2
+29538025|manhattan beach, ca|16042140|Wilmington, NC|1|2
+29538025|manhattan beach, ca|36071301|New Mexico|1|2
+29538025|manhattan beach, ca|0|Error|1|2
+29538025|manhattan beach, ca|490393204|Error|1|2
+29538025|manhattan beach, ca|19630177|By the lake|1|2
+29538025|manhattan beach, ca|77734687|South Carolina, USA|1|2
+29538025|manhattan beach, ca|323108405|Error|1|2
+29538025|manhattan beach, ca|0|Error|1|2
+29538025|manhattan beach, ca|46512945|Error|1|2
+29538025|manhattan beach, ca|33437279|NW AR|1|2
+29538025|manhattan beach, ca|3012920759|Error|1|2
+88088981|manhattan beach, ca|19871339|Error|1|2
+88088981|manhattan beach, ca|32302919|Error|1|2
+29543479|manhattan beach, ca|36681344|Error|3|2
+29543479|manhattan beach, ca|29542880|Manhattan Beach|3|2
+29543479|manhattan beach, ca|29560538|Manhattan Beach, CA|2|2
+29543479|manhattan beach, ca|16721203|El Segundo, CA|1|2
+29543479|manhattan beach, ca|0|Error|1|2
+29543479|manhattan beach, ca|49593471|greece,athens,glufada|1|2
+29543479|manhattan beach, ca|821609130|Zoetermeer|1|2
+29543479|manhattan beach, ca|0|Error|1|2
+29543479|manhattan beach, ca|15474727|California|1|2
+29543479|manhattan beach, ca|22954471|Newport Beach, CA|1|2
+29543479|manhattan beach, ca|29542388|Manhattan Beach, CA|1|2
+29543479|manhattan beach, ca|16953480|San Diego, California|1|2
+29543479|manhattan beach, ca|261506910|Error|1|2
+29543479|manhattan beach, ca|29543969|Manhattan Beach|1|2
+29543479|manhattan beach, ca|19320490|Los Angeles|1|2
+29543479|manhattan beach, ca|3280256022|Error|1|2
+29543479|manhattan beach, ca|23826838|The Future|1|2
+29543479|manhattan beach, ca|17297878|Chicago|1|2
+54447339|manhattan beach, ca|18905134|Southern California|2|2
+54447339|manhattan beach, ca|34097876|Los Angeles, CA|2|2
+54447339|manhattan beach, ca|16050554|Houston, Texas|1|2
+54447339|manhattan beach, ca|16179201|Error|1|2
+25612070|manhattan beach, ca|15687962|New York, NY|6|2
+25612070|manhattan beach, ca|73920082|Error|5|2
+25612070|manhattan beach, ca|16108210|New York|2|2
+25612070|manhattan beach, ca|2595194618|dallas|2|2
+25612070|manhattan beach, ca|62772060|London|2|2
+25612070|manhattan beach, ca|112208720|blainville|2|2
+25612070|manhattan beach, ca|43143997|Vicarious Visions, Albany|2|2
+25612070|manhattan beach, ca|0|Error|1|2
+25612070|manhattan beach, ca|14280395|Sioux Falls, SD|1|2
+25612070|manhattan beach, ca|0|Error|1|2
+25612070|manhattan beach, ca|7376382|NYC|1|2
+25612070|manhattan beach, ca|3465721|Austin, TX and Los Angeles, CA|1|2
+25612070|manhattan beach, ca|17092592|London & San Francisco|1|2
+25612070|manhattan beach, ca|635723|Austin, Texas|1|2
+25612070|manhattan beach, ca|2937569512|Error|1|2
+25612070|manhattan beach, ca|34418878|San Mateo, CA|1|2
+25612070|manhattan beach, ca|374449075|Error|1|2
+25612070|manhattan beach, ca|0|Error|1|2
+25612070|manhattan beach, ca|0|Error|1|2
+25612070|manhattan beach, ca|0|Error|1|2
+25612070|manhattan beach, ca|0|Error|1|2
+25612070|manhattan beach, ca|0|Error|1|2
+25612070|manhattan beach, ca|5477242|Bellevue, WA|1|2
+25612070|manhattan beach, ca|47580277|Error|1|2
+25612070|manhattan beach, ca|18599039|California|1|2
+19561091|manhattan beach, ca|22309821|Atlanta, GA|2|2
+19561091|manhattan beach, ca|47137216|Southern California|2|2
+19561091|manhattan beach, ca|45703428|Berkeley, CA|1|2
+19561091|manhattan beach, ca|63488150|Irvine CA|1|2
+19561091|manhattan beach, ca|8453452|Silicon Valley, California|1|2
+19561091|manhattan beach, ca|0|Error|1|2
+19561091|manhattan beach, ca|7746792|Los Angeles|1|2
+19561091|manhattan beach, ca|3839|New York, NY|1|2
+35812823|manhattan beach, ca|0|Error|1|2
+45671603|manhattan beach, ca|14102923|Manhattan Beach, California|5|2
+45671603|manhattan beach, ca|17088407|Los Angeles, CA.|3|2
+45671603|manhattan beach, ca|2883975440|Sausalito, California|3|2
+45671603|manhattan beach, ca|70224046|Los Angeles|2|2
+45671603|manhattan beach, ca|14879011|iPhone: 37.728928,-121.942780|1|2
+45671603|manhattan beach, ca|30961267|Est. 1983 - NYC|1|2
+45671603|manhattan beach, ca|225358437|Error|1|2
+45671603|manhattan beach, ca|16536225|pasadena|1|2
+45671603|manhattan beach, ca|16207185|Los Angeles + Anywhere|1|2
+45671603|manhattan beach, ca|14392450|NYC/ LA / HNL / SF |1|2
+14051573|manhattan beach, ca|2790773909|Error|2|2
+14051573|manhattan beach, ca|3862631|Los Angeles, CA (34.098495,-11|2|2
+14051573|manhattan beach, ca|243901119|Error|1|2
+14051573|manhattan beach, ca|16164520|Austin|1|2
+14051573|manhattan beach, ca|0|Error|1|2
+14051573|manhattan beach, ca|0|Error|1|2
+14051573|manhattan beach, ca|10005632|Brooklyn, NY|1|2
+14051573|manhattan beach, ca|7117302|New York, NY|1|2
+14051573|manhattan beach, ca|86660632|Los Angeles, CA|1|2
+14051573|manhattan beach, ca|6516132|LA, CA|1|2
+14051573|manhattan beach, ca|0|Error|1|2
+14051573|manhattan beach, ca|14777649|Ohio boy in NYC and LA|1|2
+14051573|manhattan beach, ca|3032|New York, NY|1|2
+14051573|manhattan beach, ca|14652452|Los Angeles|1|2
+14051573|manhattan beach, ca|23220068|Los Angeles|1|2
+14051573|manhattan beach, ca|62581962|Error|1|2
+14051573|manhattan beach, ca|0|Error|1|2
+14051573|manhattan beach, ca|6909932|Los Angeles, CA|1|2
+14051573|manhattan beach, ca|50835878|Los Angeles via Cleveland|1|2
+14051573|manhattan beach, ca|9091712|Los Angeles, CA|1|2
+14051573|manhattan beach, ca|85492135|Manhattan Beach, CA|1|2
+14051573|manhattan beach, ca|7517052|Coronado|1|2
+14051573|manhattan beach, ca|0|Error|1|2
+14051573|manhattan beach, ca|0|Error|1|2
+14051573|manhattan beach, ca|16541868|Los Angeles to Silicon Valley|1|2
+5444512|manhattan beach, ca|12916|San Francisco, CA|5|2
+5444512|manhattan beach, ca|61609984|Error|4|2
+5444512|manhattan beach, ca|0|Error|3|2
+5444512|manhattan beach, ca|15388795|Los Angeles|3|2
+5444512|manhattan beach, ca|16265550|Los Angeles, CA|3|2
+5444512|manhattan beach, ca|70835010|Error|2|2
+5444512|manhattan beach, ca|14694677|San Francisco, CA|2|2
+5444512|manhattan beach, ca|14074339|iPhone: 37.856583,-122.488274|2|2
+5444512|manhattan beach, ca|3225966229|San Francisco, CA|2|2
+5444512|manhattan beach, ca|15250836|LA, SF, Tokyo|1|2
+5444512|manhattan beach, ca|783214|San Francisco, CA|1|2
+5444512|manhattan beach, ca|11736722|San Francisco|1|2
+5444512|manhattan beach, ca|14854319|Florida|1|2
+5444512|manhattan beach, ca|1403561|Seattle, WA|1|2
+5444512|manhattan beach, ca|2139211|New York|1|2
+5444512|manhattan beach, ca|0|Error|1|2
+5444512|manhattan beach, ca|0|Error|1|2
+5444512|manhattan beach, ca|0|Error|1|2
+5444512|manhattan beach, ca|2787551|Gone to the dogs, USA|1|2
+5444512|manhattan beach, ca|37570179|Palo Alto, CA|1|2
+5444512|manhattan beach, ca|30973|Seattle, WA|1|2
+5444512|manhattan beach, ca|0|Error|1|2
+5444512|manhattan beach, ca|267690047|Error|1|2
+5444512|manhattan beach, ca|0|Error|1|2
+5444512|manhattan beach, ca|0|Error|1|2
+5444512|manhattan beach, ca|0|Error|1|2
+5444512|manhattan beach, ca|0|Error|1|2
+50142757|manhattan beach, ca|0|Error|2|2
+50142757|manhattan beach, ca|0|Error|2|2
+50142757|manhattan beach, ca|15285305|Worldwide|1|2
+50142757|manhattan beach, ca|0|Error|1|2
+50142757|manhattan beach, ca|1007041|West Hollywood, CA|1|2
+50142757|manhattan beach, ca|0|Error|1|2
+50142757|manhattan beach, ca|0|Error|1|2
+50142757|manhattan beach, ca|16190898|Los Angeles, CA|1|2
+19997064|manhattan beach, ca|35056301|San Francisco|1|2
+19997064|manhattan beach, ca|0|Error|1|2
+19997064|manhattan beach, ca|13761462|Error|1|2
+19997064|manhattan beach, ca|7517052|Coronado|1|2
+22880831|manhattan beach, ca|32959253|Error|3|2
+22880831|manhattan beach, ca|2932613250|Error|2|2
+22880831|manhattan beach, ca|19829645|Hollywood, CA |1|2
+22880831|manhattan beach, ca|28669612|Error|1|2
+32450969|manhattan beach, ca|26146301|the gutter|4|2
+32450969|manhattan beach, ca|0|Error|1|2
+22597854|manhattan beach, ca|22597854|Los Angeles, CA|5|2
+22597854|manhattan beach, ca|43715707|Berlin, Germany|3|2
+22597854|manhattan beach, ca|0|Error|2|2
+22597854|manhattan beach, ca|24398781|San Jose California|2|2
+22597854|manhattan beach, ca|14908429|Jackson Hole, Wy|2|2
+22597854|manhattan beach, ca|0|Error|1|2
+22597854|manhattan beach, ca|26538901|Jackson Hole, Wyoming|1|2
+22597854|manhattan beach, ca|42424561|Teton Village, Wyoming|1|2
+22597854|manhattan beach, ca|834281252|Northern California|1|2
+22597854|manhattan beach, ca|17526930|Los Angeles|1|2
+22597854|manhattan beach, ca|34027663|Michigan|1|2
+22597854|manhattan beach, ca|21968580|LA & Las Vegas|1|2
+22597854|manhattan beach, ca|23821184|Jackson Hole WY|1|2
+22597854|manhattan beach, ca|16870682|A place to Love & Be Loved.|1|2
+22597854|manhattan beach, ca|34328135|Teton Village, WY, USA|1|2
+22597854|manhattan beach, ca|24755012|Atlanta, Georgia|1|2
+22597854|manhattan beach, ca|20202045|Jackson Hole, WY|1|2
+22597854|manhattan beach, ca|459369261|Error|1|2
+67205736|manhattan beach, ca|14104023|chicago|2|2
+67205736|manhattan beach, ca|58524338|United States Law Only|1|2
+67205736|manhattan beach, ca|81989842|Stuart,  Florida, USA|1|2
+67205736|manhattan beach, ca|972651|Error|1|2
+67205736|manhattan beach, ca|36710550|Jacksonville, Florida|1|2
+67205736|manhattan beach, ca|85163732|Orange County California|1|2
+67205736|manhattan beach, ca|19925244|Phoenix, AZ|1|2
+67205736|manhattan beach, ca|71990983|Florida, USA|1|2
+67205736|manhattan beach, ca|0|Error|1|2
+67205736|manhattan beach, ca|17091701|Boston, MA|1|2
+67205736|manhattan beach, ca|83287838|Error|1|2
+67205736|manhattan beach, ca|17637975|Error|1|2
+67205736|manhattan beach, ca|0|Error|1|2
+67205736|manhattan beach, ca|19720683|Error|1|2
+67205736|manhattan beach, ca|35948823|Everytown|1|2
+67205736|manhattan beach, ca|3432641|Error|1|2
+67205736|manhattan beach, ca|16530050|Error|1|2
+67205736|manhattan beach, ca|17008011|New York|1|2
+67205736|manhattan beach, ca|52919920|Error|1|2
+67205736|manhattan beach, ca|16188914|Error|1|2
+67205736|manhattan beach, ca|17883520|Chicago, IL|1|2
+67205736|manhattan beach, ca|83540856|Error|1|2
+67205736|manhattan beach, ca|11554462|Minnesota|1|2
+67205736|manhattan beach, ca|76581432|Error|1|2
+67205736|manhattan beach, ca|20275094|Washington, DC|1|2
+67205736|manhattan beach, ca|65523301|Chicago Illinois|1|2
+67205736|manhattan beach, ca|82770188|Tampa, Florida|1|2
+67205736|manhattan beach, ca|18912225|Cincinnati|1|2
+67205736|manhattan beach, ca|27033222|Commack, New York|1|2
+67205736|manhattan beach, ca|57412903|Schaumburg, IL|1|2
+9668472|manhattan beach, ca|8918032|Louisville, Ky.|1|2
+9668472|manhattan beach, ca|15029970|Planet Earth|1|2
+9668472|manhattan beach, ca|0|Error|1|2
+9668472|manhattan beach, ca|0|Error|1|2
+9668472|manhattan beach, ca|33648804|Milwaukee, WI|1|2
+9668472|manhattan beach, ca|4039761|San Francisco, CA|1|2
+9668472|manhattan beach, ca|21730838|Error|1|2
+9668472|manhattan beach, ca|1578988910|Burley, Idaho|1|2
+9668472|manhattan beach, ca|8769212|Chicago, IL|1|2
+9668472|manhattan beach, ca|36795460|Indianapolis, IN|1|2
+9668472|manhattan beach, ca|14115587|Bloomington, Indiana|1|2
+9668472|manhattan beach, ca|691353|Cambridge, MA|1|2
+9668472|manhattan beach, ca|8707212|Washington DC|1|2
+9668472|manhattan beach, ca|1501471|New York, NY|1|2
+16354755|manhattan beach, ca|21621391|Philadelphia Area|2|2
+16354755|manhattan beach, ca|18921831|San Francisco|2|2
+16354755|manhattan beach, ca|16354755|Error|2|2
+16354755|manhattan beach, ca|826388059|Error|2|2
+16354755|manhattan beach, ca|2575874150|Error|2|2
+16354755|manhattan beach, ca|2996713952|Chelyabinsk
+|1|2
+16354755|manhattan beach, ca|25632505|Oakland, CA|1|2
+16354755|manhattan beach, ca|0|Error|1|2
+16354755|manhattan beach, ca|15215501|Sarasota, Florida|1|2
+16354755|manhattan beach, ca|15245792|Salt Lake City UT|1|2
+16354755|manhattan beach, ca|16108074|Beverly Hills, CA|1|2
+16354755|manhattan beach, ca|280454567|Raglan, Monmouthshire|1|2
+16354755|manhattan beach, ca|0|Error|1|2
+16354755|manhattan beach, ca|320437867|Error|1|2
+16354755|manhattan beach, ca|33554073|170 Locations Nationwide|1|2
+16354755|manhattan beach, ca|17785211|Error|1|2
+16354755|manhattan beach, ca|16486738|Iowa|1|2
+16354755|manhattan beach, ca|77933825|The Deep South|1|2
+16354755|manhattan beach, ca|7546422|Argentina|1|2
+16354755|manhattan beach, ca|36702208|Rio de Janeiro - Brasil|1|2
+16354755|manhattan beach, ca|0|Error|1|2
+16354755|manhattan beach, ca|20820916|Austin, TX|1|2
+16354755|manhattan beach, ca|18998852|Southern New Jersey|1|2
+16354755|manhattan beach, ca|60126302|Error|1|2
+16354755|manhattan beach, ca|60190631|Chicago, IL|1|2
+16354755|manhattan beach, ca|0|Error|1|2
+16354755|manhattan beach, ca|17639147|Garland, TX|1|2
+16354755|manhattan beach, ca|70453965|powered by 6devil.com|1|2
+16354755|manhattan beach, ca|36720416|New York City|1|2
+16354755|manhattan beach, ca|55674990|Lubbock, TX.|1|2
+16354755|manhattan beach, ca|17474276|Middle of Everywhere|1|2
+16354755|manhattan beach, ca|20324447|Montana|1|2
+21073884|manhattan beach, ca|0|Error|8|2
+21073884|manhattan beach, ca|0|Error|8|2
+21073884|manhattan beach, ca|17617227|Manhattan Beach, CA|7|2
+21073884|manhattan beach, ca|32140588|Error|7|2
+21073884|manhattan beach, ca|22494516|Cleveland, OH|6|2
+21073884|manhattan beach, ca|0|Error|5|2
+21073884|manhattan beach, ca|23881084|be happy. live comfortably.|4|2
+21073884|manhattan beach, ca|21991753|Los Angeles|4|2
+21073884|manhattan beach, ca|20346956|Los Angeles, CA|4|2
+21073884|manhattan beach, ca|2264811|California, USA|3|2
+21073884|manhattan beach, ca|15859184|Houston/At A Ballpark|3|2
+21073884|manhattan beach, ca|726841088|Sun Devil Stadium|3|2
+21073884|manhattan beach, ca|0|Error|3|2
+21073884|manhattan beach, ca|23076320|Oakland, Ca|3|2
+21073884|manhattan beach, ca|941724637|Error|2|2
+21073884|manhattan beach, ca|301081331|Canada|2|2
+21073884|manhattan beach, ca|91963312|Error|2|2
+21073884|manhattan beach, ca|713143|San Diego, CA|2|2
+21073884|manhattan beach, ca|43750993|Lafayette, IN|2|2
+21073884|manhattan beach, ca|18783501|Tempe, Arizona|2|2
+21073884|manhattan beach, ca|217544776|Error|2|2
+21073884|manhattan beach, ca|7137212|Error|2|2
+21073884|manhattan beach, ca|60850690|Over the Rainbow|2|2
+21073884|manhattan beach, ca|34701524|Culver City and El Segundo, CA|1|2
+21073884|manhattan beach, ca|20961581|Denver|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|26747046|Error|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|18776970|Los Angeles|1|2
+21073884|manhattan beach, ca|18371803|San Antonio, Texas|1|2
+21073884|manhattan beach, ca|277719803|Orlando, Florida|1|2
+21073884|manhattan beach, ca|21308488|Charlotte, NC|1|2
+21073884|manhattan beach, ca|95490253|Phoenix, AZ|1|2
+21073884|manhattan beach, ca|39829513|San Jose, CA|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|378186549|New York, NY|1|2
+21073884|manhattan beach, ca|36913910|LA|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|27649623|Oakland, California|1|2
+21073884|manhattan beach, ca|15402261|Scottsdale, Arizona|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|0|Error|1|2
+21073884|manhattan beach, ca|10913242|Brooklyn|1|2
+21073884|manhattan beach, ca|39816286|Atlanta/Movie Theaters|1|2
+24026347|manhattan beach, ca|33007871|Error|2|2
+24026347|manhattan beach, ca|1813981808|Atlanta, Ga |2|2
+24026347|manhattan beach, ca|32959253|Error|2|2
+24026347|manhattan beach, ca|41717334|Error|2|2
+24026347|manhattan beach, ca|23626355|Los Angeles|1|2
+24026347|manhattan beach, ca|21689331|Error|1|2
+24026347|manhattan beach, ca|14515734|Los Angeles, CA|1|2
+24026347|manhattan beach, ca|31533009|Phoenix,Arizona|1|2
+24026347|manhattan beach, ca|29132213|from Nashville to Los Angeles |1|2
+24026347|manhattan beach, ca|0|Error|1|2
+24026347|manhattan beach, ca|25365536|where I'm meant to be...|1|2
+24026347|manhattan beach, ca|0|Error|1|2
+24026347|manhattan beach, ca|0|Error|1|2
+24026347|manhattan beach, ca|0|Error|1|2
+24026347|manhattan beach, ca|21803360|New York City|1|2
+24026347|manhattan beach, ca|0|Error|1|2
+24026347|manhattan beach, ca|0|Error|1|2
+24026347|manhattan beach, ca|17164824|01950|1|2
+24026347|manhattan beach, ca|19329393|New York City, New York|1|2
+24026347|manhattan beach, ca|0|Error|1|2
+16368499|manhattan beach, ca|0|Error|10|2
+16368499|manhattan beach, ca|0|Error|3|2
+16368499|manhattan beach, ca|5923772|Universal Studios Backlot, CA|3|2
+16368499|manhattan beach, ca|0|Error|2|2
+16368499|manhattan beach, ca|20221159|Hollywood, CA|2|2
+16368499|manhattan beach, ca|17316396|SF|1|2
+16368499|manhattan beach, ca|0|Error|1|2
+16368499|manhattan beach, ca|37774152|Los Angeles|1|2
+16368499|manhattan beach, ca|0|Error|1|2
+16368499|manhattan beach, ca|2279731459|Error|1|2
+18854222|manhattan beach, ca|18854222|13 locations in SoCal.|7|2
+18854222|manhattan beach, ca|0|Error|1|2
+18854222|manhattan beach, ca|2177335491|Error|1|2
+18854222|manhattan beach, ca|16197741|Los Angeles, CA|1|2
+18854222|manhattan beach, ca|67390590|Marina del Rey, CA|1|2
+18854222|manhattan beach, ca|16793750|Manhattan Beach,CA|1|2
+18854222|manhattan beach, ca|22004178|Error|1|2
+18854222|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|65031919|California|26|2
+65031919|manhattan beach, ca|872207274|Error|17|2
+65031919|manhattan beach, ca|482336290|San Francisco, CA|15|2
+65031919|manhattan beach, ca|0|Error|12|2
+65031919|manhattan beach, ca|60320240|Alphaville - SP/Brasil|9|2
+65031919|manhattan beach, ca|0|Error|8|2
+65031919|manhattan beach, ca|17094167|Pennsylvania |8|2
+65031919|manhattan beach, ca|132769981|Error|8|2
+65031919|manhattan beach, ca|35241582|Sampa / Bombinha City|7|2
+65031919|manhattan beach, ca|0|Error|7|2
+65031919|manhattan beach, ca|953014094|mexico d, f|6|2
+65031919|manhattan beach, ca|60419662|Brasil|6|2
+65031919|manhattan beach, ca|0|Error|6|2
+65031919|manhattan beach, ca|0|Error|6|2
+65031919|manhattan beach, ca|32799651|Error|5|2
+65031919|manhattan beach, ca|0|Error|5|2
+65031919|manhattan beach, ca|0|Error|4|2
+65031919|manhattan beach, ca|241637470|Error|4|2
+65031919|manhattan beach, ca|78126094|Brasil|4|2
+65031919|manhattan beach, ca|72395372| Brasil itabuna-ba|4|2
+65031919|manhattan beach, ca|69930866|SP-Brazil|3|2
+65031919|manhattan beach, ca|3923561|Error|3|2
+65031919|manhattan beach, ca|0|Error|3|2
+65031919|manhattan beach, ca|0|Error|3|2
+65031919|manhattan beach, ca|36695385|Error|3|2
+65031919|manhattan beach, ca|43745617|Taquaritinga|3|2
+65031919|manhattan beach, ca|56812187|Indaiatuba|3|2
+65031919|manhattan beach, ca|803196710|Error|3|2
+65031919|manhattan beach, ca|0|Error|3|2
+65031919|manhattan beach, ca|1697308242|Brazil|3|2
+65031919|manhattan beach, ca|0|Error|3|2
+65031919|manhattan beach, ca|27043989|Error|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|3621781516|Error|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|24608101|Scottsdale, AZ|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|3022496482|Error|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|193136067|Error|2|2
+65031919|manhattan beach, ca|52202662|Porto Alegre, RS|2|2
+65031919|manhattan beach, ca|365109540|mexico|2|2
+65031919|manhattan beach, ca|57171187|Brasil|2|2
+65031919|manhattan beach, ca|163781148|Portugal|2|2
+65031919|manhattan beach, ca|280522212|Error|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|47202819|Brazil|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|2585888812|Error|2|2
+65031919|manhattan beach, ca|367883225|Error|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|36032320|Kind Woman ~ Los Angeles, CA|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|0|Error|2|2
+65031919|manhattan beach, ca|61494436|Error|2|2
+65031919|manhattan beach, ca|51120224|Campo Grande MS - Brasil|2|2
+65031919|manhattan beach, ca|55229388|Error|2|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|81986395|Brasil|1|2
+65031919|manhattan beach, ca|82551552|Bangladesh|1|2
+65031919|manhattan beach, ca|53831256|Brasilia|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|36976529|Error|1|2
+65031919|manhattan beach, ca|57638899|USA|1|2
+65031919|manhattan beach, ca|70903870|The Hearts of Others|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|1390900622|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|17086556|Wilmington, Delaware|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|73414218|Petrolina|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|1879168682|Indonesia|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|355522726|sweetwater texas|1|2
+65031919|manhattan beach, ca|48421280|Pembrokeshire, South Wales,UK|1|2
+65031919|manhattan beach, ca|39436191|sigo on line - twitzer.com|1|2
+65031919|manhattan beach, ca|53120034|PROJACLAND|1|2
+65031919|manhattan beach, ca|565719549|Error|1|2
+65031919|manhattan beach, ca|90246679|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|77639629|Color Country|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|139349733|Error|1|2
+65031919|manhattan beach, ca|175779447|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|63853652|Brasil|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|271402922|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|20402581|Myrtle Beach, SC|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|192335828|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|70419617|Boca Raton- FL - /USA|1|2
+65031919|manhattan beach, ca|223557263|Error|1|2
+65031919|manhattan beach, ca|266702190|Just keep swimming |1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|24400109|(I)n (O)utfield (W)ay (A)way|1|2
+65031919|manhattan beach, ca|55091702|Error|1|2
+65031919|manhattan beach, ca|107421403|Error|1|2
+65031919|manhattan beach, ca|71003757|Nova Friburgo|1|2
+65031919|manhattan beach, ca|26645771|Brazil to USA|1|2
+65031919|manhattan beach, ca|36295559|California|1|2
+65031919|manhattan beach, ca|35567686|Brasil|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|48764460|Arkansas|1|2
+65031919|manhattan beach, ca|38485326|Cataguases (MG)|1|2
+65031919|manhattan beach, ca|19664316|Southern Utah|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|360878916|Error|1|2
+65031919|manhattan beach, ca|64708073|Brazil|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|884443082|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|53745703|Brasil|1|2
+65031919|manhattan beach, ca|110398903|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|963269149|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|66124470|Error|1|2
+65031919|manhattan beach, ca|2184513956|Error|1|2
+65031919|manhattan beach, ca|15928129|NYC|1|2
+65031919|manhattan beach, ca|49419189|Juiz de Fora - Brasil|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|114650501|Dominican Republic|1|2
+65031919|manhattan beach, ca|37432697|Like a Honey Badger|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|0|Error|1|2
+65031919|manhattan beach, ca|48562560|Machado - Minas Gerais|1|2
+65031919|manhattan beach, ca|21904136|Stankonia, Georgia|1|2
+65031919|manhattan beach, ca|32905602|Brasil - Belo Horizonte|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+26338897|manhattan beach, ca|0|Error|1|2
+23245625|manhattan beach, california|0|Error|8|2
+23245625|manhattan beach, california|12044602|Los Angeles, California|2|2
+23245625|manhattan beach, california|15979471|Error|1|2
+23245625|manhattan beach, california|70878015|Texas|1|2
+23245625|manhattan beach, california|853891027|Error|1|2
+23245625|manhattan beach, california|67168969|Error|1|2
+23245625|manhattan beach, california|14825399|New York, NY|1|2
+29542388|manhattan beach, ca|0|Error|1|2
+29542388|manhattan beach, ca|0|Error|1|2
+29542388|manhattan beach, ca|0|Error|1|2
+29542388|manhattan beach, ca|68894612|New York City|1|2
+29542388|manhattan beach, ca|0|Error|1|2
+29542388|manhattan beach, ca|29560538|Manhattan Beach, CA|1|2
+29542388|manhattan beach, ca|0|Error|1|2
+37348792|manhattan beach, california|18905134|Southern California|1|2
+674083|manhattan beach, ca|1589089993|Error|3|2
+674083|manhattan beach, ca|82683|Toronto, ON|2|2
+674083|manhattan beach, ca|39330475|Los Angeles, California|2|2
+674083|manhattan beach, ca|9192532|Phoenix, AZ|2|2
+674083|manhattan beach, ca|15290412|Daphne, AL|2|2
+674083|manhattan beach, ca|0|Error|1|2
+674083|manhattan beach, ca|6428902|Dayton OH|1|2
+674083|manhattan beach, ca|2417|Los Angeles|1|2
+674083|manhattan beach, ca|0|Error|1|2
+20661157|manhattan beach, ca|0|Error|2|2
+20661157|manhattan beach, ca|0|Error|2|2
+20661157|manhattan beach, ca|74367571|Carson, D.A./Notchville, USA|1|2
+20661157|manhattan beach, ca|0|Error|1|2
+20661157|manhattan beach, ca|1709372179|Error|1|2
+20661157|manhattan beach, ca|0|Error|1|2
+20661157|manhattan beach, ca|0|Error|1|2
+20661157|manhattan beach, ca|80405039|Error|1|2
+20661157|manhattan beach, ca|0|Error|1|2
+20661157|manhattan beach, ca|802750369|Error|1|2
+20661157|manhattan beach, ca|0|Error|1|2
+20661157|manhattan beach, ca|0|Error|1|2
+20661157|manhattan beach, ca|18181521|In ur mind fucking YOU! |1|2
+20661157|manhattan beach, ca|25853823|In my Skin.|1|2
+20661157|manhattan beach, ca|0|Error|1|2
+20661157|manhattan beach, ca|22702271|Error|1|2
+17607285|manhattan beach, ca|0|Error|3|2
+17607285|manhattan beach, ca|0|Error|1|2
+17607285|manhattan beach, ca|16368397|Anaheim, CA|1|2
+17607285|manhattan beach, ca|18783973|Everywhere|1|2
+17607285|manhattan beach, ca|62581962|Error|1|2
+17607285|manhattan beach, ca|9606102|iPhone: 37.767652,-122.391522|1|2
+17607285|manhattan beach, ca|0|Error|1|2
+17607285|manhattan beach, ca|0|Error|1|2
+17607285|manhattan beach, ca|0|Error|1|2
+17607285|manhattan beach, ca|0|Error|1|2
+17607285|manhattan beach, ca|55458513|Los Angeles, CA|1|2
+10283882|manhattan beach, ca|0|Error|1|2
+10283882|manhattan beach, ca|11320112|London, England|1|2
+10283882|manhattan beach, ca|15783964|Santa Monica, CA|1|2
+10283882|manhattan beach, ca|96259882|Error|1|2
+10283882|manhattan beach, ca|9761822|Los Angeles, CA|1|2
+10283882|manhattan beach, ca|14836710|Error|1|2
+10283882|manhattan beach, ca|5668942|San Francisco, CA|1|2
+10283882|manhattan beach, ca|14690297|Menlo Park, CA|1|2
+10283882|manhattan beach, ca|5768872|NYC|1|2
+10283882|manhattan beach, ca|34862549|Los Angeles, CA|1|2
+10283882|manhattan beach, ca|15039632|team@christinagagnier.com|1|2
+62887229|manhattan beach, ca|92571105|Error|2|2

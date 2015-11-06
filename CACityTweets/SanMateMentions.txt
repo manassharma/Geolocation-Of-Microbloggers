@@ -1,0 +1,936 @@
+17497382|san mateo, ca|17497382|San Mateo, CA|5|2
+17497382|san mateo, ca|17528199|San Francisco + Wine Country|3|2
+17497382|san mateo, ca|15597024|South Berwick, Maine|2|2
+17497382|san mateo, ca|0|Error|2|2
+17497382|san mateo, ca|17801384|San Francisco|2|2
+17497382|san mateo, ca|6452782|Santa Cruz, California|2|2
+17497382|san mateo, ca|16824094|Cleveland, OH, USA|2|2
+17497382|san mateo, ca|15810385|Atlanta, GA, US|2|2
+17497382|san mateo, ca|6894212|San Francisco, CA|2|2
+17497382|san mateo, ca|19383954|Los Angeles|2|2
+17497382|san mateo, ca|535951976|Error|2|2
+17497382|san mateo, ca|35650702|Error|2|2
+17497382|san mateo, ca|18759676|London|2|2
+17497382|san mateo, ca|1566013508|Brooklyn|1|2
+17497382|san mateo, ca|622543|San Francisco, CA|1|2
+17497382|san mateo, ca|15892690|Austin, TX|1|2
+17497382|san mateo, ca|69648081|Toronto, Canada|1|2
+17497382|san mateo, ca|0|Error|1|2
+17497382|san mateo, ca|1885709844|Error|1|2
+17497382|san mateo, ca|709933|Malvern, PA|1|2
+17497382|san mateo, ca|17010650|SF Bay Area|1|2
+17497382|san mateo, ca|19302627|Phoenix, Arizona|1|2
+17497382|san mateo, ca|24941379|San Francisco, CA|1|2
+17497382|san mateo, ca|22950712|San Francisco, CA|1|2
+17497382|san mateo, ca|12696972|Boston, MA|1|2
+17497382|san mateo, ca|14681696|Narberth, Pennsylvania|1|2
+17497382|san mateo, ca|1734381|Australia|1|2
+17497382|san mateo, ca|871891|Minneapolis, MN|1|2
+17497382|san mateo, ca|21812410|San Jose, CA|1|2
+17497382|san mateo, ca|18947406|Newton, Massachusetts|1|2
+17497382|san mateo, ca|15460138|Manhattan Beach, CA|1|2
+17497382|san mateo, ca|14934774|Berwyn, PA|1|2
+17497382|san mateo, ca|0|Error|1|2
+17497382|san mateo, ca|23073565|Error|1|2
+17497382|san mateo, ca|0|Error|1|2
+17497382|san mateo, ca|9816582|Arden Hills, MN|1|2
+17497382|san mateo, ca|36483052|Orange County, CA|1|2
+17497382|san mateo, ca|299235261|Error|1|2
+17497382|san mateo, ca|15211580|Austin, TX|1|2
+17497382|san mateo, ca|0|Error|1|2
+17497382|san mateo, ca|28425944|Houston, TX|1|2
+17497382|san mateo, ca|14502857|Cupertino, CA, USA|1|2
+17497382|san mateo, ca|14058185|San Diego, CA|1|2
+17497382|san mateo, ca|0|Error|1|2
+17497382|san mateo, ca|16910215|Silicon Valley, CA|1|2
+17497382|san mateo, ca|0|Error|1|2
+17497382|san mateo, ca|0|Error|1|2
+17497382|san mateo, ca|0|Error|1|2
+17497382|san mateo, ca|0|Error|1|2
+17497382|san mateo, ca|24885748|Silicon Valley, CA|1|2
+17497382|san mateo, ca|22349464|Error|1|2
+17497382|san mateo, ca|14388239|Mountain View, CA|1|2
+17497382|san mateo, ca|20540177|San Francisco, CA|1|2
+17497382|san mateo, ca|14717834|sf|1|2
+17497382|san mateo, ca|25577498|Seattle, WA|1|2
+17497382|san mateo, ca|17488912|Houston|1|2
+17497382|san mateo, ca|0|Error|1|2
+17497382|san mateo, ca|32143306|Boston, MA|1|2
+15838599|san mateo, ca|546700689|Error|4|2
+15838599|san mateo, ca|11883132|San Francisco|3|2
+15838599|san mateo, ca|72271411|Celaya, Gto. MEX|3|2
+15838599|san mateo, ca|39306884|The Void|3|2
+15838599|san mateo, ca|14035292|Los Angeles|2|2
+15838599|san mateo, ca|17022511|East NY, Americas Got Talent, |2|2
+15838599|san mateo, ca|425477811|Coeur d'Alene, ID|2|2
+15838599|san mateo, ca|153688862|Error|2|2
+15838599|san mateo, ca|2455940006|Fort Smith, ARkansas|1|2
+15838599|san mateo, ca|15773691|Fayetteville, Arkansas|1|2
+15838599|san mateo, ca|16123770|Tucson, AZ|1|2
+15838599|san mateo, ca|15913|Seattle via New England|1|2
+15838599|san mateo, ca|17552077|Los Angeles, CA|1|2
+15838599|san mateo, ca|55149993|Brooklyn, NY|1|2
+15838599|san mateo, ca|38684628|South|1|2
+15838599|san mateo, ca|22079935|Seattle|1|2
+15838599|san mateo, ca|25169612|Africa|1|2
+15838599|san mateo, ca|3958920014|Error|1|2
+15838599|san mateo, ca|15852860|New York City & Danbury, CT|1|2
+15838599|san mateo, ca|58114080|Ba Slime Se|1|2
+15838599|san mateo, ca|30131006|iPhone: 42.338036,-71.082275|1|2
+15838599|san mateo, ca|0|Error|1|2
+15838599|san mateo, ca|0|Error|1|2
+15838599|san mateo, ca|43170475|San Francisco, CA|1|2
+15838599|san mateo, ca|11928542|Error|1|2
+15838599|san mateo, ca|6220222|usa|1|2
+15838599|san mateo, ca|51567202|UK|1|2
+15838599|san mateo, ca|34637374|Error|1|2
+15838599|san mateo, ca|43957885|Error|1|2
+15838599|san mateo, ca|38819847|Tucson, Arizona|1|2
+15838599|san mateo, ca|41008598|San Mateo, CA|1|2
+15838599|san mateo, ca|0|Error|1|2
+15838599|san mateo, ca|26326756|LA|1|2
+15838599|san mateo, ca|49704083|Error|1|2
+15838599|san mateo, ca|21951745|Neo Cydonia|1|2
+17175630|san mateo, ca|0|Error|10|2
+17175630|san mateo, ca|17078582|San Ramon, California|4|2
+17175630|san mateo, ca|15359947|Solana beach, CA, USA|3|2
+17175630|san mateo, ca|20698426|New Orleans, LA|2|2
+17175630|san mateo, ca|18585374|Earth|2|2
+17175630|san mateo, ca|69586156|Utah|1|2
+17175630|san mateo, ca|17061337|La Costa CA|1|2
+17175630|san mateo, ca|73651689|Amman|1|2
+17175630|san mateo, ca|329893960|Error|1|2
+17175630|san mateo, ca|151771977|Error|1|2
+17175630|san mateo, ca|21435812|Grand Rapids, MI|1|2
+17175630|san mateo, ca|263332923|Chicago, IL|1|2
+17175630|san mateo, ca|25469337|Seattle, WA|1|2
+17175630|san mateo, ca|0|Error|1|2
+17175630|san mateo, ca|18333300|Error|1|2
+17175630|san mateo, ca|7303532|Taipei / Indianapolis|1|2
+1578141|san mateo, ca|0|Error|1|2
+1578141|san mateo, ca|7782372|Oakland, CA|1|2
+1578141|san mateo, ca|0|Error|1|2
+1578141|san mateo, ca|1578141|San Mateo, CA|1|2
+11540722|san mateo, ca|19316708|San Mateo, CA|5|2
+11540722|san mateo, ca|0|Error|2|2
+11540722|san mateo, ca|45506489|Error|1|2
+11540722|san mateo, ca|0|Error|1|2
+11540722|san mateo, ca|282738708|Chattanooga, TN|1|2
+11540722|san mateo, ca|0|Error|1|2
+11540722|san mateo, ca|0|Error|1|2
+796605|san mateo, california|0|Error|1|2
+796605|san mateo, california|134761775|Error|1|2
+796605|san mateo, california|7356952|Minneapolis, MN|1|2
+796605|san mateo, california|14930298|iPhone: 37.086655,-121.815887|1|2
+796605|san mateo, california|0|Error|1|2
+796605|san mateo, california|0|Error|1|2
+5781622|san mateo, ca|11094452|San Francisco|2|2
+5781622|san mateo, ca|6017542|Global|2|2
+5781622|san mateo, ca|14701494|Redwood City, CA|1|2
+5781622|san mateo, ca|12888632|The Valley Of The Sun, Arizona|1|2
+5781622|san mateo, ca|18688861|Sydney, Australia|1|2
+5781622|san mateo, ca|3714411|New York, NY|1|2
+5781622|san mateo, ca|12371632|Boca Raton, FL|1|2
+5781622|san mateo, ca|6909932|Los Angeles, CA|1|2
+5781622|san mateo, ca|13220032|Tampa|1|2
+38033477|san mateo, ca|811518|Hollidaysburg, PA|1|2
+38033477|san mateo, ca|11903332|iPhone: 32.919030,-79.716325|1|2
+38033477|san mateo, ca|0|Error|1|2
+25321083|san mateo, ca|25321083|San Francisco, CA|11|2
+25321083|san mateo, ca|1424471|Den Haag, NL|3|2
+25321083|san mateo, ca|39716272|Bremen|2|2
+25321083|san mateo, ca|15758846|Bay Area California|2|2
+25321083|san mateo, ca|16558953|London, England|2|2
+25321083|san mateo, ca|0|Error|2|2
+25321083|san mateo, ca|63833596|Los Angeles, CA|2|2
+25321083|san mateo, ca|2905386591|Error|1|2
+25321083|san mateo, ca|15793825|Atlanta, GA|1|2
+25321083|san mateo, ca|659013|HTTP 301 Redirect|1|2
+25321083|san mateo, ca|21366076|Atlanta, GA|1|2
+25321083|san mateo, ca|14156417|Dallas, TX, USA|1|2
+25321083|san mateo, ca|15456860|Michigan|1|2
+25321083|san mateo, ca|863391|Palo Alto, California|1|2
+25321083|san mateo, ca|0|Error|1|2
+25321083|san mateo, ca|8527372|New Zealand|1|2
+25321083|san mateo, ca|16876339|Chicago, IL|1|2
+25321083|san mateo, ca|5812452|San Francisco|1|2
+25321083|san mateo, ca|21392398|Berlin|1|2
+25321083|san mateo, ca|11778072|Los Angeles, CA|1|2
+25321083|san mateo, ca|0|Error|1|2
+18112970|san mateo, california|158974791|Chicago|11|2
+18112970|san mateo, california|857751|Error|9|2
+18112970|san mateo, california|32791475|Dallas, TX|6|2
+18112970|san mateo, california|101181819|Global|6|2
+18112970|san mateo, california|20568127|San Francisco|6|2
+18112970|san mateo, california|15135567|Toronto, Canada|5|2
+18112970|san mateo, california|0|Error|5|2
+18112970|san mateo, california|23856181|Seattle|4|2
+18112970|san mateo, california|0|Error|3|2
+18112970|san mateo, california|0|Error|3|2
+18112970|san mateo, california|16014113|SF Bay Area|3|2
+18112970|san mateo, california|25762022|Michigan|3|2
+18112970|san mateo, california|40753317|UK|3|2
+18112970|san mateo, california|362646022|Error|2|2
+18112970|san mateo, california|0|Error|2|2
+18112970|san mateo, california|0|Error|2|2
+18112970|san mateo, california|16687759|GEORGIA!!!|2|2
+18112970|san mateo, california|21131960|Tampa Bay, Florida|2|2
+18112970|san mateo, california|18540625|33.716391921,-118.046019673|2|2
+18112970|san mateo, california|0|Error|2|2
+18112970|san mateo, california|799302|Iowa|2|2
+18112970|san mateo, california|0|Error|2|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|140541612|Error|1|2
+18112970|san mateo, california|16688247|Fresno, CA|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|20196245|DFW, Texas|1|2
+18112970|san mateo, california|16541658|38.898787,-77.201563|1|2
+18112970|san mateo, california|18557961|SF Bay Area|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|25933742|Los Angeles, CA|1|2
+18112970|san mateo, california|6017542|Global|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|16280882|Gig Harbor, Washington|1|2
+18112970|san mateo, california|2169650658|Error|1|2
+18112970|san mateo, california|6089492|Las Vegas, NV|1|2
+18112970|san mateo, california|51334180|Global|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|19159564|Surrey, from rags to riches.|1|2
+18112970|san mateo, california|14221588|Dallas, Texas|1|2
+18112970|san mateo, california|10252962|Los Angeles, CA|1|2
+18112970|san mateo, california|38344840|Error|1|2
+15754040|san mateo, ca|0|Error|7|2
+15754040|san mateo, ca|87758068|San Francisco, CA|4|2
+15754040|san mateo, ca|14929633|On the world wide web|3|2
+15754040|san mateo, ca|0|Error|2|2
+15754040|san mateo, ca|111063398|Error|2|2
+15754040|san mateo, ca|2425804992|Littleton, CO|2|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|972651|Error|1|2
+15754040|san mateo, ca|18739458|Fort Worth ,Texas|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|17787880|Manchester, UK|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|794111|Boston, MA|1|2
+15754040|san mateo, ca|2836421|Error|1|2
+15754040|san mateo, ca|9466382|Tucson AZ|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|13297|Massachusetts, USA|1|2
+15754040|san mateo, ca|3072049535|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|13316782|London|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|15264153|Pleasanton, California|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|2904200484|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|81166200|St. Petersburg, FL|1|2
+15754040|san mateo, ca|1096606224|Error|1|2
+15754040|san mateo, ca|23029067|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|7144422|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|285246096|Error|1|2
+15754040|san mateo, ca|14540736|Cambridge, MA|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|33868209|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|14317401|Auckland, New Zealand|1|2
+15754040|san mateo, ca|17156131|Brussels|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|23863635|Anywhere Broadband Is Needed|1|2
+15754040|san mateo, ca|19086806|Berlin Tempelhof|1|2
+15754040|san mateo, ca|73414448|Philippines n Singapore|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|2504501514|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|20682620|New York, New York|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|1746461|New Delhi|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|27985256|Located @ Fort Polk, LA|1|2
+15754040|san mateo, ca|14676905|Jerusalem, Israel|1|2
+15754040|san mateo, ca|16398912|Louisville, Ky|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|14611408|Los Angeles, CA|1|2
+15754040|san mateo, ca|15736190|Freiburg, Germany|1|2
+15754040|san mateo, ca|0|Error|1|2
+15754040|san mateo, ca|33513777|Israel|1|2
+14837691|san mateo, ca|75964995|Global|2|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|31089329|London, England|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|972651|Error|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|390105645|Error|1|2
+14837691|san mateo, ca|823102|Minneapolis, MN|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|14094570|New York|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|11745002|Castro Valley, CA|1|2
+14837691|san mateo, ca|17528199|San Francisco + Wine Country|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|5691672|San Francisco|1|2
+14837691|san mateo, ca|20704836|San Francisco|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|12955672|Annapolis, Maryland|1|2
+14837691|san mateo, ca|3107271|Stratospheric|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|6843302|San Francisco, CA|1|2
+14837691|san mateo, ca|0|Error|1|2
+14837691|san mateo, ca|3166240414|Error|1|2
+21262600|san mateo, ca|20090928|Error|5|2
+21262600|san mateo, ca|14075928|Error|1|2
+21262600|san mateo, ca|20090914|Error|1|2
+21262600|san mateo, ca|20091013|Washington DC|1|2
+21262600|san mateo, ca|0|Error|1|2
+21262600|san mateo, ca|20090909|Error|1|2
+21262600|san mateo, ca|20090911|belfast|1|2
+21262600|san mateo, ca|0|Error|1|2
+21262600|san mateo, ca|20090825|NYC|1|2
+21262600|san mateo, ca|0|Error|1|2
+21262600|san mateo, ca|0|Error|1|2
+21262600|san mateo, ca|0|Error|1|2
+21262600|san mateo, ca|20090908|Error|1|2
+21262600|san mateo, ca|5392522|Washington, DC|1|2
+816388|san mateo, california|0|Error|7|2
+816388|san mateo, california|15235983|Error|6|2
+816388|san mateo, california|6076652|San Francisco, CA, USA|5|2
+816388|san mateo, california|822382|Bonn, Europe|3|2
+816388|san mateo, california|22048233|Los Angeles|2|2
+816388|san mateo, california|15182854|San Francisco|2|2
+816388|san mateo, california|14692093|new york city, baby|2|2
+816388|san mateo, california|14985117|LA via NYC then a Vineyard!|2|2
+816388|san mateo, california|2787551|Gone to the dogs, USA|2|2
+816388|san mateo, california|28399797|Error|2|2
+816388|san mateo, california|14107081|Singapore|1|2
+816388|san mateo, california|19375940|San Francisco|1|2
+816388|san mateo, california|9457522|NYC / ATL|1|2
+816388|san mateo, california|0|Error|1|2
+816388|san mateo, california|12217|Error|1|2
+816388|san mateo, california|763913702|Error|1|2
+816388|san mateo, california|14019612|San Francisco|1|2
+816388|san mateo, california|14083627|Portland | Silicon Valley|1|2
+816388|san mateo, california|9184282|New York|1|2
+816388|san mateo, california|11489|San Francisco, CA |1|2
+816388|san mateo, california|31469186|New York City|1|2
+816388|san mateo, california|14222721|Portland OR|1|2
+816388|san mateo, california|0|Error|1|2
+816388|san mateo, california|2390651|Silicon Valley|1|2
+816388|san mateo, california|48303622|Error|1|2
+816388|san mateo, california|21354459|Los Angeles CA|1|2
+816388|san mateo, california|16775582|San Francisco|1|2
+816388|san mateo, california|10274|Austin, TX|1|2
+816388|san mateo, california|14062267|The city by the bay|1|2
+816388|san mateo, california|16443610|Rochester, NY|1|2
+816388|san mateo, california|0|Error|1|2
+816388|san mateo, california|1424001|Boulder, Colorado|1|2
+816388|san mateo, california|9412112|San Francisco|1|2
+816388|san mateo, california|0|Error|1|2
+816388|san mateo, california|0|Error|1|2
+816388|san mateo, california|1318301|Brooklyn|1|2
+816388|san mateo, california|303139968|Error|1|2
+816388|san mateo, california|817268|Silicon Valley|1|2
+816388|san mateo, california|82714804|Error|1|2
+816388|san mateo, california|7242842|iPhone: 37.947906,-121.947342|1|2
+816388|san mateo, california|0|Error|1|2
+816388|san mateo, california|0|Error|1|2
+816388|san mateo, california|17478436|NYC | Miami|1|2
+816388|san mateo, california|21264379|Los Angeles, CA|1|2
+816388|san mateo, california|844631|Silicon Valley, Ca.|1|2
+816388|san mateo, california|888|Error|1|2
+816388|san mateo, california|3350440571|Error|1|2
+816388|san mateo, california|817288|SF: Disruptopia, USA|1|2
+816388|san mateo, california|8132322|San Francisco/Silicon Valley|1|2
+816388|san mateo, california|14330524|Eibar, Euskadi (sometimes)|1|2
+816388|san mateo, california|11817092|Orange County, CA|1|2
+816388|san mateo, california|29767444|Menlo Park, CA|1|2
+816388|san mateo, california|0|Error|1|2
+816388|san mateo, california|0|Error|1|2
+816388|san mateo, california|5658202|Atlanta, GA|1|2
+61114279|san mateo, ca|15907720|DC & NYC|3|2
+61114279|san mateo, ca|48293438|Tehran, Iran|1|2
+22715371|san mateo, ca|2239951902|Error|3|2
+22715371|san mateo, ca|12293022|Upstate SC|2|2
+22715371|san mateo, ca|875610608|Houston Area|2|2
+22715371|san mateo, ca|0|Error|1|2
+22715371|san mateo, ca|34471663|Error|1|2
+22715371|san mateo, ca|0|Error|1|2
+22715371|san mateo, ca|1065921|so cal|1|2
+22715371|san mateo, ca|13461662|Chicago, IL|1|2
+22715371|san mateo, ca|0|Error|1|2
+22715371|san mateo, ca|0|Error|1|2
+22715371|san mateo, ca|85454701|Boston, MA|1|2
+22715371|san mateo, ca|22452533|New York City|1|2
+22715371|san mateo, ca|266664118|United States|1|2
+22715371|san mateo, ca|61906274|moved to LA |1|2
+22715371|san mateo, ca|11997592|San Francisco, CA|1|2
+22715371|san mateo, ca|14354184|San Francisco|1|2
+22715371|san mateo, ca|24949179|South Jersey|1|2
+22715371|san mateo, ca|20540935|New York|1|2
+15114409|san mateo, ca|11883132|San Francisco|2|2
+15114409|san mateo, ca|35723373|Shetland|2|2
+15114409|san mateo, ca|47484017|USA - Clearwater, FL|1|2
+15114409|san mateo, ca|31417347|Royal Oak and Madison Heights|1|2
+15114409|san mateo, ca|34001794|Palo Alto, CA|1|2
+15114409|san mateo, ca|54571548|Olympia, WA|1|2
+15114409|san mateo, ca|329595319|Virginia|1|2
+15114409|san mateo, ca|52020162|UK|1|2
+15114409|san mateo, ca|26353722|Error|1|2
+15114409|san mateo, ca|14603517|NYC|1|2
+15114409|san mateo, ca|2575811|SF Bay Area|1|2
+15114409|san mateo, ca|7618352|Austin, TX|1|2
+15114409|san mateo, ca|0|Error|1|2
+15114409|san mateo, ca|103799320|Error|1|2
+13508092|san mateo, ca|14485176|Bay Area|1|2
+13508092|san mateo, ca|0|Error|1|2
+13508092|san mateo, ca|0|Error|1|2
+13508092|san mateo, ca|0|Error|1|2
+13508092|san mateo, ca|0|Error|1|2
+13508092|san mateo, ca|0|Error|1|2
+13508092|san mateo, ca|1378|LAX SFO NYC|1|2
+13508092|san mateo, ca|0|Error|1|2
+13508092|san mateo, ca|0|Error|1|2
+13508092|san mateo, ca|20750308|Gulfport, MS|1|2
+13508092|san mateo, ca|0|Error|1|2
+13508092|san mateo, ca|13|San Francisco, CA|1|2
+13508092|san mateo, ca|5775622|SF Bay Area|1|2
+13508092|san mateo, ca|58632707|Error|1|2
+13508092|san mateo, ca|0|Error|1|2
+13508092|san mateo, ca|0|Error|1|2
+13508092|san mateo, ca|13508092|San Mateo, CA|1|2
+13508092|san mateo, ca|18338254|San Francisco|1|2
+13508092|san mateo, ca|37861681|San Francisco Bay Area|1|2
+13508092|san mateo, ca|6067692|san mateo, ca|1|2
+13508092|san mateo, ca|0|Error|1|2
+14336271|san mateo, california|62610547|Washington State|5|2
+14336271|san mateo, california|15890955|NYC|3|2
+14336271|san mateo, california|17571786|The Bay Area, CA|2|2
+14336271|san mateo, california|820906|Error|2|2
+14336271|san mateo, california|12859452|California|1|2
+14336271|san mateo, california|6086892|Ann Arbor, MI|1|2
+14336271|san mateo, california|0|Error|1|2
+14336271|san mateo, california|30953|East Atlanta Village|1|2
+14336271|san mateo, california|0|Error|1|2
+14336271|san mateo, california|16287995|NYC|1|2
+14336271|san mateo, california|123386872|Not California|1|2
+14336271|san mateo, california|770065|Error|1|2
+14336271|san mateo, california|9109472|Los Angeles, CA|1|2
+14336271|san mateo, california|3180308101|Error|1|2
+14336271|san mateo, california|14693105|San Francisco, CA|1|2
+13031012|san mateo, ca|568422938|Phoenix Arizona|5|2
+13031012|san mateo, ca|1961331|Colorado Springs, CO|5|2
+13031012|san mateo, ca|16553897|Pullman, WA|4|2
+13031012|san mateo, ca|15282079|Error|4|2
+13031012|san mateo, ca|14887358|The Woodlands|3|2
+13031012|san mateo, ca|11404952|Fredericksburg, Virginia|3|2
+13031012|san mateo, ca|12768202|Lansing Michigan|2|2
+13031012|san mateo, ca|428333|Everywhere|2|2
+13031012|san mateo, ca|38901924|Seattle, WA|2|2
+13031012|san mateo, ca|18460854|Kansas City, MO|2|2
+13031012|san mateo, ca|364961723|Cape Town, South Africa|1|2
+13031012|san mateo, ca|16252536|Orlando, FL|1|2
+13031012|san mateo, ca|23085098|Error|1|2
+13031012|san mateo, ca|6470322|Huxley, Iowa|1|2
+13031012|san mateo, ca|17329654|Charlottetown PEI|1|2
+13031012|san mateo, ca|68956490|Wisconsin|1|2
+13031012|san mateo, ca|24639845|vic|1|2
+13031012|san mateo, ca|12423822|Austin, TX|1|2
+13031012|san mateo, ca|10827142|Fredericksburg, VA|1|2
+13031012|san mateo, ca|19711799|Error|1|2
+13031012|san mateo, ca|9678372|San Francisco|1|2
+13031012|san mateo, ca|991703364|Error|1|2
+13031012|san mateo, ca|21990874|New Orleans, LA|1|2
+13031012|san mateo, ca|15632415|Missoula, MT|1|2
+13031012|san mateo, ca|3347272349|Error|1|2
+13031012|san mateo, ca|12854802|Short Hills, Maplewood,Summit,|1|2
+13031012|san mateo, ca|14415158|San Francisco Bay Area|1|2
+13031012|san mateo, ca|159762553|Error|1|2
+13031012|san mateo, ca|16136799|NJ|1|2
+13031012|san mateo, ca|0|Error|1|2
+13031012|san mateo, ca|65742595|Error|1|2
+13031012|san mateo, ca|19038128|Scottsdale, AZ|1|2
+13031012|san mateo, ca|6513952|+972|1|2
+13031012|san mateo, ca|17342661|California|1|2
+13031012|san mateo, ca|21138842|Scottsdale, Arizona|1|2
+13031012|san mateo, ca|18691917|SF Bay Area|1|2
+13031012|san mateo, ca|1002261|The Woodlands TX 77381|1|2
+13031012|san mateo, ca|10912502|Bloomfield Hills, Michigan|1|2
+13031012|san mateo, ca|14574718|San Mateo, CA, USA|1|2
+839321|san mateo, ca|79543|Silicon Valley, CA|6|2
+839321|san mateo, ca|14571399|The Web|3|2
+839321|san mateo, ca|21695242|Denver, CO|2|2
+839321|san mateo, ca|15846428|Sydney, Australia|2|2
+839321|san mateo, ca|14562685|Silicon Valley | SF | 39.5K Ft|2|2
+839321|san mateo, ca|781381|Silicon Valley, California|2|2
+839321|san mateo, ca|38797286|Error|2|2
+839321|san mateo, ca|4250571|Chicago & New York City|2|2
+839321|san mateo, ca|11848|SF & NYC|2|2
+839321|san mateo, ca|8453452|Silicon Valley, California|1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|662763|SFO, BOS, NYC|1|2
+839321|san mateo, ca|19060908|East Region|1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|19989714|New York|1|2
+839321|san mateo, ca|2503609994|Error|1|2
+839321|san mateo, ca|82739746|Tomorrow|1|2
+839321|san mateo, ca|41529055|VirginAmerica 2A|1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|16176431|Tampa Bay  Florida|1|2
+839321|san mateo, ca|33045593|Munich, Germany|1|2
+839321|san mateo, ca|18264990|Spokane, WA|1|2
+839321|san mateo, ca|13388932|San Jose, CA|1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|17429334|Tribeca, or up in the air|1|2
+839321|san mateo, ca|14590903|Rochester, NY|1|2
+839321|san mateo, ca|16718326|Little Red Dot, SG|1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|16998529|New York, NY|1|2
+839321|san mateo, ca|20065558|East Austin, TX; Stockholm, SE|1|2
+839321|san mateo, ca|808545|San Francisco, CA|1|2
+839321|san mateo, ca|8622162|Bangalore |1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|15301373|Boston|1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|13198|sf|1|2
+839321|san mateo, ca|22070075|Black Forest, CO|1|2
+839321|san mateo, ca|17668347|Boston|1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|15444766|Berlin, Istanbul|1|2
+839321|san mateo, ca|11991832|New York City Area|1|2
+839321|san mateo, ca|87967922|Santa Barbara, CA|1|2
+839321|san mateo, ca|80590189|Brooklyn, NY & Lima, Peru|1|2
+839321|san mateo, ca|13348|Half Moon Bay, California, USA|1|2
+839321|san mateo, ca|43197610|Richfield, MN|1|2
+839321|san mateo, ca|10798012|Seattle, Washington|1|2
+839321|san mateo, ca|839321|San Francisco, California|1|2
+839321|san mateo, ca|17439693|Rustington, UK|1|2
+839321|san mateo, ca|48037079|Hillsborough, CA|1|2
+839321|san mateo, ca|43561927|Michigan State University, MI|1|2
+839321|san mateo, ca|3883196233|Cambridge, MA|1|2
+839321|san mateo, ca|14855279|Sioux Falls, SD|1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|0|Error|1|2
+839321|san mateo, ca|6189102|Plano, TX|1|2
+839321|san mateo, ca|14614966|Bentonville, Arkansas - USA|1|2
+839321|san mateo, ca|0|Error|1|2
+15000252|san mateo, ca|0|Error|4|2
+15000252|san mateo, ca|0|Error|3|2
+15000252|san mateo, ca|0|Error|2|2
+15000252|san mateo, ca|0|Error|2|2
+15000252|san mateo, ca|0|Error|1|2
+15000252|san mateo, ca|0|Error|1|2
+15000252|san mateo, ca|0|Error|1|2
+15000252|san mateo, ca|0|Error|1|2
+15000252|san mateo, ca|0|Error|1|2
+15000252|san mateo, ca|498470448|Error|1|2
+15000252|san mateo, ca|12421852|San Francisco, CA|1|2
+15000252|san mateo, ca|17239404|San Francisco|1|2
+15000252|san mateo, ca|10545772|Los Angeles, CA|1|2
+15000252|san mateo, ca|158057155|Error|1|2
+15000252|san mateo, ca|766652|Berlin, Germany|1|2
+15000252|san mateo, ca|16179902|Wheels Up!|1|2
+15000252|san mateo, ca|57047586|Everywhere|1|2
+15000252|san mateo, ca|10704|sf|1|2
+15000252|san mateo, ca|10275402|Marseille - France|1|2
+15000252|san mateo, ca|0|Error|1|2
+15000252|san mateo, ca|224|San Francisco|1|2
+15000252|san mateo, ca|20166278|DC Metro area|1|2
+15000252|san mateo, ca|17011341|Santa Monica, CA|1|2
+15000252|san mateo, ca|5109561|London|1|2
+15000252|san mateo, ca|807095|New York City|1|2
+15000252|san mateo, ca|19779404|San Francisco|1|2
+15000252|san mateo, ca|15640775|San Francisco, CA|1|2
+15000252|san mateo, ca|16664681|Los Angeles, CA|1|2
+15000252|san mateo, ca|0|Error|1|2
+15000252|san mateo, ca|44886859|United States|1|2
+15000252|san mateo, ca|7744592|Studio 1A|1|2
+15000252|san mateo, ca|0|Error|1|2
+15000252|san mateo, ca|23962809|Hither and Thither|1|2
+15000252|san mateo, ca|25696623|Bechtelsville, PA, USA|1|2
+15000252|san mateo, ca|21106350|Las Vegas|1|2
+15000252|san mateo, ca|17744829|New Jersey|1|2
+15000252|san mateo, ca|10937622|We work at home in our PJs|1|2
+15000252|san mateo, ca|51393145|San Diego|1|2
+15000252|san mateo, ca|14999454|San Francisco, CA|1|2
+15000252|san mateo, ca|17785945|Southampton, UK|1|2
+15000252|san mateo, ca|19560819|UK|1|2
+15000252|san mateo, ca|14715437|Error|1|2
+15000252|san mateo, ca|19285029|London|1|2
+15000252|san mateo, ca|0|Error|1|2
+15000252|san mateo, ca|17219108|New York, NY|1|2
+15000252|san mateo, ca|134801157|RRNagar,  Bangalore 560098|1|2
+39379884|san mateo, ca|11883132|San Francisco|2|2
+19985127|san mateo, ca|0|Error|2|2
+19985127|san mateo, ca|31490719|Error|2|2
+19985127|san mateo, ca|21412710|Toronto, ON, Canada|1|2
+19985127|san mateo, ca|18939860|I'm here and there.|1|2
+19985127|san mateo, ca|0|Error|1|2
+19985127|san mateo, ca|44967579|Philippines|1|2
+19985127|san mateo, ca|15230191|Palmyra|1|2
+19985127|san mateo, ca|0|Error|1|2
+19985127|san mateo, ca|45472287|Windy City |1|2
+19985127|san mateo, ca|17355848|Chicago, IL|1|2
+19985127|san mateo, ca|357700612|Houston, Texas|1|2
+19985127|san mateo, ca|18760460|Fort Lauderdale, FL|1|2
+19985127|san mateo, ca|0|Error|1|2
+19985127|san mateo, ca|16627727|Chicago IL|1|2
+19985127|san mateo, ca|34675554|Florida|1|2
+19985127|san mateo, ca|22501141|the buckeye state|1|2
+19985127|san mateo, ca|21805518|London|1|2
+19985127|san mateo, ca|18567189|San Jose, CA|1|2
+19985127|san mateo, ca|0|Error|1|2
+19985127|san mateo, ca|18219116|Long Beach, CA 90803|1|2
+19985127|san mateo, ca|0|Error|1|2
+19985127|san mateo, ca|0|Error|1|2
+19985127|san mateo, ca|0|Error|1|2
+19985127|san mateo, ca|15710826|Hermon, ME|1|2
+19985127|san mateo, ca|0|Error|1|2
+19985127|san mateo, ca|17478809|New Mexico|1|2
+19985127|san mateo, ca|15006018|Toronto, Ontario|1|2
+14093638|san mateo, ca|397364819|Error|2|2
+14093638|san mateo, ca|19039230|iPhone: 37.574848,-122.326126|1|2
+14093638|san mateo, ca|79797834|Chicago|1|2
+14093638|san mateo, ca|107|SF / NYC|1|2
+14093638|san mateo, ca|2497398571|Error|1|2
+14093638|san mateo, ca|28049003|Vancouver|1|2
+14093638|san mateo, ca|1183041|Los Angeles|1|2
+14093638|san mateo, ca|16217905|Santa Cruz California |1|2
+14093638|san mateo, ca|17439038|Cedar Rapids|1|2
+14093638|san mateo, ca|15588657|Global|1|2
+14093638|san mateo, ca|11740902|Global|1|2
+14093638|san mateo, ca|18812795|Error|1|2
+14093638|san mateo, ca|1211311|San Francisco, CA|1|2
+14093638|san mateo, ca|0|Error|1|2
+14093638|san mateo, ca|36348213|Denmark|1|2
+14501400|san mateo, ca|0|Error|2|2
+14501400|san mateo, ca|0|Error|1|2
+14501400|san mateo, ca|16050032|USA|1|2
+14501400|san mateo, ca|5740752|Error|1|2
+14501400|san mateo, ca|0|Error|1|2
+14501400|san mateo, ca|0|Error|1|2
+14501400|san mateo, ca|9534522|USA|1|2
+14501400|san mateo, ca|69938838|Smartphones|1|2
+14501400|san mateo, ca|0|Error|1|2
+14501400|san mateo, ca|25633498|Phoenix / Airplanes|1|2
+14501400|san mateo, ca|5169141|Pre: 3.08029174,101.593387|1|2
+18728531|san mateo, california|14171625|Santa Monica, CA|4|2
+18728531|san mateo, california|8383592|St. Petersburg, Fla.|2|2
+18728531|san mateo, california|17878196|Philadelphia, PA|2|2
+18728531|san mateo, california|34701524|Culver City and El Segundo, CA|1|2
+18728531|san mateo, california|15250836|LA, SF, Tokyo|1|2
+18728531|san mateo, california|18319800|San Francisco|1|2
+18728531|san mateo, california|63833596|Los Angeles, CA|1|2
+18728531|san mateo, california|0|Error|1|2
+18728531|san mateo, california|16302357|new york, ny|1|2
+18728531|san mateo, california|43750993|Lafayette, IN|1|2
+18728531|san mateo, california|18703437|silicon valley|1|2
+18728531|san mateo, california|0|Error|1|2
+18728531|san mateo, california|14293310|Error|1|2
+18728531|san mateo, california|0|Error|1|2
+18728531|san mateo, california|25298289|Error|1|2
+18728531|san mateo, california|0|Error|1|2
+18728531|san mateo, california|0|Error|1|2
+18728531|san mateo, california|0|Error|1|2
+18728531|san mateo, california|0|Error|1|2
+18728531|san mateo, california|16538135|Floating in Space|1|2
+18728531|san mateo, california|0|Error|1|2
+18728531|san mateo, california|21702689|Everywhere|1|2
+18412547|san mateo, california|55868167|San Mateo, California USA|2|2
+18412547|san mateo, california|124967256|Error|1|2
+18412547|san mateo, california|15661871|San Francisco|1|2
+18412547|san mateo, california|320365450|Error|1|2
+18412547|san mateo, california|35103054|Urbana, Illinois|1|2
+18412547|san mateo, california|113408223|Error|1|2
+18412547|san mateo, california|15828531|The Internet|1|2
+18412547|san mateo, california|0|Error|1|2
+18412547|san mateo, california|0|Error|1|2
+16859110|san mateo, ca|30071868|Error|2|2
+16859110|san mateo, ca|206905317|MN|2|2
+16859110|san mateo, ca|2648921|GPS: 37.980782,-84.555763|1|2
+16859110|san mateo, ca|17258217|San Francisco|1|2
+16859110|san mateo, ca|15747796|Mostoles|1|2
+16859110|san mateo, ca|0|Error|1|2
+16859110|san mateo, ca|15860698|Wellington, NZ|1|2
+16859110|san mateo, ca|782502|Redmond aka Eastern Washington|1|2
+16859110|san mateo, ca|2546631|Indianapolis |1|2
+16859110|san mateo, ca|22234082|Error|1|2
+16859110|san mateo, ca|14381504|Nashville, TN|1|2
+44909282|san mateo, california|15904829|AZ|1|2
+25118088|san mateo, ca|25321083|San Francisco, CA|5|2
+25118088|san mateo, ca|48076359|San Mateo, California|5|2
+25118088|san mateo, ca|0|Error|2|2
+25118088|san mateo, ca|24958488|Chicago|2|2
+25118088|san mateo, ca|0|Error|2|2
+25118088|san mateo, ca|37109197|Earth|2|2
+25118088|san mateo, ca|14500709|SF + )'( + LA|2|2
+25118088|san mateo, ca|0|Error|1|2
+25118088|san mateo, ca|9688342|San Francisco and elsewhere|1|2
+25118088|san mateo, ca|0|Error|1|2
+25118088|san mateo, ca|380749300|Error|1|2
+25118088|san mateo, ca|39801655|93,000 people in 72 countries|1|2
+25118088|san mateo, ca|10638782|Canada|1|2
+25118088|san mateo, ca|5664212|Berlin, San Francisco|1|2
+25118088|san mateo, ca|14078377|Toronto |1|2
+25118088|san mateo, ca|14427945|San Francisco Bay Area|1|2
+25118088|san mateo, ca|11489|San Francisco, CA |1|2
+25118088|san mateo, ca|15822053|Worldwide|1|2
+25118088|san mateo, ca|0|Error|1|2
+25118088|san mateo, ca|18991730|California|1|2
+25118088|san mateo, ca|816653|San Francisco, CA|1|2
+65099648|san mateo, california|0|Error|1|2
+71123207|san mateo, ca|21116676|CALIFORN-I-A|4|2
+71123207|san mateo, ca|16256729|Error|2|2
+71123207|san mateo, ca|71079219|Los Angeles, California|2|2
+71123207|san mateo, ca|0|Error|1|2
+71123207|san mateo, ca|291518287|Error|1|2
+71123207|san mateo, ca|36735641|San Francisco Bay Area|1|2
+71123207|san mateo, ca|222494399|New York|1|2
+71123207|san mateo, ca|904425032|Error|1|2
+71123207|san mateo, ca|58689792|San Diego, CA|1|2
+71123207|san mateo, ca|17967491|Los Angeles, CA|1|2
+71123207|san mateo, ca|19028615|Error|1|2
+71123207|san mateo, ca|0|Error|1|2
+71123207|san mateo, ca|25173006|Error|1|2
+71123207|san mateo, ca|127145587|Error|1|2
+71123207|san mateo, ca|17919972|Error|1|2
+71123207|san mateo, ca|0|Error|1|2
+71123207|san mateo, ca|0|Error|1|2
+71123207|san mateo, ca|948732408|Error|1|2
+71123207|san mateo, ca|31240434|Las Vegas|1|2
+71123207|san mateo, ca|30973|Seattle, WA|1|2
+55415313|san mateo, ca|20090827|Error|1|2
+55415313|san mateo, ca|20091103|Error|1|2
+55415313|san mateo, ca|66085290|Error|1|2
+758599|san mateo, ca|15863767|Bay Area, California|9|2
+758599|san mateo, ca|0|Error|2|2
+758599|san mateo, ca|0|Error|1|2
+758599|san mateo, ca|895971296|Error|1|2
+758599|san mateo, ca|1261024898|Error|1|2
+758599|san mateo, ca|20776696|Boston, MA|1|2
+758599|san mateo, ca|0|Error|1|2
+758599|san mateo, ca|0|Error|1|2
+758599|san mateo, ca|0|Error|1|2
+758599|san mateo, ca|0|Error|1|2
+758599|san mateo, ca|573|NYC|1|2
+758599|san mateo, ca|5917472|Portland, Maine|1|2
+758599|san mateo, ca|937961|San Francisco, CA|1|2
+758599|san mateo, ca|0|Error|1|2
+758599|san mateo, ca|30065033|San Francisco, CA|1|2
+758599|san mateo, ca|972651|Error|1|2
+758599|san mateo, ca|1976841|Out and about|1|2
+758599|san mateo, ca|0|Error|1|2
+758599|san mateo, ca|57422533|San Francsico, CA|1|2
+758599|san mateo, ca|0|Error|1|2
+758599|san mateo, ca|0|Error|1|2
+17413071|san mateo, ca|0|Error|2|2
+17413071|san mateo, ca|16516623|USA |2|2
+17413071|san mateo, ca|0|Error|2|2
+17413071|san mateo, ca|25948167|Nebraska - USA & Kenya|1|2
+17413071|san mateo, ca|235842085|Error|1|2
+17413071|san mateo, ca|14422706|Error|1|2
+17413071|san mateo, ca|15470403|DC Metro|1|2
+17413071|san mateo, ca|220865070|Error|1|2
+17413071|san mateo, ca|17641457|Knoxville|1|2
+17413071|san mateo, ca|0|Error|1|2
+17413071|san mateo, ca|14166901|Sharon MA (#1 in USA)|1|2
+17413071|san mateo, ca|26764706|Everywhere!|1|2
+17413071|san mateo, ca|1583503771|Error|1|2
+17413071|san mateo, ca|0|Error|1|2
+64206302|san mateo, ca|619863|iPhone: 37.757828,-122.388702|1|2
+64206302|san mateo, ca|0|Error|1|2
+64206302|san mateo, ca|0|Error|1|2
+29772318|san mateo, ca|29772318|San Mateo, CA|4|2
+29772318|san mateo, ca|816653|San Francisco, CA|3|2
+29772318|san mateo, ca|14521737|West Liberty, Iowa|2|2
+29772318|san mateo, ca|13348|Half Moon Bay, California, USA|2|2
+29772318|san mateo, ca|24711430|San Francisco, CA|1|2
+29772318|san mateo, ca|0|Error|1|2
+29772318|san mateo, ca|0|Error|1|2
+29772318|san mateo, ca|5520332|Los Angeles|1|2
+29772318|san mateo, ca|3840|94123|1|2
+29772318|san mateo, ca|11383652|41.885932,-87.642741|1|2
+29772318|san mateo, ca|58120509|Error|1|2
+29772318|san mateo, ca|6979812|In the Cloud|1|2
+29772318|san mateo, ca|0|Error|1|2
+29772318|san mateo, ca|14120151|Cities worldwide|1|2
+29772318|san mateo, ca|15270963|Cross Junction, VA|1|2
+29772318|san mateo, ca|322|Palo Alto|1|2
+29772318|san mateo, ca|0|Error|1|2
+29772318|san mateo, ca|0|Error|1|2
+29772318|san mateo, ca|0|Error|1|2
+29772318|san mateo, ca|0|Error|1|2
+29772318|san mateo, ca|0|Error|1|2
+29772318|san mateo, ca|6324102|ATL, SFO, sometimes Space|1|2
+29772318|san mateo, ca|14434688|Silicon Valley|1|2
+29772318|san mateo, ca|0|Error|1|2
+11540722|san mateo, ca|19316708|San Mateo, CA|4|2
+11540722|san mateo, ca|0|Error|2|2
+23116043|san mateo, ca|48265916|Error|4|2
+23116043|san mateo, ca|15918701|Heilbronn|3|2
+23116043|san mateo, ca|0|Error|2|2
+23116043|san mateo, ca|0|Error|1|2
+23116043|san mateo, ca|12687952|Buffalo, NY|1|2
+23116043|san mateo, ca|0|Error|1|2
+23116043|san mateo, ca|17469283|San Francisco Bay Area|1|2
+14804897|san mateo, ca|20947393|The Bay Area   ~ San Francisco|1|2
+34736661|san mateo, ca|61826830|San Mateo, CA|5|2
+34736661|san mateo, ca|15417978|San Diego|2|2
+34736661|san mateo, ca|15124680|Error|1|2
+34736661|san mateo, ca|0|Error|1|2
+34736661|san mateo, ca|75945128|Error|1|2
+34736661|san mateo, ca|21506437|anywhere with cell service|1|2
+34736661|san mateo, ca|913888232|MURICA|1|2
+34736661|san mateo, ca|16870682|A place to Love & Be Loved.|1|2
+34736661|san mateo, ca|0|Error|1|2
+34736661|san mateo, ca|0|Error|1|2
+34736661|san mateo, ca|23832022|Worldwide |1|2
+17037176|san mateo, ca|2413530258|Error|5|2
+17037176|san mateo, ca|0|Error|3|2
+17037176|san mateo, ca|2431991|San Francisco|2|2
+17037176|san mateo, ca|7082272|Sacramento, CA|1|2
+17037176|san mateo, ca|6037352|iPhone: 37.781925,-122.409413|1|2
+17037176|san mateo, ca|17056131|Error|1|2
+18112970|san mateo, california|6017542|Global|4|2
+18112970|san mateo, california|15422308|Oxford, MS|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|63335847|Lawrence County, TN.|1|2
+18112970|san mateo, california|225704786|Error|1|2
+18112970|san mateo, california|0|Error|1|2
+18112970|san mateo, california|14700408|Bangalore|1|2
+7924032|san mateo, california|18744226|Napa, California|4|2
+7924032|san mateo, california|17503069|Palo Alto, CA|2|2
+7924032|san mateo, california|11390312|Chocolate City (DC)|2|2
+7924032|san mateo, california|15503170|Louisville, KY|1|2
+7924032|san mateo, california|1689591|Portland, Oregon|1|2
+7924032|san mateo, california|13837292|Silicon Valley|1|2
+7924032|san mateo, california|15174692|San Francisco, CA|1|2
+7924032|san mateo, california|0|Error|1|2
+7924032|san mateo, california|39125829|San Diego, California, U.S.A.|1|2
+7924032|san mateo, california|364418549|Error|1|2
+7924032|san mateo, california|15101387|DC|1|2
+7924032|san mateo, california|814090|Orange County, CA|1|2
+7924032|san mateo, california|64833596|Detroit, Michigan|1|2
+7924032|san mateo, california|141026788|Error|1|2
+7924032|san mateo, california|9075622|San Francisco, CA, USA|1|2
+18227937|san mateo, ca|223592688|Error|2|2
+18227937|san mateo, ca|17194773|Austin, TX |2|2
+18227937|san mateo, ca|15367289|Austin, TX|1|2
+18227937|san mateo, ca|637090378|Error|1|2
+18227937|san mateo, ca|23337357|USA|1|2
+18227937|san mateo, ca|10313432|Raleigh, NC|1|2
+18227937|san mateo, ca|21445694|Hawaii|1|2
+18227937|san mateo, ca|11998652|Raleigh, NC|1|2
+18227937|san mateo, ca|0|Error|1|2
+18227937|san mateo, ca|89323026|Error|1|2
+18227937|san mateo, ca|0|Error|1|2
+18227937|san mateo, ca|2227836600|Error|1|2
+13031012|san mateo, ca|14690921|Concord, CA|2|2
+13031012|san mateo, ca|3347272349|Error|2|2
+13031012|san mateo, ca|0|Error|1|2
+13031012|san mateo, ca|255252652|Thailand|1|2
+13031012|san mateo, ca|33714764|Fort Worth, TX|1|2
+13031012|san mateo, ca|17504062|Gilbert, AZ|1|2
+13031012|san mateo, ca|12768202|Lansing Michigan|1|2
+13031012|san mateo, ca|10085312|Glendale, Arizona|1|2
+13031012|san mateo, ca|0|Error|1|2
+13031012|san mateo, ca|3368104401|Error|1|2
+13031012|san mateo, ca|2924901|Greenville, SC|1|2
+13031012|san mateo, ca|2709917576|San Francisco, CA|1|2
+14189384|san mateo, ca|14435106|Bay Area, CA|4|2
+14189384|san mateo, ca|2566547289|Error|2|2
+14189384|san mateo, ca|15918701|Heilbronn|2|2
+14189384|san mateo, ca|0|Error|1|2
+649683|san mateo, ca|14456980|Minneapolis, MN|2|2
+649683|san mateo, ca|4426631|Seattle|2|2
+649683|san mateo, ca|766247|Bend, OR|1|2
+649683|san mateo, ca|0|Error|1|2
+649683|san mateo, ca|12591|Ottawa, Canada|1|2
+18482689|san mateo, ca|18482689|Palo Alto, CA|4|2
+18482689|san mateo, ca|11684|San Francisco, CA|4|2
+18482689|san mateo, ca|282784956|San Francisco|2|2
+18482689|san mateo, ca|20524960|London|2|2
+18482689|san mateo, ca|15911225|Los Angeles|2|2
+18482689|san mateo, ca|0|Error|2|2
+18482689|san mateo, ca|10454672|Las Vegas|2|2
+18482689|san mateo, ca|1812341|Stockholm|2|2
+18482689|san mateo, ca|6148562|Tiburon, California, USA|2|2
+18482689|san mateo, ca|3840|94123|1|2
+18482689|san mateo, ca|21674173|Seattle, WA|1|2
+18482689|san mateo, ca|29772318|San Mateo, CA|1|2
+18482689|san mateo, ca|11884342|Silicon Valley, CA|1|2
+18482689|san mateo, ca|96259882|Error|1|2
+18482689|san mateo, ca|8246902|Washington, DC, USA|1|2
+18482689|san mateo, ca|16825377|SF|1|2
+18482689|san mateo, ca|0|Error|1|2
+18482689|san mateo, ca|10394242|Bay Area|1|2
+18482689|san mateo, ca|7688352|Have angst, Will travel.|1|2
+18482689|san mateo, ca|14372024|Planet Express|1|2
+18482689|san mateo, ca|264554704|Error|1|2
+15838599|san mateo, ca|0|Error|1|2
+15838599|san mateo, ca|2244695178|New Jersey|1|2
+15838599|san mateo, ca|112805438|Error|1|2
+15838599|san mateo, ca|546700689|Error|1|2
+6999682|san mateo, california|75518914|I haven't decided.|7|2
+6999682|san mateo, california|61373875|Tourrr.|4|2
+6999682|san mateo, california|22641532|Nashville, TN|3|2
+6999682|san mateo, california|268414482|@happyhippiefdn|3|2
+6999682|san mateo, california|150360490|Error|1|2
+6999682|san mateo, california|50494064|Error|1|2
+51245856|san mateo, ca|11627|Eugene, Oregon|2|2
+51245856|san mateo, ca|14744272|Houston, Texas|1|2
+51245856|san mateo, ca|19071523|Los Angeles, CA|1|2
+51245856|san mateo, ca|0|Error|1|2
+51245856|san mateo, ca|0|Error|1|2
+51245856|san mateo, ca|941724637|Error|1|2
+51245856|san mateo, ca|630808099|Arkansas City, KS|1|2
+51245856|san mateo, ca|1381911|South Florida|1|2
+51245856|san mateo, ca|39781900|San Francisco|1|2
+14555574|san mateo, california|291237140|Error|1|2
+14555574|san mateo, california|15652540|Oakland, CA|1|2

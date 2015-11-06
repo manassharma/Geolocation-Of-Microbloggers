@@ -1,0 +1,3215 @@
+15990804|santa monica, ca|24751978|Nesbit, MS|10|2
+15990804|santa monica, ca|21879024|San Diego & world at large|7|2
+15990804|santa monica, ca|16901043|Los Angeles|6|2
+15990804|santa monica, ca|18257243|San Luis Obispo|5|2
+15990804|santa monica, ca|21681388|La Quinta, CA|4|2
+15990804|santa monica, ca|36113339|California|4|2
+15990804|santa monica, ca|21718674|Southern California|4|2
+15990804|santa monica, ca|6532102|Southern California|4|2
+15990804|santa monica, ca|2390651|Silicon Valley|3|2
+15990804|santa monica, ca|15295503|Los Angeles, CA|3|2
+15990804|santa monica, ca|463730542|London|2|2
+15990804|santa monica, ca|27184327|Error|2|2
+15990804|santa monica, ca|14892523|Valencia, CA|2|2
+15990804|santa monica, ca|9839042|prone to wander|2|2
+15990804|santa monica, ca|22419681|The Internet|2|2
+15990804|santa monica, ca|53304986|Clear Lake , IA|2|2
+15990804|santa monica, ca|17401708|Silicon Valley/ Santa Monica|2|2
+15990804|santa monica, ca|8567882|NYC|2|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|60439295|LA|1|2
+15990804|santa monica, ca|111251756|Somerville, MA|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|290061254|Error|1|2
+15990804|santa monica, ca|16350409|Los Angeles|1|2
+15990804|santa monica, ca|81107658|New York|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|20727198|Destiny|1|2
+15990804|santa monica, ca|19320490|Los Angeles|1|2
+15990804|santa monica, ca|8183852|Seattle by way of Toronto|1|2
+15990804|santa monica, ca|21826657|Los Angeles, CA|1|2
+15990804|santa monica, ca|14355436|Los Angeles, CA|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|14562016|New York, NY|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|16679209|Los Angeles|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|14600720|Maplewood, New Jersey|1|2
+15990804|santa monica, ca|19637934|Los Angeles-ish|1|2
+15990804|santa monica, ca|2363157302|Texas |1|2
+15990804|santa monica, ca|300977923|Worldwide|1|2
+15990804|santa monica, ca|14221588|Dallas, Texas|1|2
+15990804|santa monica, ca|66441732|Plano, Texas|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|791975780|@alli|1|2
+15990804|santa monica, ca|34200998|CA and MD|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|4997601|Jersey City, NJ|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|0|Error|1|2
+15990804|santa monica, ca|16793932|Washington, DC|1|2
+38709939|santa monica, ca|74601259|Error|6|2
+38709939|santa monica, ca|19080760|Error|3|2
+38709939|santa monica, ca|18222378|NYC|3|2
+38709939|santa monica, ca|54951973|Error|2|2
+38709939|santa monica, ca|54343977|Error|2|2
+38709939|santa monica, ca|27143819|Los Angeles, CA|1|2
+38709939|santa monica, ca|70064586|Error|1|2
+38709939|santa monica, ca|0|Error|1|2
+38709939|santa monica, ca|0|Error|1|2
+38709939|santa monica, ca|0|Error|1|2
+38709939|santa monica, ca|16674308|South Florida|1|2
+38709939|santa monica, ca|0|Error|1|2
+38709939|santa monica, ca|14230524|Error|1|2
+38709939|santa monica, ca|0|Error|1|2
+38709939|santa monica, ca|14607172|NYC - L.A.|1|2
+38709939|santa monica, ca|5448842|37.46656,-122.155227|1|2
+38709939|santa monica, ca|38709939|Santa Monica, CA|1|2
+38709939|santa monica, ca|0|Error|1|2
+38709939|santa monica, ca|0|Error|1|2
+14287286|santa monica, ca|81380206|Colorado Springs, CO|3|2
+14287286|santa monica, ca|14514804|Error|1|2
+14287286|santa monica, ca|73982667|Denver, Colorado|1|2
+14287286|santa monica, ca|0|Error|1|2
+14287286|santa monica, ca|43382186|Nashville, TN|1|2
+14287286|santa monica, ca|27414023|Error|1|2
+14287286|santa monica, ca|19186921|Cincinnati, OH|1|2
+14287286|santa monica, ca|0|Error|1|2
+74842608|santa monica, ca|74842608|Santa Monica, CA|2|2
+74842608|santa monica, ca|0|Error|1|2
+74842608|santa monica, ca|16136510|Beverly Hills, CA|1|2
+74842608|santa monica, ca|74903180|Los Angeles, CA|1|2
+926|santa monica, ca|63893235|EARTH (mostly NYC)|2|2
+926|santa monica, ca|0|Error|2|2
+926|santa monica, ca|24904623|Error|1|2
+926|santa monica, ca|3134551754|Error|1|2
+926|santa monica, ca|6017542|Global|1|2
+926|santa monica, ca|0|Error|1|2
+926|santa monica, ca|14120151|Cities worldwide|1|2
+926|santa monica, ca|12920142|New Orleans|1|2
+926|santa monica, ca|29094140|(Los Angeles)|1|2
+926|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|13|2
+22113|santa monica, ca|17889292|Los Angeles, CA|4|2
+22113|santa monica, ca|0|Error|4|2
+22113|santa monica, ca|1391451|Seattle, Washington|3|2
+22113|santa monica, ca|0|Error|2|2
+22113|santa monica, ca|25413|Laurel Canyon|2|2
+22113|santa monica, ca|0|Error|2|2
+22113|santa monica, ca|27702153|Santa Monica, CA|2|2
+22113|santa monica, ca|22113|Santa Monica, CA|2|2
+22113|santa monica, ca|3335764444|Error|2|2
+22113|santa monica, ca|926|Los Angeles / Santa Barbara|2|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|21952015|Plano, TX|1|2
+22113|santa monica, ca|130691447|Beaver,Pa|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|12217|Error|1|2
+22113|santa monica, ca|1301378221|Error|1|2
+22113|santa monica, ca|8118982|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|7402632|Palo Alto, California|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|5520332|Los Angeles|1|2
+22113|santa monica, ca|18755564|Los Angeles|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|5438392|Brooklyn, NY|1|2
+22113|santa monica, ca|16291471|Canyon, CA|1|2
+22113|santa monica, ca|10798802|boston/upstate NY/oz/the road|1|2
+22113|santa monica, ca|16550965|New York, NY|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|128126916|Hollywood, Los Angeles, CA|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|14321959|london/paris/nyc|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|16785873|Charlottesville, VA|1|2
+22113|santa monica, ca|15274996|NYC|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|706021297|Error|1|2
+22113|santa monica, ca|761024|Error|1|2
+22113|santa monica, ca|4557111|Boulder, CO|1|2
+22113|santa monica, ca|18653646|Chicago, IL|1|2
+22113|santa monica, ca|271475566|Error|1|2
+22113|santa monica, ca|1000591|New York City|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|19271954|San Francisco-ish|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|18350522|Earf|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|26160490|NYC | LA | SBI|1|2
+22113|santa monica, ca|31565874|Los Angeles|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|15319698|Los Angeles, California|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|17647645|San Francisco, CA|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|15337821|NashVegas|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|30600807|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|29898944|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|83330202|Los Angeles|1|2
+22113|santa monica, ca|17326776|Click here|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|24773177|Jersey/NYC/Lincoln Tunnel|1|2
+22113|santa monica, ca|1270191|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|20726991|Error|1|2
+22113|santa monica, ca|0|Error|1|2
+22113|santa monica, ca|18599206|Everywhere|1|2
+16254823|santa monica, ca|14523801|Londonish|8|2
+16254823|santa monica, ca|29370321|Santa Monica|5|2
+16254823|santa monica, ca|19158681|Santiago, Chile|3|2
+16254823|santa monica, ca|764217|Highland Park, Los Angeles|1|2
+16254823|santa monica, ca|16622151|Los Angeles|1|2
+16254823|santa monica, ca|0|Error|1|2
+16254823|santa monica, ca|0|Error|1|2
+16254823|santa monica, ca|18635857|London, UK|1|2
+16254823|santa monica, ca|816653|San Francisco, CA|1|2
+16254823|santa monica, ca|3303571|iPhone: 32.719540,-117.228721|1|2
+16254823|santa monica, ca|43158512|Error|1|2
+16254823|santa monica, ca|23470438|Santa Monica, CA|1|2
+16254823|santa monica, ca|37589865|WI|1|2
+16254823|santa monica, ca|21982720|Error|1|2
+16254823|santa monica, ca|0|Error|1|2
+16254823|santa monica, ca|0|Error|1|2
+45045443|santa monica, ca|404926167|Error|2|2
+45045443|santa monica, ca|59265808|las vegas|1|2
+45045443|santa monica, ca|16879730|Error|1|2
+45045443|santa monica, ca|19076848|Error|1|2
+45045443|santa monica, ca|0|Error|1|2
+45045443|santa monica, ca|0|Error|1|2
+45045443|santa monica, ca|21916936|Studio City, CA|1|2
+45045443|santa monica, ca|0|Error|1|2
+45045443|santa monica, ca|45777637|Las Vegas|1|2
+14985936|santa monica, ca|16262439|LaLaLaGrange|3|2
+14985936|santa monica, ca|16821304|OccupyAmerica|2|2
+14985936|santa monica, ca|598773302|Error|1|2
+14985936|santa monica, ca|16833477|Error|1|2
+14985936|santa monica, ca|56929066|Denver, Colorado|1|2
+14985936|santa monica, ca|463730542|London|1|2
+14985936|santa monica, ca|1112995531|Error|1|2
+14985936|santa monica, ca|13234462|Chicago Suburbs|1|2
+14985936|santa monica, ca|3827317347|Error|1|2
+14985936|santa monica, ca|37592595|Hanover, VA|1|2
+63310578|santa monica, ca|47297741|Utrecht, Netherlands|1|2
+63310578|santa monica, ca|26751826|New York, New York|1|2
+23337017|santa monica, ca|14728168|Houston, Texas|4|2
+23337017|santa monica, ca|0|Error|2|2
+23337017|santa monica, ca|32159990|LV, SJ, LA and Worldwide|2|2
+23337017|santa monica, ca|0|Error|2|2
+23337017|santa monica, ca|38535680|Pyro Recordz|2|2
+23337017|santa monica, ca|21915474|Reebok Global HQ | Canton, MA|2|2
+23337017|santa monica, ca|25038085|Los Angeles/Hotels Everywhere|2|2
+23337017|santa monica, ca|783214|San Francisco, CA|1|2
+23337017|santa monica, ca|16062215|San Jose, Costa Rica|1|2
+23337017|santa monica, ca|0|Error|1|2
+23337017|santa monica, ca|6980622|Girl HQ|1|2
+23337017|santa monica, ca|158191017|Error|1|2
+23337017|santa monica, ca|0|Error|1|2
+23337017|santa monica, ca|0|Error|1|2
+23337017|santa monica, ca|20|San Francisco, CA, US|1|2
+23337017|santa monica, ca|57371662|New York City|1|2
+23337017|santa monica, ca|6047362|Error|1|2
+23337017|santa monica, ca|0|Error|1|2
+23337017|santa monica, ca|40384403|Las Vegas, Nevada|1|2
+23337017|santa monica, ca|14681605|Body? L.A. Mind? N.J.|1|2
+23337017|santa monica, ca|31127446|Washington, D.C.|1|2
+23337017|santa monica, ca|0|Error|1|2
+23337017|santa monica, ca|19637934|Los Angeles-ish|1|2
+23337017|santa monica, ca|0|Error|1|2
+23337017|santa monica, ca|5942922|Everywhere|1|2
+23337017|santa monica, ca|45883952|LA|1|2
+23337017|santa monica, ca|0|Error|1|2
+23337017|santa monica, ca|15033883|Los Angeles, CA, USA|1|2
+23337017|santa monica, ca|13|San Francisco, CA|1|2
+23337017|santa monica, ca|12|California, USA|1|2
+23337017|santa monica, ca|4923811|Washington, D.C.|1|2
+23337017|santa monica, ca|14972063|Dallas, TX|1|2
+23337017|santa monica, ca|1432173312|Error|1|2
+23337017|santa monica, ca|0|Error|1|2
+23337017|santa monica, ca|0|Error|1|2
+23337017|santa monica, ca|761613|Berkeley, California|1|2
+23337017|santa monica, ca|79190576|Los Angeles, CA|1|2
+23337017|santa monica, ca|0|Error|1|2
+19671555|santa monica, california|15626465|Basically Anywhere :-)|4|2
+19671555|santa monica, california|2662749996|Error|2|2
+19671555|santa monica, california|21760624|Massachusetts|2|2
+19671555|santa monica, california|0|Error|2|2
+19671555|santa monica, california|5750332|nashville|1|2
+19671555|santa monica, california|18299118|buffalo|1|2
+19671555|santa monica, california|21383479|New York City|1|2
+19671555|santa monica, california|43495684|San Francisco, CA|1|2
+19671555|santa monica, california|85665711|Alice, Texas|1|2
+19671555|santa monica, california|1093901652|Clemson, SC|1|2
+19671555|santa monica, california|15437460|Australia|1|2
+19671555|santa monica, california|140514184|Not of this World|1|2
+19671555|santa monica, california|58513682|Houston|1|2
+19671555|santa monica, california|22817378|NYC|1|2
+19671555|santa monica, california|47580548|atlanta, ga|1|2
+5253771|santa monica, ca|14324893|Santa Monica, California|3|2
+5253771|santa monica, ca|3249251|Silver Lake, CA|3|2
+5253771|santa monica, ca|43249891|Los Angeles|3|2
+5253771|santa monica, ca|17474153|JAX / MIA / NYC|2|2
+5253771|santa monica, ca|19228642|Error|2|2
+5253771|santa monica, ca|22855262|santa monica|2|2
+5253771|santa monica, ca|74819299|Los Angeles, CA|1|2
+5253771|santa monica, ca|1100661|LA/SF/NYC/SG/BKK/Tokyo|1|2
+5253771|santa monica, ca|24076242|Los Angeles, CA|1|2
+5253771|santa monica, ca|0|Error|1|2
+5253771|santa monica, ca|16863735|Salt Lake City, UT|1|2
+5253771|santa monica, ca|774042870|Error|1|2
+5253771|santa monica, ca|14252465|iPhone: 34.037307,-118.676441|1|2
+5253771|santa monica, ca|566734917|Error|1|2
+5253771|santa monica, ca|0|Error|1|2
+5253771|santa monica, ca|0|Error|1|2
+5253771|santa monica, ca|72743396|California|1|2
+5253771|santa monica, ca|0|Error|1|2
+5253771|santa monica, ca|15002700|Error|1|2
+5253771|santa monica, ca|0|Error|1|2
+5253771|santa monica, ca|0|Error|1|2
+5253771|santa monica, ca|7315022|Based in Seattle, WA|1|2
+5253771|santa monica, ca|10075262|Los Angeles|1|2
+20198816|santa monica, ca|20198816|Santa Monica, CA|11|2
+20198816|santa monica, ca|33599883|Los Angeles, CA|1|2
+20198816|santa monica, ca|56491704|Los Angeles|1|2
+20198816|santa monica, ca|0|Error|1|2
+20198816|santa monica, ca|11975032|Mill Valley, CA|1|2
+20198816|santa monica, ca|0|Error|1|2
+20198816|santa monica, ca|0|Error|1|2
+20198816|santa monica, ca|19479725|HOLLYWOOD, CALIFORNIA |1|2
+20198816|santa monica, ca|0|Error|1|2
+20198816|santa monica, ca|0|Error|1|2
+20198816|santa monica, ca|17350035|Coto de Caza, CA|1|2
+20198816|santa monica, ca|42665301|West Hollywood|1|2
+20198816|santa monica, ca|1135351|San Francisco, California|1|2
+20198816|santa monica, ca|23241541|Austin|1|2
+20198816|santa monica, ca|14669553|Vancouver, Canada|1|2
+20198816|santa monica, ca|0|Error|1|2
+20198816|santa monica, ca|0|Error|1|2
+20198816|santa monica, ca|23014023|Nashville, TN|1|2
+20198816|santa monica, ca|14066120|Vancouver, Canada|1|2
+20198816|santa monica, ca|48823399|Error|1|2
+20198816|santa monica, ca|5275331|Error|1|2
+20198816|santa monica, ca|0|Error|1|2
+20198816|santa monica, ca|34767928|Los Angeles, CA|1|2
+20198816|santa monica, ca|42825369|Los Angeles|1|2
+20198816|santa monica, ca|0|Error|1|2
+14562896|santa monica, ca|0|Error|3|2
+14562896|santa monica, ca|0|Error|2|2
+14562896|santa monica, ca|30513101|Future Kingston, JA|2|2
+14562896|santa monica, ca|0|Error|2|2
+14562896|santa monica, ca|0|Error|1|2
+14562896|santa monica, ca|926|Los Angeles / Santa Barbara|1|2
+14562896|santa monica, ca|16693155|San Francisco|1|2
+14562896|santa monica, ca|23122597|los angeles|1|2
+14562896|santa monica, ca|27478976|NYC|1|2
+14562896|santa monica, ca|17174309|hiding in the halls|1|2
+14562896|santa monica, ca|17076726|West Hollywood, CA|1|2
+32127962|santa monica, ca|38383359|Toronto|7|2
+32127962|santa monica, ca|217633888|Error|4|2
+32127962|santa monica, ca|26112336|Los Angeles, CA|4|2
+32127962|santa monica, ca|45148276|San Luis Obispo, CA|3|2
+32127962|santa monica, ca|345125943|Little Rock, AR|3|2
+32127962|santa monica, ca|41507952|Los Angeles, CA|3|2
+32127962|santa monica, ca|16689545|Los Angeles|2|2
+32127962|santa monica, ca|32127962|Santa Monica, CA|2|2
+32127962|santa monica, ca|0|Error|1|2
+32127962|santa monica, ca|18170285|Raleigh, NC|1|2
+32127962|santa monica, ca|0|Error|1|2
+32127962|santa monica, ca|9636632|Los Angeles, CA|1|2
+32127962|santa monica, ca|972651|Error|1|2
+32127962|santa monica, ca|70553530|Northfield, IL|1|2
+32127962|santa monica, ca|216105820|Error|1|2
+32127962|santa monica, ca|16117316|Los Angeles, CA, USA|1|2
+32127962|santa monica, ca|73170364|Venice Beach|1|2
+32127962|santa monica, ca|29265211|Los Angeles|1|2
+32127962|santa monica, ca|0|Error|1|2
+32127962|santa monica, ca|0|Error|1|2
+32127962|santa monica, ca|0|Error|1|2
+32127962|santa monica, ca|29625298|iPhone: 40.741013,-73.993805|1|2
+32127962|santa monica, ca|66622535|nyc / mel / tas|1|2
+32127962|santa monica, ca|16374678|Error|1|2
+32127962|santa monica, ca|875841|Washington, DC|1|2
+32127962|santa monica, ca|16648790|U.S.|1|2
+32127962|santa monica, ca|2996725310|Vladivostok
+, Russia|1|2
+32127962|santa monica, ca|15570577|Error|1|2
+32127962|santa monica, ca|14852661|Los Angeles|1|2
+32127962|santa monica, ca|130903377|Error|1|2
+32127962|santa monica, ca|36411863|South Florida|1|2
+15744118|santa monica, ca|22221547|Error|8|2
+15744118|santa monica, ca|18420140|Error|5|2
+15744118|santa monica, ca|17315100|Santa Monica, CA|3|2
+15744118|santa monica, ca|16727535|Austin/Aspen|2|2
+15744118|santa monica, ca|972651|Error|2|2
+15744118|santa monica, ca|14478305|Austin, TX|2|2
+15744118|santa monica, ca|18419991|Malibu|1|2
+15744118|santa monica, ca|0|Error|1|2
+15744118|santa monica, ca|124151839|Error|1|2
+15744118|santa monica, ca|55968951| So. California|1|2
+15744118|santa monica, ca|33332550|Chicago|1|2
+15744118|santa monica, ca|0|Error|1|2
+15744118|santa monica, ca|17235456|Seattle, WA|1|2
+15744118|santa monica, ca|0|Error|1|2
+15744118|santa monica, ca|12790192|Hong Kong / San Francisco|1|2
+15744118|santa monica, ca|893964422|Error|1|2
+15744118|santa monica, ca|5768872|NYC|1|2
+15744118|santa monica, ca|15744118|Santa Monica, CA|1|2
+15744118|santa monica, ca|0|Error|1|2
+15744118|santa monica, ca|28799075|Where freelance writers unite|1|2
+19409588|santa monica, ca|0|Error|1|2
+19409588|santa monica, ca|0|Error|1|2
+19409588|santa monica, ca|26682862|Error|1|2
+85215038|santa monica, ca|0|Error|9|2
+85215038|santa monica, ca|72229622|Error|8|2
+85215038|santa monica, ca|20120961|Error|7|2
+85215038|santa monica, ca|0|Error|6|2
+85215038|santa monica, ca|20836055|San Diego, CA|5|2
+85215038|santa monica, ca|0|Error|5|2
+85215038|santa monica, ca|19454788|Inverness, UK|4|2
+85215038|santa monica, ca|62716634|LA: City of Champions|3|2
+85215038|santa monica, ca|61954542|Ohio|3|2
+85215038|santa monica, ca|29860656|Rocky Mountains, USA|3|2
+85215038|santa monica, ca|91772202|Error|3|2
+85215038|santa monica, ca|2387323866|Error|3|2
+85215038|santa monica, ca|0|Error|3|2
+85215038|santa monica, ca|3359851|San Francisco & Los Angeles|3|2
+85215038|santa monica, ca|89553703|Error|2|2
+85215038|santa monica, ca|0|Error|2|2
+85215038|santa monica, ca|21348539|Error|2|2
+85215038|santa monica, ca|1956848311|Error|2|2
+85215038|santa monica, ca|15826133|Negaunee, MI|2|2
+85215038|santa monica, ca|0|Error|2|2
+85215038|santa monica, ca|21401117| London|2|2
+85215038|santa monica, ca|0|Error|2|2
+85215038|santa monica, ca|0|Error|1|2
+85215038|santa monica, ca|7376382|NYC|1|2
+85215038|santa monica, ca|15331355|Error|1|2
+85215038|santa monica, ca|0|Error|1|2
+85215038|santa monica, ca|206288873|Error|1|2
+85215038|santa monica, ca|8570622|Menlo Park|1|2
+85215038|santa monica, ca|23841406|United Kingdom|1|2
+85215038|santa monica, ca|67512164|Error|1|2
+85215038|santa monica, ca|84124821|(310) 479-1955|1|2
+85215038|santa monica, ca|90582888|Decherd, TN|1|2
+85215038|santa monica, ca|68074817|Greenville, SC|1|2
+85215038|santa monica, ca|0|Error|1|2
+85215038|santa monica, ca|0|Error|1|2
+85215038|santa monica, ca|86907280|England|1|2
+85215038|santa monica, ca|0|Error|1|2
+85215038|santa monica, ca|351732829|Chippenham, Wiltshire|1|2
+85215038|santa monica, ca|12605172|Portland,OR|1|2
+85215038|santa monica, ca|1844956458|Worldwide|1|2
+85215038|santa monica, ca|0|Error|1|2
+85215038|santa monica, ca|89327001|Error|1|2
+20598297|santa monica, ca|0|Error|1|2
+18388616|santa monica, ca|0|Error|1|2
+73683746|santa monica, ca|0|Error|3|2
+73683746|santa monica, ca|16000980|iPhone: 34.032539,-118.470879|3|2
+73683746|santa monica, ca|64784576|Toronto, Canada|3|2
+73683746|santa monica, ca|34676008|Error|3|2
+73683746|santa monica, ca|19832980|Michigan|2|2
+73683746|santa monica, ca|77497048|Sweet Home Alabama|2|2
+73683746|santa monica, ca|280527188|Error|2|2
+73683746|santa monica, ca|15702508|Error|2|2
+73683746|santa monica, ca|84233852|Pleasant Grove, Utah|2|2
+73683746|santa monica, ca|154718616|Error|1|2
+73683746|santa monica, ca|498965642|Error|1|2
+73683746|santa monica, ca|274998103|Error|1|2
+73683746|santa monica, ca|32546520|iPhone: 40.827095,-73.903343|1|2
+73683746|santa monica, ca|0|Error|1|2
+73683746|santa monica, ca|0|Error|1|2
+73683746|santa monica, ca|0|Error|1|2
+73683746|santa monica, ca|0|Error|1|2
+73683746|santa monica, ca|0|Error|1|2
+73683746|santa monica, ca|0|Error|1|2
+73683746|santa monica, ca|2988487967|Error|1|2
+73683746|santa monica, ca|84353949|Coaching Inquiries Raeven@SheDreamsOfLove.com|1|2
+73683746|santa monica, ca|69873222|Oregon|1|2
+73683746|santa monica, ca|19557176|Los Angeles, CA|1|2
+73683746|santa monica, ca|15709377|Baton Rouge|1|2
+73683746|santa monica, ca|2999734880|Error|1|2
+73683746|santa monica, ca|2451830989|Error|1|2
+73683746|santa monica, ca|82030930|Heavenly Places|1|2
+73683746|santa monica, ca|26470645|New York, NY|1|2
+73683746|santa monica, ca|14929948|Atlanta, Georgia -Los Angeles|1|2
+57170795|santa monica, ca|21323673|Error|4|2
+57170795|santa monica, ca|1948070485|Error|3|2
+57170795|santa monica, ca|373853968|Error|1|2
+78536984|santa monica, ca|41482540|Portland, OR |2|2
+78536984|santa monica, ca|12389962|Error|2|2
+78536984|santa monica, ca|18184367|Northridge|2|2
+78536984|santa monica, ca|0|Error|2|2
+78536984|santa monica, ca|108579892|Error|2|2
+78536984|santa monica, ca|26287015|Highland, IN|2|2
+78536984|santa monica, ca|49930947|Torrance, CA|2|2
+78536984|santa monica, ca|68840036|Warner Bros. Studios|2|2
+78536984|santa monica, ca|0|Error|2|2
+78536984|santa monica, ca|14665649|San Francisco, California|1|2
+78536984|santa monica, ca|0|Error|1|2
+78536984|santa monica, ca|37632314|Portland, Oregon|1|2
+78536984|santa monica, ca|0|Error|1|2
+78536984|santa monica, ca|0|Error|1|2
+78536984|santa monica, ca|75237916|San Francisco, CA|1|2
+78536984|santa monica, ca|19329393|New York City, New York|1|2
+78536984|santa monica, ca|0|Error|1|2
+78536984|santa monica, ca|48435121|Dallas, TX|1|2
+78536984|santa monica, ca|19208542|Atlanta, GA|1|2
+78536984|santa monica, ca|24711075|Minnesota, U.S.|1|2
+78536984|santa monica, ca|0|Error|1|2
+78536984|santa monica, ca|19355991|U.S.A.|1|2
+78536984|santa monica, ca|43156329|Error|1|2
+78536984|santa monica, ca|1137371160|Error|1|2
+78536984|santa monica, ca|0|Error|1|2
+78536984|santa monica, ca|16399210|New York, NY|1|2
+78536984|santa monica, ca|24263447|Online|1|2
+78536984|santa monica, ca|24744342|San Jose, CA|1|2
+78536984|santa monica, ca|66921640|New York City|1|2
+78536984|santa monica, ca|1965068167|Error|1|2
+35939707|santa monica, ca|14850509|Manhattan Beach, CA|6|2
+35939707|santa monica, ca|23995845|Washington D.C.|3|2
+35939707|santa monica, ca|15347679|Lost Angeles|2|2
+35939707|santa monica, ca|25042459|San Francsico|2|2
+35939707|santa monica, ca|35939707|Santa Monica, CA|2|2
+35939707|santa monica, ca|1124490878|Error|2|2
+35939707|santa monica, ca|0|Error|2|2
+35939707|santa monica, ca|0|Error|1|2
+35939707|santa monica, ca|46102030|77002, USA, Earth|1|2
+35939707|santa monica, ca|74049762|Error|1|2
+35939707|santa monica, ca|52239936|Error|1|2
+35939707|santa monica, ca|4864221|Behind the steering wheel|1|2
+35939707|santa monica, ca|278375356|New York, NY|1|2
+35939707|santa monica, ca|14342661|Ann Arbor, MI|1|2
+35939707|santa monica, ca|198958679|Error|1|2
+35939707|santa monica, ca|23506307|los angeles|1|2
+35939707|santa monica, ca|16665516|United States|1|2
+35939707|santa monica, ca|0|Error|1|2
+35939707|santa monica, ca|20243189|Los Angeles, CA|1|2
+35939707|santa monica, ca|83003402|Worldwide|1|2
+35939707|santa monica, ca|17108175|Error|1|2
+35939707|santa monica, ca|42580497|Error|1|2
+17852343|santa monica, ca|17852343|New York and LA|2|2
+17852343|santa monica, ca|76508389|Chino Hills CA, U.S.A.|2|2
+17852343|santa monica, ca|500009339|New York, NY|2|2
+17852343|santa monica, ca|1190233218|Error|2|2
+17852343|santa monica, ca|0|Error|1|2
+17852343|santa monica, ca|0|Error|1|2
+17852343|santa monica, ca|19058681|Los Angeles, California|1|2
+17852343|santa monica, ca|15291335|Hollywood, CA |1|2
+17852343|santa monica, ca|70735167|Error|1|2
+17852343|santa monica, ca|657863|New York, NY|1|2
+17852343|santa monica, ca|21904217|Universal City, CA|1|2
+17852343|santa monica, ca|40111455|Error|1|2
+17852343|santa monica, ca|0|Error|1|2
+17852343|santa monica, ca|0|Error|1|2
+17852343|santa monica, ca|0|Error|1|2
+17852343|santa monica, ca|0|Error|1|2
+17852343|santa monica, ca|22666297|Error|1|2
+25192675|santa monica, ca|22036501|Los Angeles, CA|1|2
+25192675|santa monica, ca|0|Error|1|2
+25192675|santa monica, ca|0|Error|1|2
+20265488|santa monica, ca|0|Error|2|2
+20265488|santa monica, ca|18803554|Worldwide|2|2
+20265488|santa monica, ca|1583695994|Error|2|2
+20265488|santa monica, ca|0|Error|1|2
+20265488|santa monica, ca|0|Error|1|2
+20265488|santa monica, ca|6604762|Charleston, WV|1|2
+20265488|santa monica, ca|20265227|Santa Monica, CA|1|2
+20265488|santa monica, ca|13986622|Portland, OR|1|2
+20265488|santa monica, ca|1133819209|122 countries worldwide|1|2
+20265488|santa monica, ca|18057309|SF|1|2
+20265488|santa monica, ca|739293|Regina, Canada |1|2
+20265488|santa monica, ca|0|Error|1|2
+20265488|santa monica, ca|0|Error|1|2
+20265488|santa monica, ca|16951171|Los Angeles, CA|1|2
+20265488|santa monica, ca|12041532|9 SuperCamps across USA|1|2
+20265488|santa monica, ca|1186205947|Error|1|2
+20265488|santa monica, ca|15531932|Boston|1|2
+20265488|santa monica, ca|16373878|#MIGlobal|1|2
+20265488|santa monica, ca|13904112|Ljubljana/New York|1|2
+20265488|santa monica, ca|12712912|Los Angeles|1|2
+20265488|santa monica, ca|24188779|USA|1|2
+20265488|santa monica, ca|350|iPhone: 37.762386,-122.424505|1|2
+20265488|santa monica, ca|15537925|New York, NY|1|2
+20265488|santa monica, ca|20022329|china|1|2
+14449230|santa monica, ca|36973087|Error|3|2
+14449230|santa monica, ca|16935955|Park City, UT|2|2
+14449230|santa monica, ca|23850658|GLOBAL|2|2
+14449230|santa monica, ca|22533473|Santa Monica|2|2
+14449230|santa monica, ca|0|Error|2|2
+14449230|santa monica, ca|14600116|Marin, California|1|2
+14449230|santa monica, ca|18726073|New York|1|2
+14449230|santa monica, ca|15876379|Seattle|1|2
+14449230|santa monica, ca|14120576|Windsor|1|2
+14449230|santa monica, ca|0|Error|1|2
+14449230|santa monica, ca|56779148|Park City, UT|1|2
+14449230|santa monica, ca|22119776|Where Whores Go|1|2
+14449230|santa monica, ca|405146564|Error|1|2
+14449230|santa monica, ca|21879024|San Diego & world at large|1|2
+14449230|santa monica, ca|17846406|Error|1|2
+14449230|santa monica, ca|16815683|New York San Francisco melange|1|2
+14449230|santa monica, ca|52544275|New York, NY|1|2
+14449230|santa monica, ca|14813320|Error|1|2
+14449230|santa monica, ca|0|Error|1|2
+14449230|santa monica, ca|0|Error|1|2
+14449230|santa monica, ca|14100972|Boston, MA|1|2
+14449230|santa monica, ca|37770674|Santa Rosa, CA|1|2
+21265875|santa monica, ca|14192589|Detroit|3|2
+21265875|santa monica, ca|62999331|Torrance & Beverly hills , CA|2|2
+21265875|santa monica, ca|27883210|Foster City, CA|2|2
+21265875|santa monica, ca|36101932|Houston | Global|1|2
+21265875|santa monica, ca|9985802|Manhattan Beach, CA|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|10202|Boston, MA|1|2
+21265875|santa monica, ca|923295210|La Pampa - Argentina |1|2
+21265875|santa monica, ca|8312422|Los Angeles, CA|1|2
+21265875|santa monica, ca|6877722|Fort Myers Beach, FL|1|2
+21265875|santa monica, ca|27445563|Los Angeles|1|2
+21265875|santa monica, ca|5768872|NYC|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|22377038|Santa Monica / Vegas|1|2
+21265875|santa monica, ca|20738621|Los Angeles|1|2
+21265875|santa monica, ca|7782442|Los Angeles, CA|1|2
+21265875|santa monica, ca|2840222374|tustin ranch|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|67673200|Ypsilanti, MI|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|37681410|Sunnyvale/Toronto|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|408869944|Error|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|3073511150|Error|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|0|Error|1|2
+21265875|santa monica, ca|19315816|Error|1|2
+19600747|santa monica, ca|941724637|Error|3|2
+19600747|santa monica, ca|29779424|Error|3|2
+19600747|santa monica, ca|0|Error|3|2
+19600747|santa monica, ca|44490432|Los Angeles, CA|2|2
+19600747|santa monica, ca|78349092|St Pete|2|2
+19600747|santa monica, ca|3219884532|Error|2|2
+19600747|santa monica, ca|0|Error|2|2
+19600747|santa monica, ca|110465239|Boston, MA|2|2
+19600747|santa monica, ca|0|Error|1|2
+19600747|santa monica, ca|15089362|New York, NY|1|2
+19600747|santa monica, ca|11102112|Denver Colorado|1|2
+19600747|santa monica, ca|18575612|SLO|1|2
+19600747|santa monica, ca|22534709|Los Angeles|1|2
+19600747|santa monica, ca|16935391|Error|1|2
+19600747|santa monica, ca|14630319|Hollywood, California|1|2
+19600747|santa monica, ca|22084427|London |1|2
+19600747|santa monica, ca|14506253|Tauntuan belly|1|2
+19600747|santa monica, ca|24191170|#HamOnt, Canada|1|2
+19600747|santa monica, ca|11628|Pacific Time Zone|1|2
+35948515|santa monica, ca|0|Error|4|2
+35948515|santa monica, ca|0|Error|4|2
+35948515|santa monica, ca|35953749|Los Angeles, CA|3|2
+34638443|santa monica, ca|51270497|Santa Monica|3|2
+34638443|santa monica, ca|0|Error|2|2
+34638443|santa monica, ca|60644664|Philadelphia area, PA|2|2
+34638443|santa monica, ca|0|Error|1|2
+34638443|santa monica, ca|30414976|Bako California|1|2
+34638443|santa monica, ca|0|Error|1|2
+34638443|santa monica, ca|0|Error|1|2
+34638443|santa monica, ca|0|Error|1|2
+34638443|santa monica, ca|759782683|Error|1|2
+34638443|santa monica, ca|0|Error|1|2
+34638443|santa monica, ca|25472131|On Your Body |1|2
+34638443|santa monica, ca|2287237644|Error|1|2
+7302282|santa monica, ca|14189626|Las Vegas, NV|2|2
+7302282|santa monica, ca|47848627|Error|1|2
+14324117|santa monica, ca|15139547|California|3|2
+14324117|santa monica, ca|764217|Highland Park, Los Angeles|3|2
+14324117|santa monica, ca|95622258|Error|2|2
+14324117|santa monica, ca|0|Error|2|2
+14324117|santa monica, ca|15400055|Los Angeles, CA 90028|1|2
+14324117|santa monica, ca|14576186|Error|1|2
+14324117|santa monica, ca|173404493|Error|1|2
+14324117|santa monica, ca|7810552|Los Angeles, CA|1|2
+14324117|santa monica, ca|499061380|Bentley Doncaster |1|2
+14324117|santa monica, ca|31666084|Los Angeles|1|2
+14324117|santa monica, ca|2521171|los angeles, ca|1|2
+14324117|santa monica, ca|5639102|Seattle, WA|1|2
+14324117|santa monica, ca|43716100|Las Vegas, NV|1|2
+14324117|santa monica, ca|2879861|Santa Monica, CA|1|2
+14324117|santa monica, ca|29900566|Los Angeles, Ca|1|2
+14324117|santa monica, ca|18020427|37.257563,-121.962386|1|2
+14324117|santa monica, ca|14532436|Error|1|2
+32546740|santa monica, ca|0|Error|1|2
+32546740|santa monica, ca|50835878|Los Angeles via Cleveland|1|2
+32546740|santa monica, ca|17683676|iPhone: 47.607288,-122.334084|1|2
+35693092|santa monica, ca|35693092|Downtown Santa Monica, CA|8|2
+35693092|santa monica, ca|547128056|Error|2|2
+35693092|santa monica, ca|436143998|Error|2|2
+35693092|santa monica, ca|7121092|Los Angeles|2|2
+35693092|santa monica, ca|0|Error|1|2
+35693092|santa monica, ca|157105669|Error|1|2
+35693092|santa monica, ca|17525171|Los Angeles, CA|1|2
+35693092|santa monica, ca|13065702|The universe|1|2
+35693092|santa monica, ca|0|Error|1|2
+35693092|santa monica, ca|38077338|Los Angeles|1|2
+35693092|santa monica, ca|31247675|California|1|2
+35693092|santa monica, ca|0|Error|1|2
+35693092|santa monica, ca|0|Error|1|2
+15639478|santa monica, ca|15588657|Global|9|2
+15639478|santa monica, ca|15238769|Error|4|2
+15639478|santa monica, ca|321628112|Error|3|2
+15639478|santa monica, ca|436262449|Error|2|2
+15639478|santa monica, ca|19845137|Los Angeles|2|2
+15639478|santa monica, ca|16219269|Washington DC (via Chicago)|2|2
+15639478|santa monica, ca|15639478|Santa Monica, CA|1|2
+15639478|santa monica, ca|0|Error|1|2
+15639478|santa monica, ca|11142182|San Rafael, CA|1|2
+15639478|santa monica, ca|20086998|Los Angeles California|1|2
+15639478|santa monica, ca|20388705|CO|1|2
+15639478|santa monica, ca|20126262|NYC, Washington DC,LA, SF, PDX|1|2
+15639478|santa monica, ca|0|Error|1|2
+15639478|santa monica, ca|0|Error|1|2
+15639478|santa monica, ca|0|Error|1|2
+15639478|santa monica, ca|31127446|Washington, D.C.|1|2
+15639478|santa monica, ca|15224867|New York|1|2
+15639478|santa monica, ca|1652541|Around the world|1|2
+15639478|santa monica, ca|23440178|Dallas|1|2
+15639478|santa monica, ca|15730467|Error|1|2
+15639478|santa monica, ca|136348840|Error|1|2
+15639478|santa monica, ca|0|Error|1|2
+15639478|santa monica, ca|2311561|London UK: Zurich Switzerland |1|2
+15639478|santa monica, ca|16248868|Santa Monica, CA|1|2
+15639478|santa monica, ca|25306184|New York|1|2
+15639478|santa monica, ca|15666403|SoCal-NYC|1|2
+14590975|santa monica, ca|15865878|Cambridge, Mass.|1|2
+14590975|santa monica, ca|43404609|Atlanta, NYC|1|2
+14590975|santa monica, ca|0|Error|1|2
+14590975|santa monica, ca|0|Error|1|2
+14590975|santa monica, ca|107425942|Error|1|2
+14590975|santa monica, ca|20270659|Denver, Colorado|1|2
+14590975|santa monica, ca|0|Error|1|2
+14590975|santa monica, ca|12655132|California|1|2
+14590975|santa monica, ca|0|Error|1|2
+14590975|santa monica, ca|13507252|Downtown LA|1|2
+14590975|santa monica, ca|5909122|Austin, TX|1|2
+14590975|santa monica, ca|18617717|Los Feliz, L.A., CA, USA|1|2
+14590975|santa monica, ca|16536215|San Francisco, CA|1|2
+14590975|santa monica, ca|62620584|www.saraleedeli.com|1|2
+14590975|santa monica, ca|20749527|Los Angeles, CA|1|2
+14590975|santa monica, ca|0|Error|1|2
+14590975|santa monica, ca|17842366|United States|1|2
+14590975|santa monica, ca|2467791|Washington, DC|1|2
+14590975|santa monica, ca|17846406|Error|1|2
+14590975|santa monica, ca|29343994|Los Angeles|1|2
+14590975|santa monica, ca|243333479|SF|1|2
+14590975|santa monica, ca|6487292|Los Angeles|1|2
+14590975|santa monica, ca|16374678|Error|1|2
+14590975|santa monica, ca|0|Error|1|2
+14590975|santa monica, ca|228866701|Hollywood, CA|1|2
+14590975|santa monica, ca|0|Error|1|2
+14590975|santa monica, ca|16568227|Los Angeles, California|1|2
+14590975|santa monica, ca|39922782|San Francisco, CA|1|2
+14590975|santa monica, ca|0|Error|1|2
+14590975|santa monica, ca|58921064|Los Angeles and the cloud|1|2
+14590975|santa monica, ca|0|Error|1|2
+14590975|santa monica, ca|3174214732|Error|1|2
+14590975|santa monica, ca|16895274|Error|1|2
+14590975|santa monica, ca|16208449|Los Angeles|1|2
+14590975|santa monica, ca|5695942|New York, NY|1|2
+14590975|santa monica, ca|27647482|Error|1|2
+14590975|santa monica, ca|818155|NYC|1|2
+14590975|santa monica, ca|3705681|Brooklyn, NY|1|2
+20728551|santa monica, ca|18093097|Error|3|2
+20728551|santa monica, ca|18676177|London & Essex|3|2
+20728551|santa monica, ca|202368385|NYC|3|2
+20728551|santa monica, ca|18128265|San Francisco, California|2|2
+20728551|santa monica, ca|19126517|Error|2|2
+20728551|santa monica, ca|27503521|Nashville|2|2
+20728551|santa monica, ca|0|Error|2|2
+20728551|santa monica, ca|9256422|Los Angeles, CA|2|2
+20728551|santa monica, ca|18057537|DC |2|2
+20728551|santa monica, ca|14420689|Vermont|1|2
+20728551|santa monica, ca|612451454|Stockholm|1|2
+20728551|santa monica, ca|0|Error|1|2
+20728551|santa monica, ca|58868507|Harlem Valley, NY|1|2
+43166812|santa monica, ca|170108579|Error|6|2
+43166812|santa monica, ca|43166812|Los Angeles, CA|6|2
+43166812|santa monica, ca|28412643|Jamestown, NY|4|2
+43166812|santa monica, ca|15445154|Indianapolis, Indiana|3|2
+43166812|santa monica, ca|16553843|Texas|3|2
+43166812|santa monica, ca|83882205|Santa Cruz, CA|3|2
+43166812|santa monica, ca|89804897|Error|3|2
+43166812|santa monica, ca|27128402|Los Angeles, CA|2|2
+43166812|santa monica, ca|14037182|Chatsworth, CA|2|2
+43166812|santa monica, ca|16930029|oklahoma|2|2
+43166812|santa monica, ca|19924691|Newport Beach, CA, USA|2|2
+43166812|santa monica, ca|3486217217|Error|2|2
+43166812|santa monica, ca|27127502|Los Angeles, CA|2|2
+43166812|santa monica, ca|14534113|Philadelphia, PA suburbs|2|2
+43166812|santa monica, ca|20661242|Los Angeles, CA|2|2
+43166812|santa monica, ca|36979418|USA-New Jersey|2|2
+43166812|santa monica, ca|14665637|Silicon Valley|2|2
+43166812|santa monica, ca|0|Error|1|2
+43166812|santa monica, ca|0|Error|1|2
+43166812|santa monica, ca|18914014|Error|1|2
+43166812|santa monica, ca|67444186|Los Angeles|1|2
+43166812|santa monica, ca|20122368|Tennessee|1|2
+43166812|santa monica, ca|972651|Error|1|2
+43166812|santa monica, ca|14825399|New York, NY|1|2
+43166812|santa monica, ca|454704588|Error|1|2
+43166812|santa monica, ca|43201218|SF Bay Area|1|2
+43166812|santa monica, ca|6206202|Sydney|1|2
+43166812|santa monica, ca|14424405|SF, NYC, Boston, Detroit|1|2
+43166812|santa monica, ca|812813|Los Angeles|1|2
+43166812|santa monica, ca|708583|Jamestown NY|1|2
+43166812|santa monica, ca|36889983|Los Angeles|1|2
+43166812|santa monica, ca|1624143704|Upstate New York|1|2
+43166812|santa monica, ca|0|Error|1|2
+43166812|santa monica, ca|0|Error|1|2
+43166812|santa monica, ca|5665852|san francisco, ca|1|2
+43166812|santa monica, ca|26495810|New York, NY|1|2
+43166812|santa monica, ca|17481295|Santa Barbara|1|2
+43166812|santa monica, ca|0|Error|1|2
+43166812|santa monica, ca|0|Error|1|2
+43166812|santa monica, ca|24190981|Error|1|2
+43166812|santa monica, ca|0|Error|1|2
+43166812|santa monica, ca|38031095|san francisco, ca|1|2
+43166812|santa monica, ca|27706718|North Cincy, OH |1|2
+43166812|santa monica, ca|0|Error|1|2
+43166812|santa monica, ca|27599865|Los Angeles, CA|1|2
+43166812|santa monica, ca|15784742|Toledo, OH|1|2
+43166812|santa monica, ca|0|Error|1|2
+43166812|santa monica, ca|26956105|Los Angeles, CA|1|2
+20491402|santa monica, ca|19080760|Error|3|2
+20491402|santa monica, ca|25403689|Chicago, IL|2|2
+20491402|santa monica, ca|15829287|Los Angeles|1|2
+20491402|santa monica, ca|16371414|Brooklyn NY, US / Florence, It|1|2
+20491402|santa monica, ca|12920142|New Orleans|1|2
+20491402|santa monica, ca|0|Error|1|2
+20491402|santa monica, ca|19944372|Error|1|2
+20491402|santa monica, ca|1123171|Los Angeles|1|2
+20491402|santa monica, ca|37727867|NYC/Italy|1|2
+20491402|santa monica, ca|0|Error|1|2
+20491402|santa monica, ca|15327072|Sydney, Aus |1|2
+20491402|santa monica, ca|61338147|Los Angeles, CA|1|2
+20491402|santa monica, ca|15399271|Los Angeles, CA|1|2
+58896328|santa monica, ca|16062773|california|3|2
+58896328|santa monica, ca|70004258|Manhattan, NYC|2|2
+58896328|santa monica, ca|74541935|World Wide Web. World. W. |2|2
+58896328|santa monica, ca|0|Error|2|2
+58896328|santa monica, ca|0|Error|1|2
+58896328|santa monica, ca|19738915|Maryland|1|2
+58896328|santa monica, ca|15473639|Everywhere|1|2
+58896328|santa monica, ca|40721661|Southeast Texas|1|2
+58896328|santa monica, ca|135831872|Error|1|2
+58896328|santa monica, ca|55561365|Atlanta, GA|1|2
+58896328|santa monica, ca|0|Error|1|2
+58896328|santa monica, ca|200712316|Error|1|2
+58896328|santa monica, ca|0|Error|1|2
+58896328|santa monica, ca|30362609|Sans Souci Sydney Australia|1|2
+58896328|santa monica, ca|0|Error|1|2
+58896328|santa monica, ca|18412098|Los Alamitos, CA|1|2
+58896328|santa monica, ca|74235970|San Francisco|1|2
+58896328|santa monica, ca|12044602|Los Angeles, California|1|2
+58896328|santa monica, ca|2162368436|Error|1|2
+58896328|santa monica, ca|19557433|Error|1|2
+58896328|santa monica, ca|14603515|New York, NY|1|2
+58896328|santa monica, ca|15639642|Global|1|2
+58896328|santa monica, ca|136276703|Error|1|2
+58896328|santa monica, ca|15810303|Error|1|2
+58896328|santa monica, ca|646893|Cambridge, MA|1|2
+58896328|santa monica, ca|71143944|Everywhere|1|2
+15511636|santa monica, ca|3485971|From the Bay to (DT)LA|11|2
+15511636|santa monica, ca|18206713|Miami, FL|10|2
+15511636|santa monica, ca|5661172|Los Angeles, CA|7|2
+15511636|santa monica, ca|0|Error|7|2
+15511636|santa monica, ca|14120151|Cities worldwide|6|2
+15511636|santa monica, ca|0|Error|6|2
+15511636|santa monica, ca|12703042|Los Angeles|5|2
+15511636|santa monica, ca|16539573|Los Angeles, CA|5|2
+15511636|santa monica, ca|46417651|South Jersey|5|2
+15511636|santa monica, ca|16583999|Pasadena/Arcadia CA|5|2
+15511636|santa monica, ca|18323111|Cleveland, OH|4|2
+15511636|santa monica, ca|8494062|LA, OC, San Diego|4|2
+15511636|santa monica, ca|15135613|Mos Eisley(Hollywood), CA|3|2
+15511636|santa monica, ca|16952837|NYC|3|2
+15511636|santa monica, ca|23828821|City of Angels|3|2
+15511636|santa monica, ca|14262772|Los Angeles|3|2
+15511636|santa monica, ca|28197443|Los Angeles CA|3|2
+15511636|santa monica, ca|16101496|Pasadena, CA|2|2
+15511636|santa monica, ca|2565931|Los Angeles, CA|2|2
+15511636|santa monica, ca|7494552|Los Angeles|2|2
+15511636|santa monica, ca|11911082|Los Angeles & Charlotte|2|2
+15511636|santa monica, ca|31765327|Los Angeles, CA, USA|2|2
+15511636|santa monica, ca|12675902|Los Angeles, CA|2|2
+15511636|santa monica, ca|7234682|Los Angeles |2|2
+15511636|santa monica, ca|14652452|Los Angeles|2|2
+15511636|santa monica, ca|11957802|#DTLA |2|2
+15511636|santa monica, ca|15044760|Los Angeles, CA |2|2
+15511636|santa monica, ca|0|Error|2|2
+15511636|santa monica, ca|16001020|New York|2|2
+15511636|santa monica, ca|0|Error|2|2
+15511636|santa monica, ca|0|Error|2|2
+15511636|santa monica, ca|0|Error|2|2
+15511636|santa monica, ca|18654202|Los Angeles, CA|2|2
+15511636|santa monica, ca|2308706648|Los Angeles, CA|2|2
+15511636|santa monica, ca|55454358|Los Angeles|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|47669516|Maine, US|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|1556793884|Error|1|2
+15511636|santa monica, ca|1293701|San Francisco, CA|1|2
+15511636|santa monica, ca|972651|Error|1|2
+15511636|santa monica, ca|3249251|Silver Lake, CA|1|2
+15511636|santa monica, ca|15834204|Los Angeles|1|2
+15511636|santa monica, ca|14056893|Chicago, IL|1|2
+15511636|santa monica, ca|34798476|Santa Monica, CA|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|663663|Los Angeles, CA, USA|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|22769446|Charlotte, NC|1|2
+15511636|santa monica, ca|6017542|Global|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|18622889|San Francisco Bay Area|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|239449125|Error|1|2
+15511636|santa monica, ca|14717258|Los Angeles, CA |1|2
+15511636|santa monica, ca|783214|San Francisco, CA|1|2
+15511636|santa monica, ca|12661512|Puerto Rico|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|15111077|Seattle|1|2
+15511636|santa monica, ca|38883394|Worldwide|1|2
+15511636|santa monica, ca|17853061|Louisville KY Area|1|2
+15511636|santa monica, ca|15252863|West Los Angeles, CA|1|2
+15511636|santa monica, ca|17563618|Santa Monica, CA|1|2
+15511636|santa monica, ca|22726973|Error|1|2
+15511636|santa monica, ca|6669352|London, England|1|2
+15511636|santa monica, ca|19370018|Los Angeles, CA|1|2
+15511636|santa monica, ca|71913537|Los Angeles - Cincinnati|1|2
+15511636|santa monica, ca|4802221|Manhattan Beach, CA|1|2
+15511636|santa monica, ca|18953266|Boerne, Texas|1|2
+15511636|santa monica, ca|900221|Los Angeles, CA|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|16500155|Far Periphery|1|2
+15511636|santa monica, ca|25932700|Los Angeles|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|429639554|Hyeres|1|2
+15511636|santa monica, ca|42708861|Arkansas|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|31063408|Los Angeles|1|2
+15511636|santa monica, ca|16651331|Los Angeles|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|17116521|Error|1|2
+15511636|santa monica, ca|72119387|Los Angeles, CA|1|2
+15511636|santa monica, ca|41418219|hollywood|1|2
+15511636|santa monica, ca|16164520|Austin|1|2
+15511636|santa monica, ca|42809356|ny|1|2
+15511636|santa monica, ca|6193182|San Diego, CA|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|16186611|Los Angeles (Burbank) CA|1|2
+15511636|santa monica, ca|0|Error|1|2
+15511636|santa monica, ca|3032|New York, NY|1|2
+15511636|santa monica, ca|16335746|Boston/LA|1|2
+15511636|santa monica, ca|9091712|Los Angeles, CA|1|2
+15511636|santa monica, ca|15568613|Michigan, Atlanta, NZ|1|2
+15511636|santa monica, ca|368216612|Error|1|2
+15511636|santa monica, ca|1020961|Your heart|1|2
+15511636|santa monica, ca|14165061|Astoria, NY|1|2
+15511636|santa monica, ca|37313599|Worldwide Vacation Rentals |1|2
+8827322|santa monica, ca|30713182|Berlin, Germany|3|2
+8827322|santa monica, ca|28965399|Global|2|2
+8827322|santa monica, ca|11489|San Francisco, CA |2|2
+8827322|santa monica, ca|2530071|Error|1|2
+8827322|santa monica, ca|2055361|San Francisco & Berlin|1|2
+8827322|santa monica, ca|14501628|Los Angeles|1|2
+8827322|santa monica, ca|10297|Error|1|2
+8827322|santa monica, ca|243901119|Error|1|2
+8827322|santa monica, ca|7908272|Eskilstuna, Sweden|1|2
+8827322|santa monica, ca|15947897|Error|1|2
+6075502|santa monica, ca|0|Error|5|2
+6075502|santa monica, ca|691043|Error|4|2
+6075502|santa monica, ca|21278988|Los Angeles & Worldwide!|3|2
+6075502|santa monica, ca|6075502|Venice, CA|2|2
+6075502|santa monica, ca|0|Error|1|2
+6075502|santa monica, ca|0|Error|1|2
+6075502|santa monica, ca|15123737|LA|1|2
+6075502|santa monica, ca|14951992|Connecticut, USA|1|2
+6075502|santa monica, ca|0|Error|1|2
+6075502|santa monica, ca|17787221|Los Angeles |1|2
+6075502|santa monica, ca|110632072|Albuquerque, New Mexico|1|2
+6075502|santa monica, ca|21455183|Bay Area, CA.|1|2
+6075502|santa monica, ca|54980041|Error|1|2
+6075502|santa monica, ca|269124469|Melbourne, Australia|1|2
+6075502|santa monica, ca|0|Error|1|2
+6075502|santa monica, ca|360578618|Pune|1|2
+6075502|santa monica, ca|162977836|Melbourne, Australia|1|2
+6075502|santa monica, ca|14703765|Los Angeles, CA|1|2
+6075502|santa monica, ca|18089163|Boulder, CO|1|2
+6075502|santa monica, ca|0|Error|1|2
+6075502|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|8|2
+16435577|santa monica, ca|17331433|Los Angeles, CA|7|2
+16435577|santa monica, ca|44406325|Los Angeles|6|2
+16435577|santa monica, ca|23704378|Chicago|5|2
+16435577|santa monica, ca|2611841447|Error|4|2
+16435577|santa monica, ca|17727578|Mumbai, India|4|2
+16435577|santa monica, ca|24134377|Chicago, Ill.|3|2
+16435577|santa monica, ca|18495854|New York|3|2
+16435577|santa monica, ca|19756746|Los Angeles|3|2
+16435577|santa monica, ca|0|Error|2|2
+16435577|santa monica, ca|17976488|Los Angeles|2|2
+16435577|santa monica, ca|2260971401|Error|2|2
+16435577|santa monica, ca|17725445|Las Vegas, NV|2|2
+16435577|santa monica, ca|476274173|Minnesota|2|2
+16435577|santa monica, ca|20190311|#SprintinginStilettos|2|2
+16435577|santa monica, ca|358952068|Error|2|2
+16435577|santa monica, ca|65511530|Location services disabled|2|2
+16435577|santa monica, ca|349922949|LA | NY|2|2
+16435577|santa monica, ca|16210204|Columbus, OH|2|2
+16435577|santa monica, ca|21240089|Valparaiso, IN|2|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|28487033|Columbus, Ohio|1|2
+16435577|santa monica, ca|17394696|New York, NY|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|77256121|NC, VA, MD|1|2
+16435577|santa monica, ca|6125082|Salem, Tamil Nadu 636000 (IN)|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|499152503|Maryland|1|2
+16435577|santa monica, ca|77498427|Satellite Beach, Florida |1|2
+16435577|santa monica, ca|24453580|DJ Chris Kennedy |1|2
+16435577|santa monica, ca|2751148665|Error|1|2
+16435577|santa monica, ca|67729483|Error|1|2
+16435577|santa monica, ca|74210011|Los Angeles|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|50740618|Rockford, Il.|1|2
+16435577|santa monica, ca|59887824|Los Angeles, CA|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|15888142|Los Angeles|1|2
+16435577|santa monica, ca|23783692|Columbus, OH|1|2
+16435577|santa monica, ca|27420846|Indianapolis, Indiana|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|14318277|Yay Area!|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|405146564|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|29959482|San Diego|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|16436545|Columbus, OH|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|19564478|Kalifornia|1|2
+16435577|santa monica, ca|22296680|Georgia|1|2
+16435577|santa monica, ca|15028582|Bloomington, IL|1|2
+16435577|santa monica, ca|16204405|Morgantown, Wv|1|2
+16435577|santa monica, ca|15778004|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|54599110|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|18846918|Columbus, Ohio|1|2
+16435577|santa monica, ca|17107692|Detroit, Michigan|1|2
+16435577|santa monica, ca|17858386|Near Washington DC|1|2
+16435577|santa monica, ca|18355938|New York|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|15955024|San Francisco, CA USA|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|43959666|Error|1|2
+16435577|santa monica, ca|1376098526|Error|1|2
+16435577|santa monica, ca|15361015|NY|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+16435577|santa monica, ca|0|Error|1|2
+14859204|santa monica, california|14602140|Louisville KY|2|2
+14859204|santa monica, california|14859204|Santa Monica, California|1|2
+14859204|santa monica, california|26831435|Error|1|2
+14859204|santa monica, california|15188600|Error|1|2
+14859204|santa monica, california|15058690|Southampton|1|2
+14859204|santa monica, california|1036366633|Error|1|2
+14859204|santa monica, california|2999605945|Error|1|2
+14859204|santa monica, california|6638222|Australia|1|2
+14859204|santa monica, california|15989191|Santa Monica, CA|1|2
+14859204|santa monica, california|17659498|Michigan|1|2
+14859204|santa monica, california|0|Error|1|2
+14859204|santa monica, california|22182297|Austin, Texas|1|2
+14859204|santa monica, california|17446188|New York|1|2
+704303|santa monica, ca|8951502|Durham, NH 03824|4|2
+704303|santa monica, ca|0|Error|2|2
+704303|santa monica, ca|0|Error|2|2
+704303|santa monica, ca|15291309|Portland, OR (#PDX)|2|2
+704303|santa monica, ca|24021110|Error|2|2
+704303|santa monica, ca|28849901|Texas|2|2
+704303|santa monica, ca|15938153|Santa Monica, CA|1|2
+704303|santa monica, ca|16958993|Everywhere|1|2
+704303|santa monica, ca|5638002|Chicago, IL USA|1|2
+704303|santa monica, ca|0|Error|1|2
+704303|santa monica, ca|0|Error|1|2
+704303|santa monica, ca|0|Error|1|2
+704303|santa monica, ca|30003568|Memphis, TN|1|2
+704303|santa monica, ca|772635|Error|1|2
+704303|santa monica, ca|7282592|Error|1|2
+704303|santa monica, ca|0|Error|1|2
+704303|santa monica, ca|0|Error|1|2
+704303|santa monica, ca|15659248|Heaven|1|2
+704303|santa monica, ca|19623986|Salt Lake City, Utah|1|2
+704303|santa monica, ca|0|Error|1|2
+704303|santa monica, ca|1183041|Los Angeles|1|2
+704303|santa monica, ca|0|Error|1|2
+704303|santa monica, ca|27760317|Error|1|2
+24953769|santa monica, ca|45381229|Southern California|5|2
+24953769|santa monica, ca|32259376|NJ|4|2
+24953769|santa monica, ca|1400218903|Error|3|2
+24953769|santa monica, ca|0|Error|2|2
+24953769|santa monica, ca|0|Error|1|2
+24953769|santa monica, ca|21053196|Error|1|2
+24953769|santa monica, ca|7121092|Los Angeles|1|2
+24953769|santa monica, ca|78320837|Berlin|1|2
+24953769|santa monica, ca|34182484|Los Angeles|1|2
+24953769|santa monica, ca|43438879|California|1|2
+24953769|santa monica, ca|0|Error|1|2
+24953769|santa monica, ca|0|Error|1|2
+24953769|santa monica, ca|22809875|Los Angeles, CA|1|2
+24953769|santa monica, ca|17789018|San Francisco, CA|1|2
+24953769|santa monica, ca|0|Error|1|2
+24953769|santa monica, ca|19739579|Los Angeles / USA|1|2
+24953769|santa monica, ca|0|Error|1|2
+24953769|santa monica, ca|25535006|Los Angeles|1|2
+24953769|santa monica, ca|1270249448|Error|1|2
+24953769|santa monica, ca|0|Error|1|2
+24953769|santa monica, ca|3249251|Silver Lake, CA|1|2
+16585403|santa monica, ca|15940736|Yardley, PA|1|2
+16585403|santa monica, ca|14254708|Lakeland, FL|1|2
+16585403|santa monica, ca|0|Error|1|2
+16585403|santa monica, ca|36604111|Canada and Europe|1|2
+16585403|santa monica, ca|0|Error|1|2
+16585403|santa monica, ca|0|Error|1|2
+16585403|santa monica, ca|0|Error|1|2
+16585403|santa monica, ca|25474438|Scottsdale, AZ|1|2
+16585403|santa monica, ca|22999513|MIAMI BEACH|1|2
+16585403|santa monica, ca|0|Error|1|2
+16585403|santa monica, ca|16594226|Lake Tahoe, NV|1|2
+22201342|santa monica, ca|6527972|Seattle, WA|2|2
+22201342|santa monica, ca|17020510|Framingham, MA|2|2
+22201342|santa monica, ca|15441074|New York|2|2
+22201342|santa monica, ca|11567972|Minneapolis|1|2
+22201342|santa monica, ca|9366702|NYC / PHL / Modena (Italy)|1|2
+22201342|santa monica, ca|18944017|Error|1|2
+22201342|santa monica, ca|17087370|Washington, DC|1|2
+22201342|santa monica, ca|0|Error|1|2
+22201342|santa monica, ca|20188554|Boston, Mass.|1|2
+22201342|santa monica, ca|15076093|Vancouver, BC, Canada|1|2
+22201342|santa monica, ca|0|Error|1|2
+22201342|santa monica, ca|0|Error|1|2
+22201342|santa monica, ca|0|Error|1|2
+22201342|santa monica, ca|9524712|Albany, NY|1|2
+22201342|santa monica, ca|61305921|Santa Monica, CA|1|2
+22201342|santa monica, ca|0|Error|1|2
+22201342|santa monica, ca|0|Error|1|2
+22201342|santa monica, ca|0|Error|1|2
+22201342|santa monica, ca|2420652108|Error|1|2
+22201342|santa monica, ca|0|Error|1|2
+22201342|santa monica, ca|18456583|Greater Boston, MA|1|2
+22201342|santa monica, ca|17199508|Error|1|2
+22201342|santa monica, ca|65088845|Error|1|2
+22201342|santa monica, ca|0|Error|1|2
+22201342|santa monica, ca|20602384|San Diego, CA|1|2
+22201342|santa monica, ca|20006454|Chicago|1|2
+22201342|santa monica, ca|24003608|Boston, MA|1|2
+22201342|santa monica, ca|0|Error|1|2
+22201342|santa monica, ca|0|Error|1|2
+22201342|santa monica, ca|176549696|Here. There. Everywhere.|1|2
+22201342|santa monica, ca|10085162|Boston, MA|1|2
+22201342|santa monica, ca|22201342|Carlsbad, CA|1|2
+22201342|santa monica, ca|19614214|Michigan|1|2
+14206711|santa monica, ca|14206711|Santa Monica, CA|14|2
+14206711|santa monica, ca|22522322|California Love|2|2
+14206711|santa monica, ca|25484500|www.facebook.com/kiminz|2|2
+14206711|santa monica, ca|0|Error|1|2
+14206711|santa monica, ca|18420140|Error|1|2
+14206711|santa monica, ca|2501250774|Error|1|2
+14206711|santa monica, ca|62379869|Los Angeles, NYC & Maui|1|2
+14206711|santa monica, ca|0|Error|1|2
+14206711|santa monica, ca|1679715498|USA, UAE|1|2
+14206711|santa monica, ca|0|Error|1|2
+14206711|santa monica, ca|15960147|central coast, california|1|2
+14206711|santa monica, ca|0|Error|1|2
+14206711|santa monica, ca|17061490|St Louis, MO|1|2
+14206711|santa monica, ca|2705168026|Error|1|2
+14206711|santa monica, ca|0|Error|1|2
+14206711|santa monica, ca|22221547|Error|1|2
+14206711|santa monica, ca|0|Error|1|2
+14206711|santa monica, ca|0|Error|1|2
+14206711|santa monica, ca|0|Error|1|2
+14206711|santa monica, ca|0|Error|1|2
+19845256|santa monica, ca|5778342|Los Angeles, CA|4|2
+19845256|santa monica, ca|24929621|Error|3|2
+19845256|santa monica, ca|14090017|Los Angeles, CA|2|2
+19845256|santa monica, ca|293353605|Somewhere awesome|2|2
+19845256|santa monica, ca|0|Error|1|2
+19845256|santa monica, ca|17060265|London & NYC, Mostly |1|2
+19845256|santa monica, ca|0|Error|1|2
+19845256|santa monica, ca|0|Error|1|2
+19845256|santa monica, ca|0|Error|1|2
+19845256|santa monica, ca|24502450|LA X DMV X NYC X SYD|1|2
+19845256|santa monica, ca|17008353|Kona, HI|1|2
+19845256|santa monica, ca|0|Error|1|2
+19845256|santa monica, ca|27966138|Southern Cali...hawaii|1|2
+19845256|santa monica, ca|76183753|Hollywood|1|2
+19845256|santa monica, ca|16936532|Everywhere|1|2
+19845256|santa monica, ca|0|Error|1|2
+19845256|santa monica, ca|0|Error|1|2
+19845256|santa monica, ca|31877693|Short Hills, NJ, USA|1|2
+19845256|santa monica, ca|0|Error|1|2
+19845256|santa monica, ca|0|Error|1|2
+19845256|santa monica, ca|22276978|Los Angeles|1|2
+10148262|santa monica, ca|1305126325|Error|4|2
+10148262|santa monica, ca|32405994|Error|2|2
+10148262|santa monica, ca|21778272|Error|1|2
+10148262|santa monica, ca|0|Error|1|2
+10148262|santa monica, ca|18403170|Brooklyn, NY|1|2
+10148262|santa monica, ca|0|Error|1|2
+10148262|santa monica, ca|7199222|near Seattle, WA|1|2
+10148262|santa monica, ca|16947651|Error|1|2
+10148262|santa monica, ca|10731002|iPhone: 37.871223,-122.268623|1|2
+10148262|santa monica, ca|4039761|San Francisco, CA|1|2
+10148262|santa monica, ca|16508641|canada|1|2
+10148262|santa monica, ca|17998216|San Diego|1|2
+10148262|santa monica, ca|0|Error|1|2
+10148262|santa monica, ca|20014638|Sunnyvale, CA USA|1|2
+10148262|santa monica, ca|0|Error|1|2
+15257371|santa monica, california|15257371|Santa Monica, California|21|2
+15257371|santa monica, california|15148418|Cincinnati,OH|1|2
+15257371|santa monica, california|0|Error|1|2
+2412371|santa monica, ca|20197706|KILLEEN, TX USA|3|2
+2412371|santa monica, ca|0|Error|2|2
+2412371|santa monica, ca|52913343|San Francisco|1|2
+2412371|santa monica, ca|3840|94123|1|2
+2412371|santa monica, ca|12647802|Austin|1|2
+2412371|santa monica, ca|15898377|Milton Keynes, England|1|2
+2412371|santa monica, ca|3358642739|Error|1|2
+2412371|santa monica, ca|14261228|Melbourne, Australia|1|2
+2412371|santa monica, ca|0|Error|1|2
+2412371|santa monica, ca|741769092|Error|1|2
+2412371|santa monica, ca|14858226|Canada|1|2
+2412371|santa monica, ca|29503915|Santa Monica, CA|1|2
+2412371|santa monica, ca|18692637|Error|1|2
+2412371|santa monica, ca|0|Error|1|2
+2412371|santa monica, ca|18916582|Vermont|1|2
+2412371|santa monica, ca|17375147|San Diego|1|2
+2412371|santa monica, ca|14168021|34.120670,-118.197149|1|2
+77126664|santa monica, ca|77092809|California|4|2
+77126664|santa monica, ca|15939889|California & Washington, DC|3|2
+77126664|santa monica, ca|46729604|California|2|2
+77126664|santa monica, ca|42660729|Washington, D.C.|2|2
+77126664|santa monica, ca|16132087|Washington, D.C.|2|2
+77126664|santa monica, ca|73056060|UCLA|1|2
+77126664|santa monica, ca|0|Error|1|2
+77126664|santa monica, ca|15618084|Error|1|2
+77126664|santa monica, ca|0|Error|1|2
+77126664|santa monica, ca|0|Error|1|2
+77126664|santa monica, ca|12044602|Los Angeles, California|1|2
+77126664|santa monica, ca|53168716|California|1|2
+77126664|santa monica, ca|46712188|California|1|2
+77126664|santa monica, ca|77126664|Santa Monica, CA|1|2
+77126664|santa monica, ca|0|Error|1|2
+77126664|santa monica, ca|15941955|Washington, DC|1|2
+14081078|santa monica, california|6827882|New York, NY, USA|2|2
+14081078|santa monica, california|33962685|Alexandria, VA|1|2
+14081078|santa monica, california|11975102|San Francisco|1|2
+14081078|santa monica, california|37906283|India|1|2
+14081078|santa monica, california|0|Error|1|2
+14081078|santa monica, california|0|Error|1|2
+21209087|santa monica, california|5693842|Washington, D.C.|4|2
+21209087|santa monica, california|153193119|California, USA|3|2
+21209087|santa monica, california|0|Error|1|2
+21209087|santa monica, california|15966258|California|1|2
+21209087|santa monica, california|5496932|Washington, D.C.|1|2
+21209087|santa monica, california|529648439|Error|1|2
+21209087|santa monica, california|94219770|Anaheim, CA|1|2
+21209087|santa monica, california|0|Error|1|2
+21209087|santa monica, california|2937433978|Error|1|2
+34007097|santa monica, ca|0|Error|4|2
+34007097|santa monica, ca|9486482|Holts Summit, MO|3|2
+34007097|santa monica, ca|59311100|Midwestern  USA - OHIO|2|2
+34007097|santa monica, ca|41049989|Calgary, among others.|2|2
+34007097|santa monica, ca|259142254|Error|2|2
+34007097|santa monica, ca|456888453|Aylesbury|1|2
+34007097|santa monica, ca|322643785|Error|1|2
+34007097|santa monica, ca|0|Error|1|2
+34007097|santa monica, ca|74243927|Germany|1|2
+34007097|santa monica, ca|25307774|United States|1|2
+34007097|santa monica, ca|0|Error|1|2
+34007097|santa monica, ca|2259337698|Bangladesh and Canada|1|2
+34007097|santa monica, ca|0|Error|1|2
+34007097|santa monica, ca|0|Error|1|2
+23654040|santa monica, ca|23654040|Century City, Los Angeles|8|2
+23654040|santa monica, ca|49593471|greece,athens,glufada|2|2
+23654040|santa monica, ca|39710561|Los Angeles, CA|2|2
+23654040|santa monica, ca|18491670|Santa Cruz, CA|1|2
+23654040|santa monica, ca|18545090|Los Angeles|1|2
+23654040|santa monica, ca|17373521|2911 Main St. Santa Monica, CA|1|2
+23654040|santa monica, ca|0|Error|1|2
+23654040|santa monica, ca|43029650|Los Angeles|1|2
+23654040|santa monica, ca|20091023|Error|1|2
+23917244|santa monica, ca|0|Error|1|2
+23917244|santa monica, ca|0|Error|1|2
+23917244|santa monica, ca|0|Error|1|2
+23917244|santa monica, ca|0|Error|1|2
+23917244|santa monica, ca|0|Error|1|2
+60355615|santa monica, ca|15693493|Hollywood, Ca|2|2
+60355615|santa monica, ca|29179866|Cape Town/USA |2|2
+60355615|santa monica, ca|589154473|North America|2|2
+60355615|santa monica, ca|11414|Seattle, WA|1|2
+60355615|santa monica, ca|15736099|L A x N J x I S R A E L|1|2
+60355615|santa monica, ca|14164235|New York City|1|2
+60355615|santa monica, ca|45420499|Error|1|2
+60355615|santa monica, ca|3004231|Error|1|2
+60355615|santa monica, ca|68020673|Southside Chi|1|2
+60355615|santa monica, ca|59379461|Dallas, TX|1|2
+60355615|santa monica, ca|39297668|Chicago, IL|1|2
+60355615|santa monica, ca|18044327|Pacific Standard Time|1|2
+16579346|santa monica, ca|15991632|Ventura, CA|2|2
+16579346|santa monica, ca|35549780|Capitola, CA|2|2
+16579346|santa monica, ca|0|Error|1|2
+16579346|santa monica, ca|280313579|Error|1|2
+16579346|santa monica, ca|66224716|USA|1|2
+16579346|santa monica, ca|49048938|Los Angeles, California|1|2
+16579346|santa monica, ca|33096274|Montreal|1|2
+16579346|santa monica, ca|14572947|World Wide|1|2
+16579346|santa monica, ca|208774573|Error|1|2
+16579346|santa monica, ca|12804312|Los Angeles, California|1|2
+16579346|santa monica, ca|19982260|USA|1|2
+16579346|santa monica, ca|25340176|The Original Cupcake Bakery|1|2
+16579346|santa monica, ca|14338900|San Francisco|1|2
+16579346|santa monica, ca|20960208|Los Angeles, CA|1|2
+34798476|santa monica, ca|0|Error|4|2
+34798476|santa monica, ca|11485872|Kauai, Hawaii|4|2
+34798476|santa monica, ca|14262772|Los Angeles|3|2
+34798476|santa monica, ca|58625545|Melbourne|3|2
+34798476|santa monica, ca|15504378|iPhone: 36.128613,-115.152466|3|2
+34798476|santa monica, ca|17446621|Hollywood, CA|3|2
+34798476|santa monica, ca|39607894|Scottsdale, AZ|2|2
+34798476|santa monica, ca|25168231|Boston, Mass.|2|2
+34798476|santa monica, ca|34798476|Santa Monica, CA|2|2
+34798476|santa monica, ca|67819860|scottsdale az|1|2
+34798476|santa monica, ca|96259882|Error|1|2
+34798476|santa monica, ca|18122488|Los Angeles|1|2
+34798476|santa monica, ca|14779327|San Francisco|1|2
+34798476|santa monica, ca|0|Error|1|2
+34798476|santa monica, ca|16615398|Error|1|2
+34798476|santa monica, ca|8453452|Silicon Valley, California|1|2
+34798476|santa monica, ca|0|Error|1|2
+34798476|santa monica, ca|0|Error|1|2
+34798476|santa monica, ca|5845242|Silicon Valley to Porn Valley|1|2
+34798476|santa monica, ca|1239231272|Error|1|2
+34798476|santa monica, ca|44027947|Scottsdale, Arizona|1|2
+34798476|santa monica, ca|0|Error|1|2
+34798476|santa monica, ca|14985117|LA via NYC then a Vineyard!|1|2
+34798476|santa monica, ca|5740662|Los Angeles|1|2
+34798476|santa monica, ca|19305172|US|1|2
+34798476|santa monica, ca|0|Error|1|2
+34798476|santa monica, ca|0|Error|1|2
+34798476|santa monica, ca|100353035|Los Angeles, CA|1|2
+34798476|santa monica, ca|536243022|Error|1|2
+34798476|santa monica, ca|17852343|New York and LA|1|2
+34798476|santa monica, ca|0|Error|1|2
+34798476|santa monica, ca|23145378|San Francisco|1|2
+34798476|santa monica, ca|755452|Chicago & the World |1|2
+34798476|santa monica, ca|34837235|RightPlace RightTime, PA
+|1|2
+34798476|santa monica, ca|14365368|Los Angeles|1|2
+15010370|santa monica, ca|28481147|everywhere|7|2
+15010370|santa monica, ca|19076157|Error|6|2
+15010370|santa monica, ca|0|Error|2|2
+15010370|santa monica, ca|0|Error|1|2
+15010370|santa monica, ca|2504650850|Kansas City, MO|1|2
+15010370|santa monica, ca|0|Error|1|2
+15010370|santa monica, ca|0|Error|1|2
+15010370|santa monica, ca|0|Error|1|2
+15010370|santa monica, ca|657863|New York, NY|1|2
+15010370|santa monica, ca|19951435|Okanagan, BC, Canada|1|2
+15010370|santa monica, ca|19005551|Error|1|2
+15010370|santa monica, ca|20320630|Maryland|1|2
+15010370|santa monica, ca|2355612614|@emilyissirius|1|2
+15010370|santa monica, ca|65194780|Canada|1|2
+15010370|santa monica, ca|10860762|Brooklyn, NY|1|2
+15010370|santa monica, ca|74274021|Cincinnati, OH|1|2
+15010370|santa monica, ca|18812301|New York, NY|1|2
+15010370|santa monica, ca|288000259|New York|1|2
+15010370|santa monica, ca|33995416|iPhone: 40.430679,-86.920364|1|2
+15010370|santa monica, ca|15487087|Los Angeles | New York|1|2
+15010370|santa monica, ca|16936044|Error|1|2
+15010370|santa monica, ca|2840713334|Manila Philippines|1|2
+15010370|santa monica, ca|0|Error|1|2
+15010370|santa monica, ca|7024252|New Orleans, LA|1|2
+15010370|santa monica, ca|78046095|Waco, Tx|1|2
+15010370|santa monica, ca|16862341|Orlando, FL|1|2
+15010370|santa monica, ca|0|Error|1|2
+15010370|santa monica, ca|21944780|Southern California|1|2
+15010370|santa monica, ca|13170342|Nashville, TN|1|2
+15010370|santa monica, ca|24298255|Nashville, TN|1|2
+15010370|santa monica, ca|73528861|Error|1|2
+15010370|santa monica, ca|5692542|Austin, Texas|1|2
+15010370|santa monica, ca|90723706|Lovington, NM|1|2
+15010370|santa monica, ca|17484761|Music City|1|2
+15010370|santa monica, ca|310260926|Error|1|2
+15010370|santa monica, ca|0|Error|1|2
+15010370|santa monica, ca|72064194|Error|1|2
+9636632|santa monica, ca|9636632|Los Angeles, CA|6|2
+9636632|santa monica, ca|4073941|California|3|2
+9636632|santa monica, ca|53249772|Error|2|2
+9636632|santa monica, ca|30570563|Brookwood Alabama|2|2
+9636632|santa monica, ca|20113366|Oakland at night, SF at day|2|2
+9636632|santa monica, ca|14400512|coloRADo|1|2
+9636632|santa monica, ca|120583148|Error|1|2
+9636632|santa monica, ca|23064476|New Hampshire|1|2
+9636632|santa monica, ca|1941281|Brookland, DC|1|2
+9636632|santa monica, ca|25382485|Venice Beach, Ca|1|2
+9636632|santa monica, ca|0|Error|1|2
+9636632|santa monica, ca|10167102|Krikit Town, CA|1|2
+9636632|santa monica, ca|520052186|Error|1|2
+9636632|santa monica, ca|42517526|Bogota, Colombia|1|2
+9636632|santa monica, ca|21641130|Error|1|2
+9636632|santa monica, ca|13108822|New York, NY|1|2
+9636632|santa monica, ca|146327085|Error|1|2
+9636632|santa monica, ca|25558182|Los Angeles|1|2
+9636632|santa monica, ca|0|Error|1|2
+9636632|santa monica, ca|14330177|Oakland, CA|1|2
+9636632|santa monica, ca|56150983|Los Feliz, Los Angeles|1|2
+9636632|santa monica, ca|24752834|iPhone: 33.918427,-118.417213|1|2
+9636632|santa monica, ca|243781400|Error|1|2
+9636632|santa monica, ca|14862545|San Francisco, California|1|2
+9636632|santa monica, ca|14590585|San Francisco|1|2
+9636632|santa monica, ca|38078047|Los Angeles|1|2
+9636632|santa monica, ca|0|Error|1|2
+9636632|santa monica, ca|28176387|Los Angeles|1|2
+9636632|santa monica, ca|30801057|Error|1|2
+9636632|santa monica, ca|2982188747|Error|1|2
+9636632|santa monica, ca|24907183|Error|1|2
+9636632|santa monica, ca|0|Error|1|2
+9636632|santa monica, ca|19340648|WARE I'M SUPPOSED TO BE..LOL|1|2
+9636632|santa monica, ca|9257862|Cupertino, CA (37.332259,-122.|1|2
+9636632|santa monica, ca|18651545|New York City|1|2
+9636632|santa monica, ca|3386439610|Error|1|2
+9636632|santa monica, ca|305233157|Error|1|2
+9636632|santa monica, ca|8717392|Chicago, Illinois|1|2
+9636632|santa monica, ca|0|Error|1|2
+9636632|santa monica, ca|29115723|Seattle|1|2
+9636632|santa monica, ca|6487292|Los Angeles|1|2
+9636632|santa monica, ca|73044997|The A|1|2
+9636632|santa monica, ca|17203566|Los Angeles, CA|1|2
+9636632|santa monica, ca|15318861|Error|1|2
+9636632|santa monica, ca|8388032|Lob City, CA|1|2
+9636632|santa monica, ca|0|Error|1|2
+9636632|santa monica, ca|14328083|Los Angeles|1|2
+9636632|santa monica, ca|46658897|a police phonebox|1|2
+9636632|santa monica, ca|3949831|Los Angeles, CA|1|2
+9636632|santa monica, ca|17917066|Lahore, Pakistan|1|2
+9636632|santa monica, ca|16988239|Los Angeles, CA|1|2
+9636632|santa monica, ca|21105134|Error|1|2
+9636632|santa monica, ca|24091742|Los Angeles, CA|1|2
+9636632|santa monica, ca|17351062|Oakland, CA|1|2
+9636632|santa monica, ca|0|Error|1|2
+9636632|santa monica, ca|14254038|Santa Barbara, California|1|2
+9636632|santa monica, ca|16651108|iPhone: 33.901575,-118.396190|1|2
+9636632|santa monica, ca|0|Error|1|2
+9636632|santa monica, ca|0|Error|1|2
+22744872|santa monica, ca|6324322|Oakland, CA|3|2
+22744872|santa monica, ca|17852343|New York and LA|2|2
+22744872|santa monica, ca|15522248|Los Angeles, CA|2|2
+22744872|santa monica, ca|47511133|Error|1|2
+22744872|santa monica, ca|18952294|New York, NY|1|2
+22744872|santa monica, ca|5976542|San Francisco, CA|1|2
+22744872|santa monica, ca|0|Error|1|2
+22744872|santa monica, ca|15485441|New York, New York|1|2
+22744872|santa monica, ca|0|Error|1|2
+22744872|santa monica, ca|0|Error|1|2
+22744872|santa monica, ca|57170795|Santa Monica, CA|1|2
+22744872|santa monica, ca|0|Error|1|2
+22744872|santa monica, ca|28536871|SoCal|1|2
+22744872|santa monica, ca|4417731|Error|1|2
+16373878|santa monica, california|15663092|LA, DC, NY, London & Singapore|3|2
+16373878|santa monica, california|16353848|Error|2|2
+16373878|santa monica, california|51183369|Venice |2|2
+16373878|santa monica, california|37763479|Silicon Valley, California|2|2
+16373878|santa monica, california|20711514|Los Angeles, CA|2|2
+16373878|santa monica, california|14496886|Baltimore, Maryland |1|2
+16373878|santa monica, california|56093792|Portugal|1|2
+16373878|santa monica, california|43985337|UK|1|2
+16373878|santa monica, california|0|Error|1|2
+16373878|santa monica, california|0|Error|1|2
+16373878|santa monica, california|0|Error|1|2
+16373878|santa monica, california|11347122|California|1|2
+16373878|santa monica, california|5743372|Sydney Australia|1|2
+16373878|santa monica, california|54076363|Los Angeles, CA|1|2
+16373878|santa monica, california|17643743|San Francisco, CA|1|2
+16373878|santa monica, california|0|Error|1|2
+16373878|santa monica, california|41170844|Error|1|2
+16373878|santa monica, california|18326925|los angeles|1|2
+16373878|santa monica, california|2267205788|Error|1|2
+16373878|santa monica, california|116511371|Error|1|2
+16373878|santa monica, california|15821039|Oxford, UK|1|2
+16373878|santa monica, california|19649203|London|1|2
+16373878|santa monica, california|0|Error|1|2
+24189601|santa monica, ca|197914989|Error|2|2
+24189601|santa monica, ca|26304172|Atl, Ga.|1|2
+24189601|santa monica, ca|26763910|New York City|1|2
+24189601|santa monica, ca|16492009|NY +wherever coolness is found|1|2
+24189601|santa monica, ca|86407379|Error|1|2
+24189601|santa monica, ca|18739476|Boston area|1|2
+24189601|santa monica, ca|27953|Nashville|1|2
+24189601|santa monica, ca|8567042|Charleston, WV|1|2
+24189601|santa monica, ca|0|Error|1|2
+24189601|santa monica, ca|333159192|Error|1|2
+24189601|santa monica, ca|15896959|Error|1|2
+24189601|santa monica, ca|25365430|Dayton, OH|1|2
+24189601|santa monica, ca|0|Error|1|2
+24189601|santa monica, ca|15813846|Alexandria, VA|1|2
+24189601|santa monica, ca|31231020|Reno, NV|1|2
+24189601|santa monica, ca|9166462|Grand Rapids, MI|1|2
+24189601|santa monica, ca|37895093|Los Angeles|1|2
+24189601|santa monica, ca|1877281008|Error|1|2
+24189601|santa monica, ca|0|Error|1|2
+24189601|santa monica, ca|0|Error|1|2
+24189601|santa monica, ca|8903812|San Jose, CA|1|2
+24189601|santa monica, ca|0|Error|1|2
+24189601|santa monica, ca|0|Error|1|2
+24189601|santa monica, ca|923676030|Error|1|2
+24189601|santa monica, ca|0|Error|1|2
+24189601|santa monica, ca|16597337|USA|1|2
+24189601|santa monica, ca|7004872|Error|1|2
+24189601|santa monica, ca|0|Error|1|2
+24189601|santa monica, ca|22505608|Boston, MA USA, Toronto, ON CA|1|2
+24189601|santa monica, ca|17934733|Tweeting in your ear.|1|2
+24189601|santa monica, ca|14849823|Los Angeles|1|2
+25238598|santa monica, california|22191023|LA LA Land|2|2
+25238598|santa monica, california|571118131|Error|1|2
+76098252|santa monica, ca|17540485|Worldwide|3|2
+76098252|santa monica, ca|0|Error|3|2
+76098252|santa monica, ca|0|Error|2|2
+76098252|santa monica, ca|0|Error|1|2
+76098252|santa monica, ca|0|Error|1|2
+76098252|santa monica, ca|39161013|maui, hawaii|1|2
+76098252|santa monica, ca|27697863|USA|1|2
+76098252|santa monica, ca|51405063|Vail, Co....hotels....|1|2
+76098252|santa monica, ca|349926559|San Francisco |1|2
+76098252|santa monica, ca|0|Error|1|2
+76098252|santa monica, ca|0|Error|1|2
+12135162|santa monica, ca|124087775|Error|1|2
+12135162|santa monica, ca|21143388|Everywhere|1|2
+12135162|santa monica, ca|12135162|Santa Monica, CA|1|2
+12135162|santa monica, ca|0|Error|1|2
+12135162|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|0|Error|3|2
+17401682|santa monica, ca|336709818|uk for now|3|2
+17401682|santa monica, ca|3577531|Venice, CA|3|2
+17401682|santa monica, ca|56436449|San Francisco, CA|2|2
+17401682|santa monica, ca|252267383|Downtown Las Vegas|2|2
+17401682|santa monica, ca|9323742|Los Angeles|2|2
+17401682|santa monica, ca|19116767|Oklahoma City|1|2
+17401682|santa monica, ca|30540196|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|23820989|Los Angeles|1|2
+17401682|santa monica, ca|17173775|Sharing Life's Adventures!|1|2
+17401682|santa monica, ca|16373523|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|14324987|Kansas City, MO|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|755109|Redmond, WA|1|2
+17401682|santa monica, ca|33423|Philadelphia|1|2
+17401682|santa monica, ca|3382|Northern California|1|2
+17401682|santa monica, ca|15276289|Error|1|2
+17401682|santa monica, ca|14373435|San Francisco, CA|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|5517432|Santa Monica, CA|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|2648153100|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|813512|YVR/SFO/NYC|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|14128772|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|9065412|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|14327478|San Francisco, CA|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|10221|san francisco|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|62581962|Error|1|2
+17401682|santa monica, ca|15249171|Los Angeles, CA|1|2
+17401682|santa monica, ca|18498684|New York City|1|2
+17401682|santa monica, ca|228866701|Hollywood, CA|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|4807031|San Francisco, CA|1|2
+17401682|santa monica, ca|136400041|Boulder, CO|1|2
+17401682|santa monica, ca|19789471|Worldwide|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|161073|Brooklyn|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|624683|San Francisco, CA|1|2
+17401682|santa monica, ca|216079876|Brooklyn, NY|1|2
+17401682|santa monica, ca|0|Error|1|2
+17401682|santa monica, ca|16977640|San Francisco|1|2
+17401682|santa monica, ca|0|Error|1|2
+9252322|santa monica, ca|0|Error|3|2
+9252322|santa monica, ca|33597140|San Francisco & Los Angeles|1|2
+9252322|santa monica, ca|3262714333|Error|1|2
+9252322|santa monica, ca|6211972|hear.|1|2
+9252322|santa monica, ca|0|Error|1|2
+9252322|santa monica, ca|0|Error|1|2
+9252322|santa monica, ca|103472588|Jacksonville, FL 32221|1|2
+9252322|santa monica, ca|0|Error|1|2
+9252322|santa monica, ca|0|Error|1|2
+9252322|santa monica, ca|16636772|Irvine, CA|1|2
+21705208|santa monica, ca|612797033|Error|2|2
+21705208|santa monica, ca|24057649|LA|1|2
+21705208|santa monica, ca|10170|Eastlake, Seattle, WA|1|2
+21705208|santa monica, ca|16007114|brooklyn to beachwood canyon|1|2
+18036978|santa monica, ca|15557717|New York|5|2
+18036978|santa monica, ca|15443982|Los Angeles|4|2
+18036978|santa monica, ca|0|Error|3|2
+18036978|santa monica, ca|0|Error|2|2
+18036978|santa monica, ca|807095|New York City|1|2
+18036978|santa monica, ca|0|Error|1|2
+18036978|santa monica, ca|0|Error|1|2
+18036978|santa monica, ca|16356235|iPhone: 33.679520,-117.885811|1|2
+18036978|santa monica, ca|0|Error|1|2
+18036978|santa monica, ca|16672159|Error|1|2
+18036978|santa monica, ca|17297695|San Francisco|1|2
+18036978|santa monica, ca|23473068|Los Angeles, CA|1|2
+18036978|santa monica, ca|0|Error|1|2
+18036978|santa monica, ca|16997044|NYC & London|1|2
+18036978|santa monica, ca|252857245|Los Angeles, CA|1|2
+18036978|santa monica, ca|248261556|Error|1|2
+18036978|santa monica, ca|15153399|Savannah, GA|1|2
+14892610|santa monica, ca|2268681|Los Angeles|3|2
+14892610|santa monica, ca|26861141|Santa Monica, CA|2|2
+14892610|santa monica, ca|0|Error|1|2
+14892610|santa monica, ca|12280802|London, England|1|2
+14892610|santa monica, ca|0|Error|1|2
+14892610|santa monica, ca|21252653|Error|1|2
+14892610|santa monica, ca|2707054218|Chicago/Brooklyn|1|2
+14892610|santa monica, ca|0|Error|1|2
+14892610|santa monica, ca|16069187|North Koreatown, Los Angeles|1|2
+14892610|santa monica, ca|82995995|WORLD WIDE|1|2
+1262051|santa monica, ca|90515084|Los Angeles|3|2
+1262051|santa monica, ca|17905406|Everywhere|2|2
+1262051|santa monica, ca|0|Error|2|2
+1262051|santa monica, ca|14738722|East Village, NYC|1|2
+1262051|santa monica, ca|14484706|L.A.|1|2
+1262051|santa monica, ca|0|Error|1|2
+1262051|santa monica, ca|3249251|Silver Lake, CA|1|2
+1262051|santa monica, ca|8233272|L.A. via NY-Tokyo-Tel-Aviv|1|2
+1262051|santa monica, ca|22320092|New York City|1|2
+1262051|santa monica, ca|9974132|Philly|1|2
+1262051|santa monica, ca|27394553|Los Angeles, CA|1|2
+1262051|santa monica, ca|14545192|brooklyn, ny|1|2
+1262051|santa monica, ca|16298927|los angeles, ca|1|2
+1262051|santa monica, ca|43785811|Erie, PA|1|2
+1262051|santa monica, ca|1526360347|Error|1|2
+1262051|santa monica, ca|21315481|Los Angeles |1|2
+1262051|santa monica, ca|0|Error|1|2
+1262051|santa monica, ca|473182879|Chesterfield|1|2
+1262051|santa monica, ca|17417353|Gibsons BC - Canada|1|2
+1262051|santa monica, ca|23654040|Century City, Los Angeles|1|2
+1262051|santa monica, ca|10394822|Los Angeles|1|2
+1262051|santa monica, ca|283486162|Error|1|2
+1262051|santa monica, ca|15914203|Wherever you are, I'm there.|1|2
+1262051|santa monica, ca|0|Error|1|2
+1262051|santa monica, ca|22077253|Rotherhithe|1|2
+80430156|santa monica, ca|53625512|2819 Pico Santa Monica CA |3|2
+80430156|santa monica, ca|15708012|Nationwide and Virtually|2|2
+80430156|santa monica, ca|76184149|Santa Monica, CA|2|2
+80430156|santa monica, ca|16497651|Michigan |2|2
+80430156|santa monica, ca|48600750|Los Angeles, CA|1|2
+80430156|santa monica, ca|0|Error|1|2
+80430156|santa monica, ca|0|Error|1|2
+80430156|santa monica, ca|0|Error|1|2
+80430156|santa monica, ca|0|Error|1|2
+80430156|santa monica, ca|0|Error|1|2
+80430156|santa monica, ca|0|Error|1|2
+80430156|santa monica, ca|0|Error|1|2
+80430156|santa monica, ca|0|Error|1|2
+80430156|santa monica, ca|0|Error|1|2
+80430156|santa monica, ca|65268060|Error|1|2
+80430156|santa monica, ca|0|Error|1|2
+80430156|santa monica, ca|2917882610|Error|1|2
+80430156|santa monica, ca|34784632|santa monica, ca|1|2
+80430156|santa monica, ca|36108218|Venice Beach|1|2
+80430156|santa monica, ca|58407373|Los Angeles, CA|1|2
+80430156|santa monica, ca|44515351|Venice, LA|1|2
+80430156|santa monica, ca|2860101|Venice, CA|1|2
+80430156|santa monica, ca|53154473|Long Beach, CA|1|2
+80430156|santa monica, ca|69789264|West Hollywood, CA|1|2
+80430156|santa monica, ca|14575894|Error|1|2
+80430156|santa monica, ca|875953926|Error|1|2
+80430156|santa monica, ca|25729419|South Carolina|1|2
+80430156|santa monica, ca|60146478|Santa Monica|1|2
+80430156|santa monica, ca|2280103122|Error|1|2
+80430156|santa monica, ca|78692718|Santa Monica, CA|1|2
+80430156|santa monica, ca|71413402|We'll tweet it daily!|1|2
+80430156|santa monica, ca|69342015|Santa Monica, California|1|2
+80430156|santa monica, ca|38077338|Los Angeles|1|2
+80430156|santa monica, ca|34748234|Santa Monica, CA|1|2
+80430156|santa monica, ca|18025207|Los Angeles, California|1|2
+80430156|santa monica, ca|22854596|Los Angeles, CA|1|2
+58148088|santa monica, ca|14511951|Error|9|2
+58148088|santa monica, ca|21849140|San Francisco, CA|6|2
+58148088|santa monica, ca|15907720|DC & NYC|2|2
+58148088|santa monica, ca|33683565|Dahlonega, Georgia|2|2
+58148088|santa monica, ca|23844016|Laguna Beach, California|1|2
+58148088|santa monica, ca|17918663|Los Angeles, CA|1|2
+58148088|santa monica, ca|79180439|Orlando, FL|1|2
+58148088|santa monica, ca|21162820|Global|1|2
+58148088|santa monica, ca|42576790|Error|1|2
+58148088|santa monica, ca|0|Error|1|2
+58148088|santa monica, ca|14143921|California|1|2
+58148088|santa monica, ca|17813135|Newburyport, MA|1|2
+28238045|santa monica, ca|1403858923|Error|2|2
+28238045|santa monica, ca|32613223|In The Cloud|2|2
+28238045|santa monica, ca|14571474|Santa Monica, CA|2|2
+28238045|santa monica, ca|547128056|Error|1|2
+28238045|santa monica, ca|2277724902|Error|1|2
+28238045|santa monica, ca|26917714|Somewhere |1|2
+28238045|santa monica, ca|54365543|Los Angeles, CA|1|2
+28238045|santa monica, ca|2535945182|Error|1|2
+28238045|santa monica, ca|14372095|Toronto|1|2
+28238045|santa monica, ca|207195733|Error|1|2
+28238045|santa monica, ca|36705197|Error|1|2
+28238045|santa monica, ca|23157179|Castle Rock, CO|1|2
+28238045|santa monica, ca|0|Error|1|2
+28238045|santa monica, ca|15308868|Global Citizen|1|2
+28238045|santa monica, ca|0|Error|1|2
+28395072|santa monica, ca|28395072|Santa Monica, CA|11|2
+28395072|santa monica, ca|17325073|Charlotte, NC|10|2
+28395072|santa monica, ca|40334548|Chicago|4|2
+28395072|santa monica, ca|15836048|Global - HQ in Arkansas|3|2
+28395072|santa monica, ca|0|Error|3|2
+28395072|santa monica, ca|18913827|New York, NY|3|2
+28395072|santa monica, ca|21225270|Pittsburgh, PA|3|2
+28395072|santa monica, ca|33124512|Culver City|3|2
+28395072|santa monica, ca|18754837|san diego|3|2
+28395072|santa monica, ca|85689336|Los Angeles, CA|2|2
+28395072|santa monica, ca|3739041|Salem, MA|2|2
+28395072|santa monica, ca|0|Error|2|2
+28395072|santa monica, ca|36299433|LA|1|2
+28395072|santa monica, ca|57042280|Los Angeles, CA|1|2
+28395072|santa monica, ca|61663|London, England|1|2
+28395072|santa monica, ca|18057459|Fort Collins, CO|1|2
+28395072|santa monica, ca|81217377|Boulder, CO|1|2
+28395072|santa monica, ca|0|Error|1|2
+28395072|santa monica, ca|8792262|Bentonville, AR|1|2
+28395072|santa monica, ca|17772358|San Francisco |1|2
+28395072|santa monica, ca|4266261|Connecticut|1|2
+28395072|santa monica, ca|87602957|New England|1|2
+28395072|santa monica, ca|0|Error|1|2
+28395072|santa monica, ca|0|Error|1|2
+28395072|santa monica, ca|0|Error|1|2
+28395072|santa monica, ca|0|Error|1|2
+28395072|santa monica, ca|19556945|New York, NY|1|2
+28395072|santa monica, ca|43119443|Austin, Texas|1|2
+28395072|santa monica, ca|19551458|Boston, MA|1|2
+37964030|santa monica, ca|759251|Error|3|2
+37964030|santa monica, ca|0|Error|2|2
+37964030|santa monica, ca|26953547|Dallas, TX|2|2
+37964030|santa monica, ca|0|Error|2|2
+37964030|santa monica, ca|20542206|Error|2|2
+37964030|santa monica, ca|0|Error|1|2
+37964030|santa monica, ca|0|Error|1|2
+37964030|santa monica, ca|12101862|23 US and Mexico destinations|1|2
+37964030|santa monica, ca|19942779|Durango, CO|1|2
+37964030|santa monica, ca|0|Error|1|2
+37964030|santa monica, ca|0|Error|1|2
+37964030|santa monica, ca|0|Error|1|2
+37964030|santa monica, ca|0|Error|1|2
+37964030|santa monica, ca|0|Error|1|2
+37964030|santa monica, ca|0|Error|1|2
+37964030|santa monica, ca|15131310|Austin, TX|1|2
+37964030|santa monica, ca|0|Error|1|2
+37964030|santa monica, ca|0|Error|1|2
+37964030|santa monica, ca|7212562|Dallas, Texas|1|2
+17124119|santa monica, ca|17164778|Los Angeles|3|2
+17124119|santa monica, ca|58248124|Raleigh, NC|3|2
+17124119|santa monica, ca|17998573|Los Angeles, CA|2|2
+17124119|santa monica, ca|14762561|Portland, OR|2|2
+17124119|santa monica, ca|5784822|Error|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|14593090|Erlangen, DE / Los Angeles, US|1|2
+17124119|santa monica, ca|7505952|Phoenix, AZ, USA|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|932640362|Error|1|2
+17124119|santa monica, ca|4073941|California|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|30380794|Error|1|2
+17124119|santa monica, ca|34643874|Fern Park, FL|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|14681605|Body? L.A. Mind? N.J.|1|2
+17124119|santa monica, ca|27047591|Error|1|2
+17124119|santa monica, ca|23641537|Los Angeles, CA|1|2
+17124119|santa monica, ca|1278938754|Error|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|18119776|the interweb|1|2
+17124119|santa monica, ca|973090074|Error|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|18954079|iPhone: 34.105381,-118.307991|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|13046|Los Angeles|1|2
+17124119|santa monica, ca|47578673|LA/NYC/SF/Europe|1|2
+17124119|santa monica, ca|21552209|Los Angeles|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|6487292|Los Angeles|1|2
+17124119|santa monica, ca|2987625115|Error|1|2
+17124119|santa monica, ca|31554225|TUNA TOWN|1|2
+17124119|santa monica, ca|27669588|New York|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|59576657|Los Angeles, California|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|42744294|USA|1|2
+17124119|santa monica, ca|15495345|Los Angeles|1|2
+17124119|santa monica, ca|90793607|Error|1|2
+17124119|santa monica, ca|17642849|hobo|1|2
+17124119|santa monica, ca|50385944|CA/NY/Global|1|2
+17124119|santa monica, ca|0|Error|1|2
+17124119|santa monica, ca|23670349|Los Angeles + Chicago|1|2
+17124119|santa monica, ca|21700640|Worldwide|1|2
+17124119|santa monica, ca|21978075|Manhattan, New York City|1|2
+17124119|santa monica, ca|17729895|planet earth|1|2
+49761051|santa monica, ca|16437753|Kansas City|3|2
+49761051|santa monica, ca|57721624|Toronto|2|2
+49761051|santa monica, ca|25200663|Las Vegas|2|2
+49761051|santa monica, ca|16234193|Seattle|2|2
+49761051|santa monica, ca|973031940|Error|2|2
+49761051|santa monica, ca|15499714|The Scribosphere|2|2
+49761051|santa monica, ca|24082014|Chicago, IL|2|2
+49761051|santa monica, ca|16719995|Atlanta, GA. |1|2
+49761051|santa monica, ca|0|Error|1|2
+49761051|santa monica, ca|15763776|Brooklyn, NY|1|2
+49761051|santa monica, ca|45958954|California|1|2
+49761051|santa monica, ca|26947037|Midwest|1|2
+49761051|santa monica, ca|19135435|Sydney|1|2
+49761051|santa monica, ca|12616|Los Angeles, CA|1|2
+49761051|santa monica, ca|50786235|Queensland, Australia|1|2
+49761051|santa monica, ca|0|Error|1|2
+49761051|santa monica, ca|22760824|New Mexico|1|2
+49761051|santa monica, ca|21707623|Error|1|2
+49761051|santa monica, ca|55909574|Oak Park, Illinois|1|2
+49761051|santa monica, ca|23369525|Pittsburgh to San Jose|1|2
+49761051|santa monica, ca|17296665|On your team, or leading it.|1|2
+49761051|santa monica, ca|0|Error|1|2
+49761051|santa monica, ca|15465602|Los Angeles|1|2
+49761051|santa monica, ca|602983|Seattle, WA|1|2
+49761051|santa monica, ca|57150926|Chicago|1|2
+17519817|santa monica, ca|14086563|Error|2|2
+17519817|santa monica, ca|15060048|New York|2|2
+17519817|santa monica, ca|63833596|Los Angeles, CA|2|2
+17519817|santa monica, ca|14075928|Error|1|2
+17519817|santa monica, ca|0|Error|1|2
+17519817|santa monica, ca|0|Error|1|2
+17519817|santa monica, ca|0|Error|1|2
+17519817|santa monica, ca|34559099|Los Angeles|1|2
+17519817|santa monica, ca|7336292|New York, NY|1|2
+17519817|santa monica, ca|26291563|Seattle|1|2
+17519817|santa monica, ca|23335895|Boulder, CO|1|2
+17519817|santa monica, ca|16095572|Seattle|1|2
+17519817|santa monica, ca|809760|Nebraska and NYC|1|2
+17519817|santa monica, ca|130584275|Denver, Colorado|1|2
+17519817|santa monica, ca|0|Error|1|2
+20404333|santa monica, ca|6241402|iPhone: 42.175419,-70.911812|1|2
+20404333|santa monica, ca|49999507|Ireland|1|2
+20404333|santa monica, ca|36262977|I'll Stir fry you in my wok |1|2
+20404333|santa monica, ca|28669612|Error|1|2
+15948557|santa monica, ca|844231994|Error|3|2
+15948557|santa monica, ca|57201004|Vestavia Hills, AL|2|2
+15948557|santa monica, ca|33041941|Southern California|2|2
+15948557|santa monica, ca|17486376|indiana|2|2
+15948557|santa monica, ca|73090030|London|2|2
+15948557|santa monica, ca|61743|USA|1|2
+15948557|santa monica, ca|285236196|Constant state of undress|1|2
+15948557|santa monica, ca|15777130|Suffocating in suburbia |1|2
+15948557|santa monica, ca|0|Error|1|2
+15948557|santa monica, ca|29490401|+30.663304, -87.852151|1|2
+15948557|santa monica, ca|82145204|Los Angeles|1|2
+15948557|santa monica, ca|68387415|Secret to Success is Support|1|2
+15948557|santa monica, ca|0|Error|1|2
+15948557|santa monica, ca|51647515|San Diego|1|2
+15948557|santa monica, ca|15134093|Chicago, IL (NW Indiana)|1|2
+15948557|santa monica, ca|17080475|Kemp, TX |1|2
+15948557|santa monica, ca|22976112|Omaha, NE|1|2
+15948557|santa monica, ca|16636359|Greer, SC|1|2
+15948557|santa monica, ca|22388764|New York City|1|2
+15948557|santa monica, ca|30907352|Seattle, WA|1|2
+15948557|santa monica, ca|19338553|McAllen, TX|1|2
+15948557|santa monica, ca|72335380|Atlanta, GA|1|2
+15948557|santa monica, ca|56553355|Madison, Wisconsin|1|2
+15948557|santa monica, ca|259229619|Error|1|2
+15948557|santa monica, ca|0|Error|1|2
+15948557|santa monica, ca|0|Error|1|2
+15948557|santa monica, ca|16028034|I'm Not Cookies Yet.|1|2
+15948557|santa monica, ca|0|Error|1|2
+15948557|santa monica, ca|0|Error|1|2
+15948557|santa monica, ca|42467836|Hot, dusty, the best sunsets|1|2
+15948557|santa monica, ca|0|Error|1|2
+15948557|santa monica, ca|54123695|Santa Monica|1|2
+17653609|santa monica, california|55619591|Las Vegas, NV|5|2
+17653609|santa monica, california|69475966|Error|2|2
+17653609|santa monica, california|22136453|proud red state GO SOONERS|2|2
+17653609|santa monica, california|2699813410|Error|2|2
+17653609|santa monica, california|34998094|Error|1|2
+17653609|santa monica, california|3523971|Los Angeles and Cucamonga|1|2
+17653609|santa monica, california|0|Error|1|2
+17653609|santa monica, california|21918814|Lake St. Clair|1|2
+17653609|santa monica, california|35365213|Everywhere|1|2
+17653609|santa monica, california|21168932|Error|1|2
+17653609|santa monica, california|0|Error|1|2
+17653609|santa monica, california|74945020|Wall Street|1|2
+17653609|santa monica, california|0|Error|1|2
+17653609|santa monica, california|5401642|Southwest -USA|1|2
+17653609|santa monica, california|598405181|Error|1|2
+17653609|santa monica, california|16137901|St. Louis|1|2
+17653609|santa monica, california|0|Error|1|2
+17653609|santa monica, california|48719514|Las Vegas, Nevada|1|2
+17653609|santa monica, california|30655430|Ocala, FL|1|2
+17653609|santa monica, california|0|Error|1|2
+20275150|santa monica, ca|57170795|Santa Monica, CA|1|2
+20275150|santa monica, ca|373853968|Error|1|2
+14247122|santa monica, ca|9279652|New York City|2|2
+14247122|santa monica, ca|21268897|New York City|2|2
+14247122|santa monica, ca|14336049|Modern Massachusetts|2|2
+14247122|santa monica, ca|12652542|Stuttgart, Germany|2|2
+14247122|santa monica, ca|35623|Error|1|2
+14247122|santa monica, ca|15220768|Washington, DC|1|2
+14247122|santa monica, ca|0|Error|1|2
+14247122|santa monica, ca|15292813|State of Confusion|1|2
+14247122|santa monica, ca|0|Error|1|2
+14247122|santa monica, ca|18827821|Error|1|2
+14247122|santa monica, ca|18840445|NJ|1|2
+14247122|santa monica, ca|6797902|New York, NY|1|2
+14247122|santa monica, ca|2735631|Los Angeles, California|1|2
+14247122|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|61305921|Santa Monica, CA|11|2
+17011341|santa monica, ca|18956569|Los Angeles|7|2
+17011341|santa monica, ca|88774138|California|7|2
+17011341|santa monica, ca|2770655308|Error|5|2
+17011341|santa monica, ca|14232962|Overland Park, KS|5|2
+17011341|santa monica, ca|21119050|Los Angeles|5|2
+17011341|santa monica, ca|15033400|Los Angeles|5|2
+17011341|santa monica, ca|17011341|Santa Monica, CA|4|2
+17011341|santa monica, ca|84443264|Santa Monica, CA|3|2
+17011341|santa monica, ca|25655004|new york city|3|2
+17011341|santa monica, ca|14634257|Error|3|2
+17011341|santa monica, ca|19728338|metro atlanta|3|2
+17011341|santa monica, ca|3725701|Salt Lake City, Utah|2|2
+17011341|santa monica, ca|3249251|Silver Lake, CA|2|2
+17011341|santa monica, ca|29272480|Paris, Vegas & CA|2|2
+17011341|santa monica, ca|17658106|Cape Coral, FL|2|2
+17011341|santa monica, ca|24628309|USA|2|2
+17011341|santa monica, ca|0|Error|2|2
+17011341|santa monica, ca|46412971|Barrie, Ontario, Canada|2|2
+17011341|santa monica, ca|88999478|Alabama|2|2
+17011341|santa monica, ca|61384729|Los Angeles|2|2
+17011341|santa monica, ca|14670841|34.135947,-118.503646|2|2
+17011341|santa monica, ca|22071464|Portsmouth, NH|2|2
+17011341|santa monica, ca|18217459|Culver City, Los Angeles|1|2
+17011341|santa monica, ca|19914859|St Louis, MO|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|24055210|Pasadena, CA|1|2
+17011341|santa monica, ca|30077811|USA|1|2
+17011341|santa monica, ca|2869531|Error|1|2
+17011341|santa monica, ca|89549759|Error|1|2
+17011341|santa monica, ca|19058052|Planet Umami Mart|1|2
+17011341|santa monica, ca|464410377|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|14275769|San Jose, CA|1|2
+17011341|santa monica, ca|66609471|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|2504286133|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|38335051|Everywhere|1|2
+17011341|santa monica, ca|18227209|Florenceville, NB, Canada|1|2
+17011341|santa monica, ca|57978742|Appleton, WI|1|2
+17011341|santa monica, ca|21439907|Los Angeles & Las Vegas|1|2
+17011341|santa monica, ca|26829888|Error|1|2
+17011341|santa monica, ca|27013187|Madison, GA|1|2
+17011341|santa monica, ca|31548208|Culver City|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|34019334|Error|1|2
+17011341|santa monica, ca|24313777|Rick Moonen's RM Seafood|1|2
+17011341|santa monica, ca|46051524|alaska|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|29582980|Error|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|17583795|San Francisco, CA|1|2
+17011341|santa monica, ca|7518252|Cleveland, Ohio|1|2
+17011341|santa monica, ca|381761561|Error|1|2
+17011341|santa monica, ca|14326003|Atlanta, Ga|1|2
+17011341|santa monica, ca|18873970|NYC LA LONDON HONG KONG SEOUL|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|21727051|NYC|1|2
+17011341|santa monica, ca|29814285|Aurora, IL|1|2
+17011341|santa monica, ca|36193574|Denver w/@flovitaver|1|2
+17011341|santa monica, ca|22972396|San Francisco, CA|1|2
+17011341|santa monica, ca|317080661|Error|1|2
+17011341|santa monica, ca|22947756|Los Angeles, Aspen, New York|1|2
+17011341|santa monica, ca|22319409|Error|1|2
+17011341|santa monica, ca|249736535|austin, tx|1|2
+17011341|santa monica, ca|18966061|Dallas|1|2
+17011341|santa monica, ca|16186743|Indiana, U.S.A.|1|2
+17011341|santa monica, ca|0|Error|1|2
+17011341|santa monica, ca|57106261|Atlanta|1|2
+25391663|santa monica, ca|20507583|Error|10|2
+25391663|santa monica, ca|24845598|Las Vegas|5|2
+25391663|santa monica, ca|0|Error|5|2
+25391663|santa monica, ca|22688483|Los Angeles, CA|4|2
+25391663|santa monica, ca|22652616|Santa Ana|4|2
+25391663|santa monica, ca|0|Error|4|2
+25391663|santa monica, ca|0|Error|3|2
+25391663|santa monica, ca|0|Error|3|2
+25391663|santa monica, ca|0|Error|3|2
+25391663|santa monica, ca|0|Error|3|2
+25391663|santa monica, ca|0|Error|3|2
+25391663|santa monica, ca|23654941|Los Angeles|3|2
+25391663|santa monica, ca|21725356|Another Universe|2|2
+25391663|santa monica, ca|280552727|Error|2|2
+25391663|santa monica, ca|335486670|Error|2|2
+25391663|santa monica, ca|19529244|Leo's Taco Truck|2|2
+25391663|santa monica, ca|572974749|Felton, PA|2|2
+25391663|santa monica, ca|9359812|Oklahoma|2|2
+25391663|santa monica, ca|0|Error|2|2
+25391663|santa monica, ca|29047858|Las Vegas, Los Angeles, NYC|2|2
+25391663|santa monica, ca|25246383|Los Angeles and the world|2|2
+25391663|santa monica, ca|0|Error|2|2
+25391663|santa monica, ca|0|Error|2|2
+25391663|santa monica, ca|19580465|Los Angeles |2|2
+25391663|santa monica, ca|27927811|LA|1|2
+25391663|santa monica, ca|45763640|DMV to Miami Beach|1|2
+25391663|santa monica, ca|18120211|momma says I'm worldwide|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|339928253|Los Angeles, CA|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|104996578|Error|1|2
+25391663|santa monica, ca|22180109|Error|1|2
+25391663|santa monica, ca|35815087|City by the sea|1|2
+25391663|santa monica, ca|16291464|Error|1|2
+25391663|santa monica, ca|20333277|Downtown Los Angeles|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|25879081|Orange County/LA|1|2
+25391663|santa monica, ca|408851842|Error|1|2
+25391663|santa monica, ca|243691321|Error|1|2
+25391663|santa monica, ca|569046856|Error|1|2
+25391663|santa monica, ca|36433531|Error|1|2
+25391663|santa monica, ca|25207252|Hollywood, CA|1|2
+25391663|santa monica, ca|1006264356|Error|1|2
+25391663|santa monica, ca|46312146|Lynwood|1|2
+25391663|santa monica, ca|37630072|L.A. / P.R. / N.Y.C|1|2
+25391663|santa monica, ca|23415311|Los Angeles - |1|2
+25391663|santa monica, ca|49717874|You Don't like me ? ... #TOMA |1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|19514607|Los Angeles|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|11738562|Tallahassee, Florida|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|15468547|L.A./NYC|1|2
+25391663|santa monica, ca|47567874|Los Angeles! |1|2
+25391663|santa monica, ca|20486433|Error|1|2
+25391663|santa monica, ca|19179357|South Gate/Los Angeles, CA|1|2
+25391663|santa monica, ca|27825992|Error|1|2
+25391663|santa monica, ca|425709511|Error|1|2
+25391663|santa monica, ca|17382380|Error|1|2
+25391663|santa monica, ca|43994057|Los Angeles, CA, USA|1|2
+25391663|santa monica, ca|80622589|Los Angeles California |1|2
+25391663|santa monica, ca|45006622|lb .Riverside /the trap |1|2
+25391663|santa monica, ca|47501162|LA, O.C|1|2
+25391663|santa monica, ca|91702999|LA & Vegas|1|2
+25391663|santa monica, ca|24023069|Error|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|26198726|Your iPod/Los Angeles|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|611260090|Long Island, NY|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|14744569|Boston, MA|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|24495170|Connecticut|1|2
+25391663|santa monica, ca|15495396|planet earth|1|2
+25391663|santa monica, ca|21635015|WORLDWIDE |1|2
+25391663|santa monica, ca|18689740|State Of Confusion|1|2
+25391663|santa monica, ca|21077475|Error|1|2
+25391663|santa monica, ca|47730476|THE GATE|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|19578086|NEW YORK|1|2
+25391663|santa monica, ca|21309937|Power106fm Saturday's at 12pm|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|22866680|Chicago, IL|1|2
+25391663|santa monica, ca|11208082|Chicago|1|2
+25391663|santa monica, ca|24286811|Venice Beach, CA|1|2
+25391663|santa monica, ca|18014453|Error|1|2
+25391663|santa monica, ca|0|Error|1|2
+25391663|santa monica, ca|44228081|Los Angeles |1|2
+25391663|santa monica, ca|0|Error|1|2
+22341769|santa monica, california|2998581407|Error|15|2
+22341769|santa monica, california|0|Error|5|2
+22341769|santa monica, california|3003742030|Rostov-on-Don
+, Russia|4|2
+22341769|santa monica, california|0|Error|4|2
+22341769|santa monica, california|0|Error|3|2
+22341769|santa monica, california|0|Error|3|2
+22341769|santa monica, california|0|Error|3|2
+22341769|santa monica, california|0|Error|3|2
+22341769|santa monica, california|30677610|NYC girl: The Bronx|2|2
+22341769|santa monica, california|0|Error|2|2
+22341769|santa monica, california|97867574|Error|2|2
+22341769|santa monica, california|1346900635|Error|2|2
+22341769|santa monica, california|0|Error|2|2
+22341769|santa monica, california|18530108|Atlanta, GA|2|2
+22341769|santa monica, california|0|Error|2|2
+22341769|santa monica, california|0|Error|2|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|16319687|Either NYC or DC..or in Cali|1|2
+22341769|santa monica, california|922299517|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|30619869|North Carolina, USA|1|2
+22341769|santa monica, california|234893290|New York|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|17450915|Beyond the material world|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|60282659|Error|1|2
+22341769|santa monica, california|54951973|Error|1|2
+22341769|santa monica, california|27500950|Under a SHADE tree!!!|1|2
+22341769|santa monica, california|235387057|NYOB|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|29077494|Candi Land  |1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|90786293|Los Angeles |1|2
+22341769|santa monica, california|171317482|Error|1|2
+22341769|santa monica, california|412844758|Error|1|2
+22341769|santa monica, california|1652048456|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|30773200|The Bible Belt|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|17686760|Error|1|2
+22341769|santa monica, california|1329155978|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|17546320|Away From You|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|2742055556|Error|1|2
+22341769|santa monica, california|0|Error|1|2
+22341769|santa monica, california|58372281|Maryland|1|2
+22341769|santa monica, california|0|Error|1|2
+34698369|santa monica, ca|0|Error|1|2
+34698369|santa monica, ca|25789633|Nashville, NC|1|2
+34698369|santa monica, ca|1598671183|Error|1|2
+34698369|santa monica, ca|239001106|Error|1|2
+34698369|santa monica, ca|20300803|Australia|1|2
+34698369|santa monica, ca|3346485814|Error|1|2
+34698369|santa monica, ca|69911195|Philippines|1|2
+34698369|santa monica, ca|17843090|Error|1|2
+34698369|santa monica, ca|0|Error|1|2
+34698369|santa monica, ca|0|Error|1|2
+34698369|santa monica, ca|14380175|New York City|1|2
+14548727|santa monica, ca|16370255|Los Angeles, CA|5|2
+14548727|santa monica, ca|9318232|Misselthwaite Manor|4|2
+14548727|santa monica, ca|18991947|Los Angeles, CA|4|2
+14548727|santa monica, ca|14665490|San Francisco|2|2
+14548727|santa monica, ca|19739126|California|2|2
+14548727|santa monica, ca|0|Error|1|2
+14548727|santa monica, ca|15858135|Los Angeles, CA|1|2
+14548727|santa monica, ca|22685200|Los Angeles, California|1|2
+14548727|santa monica, ca|25601292|Error|1|2
+14548727|santa monica, ca|69203755|Los Angeles|1|2
+14548727|santa monica, ca|381095457|Error|1|2
+14548727|santa monica, ca|19000089|seoul|1|2
+14548727|santa monica, ca|816214|Norf Side |1|2
+14548727|santa monica, ca|15999509|Suburbia and Burbank|1|2
+14548727|santa monica, ca|15083606|Twin Peaks, WA|1|2
+14548727|santa monica, ca|14356248|New York City|1|2
+14548727|santa monica, ca|0|Error|1|2
+14548727|santa monica, ca|0|Error|1|2
+14548727|santa monica, ca|770214006|Error|1|2
+14548727|santa monica, ca|0|Error|1|2
+14548727|santa monica, ca|0|Error|1|2
+14548727|santa monica, ca|25509071|Boston|1|2
+14548727|santa monica, ca|36196496|Error|1|2
+14548727|santa monica, ca|0|Error|1|2
+14548727|santa monica, ca|31526315|Los Angeles|1|2
+14548727|santa monica, ca|3038526828|Error|1|2
+14548727|santa monica, ca|16087058|Santa Monica, CA.|1|2
+14548727|santa monica, ca|34097876|Los Angeles, CA|1|2
+14548727|santa monica, ca|23393212|NYC|1|2
+14548727|santa monica, ca|0|Error|1|2
+14548727|santa monica, ca|0|Error|1|2
+14548727|santa monica, ca|23396761|L.A.|1|2
+14548727|santa monica, ca|7728632|Error|1|2
+14548727|santa monica, ca|0|Error|1|2
+14548727|santa monica, ca|14948898|Citizen of Planet Earth, man|1|2
+14548727|santa monica, ca|71052680|Los Angeles|1|2
+14548727|santa monica, ca|0|Error|1|2
+14548727|santa monica, ca|0|Error|1|2
+14548727|santa monica, ca|18461227|SC (aka, God's country!)|1|2
+14548727|santa monica, ca|20713061|Error|1|2
+14548727|santa monica, ca|22715071|Los Angeles|1|2
+14548727|santa monica, ca|14287094|New York, NY|1|2
+23690982|santa monica, ca|18993601|Los Angeles, CA|5|2
+23690982|santa monica, ca|32144720|LA born and raised |3|2
+23690982|santa monica, ca|0|Error|3|2
+23690982|santa monica, ca|3987940606|thomas 1026|2|2
+23690982|santa monica, ca|0|Error|1|2
+23690982|santa monica, ca|25209206|Los Angeles|1|2
+23690982|santa monica, ca|60399747|Near Portland, OR|1|2
+23690982|santa monica, ca|441122170|Error|1|2
+23690982|santa monica, ca|34281120|Los Angeles|1|2
+23690982|santa monica, ca|80177203|Error|1|2
+23690982|santa monica, ca|766610|Los Angeles|1|2
+23690982|santa monica, ca|15778923|Southern California|1|2
+23690982|santa monica, ca|14683691|Hollywood, CA|1|2
+23690982|santa monica, ca|48222215|LA|1|2
+23690982|santa monica, ca|235669769|Error|1|2
+23690982|santa monica, ca|0|Error|1|2
+27978427|santa monica, ca|6702612|Los Angeles|3|2
+27978427|santa monica, ca|0|Error|2|2
+27978427|santa monica, ca|7861312|Los Angeles, CA|2|2
+27978427|santa monica, ca|44310194|San Francisco, CA|2|2
+27978427|santa monica, ca|226043|San Francisco Bay Area|1|2
+27978427|santa monica, ca|17373521|2911 Main St. Santa Monica, CA|1|2
+27978427|santa monica, ca|657863|New York, NY|1|2
+27978427|santa monica, ca|14519394|San Marcos, CA|1|2
+27978427|santa monica, ca|14756183|The Tiki Bar|1|2
+27978427|santa monica, ca|35293219|12217 Wilshire west LA, CA |1|2
+27978427|santa monica, ca|8732172|Charleston, SC|1|2
+27978427|santa monica, ca|5704082|Vancouver|1|2
+27978427|santa monica, ca|42761271|Los Angeles, CA|1|2
+27978427|santa monica, ca|15834660|Los Angeles, CA|1|2
+27978427|santa monica, ca|17425114|USA|1|2
+27978427|santa monica, ca|816653|San Francisco, CA|1|2
+27978427|santa monica, ca|7037852|Representing Altadena|1|2
+27978427|santa monica, ca|0|Error|1|2
+27978427|santa monica, ca|0|Error|1|2
+27978427|santa monica, ca|132658390|Error|1|2
+27978427|santa monica, ca|16510540|Los Angeles, CA|1|2
+27978427|santa monica, ca|1004|My new account is @jason |1|2
+27978427|santa monica, ca|14910411|Los Angeles, CA|1|2
+27978427|santa monica, ca|18396070|Los Angeles, CA|1|2
+27978427|santa monica, ca|7178432|Error|1|2
+27978427|santa monica, ca|749863|The Outside Lands|1|2
+27978427|santa monica, ca|0|Error|1|2
+27978427|santa monica, ca|7121092|Los Angeles|1|2
+27978427|santa monica, ca|0|Error|1|2
+27978427|santa monica, ca|0|Error|1|2
+14909768|santa monica, ca|2844006893|Error|2|2
+14909768|santa monica, ca|12319862|Error|2|2
+14909768|santa monica, ca|15522248|Los Angeles, CA|1|2
+14909768|santa monica, ca|21726490|Somewhere out there ...|1|2
+14909768|santa monica, ca|28162514|Mississauga, Ontario, Canada|1|2
+14909768|santa monica, ca|34337051|midland tx :)|1|2
+14909768|santa monica, ca|107460982|Error|1|2
+14909768|santa monica, ca|92952085|Error|1|2
+14909768|santa monica, ca|23522644|Error|1|2
+14909768|santa monica, ca|17543791|Error|1|2
+14909768|santa monica, ca|21034460|Los Angeles, CA|1|2
+14909768|santa monica, ca|20123094|Error|1|2
+14909768|santa monica, ca|56837493|Loss Vegas|1|2
+20414851|santa monica, ca|31687553|Reading, UK|1|2
+20414851|santa monica, ca|52942679|Santa Monica, CA|1|2
+20414851|santa monica, ca|8740302|NC, USA|1|2
+22118978|santa monica, california|0|Error|2|2
+22118978|santa monica, california|0|Error|2|2
+22118978|santa monica, california|24131368|TORONTO | LA | NYC | SD|1|2
+22118978|santa monica, california|0|Error|1|2
+22118978|santa monica, california|35832628|Brooklyn Park MN|1|2
+22118978|santa monica, california|35541249|NY/LA|1|2
+22118978|santa monica, california|22205507|Error|1|2
+43746300|santa monica, ca|38360949|Error|2|2
+15437409|santa monica, california|19132670|Southern California|5|2
+15437409|santa monica, california|16313225|iPhone: 34.009148,-118.490280|5|2
+15437409|santa monica, california|0|Error|4|2
+15437409|santa monica, california|16312872|Los Angeles|3|2
+15437409|santa monica, california|5520332|Los Angeles|2|2
+15437409|santa monica, california|1322691|Error|2|2
+15437409|santa monica, california|15522248|Los Angeles, CA|2|2
+15437409|santa monica, california|7142392|Santa Monica, CA |2|2
+15437409|santa monica, california|6909932|Los Angeles, CA|2|2
+15437409|santa monica, california|16896679|San Francisco, CA|1|2
+15437409|santa monica, california|17089367|Mother Earth|1|2
+15437409|santa monica, california|0|Error|1|2
+15437409|santa monica, california|14707085|Kansas City, MO|1|2
+15437409|santa monica, california|32739992|Phoenix, AZ|1|2
+15437409|santa monica, california|15067571|Porto Alegre - RS|1|2
+15437409|santa monica, california|12138162|San Francisco, CA|1|2
+15437409|santa monica, california|16313373|Los Angeles|1|2
+15437409|santa monica, california|18461565|San Francisco, CA|1|2
+15437409|santa monica, california|2533331|San Diego|1|2
+15437409|santa monica, california|16561736|Behind You!!!!|1|2
+15437409|santa monica, california|14749606|San Francisco, CA|1|2
+15437409|santa monica, california|15437409|Santa Monica, California|1|2
+15437409|santa monica, california|9856192|Texas|1|2
+15437409|santa monica, california|0|Error|1|2
+15437409|santa monica, california|57505160|Error|1|2
+15437409|santa monica, california|52788973|Error|1|2
+15437409|santa monica, california|17415379|New York|1|2
+15437409|santa monica, california|793926|Ontario, Canada|1|2
+15437409|santa monica, california|4107755891|Error|1|2
+15437409|santa monica, california|0|Error|1|2
+15437409|santa monica, california|16286394|Montreal|1|2
+15437409|santa monica, california|1054521|@SthlmTech|1|2
+15437409|santa monica, california|14998938|Chicago, IL|1|2
+9801852|santa monica, california|0|Error|5|2
+9801852|santa monica, california|16678274|Error|4|2
+9801852|santa monica, california|27152489|Error|2|2
+9801852|santa monica, california|30035156|Tokyo|1|2
+9801852|santa monica, california|24051414|Asgard|1|2
+9801852|santa monica, california|730473|14.605552,121.07352|1|2
+63279820|santa monica, ca|0|Error|3|2
+63279820|santa monica, ca|47711019|Malibu, CA|3|2
+63279820|santa monica, ca|787476361|Error|2|2
+63279820|santa monica, ca|21256689|Hurst, TX|2|2
+63279820|santa monica, ca|27159988|Los Angeles|2|2
+63279820|santa monica, ca|2314708071|Error|2|2
+63279820|santa monica, ca|917762167|Los Angeles, CA|2|2
+63279820|santa monica, ca|27093693|Error|2|2
+63279820|santa monica, ca|77055880|NY, NJ|2|2
+63279820|santa monica, ca|2530495004|Error|2|2
+63279820|santa monica, ca|43346583|Los Angeles|1|2
+63279820|santa monica, ca|2591853307|Error|1|2
+63279820|santa monica, ca|16941646|West Los Angeles, CA|1|2
+63279820|santa monica, ca|21525105|Glendale/LA, California|1|2
+63279820|santa monica, ca|0|Error|1|2
+63279820|santa monica, ca|389670262|Error|1|2
+63279820|santa monica, ca|0|Error|1|2
+63279820|santa monica, ca|82766665|Instagram: @MarkHapka|1|2
+63279820|santa monica, ca|0|Error|1|2
+63279820|santa monica, ca|66801825|everywhereuwannabe|1|2
+63279820|santa monica, ca|21849314|Los Angeles, CA|1|2
+63279820|santa monica, ca|47719700|Santa Monica, CA|1|2
+63279820|santa monica, ca|3279938630|Error|1|2
+63279820|santa monica, ca|227138973|Error|1|2
+63279820|santa monica, ca|0|Error|1|2
+63279820|santa monica, ca|0|Error|1|2
+63279820|santa monica, ca|17534598|London | UK|1|2
+63279820|santa monica, ca|15964926|New York, NY|1|2
+63279820|santa monica, ca|191788227|Error|1|2
+63279820|santa monica, ca|15413033|Harringay, Haringey, London|1|2
+63279820|santa monica, ca|0|Error|1|2
+63279820|santa monica, ca|0|Error|1|2
+63279820|santa monica, ca|0|Error|1|2
+63279820|santa monica, ca|44674190|Rancho Palos Verdes|1|2
+63279820|santa monica, ca|47722635|Rolling Hills, CA|1|2
+63279820|santa monica, ca|0|Error|1|2
+63279820|santa monica, ca|0|Error|1|2
+63279820|santa monica, ca|1215197462|Error|1|2
+63279820|santa monica, ca|47709087|Sherman Oaks, CA|1|2
+63279820|santa monica, ca|69342015|Santa Monica, California|1|2
+63279820|santa monica, ca|632417854|Phoenix, AZ|1|2
+63279820|santa monica, ca|22171440|Philly girl in So Cal |1|2
+63279820|santa monica, ca|3280258146|Error|1|2
+20944157|santa monica, ca|0|Error|1|2
+20944157|santa monica, ca|4958911|By the beach|1|2
+20944157|santa monica, ca|4286051|Error|1|2
+20944157|santa monica, ca|63833596|Los Angeles, CA|1|2
+20944157|santa monica, ca|8989302|Error|1|2
+20944157|santa monica, ca|12|California, USA|1|2
+20944157|santa monica, ca|14803701|Everywhere|1|2
+20944157|santa monica, ca|14660636|University Place, Washingto|1|2
+20944157|santa monica, ca|1000591|New York City|1|2
+33920481|santa monica, ca|814090|Orange County, CA|1|2
+33920481|santa monica, ca|0|Error|1|2
+14566578|santa monica, ca|18887735|Chicago|1|2
+14566578|santa monica, ca|807095|New York City|1|2
+35888987|santa monica, ca|15046916|Kansas City|3|2
+35888987|santa monica, ca|18290719|SF & Global|1|2
+35888987|santa monica, ca|32159660|Global|1|2
+35888987|santa monica, ca|47127629|Maine|1|2
+35888987|santa monica, ca|15447306|Error|1|2
+35888987|santa monica, ca|30987439|Error|1|2
+35888987|santa monica, ca|14951093|California|1|2
+35888987|santa monica, ca|19303934|Vermont|1|2
+35888987|santa monica, ca|27778893|Error|1|2
+35888987|santa monica, ca|14511951|Error|1|2
+35888987|santa monica, ca|14309006|Pacific Palisades, CA|1|2
+35888987|santa monica, ca|16459760|On a mountain in a forest...|1|2
+35888987|santa monica, ca|13759952|Error|1|2
+35888987|santa monica, ca|18002296|Error|1|2
+35888987|santa monica, ca|14813320|Error|1|2
+35888987|santa monica, ca|19425770|Silicon Valley|1|2
+35888987|santa monica, ca|0|Error|1|2
+35888987|santa monica, ca|21425914|Minnesota|1|2
+18325806|santa monica, ca|2901164378|Error|1|2
+69342015|santa monica, california|68271562|Georgia|5|2
+69342015|santa monica, california|18456531|Los Angeles (Virtually Here)|4|2
+69342015|santa monica, california|34790518|Venice~Santa Monica, CA|2|2
+69342015|santa monica, california|0|Error|2|2
+69342015|santa monica, california|24394944|Green Bay, WI |2|2
+69342015|santa monica, california|97093963|thailand|1|2
+69342015|santa monica, california|0|Error|1|2
+69342015|santa monica, california|47011009|Error|1|2
+69342015|santa monica, california|15112070|Montreal // Las Vegas|1|2
+69342015|santa monica, california|0|Error|1|2
+69342015|santa monica, california|38473186|Florida USA The World|1|2
+69342015|santa monica, california|0|Error|1|2
+69342015|santa monica, california|0|Error|1|2
+69342015|santa monica, california|21879024|San Diego & world at large|1|2
+69342015|santa monica, california|16664681|Los Angeles, CA|1|2
+69342015|santa monica, california|15210210|California|1|2
+69342015|santa monica, california|0|Error|1|2
+69342015|santa monica, california|36113339|California|1|2
+69342015|santa monica, california|21439907|Los Angeles & Las Vegas|1|2
+69342015|santa monica, california|43405631|Santa Monica, California|1|2
+69342015|santa monica, california|20481218|Miami Beach |1|2
+69342015|santa monica, california|15934314|Venice, CA|1|2
+69342015|santa monica, california|0|Error|1|2
+69342015|santa monica, california|0|Error|1|2
+69342015|santa monica, california|0|Error|1|2
+69342015|santa monica, california|2367930366|Error|1|2
+2860101|santa monica, ca|51063|75081|2|2
+2860101|santa monica, ca|39521790|Los Angeles, CA|2|2
+2860101|santa monica, ca|12716|New York, NY|2|2
+2860101|santa monica, ca|0|Error|2|2
+2860101|santa monica, ca|14515734|Los Angeles, CA|2|2
+2860101|santa monica, ca|56653|Everywhere|2|2
+2860101|santa monica, ca|844631|Silicon Valley, Ca.|2|2
+2860101|santa monica, ca|9215532|New York, NY|2|2
+2860101|santa monica, ca|3840|94123|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|10454672|Las Vegas|1|2
+2860101|santa monica, ca|17491383|Los Angeles, CA|1|2
+2860101|santa monica, ca|14070332|Los Angeles, CA|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|3032|New York, NY|1|2
+2860101|santa monica, ca|37570179|Palo Alto, CA|1|2
+2860101|santa monica, ca|15295503|Los Angeles, CA|1|2
+2860101|santa monica, ca|16511917|NYC, NY|1|2
+2860101|santa monica, ca|14078815|Santa Monica, California|1|2
+2860101|santa monica, ca|15382730|Los Angeles|1|2
+2860101|santa monica, ca|14595574|Central New York and...|1|2
+2860101|santa monica, ca|755452|Chicago & the World |1|2
+2860101|santa monica, ca|16447420|Pasadena, CA|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|14585289|Manhattan, NY|1|2
+896801|santa monica, ca|14401371|Baltimore-Washington Metroplex|12|2
+896801|santa monica, ca|18373480|Japan|7|2
+896801|santa monica, ca|0|Error|4|2
+896801|santa monica, ca|18100432|DC Area|3|2
+896801|santa monica, ca|1918801|ATL | NY|2|2
+896801|santa monica, ca|27765860|Arkham City|2|2
+896801|santa monica, ca|896801|West Los Angeles|2|2
+896801|santa monica, ca|2601751232|Error|2|2
+896801|santa monica, ca|14120151|Cities worldwide|2|2
+896801|santa monica, ca|15344996|NYC|2|2
+896801|santa monica, ca|0|Error|2|2
+896801|santa monica, ca|0|Error|1|2
+896801|santa monica, ca|0|Error|1|2
+896801|santa monica, ca|16417977|Bloomfield, CT|1|2
+896801|santa monica, ca|210941463|Error|1|2
+896801|santa monica, ca|14803701|Everywhere|1|2
+896801|santa monica, ca|11883132|San Francisco|1|2
+896801|santa monica, ca|0|Error|1|2
+896801|santa monica, ca|0|Error|1|2
+896801|santa monica, ca|30973|Seattle, WA|1|2
+896801|santa monica, ca|159010214|Stockholm, Sweden|1|2
+896801|santa monica, ca|900191|Honolulu Hawaii|1|2
+896801|santa monica, ca|135962114|Error|1|2
+896801|santa monica, ca|26672897|Error|1|2
+4439191|santa monica, ca|14324117|New Orleans, LA|6|2
+4439191|santa monica, ca|15400055|Los Angeles, CA 90028|5|2
+4439191|santa monica, ca|2521171|los angeles, ca|3|2
+4439191|santa monica, ca|15139547|California|2|2
+4439191|santa monica, ca|16722928|Error|2|2
+4439191|santa monica, ca|2879861|Santa Monica, CA|2|2
+4439191|santa monica, ca|14120151|Cities worldwide|2|2
+4439191|santa monica, ca|6516132|LA, CA|2|2
+4439191|santa monica, ca|754697|oregon trail|2|2
+4439191|santa monica, ca|11318892|Los Angeles|1|2
+4439191|santa monica, ca|0|Error|1|2
+4439191|santa monica, ca|785449|Houston, TX|1|2
+4439191|santa monica, ca|0|Error|1|2
+4439191|santa monica, ca|19038468|Santa Monica, CA|1|2
+4439191|santa monica, ca|0|Error|1|2
+4439191|santa monica, ca|17643774|Los Angeles, December 13, 2014|1|2
+4439191|santa monica, ca|915141|Oakland, CA|1|2
+4439191|santa monica, ca|82969116|Los Angeles|1|2
+4439191|santa monica, ca|620668243|Ann Arbor, MI|1|2
+4439191|santa monica, ca|15983147|LA|1|2
+4439191|santa monica, ca|0|Error|1|2
+4439191|santa monica, ca|470846280|Error|1|2
+4439191|santa monica, ca|42914083|Provadenabank Island, USA|1|2
+4439191|santa monica, ca|14445432|Error|1|2
+4439191|santa monica, ca|25166595|Chicago, IL|1|2
+4439191|santa monica, ca|2331641|San Franicsco, CA|1|2
+4439191|santa monica, ca|0|Error|1|2
+4439191|santa monica, ca|807506|phil.ly|1|2
+4439191|santa monica, ca|0|Error|1|2
+4439191|santa monica, ca|2269701|92127|1|2
+4439191|santa monica, ca|1465481|The 1980s|1|2
+4439191|santa monica, ca|40283581|We Are Everywhere|1|2
+4439191|santa monica, ca|41645236|Highland Park, CA|1|2
+4439191|santa monica, ca|14739775|Redmond, WA|1|2
+4439191|santa monica, ca|0|Error|1|2
+4439191|santa monica, ca|18367343|mostly chicago these days|1|2
+4439191|santa monica, ca|1147751|Berlin, Germany|1|2
+4439191|santa monica, ca|13862172|The Village; Be Seeing You!|1|2
+4439191|santa monica, ca|14960488|Error|1|2
+4439191|santa monica, ca|804640|los angeles|1|2
+4439191|santa monica, ca|9959892|Virgin America, Seat 12F|1|2
+4439191|santa monica, ca|2751008468|Error|1|2
+4439191|santa monica, ca|804863|Dallas, TX|1|2
+4439191|santa monica, ca|12856732|Los Angeles|1|2
+4439191|santa monica, ca|0|Error|1|2
+18325505|santa monica, ca|2412371|Santa Monica, CA|1|2
+35899246|santa monica, ca|14850509|Manhattan Beach, CA|8|2
+35899246|santa monica, ca|14219877|Torrance, CA|5|2
+35899246|santa monica, ca|8126292|los angeles, ca|4|2
+35899246|santa monica, ca|15159590|Long Beach, CA|2|2
+35899246|santa monica, ca|18280854|San Diego CA|1|2
+35899246|santa monica, ca|35899246|Santa Monica, CA|1|2
+35899246|santa monica, ca|16637115|iPhone: 47.631651,-122.143032|1|2
+35899246|santa monica, ca|24233049|Detroit, Michigan USA|1|2
+35899246|santa monica, ca|0|Error|1|2
+35899246|santa monica, ca|0|Error|1|2
+35899246|santa monica, ca|7831482|New York, New York|1|2
+35899246|santa monica, ca|25042459|San Francsico|1|2
+35899246|santa monica, ca|0|Error|1|2
+35899246|santa monica, ca|31535477|Error|1|2
+35899246|santa monica, ca|198958679|Error|1|2
+28429722|santa monica, ca|22109593|Los Angeles, CA|5|2
+28429722|santa monica, ca|1422235286|Error|4|2
+28429722|santa monica, ca|342556445|Miami FL|2|2
+28429722|santa monica, ca|0|Error|1|2
+28429722|santa monica, ca|17542511|Nashville, TN|1|2
+28429722|santa monica, ca|264036590|Error|1|2
+28429722|santa monica, ca|0|Error|1|2
+28429722|santa monica, ca|0|Error|1|2
+28429722|santa monica, ca|520346385|Napoli|1|2
+28429722|santa monica, ca|26827947|Hollywood, CA & Hollywood, FL|1|2
+28429722|santa monica, ca|24949048|LALONDONNY|1|2
+28429722|santa monica, ca|15344659|costa mesa, ca|1|2
+28429722|santa monica, ca|0|Error|1|2
+17028101|santa monica, ca|785133|Manalapan, NJ|4|2
+17028101|santa monica, ca|14682771|Orange County, CA|3|2
+17028101|santa monica, ca|6213532|Virginia Beach|2|2
+17028101|santa monica, ca|124151839|Error|2|2
+17028101|santa monica, ca|16818600|Error|1|2
+17028101|santa monica, ca|73135331|Error|1|2
+17028101|santa monica, ca|14520241|Wheatfield, IN |1|2
+17028101|santa monica, ca|14789916|Venice, CA|1|2
+17028101|santa monica, ca|16490840|Error|1|2
+17028101|santa monica, ca|0|Error|1|2
+17028101|santa monica, ca|16002952|New York, NY|1|2
+17028101|santa monica, ca|15121528|Delaware|1|2
+17028101|santa monica, ca|0|Error|1|2
+17028101|santa monica, ca|16243334|Del Mar, CA|1|2
+17028101|santa monica, ca|0|Error|1|2
+17028101|santa monica, ca|15744118|Santa Monica, CA|1|2
+17028101|santa monica, ca|0|Error|1|2
+14144985|santa monica, ca|21912262|Massachusetts|2|2
+14144985|santa monica, ca|0|Error|1|2
+14144985|santa monica, ca|0|Error|1|2
+14144985|santa monica, ca|18540236|Seattle, Washington|1|2
+14144985|santa monica, ca|0|Error|1|2
+14144985|santa monica, ca|0|Error|1|2
+14144985|santa monica, ca|14109189|Glasgow, Scotland|1|2
+14144985|santa monica, ca|16022956|Los Angeles, CA|1|2
+14144985|santa monica, ca|0|Error|1|2
+14144985|santa monica, ca|508431752|New York New York|1|2
+24106519|santa monica, ca|17164665|Cyber Dust: Eachus|6|2
+24106519|santa monica, ca|16291464|Error|5|2
+24106519|santa monica, ca|23902886|#love #consciousness #meditate|1|2
+24106519|santa monica, ca|24488927|USA|1|2
+24106519|santa monica, ca|40348263|So Cal|1|2
+24106519|santa monica, ca|2531524322|Error|1|2
+24106519|santa monica, ca|0|Error|1|2
+24106519|santa monica, ca|0|Error|1|2
+24106519|santa monica, ca|22172287|Error|1|2
+52942679|santa monica, ca|31687553|Reading, UK|8|2
+52942679|santa monica, ca|41795513|Error|7|2
+52942679|santa monica, ca|350|iPhone: 37.762386,-122.424505|4|2
+52942679|santa monica, ca|14235784|Toronto|2|2
+52942679|santa monica, ca|23265307|San Francisco, CA|2|2
+52942679|santa monica, ca|37253546|Error|2|2
+52942679|santa monica, ca|34113439|Error|2|2
+52942679|santa monica, ca|0|Error|2|2
+52942679|santa monica, ca|10101462|Miami, FL|2|2
+52942679|santa monica, ca|46969537|Bay Area, California|2|2
+52942679|santa monica, ca|20001458|Orange County, California|2|2
+52942679|santa monica, ca|17220934|Nashville, TN|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|43537363|Planet Vynen|1|2
+52942679|santa monica, ca|15145142|Error|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|44884383|Copenhagen|1|2
+52942679|santa monica, ca|21435146|New York, NY|1|2
+52942679|santa monica, ca|27604677|Agadir - Morocco|1|2
+52942679|santa monica, ca|17712305|Error|1|2
+52942679|santa monica, ca|15285103|London | San Francisco|1|2
+52942679|santa monica, ca|58011766|World Wide|1|2
+52942679|santa monica, ca|3459051|Global|1|2
+52942679|santa monica, ca|17881345|Washington, DC|1|2
+52942679|santa monica, ca|770006|Lebanon|1|2
+52942679|santa monica, ca|84822792|Tokyo and the world|1|2
+52942679|santa monica, ca|2610293653|Georgian Bluffs, Ontario |1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|21323282|Worldwide|1|2
+52942679|santa monica, ca|11883132|San Francisco|1|2
+52942679|santa monica, ca|3107388958|Error|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|26221710|Error|1|2
+52942679|santa monica, ca|18646907|Canada|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|57057994|New York, USA|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|61651876|Michigan|1|2
+52942679|santa monica, ca|663963|Planet Earth |1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|13774302|Error|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|67394590|Dallas, TX|1|2
+52942679|santa monica, ca|52657754|Kissimmee, Florida|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|356524730|Vancouver Island|1|2
+52942679|santa monica, ca|0|Error|1|2
+52942679|santa monica, ca|0|Error|1|2
+19257466|santa monica, ca|37662329|Rome |4|2
+19257466|santa monica, ca|66138797|Naples, Florida|2|2
+19257466|santa monica, ca|87859186|Bay Area, CA|2|2
+19257466|santa monica, ca|0|Error|1|2
+19257466|santa monica, ca|14422532|Los Angeles|1|2
+19257466|santa monica, ca|14452745|Los Angeles|1|2
+19257466|santa monica, ca|86147824|Error|1|2
+19257466|santa monica, ca|14550264|Los Angeles|1|2
+19257466|santa monica, ca|70785183|Online|1|2
+19257466|santa monica, ca|28433257|Montalcino, Tuscany|1|2
+19257466|santa monica, ca|28160165|Kentucky|1|2
+19257466|santa monica, ca|26150572|Error|1|2
+19257466|santa monica, ca|50311673|Termoli, Italy|1|2
+19257466|santa monica, ca|73443094|Los Angeles, CA|1|2
+19257466|santa monica, ca|7873952|Illinois|1|2
+19257466|santa monica, ca|21522338|Error|1|2
+19257466|santa monica, ca|0|Error|1|2
+19257466|santa monica, ca|0|Error|1|2
+19257466|santa monica, ca|19851187|Los Angeles, CA|1|2
+19257466|santa monica, ca|16834417|Whidbey Island, WA|1|2
+19257466|santa monica, ca|0|Error|1|2
+39968005|santa monica, ca|2165926514|Error|3|2
+39968005|santa monica, ca|90100355|Brooklyn|2|2
+39968005|santa monica, ca|47521345|Texas|1|2
+39968005|santa monica, ca|0|Error|1|2
+39968005|santa monica, ca|53106230|Searching for America|1|2
+39968005|santa monica, ca|0|Error|1|2
+39968005|santa monica, ca|83455527|Error|1|2
+39968005|santa monica, ca|19950011|at home|1|2
+39968005|santa monica, ca|435213502|Error|1|2
+39968005|santa monica, ca|81986796|Error|1|2
+39968005|santa monica, ca|86023921|OK|1|2
+39968005|santa monica, ca|75141534|Wichita, Kansas|1|2
+39968005|santa monica, ca|27157127|Houston, Texas|1|2
+39968005|santa monica, ca|2334468710|singapore|1|2
+39968005|santa monica, ca|3068766833|Error|1|2
+39968005|santa monica, ca|0|Error|1|2
+39968005|santa monica, ca|0|Error|1|2
+60680530|santa monica, ca|49412341|Seattle|4|2
+60680530|santa monica, ca|21633|Los Angeles, CA|4|2
+60680530|santa monica, ca|75067031|North America|3|2
+60680530|santa monica, ca|60146478|Santa Monica|3|2
+60680530|santa monica, ca|2308706648|Los Angeles, CA|3|2
+60680530|santa monica, ca|71370514|Los Angeles, CA|3|2
+60680530|santa monica, ca|264036590|Error|2|2
+60680530|santa monica, ca|75621533|Canada|2|2
+60680530|santa monica, ca|12687952|Buffalo, NY|2|2
+60680530|santa monica, ca|71413402|We'll tweet it daily!|2|2
+60680530|santa monica, ca|0|Error|1|2
+60680530|santa monica, ca|8453452|Silicon Valley, California|1|2
+60680530|santa monica, ca|0|Error|1|2
+60680530|santa monica, ca|54682125|BillCosby.com/Concerts|1|2
+60680530|santa monica, ca|972651|Error|1|2
+60680530|santa monica, ca|365021057|LA!!!|1|2
+60680530|santa monica, ca|0|Error|1|2
+60680530|santa monica, ca|0|Error|1|2
+60680530|santa monica, ca|21629243|Venice, California|1|2
+60680530|santa monica, ca|0|Error|1|2
+60680530|santa monica, ca|0|Error|1|2
+60680530|santa monica, ca|65427146|Chicagoland / Milwaukee|1|2
+60680530|santa monica, ca|0|Error|1|2
+60680530|santa monica, ca|0|Error|1|2
+60680530|santa monica, ca|64537735|The Bar|1|2
+60680530|santa monica, ca|0|Error|1|2
+60680530|santa monica, ca|32152579|Calabasas Hills, CA|1|2
+60680530|santa monica, ca|420109472|Error|1|2
+60680530|santa monica, ca|16374678|Error|1|2
+60680530|santa monica, ca|19394188|Phoenix, AZ / Washington, DC|1|2
+60680530|santa monica, ca|167536414|Error|1|2
+60680530|santa monica, ca|69342015|Santa Monica, California|1|2
+60680530|santa monica, ca|80407221|Santa Monica|1|2
+60680530|santa monica, ca|18471427|Error|1|2
+60680530|santa monica, ca|10156532|Burbank, Calif.|1|2
+60680530|santa monica, ca|23832022|Worldwide |1|2
+60680530|santa monica, ca|30108503|London|1|2
+14936567|santa monica, ca|2594137063|Error|3|2
+14936567|santa monica, ca|0|Error|2|2
+14936567|santa monica, ca|173361819|Southern California|2|2
+14936567|santa monica, ca|14888584|San Francisco|2|2
+14936567|santa monica, ca|21915666|New York|1|2
+14936567|santa monica, ca|7591562|Los Angeles, CA|1|2
+14936567|santa monica, ca|12555382|Seattle|1|2
+14936567|santa monica, ca|15986025|Laguna Niguel, CA|1|2
+14936567|santa monica, ca|15727983|Columbus, Ohio|1|2
+14936567|santa monica, ca|14209569|San Francisco|1|2
+14936567|santa monica, ca|16900930|dallas, tx|1|2
+14936567|santa monica, ca|1718394630|Error|1|2
+14936567|santa monica, ca|14507873|San Jose, CA|1|2
+14936567|santa monica, ca|520051196|Error|1|2
+14936567|santa monica, ca|16463931|Bay Area, CA|1|2
+16247502|santa monica, ca|0|Error|1|2
+16247502|santa monica, ca|37067797|Hermosa Beach, CA|1|2
+16247502|santa monica, ca|18197944|Error|1|2
+16247502|santa monica, ca|14346078|Carlsbad, Ca|1|2
+16247502|santa monica, ca|22495082|Los Angeles|1|2
+16247502|santa monica, ca|23534152|Error|1|2
+16247502|santa monica, ca|0|Error|1|2
+16247502|santa monica, ca|18071344|Redondo, Vegas, Mexico, Hawaii|1|2
+16247502|santa monica, ca|41859939|Los Angeles|1|2
+14807469|santa monica, ca|0|Error|2|2
+14807469|santa monica, ca|23035566|Utah, USA|2|2
+14807469|santa monica, ca|0|Error|1|2
+14807469|santa monica, ca|42740200|Los Angeles, CA|1|2
+14807469|santa monica, ca|0|Error|1|2
+14807469|santa monica, ca|0|Error|1|2
+14807469|santa monica, ca|60099540|Pennsylvania|1|2
+14807469|santa monica, ca|393940310|See @StefanieFlaxman|1|2
+14807469|santa monica, ca|14913764|Los Angeles|1|2
+56881888|santa monica, california|16492009|NY +wherever coolness is found|3|2
+56881888|santa monica, california|15347868|San Diego, California|2|2
+56881888|santa monica, california|0|Error|2|2
+56881888|santa monica, california|74073617|San Francisco|2|2
+56881888|santa monica, california|0|Error|1|2
+56881888|santa monica, california|0|Error|1|2
+56881888|santa monica, california|0|Error|1|2
+56881888|santa monica, california|0|Error|1|2
+56881888|santa monica, california|58929737|San Francisco, CA|1|2
+56881888|santa monica, california|8569872|Massachusetts|1|2
+56881888|santa monica, california|15045728|Melbourne, Victoria, Australia|1|2
+56881888|santa monica, california|11491312|Seattle, WA|1|2
+56881888|santa monica, california|86761956|Seattle Wa|1|2
+56881888|santa monica, california|23101513|Fox Valley, west Chicago burb|1|2
+56881888|santa monica, california|14217286|San Francisco|1|2
+56881888|santa monica, california|0|Error|1|2
+56881888|santa monica, california|34600383|Kansas City area|1|2
+56881888|santa monica, california|16326887|Columbus, Ohio/ Worthington|1|2
+56881888|santa monica, california|83844550|MA|1|2
+56881888|santa monica, california|233312731|Wales (but I want to travel!)|1|2
+56881888|santa monica, california|15594182|Most recently: Santa Fe|1|2
+56881888|santa monica, california|0|Error|1|2
+56881888|santa monica, california|17739420|toronto ... ish|1|2
+56881888|santa monica, california|167452943|Error|1|2
+56881888|santa monica, california|15639642|Global|1|2
+56881888|santa monica, california|54750856|Error|1|2
+56881888|santa monica, california|14229280|san diego, ca|1|2
+56881888|santa monica, california|0|Error|1|2
+56881888|santa monica, california|16255036|Richmond VA|1|2
+56881888|santa monica, california|20004230|Palm Beach, Florida|1|2
+56881888|santa monica, california|18755762|Philadelphia|1|2
+56881888|santa monica, california|0|Error|1|2
+19789471|santa monica, ca|19789471|Worldwide|27|2
+19789471|santa monica, ca|15741820|Error|5|2
+19789471|santa monica, ca|40530645|East Rutherford, NJ|5|2
+19789471|santa monica, ca|0|Error|4|2
+19789471|santa monica, ca|0|Error|4|2
+19789471|santa monica, ca|17089367|Mother Earth|3|2
+19789471|santa monica, ca|11489|San Francisco, CA |2|2
+19789471|santa monica, ca|31015414|Brooklyn, NY, USA|2|2
+19789471|santa monica, ca|33235910|Toronto|2|2
+19789471|santa monica, ca|7563862|Denver, CO|2|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|23475147|your heart|1|2
+19789471|santa monica, ca|9395832|Error|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|14487628|Tokyo|1|2
+19789471|santa monica, ca|56050438|SgV|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|45880457|Vermont|1|2
+19789471|santa monica, ca|68979309|Error|1|2
+19789471|santa monica, ca|29381527|Brooklyn|1|2
+19789471|santa monica, ca|18210908|Koreatown, Los Angeles |1|2
+19789471|santa monica, ca|20565696|Long Beach, CA|1|2
+19789471|santa monica, ca|151964306|southampton|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|740983|San Francisco|1|2
+19789471|santa monica, ca|33347901|New York|1|2
+19789471|santa monica, ca|20434851|Error|1|2
+19789471|santa monica, ca|43799879|Hamilton, Ontario|1|2
+19789471|santa monica, ca|63180799|Brooklyn, NY|1|2
+19789471|santa monica, ca|22609846|Error|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|17401682|Santa Monica, CA|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|16334824|Los Angeles|1|2
+19789471|santa monica, ca|16050554|Houston, Texas|1|2
+19789471|santa monica, ca|166690050|Worldwide|1|2
+19789471|santa monica, ca|816653|San Francisco, CA|1|2
+19789471|santa monica, ca|36168296|Miami, FL|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|60942888|Washington DC|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|27337435|Error|1|2
+19789471|santa monica, ca|336709818|uk for now|1|2
+19789471|santa monica, ca|24966423|Error|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|5490392|San Francisco, CA|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|17031030|Los Angeles|1|2
+19789471|santa monica, ca|19778386|Providence, RI|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|20190447|Universe|1|2
+19789471|santa monica, ca|2476991036|Error|1|2
+19789471|santa monica, ca|84902276|Rockaway Beach, NY|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|17910488|los Angeles to Glasgow|1|2
+19789471|santa monica, ca|2828833258|Greenbelt, MD|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|3227344948|Error|1|2
+19789471|santa monica, ca|36207301|Pico Rivera|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|21537313|Calabasas|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|0|Error|1|2
+19789471|santa monica, ca|12639962|Hamburg|1|2
+17907579|santa monica, ca|35672351|Hollywood, CA|1|2
+17907579|santa monica, ca|19058681|Los Angeles, California|1|2
+17907579|santa monica, ca|17907579|Santa Monica, CA|1|2
+17907579|santa monica, ca|0|Error|1|2
+17907579|santa monica, ca|19538986|New York City|1|2
+17907579|santa monica, ca|655663|Error|1|2
+17907579|santa monica, ca|18819527|Error|1|2
+8257362|santa monica, ca|83147002|New York City|10|2
+8257362|santa monica, ca|20475017|Los Angeles, CA|4|2
+8257362|santa monica, ca|3032|New York, NY|4|2
+8257362|santa monica, ca|11489|San Francisco, CA |3|2
+8257362|santa monica, ca|11009852|San Francisco/Silicon Valley|3|2
+8257362|santa monica, ca|1077467413|Los Angeles, CA|3|2
+8257362|santa monica, ca|35996843|Vancouver, BC|2|2
+8257362|santa monica, ca|0|Error|2|2
+8257362|santa monica, ca|79543|Silicon Valley, CA|2|2
+8257362|santa monica, ca|14443856|EDINBURGH | NYC | BERGEN|2|2
+8257362|santa monica, ca|21506437|anywhere with cell service|2|2
+8257362|santa monica, ca|15693493|Hollywood, Ca|2|2
+8257362|santa monica, ca|14515799|New York City|2|2
+8257362|santa monica, ca|14104847|Philadelphia, PA|2|2
+8257362|santa monica, ca|13348|Half Moon Bay, California, USA|2|2
+8257362|santa monica, ca|9215532|New York, NY|2|2
+8257362|santa monica, ca|746323|New York|2|2
+8257362|santa monica, ca|21953357|usa|2|2
+8257362|santa monica, ca|10318542|San Francisco|1|2
+8257362|santa monica, ca|55672530|Petaluma|1|2
+8257362|santa monica, ca|0|Error|1|2
+8257362|santa monica, ca|25615906|Los Angeles|1|2
+8257362|santa monica, ca|0|Error|1|2
+8257362|santa monica, ca|14110654|Los Angeles, CA|1|2
+8257362|santa monica, ca|23848603|Los Angeles, CA|1|2
+8257362|santa monica, ca|14436732|Dela-WHERE?|1|2
+8257362|santa monica, ca|9637422|Washington, DC|1|2
+8257362|santa monica, ca|0|Error|1|2
+8257362|santa monica, ca|17279778|New York City|1|2
+8257362|santa monica, ca|37982492|LA|1|2
+8257362|santa monica, ca|13743532|Los Angeles, CA|1|2
+8257362|santa monica, ca|23544596|Los Angeles |1|2
+8257362|santa monica, ca|836241|Seattle Washington|1|2
+8257362|santa monica, ca|14286954|Miami, FL|1|2
+8257362|santa monica, ca|14800270|Boston, MA|1|2
+8257362|santa monica, ca|9075622|San Francisco, CA, USA|1|2
+8257362|santa monica, ca|12694322|Los Angeles, CA|1|2
+8257362|santa monica, ca|16959797|Chicago|1|2
+8257362|santa monica, ca|18708466|Los Angeles, CA, USA|1|2
+8257362|santa monica, ca|16409683|Los Angeles, CA|1|2
+8257362|santa monica, ca|17919972|Error|1|2
+8257362|santa monica, ca|0|Error|1|2
+8257362|santa monica, ca|0|Error|1|2
+8257362|santa monica, ca|88737805|Error|1|2
+8257362|santa monica, ca|20717489|Boca Raton Florida|1|2
+8257362|santa monica, ca|816653|San Francisco, CA|1|2
+8257362|santa monica, ca|31240434|Las Vegas|1|2
+8257362|santa monica, ca|3067702266|Error|1|2
+8257362|santa monica, ca|43979631|NYC|1|2
+8257362|santa monica, ca|6480652|Los Angeles, CA|1|2
+8257362|santa monica, ca|72403|Palo Alto, CA|1|2
+8257362|santa monica, ca|107411670|CT, USA|1|2
+8257362|santa monica, ca|28020022|Linton, Indiana|1|2
+8257362|santa monica, ca|10221|san francisco|1|2
+8257362|santa monica, ca|783705|San Carlos, CA|1|2
+8257362|santa monica, ca|0|Error|1|2
+8257362|santa monica, ca|18742360|Los Angeles, CA|1|2
+8257362|santa monica, ca|16334824|Los Angeles|1|2
+8257362|santa monica, ca|74455300|Los Angeles, CA|1|2
+8257362|santa monica, ca|0|Error|1|2
+8257362|santa monica, ca|5336612|Toronto, Canada|1|2
+8257362|santa monica, ca|252818570|Error|1|2
+8257362|santa monica, ca|17526930|Los Angeles|1|2
+8257362|santa monica, ca|888|Error|1|2
+8257362|santa monica, ca|821978|FL|1|2
+8257362|santa monica, ca|1393225117|Error|1|2
+8257362|santa monica, ca|15813899|Los Angeles, CA|1|2
+8257362|santa monica, ca|633420105|Error|1|2
+8257362|santa monica, ca|18704291|Edgewater Park, NJ|1|2
+8257362|santa monica, ca|18460854|Kansas City, MO|1|2
+14715778|santa monica, ca|343768947|Error|2|2
+14715778|santa monica, ca|29288891|Sao Paulo, Brazil|1|2
+14715778|santa monica, ca|0|Error|1|2
+14715778|santa monica, ca|0|Error|1|2
+14715778|santa monica, ca|783214|San Francisco, CA|1|2
+14715778|santa monica, ca|0|Error|1|2
+14715778|santa monica, ca|14652822|Austin, TX|1|2
+14715778|santa monica, ca|64455099|Southern Outer Banks, NC|1|2
+28395072|santa monica, ca|24943899|NOLA to NYC|3|2
+28395072|santa monica, ca|18521391|Boston, MA|3|2
+28395072|santa monica, ca|14604911|GLOBAL (HQ = San Jose, CA)|2|2
+28395072|santa monica, ca|0|Error|2|2
+28395072|santa monica, ca|12753422|Washington, DC|1|2
+28395072|santa monica, ca|0|Error|1|2
+28395072|santa monica, ca|0|Error|1|2
+28395072|santa monica, ca|0|Error|1|2
+28395072|santa monica, ca|96259882|Error|1|2
+28395072|santa monica, ca|39919950|Toronto, ON, Canada|1|2
+28395072|santa monica, ca|4266261|Connecticut|1|2
+14171985|santa monica, ca|10422|Minnesota|1|2
+14171985|santa monica, ca|14182254|Madison, WI, USA|1|2
+14171985|santa monica, ca|18381457|Minnesota & Iowa|1|2
+14171985|santa monica, ca|14513611|U.S.A.  |1|2
+7362212|santa monica, ca|586498910|Error|2|2
+7362212|santa monica, ca|0|Error|2|2
+25351644|santa monica, ca|0|Error|1|2
+6479502|santa monica, california|339975611|Error|2|2
+6479502|santa monica, california|14120151|Cities worldwide|2|2
+6479502|santa monica, california|14240400|Los Angeles|2|2
+6479502|santa monica, california|7212562|Dallas, Texas|2|2
+6479502|santa monica, california|3283901|San Francisco, CA|1|2
+6479502|santa monica, california|11068182|Los Angeles, CA|1|2
+6479502|santa monica, california|0|Error|1|2
+6479502|santa monica, california|0|Error|1|2
+6479502|santa monica, california|816653|San Francisco, CA|1|2
+34798476|santa monica, ca|18122488|Los Angeles|11|2
+34798476|santa monica, ca|5740662|Los Angeles|1|2
+34798476|santa monica, ca|0|Error|1|2
+34798476|santa monica, ca|29851021|Scottsdale, Arizona, USA|1|2
+34798476|santa monica, ca|11109062|Los Angeles, CA|1|2
+34798476|santa monica, ca|25168231|Boston, Mass.|1|2
+34798476|santa monica, ca|34798476|Santa Monica, CA|1|2
+34798476|santa monica, ca|4230561|Los Angeles, CA|1|2
+34798476|santa monica, ca|14117904|Los Angeles, CA|1|2
+34798476|santa monica, ca|0|Error|1|2
+34798476|santa monica, ca|0|Error|1|2
+34798476|santa monica, ca|14365368|Los Angeles|1|2
+34798476|santa monica, ca|18625427|Los Angeles, CA|1|2
+9636632|santa monica, ca|17035516|Oahu, Hawaii|2|2
+9636632|santa monica, ca|9636632|Los Angeles, CA|2|2
+9636632|santa monica, ca|75708070|California Love|1|2
+9636632|santa monica, ca|32711580|7th Dimension|1|2
+9636632|santa monica, ca|14085740|San Francisco, CA|1|2
+9636632|santa monica, ca|0|Error|1|2
+9636632|santa monica, ca|49063697|Kirkland, Washington|1|2
+9636632|santa monica, ca|24506317|Los Angeles|1|2
+9636632|santa monica, ca|0|Error|1|2
+9636632|santa monica, ca|26087446|Laguna Beach, CA|1|2
+9636632|santa monica, ca|1177521|Los Angeles|1|2
+9636632|santa monica, ca|3105804235|Worldwide Wang|1|2
+9636632|santa monica, ca|21982720|Error|1|2
+9636632|santa monica, ca|14994079|Los Angeles, CA|1|2
+9636632|santa monica, ca|17467413|New York City|1|2
+9636632|santa monica, ca|0|Error|1|2
+25374634|santa monica, ca|122720993|Error|7|2
+25374634|santa monica, ca|0|Error|3|2
+25374634|santa monica, ca|35221381|Va|1|2
+25374634|santa monica, ca|46318024|On the journey...|1|2
+25374634|santa monica, ca|22876077|NYC/NJ BY WAY OF CHICAGO|1|2
+14892610|santa monica, ca|202003|nyc|2|2
+14892610|santa monica, ca|0|Error|1|2
+14892610|santa monica, ca|15399944|Error|1|2
+14892610|santa monica, ca|14073993|Earth, usually|1|2
+17011341|santa monica, ca|425416254|Error|3|2
+17011341|santa monica, ca|14637560|Cambridge, MA|3|2
+17011341|santa monica, ca|201380124|Error|1|2
+17011341|santa monica, ca|17323671|Pasadena, CA|1|2
+17011341|santa monica, ca|54343984|@MichaelNozbe|1|2
+17011341|santa monica, ca|16323436|los angeles, california|1|2
+17011341|santa monica, ca|39618700|Oregon|1|2
+17011341|santa monica, ca|16234345|Washington DC, USA|1|2
+17011341|santa monica, ca|63365688|Error|1|2
+17011341|santa monica, ca|1001131128|Error|1|2
+17011341|santa monica, ca|36528126|Hollywood|1|2
+23337017|santa monica, ca|29806383|LA again via LV via LA via DET via NYC|6|2
+23337017|santa monica, ca|20466215|New York City|2|2
+23337017|santa monica, ca|28538044|Las Vegas|1|2
+23337017|santa monica, ca|3840|94123|1|2
+23337017|santa monica, ca|0|Error|1|2
+23337017|santa monica, ca|14667411|Los Angeles|1|2
+23337017|santa monica, ca|19058681|Los Angeles, California|1|2
+23337017|santa monica, ca|45371222|Los Angeles|1|2
+23337017|santa monica, ca|0|Error|1|2
+23337017|santa monica, ca|746323|New York|1|2
+23337017|santa monica, ca|20408731|Los Angeles|1|2
+23337017|santa monica, ca|34989290|Error|1|2
+23337017|santa monica, ca|32159990|LV, SJ, LA and Worldwide|1|2
+24413755|santa monica, ca|0|Error|2|2
+24413755|santa monica, ca|0|Error|2|2
+24413755|santa monica, ca|0|Error|1|2
+24413755|santa monica, ca|36669114|Fayetteville, Arkansas|1|2
+24413755|santa monica, ca|36089053|Minneapolis|1|2
+17106767|santa monica, ca|0|Error|2|2
+17106767|santa monica, ca|17641339|Yes.|1|2
+17106767|santa monica, ca|146492021|Brasil|1|2
+17106767|santa monica, ca|4066013954|Error|1|2
+17106767|santa monica, ca|23566175|UNDERGROUND, CA|1|2
+29792846|santa monica, california|17295283|Error|4|2
+29792846|santa monica, california|2439480242|Error|3|2
+29792846|santa monica, california|0|Error|3|2
+29792846|santa monica, california|14383423|Hither, Thither and Yon.|1|2
+29792846|santa monica, california|0|Error|1|2
+29792846|santa monica, california|0|Error|1|2
+29792846|santa monica, california|0|Error|1|2
+29792846|santa monica, california|0|Error|1|2
+29792846|santa monica, california|66184845|Charlotte is HOME now ATL|1|2
+29792846|santa monica, california|0|Error|1|2
+887861|santa monica, ca|15817509|Los Angeles|2|2
+887861|santa monica, ca|25413|Laurel Canyon|2|2
+887861|santa monica, ca|41073372|Los Angeles|2|2
+887861|santa monica, ca|1027291|Error|2|2
+887861|santa monica, ca|5520332|Los Angeles|2|2
+887861|santa monica, ca|22113|Santa Monica, CA|2|2
+887861|santa monica, ca|0|Error|1|2
+887861|santa monica, ca|19494787|New York|1|2
+887861|santa monica, ca|19834845|Minervois, Languedoc, France|1|2
+887861|santa monica, ca|2474407619|Error|1|2
+887861|santa monica, ca|6148472|Error|1|2
+887861|santa monica, ca|0|Error|1|2
+887861|santa monica, ca|6545762|Laurel Canyon|1|2
+887861|santa monica, ca|3074949695|Error|1|2
+887861|santa monica, ca|13|San Francisco, CA|1|2
+887861|santa monica, ca|15398530|Santa Monica|1|2
+887861|santa monica, ca|0|Error|1|2
+887861|santa monica, ca|816653|San Francisco, CA|1|2
+52913164|santa monica, ca|0|Error|10|2
+52913164|santa monica, ca|0|Error|8|2
+52913164|santa monica, ca|0|Error|2|2
+52913164|santa monica, ca|0|Error|1|2
+52913164|santa monica, ca|0|Error|1|2
+52913164|santa monica, ca|1077272360|Error|1|2
+61308972|santa monica, ca|1367519335|WaveLord+Validation|5|2
+61308972|santa monica, ca|29247941|Denver, CO|2|2
+61308972|santa monica, ca|328168445|ATX / Michigan born and raised|2|2
+61308972|santa monica, ca|40029715|Georgia|1|2
+61308972|santa monica, ca|0|Error|1|2
+61308972|santa monica, ca|0|Error|1|2
+8937482|santa monica, ca|13455472|Boulder, CO|2|2
+8937482|santa monica, ca|1395945708|Error|1|2
+8937482|santa monica, ca|0|Error|1|2
+8937482|santa monica, ca|16479281|San Francisco, CA, USA|1|2
+8937482|santa monica, ca|2816463818|Error|1|2
+8937482|santa monica, ca|0|Error|1|2
+8937482|santa monica, ca|0|Error|1|2
+8937482|santa monica, ca|14649701|Phoenix, AZ|1|2
+20475306|santa monica, ca|14925956|San Francisco, CA, U.S.A|4|2
+20475306|santa monica, ca|12416682|Helm's Deep, San Francisco Ed.|1|2
+20475306|santa monica, ca|18755564|Los Angeles|1|2
+66614713|santa monica, ca|20466215|New York City|2|2
+66614713|santa monica, ca|18002296|Error|2|2
+66614713|santa monica, ca|0|Error|1|2
+66614713|santa monica, ca|0|Error|1|2
+66614713|santa monica, ca|0|Error|1|2
+15250896|santa monica, ca|0|Error|2|2
+15250896|santa monica, ca|18857020|Error|2|2
+15250896|santa monica, ca|2255901|Cork, Ireland|2|2
+15250896|santa monica, ca|249153|Barcelona, Spain|2|2
+15250896|santa monica, ca|755874|Barcelona|1|2
+15250896|santa monica, ca|14432132|Melbourne, Australia|1|2
+15250896|santa monica, ca|0|Error|1|2
+15250896|santa monica, ca|37971731|The World Wide Web|1|2
+15250896|santa monica, ca|972651|Error|1|2
+15250896|santa monica, ca|19001646|Belgium|1|2
+15250896|santa monica, ca|15875403|World Wide|1|2
+16391042|santa monica, california|0|Error|2|2
+16391042|santa monica, california|26181412|Error|2|2
+16391042|santa monica, california|16961691|Error|1|2
+16391042|santa monica, california|27778893|Error|1|2
+16391042|santa monica, california|16281175|Seattle, best city in world |1|2
+16391042|santa monica, california|16482286|Error|1|2
+16391042|santa monica, california|0|Error|1|2
+14324893|santa monica, california|821966|Southern Indiana|3|2
+14324893|santa monica, california|17830345|San Francisco, CALIFORNIA|2|2
+14324893|santa monica, california|40124188|Worldwide|1|2
+14324893|santa monica, california|0|Error|1|2
+14324893|santa monica, california|0|Error|1|2
+14324893|santa monica, california|20649863|Oakville, ON|1|2
+14324893|santa monica, california|5253771|Santa Monica, CA|1|2
+14324893|santa monica, california|338601496|Las Vegas, Nevada|1|2
+14324893|santa monica, california|2248933458|India|1|2
+14324893|santa monica, california|43112269|Error|1|2
+14324893|santa monica, california|20374904|Eastsound, WA|1|2
+14324893|santa monica, california|0|Error|1|2
+14324893|santa monica, california|0|Error|1|2
+14324893|santa monica, california|23707542|Los Angeles|1|2
+14324893|santa monica, california|22855262|santa monica|1|2
+14324893|santa monica, california|16562278|On The Road, USA|1|2
+19570462|santa monica, ca|14202817|Bradford, Ohio, USA|1|2
+14101114|santa monica, ca|18729871|Charlotte, NC|1|2
+14101114|santa monica, ca|14221752|California|1|2
+14101114|santa monica, ca|21444552|los angeles,  ca|1|2
+14101114|santa monica, ca|0|Error|1|2
+14101114|santa monica, ca|18262639|Northridge, CA|1|2
+14101114|santa monica, ca|14826211|Norfolk, VA|1|2
+14101114|santa monica, ca|42825374|LA for a while, 305 'til I die|1|2
+14101114|santa monica, ca|0|Error|1|2
+26961052|santa monica, california|15736190|Freiburg, Germany|2|2
+26961052|santa monica, california|24321605|Los Angeles, CA|2|2
+26961052|santa monica, california|0|Error|1|2
+26961052|santa monica, california|0|Error|1|2
+26961052|santa monica, california|0|Error|1|2
+26961052|santa monica, california|0|Error|1|2
+26961052|santa monica, california|0|Error|1|2
+26961052|santa monica, california|26961052|Santa Monica, California|1|2
+43746300|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|8453452|Silicon Valley, California|3|2
+2860101|santa monica, ca|15044760|Los Angeles, CA |2|2
+2860101|santa monica, ca|16135536|Los Angeles|1|2
+2860101|santa monica, ca|275603619|Error|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|51063|75081|1|2
+2860101|santa monica, ca|10268302|Los Angeles|1|2
+2860101|santa monica, ca|3725701|Salt Lake City, Utah|1|2
+2860101|santa monica, ca|13348|Half Moon Bay, California, USA|1|2
+2860101|santa monica, ca|14128602|Southern California|1|2
+2860101|santa monica, ca|14390225|New York, NY|1|2
+2860101|santa monica, ca|14270494|Dallas, TX|1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|39104724|I'm in the Interweb |1|2
+2860101|santa monica, ca|7234682|Los Angeles |1|2
+2860101|santa monica, ca|0|Error|1|2
+2860101|santa monica, ca|30473933|USA|1|2
+780991|santa monica, ca|5254851|Napa, CA|2|2
+780991|santa monica, ca|23976717|san francisco|1|2
+780991|santa monica, ca|17266725|USA|1|2
+780991|santa monica, ca|13348|Half Moon Bay, California, USA|1|2
+780991|santa monica, ca|0|Error|1|2
+780991|santa monica, ca|18695316|Austin, Texas|1|2
+780991|santa monica, ca|0|Error|1|2
+780991|santa monica, ca|13198|sf|1|2
+780991|santa monica, ca|7658952|Seattle|1|2
+780991|santa monica, ca|14752873|Kaneohe, HI|1|2
+780991|santa monica, ca|14130784|Silicon Valley|1|2
+780991|santa monica, ca|1455981|San Francisco|1|2
+780991|santa monica, ca|12279|Seattle, WA|1|2
+780991|santa monica, ca|23445340|Toronto|1|2
+780991|santa monica, ca|0|Error|1|2
+780991|santa monica, ca|14769434|Error|1|2
+780991|santa monica, ca|1421521|Silicon Valley|1|2
+47037874|santa monica, ca|315560383|Error|3|2
+47037874|santa monica, ca|23648826|Southern California|3|2
+47037874|santa monica, ca|47048402|Wheaton, IL|2|2
+47037874|santa monica, ca|15177032|Emerson|1|2
+47037874|santa monica, ca|35635145|Los Angeles, CA|1|2
+47037874|santa monica, ca|19516636|Los Angeles, CA|1|2
+47037874|santa monica, ca|0|Error|1|2
+47037874|santa monica, ca|40553929|Los Angeles, CA|1|2
+47037874|santa monica, ca|31641658|Los Angeles/New York|1|2
+48117858|santa monica, ca|73503737|Error|1|2
+48117858|santa monica, ca|0|Error|1|2
+48117858|santa monica, ca|29511514|Berkeley, CA|1|2
+16671992|santa monica, ca|72112616|New York City|2|2
+16671992|santa monica, ca|286520092|Error|1|2
+16671992|santa monica, ca|15845089|Greenville, SC|1|2
+16671992|santa monica, ca|14856326|Ohio, USA|1|2
+16671992|santa monica, ca|16413248|Raleigh, NC|1|2
+24041141|santa monica, ca|21029619|Outer Space|1|2
+24041141|santa monica, ca|19051166|Los Angeles, CA|1|2
+24041141|santa monica, ca|229628532|Hollywood, CA|1|2
+24041141|santa monica, ca|0|Error|1|2
+24041141|santa monica, ca|36445652|Los Angeles, CA|1|2
+24041141|santa monica, ca|17035772|New York, NY|1|2
+2093271|santa monica, ca|14770263|West Los Angeles, CA|7|2
+2093271|santa monica, ca|0|Error|1|2
+2093271|santa monica, ca|34408792|New Orleans, LA|1|2
+2093271|santa monica, ca|0|Error|1|2
+2093271|santa monica, ca|0|Error|1|2
+25147347|santa monica, ca|280313579|Error|1|2
+25147347|santa monica, ca|74484475|Los Angeles, CA|1|2
+25147347|santa monica, ca|44055930|90403|1|2
+25147347|santa monica, ca|23389442|Washington, DC|1|2
+25147347|santa monica, ca|52817388|Los Angeles|1|2
