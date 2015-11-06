@@ -1,0 +1,286 @@
+38928606|greenville, nc|54219871|Queens, NY|2|2
+38928606|greenville, nc|180107031|Error|2|2
+38928606|greenville, nc|960734364|Error|1|2
+38928606|greenville, nc|64518606|Greenville, NC|1|2
+38928606|greenville, nc|0|Error|1|2
+38928606|greenville, nc|35787166|The Pinkprint in stores NOW|1|2
+38928606|greenville, nc|124007227|Error|1|2
+38928606|greenville, nc|15703005|San Francisco|1|2
+56492108|greenville, nc|0|Error|8|2
+56492108|greenville, nc|10350|San Francisco|2|2
+56492108|greenville, nc|47849517|iPhone: 35.571404,-77.329384|2|2
+56492108|greenville, nc|22219053|Error|2|2
+56492108|greenville, nc|24718931|West Palm Beach, FL|1|2
+56492108|greenville, nc|35753272|Raleigh, NC|1|2
+56492108|greenville, nc|549045769|sochi|1|2
+56492108|greenville, nc|0|Error|1|2
+19399175|greenville, nc|52878729|Greenville, NC|3|2
+19399175|greenville, nc|0|Error|2|2
+19399175|greenville, nc|9863012|eastern nc|1|2
+19399175|greenville, nc|16072678|Portland, Oregon|1|2
+19399175|greenville, nc|0|Error|1|2
+19399175|greenville, nc|19194635|Greenville, NC|1|2
+19399175|greenville, nc|16593509|Greenville, NC|1|2
+42600336|greenville, nc|30983667|Greenville, NC|2|2
+42600336|greenville, nc|44799284|Greenville, NC|2|2
+42600336|greenville, nc|549045769|sochi|2|2
+42600336|greenville, nc|0|Error|1|2
+42600336|greenville, nc|873134654|Error|1|2
+42600336|greenville, nc|14958275|Oakland, CA|1|2
+42600336|greenville, nc|19239168|Ashevilleish, NC|1|2
+42600336|greenville, nc|15454838|East Coast United States|1|2
+42600336|greenville, nc|2250280803|Error|1|2
+42600336|greenville, nc|21537958|AVL NC US|1|2
+42600336|greenville, nc|0|Error|1|2
+42600336|greenville, nc|0|Error|1|2
+53611535|greenville, nc|43016645|Greenville, NC|1|2
+53611535|greenville, nc|19397785|Error|1|2
+53611535|greenville, nc|0|Error|1|2
+3343|greenville, nc|17094279|Beauty Land|3|2
+3343|greenville, nc|200919727|Error|3|2
+3343|greenville, nc|615346055|Error|2|2
+3343|greenville, nc|3343|Error|2|2
+3343|greenville, nc|0|Error|2|2
+3343|greenville, nc|26755118|Delaware|1|2
+3343|greenville, nc|0|Error|1|2
+3343|greenville, nc|9330532|DMV|1|2
+3343|greenville, nc|333539068|Error|1|2
+3343|greenville, nc|17233800|Cincinnati, OH|1|2
+3343|greenville, nc|351707624|Error|1|2
+3343|greenville, nc|54722563|Pleasanton|1|2
+3343|greenville, nc|3038526828|Error|1|2
+3343|greenville, nc|0|Error|1|2
+3343|greenville, nc|26277454|Kansas City, Missouri|1|2
+3343|greenville, nc|20068679|With The People|1|2
+3343|greenville, nc|0|Error|1|2
+19300696|greenville, nc|14681605|Body? L.A. Mind? N.J.|2|2
+19300696|greenville, nc|0|Error|1|2
+19300696|greenville, nc|6013242|Error|1|2
+19300696|greenville, nc|62336651|usa|1|2
+19300696|greenville, nc|0|Error|1|2
+19300696|greenville, nc|9930742|Toronto, Ontario, Canada|1|2
+19300696|greenville, nc|0|Error|1|2
+19300696|greenville, nc|0|Error|1|2
+19300696|greenville, nc|0|Error|1|2
+19300696|greenville, nc|0|Error|1|2
+19300696|greenville, nc|0|Error|1|2
+3284251|greenville, nc|85138657|Greenville, NC|4|2
+3284251|greenville, nc|9889882|Greenville, NC|4|2
+3284251|greenville, nc|7258672|Greenville, NC|3|2
+3284251|greenville, nc|7339812|Greenville, NC|3|2
+3284251|greenville, nc|789791|Raleigh, NC|1|2
+3284251|greenville, nc|0|Error|1|2
+3284251|greenville, nc|26781953|Ayden, NC|1|2
+3284251|greenville, nc|19167558|Sydney, Australia|1|2
+3284251|greenville, nc|14500915|Billings MT, USA|1|2
+3284251|greenville, nc|18924787|greenville, NC|1|2
+3284251|greenville, nc|11403462|S. Burlington, VT|1|2
+3284251|greenville, nc|38173597|Raleigh, NC|1|2
+3284251|greenville, nc|0|Error|1|2
+32513597|greenville, nc|20243909|Raleigh, NC|1|2
+32513597|greenville, nc|0|Error|1|2
+32513597|greenville, nc|43104684|Richmond, VA|1|2
+73270616|greenville, nc|0|Error|34|2
+73270616|greenville, nc|508750160|Error|5|2
+73270616|greenville, nc|16593509|Greenville, NC|2|2
+73270616|greenville, nc|48439642|Greenville, NC|1|2
+73270616|greenville, nc|73332570|Los Angeles, CA|1|2
+73270616|greenville, nc|0|Error|1|2
+73270616|greenville, nc|35863831|Greenville, North Carolina|1|2
+73270616|greenville, nc|0|Error|1|2
+73270616|greenville, nc|18513526|1000 light yrs away from yall|1|2
+73270616|greenville, nc|287204266|Error|1|2
+73270616|greenville, nc|27683639|Wood-Ridge, NJ|1|2
+73270616|greenville, nc|0|Error|1|2
+73270616|greenville, nc|23831682|Make Gumbo or Die Trying|1|2
+73270616|greenville, nc|20109973|New York, New York|1|2
+73270616|greenville, nc|18033774|Greenville, NC|1|2
+73270616|greenville, nc|32513597|Greenville, NC|1|2
+73270616|greenville, nc|19173620|Los Angeles/New York|1|2
+73270616|greenville, nc|38265317|Pura Vida |1|2
+73270616|greenville, nc|0|Error|1|2
+73270616|greenville, nc|0|Error|1|2
+73270616|greenville, nc|16981574|In my imagination|1|2
+73270616|greenville, nc|0|Error|1|2
+73270616|greenville, nc|0|Error|1|2
+73270616|greenville, nc|0|Error|1|2
+73270616|greenville, nc|0|Error|1|2
+73270616|greenville, nc|0|Error|1|2
+73270616|greenville, nc|3011623967|Greenville, North Carolina, US|1|2
+73270616|greenville, nc|476827146|Error|1|2
+73270616|greenville, nc|21968401|New York, NY|1|2
+73270616|greenville, nc|45629832|Greenville, NC|1|2
+73270616|greenville, nc|186608930|Nueva York City|1|2
+73270616|greenville, nc|351707624|Error|1|2
+73270616|greenville, nc|15146934|Greenville, NC|1|2
+73270616|greenville, nc|0|Error|1|2
+73270616|greenville, nc|38473077|Greenville, NC USA|1|2
+73270616|greenville, nc|27529145|NYC... By way of Charlotte, NC|1|2
+73270616|greenville, nc|296591417|Carolina girl, Miami living|1|2
+73270616|greenville, nc|0|Error|1|2
+17182064|greenville, nc|20988915|Northwest USA|2|2
+17182064|greenville, nc|14513666|Error|2|2
+17182064|greenville, nc|18806753|New York, NY|1|2
+17182064|greenville, nc|33580209|Chicago, IL|1|2
+17182064|greenville, nc|39182383|California|1|2
+17182064|greenville, nc|13837292|Silicon Valley|1|2
+17182064|greenville, nc|0|Error|1|2
+17182064|greenville, nc|5798602|North Carolina|1|2
+17182064|greenville, nc|70461869|greater NYC area|1|2
+17182064|greenville, nc|53680196|The League of Supers-Fans|1|2
+17182064|greenville, nc|2279040498|Error|1|2
+17182064|greenville, nc|1047301021|Error|1|2
+17182064|greenville, nc|26781953|Ayden, NC|1|2
+17182064|greenville, nc|44777959|Washington D.C.|1|2
+17182064|greenville, nc|17872693|St. Louis|1|2
+17182064|greenville, nc|16950069|Seattle - ish|1|2
+17182064|greenville, nc|32835708|New York, NY|1|2
+17182064|greenville, nc|25393674|Marin County, CA|1|2
+17182064|greenville, nc|24197083|Error|1|2
+31852668|greenville, nc|18220175|EVERYWHERE!!!|2|2
+31852668|greenville, nc|417198737|Error|1|2
+43267876|greenville, nc|24008967|Los Angeles|9|2
+43267876|greenville, nc|15848165|Slums of Beverly Hills|8|2
+43267876|greenville, nc|85019443|Los Angeles/Burbank|4|2
+43267876|greenville, nc|0|Error|4|2
+43267876|greenville, nc|549045769|sochi|3|2
+43267876|greenville, nc|21506437|anywhere with cell service|2|2
+43267876|greenville, nc|0|Error|2|2
+43267876|greenville, nc|16009605|New York, NY|1|2
+43267876|greenville, nc|0|Error|1|2
+43267876|greenville, nc|23617610|Error|1|2
+43267876|greenville, nc|62611852|greenville|1|2
+43267876|greenville, nc|68753655|Los Angeles|1|2
+42220525|greenville, nc|0|Error|4|2
+42220525|greenville, nc|26432634|Jonesboro|4|2
+42220525|greenville, nc|44273232|NYC/NC |2|2
+42220525|greenville, nc|2748037300|Error|2|2
+42220525|greenville, nc|0|Error|1|2
+42220525|greenville, nc|23395456|Error|1|2
+42220525|greenville, nc|29033320|Charlotte, NC|1|2
+42220525|greenville, nc|5438392|Brooklyn, NY|1|2
+42220525|greenville, nc|36524216|Las Vegas, NV|1|2
+26126569|greenville, nc|26126569|Greenville, NC|1|2
+26126569|greenville, nc|40904148|Silicon Valley|1|2
+26126569|greenville, nc|15818391|Taipei, Taiwan|1|2
+26126569|greenville, nc|8131122|Seattle, WA|1|2
+26126569|greenville, nc|18957524|New York, NY|1|2
+78137581|greenville, nc|235425700|the 'Boro|2|2
+40651772|greenville, nc|11883132|San Francisco|1|2
+54416061|greenville, nc|44008389|Error|1|2
+24141119|greenville, nc|1019808900|Error|3|2
+24141119|greenville, nc|0|Error|3|2
+24141119|greenville, nc|2595588631|Error|2|2
+24141119|greenville, nc|14230524|Error|1|2
+24141119|greenville, nc|570980455|Error|1|2
+24141119|greenville, nc|390272449|New York, New York|1|2
+24141119|greenville, nc|45392241|Error|1|2
+24141119|greenville, nc|1490525186|WORLDWIDE|1|2
+24141119|greenville, nc|10347762|New York City|1|2
+24141119|greenville, nc|20867604|Raleigh, NC|1|2
+24141119|greenville, nc|0|Error|1|2
+24141119|greenville, nc|900352639|Error|1|2
+24141119|greenville, nc|175489582|Error|1|2
+24141119|greenville, nc|0|Error|1|2
+24141119|greenville, nc|6139072|Greenville|1|2
+54419130|greenville, nc|0|Error|4|2
+54419130|greenville, nc|0|Error|1|2
+54419130|greenville, nc|23865801|Kinston, NC|1|2
+17065110|greenville, nc|38284202|Cavite, Philippines|5|2
+17065110|greenville, nc|21763368|where the sun loves to play|5|2
+17065110|greenville, nc|15933274|One with You...|4|2
+17065110|greenville, nc|15665702|Error|2|2
+17065110|greenville, nc|43317736|Error|2|2
+17065110|greenville, nc|32473519|San Diego|2|2
+17065110|greenville, nc|7258672|Greenville, NC|2|2
+17065110|greenville, nc|19449210|Canada|1|2
+17065110|greenville, nc|21522338|Error|1|2
+17065110|greenville, nc|32965035|NY /Illinois|1|2
+17065110|greenville, nc|226500906|Error|1|2
+17065110|greenville, nc|16535694|California|1|2
+17065110|greenville, nc|0|Error|1|2
+17065110|greenville, nc|15900714|Bend, OR|1|2
+17065110|greenville, nc|13393052|Washington, D.C. and NYC|1|2
+17065110|greenville, nc|17789578|Washington, D.C.|1|2
+17065110|greenville, nc|17006036|Washington, DC|1|2
+17065110|greenville, nc|21595277|Las Vegas, Nevada USA|1|2
+17065110|greenville, nc|0|Error|1|2
+17065110|greenville, nc|26747105|Skaneateles, NY ~ Sedona, AZ|1|2
+17065110|greenville, nc|409|SF Bay Area, California|1|2
+17065110|greenville, nc|34241296|NJ (USA)|1|2
+17065110|greenville, nc|9701272|LA|1|2
+17065110|greenville, nc|17399774|Montreal, QC, Canada|1|2
+30041401|greenville, nc|28749082|HOUSTON|1|2
+73382994|greenville, nc|0|Error|1|2
+73382994|greenville, nc|0|Error|1|2
+86796507|greenville, nc|307035188|Wilmington, NC|2|2
+86796507|greenville, nc|0|Error|2|2
+86796507|greenville, nc|296591417|Carolina girl, Miami living|1|2
+20867604|greenville, nc|0|Error|7|2
+20867604|greenville, nc|13612732|Los Angeles, California|2|2
+20867604|greenville, nc|28064093|Anderson, SC|1|2
+20867604|greenville, nc|15613281|nyc|1|2
+20867604|greenville, nc|28577697|Raleigh, North Carolina|1|2
+20867604|greenville, nc|10347762|New York City|1|2
+20867604|greenville, nc|21369252|Austin, TX|1|2
+20867604|greenville, nc|0|Error|1|2
+27027230|greenville, nc|21955058|Stage Right|1|2
+27027230|greenville, nc|0|Error|1|2
+20081341|greenville, nc|72281910|info@sixtwelvemag.com|3|2
+20081341|greenville, nc|32758509|NORTH CAROLINA|3|2
+20081341|greenville, nc|75582941|North Carolina!!|2|2
+20081341|greenville, nc|0|Error|2|2
+20081341|greenville, nc|47758065|Miami, FL, USA|1|2
+20081341|greenville, nc|0|Error|1|2
+20081341|greenville, nc|0|Error|1|2
+20081341|greenville, nc|30309979|New York, NY|1|2
+20081341|greenville, nc|36385050|All over|1|2
+20081341|greenville, nc|26641757|ATL/NC|1|2
+20081341|greenville, nc|52239294|Killa Queens|1|2
+20081341|greenville, nc|24605668|Queens/Lefrak NY / FL / LA|1|2
+20081341|greenville, nc|18546488|Everywhere at Once|1|2
+20081341|greenville, nc|16638685|UP THRU DERE!|1|2
+20081341|greenville, nc|18168436|NY |1|2
+20081341|greenville, nc|0|Error|1|2
+20081341|greenville, nc|14744569|Boston, MA|1|2
+20081341|greenville, nc|48822704|NYC|1|2
+20081341|greenville, nc|0|Error|1|2
+20081341|greenville, nc|34728842|Zone 6  East Atlanta Vegas|1|2
+20081341|greenville, nc|19648393|NYC|1|2
+20081341|greenville, nc|1908341071|Error|1|2
+20081341|greenville, nc|0|Error|1|2
+46689823|greenville, nc|16593509|Greenville, NC|2|2
+46689823|greenville, nc|26498259|Greenville, NC|2|2
+46689823|greenville, nc|387289061|Orlando Florida|1|2
+46689823|greenville, nc|130584275|Denver, Colorado|1|2
+46689823|greenville, nc|816653|San Francisco, CA|1|2
+56913756|greenville, nc|36001938|Error|4|2
+56913756|greenville, nc|0|Error|3|2
+56913756|greenville, nc|28706024|los angeles|1|2
+56913756|greenville, nc|0|Error|1|2
+56913756|greenville, nc|0|Error|1|2
+29784732|greenville, nc|0|Error|3|2
+29784732|greenville, nc|0|Error|2|2
+29784732|greenville, nc|2705010254|San Diego|2|2
+29784732|greenville, nc|0|Error|1|2
+29784732|greenville, nc|0|Error|1|2
+29784732|greenville, nc|30898049|Washington, D.C.|1|2
+29784732|greenville, nc|26942073|East Coast|1|2
+29784732|greenville, nc|0|Error|1|2
+21133995|greenville, nc|46301130|Bay Area, California|3|2
+21133995|greenville, nc|807095|New York City|2|2
+21133995|greenville, nc|0|Error|2|2
+21133995|greenville, nc|16303106|Error|2|2
+21133995|greenville, nc|16310534|New York, NY|1|2
+21133995|greenville, nc|79901258|Error|1|2
+21133995|greenville, nc|57980793|Error|1|2
+21133995|greenville, nc|0|Error|1|2
+21133995|greenville, nc|0|Error|1|2
+21133995|greenville, nc|17392897|Error|1|2
+33590197|greenville, nc|18942262|Farmville, NC|1|2
+2789001|greenville, nc|991841|Denver, CO|3|2
+2789001|greenville, nc|5479492|Error|2|2
+2789001|greenville, nc|4486191|NC Expatriate in Atlanta|1|2
+2789001|greenville, nc|4423671|Julian, NC|1|2
+2789001|greenville, nc|5882702|Error|1|2
+2789001|greenville, nc|4194781|Raleigh, NC|1|2

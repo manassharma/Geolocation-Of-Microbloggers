@@ -1,0 +1,80 @@
+89292397|suffolk, va|84864844|South Dakota|3|2
+89292397|suffolk, va|16895448|Phoenix, Arizona|3|2
+89292397|suffolk, va|33556208|California|3|2
+89292397|suffolk, va|15684832|Midwest USA|3|2
+89292397|suffolk, va|89292397|Suffolk, VA|2|2
+89292397|suffolk, va|19181924|Pittsburgh, PA|2|2
+89292397|suffolk, va|38139020|Ft. Lauderdale, FL|1|2
+89292397|suffolk, va|60781645|Upstate, NY|1|2
+89292397|suffolk, va|18769090|Error|1|2
+89292397|suffolk, va|17027450|New York|1|2
+89292397|suffolk, va|16852176|Ohio|1|2
+89292397|suffolk, va|20070549|Atlanta|1|2
+89292397|suffolk, va|11883132|San Francisco|1|2
+15299983|suffolk, va|91438053|San Marcos, CA|6|2
+15299983|suffolk, va|15152714|New Jersey|6|2
+15299983|suffolk, va|14686770|Port Huron, Michigan|5|2
+15299983|suffolk, va|1228161|iPhone: 38.295795,-75.705391|2|2
+15299983|suffolk, va|52858578|Canada|2|2
+15299983|suffolk, va|15299983|Suffolk, VA|2|2
+15299983|suffolk, va|18424873|ADKs/ Charlotte/ Hershey|2|2
+15299983|suffolk, va|15427924|USA|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|1049791|Error|1|2
+15299983|suffolk, va|21882551|State College, PA|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|21375241|We're global!|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|25398748|ACNJ / Philly|1|2
+15299983|suffolk, va|90473401|Arizona|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|60111334|DFW|1|2
+15299983|suffolk, va|35236421|Lantana, Texas|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|17343795|Tampa, Florida|1|2
+15299983|suffolk, va|16547853|Oregon|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|87175994|Error|1|2
+15299983|suffolk, va|80546011|Dublin|1|2
+15299983|suffolk, va|0|Error|1|2
+15299983|suffolk, va|83558926|Error|1|2
+39264478|suffolk, va|2991219915|Error|2|2
+39264478|suffolk, va|18276862|Raleigh, NC|1|2
+39264478|suffolk, va|0|Error|1|2
+39264478|suffolk, va|53300190|Fort Worth, TX|1|2
+39264478|suffolk, va|16821503|Los Angeles, CA|1|2
+39264478|suffolk, va|172568811|Error|1|2
+39264478|suffolk, va|15948388|Fort Worth, Texas|1|2
+45630315|suffolk, va|45630315|Suffolk, VA|6|2
+45630315|suffolk, va|25110374|Error|2|2
+45630315|suffolk, va|0|Error|1|2
+59953236|suffolk, va|26481566|Virginia, USA|3|2
+59953236|suffolk, va|0|Error|2|2
+59953236|suffolk, va|26262190|Boston, Massachusetts|1|2
+14054571|suffolk, virginia|15044391|NYC|10|2
+14054571|suffolk, virginia|12998252|Italy,Naples / Virginia Beach|6|2
+14054571|suffolk, virginia|15673536|Austin, TX|3|2
+14054571|suffolk, virginia|11148602|Chicago|2|2
+14054571|suffolk, virginia|6312822|Augusta, GA|2|2
+14054571|suffolk, virginia|14261911|Chiba, Japan|1|2
+14054571|suffolk, virginia|21732758|Midlothian, Va |1|2
+14054571|suffolk, virginia|15037729|Boca Raton, Florida|1|2
+14054571|suffolk, virginia|289078197|Leeds, UK|1|2
+14054571|suffolk, virginia|0|Error|1|2
+14054571|suffolk, virginia|7227642|US|1|2
+14054571|suffolk, virginia|15722818|Germany|1|2
+14054571|suffolk, virginia|14234493|San Francisco Bay Area, CA|1|2
+14054571|suffolk, virginia|0|Error|1|2
+14054571|suffolk, virginia|0|Error|1|2
+14054571|suffolk, virginia|405583433|Error|1|2
+14054571|suffolk, virginia|14736912|Brooklyn, New York|1|2
+24087298|suffolk, virginia|9315|Cape Town, South Africa|1|2
+24087298|suffolk, virginia|27270787|Earth|1|2
+24087298|suffolk, virginia|9045162|Langley, BC|1|2

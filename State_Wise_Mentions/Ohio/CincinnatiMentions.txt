@@ -1,0 +1,4072 @@
+18745624|cincinnati, ohio|0|Error|1|2
+18745624|cincinnati, ohio|21674448|Washington, DC|1|2
+18745624|cincinnati, ohio|34099259|Northern Kentucky|1|2
+18745624|cincinnati, ohio|17880141|Cincinnati, OH|1|2
+14221435|cincinnati, oh|16470269|Massachusetts|4|2
+14221435|cincinnati, oh|2936811|Kennewick, WA|3|2
+14221435|cincinnati, oh|7442232|Sarasota, FL.|2|2
+14221435|cincinnati, oh|532604982|Birmingham, AL|2|2
+14221435|cincinnati, oh|19319778|Huntsville, AL|2|2
+14221435|cincinnati, oh|23631339|Nevada|2|2
+14221435|cincinnati, oh|14388669|San Francisco, CA|2|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|14958191|Worldwide|1|2
+14221435|cincinnati, oh|7099112|Raleigh, NC|1|2
+14221435|cincinnati, oh|972651|Error|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|15467058|West Chester, Ohio|1|2
+14221435|cincinnati, oh|14255057|Omaha, NE|1|2
+14221435|cincinnati, oh|14857916|Westport, CT USA|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|17409789|Error|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|17903385|Santa Monica, California|1|2
+14221435|cincinnati, oh|15675150|Minneapolis, MN|1|2
+14221435|cincinnati, oh|14356871|Cincinnati|1|2
+14221435|cincinnati, oh|32090522|Cincinnati, OH|1|2
+14221435|cincinnati, oh|16049583|Northampton, MA|1|2
+14221435|cincinnati, oh|17932463|Albuquerque, New Mexico, USA|1|2
+14221435|cincinnati, oh|19175043|Chicago,IL |1|2
+14221435|cincinnati, oh|20570977|Washington DC|1|2
+14221435|cincinnati, oh|16023537|Error|1|2
+30278381|cincinnati, ohio|31929402|Error|10|2
+30278381|cincinnati, ohio|42779246|Hawaii|5|2
+30278381|cincinnati, ohio|0|Error|2|2
+30278381|cincinnati, ohio|19329393|New York City, New York|1|2
+30278381|cincinnati, ohio|16041748|The Nati|1|2
+30278381|cincinnati, ohio|39793532|Georgia|1|2
+30278381|cincinnati, ohio|17221158|Error|1|2
+25167642|cincinnati, ohio|14664725|Asheville, NC|4|2
+25167642|cincinnati, ohio|17925141|Chicago, IL |4|2
+25167642|cincinnati, ohio|277090277|Florida|3|2
+25167642|cincinnati, ohio|51139230|South Florida|3|2
+25167642|cincinnati, ohio|9211252|Springboro, Ohio|2|2
+25167642|cincinnati, ohio|2932542566|Irvine, CA|2|2
+25167642|cincinnati, ohio|264036590|Error|2|2
+25167642|cincinnati, ohio|26388411|Ohio|2|2
+25167642|cincinnati, ohio|15632835|Chicago & Long Grove, IL|2|2
+25167642|cincinnati, ohio|0|Error|2|2
+25167642|cincinnati, ohio|15328052|Houston, TX, USA|1|2
+25167642|cincinnati, ohio|25167642|Cincinnati, Ohio|1|2
+25167642|cincinnati, ohio|53725474|Cincinnati, OH|1|2
+25167642|cincinnati, ohio|20689700|Charlotte, NC|1|2
+25167642|cincinnati, ohio|8771022|Canton, Mass.|1|2
+25167642|cincinnati, ohio|25064742|Northbrook|1|2
+25167642|cincinnati, ohio|54060157|Error|1|2
+25167642|cincinnati, ohio|1754641|New York, NY|1|2
+25167642|cincinnati, ohio|19316225|Tacoma Wa.|1|2
+25167642|cincinnati, ohio|0|Error|1|2
+25167642|cincinnati, ohio|16747463|The Woodlands, TX|1|2
+25167642|cincinnati, ohio|8292622|Morgantown, WV|1|2
+25167642|cincinnati, ohio|0|Error|1|2
+25167642|cincinnati, ohio|21412643|Nashville, TN|1|2
+25167642|cincinnati, ohio|0|Error|1|2
+25167642|cincinnati, ohio|14221588|Dallas, Texas|1|2
+25167642|cincinnati, ohio|14511951|Error|1|2
+25167642|cincinnati, ohio|222375993|Error|1|2
+25167642|cincinnati, ohio|79007522|durable|1|2
+25167642|cincinnati, ohio|27869564|GOD'S WAR | INFIDEL | RAPTURE|1|2
+59379382|cincinnati, oh|264036590|Error|5|2
+59379382|cincinnati, oh|942090626|Albany, OR|4|2
+59379382|cincinnati, oh|0|Error|3|2
+59379382|cincinnati, oh|0|Error|3|2
+59379382|cincinnati, oh|20779014|Canada. Kitchener actually|3|2
+59379382|cincinnati, oh|42534499|Covington, KY|3|2
+59379382|cincinnati, oh|84176035|Error|3|2
+59379382|cincinnati, oh|733197841|Error|2|2
+59379382|cincinnati, oh|83365465|tallahassee, florida|2|2
+59379382|cincinnati, oh|0|Error|2|2
+59379382|cincinnati, oh|45210894|Queens, NY|2|2
+59379382|cincinnati, oh|25242403|Pflugerville, TX (Austin burb)|2|2
+59379382|cincinnati, oh|1643349062|Error|1|2
+59379382|cincinnati, oh|29751010|Belleville, Ontario, Canada|1|2
+59379382|cincinnati, oh|0|Error|1|2
+59379382|cincinnati, oh|27115071|Error|1|2
+59379382|cincinnati, oh|0|Error|1|2
+59379382|cincinnati, oh|68075172|Jamestown ND|1|2
+59379382|cincinnati, oh|866676229|Liverpool, Aintree |1|2
+59379382|cincinnati, oh|57079339|iPhone: 34.224640,-77.839355|1|2
+59379382|cincinnati, oh|19280939|stay at home gypsy|1|2
+59379382|cincinnati, oh|0|Error|1|2
+59379382|cincinnati, oh|84187446|Beavercreek, OH|1|2
+59379382|cincinnati, oh|0|Error|1|2
+59379382|cincinnati, oh|0|Error|1|2
+59379382|cincinnati, oh|432092247|VA|1|2
+59379382|cincinnati, oh|292445317|Chicago, IL|1|2
+45700930|cincinnati, oh|0|Error|6|2
+45700930|cincinnati, oh|19058681|Los Angeles, California|2|2
+45700930|cincinnati, oh|264036590|Error|2|2
+45700930|cincinnati, oh|30317085|Atlanta, Ga|2|2
+45700930|cincinnati, oh|36528126|Hollywood|2|2
+45700930|cincinnati, oh|0|Error|2|2
+45700930|cincinnati, oh|0|Error|1|2
+45700930|cincinnati, oh|25913173|Error|1|2
+45700930|cincinnati, oh|56405314|Snapchat: Stamosofficial |1|2
+45700930|cincinnati, oh|15830716|Playboy Mansion|1|2
+45700930|cincinnati, oh|27778893|Error|1|2
+45700930|cincinnati, oh|0|Error|1|2
+45700930|cincinnati, oh|0|Error|1|2
+135313|cincinnati, ohio|26465626|Error|1|2
+135313|cincinnati, ohio|10760422|Error|1|2
+135313|cincinnati, ohio|33423|Philadelphia|1|2
+135313|cincinnati, ohio|11639732|Error|1|2
+16494269|cincinnati, ohio|27508814|Cincinnati, Ohio|3|2
+16494269|cincinnati, ohio|13632|Error|2|2
+16494269|cincinnati, ohio|3056241759|Ohio|2|2
+16494269|cincinnati, ohio|72220935|Error|2|2
+16494269|cincinnati, ohio|30281599|Corner of Fifth and Vine |2|2
+16494269|cincinnati, ohio|18253799|Error|1|2
+16494269|cincinnati, ohio|21678658|Cincinnati, Ohio, and Kentucky|1|2
+16494269|cincinnati, ohio|0|Error|1|2
+16494269|cincinnati, ohio|53189870|Great American Ball Park|1|2
+16494269|cincinnati, ohio|52915054|Cincinnati, OH|1|2
+16494269|cincinnati, ohio|3357441|Cincinnati, OH|1|2
+16494269|cincinnati, ohio|14776716|Cincinnati|1|2
+16494269|cincinnati, ohio|18793494|Cincinnati, Ohio|1|2
+16494269|cincinnati, ohio|12434862|Cincinnati|1|2
+16494269|cincinnati, ohio|26721151|long beach, ca|1|2
+16494269|cincinnati, ohio|59553554|Error|1|2
+16494269|cincinnati, ohio|12120112|Cincinnati|1|2
+16494269|cincinnati, ohio|90424252|Ohio|1|2
+16494269|cincinnati, ohio|0|Error|1|2
+16494269|cincinnati, ohio|0|Error|1|2
+16494269|cincinnati, ohio|9629222|Worldwide|1|2
+16494269|cincinnati, ohio|88508166|Cincinnati OH/4343 Kellogg Ave|1|2
+16494269|cincinnati, ohio|25558483|Cincinnati|1|2
+16494269|cincinnati, ohio|0|Error|1|2
+16494269|cincinnati, ohio|26587200|Cincinnati, Ohio |1|2
+16494269|cincinnati, ohio|83389037|BuckUpRockOn|1|2
+16494269|cincinnati, ohio|18676177|London & Essex|1|2
+16494269|cincinnati, ohio|17605210|Northern KY/Cincinnati, OH|1|2
+16494269|cincinnati, ohio|43345074|Cincy/NKY MSA|1|2
+16494269|cincinnati, ohio|0|Error|1|2
+16494269|cincinnati, ohio|67684455|Chicagoland|1|2
+16521423|cincinnati, ohio|19786336|Olive Branch, MS|1|2
+16521423|cincinnati, ohio|58937307|Eugene, OR|1|2
+16521423|cincinnati, ohio|53655557|Central Coast of California|1|2
+16521423|cincinnati, ohio|15907720|DC & NYC|1|2
+64756157|cincinnati, ohio|0|Error|20|2
+64756157|cincinnati, ohio|0|Error|3|2
+64756157|cincinnati, ohio|18540972|NYC|3|2
+64756157|cincinnati, ohio|15174079|Global|2|2
+64756157|cincinnati, ohio|15348935|Los Angeles|2|2
+64756157|cincinnati, ohio|24352819|Berkeley CA|2|2
+64756157|cincinnati, ohio|50539305|Austin, Texas|2|2
+64756157|cincinnati, ohio|14859705|Southern, CA|2|2
+64756157|cincinnati, ohio|20016968|Error|2|2
+64756157|cincinnati, ohio|15846407|California|2|2
+64756157|cincinnati, ohio|38394199|California and Greece|1|2
+64756157|cincinnati, ohio|22811188|Error|1|2
+64756157|cincinnati, ohio|0|Error|1|2
+64756157|cincinnati, ohio|32679157|Dallas, Texas|1|2
+64756157|cincinnati, ohio|16314021|Portland, OR|1|2
+64756157|cincinnati, ohio|19508784|Cambridge, MA|1|2
+64756157|cincinnati, ohio|11856932|Error|1|2
+64756157|cincinnati, ohio|22012750|hanging out in Amsterdam|1|2
+64756157|cincinnati, ohio|0|Error|1|2
+64756157|cincinnati, ohio|18510860|Error|1|2
+64756157|cincinnati, ohio|16895602|Canada|1|2
+64756157|cincinnati, ohio|14248446|Error|1|2
+64756157|cincinnati, ohio|1392613873|Error|1|2
+64756157|cincinnati, ohio|46989098|Lake Oswego, Oregon|1|2
+64756157|cincinnati, ohio|2776050867|Windsor|1|2
+64756157|cincinnati, ohio|16841328|Charlotte NC|1|2
+64756157|cincinnati, ohio|0|Error|1|2
+64756157|cincinnati, ohio|14588077|Washington, DC|1|2
+64756157|cincinnati, ohio|3148356377|Error|1|2
+64756157|cincinnati, ohio|0|Error|1|2
+64756157|cincinnati, ohio|0|Error|1|2
+64756157|cincinnati, ohio|0|Error|1|2
+68426509|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|0|Error|7|2
+25305044|cincinnati, ohio|0|Error|6|2
+25305044|cincinnati, ohio|71873943|New York City/Sag Harbor|5|2
+25305044|cincinnati, ohio|0|Error|3|2
+25305044|cincinnati, ohio|0|Error|3|2
+25305044|cincinnati, ohio|0|Error|3|2
+25305044|cincinnati, ohio|53202020|Error|3|2
+25305044|cincinnati, ohio|16607945|Error|2|2
+25305044|cincinnati, ohio|1040647278|Error|2|2
+25305044|cincinnati, ohio|119337072|Error|2|2
+25305044|cincinnati, ohio|2903081898|Error|2|2
+25305044|cincinnati, ohio|60174651|Wherever I may roam....|2|2
+25305044|cincinnati, ohio|20957555|New York, New York|2|2
+25305044|cincinnati, ohio|19661020|East Coast USA|2|2
+25305044|cincinnati, ohio|14302561|Cincinnati, OH |2|2
+25305044|cincinnati, ohio|2596061|Kansas City, MO|2|2
+25305044|cincinnati, ohio|168822134|Wien|2|2
+25305044|cincinnati, ohio|26903586|vancouv|2|2
+25305044|cincinnati, ohio|20559458|San Francisco & New York |1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|18923057|Los Angeles,CA|1|2
+25305044|cincinnati, ohio|30318164|Cincinnati, OH|1|2
+25305044|cincinnati, ohio|16234193|Seattle|1|2
+25305044|cincinnati, ohio|38321086|Louisiana |1|2
+25305044|cincinnati, ohio|19832980|Michigan|1|2
+25305044|cincinnati, ohio|20522531|NYC|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|19479725|HOLLYWOOD, CALIFORNIA |1|2
+25305044|cincinnati, ohio|966280914|straya|1|2
+25305044|cincinnati, ohio|22429348|Charlotte area ~ USA|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|1043209963|Error|1|2
+25305044|cincinnati, ohio|18228494|Cambridge, England|1|2
+25305044|cincinnati, ohio|16650431|Cincinnati, OH|1|2
+25305044|cincinnati, ohio|2462651|Error|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|23997170|Washington, DC|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|33045314|Global. Office: Hollywood|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|14305711|New York, NY|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|2779128578|Nantes|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|14053295|Los Angeles|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|77529733|Los Angeles, Cali|1|2
+25305044|cincinnati, ohio|14120099|Cincinnati, OH|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|70713874|Sacramento, Ca|1|2
+25305044|cincinnati, ohio|25668422|Dublin City, Ireland|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|0|Error|1|2
+25305044|cincinnati, ohio|47354075|Atlanta Ga|1|2
+27926664|cincinnati, oh|16050554|Houston, Texas|4|2
+27926664|cincinnati, oh|0|Error|3|2
+27926664|cincinnati, oh|0|Error|1|2
+27926664|cincinnati, oh|22725632|Cincinnati, OH|1|2
+27926664|cincinnati, oh|34693420|Error|1|2
+27926664|cincinnati, oh|373099457|Error|1|2
+27926664|cincinnati, oh|15914081|wherever the #work takes me..|1|2
+27926664|cincinnati, oh|33398901|Error|1|2
+27926664|cincinnati, oh|0|Error|1|2
+27926664|cincinnati, oh|18162420|Forest Park, Ohio |1|2
+27926664|cincinnati, oh|21843467|HOLLYWOOD, CALI|1|2
+15475328|cincinnati, oh|16826656|Detroit, Michigan|8|2
+15475328|cincinnati, oh|14559450|Error|4|2
+15475328|cincinnati, oh|15737050|Cincinnati, OH|3|2
+15475328|cincinnati, oh|791632|San Jose, CA|3|2
+15475328|cincinnati, oh|417902488|@*****|2|2
+15475328|cincinnati, oh|977730782|Error|1|2
+15475328|cincinnati, oh|30860823|Detroit, MI|1|2
+15475328|cincinnati, oh|37099761|Long Island, New York|1|2
+15475328|cincinnati, oh|24170195|Error|1|2
+15475328|cincinnati, oh|0|Error|1|2
+15475328|cincinnati, oh|474234384|Error|1|2
+15475328|cincinnati, oh|8001632|Michigan |1|2
+15475328|cincinnati, oh|16243030|Pre: 37.3982012,-122.04196|1|2
+15475328|cincinnati, oh|50004938|30 cities across U.S. & Canada|1|2
+15475328|cincinnati, oh|0|Error|1|2
+15475328|cincinnati, oh|14857715|Detroit, Michigan|1|2
+15475328|cincinnati, oh|16799990|Annapolis, MD|1|2
+15475328|cincinnati, oh|13945062|Toronna|1|2
+15475328|cincinnati, oh|0|Error|1|2
+15475328|cincinnati, oh|0|Error|1|2
+48898691|cincinnati, ohio|3386439610|Error|2|2
+48898691|cincinnati, ohio|20729279|Error|1|2
+48898691|cincinnati, ohio|253062790|Error|1|2
+48898691|cincinnati, ohio|6492052|Chicago, IL|1|2
+48898691|cincinnati, ohio|742143|London, UK|1|2
+48898691|cincinnati, ohio|0|Error|1|2
+48898691|cincinnati, ohio|44018446|The District|1|2
+48898691|cincinnati, ohio|0|Error|1|2
+48898691|cincinnati, ohio|198960623|Error|1|2
+48898691|cincinnati, ohio|12480582|New York and beyond...|1|2
+48898691|cincinnati, ohio|17197071|Home of the Pink Gators|1|2
+48898691|cincinnati, ohio|23146830|Apple. Big.|1|2
+48898691|cincinnati, ohio|16815539|Detroit, MI|1|2
+21373645|cincinnati, ohio|0|Error|3|2
+21373645|cincinnati, ohio|0|Error|2|2
+21373645|cincinnati, ohio|2183634453|Error|1|2
+21373645|cincinnati, ohio|55010030|Error|1|2
+21373645|cincinnati, ohio|14520936|Error|1|2
+21373645|cincinnati, ohio|17919972|Error|1|2
+21373645|cincinnati, ohio|55033682|New York|1|2
+21373645|cincinnati, ohio|0|Error|1|2
+21373645|cincinnati, ohio|558788522|On tour or in the studio.|1|2
+21373645|cincinnati, ohio|2184395288|Error|1|2
+21373645|cincinnati, ohio|68708980|Fairfield Township, Ohio|1|2
+21373645|cincinnati, ohio|77031499|Error|1|2
+21373645|cincinnati, ohio|76445430|Sicily|1|2
+21373645|cincinnati, ohio|47563716|Cincy, Ohio|1|2
+31131167|cincinnati, ohio|0|Error|16|2
+31131167|cincinnati, ohio|0|Error|5|2
+31131167|cincinnati, ohio|17595596|NYC, LA|4|2
+31131167|cincinnati, ohio|0|Error|2|2
+31131167|cincinnati, ohio|52681993|Error|2|2
+31131167|cincinnati, ohio|9151112|Cincinnati, Ohio|2|2
+31131167|cincinnati, ohio|203336869|Error|2|2
+31131167|cincinnati, ohio|0|Error|1|2
+31131167|cincinnati, ohio|32780540|Error|1|2
+31131167|cincinnati, ohio|0|Error|1|2
+31131167|cincinnati, ohio|43302753|Cameron, NC|1|2
+31131167|cincinnati, ohio|0|Error|1|2
+41167358|cincinnati, ohio|22790923|Cincinnati|4|2
+41167358|cincinnati, ohio|15535269|Cincinnati, Ohio, USA|3|2
+41167358|cincinnati, ohio|0|Error|3|2
+41167358|cincinnati, ohio|0|Error|2|2
+41167358|cincinnati, ohio|34386827|Cincinnati, Ohio|2|2
+41167358|cincinnati, ohio|8958852|Cincinnati, Ohio|2|2
+41167358|cincinnati, ohio|14776716|Cincinnati|2|2
+41167358|cincinnati, ohio|83883736|Error|1|2
+41167358|cincinnati, ohio|4629|Cincinnati, OH|1|2
+41167358|cincinnati, ohio|13224032|Cincinnati, OH|1|2
+41167358|cincinnati, ohio|67192046|New Jersey|1|2
+41167358|cincinnati, ohio|15824705|Saint Paul, MN|1|2
+41167358|cincinnati, ohio|0|Error|1|2
+41167358|cincinnati, ohio|41881116|Findlay Market, Cincinnati OH|1|2
+41167358|cincinnati, ohio|13524672|Over-the-Rhine, Cincinnati, Ohio|1|2
+41167358|cincinnati, ohio|18082464|Cincinnati, OH, USA|1|2
+41167358|cincinnati, ohio|0|Error|1|2
+41167358|cincinnati, ohio|0|Error|1|2
+14953151|cincinnati, ohio|0|Error|1|2
+14953151|cincinnati, ohio|14178714|Cincinnati, OH|1|2
+14953151|cincinnati, ohio|785249966|New York|1|2
+14953151|cincinnati, ohio|0|Error|1|2
+14953151|cincinnati, ohio|404102402|Error|1|2
+23080091|cincinnati, ohio|56220248|PROUD Cincinnatian!|6|2
+23080091|cincinnati, ohio|124726363|Error|2|2
+23080091|cincinnati, ohio|274018852|is now @itsjuztin|2|2
+23080091|cincinnati, ohio|19541979|Cincinnati, Ohio|1|2
+23080091|cincinnati, ohio|558742497|Error|1|2
+23080091|cincinnati, ohio|30263880|Cincinnati |1|2
+21114568|cincinnati, oh|1254765055|Error|9|2
+21114568|cincinnati, oh|23389613|Parts Unknown|6|2
+21114568|cincinnati, oh|1703035621|Error|6|2
+21114568|cincinnati, oh|7125992|Bay Area, CA|2|2
+21114568|cincinnati, oh|75097609|Error|1|2
+21114568|cincinnati, oh|0|Error|1|2
+21114568|cincinnati, oh|86422542|Wuz up Vitch?|1|2
+21114568|cincinnati, oh|7434902|San Francisco, CA|1|2
+21114568|cincinnati, oh|19550535|Berkeley, CA|1|2
+64106834|cincinnati, oh|17368555|San Francisco|3|2
+64106834|cincinnati, oh|456|Error|2|2
+64106834|cincinnati, oh|19022072|Northern KY|2|2
+64106834|cincinnati, oh|0|Error|2|2
+64106834|cincinnati, oh|67350352|cincinnati, ohio, USA|2|2
+64106834|cincinnati, oh|0|Error|2|2
+64106834|cincinnati, oh|0|Error|1|2
+64106834|cincinnati, oh|42654085|San Francisco|1|2
+64106834|cincinnati, oh|38109206|Troy, NY|1|2
+64106834|cincinnati, oh|0|Error|1|2
+64106834|cincinnati, oh|14109167|California|1|2
+64106834|cincinnati, oh|0|Error|1|2
+64106834|cincinnati, oh|10884422|San Francisco, CA|1|2
+64106834|cincinnati, oh|20333461|Amsterdam|1|2
+64106834|cincinnati, oh|6186392|San Francisco & On the Road|1|2
+64106834|cincinnati, oh|14905766|Paris, France|1|2
+64106834|cincinnati, oh|16226484|Minneapolis, Minnesota|1|2
+64106834|cincinnati, oh|14378113|Washington, DC, USA|1|2
+64106834|cincinnati, oh|45279699|Chicago, IL, USA|1|2
+64106834|cincinnati, oh|15341735|New York * Paris * Tokyo|1|2
+64106834|cincinnati, oh|21463510|Sacramento, CA|1|2
+64106834|cincinnati, oh|15428012|Victoria, BC, Canada|1|2
+18330347|cincinnati, oh|16102452|Los Angeles|1|2
+25212047|cincinnati, oh|34270093|Error|13|2
+25212047|cincinnati, oh|18449635|Meridian, Idaho|5|2
+25212047|cincinnati, oh|23274866|Maine and virtually everywhere|4|2
+25212047|cincinnati, oh|25212047|Cincinnati, OH|4|2
+25212047|cincinnati, oh|32383440|Southern, Indiana|4|2
+25212047|cincinnati, oh|22643854|Next to the lake :-)|4|2
+25212047|cincinnati, oh|58056152|Orlando, Florida|4|2
+25212047|cincinnati, oh|15261679|Silicon Valley|4|2
+25212047|cincinnati, oh|26541748|Rockingham, NC|4|2
+25212047|cincinnati, oh|0|Error|3|2
+25212047|cincinnati, oh|0|Error|3|2
+25212047|cincinnati, oh|25502100|Fort Meade, MD|3|2
+25212047|cincinnati, oh|0|Error|2|2
+25212047|cincinnati, oh|7350962|Miami, Fl. USA|2|2
+25212047|cincinnati, oh|0|Error|2|2
+25212047|cincinnati, oh|8365512|Newcastle upon Tyne, UK|2|2
+25212047|cincinnati, oh|16713091|San Diego, California|2|2
+25212047|cincinnati, oh|19444539|We Go Wherever is Need|2|2
+25212047|cincinnati, oh|20646864|San Francisco, CA|2|2
+25212047|cincinnati, oh|366427909|Error|2|2
+25212047|cincinnati, oh|0|Error|2|2
+25212047|cincinnati, oh|11348282|Error|2|2
+25212047|cincinnati, oh|46343231|Cape Town, South Africa|1|2
+25212047|cincinnati, oh|8453452|Silicon Valley, California|1|2
+25212047|cincinnati, oh|27884629|near Albuquerque, New Mexico|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|24179525|US|1|2
+25212047|cincinnati, oh|48289662|Oxford, UK|1|2
+25212047|cincinnati, oh|31289296|Rio de Janeiro|1|2
+25212047|cincinnati, oh|460296120|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|722882570|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|30577023|Error|1|2
+25212047|cincinnati, oh|17446887|Springfield, IL|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|37424500|Colorado, USA|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|40316096|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|11856302|New Orleans, LA|1|2
+25212047|cincinnati, oh|14402310|San Jose, CA|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|17293337|Philadelphia, PA|1|2
+25212047|cincinnati, oh|25281439|FL / NC  / TN / Life|1|2
+25212047|cincinnati, oh|419117523|Error|1|2
+25212047|cincinnati, oh|15234407|Geneva|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|17019535|United Kingdom|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|19130934|Hawaii-Kohala Coast-Big Island|1|2
+25212047|cincinnati, oh|29600506|Chennai, India|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|46758449|Baltimore's Inner Harbor|1|2
+25212047|cincinnati, oh|261159194|Error|1|2
+25212047|cincinnati, oh|384393206|Error|1|2
+25212047|cincinnati, oh|22041124|Error|1|2
+25212047|cincinnati, oh|24279363|Northern California|1|2
+25212047|cincinnati, oh|16176754|New York|1|2
+25212047|cincinnati, oh|33943616|Memphis, TN|1|2
+25212047|cincinnati, oh|1888034473|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|16580226|Florida, USA|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|37971731|The World Wide Web|1|2
+25212047|cincinnati, oh|14171070|Los Angeles|1|2
+25212047|cincinnati, oh|399616737|Error|1|2
+25212047|cincinnati, oh|16305442|Weird New Jersey|1|2
+25212047|cincinnati, oh|14642711|Arizona and California|1|2
+25212047|cincinnati, oh|39663025|Ann Arbor, MI|1|2
+25212047|cincinnati, oh|45243198|Jacksonville|1|2
+25212047|cincinnati, oh|28567809|London, UK|1|2
+25212047|cincinnati, oh|17752368|USA |1|2
+25212047|cincinnati, oh|26960252|Arizona|1|2
+25212047|cincinnati, oh|35275095|Long Island, NY #Shaklee|1|2
+25212047|cincinnati, oh|26621475|Boulder, CO|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|15746084|Bangalore, India|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|15461733|Pasadena, California, USA|1|2
+25212047|cincinnati, oh|6998362|Summit County, Colorado|1|2
+25212047|cincinnati, oh|22692758|Intertubes|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|43345074|Cincy/NKY MSA|1|2
+25212047|cincinnati, oh|21520175|Oshkosh|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|14400028|Error|1|2
+25212047|cincinnati, oh|19722699|New York |1|2
+25212047|cincinnati, oh|2067661|Cincinnati, Ohio, USA|1|2
+25212047|cincinnati, oh|14476147|New York City|1|2
+25212047|cincinnati, oh|17401289|Sydney, Tonga, New Zealand|1|2
+25212047|cincinnati, oh|15237935|Mountain View|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|8775672|Washington, D.C.|1|2
+25212047|cincinnati, oh|17266725|USA|1|2
+25212047|cincinnati, oh|67012796|India|1|2
+25212047|cincinnati, oh|20118774|Asia |1|2
+25212047|cincinnati, oh|16311710|Williamstown, MA|1|2
+25212047|cincinnati, oh|17918545|Los Angeles, CA|1|2
+25212047|cincinnati, oh|0|Error|1|2
+25212047|cincinnati, oh|18931823|outside|1|2
+25212047|cincinnati, oh|0|Error|1|2
+15744473|cincinnati, ohio|301306384|Thomastown, Kilkenny, Ireland|3|2
+15744473|cincinnati, ohio|16701041|Vancouver, BC|3|2
+15744473|cincinnati, ohio|21157396|Calabasas, CA/Kansas City, MO|3|2
+15744473|cincinnati, ohio|142063620|Error|2|2
+15744473|cincinnati, ohio|50052902|Error|2|2
+15744473|cincinnati, ohio|32306015|Shit, I have no clue!|2|2
+15744473|cincinnati, ohio|155433082|Error|2|2
+15744473|cincinnati, ohio|14749043|Olean, NY|2|2
+15744473|cincinnati, ohio|95679082|New York|2|2
+15744473|cincinnati, ohio|1461861|San Antonio|2|2
+15744473|cincinnati, ohio|0|Error|1|2
+15744473|cincinnati, ohio|0|Error|1|2
+15744473|cincinnati, ohio|27746520|35,000 ft. up|1|2
+15744473|cincinnati, ohio|15470570|NWA|1|2
+15744473|cincinnati, ohio|0|Error|1|2
+15744473|cincinnati, ohio|25995864|Golf Course near you. |1|2
+15744473|cincinnati, ohio|22225244|Error|1|2
+15744473|cincinnati, ohio|18660634|Error|1|2
+15744473|cincinnati, ohio|16687759|GEORGIA!!!|1|2
+15744473|cincinnati, ohio|130584275|Denver, Colorado|1|2
+15744473|cincinnati, ohio|764852492|Error|1|2
+15744473|cincinnati, ohio|1355589396|unknown|1|2
+15744473|cincinnati, ohio|0|Error|1|2
+15744473|cincinnati, ohio|0|Error|1|2
+15744473|cincinnati, ohio|542299315|Error|1|2
+15744473|cincinnati, ohio|550451648|Worldwide|1|2
+15744473|cincinnati, ohio|0|Error|1|2
+15744473|cincinnati, ohio|287444484|Mobile, AL|1|2
+15744473|cincinnati, ohio|310959699|Error|1|2
+15744473|cincinnati, ohio|2183502527|Error|1|2
+16386707|cincinnati, ohio|0|Error|3|2
+16386707|cincinnati, ohio|0|Error|3|2
+16386707|cincinnati, ohio|11872482|Michigan|3|2
+16386707|cincinnati, ohio|870471643|Error|3|2
+16386707|cincinnati, ohio|0|Error|2|2
+16386707|cincinnati, ohio|17772833|Error|2|2
+16386707|cincinnati, ohio|0|Error|2|2
+16386707|cincinnati, ohio|18760460|Fort Lauderdale, FL|2|2
+16386707|cincinnati, ohio|28563556|King of Prussia, PA  USA|2|2
+16386707|cincinnati, ohio|30674900|Northeast Ohio|2|2
+16386707|cincinnati, ohio|0|Error|2|2
+16386707|cincinnati, ohio|0|Error|2|2
+16386707|cincinnati, ohio|18024062|World Wide Web|2|2
+16386707|cincinnati, ohio|38254564|In the kitchen...|2|2
+16386707|cincinnati, ohio|33763630|Virginia|2|2
+16386707|cincinnati, ohio|82310048|Dublin |2|2
+16386707|cincinnati, ohio|78594437|Error|2|2
+16386707|cincinnati, ohio|64914137|Portland, OR|2|2
+16386707|cincinnati, ohio|22388741|UK (Crooked Spire) (GRIM!) |2|2
+16386707|cincinnati, ohio|0|Error|2|2
+16386707|cincinnati, ohio|21733345|Error|2|2
+16386707|cincinnati, ohio|7957772|Illogan, Cornwall, UK|2|2
+16386707|cincinnati, ohio|25147984|Overland Park, KS|2|2
+16386707|cincinnati, ohio|0|Error|2|2
+16386707|cincinnati, ohio|23777198|Gulf Coast | Maui|2|2
+16386707|cincinnati, ohio|21990874|New Orleans, LA|2|2
+16386707|cincinnati, ohio|0|Error|2|2
+16386707|cincinnati, ohio|21344248|World .|2|2
+16386707|cincinnati, ohio|31152881|Atlanta, GA|2|2
+16386707|cincinnati, ohio|84353949|Coaching Inquiries Raeven@SheDreamsOfLove.com|2|2
+16386707|cincinnati, ohio|29507206|USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|15480317|Atlanta, Georgia|1|2
+16386707|cincinnati, ohio|15342518|Burlington, Vermont|1|2
+16386707|cincinnati, ohio|40917383|Georgetown, Tennessee|1|2
+16386707|cincinnati, ohio|28364456|Home Counties|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|67761190|International|1|2
+16386707|cincinnati, ohio|45302910|Global|1|2
+16386707|cincinnati, ohio|19077401|Washington, DC|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|17402779|USA|1|2
+16386707|cincinnati, ohio|24206535|Tampa|1|2
+16386707|cincinnati, ohio|75623478|Chicago |1|2
+16386707|cincinnati, ohio|82130742|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|616173|Hong Kong|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|15082149|Seattle Area, Washington, USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|48685107|Caracas, Venezuela|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|18664838|In front of my screen|1|2
+16386707|cincinnati, ohio|38889451|Southwest Florida |1|2
+16386707|cincinnati, ohio|48566404|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|22411051|Error|1|2
+16386707|cincinnati, ohio|1053435338|New Zealand|1|2
+16386707|cincinnati, ohio|36559238|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|86826118|London, UK|1|2
+16386707|cincinnati, ohio|77914364|Arkansas|1|2
+16386707|cincinnati, ohio|3015510287|Online, USA, Japan|1|2
+16386707|cincinnati, ohio|44101656|Mayo Ireland|1|2
+16386707|cincinnati, ohio|239616180|USA|1|2
+16386707|cincinnati, ohio|50246612|Error|1|2
+16386707|cincinnati, ohio|70483895|On the beach!|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|40712506|Wall Street|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|27250894|London|1|2
+16386707|cincinnati, ohio|72478337|Ohio|1|2
+16386707|cincinnati, ohio|257388530|Error|1|2
+16386707|cincinnati, ohio|10889782|Pasadena, Ca. * Los Angeles|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|22664506|Corona, CA|1|2
+16386707|cincinnati, ohio|17008328|California|1|2
+16386707|cincinnati, ohio|27012118|Error|1|2
+16386707|cincinnati, ohio|71350680|Honolulu, Hawaii USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|47217806|Earth|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|7922242|Australia|1|2
+16386707|cincinnati, ohio|72058232|London|1|2
+16386707|cincinnati, ohio|25688058|Sweden|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|51755154|central Pennsylvania|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|75028535|LA, NYC, Tampa, Dallas|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|57721624|Toronto|1|2
+16386707|cincinnati, ohio|1118781|Error|1|2
+16386707|cincinnati, ohio|22447311|Texas|1|2
+16386707|cincinnati, ohio|3924841|Florence, Kentucky|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|27029435|St-Lazare|1|2
+16386707|cincinnati, ohio|65587134|Twitterverse|1|2
+16386707|cincinnati, ohio|7784982|Error|1|2
+16386707|cincinnati, ohio|20222100|Information, not entertainment|1|2
+16386707|cincinnati, ohio|17375852|Central CA.|1|2
+16386707|cincinnati, ohio|38284845|UK|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|49882050|curitiba brazil|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|21218186|Saint Louis, Missouri area|1|2
+16386707|cincinnati, ohio|81215884|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|81623226|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|33782747|Texas|1|2
+16386707|cincinnati, ohio|16732982|Georgia|1|2
+16386707|cincinnati, ohio|35114020|New York City, New York, USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|18855401|Wisconsin, USA|1|2
+16386707|cincinnati, ohio|46068226|Ghana|1|2
+16386707|cincinnati, ohio|30723561|Los Angeles, CA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|27440305|Panama|1|2
+16386707|cincinnati, ohio|81848247|North Carolina|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|38447355|Irvington, NY|1|2
+16386707|cincinnati, ohio|16698442|Wheatland, MO|1|2
+16386707|cincinnati, ohio|15058095|Error|1|2
+16386707|cincinnati, ohio|42895531|United States|1|2
+16386707|cincinnati, ohio|58002783|Germany|1|2
+16386707|cincinnati, ohio|37122553|Wisconsin, USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|17725811|Illinois, USA|1|2
+16386707|cincinnati, ohio|73205857|earth|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|28196261|Where U want to be! =)|1|2
+16386707|cincinnati, ohio|22895678|Error|1|2
+16386707|cincinnati, ohio|15433037|Chicago|1|2
+16386707|cincinnati, ohio|2872245635|Error|1|2
+16386707|cincinnati, ohio|40654259|KL|1|2
+16386707|cincinnati, ohio|20733210|London|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|58471987|Error|1|2
+16386707|cincinnati, ohio|49519822|Palo Alto, California|1|2
+16386707|cincinnati, ohio|29913535|Error|1|2
+16386707|cincinnati, ohio|86009652|Error|1|2
+16386707|cincinnati, ohio|35355542|Newport Beach, CA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|19667078|Marlow Thames Valley UK|1|2
+16386707|cincinnati, ohio|67521059|Error|1|2
+16386707|cincinnati, ohio|43304598|Seattle|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|28739957|Silicon Valley/San Francisco|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|22093870|San Diego, California|1|2
+16386707|cincinnati, ohio|54064198|Gold Coast, Australia|1|2
+16386707|cincinnati, ohio|48516727|Scottsdale, AZ|1|2
+16386707|cincinnati, ohio|24783909|USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|88816532|Delray Beach Florida|1|2
+16386707|cincinnati, ohio|73133760|Florida|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|33693275|Tdot|1|2
+16386707|cincinnati, ohio|14184764|Vienna, Austria|1|2
+16386707|cincinnati, ohio|16413061|Boston|1|2
+16386707|cincinnati, ohio|81179723|Mexico City, Mexico|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|24601244|Tampa|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|74010581|Hong Kong|1|2
+16386707|cincinnati, ohio|28961842|UK|1|2
+16386707|cincinnati, ohio|37882706|Adelaide, Australia|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|49065768|Tennessee|1|2
+16386707|cincinnati, ohio|21274364|The shores of Eden|1|2
+16386707|cincinnati, ohio|25686728|London and Somerset|1|2
+16386707|cincinnati, ohio|14741281|Deutschland|1|2
+16386707|cincinnati, ohio|52579501|New York|1|2
+16386707|cincinnati, ohio|31461475|World Wide USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|21726490|Somewhere out there ...|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|39828896|Englewood Cliffs, New Jersey |1|2
+16386707|cincinnati, ohio|55953740|UK|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|29759693|Sydney - NSW - Australia|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|32184836|Southwest Florida |1|2
+16386707|cincinnati, ohio|9887902|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|17850012|Southern California|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|79249149|In the garden,pruning bonsai.|1|2
+16386707|cincinnati, ohio|30060629|Scottsdale, AZ USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|81248294|Boston, MA also serving RI|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|18614818|Chicago, Illinois |1|2
+16386707|cincinnati, ohio|9466382|Tucson AZ|1|2
+16386707|cincinnati, ohio|20575862|ye|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|13817822|bodybyzna.com/fastfatblast|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|47286629|Hillsboro, Oregon|1|2
+16386707|cincinnati, ohio|54226025|California|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|28018672|Hartford, Connecticut|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|89075336|The Beaches of the World|1|2
+16386707|cincinnati, ohio|18621686|San Antonio, Texas area|1|2
+16386707|cincinnati, ohio|63012757|Texas|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|20724218|Edinburgh, Scotland|1|2
+16386707|cincinnati, ohio|26155798|St. Louis|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|57743707|London|1|2
+16386707|cincinnati, ohio|82847820|Illinois|1|2
+16386707|cincinnati, ohio|75985568|Alabama|1|2
+16386707|cincinnati, ohio|61565276|Error|1|2
+16386707|cincinnati, ohio|16048575|Alaska|1|2
+16386707|cincinnati, ohio|18754561|Samadhi, Nirvana|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|26863621|Florida|1|2
+16386707|cincinnati, ohio|51649597|Australia|1|2
+16386707|cincinnati, ohio|53935110|USA|1|2
+16386707|cincinnati, ohio|215883046|Whitby, ON|1|2
+16386707|cincinnati, ohio|15774048|New York NY (Forest Hills) USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|436829876|Indianapolis|1|2
+16386707|cincinnati, ohio|750007742|Error|1|2
+16386707|cincinnati, ohio|14311992|Colorado|1|2
+16386707|cincinnati, ohio|47396514|Error|1|2
+16386707|cincinnati, ohio|30244121|Error|1|2
+16386707|cincinnati, ohio|75645487|Asheville, NC|1|2
+16386707|cincinnati, ohio|18022038|Error|1|2
+16386707|cincinnati, ohio|18027123|Tacoma, WA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|79862110|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|14150039|Denver, CO|1|2
+16386707|cincinnati, ohio|60778617|USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|86000556|Error|1|2
+16386707|cincinnati, ohio|64026587|Eco Potential Consciousness|1|2
+16386707|cincinnati, ohio|36832842|Houston, Texas|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|288886491|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|34582589|Sydney|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|549465128|Error|1|2
+16386707|cincinnati, ohio|51829099|Lexington, NC|1|2
+16386707|cincinnati, ohio|15006018|Toronto, Ontario|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|77565379|Los Angeles, Califorina|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|38787247|United States|1|2
+16386707|cincinnati, ohio|556069377|Error|1|2
+16386707|cincinnati, ohio|20327578|Des Moines, Iowa|1|2
+16386707|cincinnati, ohio|143933546|Error|1|2
+16386707|cincinnati, ohio|32336536|Perris, CA|1|2
+16386707|cincinnati, ohio|16794731|Austin, TX|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|27189234|Canada|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|80015188|Alberta|1|2
+16386707|cincinnati, ohio|30504820|New Hampshire|1|2
+16386707|cincinnati, ohio|24733117|San Jose, CA|1|2
+16386707|cincinnati, ohio|21105673|Milpitas,CA|1|2
+16386707|cincinnati, ohio|34882518|WorldWide|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|47509168|Miami|1|2
+16386707|cincinnati, ohio|36902944|NC USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|88156237|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|156546900|Error|1|2
+16386707|cincinnati, ohio|18460854|Kansas City, MO|1|2
+16386707|cincinnati, ohio|90008458|Error|1|2
+16386707|cincinnati, ohio|87158054|Error|1|2
+16386707|cincinnati, ohio|21245532|IN MY HEAD.... |1|2
+16386707|cincinnati, ohio|53850307|Canberra|1|2
+16386707|cincinnati, ohio|2614982909|710@hotmail.com|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|1451834906|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|67922555|world wide|1|2
+16386707|cincinnati, ohio|26297064|Arkansas|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|15935927|Seattle, WA|1|2
+16386707|cincinnati, ohio|26893522|Worcester MA|1|2
+16386707|cincinnati, ohio|27835751|Gosford Australia|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|81289014|Greensboro,North Carolina USA|1|2
+16386707|cincinnati, ohio|27625330|Atlanta, GA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|71146543|USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|31895345|San Francisco|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|3020963122|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|50131301|Error|1|2
+16386707|cincinnati, ohio|42338316|UK|1|2
+16386707|cincinnati, ohio|42138133|Citrus Heights CA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|77753|Baltimore|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|4992311|London, United Kingdom|1|2
+16386707|cincinnati, ohio|455059002|Error|1|2
+16386707|cincinnati, ohio|357153415|Error|1|2
+16386707|cincinnati, ohio|72463871|Midwest|1|2
+16386707|cincinnati, ohio|35741459|Pembrokeshire|1|2
+16386707|cincinnati, ohio|31641255|Global|1|2
+16386707|cincinnati, ohio|61638832|Location Same as You My Friend|1|2
+16386707|cincinnati, ohio|26539097|Chatham, NJ|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|84249759|Washington State|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|22206160|wisconsin|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|182487524|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|29360883|Santa Cruz Jamaica|1|2
+16386707|cincinnati, ohio|24707013|US|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|38812331|Cloud Nine|1|2
+16386707|cincinnati, ohio|564256886|Error|1|2
+16386707|cincinnati, ohio|17410134|San Diego|1|2
+16386707|cincinnati, ohio|25030519|All over the Internet|1|2
+16386707|cincinnati, ohio|2159830975|Error|1|2
+16386707|cincinnati, ohio|45507879|Boston to L.A.|1|2
+16386707|cincinnati, ohio|19869949|Hong Kong|1|2
+16386707|cincinnati, ohio|42789789|Boulder, Colorado, USA|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|923295210|La Pampa - Argentina |1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|19794839|Colorado|1|2
+16386707|cincinnati, ohio|36864744|los angeles, ca|1|2
+16386707|cincinnati, ohio|67837366|Bangladesh|1|2
+16386707|cincinnati, ohio|20073166|High Wycombe|1|2
+16386707|cincinnati, ohio|12969032|Ontario, Canada|1|2
+16386707|cincinnati, ohio|17461226|Error|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+16386707|cincinnati, ohio|7528292|Error|1|2
+16386707|cincinnati, ohio|20114947|Southwest Florida|1|2
+16386707|cincinnati, ohio|20005324|Sunny Queensland Australia|1|2
+16386707|cincinnati, ohio|75103052|Error|1|2
+41044217|cincinnati, oh|1443129835|Colombo, Sri Lanka|3|2
+41044217|cincinnati, oh|14499633|Ohio|2|2
+41044217|cincinnati, oh|0|Error|2|2
+41044217|cincinnati, oh|15935646|queens, nyc|2|2
+41044217|cincinnati, oh|0|Error|2|2
+41044217|cincinnati, oh|19090900|Nashville|2|2
+41044217|cincinnati, oh|34386827|Cincinnati, Ohio|1|2
+41044217|cincinnati, oh|15170382|iPhone: 38.213535,-85.674217|1|2
+41044217|cincinnati, oh|9130182|chicago|1|2
+41044217|cincinnati, oh|20802230|iPhone: 34.097908,-118.329483|1|2
+41044217|cincinnati, oh|12970532|Austin, TX|1|2
+41044217|cincinnati, oh|14634720|New York, Everywhere|1|2
+41044217|cincinnati, oh|809493|Ole' Kentuck|1|2
+41044217|cincinnati, oh|14740506|Error|1|2
+41044217|cincinnati, oh|14385950|San Francisco|1|2
+41044217|cincinnati, oh|15535269|Cincinnati, Ohio, USA|1|2
+41044217|cincinnati, oh|15738252|Nashville, TN|1|2
+41044217|cincinnati, oh|25097792|Boston, MA|1|2
+41044217|cincinnati, oh|21695933|Cincinnati, OH|1|2
+42729562|cincinnati, oh|84415727|Brooklyn|8|2
+42729562|cincinnati, oh|75859375|Cincinnati|7|2
+42729562|cincinnati, oh|0|Error|1|2
+42729562|cincinnati, oh|25211499|Cincinnati - Over-the-Rhine|1|2
+42729562|cincinnati, oh|28169089|X-Files not X-Games|1|2
+42729562|cincinnati, oh|45086822|Chicago, IL|1|2
+42729562|cincinnati, oh|24226291|Cincinnati, Oh|1|2
+35019726|cincinnati, ohio|41320715|Error|3|2
+35019726|cincinnati, ohio|42944678|Error|3|2
+35019726|cincinnati, ohio|22107957|The World|2|2
+35019726|cincinnati, ohio|0|Error|1|2
+35019726|cincinnati, ohio|14184615|Cincinnati, OH | McLean, VA |1|2
+35019726|cincinnati, ohio|0|Error|1|2
+35019726|cincinnati, ohio|35158590|L.A|1|2
+35019726|cincinnati, ohio|86812981|Error|1|2
+35019726|cincinnati, ohio|36528126|Hollywood|1|2
+21388593|cincinnati, oh|25415558|cincinnati|9|2
+21388593|cincinnati, oh|39777551|Dimples World|5|2
+21388593|cincinnati, oh|0|Error|2|2
+21388593|cincinnati, oh|37357316|Philly |2|2
+21388593|cincinnati, oh|0|Error|2|2
+21388593|cincinnati, oh|28020730|Somebody's Liquor Store|1|2
+21388593|cincinnati, oh|2927342626|Error|1|2
+21388593|cincinnati, oh|16870682|A place to Love & Be Loved.|1|2
+21388593|cincinnati, oh|31360279|Order my single Marry Me|1|2
+68837919|cincinnati, ohio|0|Error|10|2
+68837919|cincinnati, ohio|0|Error|6|2
+68837919|cincinnati, ohio|0|Error|2|2
+68837919|cincinnati, ohio|22752559|Error|1|2
+68837919|cincinnati, ohio|39831947|Denver, CO|1|2
+68837919|cincinnati, ohio|0|Error|1|2
+68837919|cincinnati, ohio|0|Error|1|2
+68837919|cincinnati, ohio|0|Error|1|2
+68837919|cincinnati, ohio|0|Error|1|2
+68837919|cincinnati, ohio|0|Error|1|2
+68837919|cincinnati, ohio|0|Error|1|2
+68837919|cincinnati, ohio|21422384|Cincinnati, Ohio|1|2
+68837919|cincinnati, ohio|0|Error|1|2
+68837919|cincinnati, ohio|40944780|Bowmanville, ontario, Canada|1|2
+22046507|cincinnati, oh|28041769|Dallas, TX|3|2
+22046507|cincinnati, oh|31154302|Error|3|2
+22046507|cincinnati, oh|16197726|Los Angeles, CA|2|2
+22046507|cincinnati, oh|21270268|Sometimes, TX|1|2
+22046507|cincinnati, oh|518082339|Error|1|2
+22046507|cincinnati, oh|19630951|Dallas, TX|1|2
+22046507|cincinnati, oh|0|Error|1|2
+22046507|cincinnati, oh|1066181724|Error|1|2
+22046507|cincinnati, oh|15789769|Boston, MA|1|2
+22046507|cincinnati, oh|0|Error|1|2
+22046507|cincinnati, oh|0|Error|1|2
+22046507|cincinnati, oh|0|Error|1|2
+22046507|cincinnati, oh|80683094|Error|1|2
+22046507|cincinnati, oh|0|Error|1|2
+22046507|cincinnati, oh|747554502|Error|1|2
+22046507|cincinnati, oh|0|Error|1|2
+22046507|cincinnati, oh|72477689|Dallas, TX|1|2
+22046507|cincinnati, oh|36537977|Banff, Alberta|1|2
+22046507|cincinnati, oh|256236616|I know you care|1|2
+22046507|cincinnati, oh|0|Error|1|2
+22046507|cincinnati, oh|0|Error|1|2
+22046507|cincinnati, oh|17453355|Error|1|2
+22046507|cincinnati, oh|0|Error|1|2
+22046507|cincinnati, oh|27338153|Error|1|2
+22046507|cincinnati, oh|25481322|Nashville, TN|1|2
+22046507|cincinnati, oh|0|Error|1|2
+22046507|cincinnati, oh|22532256|Error|1|2
+22046507|cincinnati, oh|17505978|omaha, ne|1|2
+22046507|cincinnati, oh|0|Error|1|2
+80767099|cincinnati, ohio|0|Error|4|2
+80767099|cincinnati, ohio|0|Error|4|2
+80767099|cincinnati, ohio|33297878|Cincinnati |3|2
+80767099|cincinnati, ohio|479840416|Error|2|2
+81160787|cincinnati, oh|0|Error|4|2
+81160787|cincinnati, oh|0|Error|3|2
+81160787|cincinnati, oh|27774100|Everybody's Big Brother |2|2
+81160787|cincinnati, oh|17482350|@9Keme for help.|2|2
+81160787|cincinnati, oh|379064962|Error|1|2
+81160787|cincinnati, oh|279665278|Error|1|2
+81160787|cincinnati, oh|0|Error|1|2
+81160787|cincinnati, oh|18910864|Cincinnati|1|2
+81160787|cincinnati, oh|46581934|cincinnati|1|2
+81160787|cincinnati, oh|98172859|Error|1|2
+81160787|cincinnati, oh|0|Error|1|2
+81160787|cincinnati, oh|3110996285|Error|1|2
+81160787|cincinnati, oh|0|Error|1|2
+81160787|cincinnati, oh|0|Error|1|2
+19950470|cincinnati, oh|21678658|Cincinnati, Ohio, and Kentucky|3|2
+19950470|cincinnati, oh|26721151|long beach, ca|2|2
+19950470|cincinnati, oh|18020081|Westerville, Ohio|1|2
+19950470|cincinnati, oh|6017542|Global|1|2
+19950470|cincinnati, oh|22176791|Cincinnati|1|2
+19950470|cincinnati, oh|14107079|Error|1|2
+19950470|cincinnati, oh|18326235|Cincinnati|1|2
+19950470|cincinnati, oh|0|Error|1|2
+19950470|cincinnati, oh|78183672|Sports Events Worldwide|1|2
+19950470|cincinnati, oh|0|Error|1|2
+19950470|cincinnati, oh|1252912957|Error|1|2
+19950470|cincinnati, oh|52750457|Ohio|1|2
+19950470|cincinnati, oh|0|Error|1|2
+19950470|cincinnati, oh|16567567|Cincinnati, OH, USA|1|2
+19950470|cincinnati, oh|0|Error|1|2
+19950470|cincinnati, oh|0|Error|1|2
+19950470|cincinnati, oh|14120099|Cincinnati, OH|1|2
+19950547|cincinnati, ohio|71876190|Los Angeles|5|2
+19950547|cincinnati, ohio|17068146|Cincinnati, Ohio|3|2
+19950547|cincinnati, ohio|602341072|America!!!|3|2
+19950547|cincinnati, ohio|75641903|Los Angeles & London|3|2
+19950547|cincinnati, ohio|17371873|Los Angeles, CA|3|2
+19950547|cincinnati, ohio|19447361|Cincinnati, OH|1|2
+19950547|cincinnati, ohio|90420314|Manhattanland|1|2
+19950547|cincinnati, ohio|3840|94123|1|2
+19950547|cincinnati, ohio|22461427|Los Angeles|1|2
+19950547|cincinnati, ohio|18583722|Error|1|2
+19950547|cincinnati, ohio|14790966|Nashville, Tennessee|1|2
+19950547|cincinnati, ohio|62290422|Red Hour Films - Los Angeles|1|2
+19950547|cincinnati, ohio|0|Error|1|2
+19950547|cincinnati, ohio|21422517|Cincinnati, OH|1|2
+19950547|cincinnati, ohio|21131816|Los Angeles |1|2
+19950547|cincinnati, ohio|19242281|Nashville, TN|1|2
+28470558|cincinnati, oh|33644440|Dayton, Ohio|3|2
+28470558|cincinnati, oh|28470558|Cincinnati, OH|2|2
+28470558|cincinnati, oh|17779657|Jersey Strong |2|2
+28470558|cincinnati, oh|40957993|New Albany, Indiana USA|2|2
+28470558|cincinnati, oh|42482009|Helsinki, Finland|2|2
+28470558|cincinnati, oh|17274860|Ask Carmen San Diego|2|2
+28470558|cincinnati, oh|71374765|Phoenix |1|2
+28470558|cincinnati, oh|22162585|Barcelona|1|2
+28470558|cincinnati, oh|64769168|Tampa, FL|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|2162266735|Error|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|20727866|Oregon|1|2
+28470558|cincinnati, oh|17649621|Minneapolis, MN|1|2
+28470558|cincinnati, oh|14193619|Toronto, ON Canada|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|21677971|London|1|2
+28470558|cincinnati, oh|23026604|Canada|1|2
+28470558|cincinnati, oh|3532201|So. California|1|2
+28470558|cincinnati, oh|12327802|Error|1|2
+28470558|cincinnati, oh|1335147296|Error|1|2
+28470558|cincinnati, oh|16185379|Error|1|2
+28470558|cincinnati, oh|3004245584|Krasnodar
+, Russia|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|21726923|Wisconsin, USA|1|2
+28470558|cincinnati, oh|24100116|Newport News VA|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|18049840|Sarasota, FL |1|2
+28470558|cincinnati, oh|18908676|Williamstown, New Jersey|1|2
+28470558|cincinnati, oh|751972698|Error|1|2
+28470558|cincinnati, oh|14420238|Alaska and Arizona|1|2
+28470558|cincinnati, oh|72348125|Carmel, California|1|2
+28470558|cincinnati, oh|67837366|Bangladesh|1|2
+28470558|cincinnati, oh|16953238|Longwood, Fl|1|2
+28470558|cincinnati, oh|25294150|Louisiana|1|2
+28470558|cincinnati, oh|252723704|Error|1|2
+28470558|cincinnati, oh|15726358|Pittsburgh, PA USA|1|2
+28470558|cincinnati, oh|33580209|Chicago, IL|1|2
+28470558|cincinnati, oh|43545225|Philadelphia Suburb. |1|2
+28470558|cincinnati, oh|2668841934|Error|1|2
+28470558|cincinnati, oh|77411832|Phoenix, AZ|1|2
+28470558|cincinnati, oh|22624728|Alberta|1|2
+28470558|cincinnati, oh|42790519|Sunny Los Angeles, California!|1|2
+28470558|cincinnati, oh|29920308|Fullerton, CA|1|2
+28470558|cincinnati, oh|18715819|Perth, Western Australia|1|2
+28470558|cincinnati, oh|22836452|New Smyrna Beach, FL|1|2
+28470558|cincinnati, oh|60198816|Long Island, NY|1|2
+28470558|cincinnati, oh|17814445|Alabama|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|359412439|Error|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|14332098|Texas, USA|1|2
+28470558|cincinnati, oh|40022692|Lincoln, NE | Phoenix, AZ|1|2
+28470558|cincinnati, oh|75727395|Puerto Rico|1|2
+28470558|cincinnati, oh|23814326|Waterloo, Il|1|2
+28470558|cincinnati, oh|52227203|TX|1|2
+28470558|cincinnati, oh|369190645|Toronto, Ontario|1|2
+28470558|cincinnati, oh|62996684|Maine, United States|1|2
+31485999|cincinnati, ohio|31485999|Cincinnati, Ohio|17|2
+31485999|cincinnati, ohio|3388013703|Error|2|2
+31485999|cincinnati, ohio|0|Error|1|2
+31485999|cincinnati, ohio|61583675|Error|1|2
+31485999|cincinnati, ohio|93014097|Error|1|2
+31485999|cincinnati, ohio|10827952|Cincinnati|1|2
+31485999|cincinnati, ohio|409343025|Dallas, TX|1|2
+31485999|cincinnati, ohio|0|Error|1|2
+31485999|cincinnati, ohio|16956094|Northern Kentucky|1|2
+31485999|cincinnati, ohio|18057985|Error|1|2
+31485999|cincinnati, ohio|0|Error|1|2
+31485999|cincinnati, ohio|17502813|cincinnati|1|2
+31485999|cincinnati, ohio|0|Error|1|2
+35812968|cincinnati, ohio|3344690644|Error|3|2
+35812968|cincinnati, ohio|872052828|Error|2|2
+35812968|cincinnati, ohio|158109258|Error|2|2
+35812968|cincinnati, ohio|277725822|Error|1|2
+35812968|cincinnati, ohio|0|Error|1|2
+35812968|cincinnati, ohio|425536804|Error|1|2
+35812968|cincinnati, ohio|20458886|San Francisco, CA|1|2
+35812968|cincinnati, ohio|0|Error|1|2
+35812968|cincinnati, ohio|6328182|Austin, TX|1|2
+35812968|cincinnati, ohio|0|Error|1|2
+18642753|cincinnati, ohio|19193188|Reno, NV|3|2
+18642753|cincinnati, ohio|30684510|Bowling Green, KY|2|2
+18642753|cincinnati, ohio|20527641|Error|2|2
+18642753|cincinnati, ohio|1286439854|Error|2|2
+18642753|cincinnati, ohio|15492983|Chicago, IL USA|2|2
+18642753|cincinnati, ohio|61491997|Lancaster, PA|1|2
+18642753|cincinnati, ohio|14763087|Cincinnati|1|2
+18642753|cincinnati, ohio|7746052|Cincinnati|1|2
+18642753|cincinnati, ohio|124535489|Error|1|2
+18642753|cincinnati, ohio|14398481|Park Hills, KY|1|2
+18642753|cincinnati, ohio|2158576063|Error|1|2
+18642753|cincinnati, ohio|17762060|Long Island, New York|1|2
+18642753|cincinnati, ohio|14095883|Ohio and Kentucky|1|2
+18642753|cincinnati, ohio|0|Error|1|2
+18642753|cincinnati, ohio|14065211|Mesa, AZ|1|2
+18642753|cincinnati, ohio|17628104|Connecticut|1|2
+18642753|cincinnati, ohio|19664316|Southern Utah|1|2
+18642753|cincinnati, ohio|18642753|Cincinnati, Ohio|1|2
+18642753|cincinnati, ohio|279119231|Error|1|2
+18642753|cincinnati, ohio|16890148|Pelham, AL, USA|1|2
+18642753|cincinnati, ohio|0|Error|1|2
+18642753|cincinnati, ohio|41020872|Lakeland, FL|1|2
+18642753|cincinnati, ohio|14107079|Error|1|2
+18642753|cincinnati, ohio|807095|New York City|1|2
+18642753|cincinnati, ohio|0|Error|1|2
+18642753|cincinnati, ohio|20784617|Eugene, OR|1|2
+18642753|cincinnati, ohio|0|Error|1|2
+18642753|cincinnati, ohio|3096351|Cincinnati|1|2
+18642753|cincinnati, ohio|21827584|Winston-Salem, NC|1|2
+18642753|cincinnati, ohio|1205807533|Error|1|2
+18642753|cincinnati, ohio|4629|Cincinnati, OH|1|2
+18642753|cincinnati, ohio|52209333|New England|1|2
+18642753|cincinnati, ohio|67453973|everywhere|1|2
+18642753|cincinnati, ohio|2540851|Cincinnati, Ohio|1|2
+18642753|cincinnati, ohio|49025026|Terra Firma|1|2
+18642753|cincinnati, ohio|14933806|Cincinnati, Ohio|1|2
+18642753|cincinnati, ohio|14598440|Oxford|1|2
+18642753|cincinnati, ohio|28406335|Ohio, Kentucky and Indiana|1|2
+18642753|cincinnati, ohio|14293310|Error|1|2
+5772342|cincinnati, oh|0|Error|3|2
+5772342|cincinnati, oh|808539|London, England|2|2
+5772342|cincinnati, oh|15818391|Taipei, Taiwan|2|2
+5772342|cincinnati, oh|6476742|Oakland, CA|2|2
+5772342|cincinnati, oh|2800521|San Francisco|1|2
+5772342|cincinnati, oh|0|Error|1|2
+5772342|cincinnati, oh|18964401|Seattle, WA|1|2
+5772342|cincinnati, oh|10329052|Tampa, Florida|1|2
+5772342|cincinnati, oh|16941646|West Los Angeles, CA|1|2
+5772342|cincinnati, oh|5418152|Covington, KY|1|2
+5772342|cincinnati, oh|9715522|san francisco|1|2
+5772342|cincinnati, oh|14187770|Sunnyvale, CA|1|2
+5772342|cincinnati, oh|15959560|Nashville, Tennessee, USA|1|2
+5772342|cincinnati, oh|14343185|Bay Area, CA|1|2
+5772342|cincinnati, oh|12946892|Paris|1|2
+5772342|cincinnati, oh|18134710|Canada|1|2
+5772342|cincinnati, oh|198741046|Austin TX|1|2
+5772342|cincinnati, oh|15480686|Tempe, AZ|1|2
+5772342|cincinnati, oh|18791763|Washington, D.C.|1|2
+5772342|cincinnati, oh|14575846|Error|1|2
+5772342|cincinnati, oh|14184770|California, USA|1|2
+5772342|cincinnati, oh|14334870|San Francisco, CA 94117|1|2
+5772342|cincinnati, oh|10637242|New York|1|2
+5772342|cincinnati, oh|14643996|San Jose, CA|1|2
+5772342|cincinnati, oh|0|Error|1|2
+20348426|cincinnati, oh|54963675|Brookville, IN |1|2
+20348426|cincinnati, oh|235553619|Error|1|2
+20348426|cincinnati, oh|20091012|Error|1|2
+20348426|cincinnati, oh|15789240|Woodland Park, CO|1|2
+20348426|cincinnati, oh|67050773|Error|1|2
+20348426|cincinnati, oh|71089275|Cincinnati, OH|1|2
+20348426|cincinnati, oh|20091002|Error|1|2
+20348426|cincinnati, oh|20091014|Error|1|2
+20348426|cincinnati, oh|20090928|Error|1|2
+20348426|cincinnati, oh|23992425|Liberty Township, Ohio|1|2
+20348426|cincinnati, oh|20091005|Benelux|1|2
+20348426|cincinnati, oh|20090921|Error|1|2
+20348426|cincinnati, oh|39370250|Texas|1|2
+20348426|cincinnati, oh|20090924|England|1|2
+20348426|cincinnati, oh|20090925|Error|1|2
+20348426|cincinnati, oh|14768661|San Diego, CA|1|2
+18775967|cincinnati, oh|4209491|Cincinnati|4|2
+18775967|cincinnati, oh|15020987|Cincinnati|4|2
+18775967|cincinnati, oh|0|Error|3|2
+18775967|cincinnati, oh|0|Error|3|2
+18775967|cincinnati, oh|41547266|Wisconsin|2|2
+18775967|cincinnati, oh|3154324998|Error|1|2
+18775967|cincinnati, oh|0|Error|1|2
+18775967|cincinnati, oh|50054336|Maryland|1|2
+18775967|cincinnati, oh|0|Error|1|2
+18775967|cincinnati, oh|14955908|New York|1|2
+18775967|cincinnati, oh|3108795072|Error|1|2
+18705199|cincinnati, oh|18705199|Cincinnati, OH|2|2
+18705199|cincinnati, oh|66484838|Cincinnati, OH|2|2
+18705199|cincinnati, oh|17416829|Cincinnati, OH|1|2
+14715996|cincinnati, ohio|0|Error|5|2
+14715996|cincinnati, ohio|612714388|Error|4|2
+14715996|cincinnati, ohio|15732416|Illinois, USA|3|2
+14715996|cincinnati, ohio|17570528|US|2|2
+14715996|cincinnati, ohio|3023883273|Error|2|2
+14715996|cincinnati, ohio|14310882|Ohio|2|2
+14715996|cincinnati, ohio|24770347|St. Louis, MO|1|2
+14715996|cincinnati, ohio|50835878|Los Angeles via Cleveland|1|2
+14715996|cincinnati, ohio|0|Error|1|2
+14715996|cincinnati, ohio|16164520|Austin|1|2
+14715996|cincinnati, ohio|32821368|Montana|1|2
+14715996|cincinnati, ohio|24300583|Hollywood, CA|1|2
+14715996|cincinnati, ohio|0|Error|1|2
+14715996|cincinnati, ohio|29751688|San Diego|1|2
+14715996|cincinnati, ohio|17329654|Charlottetown PEI|1|2
+14715996|cincinnati, ohio|14857837|Norwich|1|2
+24285856|cincinnati, oh|23602286|22 nascar tracks|2|2
+24285856|cincinnati, oh|3434560913|Error|1|2
+24416979|cincinnati, oh|0|Error|3|2
+24416979|cincinnati, oh|23786990|Cincinnati|2|2
+24416979|cincinnati, oh|31206523|St Louis, MO|2|2
+24416979|cincinnati, oh|0|Error|2|2
+24416979|cincinnati, oh|0|Error|2|2
+24416979|cincinnati, oh|0|Error|2|2
+24416979|cincinnati, oh|0|Error|1|2
+24416979|cincinnati, oh|29227280|Portland, OR|1|2
+24416979|cincinnati, oh|0|Error|1|2
+24416979|cincinnati, oh|0|Error|1|2
+24416979|cincinnati, oh|0|Error|1|2
+24416979|cincinnati, oh|0|Error|1|2
+24416979|cincinnati, oh|0|Error|1|2
+24416979|cincinnati, oh|0|Error|1|2
+24416979|cincinnati, oh|38285238|Brooklyn |1|2
+24416979|cincinnati, oh|0|Error|1|2
+77432209|cincinnati, ohio|28966085|Miami Pimpcess|1|2
+36869054|cincinnati, oh|0|Error|1|2
+36869054|cincinnati, oh|2496163364|Error|1|2
+36869054|cincinnati, oh|588063663|Error|1|2
+36869054|cincinnati, oh|558838402|Error|1|2
+36869054|cincinnati, oh|0|Error|1|2
+20485604|cincinnati, ohio|14520936|Error|2|2
+20485604|cincinnati, ohio|70472883|Cincinnati, OH|2|2
+20485604|cincinnati, ohio|16971505|Cincinnati, United States|1|2
+20485604|cincinnati, ohio|23794874|iPhone: 40.048634,-82.916611|1|2
+20485604|cincinnati, ohio|20477788|Cincinnati,Ohio|1|2
+76977764|cincinnati, oh|40088181|Small Town, USA|2|2
+76977764|cincinnati, oh|0|Error|2|2
+76977764|cincinnati, oh|54754906|Oklahoma|2|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|40488492|Fort Mitchell, KY|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|27683639|Wood-Ridge, NJ|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|14776716|Cincinnati|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|62130883|Mid-Michigan|1|2
+76977764|cincinnati, oh|64948349|Be Careful, TX|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|18117321|Richmond, Virginia|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|23553485|Lakeland, Florida|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|0|Error|1|2
+76977764|cincinnati, oh|15786140|Berlin - Germany|1|2
+76977764|cincinnati, oh|30315392|Jamaica|1|2
+14718836|cincinnati, ohio|34621426|Cincinnati, OH|5|2
+14718836|cincinnati, ohio|38711055|Cincinnati, OH|4|2
+14718836|cincinnati, ohio|16301806|Cincinnati Ohio|3|2
+14718836|cincinnati, ohio|27050026|1637 Vine, Cincinnati, Ohio|3|2
+14718836|cincinnati, ohio|0|Error|2|2
+14718836|cincinnati, ohio|27696993|Brooklyn, NY|2|2
+14718836|cincinnati, ohio|14120099|Cincinnati, OH|2|2
+14718836|cincinnati, ohio|16051035|Cincinnati, Ohio|1|2
+14718836|cincinnati, ohio|35056812|Cincinnati, OH|1|2
+14718836|cincinnati, ohio|0|Error|1|2
+14718836|cincinnati, ohio|0|Error|1|2
+14718836|cincinnati, ohio|0|Error|1|2
+14718836|cincinnati, ohio|17136315|Error|1|2
+14718836|cincinnati, ohio|19307505|Error|1|2
+14718836|cincinnati, ohio|19549682|Lake Placid, NY|1|2
+14718836|cincinnati, ohio|17596014|Error|1|2
+14718836|cincinnati, ohio|64256634|Cincinnati, OH|1|2
+14718836|cincinnati, ohio|807095|New York City|1|2
+14718836|cincinnati, ohio|8387592|Seattle, WA|1|2
+14718836|cincinnati, ohio|3806440342|Error|1|2
+14718836|cincinnati, ohio|3096351|Cincinnati|1|2
+14718836|cincinnati, ohio|0|Error|1|2
+14718836|cincinnati, ohio|0|Error|1|2
+14718836|cincinnati, ohio|17365270|Cleveland|1|2
+14718836|cincinnati, ohio|972651|Error|1|2
+14718836|cincinnati, ohio|18654285|Florida|1|2
+72838869|cincinnati, oh|14183551|Windermere, Cumbria, United Ki|3|2
+72838869|cincinnati, oh|20536157|Mountain View, CA|1|2
+72838869|cincinnati, oh|21423176|Error|1|2
+72838869|cincinnati, oh|14874480|Redmond - But Everywhere |1|2
+72838869|cincinnati, oh|0|Error|1|2
+72838869|cincinnati, oh|1563641|noosphere|1|2
+72838869|cincinnati, oh|0|Error|1|2
+72838869|cincinnati, oh|21879024|San Diego & world at large|1|2
+72838869|cincinnati, oh|205339797|Error|1|2
+46837947|cincinnati, oh|23375688|Los Angeles |1|2
+46837947|cincinnati, oh|14139653|Error|1|2
+46837947|cincinnati, oh|16264006|jet lag city.|1|2
+46837947|cincinnati, oh|0|Error|1|2
+17088183|cincinnati, oh|17640355|Suwanee, Georgia|4|2
+17088183|cincinnati, oh|8453452|Silicon Valley, California|2|2
+17088183|cincinnati, oh|17583639|Silicon Valley|2|2
+17088183|cincinnati, oh|22961520|Cincinnati, OH|2|2
+17088183|cincinnati, oh|50741766|Error|1|2
+17088183|cincinnati, oh|202543004|Error|1|2
+17088183|cincinnati, oh|6193182|San Diego, CA|1|2
+17088183|cincinnati, oh|15297709|New York, NY|1|2
+17088183|cincinnati, oh|27657236|Cincinnati|1|2
+17088183|cincinnati, oh|82894424|Fort Thomas, KY|1|2
+17088183|cincinnati, oh|69052637|Cincinnati, Ohio|1|2
+17088183|cincinnati, oh|9478992|Cincinnati, Ohio USA|1|2
+17088183|cincinnati, oh|84324037|Loveland, OH|1|2
+17088183|cincinnati, oh|82704216|Cincinnati, OH|1|2
+16545210|cincinnati, oh|75067031|North America|10|2
+16545210|cincinnati, oh|14390225|New York, NY|8|2
+16545210|cincinnati, oh|17314478|New York City|5|2
+16545210|cincinnati, oh|14189454|New York, NY |3|2
+16545210|cincinnati, oh|28998811|Error|3|2
+16545210|cincinnati, oh|32120285|Error|2|2
+16545210|cincinnati, oh|40353407|NYC|2|2
+16545210|cincinnati, oh|25972757|USA|2|2
+16545210|cincinnati, oh|0|Error|1|2
+16545210|cincinnati, oh|0|Error|1|2
+16545210|cincinnati, oh|0|Error|1|2
+16545210|cincinnati, oh|0|Error|1|2
+16545210|cincinnati, oh|0|Error|1|2
+16545210|cincinnati, oh|17006157|New York City|1|2
+16545210|cincinnati, oh|0|Error|1|2
+16545210|cincinnati, oh|16129920|New York, NY USA|1|2
+16545210|cincinnati, oh|14803010|Columbus, Ohio Headquarters|1|2
+16545210|cincinnati, oh|0|Error|1|2
+16545210|cincinnati, oh|326859892|Error|1|2
+16545210|cincinnati, oh|0|Error|1|2
+16545210|cincinnati, oh|19697415|Los Angeles|1|2
+16545210|cincinnati, oh|2506599319|Error|1|2
+16545210|cincinnati, oh|0|Error|1|2
+16545210|cincinnati, oh|2608911|Oklahoma City|1|2
+16545210|cincinnati, oh|0|Error|1|2
+16545210|cincinnati, oh|24304056|Belmont, NC, USA|1|2
+10319312|cincinnati, ohio|16372856|Lexington, KY|7|2
+10319312|cincinnati, ohio|0|Error|2|2
+10319312|cincinnati, ohio|22100292|Once upon a time|2|2
+10319312|cincinnati, ohio|26738638|Error|1|2
+10319312|cincinnati, ohio|21411321|Cincinnati, OH|1|2
+10319312|cincinnati, ohio|0|Error|1|2
+10319312|cincinnati, ohio|1692401|washington, dc|1|2
+10319312|cincinnati, ohio|0|Error|1|2
+10319312|cincinnati, ohio|77123|Scotland via Oz|1|2
+10319312|cincinnati, ohio|14483265|Florida|1|2
+54315816|cincinnati, ohio|0|Error|6|2
+54315816|cincinnati, ohio|0|Error|3|2
+54315816|cincinnati, ohio|7144882|NORTHWEST |3|2
+54315816|cincinnati, ohio|11135392|Error|2|2
+54315816|cincinnati, ohio|20118774|Asia |2|2
+54315816|cincinnati, ohio|0|Error|1|2
+54315816|cincinnati, ohio|150224488|Error|1|2
+54315816|cincinnati, ohio|17111803|Error|1|2
+8966462|cincinnati, oh|13223692|Myrtle Beach, South Carolina|35|2
+8966462|cincinnati, oh|21922050|Loservillee|6|2
+8966462|cincinnati, oh|0|Error|4|2
+8966462|cincinnati, oh|459930216|Error|4|2
+8966462|cincinnati, oh|274018852|is now @itsjuztin|4|2
+8966462|cincinnati, oh|0|Error|3|2
+8966462|cincinnati, oh|0|Error|3|2
+8966462|cincinnati, oh|29183380|Nowhere USA|2|2
+8966462|cincinnati, oh|36230257|Error|2|2
+8966462|cincinnati, oh|21033686|C A L I F O R N I A |2|2
+8966462|cincinnati, oh|0|Error|2|2
+8966462|cincinnati, oh|15386775|Error|1|2
+8966462|cincinnati, oh|14203936|Southern California|1|2
+8966462|cincinnati, oh|10781842|Error|1|2
+8966462|cincinnati, oh|0|Error|1|2
+8966462|cincinnati, oh|468903560|United States|1|2
+8966462|cincinnati, oh|0|Error|1|2
+8966462|cincinnati, oh|59102748|UK, London|1|2
+8966462|cincinnati, oh|0|Error|1|2
+8966462|cincinnati, oh|0|Error|1|2
+8966462|cincinnati, oh|755068|San Francisco, CA|1|2
+8966462|cincinnati, oh|0|Error|1|2
+8966462|cincinnati, oh|0|Error|1|2
+41471143|cincinnati, ohio|0|Error|2|2
+41471143|cincinnati, ohio|33765628|iPhone: 39.320297,-84.423241|1|2
+14732333|cincinnati, oh|17397208|Charlotte, NC |5|2
+14732333|cincinnati, oh|20633990|Manchester UK|4|2
+14732333|cincinnati, oh|49678209|Hazard, KY|3|2
+14732333|cincinnati, oh|264036590|Error|2|2
+14732333|cincinnati, oh|0|Error|2|2
+14732333|cincinnati, oh|1897911109|Error|2|2
+14732333|cincinnati, oh|0|Error|2|2
+14732333|cincinnati, oh|81950217|Northernmost Hawai'ian island|2|2
+14732333|cincinnati, oh|17295555|Error|1|2
+14732333|cincinnati, oh|19008722|Salt Lake City|1|2
+14732333|cincinnati, oh|15577065|12th flr of the Acme Bldng|1|2
+14732333|cincinnati, oh|24456730|Texas|1|2
+14732333|cincinnati, oh|18920334|Chicago|1|2
+14732333|cincinnati, oh|17983932|Danbury, CT|1|2
+14732333|cincinnati, oh|51597791|LA/Philly/Everywhere|1|2
+14732333|cincinnati, oh|18813897|USA|1|2
+14732333|cincinnati, oh|16727535|Austin/Aspen|1|2
+14732333|cincinnati, oh|31028361|Marina del Rey, CA|1|2
+14732333|cincinnati, oh|17280662|San Diego, CA|1|2
+14732333|cincinnati, oh|46527530|Here Now|1|2
+14732333|cincinnati, oh|50939907|Essendon,Australia|1|2
+14732333|cincinnati, oh|16190045|Santa Cruz Mountains|1|2
+14732333|cincinnati, oh|35053022|Southwest|1|2
+14732333|cincinnati, oh|37373073|Haverhill, MA|1|2
+14732333|cincinnati, oh|26083329|Wellington, New Zealand|1|2
+14732333|cincinnati, oh|14764083|Indianapolis|1|2
+14732333|cincinnati, oh|15845305|Toronto, Canada|1|2
+14732333|cincinnati, oh|41559286|Error|1|2
+14732333|cincinnati, oh|39829338|Dallas, TX|1|2
+14732333|cincinnati, oh|26526578|Southport, NC|1|2
+14732333|cincinnati, oh|17498138|Salt Lake City|1|2
+14732333|cincinnati, oh|22482951|Mount Pleasant, MI|1|2
+14732333|cincinnati, oh|21826213|Columbus, GA|1|2
+14732333|cincinnati, oh|17731751|seattle, wa|1|2
+14732333|cincinnati, oh|37001726|Error|1|2
+14732333|cincinnati, oh|52887275|Ascot|1|2
+14732333|cincinnati, oh|0|Error|1|2
+14732333|cincinnati, oh|3237364403|Los Angeles, CA|1|2
+14732333|cincinnati, oh|2249156522|Error|1|2
+14732333|cincinnati, oh|19996717|Austin, Texas|1|2
+33344623|cincinnati, ohio|29077494|Candi Land  |3|2
+33344623|cincinnati, ohio|100855782|Error|3|2
+33344623|cincinnati, ohio|29565666|CINCY-CHARLOTTE-INDY-LEX|2|2
+33344623|cincinnati, ohio|16050554|Houston, Texas|2|2
+33344623|cincinnati, ohio|27269106|Cincinnati OH|1|2
+33344623|cincinnati, ohio|24230009|Cincinnati, Ohio|1|2
+33344623|cincinnati, ohio|0|Error|1|2
+33344623|cincinnati, ohio|0|Error|1|2
+33344623|cincinnati, ohio|38041601|Los Angeles|1|2
+33344623|cincinnati, ohio|33344623|Cincinnati, Ohio|1|2
+33344623|cincinnati, ohio|279368662|Peru|1|2
+33344623|cincinnati, ohio|35787166|The Pinkprint in stores NOW|1|2
+33344623|cincinnati, ohio|0|Error|1|2
+33344623|cincinnati, ohio|18220175|EVERYWHERE!!!|1|2
+33344623|cincinnati, ohio|148628039|Error|1|2
+33344623|cincinnati, ohio|47807350|Ohio to Bailey Island & back|1|2
+16567567|cincinnati, ohio|14107079|Error|5|2
+16567567|cincinnati, ohio|22639152|Error|2|2
+16567567|cincinnati, ohio|16568227|Los Angeles, California|2|2
+16567567|cincinnati, ohio|19686204|New York City|1|2
+16567567|cincinnati, ohio|16567567|Cincinnati, OH, USA|1|2
+16567567|cincinnati, ohio|0|Error|1|2
+16567567|cincinnati, ohio|27246214|Cincinnati, Ohio (Northside)|1|2
+16567567|cincinnati, ohio|6459152|Seattle, WA|1|2
+16567567|cincinnati, ohio|16790002|Cincinnati, Ohio|1|2
+16567567|cincinnati, ohio|18363094|Los Angeles, CA|1|2
+16567567|cincinnati, ohio|0|Error|1|2
+16567567|cincinnati, ohio|15049979|Error|1|2
+16567567|cincinnati, ohio|0|Error|1|2
+16567567|cincinnati, ohio|0|Error|1|2
+16567567|cincinnati, ohio|11994|No|1|2
+16567567|cincinnati, ohio|318475019|Columbus, Ohio|1|2
+16567567|cincinnati, ohio|29600257|warren county, ohio|1|2
+16567567|cincinnati, ohio|14991920|Los Angeles|1|2
+16567567|cincinnati, ohio|12278492|Washington, DC|1|2
+16567567|cincinnati, ohio|0|Error|1|2
+16567567|cincinnati, ohio|19638751|Cincinnati, Ohio|1|2
+16567567|cincinnati, ohio|0|Error|1|2
+16567567|cincinnati, ohio|50334394|Error|1|2
+16567567|cincinnati, ohio|0|Error|1|2
+16567567|cincinnati, ohio|0|Error|1|2
+16567567|cincinnati, ohio|1746891|Santa Cruz mountains|1|2
+16567567|cincinnati, ohio|843592945|email: editor@arts-beat.co.uk|1|2
+16567567|cincinnati, ohio|0|Error|1|2
+16567567|cincinnati, ohio|5741722|Washington, DC|1|2
+16567567|cincinnati, ohio|11098142|providence, rhode island|1|2
+15191279|cincinnati, oh|2982477790|Novokuznetsk
+, Russia|3|2
+15191279|cincinnati, oh|0|Error|1|2
+15191279|cincinnati, oh|0|Error|1|2
+15191279|cincinnati, oh|17243307|Error|1|2
+15191279|cincinnati, oh|0|Error|1|2
+15191279|cincinnati, oh|0|Error|1|2
+15191279|cincinnati, oh|0|Error|1|2
+15191279|cincinnati, oh|14254997|Error|1|2
+15191279|cincinnati, oh|17891163|Wilmington, NC|1|2
+15191279|cincinnati, oh|587555593|Error|1|2
+15191279|cincinnati, oh|0|Error|1|2
+74371572|cincinnati, ohio|0|Error|13|2
+74371572|cincinnati, ohio|2723918906|Error|7|2
+74371572|cincinnati, ohio|17831966|Perth,Australia|5|2
+74371572|cincinnati, ohio|17094167|Pennsylvania |3|2
+74371572|cincinnati, ohio|17941160|Fort Lauderdale, Florida|2|2
+74371572|cincinnati, ohio|23172966|Las Vegas, NV|2|2
+74371572|cincinnati, ohio|2386080091|Error|1|2
+74371572|cincinnati, ohio|28905164|Alabama|1|2
+74371572|cincinnati, ohio|16595464|So Cal|1|2
+74371572|cincinnati, ohio|18991783|Selangor, MY | Mansoura, EG|1|2
+74371572|cincinnati, ohio|4085971|Renton,Wa.|1|2
+74371572|cincinnati, ohio|85407718|Mumbai, India|1|2
+74371572|cincinnati, ohio|0|Error|1|2
+74371572|cincinnati, ohio|0|Error|1|2
+74371572|cincinnati, ohio|22760049|Paris|1|2
+74371572|cincinnati, ohio|14063492|San Francisco CA|1|2
+74371572|cincinnati, ohio|79231939|Georgia USA|1|2
+74371572|cincinnati, ohio|83751355|Mumbai, India|1|2
+74371572|cincinnati, ohio|3749911|tokyo|1|2
+74371572|cincinnati, ohio|47310970|Mumbai|1|2
+74371572|cincinnati, ohio|0|Error|1|2
+74371572|cincinnati, ohio|14202463|San Diego,  CA|1|2
+74371572|cincinnati, ohio|0|Error|1|2
+74371572|cincinnati, ohio|18603364|Small Business Web|1|2
+74371572|cincinnati, ohio|14380462|Perth, Australia|1|2
+74371572|cincinnati, ohio|0|Error|1|2
+74371572|cincinnati, ohio|260378438|Error|1|2
+74371572|cincinnati, ohio|15885952|Brentwood, CA. USA|1|2
+74371572|cincinnati, ohio|0|Error|1|2
+74371572|cincinnati, ohio|14771012|Japan|1|2
+74371572|cincinnati, ohio|37067390|Boston, MA|1|2
+74371572|cincinnati, ohio|0|Error|1|2
+74371572|cincinnati, ohio|0|Error|1|2
+74371572|cincinnati, ohio|0|Error|1|2
+30946258|cincinnati, ohio|0|Error|3|2
+30946258|cincinnati, ohio|0|Error|2|2
+30946258|cincinnati, ohio|17593176|Cincinnati, OH|1|2
+30946258|cincinnati, ohio|30946258|Cincinnati, Ohio|1|2
+30946258|cincinnati, ohio|1252912957|Error|1|2
+30946258|cincinnati, ohio|18469701|Florence Ky. & Louisville Ky. |1|2
+30946258|cincinnati, ohio|27887376|Chicago|1|2
+30946258|cincinnati, ohio|65408808|Columbus, Ohio|1|2
+30946258|cincinnati, ohio|0|Error|1|2
+14164897|cincinnati, ohio|14199660|tempe, arizona|3|2
+14164897|cincinnati, ohio|0|Error|3|2
+14164897|cincinnati, ohio|16863354|Error|1|2
+14164897|cincinnati, ohio|16597112|Amabile Magazine|1|2
+14164897|cincinnati, ohio|0|Error|1|2
+14143251|cincinnati, oh|14335967|Ohio|1|2
+14143251|cincinnati, oh|13329362|Miami Township, OH|1|2
+14143251|cincinnati, oh|2462591|Cincinnati, OH|1|2
+14143251|cincinnati, oh|6345712|Error|1|2
+25306334|cincinnati, ohio|18368230|California Bred; Now in VA|2|2
+25306334|cincinnati, ohio|62425397|South Jersey|1|2
+25306334|cincinnati, ohio|14691291|Error|1|2
+21422384|cincinnati, ohio|25768420|Los angeles|2|2
+21422384|cincinnati, ohio|2503902313|Error|1|2
+21422384|cincinnati, ohio|0|Error|1|2
+21422384|cincinnati, ohio|14216203|Earth...sometimes |1|2
+21422384|cincinnati, ohio|24708184|Kansas City, MO|1|2
+21422384|cincinnati, ohio|0|Error|1|2
+21422384|cincinnati, ohio|0|Error|1|2
+21422384|cincinnati, ohio|0|Error|1|2
+21422384|cincinnati, ohio|21422384|Cincinnati, Ohio|1|2
+41083816|	cincinnati, oh|0|Error|2|2
+41083816|	cincinnati, oh|20641355|LA/Seattle.|1|2
+41083816|	cincinnati, oh|35850522|San Francisco|1|2
+41083816|	cincinnati, oh|23235865|Error|1|2
+41083816|	cincinnati, oh|29868235|Seattle|1|2
+18541081|cincinnati, ohio|392282848|Error|9|2
+18541081|cincinnati, ohio|81208971|Edward's Psychosis|6|2
+18541081|cincinnati, ohio|43171525|Los Angeles|4|2
+18541081|cincinnati, ohio|280575059|Error|4|2
+18541081|cincinnati, ohio|16036534|Texas|3|2
+18541081|cincinnati, ohio|0|Error|2|2
+18541081|cincinnati, ohio|74502549|Moon - space|2|2
+18541081|cincinnati, ohio|0|Error|2|2
+18541081|cincinnati, ohio|340642061|Error|1|2
+18541081|cincinnati, ohio|0|Error|1|2
+18541081|cincinnati, ohio|19965786|USA|1|2
+18541081|cincinnati, ohio|31615822|Error|1|2
+18541081|cincinnati, ohio|14549068|Wichita Falls|1|2
+18541081|cincinnati, ohio|353935562|Error|1|2
+18541081|cincinnati, ohio|40361513|Forks, WA|1|2
+28633662|cincinnati, oh|29600506|Chennai, India|4|2
+28633662|cincinnati, oh|23827064|Cincinnati, OH|2|2
+28633662|cincinnati, oh|13817822|bodybyzna.com/fastfatblast|2|2
+28633662|cincinnati, oh|7746052|Cincinnati|2|2
+28633662|cincinnati, oh|40377499|Orlando The city beautiful|2|2
+28633662|cincinnati, oh|29872378|Iowa City, IA and global|1|2
+28633662|cincinnati, oh|70774194|Salt Lake City|1|2
+28633662|cincinnati, oh|15137512|Cincinnati, OH|1|2
+28633662|cincinnati, oh|16630502|NC|1|2
+28633662|cincinnati, oh|15735963|Cincinnati, OH|1|2
+28633662|cincinnati, oh|0|Error|1|2
+28633662|cincinnati, oh|35056812|Cincinnati, OH|1|2
+28633662|cincinnati, oh|0|Error|1|2
+28633662|cincinnati, oh|14178714|Cincinnati, OH|1|2
+28633662|cincinnati, oh|0|Error|1|2
+28633662|cincinnati, oh|11294522|Temecula, Los Angeles, Austin|1|2
+28633662|cincinnati, oh|16073373|ftmitchell@yahoo.com |1|2
+28633662|cincinnati, oh|3366567027|Chile|1|2
+28633662|cincinnati, oh|0|Error|1|2
+16051035|cincinnati, ohio|54354319|Seattle, WA|3|2
+16051035|cincinnati, ohio|0|Error|3|2
+16051035|cincinnati, ohio|52876175|Ohio and all over. WE SHIP!|2|2
+16051035|cincinnati, ohio|52271774|Matthews, NC|2|2
+16051035|cincinnati, ohio|2353557770|Error|2|2
+16051035|cincinnati, ohio|14120099|Cincinnati, OH|2|2
+16051035|cincinnati, ohio|31485999|Cincinnati, Ohio|1|2
+16051035|cincinnati, ohio|14302561|Cincinnati, OH |1|2
+16051035|cincinnati, ohio|16395516|Error|1|2
+16051035|cincinnati, ohio|0|Error|1|2
+16051035|cincinnati, ohio|16490840|Error|1|2
+16051035|cincinnati, ohio|186975601|Error|1|2
+16051035|cincinnati, ohio|35085768|Milford, OH|1|2
+16051035|cincinnati, ohio|7746052|Cincinnati|1|2
+16051035|cincinnati, ohio|264036590|Error|1|2
+16051035|cincinnati, ohio|14342663|Error|1|2
+16051035|cincinnati, ohio|16051035|Cincinnati, Ohio|1|2
+16051035|cincinnati, ohio|0|Error|1|2
+16051035|cincinnati, ohio|0|Error|1|2
+16051035|cincinnati, ohio|16650431|Cincinnati, OH|1|2
+16350401|cincinnati, oh|14567532|Error|3|2
+16350401|cincinnati, oh|16347115|Finger Lakes, New York|3|2
+16350401|cincinnati, oh|58606259|Washington, DC|3|2
+16350401|cincinnati, oh|18964696|Cincinnati / New York|2|2
+16350401|cincinnati, oh|57740870|Baton Rouge, LA|2|2
+16350401|cincinnati, oh|0|Error|2|2
+16350401|cincinnati, oh|14868280|Charlottesville, VA, USA|2|2
+16350401|cincinnati, oh|11088642|Philly Metro|1|2
+16350401|cincinnati, oh|0|Error|1|2
+16350401|cincinnati, oh|1879168682|Indonesia|1|2
+16350401|cincinnati, oh|2603976666|Error|1|2
+16350401|cincinnati, oh|16560623|Toronto|1|2
+16350401|cincinnati, oh|75900165|Error|1|2
+16350401|cincinnati, oh|158484196|Boston, MA|1|2
+16350401|cincinnati, oh|15999856|Error|1|2
+16350401|cincinnati, oh|15066271|New York, NY|1|2
+16350401|cincinnati, oh|12542372|Cincinnati, Ohio, USA|1|2
+16350401|cincinnati, oh|0|Error|1|2
+16350401|cincinnati, oh|14049120|New York City, NY|1|2
+35056812|cincinnati, oh|22529194|Bodega Bay, CA|11|2
+35056812|cincinnati, oh|41923186|Scottsdale, Arizona|8|2
+35056812|cincinnati, oh|0|Error|5|2
+35056812|cincinnati, oh|38359820|Phoenix, AZ|4|2
+35056812|cincinnati, oh|7746052|Cincinnati|3|2
+35056812|cincinnati, oh|65166594|Northern Ontario, Canada|3|2
+35056812|cincinnati, oh|0|Error|3|2
+35056812|cincinnati, oh|0|Error|2|2
+35056812|cincinnati, oh|0|Error|2|2
+35056812|cincinnati, oh|16630083|California|2|2
+35056812|cincinnati, oh|25855797|MICHIGAN|2|2
+35056812|cincinnati, oh|35056812|Cincinnati, OH|2|2
+35056812|cincinnati, oh|17997649|Beach & Vineyards|1|2
+35056812|cincinnati, oh|27781110|Cincinnati|1|2
+35056812|cincinnati, oh|25856905|Regina, Saskatchewan, Canada|1|2
+35056812|cincinnati, oh|0|Error|1|2
+35056812|cincinnati, oh|39697202|Perth, Western Australia|1|2
+35056812|cincinnati, oh|237024875|Birmingham, AL|1|2
+35056812|cincinnati, oh|29284419|North Wales (UK)|1|2
+35056812|cincinnati, oh|16722403|Cincinnati, OH|1|2
+35056812|cincinnati, oh|0|Error|1|2
+35056812|cincinnati, oh|16073373|ftmitchell@yahoo.com |1|2
+35056812|cincinnati, oh|29600257|warren county, ohio|1|2
+35056812|cincinnati, oh|72527143|Deerfield Beach, FL|1|2
+35056812|cincinnati, oh|15137512|Cincinnati, OH|1|2
+35056812|cincinnati, oh|0|Error|1|2
+35056812|cincinnati, oh|55440656|Florida|1|2
+35056812|cincinnati, oh|736003|Cincinnati, OH|1|2
+35056812|cincinnati, oh|5510212|near Asheville, NC, USA|1|2
+35056812|cincinnati, oh|28159246|Raleigh, nc|1|2
+35056812|cincinnati, oh|18998852|Southern New Jersey|1|2
+35056812|cincinnati, oh|37115392|Tiny Town Ohio|1|2
+35056812|cincinnati, oh|54328003|Tulsa, Oklahoma|1|2
+35056812|cincinnati, oh|17424281|Cincinnati|1|2
+35056812|cincinnati, oh|16587622|the desert|1|2
+35056812|cincinnati, oh|46871420|Minnesota|1|2
+35056812|cincinnati, oh|16594778|Houston, Texas|1|2
+35056812|cincinnati, oh|35275095|Long Island, NY #Shaklee|1|2
+35056812|cincinnati, oh|35767916|Phoenix & Minneapolis, USA|1|2
+35056812|cincinnati, oh|14178714|Cincinnati, OH|1|2
+35056812|cincinnati, oh|416838834|Error|1|2
+35056812|cincinnati, oh|631253|Denver Colorado|1|2
+14871955|cincinnati, oh|23662443|Cincinnati, Ohio|4|2
+14871955|cincinnati, oh|972651|Error|1|2
+14871955|cincinnati, oh|18030041|Bellingham, WA|1|2
+14871955|cincinnati, oh|8549302|Error|1|2
+14871955|cincinnati, oh|1366090020|Error|1|2
+14871955|cincinnati, oh|16023765|Greater Orlando, FL|1|2
+14871955|cincinnati, oh|16583306|Cincinnati, Ohio|1|2
+14871955|cincinnati, oh|15697243|Indianapolis, IN|1|2
+14871955|cincinnati, oh|20292942|Error|1|2
+14871955|cincinnati, oh|0|Error|1|2
+14871955|cincinnati, oh|1744571|Tulsa, OK|1|2
+14871955|cincinnati, oh|14120151|Cities worldwide|1|2
+14871955|cincinnati, oh|0|Error|1|2
+14871955|cincinnati, oh|42328578|Cincinnati, OH|1|2
+14871955|cincinnati, oh|18917729|Cincinnati, Ohio|1|2
+14871955|cincinnati, oh|16102208|Cincinnati, OH|1|2
+39244642|cincinnati, oh|19202800|Cincinnati, OH|2|2
+24179879|cincinnati, oh|264036590|Error|4|2
+24179879|cincinnati, oh|180685091|Page has moved|3|2
+24179879|cincinnati, oh|68075172|Jamestown ND|2|2
+24179879|cincinnati, oh|23236891|The bowels of PBS|2|2
+24179879|cincinnati, oh|472132718|Error|1|2
+24179879|cincinnati, oh|15601029|IG: allthingsCeCe77|1|2
+24179879|cincinnati, oh|53204083|Chicagoland, IL|1|2
+24179879|cincinnati, oh|0|Error|1|2
+24179879|cincinnati, oh|0|Error|1|2
+24179879|cincinnati, oh|21970456|Chicago|1|2
+24179879|cincinnati, oh|0|Error|1|2
+24179879|cincinnati, oh|42944678|Error|1|2
+24179879|cincinnati, oh|0|Error|1|2
+24179879|cincinnati, oh|16511183|U.S.A.|1|2
+24179879|cincinnati, oh|0|Error|1|2
+24179879|cincinnati, oh|0|Error|1|2
+49739335|cincinnati, ohio|16116412|Near Chicago, IL, |3|2
+49739335|cincinnati, ohio|19379194|Dallas, TX|3|2
+49739335|cincinnati, ohio|18689390|Tulsa, OK|2|2
+49739335|cincinnati, ohio|78014286|Error|2|2
+49739335|cincinnati, ohio|0|Error|2|2
+49739335|cincinnati, ohio|972651|Error|2|2
+49739335|cincinnati, ohio|0|Error|2|2
+49739335|cincinnati, ohio|2982348401|Omsk
+|2|2
+49739335|cincinnati, ohio|8453452|Silicon Valley, California|2|2
+49739335|cincinnati, ohio|0|Error|2|2
+49739335|cincinnati, ohio|0|Error|2|2
+49739335|cincinnati, ohio|958406942|Error|2|2
+49739335|cincinnati, ohio|1461551334|Indonesia - Dunia|2|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|191672740| Miami, Florida|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|121654524|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|50878793|Gulf Coast|1|2
+49739335|cincinnati, ohio|18679236|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|275863084|Error|1|2
+49739335|cincinnati, ohio|42841461|Columbus Ohio|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|21993699|Global|1|2
+49739335|cincinnati, ohio|0|Error|1|2
+49739335|cincinnati, ohio|59469537|The Tutorial World|1|2
+49739335|cincinnati, ohio|61702057|Error|1|2
+52788947|cincinnati, oh|264036590|Error|5|2
+52788947|cincinnati, oh|34102178|FAR ROCK NY|3|2
+52788947|cincinnati, oh|0|Error|3|2
+52788947|cincinnati, oh|0|Error|2|2
+52788947|cincinnati, oh|18222378|NYC|1|2
+52788947|cincinnati, oh|0|Error|1|2
+52788947|cincinnati, oh|0|Error|1|2
+52788947|cincinnati, oh|0|Error|1|2
+52788947|cincinnati, oh|112600958|Everywhere|1|2
+52788947|cincinnati, oh|0|Error|1|2
+5700132|cincinnati, ohio|23471895|Hamilton, Ohio|3|2
+5700132|cincinnati, ohio|6949802|Ohio|2|2
+5700132|cincinnati, ohio|19342160|TV, On Demand, Online|1|2
+5700132|cincinnati, ohio|14194898|South Carolina|1|2
+5700132|cincinnati, ohio|14664062|Wooster, Ohio|1|2
+5700132|cincinnati, ohio|14123652|Cincinnati|1|2
+5700132|cincinnati, ohio|0|Error|1|2
+15137512|cincinnati, oh|35056812|Cincinnati, OH|4|2
+15137512|cincinnati, oh|14212555|Error|2|2
+15137512|cincinnati, oh|14874772|Corpus Christi, Texas|2|2
+15137512|cincinnati, oh|18140160|Mason, OH|1|2
+15137512|cincinnati, oh|15029970|Planet Earth|1|2
+15137512|cincinnati, oh|8453452|Silicon Valley, California|1|2
+15137512|cincinnati, oh|15442984|Chicago, IL USA|1|2
+15137512|cincinnati, oh|0|Error|1|2
+15137512|cincinnati, oh|0|Error|1|2
+15137512|cincinnati, oh|15939002|Cincinnati|1|2
+15137512|cincinnati, oh|17080974|New York|1|2
+15137512|cincinnati, oh|16150054|Bellingham, WA USA|1|2
+15137512|cincinnati, oh|18912225|Cincinnati|1|2
+15137512|cincinnati, oh|16514291|Maine|1|2
+15137512|cincinnati, oh|0|Error|1|2
+15137512|cincinnati, oh|15309552|Oklahoma|1|2
+15137512|cincinnati, oh|13190282|Prescott, AZ|1|2
+15137512|cincinnati, oh|14191823|Chicagoland; Chicago; Napervil|1|2
+15137512|cincinnati, oh|0|Error|1|2
+15137512|cincinnati, oh|25197292|Central OKC - The Windy State |1|2
+76229128|cincinnati, oh|818647|Nashville|1|2
+76229128|cincinnati, oh|20092481|austin|1|2
+76229128|cincinnati, oh|0|Error|1|2
+76229128|cincinnati, oh|11057242|Atlanta|1|2
+76229128|cincinnati, oh|239591271|On The Road|1|2
+76229128|cincinnati, oh|12685742|Manhattan / North Bergen, NJ|1|2
+76229128|cincinnati, oh|40742330|Northeast Georgia|1|2
+76229128|cincinnati, oh|15376176|Salt Lake City, UT|1|2
+19201867|cincinnati, oh|391080996|Error|3|2
+19201867|cincinnati, oh|9227372|Colorado|3|2
+19201867|cincinnati, oh|15652134|Kelowna, BC|3|2
+19201867|cincinnati, oh|14270830|Cincinnati, OH|2|2
+19201867|cincinnati, oh|16013303|BC, Canada|2|2
+19201867|cincinnati, oh|269429926|Error|2|2
+19201867|cincinnati, oh|854841|San Francisco, CA|2|2
+19201867|cincinnati, oh|20963273|New York |2|2
+19201867|cincinnati, oh|24113849|Grand Rapids, MI|2|2
+19201867|cincinnati, oh|6312822|Augusta, GA|2|2
+19201867|cincinnati, oh|0|Error|1|2
+19201867|cincinnati, oh|2462591|Cincinnati, OH|1|2
+19201867|cincinnati, oh|0|Error|1|2
+19201867|cincinnati, oh|12254152|Arnold, Maryland|1|2
+19201867|cincinnati, oh|0|Error|1|2
+19201867|cincinnati, oh|208678075|Error|1|2
+19201867|cincinnati, oh|130406881|Error|1|2
+19201867|cincinnati, oh|0|Error|1|2
+19201867|cincinnati, oh|20092481|austin|1|2
+19201867|cincinnati, oh|15871283|Langley, BC|1|2
+19201867|cincinnati, oh|6321322|Boston|1|2
+19201867|cincinnati, oh|17466578|Little Red Dot|1|2
+19201867|cincinnati, oh|0|Error|1|2
+19201867|cincinnati, oh|18441693|Hot Husband's last nerve|1|2
+39651090|cincinnati, oh|0|Error|6|2
+39651090|cincinnati, oh|0|Error|2|2
+39651090|cincinnati, oh|0|Error|2|2
+39651090|cincinnati, oh|165915976|NYC|2|2
+39651090|cincinnati, oh|0|Error|2|2
+39651090|cincinnati, oh|394990036|Error|2|2
+39651090|cincinnati, oh|0|Error|2|2
+39651090|cincinnati, oh|0|Error|1|2
+39651090|cincinnati, oh|0|Error|1|2
+39651090|cincinnati, oh|3005782093|Error|1|2
+39651090|cincinnati, oh|28918909|*in the kitchen*|1|2
+39651090|cincinnati, oh|29398882|Facebook.com/Booked.By.Royalty|1|2
+39651090|cincinnati, oh|1280875994|Mass|1|2
+39651090|cincinnati, oh|0|Error|1|2
+39651090|cincinnati, oh|18194912|#NT|1|2
+55641944|cincinnati, oh|21810002|United States|3|2
+55641944|cincinnati, oh|0|Error|1|2
+55641944|cincinnati, oh|0|Error|1|2
+55641944|cincinnati, oh|16334857|Washington, D.C.|1|2
+55641944|cincinnati, oh|28145010|Cleveland, OH|1|2
+55641944|cincinnati, oh|15935591|Chicago|1|2
+64570972|cincinnati, ohio|25415558|cincinnati|7|2
+64570972|cincinnati, ohio|0|Error|5|2
+64570972|cincinnati, ohio|80852691|Cincinnati, Ohio (Usually)|4|2
+64570972|cincinnati, ohio|0|Error|4|2
+64570972|cincinnati, ohio|0|Error|3|2
+64570972|cincinnati, ohio|0|Error|2|2
+64570972|cincinnati, ohio|39588070|Error|1|2
+64570972|cincinnati, ohio|0|Error|1|2
+64570972|cincinnati, ohio|0|Error|1|2
+64570972|cincinnati, ohio|0|Error|1|2
+64570972|cincinnati, ohio|0|Error|1|2
+64570972|cincinnati, ohio|36218010|Anywhere and Everywhere |1|2
+64570972|cincinnati, ohio|25967150|ATLANTA,GA | NYC | MIAMI|1|2
+64570972|cincinnati, ohio|17349755|Ohio|1|2
+35981803|cincinnati, oh|17628655|Error|7|2
+35981803|cincinnati, oh|24816382|Halifax, NS|5|2
+35981803|cincinnati, oh|24478504|Alberta, Canada|2|2
+35981803|cincinnati, oh|81161354|Kansas City, Missouri |2|2
+35981803|cincinnati, oh|0|Error|2|2
+35981803|cincinnati, oh|20469520|Santa Clara, California|2|2
+35981803|cincinnati, oh|24935257|Baltimore|1|2
+35981803|cincinnati, oh|17143139|Los Angeles, California|1|2
+35981803|cincinnati, oh|18287131|Oconomowoc, WI|1|2
+35981803|cincinnati, oh|18736035|Fort Collins, CO|1|2
+35981803|cincinnati, oh|463730542|London|1|2
+35981803|cincinnati, oh|146158445|Error|1|2
+35981803|cincinnati, oh|14762127|Cupertino, CA|1|2
+35981803|cincinnati, oh|10339572|Emeryville, CA|1|2
+35981803|cincinnati, oh|57979429|New York, NY|1|2
+35981803|cincinnati, oh|16570335|St. Louis, Missouri|1|2
+35981803|cincinnati, oh|95363865|Oakland, CA|1|2
+35981803|cincinnati, oh|601483166|Error|1|2
+35981803|cincinnati, oh|0|Error|1|2
+21303072|cincinnati, oh|14100972|Boston, MA|3|2
+21303072|cincinnati, oh|7861312|Los Angeles, CA|1|2
+21303072|cincinnati, oh|0|Error|1|2
+21303072|cincinnati, oh|55008042|Halifax, NS Canada|1|2
+21303072|cincinnati, oh|71016843|Error|1|2
+21303072|cincinnati, oh|0|Error|1|2
+21303072|cincinnati, oh|16098623|Cincinnati|1|2
+21303072|cincinnati, oh|1468401|Waltham, MA|1|2
+21303072|cincinnati, oh|14509716|Ohio|1|2
+21303072|cincinnati, oh|15357143|Placentia, CA USA|1|2
+21303072|cincinnati, oh|43646823|New York City|1|2
+21303072|cincinnati, oh|0|Error|1|2
+21303072|cincinnati, oh|19905684|Boston|1|2
+21303072|cincinnati, oh|0|Error|1|2
+21303072|cincinnati, oh|65738351|Cincinnati|1|2
+16455033|cincinnati, ohio|6421992|St-Legier, Switzlerland|3|2
+16455033|cincinnati, ohio|16098623|Cincinnati|2|2
+16455033|cincinnati, ohio|16021231|Minnesota|1|2
+16455033|cincinnati, ohio|17502501|Cincinnati, OH|1|2
+16455033|cincinnati, ohio|1222621|Minneapolis, MN|1|2
+16455033|cincinnati, ohio|18791333|Hanover, IN|1|2
+16455033|cincinnati, ohio|14110524|Austin, Texas|1|2
+16455033|cincinnati, ohio|18395067|Error|1|2
+16455033|cincinnati, ohio|84243247|Error|1|2
+16455033|cincinnati, ohio|8918032|Louisville, Ky.|1|2
+16455033|cincinnati, ohio|14884469|New York, NY|1|2
+16455033|cincinnati, ohio|0|Error|1|2
+16455033|cincinnati, ohio|7893882|Austin, Texas|1|2
+16455033|cincinnati, ohio|16810137|Kent, Ohio, USA|1|2
+16455033|cincinnati, ohio|16927010|Toronto-based; global mindset|1|2
+16455033|cincinnati, ohio|3096351|Cincinnati|1|2
+16455033|cincinnati, ohio|0|Error|1|2
+16455033|cincinnati, ohio|22927537|San Diego|1|2
+16455033|cincinnati, ohio|14793394|Atlanta, GA|1|2
+14120099|cincinnati, oh|1565151|York and Cushing, ME USA|6|2
+14120099|cincinnati, oh|17593176|Cincinnati, OH|4|2
+14120099|cincinnati, oh|9737232|Rust Belt, Ohio|3|2
+14120099|cincinnati, oh|0|Error|2|2
+14120099|cincinnati, oh|12088272|Atlanta, GA|2|2
+14120099|cincinnati, oh|248745253|Ohio|2|2
+14120099|cincinnati, oh|14120099|Cincinnati, OH|2|2
+14120099|cincinnati, oh|0|Error|1|2
+14120099|cincinnati, oh|81708802|Error|1|2
+14120099|cincinnati, oh|93193975|Error|1|2
+14120099|cincinnati, oh|242005322|a house in a secret location|1|2
+14120099|cincinnati, oh|26721151|long beach, ca|1|2
+14120099|cincinnati, oh|50800380|Cincinnati|1|2
+14120099|cincinnati, oh|8958852|Cincinnati, Ohio|1|2
+14120099|cincinnati, oh|90724199|Cincinnati, Ohio|1|2
+14120099|cincinnati, oh|34621426|Cincinnati, OH|1|2
+14120099|cincinnati, oh|17213015|Northside, Cincinnati, OH|1|2
+14120099|cincinnati, oh|52876175|Ohio and all over. WE SHIP!|1|2
+14120099|cincinnati, oh|0|Error|1|2
+14120099|cincinnati, oh|28387483|Canada|1|2
+14120099|cincinnati, oh|17502501|Cincinnati, OH|1|2
+14120099|cincinnati, oh|11222|San Francisco, CA|1|2
+14120099|cincinnati, oh|9972552|San Francisco, CA|1|2
+14120099|cincinnati, oh|37708610|USA|1|2
+14120099|cincinnati, oh|17175533|Cincinnati, Ohio|1|2
+18835885|cincinnati, oh|0|Error|9|2
+18835885|cincinnati, oh|0|Error|6|2
+18835885|cincinnati, oh|20722822|Cincinnati, OH|5|2
+18835885|cincinnati, oh|61729346|Error|5|2
+18835885|cincinnati, oh|2557521|Bristol, CT|4|2
+18835885|cincinnati, oh|3366567027|Chile|4|2
+18835885|cincinnati, oh|30281599|Corner of Fifth and Vine |4|2
+18835885|cincinnati, oh|0|Error|4|2
+18835885|cincinnati, oh|14120099|Cincinnati, OH|4|2
+18835885|cincinnati, oh|14776716|Cincinnati|3|2
+18835885|cincinnati, oh|15181711|Cincinnati|3|2
+18835885|cincinnati, oh|42523658|Cin City|3|2
+18835885|cincinnati, oh|2147492013|Error|3|2
+18835885|cincinnati, oh|19946785|Join the Army|3|2
+18835885|cincinnati, oh|20650189|Cincy|3|2
+18835885|cincinnati, oh|51678226|Error|2|2
+18835885|cincinnati, oh|16567567|Cincinnati, OH, USA|2|2
+18835885|cincinnati, oh|0|Error|2|2
+18835885|cincinnati, oh|87995433|Error|2|2
+18835885|cincinnati, oh|19923144|Error|2|2
+18835885|cincinnati, oh|34621426|Cincinnati, OH|2|2
+18835885|cincinnati, oh|106847364|Error|2|2
+18835885|cincinnati, oh|14537403|Cincinnati, Ohio|2|2
+18835885|cincinnati, oh|20050733|United Kingdom|1|2
+18835885|cincinnati, oh|14107079|Error|1|2
+18835885|cincinnati, oh|16655930|Error|1|2
+18835885|cincinnati, oh|17068146|Cincinnati, Ohio|1|2
+18835885|cincinnati, oh|27115071|Error|1|2
+18835885|cincinnati, oh|24510007|shanghai|1|2
+18835885|cincinnati, oh|15794195|Cambridge, MA|1|2
+18835885|cincinnati, oh|68827062|USA|1|2
+18835885|cincinnati, oh|19040278|45219|1|2
+18835885|cincinnati, oh|15308884|SUBMISSIONS: http://goo.gl/Cl0|1|2
+18835885|cincinnati, oh|45042143|PA/NY/NJ|1|2
+18835885|cincinnati, oh|29692664|The famous Attica, NY|1|2
+18835885|cincinnati, oh|17482071|Chicago|1|2
+18835885|cincinnati, oh|43149244|Louisville, KY|1|2
+18835885|cincinnati, oh|16558408|Home|1|2
+18835885|cincinnati, oh|50800380|Cincinnati|1|2
+18835885|cincinnati, oh|0|Error|1|2
+18835885|cincinnati, oh|8637672|On The Road|1|2
+18835885|cincinnati, oh|15535269|Cincinnati, Ohio, USA|1|2
+18835885|cincinnati, oh|78547719|Error|1|2
+18835885|cincinnati, oh|25408885|Cincinnati, OH|1|2
+18835885|cincinnati, oh|0|Error|1|2
+18835885|cincinnati, oh|16494269|Cincinnati, Ohio|1|2
+18835885|cincinnati, oh|43959925|Cincinnati, Ohio|1|2
+18835885|cincinnati, oh|16607945|Error|1|2
+18835885|cincinnati, oh|66872449|Louisville, Kentucky|1|2
+18835885|cincinnati, oh|26143558|B-More|1|2
+18835885|cincinnati, oh|1934802841|San Francisco|1|2
+18835885|cincinnati, oh|1443129835|Colombo, Sri Lanka|1|2
+18835885|cincinnati, oh|13524672|Over-the-Rhine, Cincinnati, Ohio|1|2
+18835885|cincinnati, oh|18139461|Boston, MA|1|2
+18835885|cincinnati, oh|14958191|Worldwide|1|2
+18835885|cincinnati, oh|8453452|Silicon Valley, California|1|2
+18835885|cincinnati, oh|0|Error|1|2
+18835885|cincinnati, oh|571889569|Error|1|2
+18835885|cincinnati, oh|0|Error|1|2
+18835885|cincinnati, oh|76478719|Los Angeles, California. USA |1|2
+18835885|cincinnati, oh|28016214|Philadelphia|1|2
+18835885|cincinnati, oh|16799584|Cincinnati, OH|1|2
+18835885|cincinnati, oh|80177384|Cincinnati, Ohio|1|2
+14097625|cincinnati, oh|43917948|Worthington, OH|2|2
+14097625|cincinnati, oh|17175533|Cincinnati, Ohio|2|2
+14097625|cincinnati, oh|14056893|Chicago, IL|1|2
+14097625|cincinnati, oh|785164|London, England|1|2
+14097625|cincinnati, oh|0|Error|1|2
+14097625|cincinnati, oh|133506823|Error|1|2
+14097625|cincinnati, oh|0|Error|1|2
+14097625|cincinnati, oh|18025528|Cincinnati, Ohio|1|2
+14097625|cincinnati, oh|0|Error|1|2
+14097625|cincinnati, oh|0|Error|1|2
+14097625|cincinnati, oh|0|Error|1|2
+14097625|cincinnati, oh|0|Error|1|2
+11740672|cincinnati, ohio|0|Error|5|2
+11740672|cincinnati, ohio|46213956|New York, NY|4|2
+11740672|cincinnati, ohio|1349650238|Error|3|2
+11740672|cincinnati, ohio|52271774|Matthews, NC|2|2
+11740672|cincinnati, ohio|14529929|Error|1|2
+11740672|cincinnati, ohio|0|Error|1|2
+11740672|cincinnati, ohio|8936082|Error|1|2
+11740672|cincinnati, ohio|26696672|Boston|1|2
+11740672|cincinnati, ohio|273630640|Error|1|2
+11740672|cincinnati, ohio|51263592|New York|1|2
+11740672|cincinnati, ohio|14402269|Fort Worth TX|1|2
+11740672|cincinnati, ohio|463528919|Error|1|2
+11740672|cincinnati, ohio|264036590|Error|1|2
+11740672|cincinnati, ohio|14711966|Florence, KY|1|2
+11740672|cincinnati, ohio|29465136|New York, NY|1|2
+11740672|cincinnati, ohio|19582149|Error|1|2
+11740672|cincinnati, ohio|21619519|Connecticut|1|2
+11740672|cincinnati, ohio|42301087|New York City|1|2
+11740672|cincinnati, ohio|43139414|Bristol, Ct.|1|2
+11740672|cincinnati, ohio|65218870|Error|1|2
+11740672|cincinnati, ohio|24431892|Berkeley, California|1|2
+14231914|cincinnati, ohio|29806238|33 royal st.|4|2
+14231914|cincinnati, ohio|30926724|Error|4|2
+14231914|cincinnati, ohio|20539101|Disney's Hollywood Studios|2|2
+14231914|cincinnati, ohio|37453425|Ontario Canada|2|2
+14231914|cincinnati, ohio|57470441|Not close enough to Disney|2|2
+14231914|cincinnati, ohio|29867509|FL|2|2
+14231914|cincinnati, ohio|11348282|Error|2|2
+14231914|cincinnati, ohio|40573917|iPhone: 28.414652,-81.587303|2|2
+14231914|cincinnati, ohio|29019304|Boston, MA|1|2
+14231914|cincinnati, ohio|15302626|Error|1|2
+14231914|cincinnati, ohio|0|Error|1|2
+10039862|cincinnati, ohio|15396891|Greenville, NC|2|2
+10039862|cincinnati, ohio|15515346|Milford,Ohio|1|2
+10039862|cincinnati, ohio|0|Error|1|2
+10039862|cincinnati, ohio|0|Error|1|2
+10039862|cincinnati, ohio|86889537|Cincinnati, Ohio|1|2
+10039862|cincinnati, ohio|498449357|Argentina|1|2
+10039862|cincinnati, ohio|5257101|Richmond, VA|1|2
+10039862|cincinnati, ohio|74300400|Oklahoma, USA|1|2
+10039862|cincinnati, ohio|6139072|Greenville|1|2
+19869939|cincinnati, ohio|18745624|Tallahassee, FL|5|2
+19869939|cincinnati, ohio|0|Error|4|2
+19869939|cincinnati, ohio|180685091|Page has moved|3|2
+19869939|cincinnati, ohio|22176791|Cincinnati|2|2
+19869939|cincinnati, ohio|6502482|Columbus|1|2
+19869939|cincinnati, ohio|17593176|Cincinnati, OH|1|2
+19869939|cincinnati, ohio|49450929|The Best Coast|1|2
+19869939|cincinnati, ohio|37705426|Error|1|2
+19869939|cincinnati, ohio|3096351|Cincinnati|1|2
+19869939|cincinnati, ohio|14354440|Cincinnati|1|2
+19869939|cincinnati, ohio|16452805|Cincinnati USA|1|2
+19869939|cincinnati, ohio|14885860|Error|1|2
+19869939|cincinnati, ohio|16102208|Cincinnati, OH|1|2
+19869939|cincinnati, ohio|2158133401|Error|1|2
+26030550|cincinnati, ohio|32442757|Cincinnati, Ohio|3|2
+26030550|cincinnati, ohio|19186585|Cleveland and San Francisco|2|2
+26030550|cincinnati, ohio|50651734|Cincinnati, Ohio|2|2
+26030550|cincinnati, ohio|16583306|Cincinnati, Ohio|2|2
+26030550|cincinnati, ohio|24033711|513.579.3100|2|2
+26030550|cincinnati, ohio|21415998|New York|1|2
+26030550|cincinnati, ohio|15445590|Cincinnati|1|2
+26030550|cincinnati, ohio|28406335|Ohio, Kentucky and Indiana|1|2
+26030550|cincinnati, ohio|36999443|Houston |1|2
+26030550|cincinnati, ohio|14914617|Providence, RI USA|1|2
+26030550|cincinnati, ohio|14461377|Cincinnati, Ohio|1|2
+26030550|cincinnati, ohio|17907332|Cleveland|1|2
+26030550|cincinnati, ohio|38250480|Cincinnati, Ohio|1|2
+26030550|cincinnati, ohio|20276998|Cincinnati, OH|1|2
+26030550|cincinnati, ohio|30281599|Corner of Fifth and Vine |1|2
+26030550|cincinnati, ohio|18814242|Cincinnati, OH |1|2
+85144986|cincinnati, oh|24263801|Los Angeles, Ca|2|2
+85144986|cincinnati, oh|32959253|Error|1|2
+85144986|cincinnati, oh|17249757|PA|1|2
+85144986|cincinnati, oh|25365536|where I'm meant to be...|1|2
+85144986|cincinnati, oh|0|Error|1|2
+85144986|cincinnati, oh|45473673|Ashburn VA|1|2
+85144986|cincinnati, oh|53153263|Error|1|2
+14499633|cincinnati, oh|30365943|Cincinnati, Ohio|10|2
+14499633|cincinnati, oh|0|Error|2|2
+14499633|cincinnati, oh|14412533|Washington, D.C.|2|2
+14499633|cincinnati, oh|50325797|Washington, DC|2|2
+14499633|cincinnati, oh|31127446|Washington, D.C.|2|2
+14499633|cincinnati, oh|0|Error|2|2
+14499633|cincinnati, oh|9130182|chicago|1|2
+14499633|cincinnati, oh|139937404|South Carolina|1|2
+14499633|cincinnati, oh|125707876|Error|1|2
+14499633|cincinnati, oh|18386031|CyberUniverse|1|2
+14499633|cincinnati, oh|22026906|Error|1|2
+14499633|cincinnati, oh|47160279|USA|1|2
+14499633|cincinnati, oh|14328987|Over the Rhine, Cincinnati|1|2
+14499633|cincinnati, oh|7381262|Somerville, MA|1|2
+14499633|cincinnati, oh|1209971|Hertford, UK|1|2
+14499633|cincinnati, oh|435213502|Error|1|2
+14499633|cincinnati, oh|18791763|Washington, D.C.|1|2
+14499633|cincinnati, oh|18223956|NV|1|2
+14499633|cincinnati, oh|12860612|The Camel City |1|2
+14499633|cincinnati, oh|0|Error|1|2
+14499633|cincinnati, oh|0|Error|1|2
+14499633|cincinnati, oh|0|Error|1|2
+16245410|cincinnati, oh|0|Error|6|2
+16245410|cincinnati, oh|7274582|Bremerton, WA|4|2
+16245410|cincinnati, oh|14356975|Costa Mesa, CA|3|2
+16245410|cincinnati, oh|67165933|Los Angeles, CA|3|2
+16245410|cincinnati, oh|0|Error|2|2
+16245410|cincinnati, oh|571494324|Error|2|2
+16245410|cincinnati, oh|0|Error|2|2
+16245410|cincinnati, oh|30006830|Chicago, IL|1|2
+16245410|cincinnati, oh|587555593|Error|1|2
+16245410|cincinnati, oh|19582527|USA |1|2
+16245410|cincinnati, oh|40992381|Bremerton, WA|1|2
+16245410|cincinnati, oh|478922097|Error|1|2
+16245410|cincinnati, oh|64055958|Meddy, OR|1|2
+30008259|cincinnati, ohio|2851792894|Austin, Texas|9|2
+30008259|cincinnati, ohio|0|Error|7|2
+30008259|cincinnati, ohio|16428265|Austin, TX|5|2
+30008259|cincinnati, ohio|15383434|Between The Red & Rio Grande|4|2
+30008259|cincinnati, ohio|62666416|Austin, TX|3|2
+30008259|cincinnati, ohio|16164520|Austin|3|2
+30008259|cincinnati, ohio|17635073|Northborough, MA|3|2
+30008259|cincinnati, ohio|23500439|Austin, TX, USA|2|2
+30008259|cincinnati, ohio|16482210|Nashville, Tenn.|2|2
+30008259|cincinnati, ohio|18912994|Connecticut, USA|2|2
+30008259|cincinnati, ohio|23389575|The Woodlands, Texas|2|2
+30008259|cincinnati, ohio|19985100|NYC|2|2
+30008259|cincinnati, ohio|2858119644|Error|1|2
+30008259|cincinnati, ohio|7999392|Ponte Vedra Beach & New York|1|2
+30008259|cincinnati, ohio|85101345|Central Texas|1|2
+30008259|cincinnati, ohio|26964987|NY|1|2
+30008259|cincinnati, ohio|7955112|Error|1|2
+30008259|cincinnati, ohio|2296595635|Error|1|2
+30008259|cincinnati, ohio|17693747|USA, wherever my RV takes me|1|2
+38244949|cincinnati, oh|972651|Error|6|2
+38244949|cincinnati, oh|14181427|Cincinnati, OH|1|2
+38244949|cincinnati, oh|17583639|Silicon Valley|1|2
+38244949|cincinnati, oh|0|Error|1|2
+38244949|cincinnati, oh|31317741|Error|1|2
+38244949|cincinnati, oh|14977120|Seattle, WA|1|2
+38244949|cincinnati, oh|11883132|San Francisco|1|2
+47987511|cincinnati, oh|622176101|Error|3|2
+47987511|cincinnati, oh|19827672|Parts Unknown|3|2
+47987511|cincinnati, oh|247011085|Error|3|2
+47987511|cincinnati, oh|622158049|Flemington, NJ|2|2
+47987511|cincinnati, oh|66000903|O-H-I-O|2|2
+47987511|cincinnati, oh|59893432|Columbus, OH|1|2
+47987511|cincinnati, oh|0|Error|1|2
+47987511|cincinnati, oh|46712611|Error|1|2
+47987511|cincinnati, oh|0|Error|1|2
+47987511|cincinnati, oh|54769850|The Haight|1|2
+47987511|cincinnati, oh|27934142|Mountain View, CA|1|2
+47987511|cincinnati, oh|604655892|Error|1|2
+47987511|cincinnati, oh|14695273|iPhone: 39.974849,-83.104491|1|2
+47987511|cincinnati, oh|0|Error|1|2
+47987511|cincinnati, oh|1535435862|Error|1|2
+47987511|cincinnati, oh|6017542|Global|1|2
+47987511|cincinnati, oh|18262138|Columbus, Ohio|1|2
+47987511|cincinnati, oh|3428603699|At an In-N-Out|1|2
+47987511|cincinnati, oh|65493023|Alaska|1|2
+47987511|cincinnati, oh|0|Error|1|2
+47987511|cincinnati, oh|567339465|Malibu, CA|1|2
+47987511|cincinnati, oh|0|Error|1|2
+47987511|cincinnati, oh|56881003|Error|1|2
+47987511|cincinnati, oh|69382909|The Fortress of Barnitude, NYC|1|2
+47987511|cincinnati, oh|6728332|Burnsville, MN, USA|1|2
+20408085|cincinnati, ohio|0|Error|1|2
+20408085|cincinnati, ohio|10274302|Ellicott City, Maryland|1|2
+20408085|cincinnati, ohio|972651|Error|1|2
+20408085|cincinnati, ohio|15751083|Washington, DC/Lake Dallas, TX|1|2
+20408085|cincinnati, ohio|16908775|Tampa Bay, Florida|1|2
+819302|cincinnati, oh|7018192|Kings Mills, Ohio|8|2
+819302|cincinnati, oh|9697482|Cincinnati|3|2
+819302|cincinnati, oh|64465394|Cincinnati, Ohio|3|2
+819302|cincinnati, oh|6927562|Philadelphia, PA|3|2
+819302|cincinnati, oh|17821118|Columbus, OH|1|2
+819302|cincinnati, oh|20236409|Columbus, Ohio|1|2
+819302|cincinnati, oh|9492192|Palo Alto, CA|1|2
+819302|cincinnati, oh|0|Error|1|2
+819302|cincinnati, oh|7558032|Greenville, SC|1|2
+819302|cincinnati, oh|0|Error|1|2
+819302|cincinnati, oh|10983882|West Chester, OH|1|2
+819302|cincinnati, oh|44292787|New York, NY|1|2
+819302|cincinnati, oh|0|Error|1|2
+819302|cincinnati, oh|0|Error|1|2
+819302|cincinnati, oh|0|Error|1|2
+819302|cincinnati, oh|0|Error|1|2
+55931111|cincinnati, ohio|0|Error|1|2
+14512572|cincinnati, ohio|0|Error|11|2
+14512572|cincinnati, ohio|0|Error|6|2
+14512572|cincinnati, ohio|0|Error|4|2
+14512572|cincinnati, ohio|0|Error|3|2
+14512572|cincinnati, ohio|0|Error|2|2
+14512572|cincinnati, ohio|0|Error|2|2
+14512572|cincinnati, ohio|0|Error|1|2
+14512572|cincinnati, ohio|0|Error|1|2
+14512572|cincinnati, ohio|0|Error|1|2
+14512572|cincinnati, ohio|0|Error|1|2
+14512572|cincinnati, ohio|0|Error|1|2
+14512572|cincinnati, ohio|0|Error|1|2
+14512572|cincinnati, ohio|75818533|Cincinnati, Ohio - Carthage|1|2
+17004267|cincinnati, oh|0|Error|1|2
+17004267|cincinnati, oh|15329463|Northern Indiana|1|2
+17004267|cincinnati, oh|27507236|Everywhere!|1|2
+75068607|cincinnati, ohio|0|Error|2|2
+75068607|cincinnati, ohio|17492960|Alexandria, VA|2|2
+75068607|cincinnati, ohio|0|Error|1|2
+75068607|cincinnati, ohio|8149042|San Francisco|1|2
+75068607|cincinnati, ohio|1183041|Los Angeles|1|2
+75068607|cincinnati, ohio|0|Error|1|2
+75068607|cincinnati, ohio|0|Error|1|2
+75068607|cincinnati, ohio|264036590|Error|1|2
+75068607|cincinnati, ohio|0|Error|1|2
+75068607|cincinnati, ohio|16561120|Ohio|1|2
+75068607|cincinnati, ohio|655443|Hell|1|2
+75068607|cincinnati, ohio|22849249|State of Denial|1|2
+75068607|cincinnati, ohio|1252225789|Error|1|2
+84674929|cincinnati, oh|11522502|Everywhere|5|2
+84674929|cincinnati, oh|33616056|Alberta|4|2
+84674929|cincinnati, oh|29327455|Error|2|2
+84674929|cincinnati, oh|51027398|Michigan|1|2
+84674929|cincinnati, oh|0|Error|1|2
+23150427|cincinnati, oh|21955058|Stage Right|1|2
+23150427|cincinnati, oh|16264006|jet lag city.|1|2
+41536021|cincinnati, ohio|31115275|In Your City|15|2
+41536021|cincinnati, ohio|17995184|SD/Columbus/Cincinnati/Dayton|5|2
+41536021|cincinnati, ohio|16654909|WorldWide!|4|2
+41536021|cincinnati, ohio|42888224|Motor City, MI|4|2
+41536021|cincinnati, ohio|6057322|Berlin, Germany|4|2
+41536021|cincinnati, ohio|41536021|Cincinnati, Ohio|1|2
+41536021|cincinnati, ohio|455035103|posted|1|2
+41536021|cincinnati, ohio|0|Error|1|2
+41536021|cincinnati, ohio|18121619|Error|1|2
+41536021|cincinnati, ohio|38016420|Worldwide|1|2
+41536021|cincinnati, ohio|20228972|midwest|1|2
+41536021|cincinnati, ohio|0|Error|1|2
+41536021|cincinnati, ohio|36770236|Cincinnati, Ohio|1|2
+41536021|cincinnati, ohio|0|Error|1|2
+41536021|cincinnati, ohio|17693508|Cincinnati, Ohio|1|2
+41536021|cincinnati, ohio|0|Error|1|2
+30768606|cincinnati, ohio|1798991|Error|3|2
+14253620|cincinnati, ohio|10221|san francisco|3|2
+14253620|cincinnati, ohio|45584510|Cincinnati, Ohio|2|2
+14253620|cincinnati, ohio|5688402|Ann Arbor, MI|1|2
+14253620|cincinnati, ohio|41519718|Cincinnati|1|2
+14253620|cincinnati, ohio|0|Error|1|2
+14253620|cincinnati, ohio|2851792894|Austin, Texas|1|2
+14253620|cincinnati, ohio|16164520|Austin|1|2
+14253620|cincinnati, ohio|41873264|New York, NY|1|2
+14253620|cincinnati, ohio|0|Error|1|2
+14253620|cincinnati, ohio|24911991|Error|1|2
+14253620|cincinnati, ohio|20005394|Worldwide|1|2
+14253620|cincinnati, ohio|0|Error|1|2
+73236511|cincinnati, ohio|26918145|Texas|1|2
+73236511|cincinnati, ohio|0|Error|1|2
+19366443|cincinnati, ohio|14955908|New York|8|2
+19366443|cincinnati, ohio|33127692|Error|7|2
+19366443|cincinnati, ohio|2322197692|Error|4|2
+19366443|cincinnati, ohio|284533986|Error|3|2
+19366443|cincinnati, ohio|2165516874|Error|3|2
+19366443|cincinnati, ohio|0|Error|2|2
+19366443|cincinnati, ohio|29738127|Middletown, NY|2|2
+19366443|cincinnati, ohio|15266264|Seattle|2|2
+19366443|cincinnati, ohio|469172012|Error|2|2
+19366443|cincinnati, ohio|89761741|Cincinnati, OH|2|2
+19366443|cincinnati, ohio|261333072|your mom|2|2
+19366443|cincinnati, ohio|62880047|Bronx/ NYC|2|2
+19366443|cincinnati, ohio|15311470|Error|1|2
+19366443|cincinnati, ohio|71857191|Everywhere|1|2
+19366443|cincinnati, ohio|53427397|New York, NY, USA|1|2
+19366443|cincinnati, ohio|19031184|Richmond, VA|1|2
+19366443|cincinnati, ohio|89691755|Error|1|2
+19366443|cincinnati, ohio|15876398|Cincinnati, OH|1|2
+19366443|cincinnati, ohio|41158637|ocala, florida|1|2
+19366443|cincinnati, ohio|33602706|South Bound Brook, New Jersey|1|2
+19366443|cincinnati, ohio|0|Error|1|2
+19366443|cincinnati, ohio|35249756|Minnesota|1|2
+19366443|cincinnati, ohio|22303406|Southern US |1|2
+19366443|cincinnati, ohio|16102208|Cincinnati, OH|1|2
+19366443|cincinnati, ohio|19497154|UK|1|2
+19366443|cincinnati, ohio|49656730|San Francisco Bay Area|1|2
+19366443|cincinnati, ohio|17688752|a little bit Sideways|1|2
+19366443|cincinnati, ohio|0|Error|1|2
+19366443|cincinnati, ohio|2423083146|Error|1|2
+19366443|cincinnati, ohio|18052599|South Carolina, US|1|2
+19366443|cincinnati, ohio|14404322|Hulmeville, Pennsylvania|1|2
+19366443|cincinnati, ohio|0|Error|1|2
+19366443|cincinnati, ohio|0|Error|1|2
+19366443|cincinnati, ohio|0|Error|1|2
+19366443|cincinnati, ohio|33613297|Los Angeles, CA|1|2
+19366443|cincinnati, ohio|28154898|Error|1|2
+19366443|cincinnati, ohio|19834548|Nova Scotia|1|2
+19366443|cincinnati, ohio|14390225|New York, NY|1|2
+33915442|cincinnati, ohio|1965140520|California, USA|2|2
+33915442|cincinnati, ohio|1315621327|Error|1|2
+754874|cincinnati, oh|20255569|Cincinnati, Ohio|3|2
+754874|cincinnati, oh|12198412|Cincinnati, OH|3|2
+754874|cincinnati, oh|14261465|Seattle, WA|3|2
+754874|cincinnati, oh|9697482|Cincinnati|1|2
+754874|cincinnati, oh|33027458|Pennsylvania, USA|1|2
+754874|cincinnati, oh|18704291|Edgewater Park, NJ|1|2
+754874|cincinnati, oh|1517872886|OFFICIAL|1|2
+754874|cincinnati, oh|2678027538|Error|1|2
+754874|cincinnati, oh|16582858|Cincinnati, OH|1|2
+754874|cincinnati, oh|756278|Seattle, WA|1|2
+754874|cincinnati, oh|15948091|Cincinnati|1|2
+754874|cincinnati, oh|14727839|Chicago|1|2
+754874|cincinnati, oh|264036590|Error|1|2
+754874|cincinnati, oh|0|Error|1|2
+754874|cincinnati, oh|17770224|New York City|1|2
+22906957|cincinnati, oh|0|Error|2|2
+22906957|cincinnati, oh|14632998|Writing Articles|2|2
+68524758|cincinnati, oh|17833536|San Diego California|2|2
+68524758|cincinnati, oh|17008328|California|2|2
+68524758|cincinnati, oh|24043278|Rhode Island|2|2
+68524758|cincinnati, oh|46473124|Michigan|1|2
+68524758|cincinnati, oh|11930532|Nashville, TN|1|2
+68524758|cincinnati, oh|0|Error|1|2
+68524758|cincinnati, oh|11883132|San Francisco|1|2
+68524758|cincinnati, oh|21250171|Error|1|2
+68524758|cincinnati, oh|0|Error|1|2
+68524758|cincinnati, oh|623035471|Carrollton, MS|1|2
+68524758|cincinnati, oh|0|Error|1|2
+68524758|cincinnati, oh|18151654|RV, America|1|2
+68524758|cincinnati, oh|0|Error|1|2
+68524758|cincinnati, oh|0|Error|1|2
+68524758|cincinnati, oh|362653972|Charlotte, North Carolina|1|2
+68524758|cincinnati, oh|10393522|Paducah, KY|1|2
+68524758|cincinnati, oh|68524758|Cincinnati, OH|1|2
+68524758|cincinnati, oh|16320523|Gadsden, Alabama|1|2
+68524758|cincinnati, oh|366427909|Error|1|2
+68524758|cincinnati, oh|271061327|Error|1|2
+68524758|cincinnati, oh|0|Error|1|2
+68524758|cincinnati, oh|0|Error|1|2
+68524758|cincinnati, oh|0|Error|1|2
+68524758|cincinnati, oh|2795381|Cincinnati, OH|1|2
+68524758|cincinnati, oh|37169542|Maryland / Washington, D.C.|1|2
+68524758|cincinnati, oh|61524280|Detroit, MI|1|2
+68524758|cincinnati, oh|15364944|Middle Tennessee|1|2
+68524758|cincinnati, oh|18460854|Kansas City, MO|1|2
+68524758|cincinnati, oh|416838834|Error|1|2
+26320250|cincinnati, oh|21255572|SE Michigan|6|2
+26320250|cincinnati, oh|65883743|The World Wide Web :-)|4|2
+26320250|cincinnati, oh|16553951|Tupelo, MS|3|2
+26320250|cincinnati, oh|1536987524|New Orleans, LA|3|2
+26320250|cincinnati, oh|38506130|Franklin, PA|2|2
+26320250|cincinnati, oh|28562298|Paris, Lyon, Europe...|2|2
+26320250|cincinnati, oh|23218852|Error|2|2
+26320250|cincinnati, oh|32090522|Cincinnati, OH|2|2
+26320250|cincinnati, oh|35767916|Phoenix & Minneapolis, USA|2|2
+26320250|cincinnati, oh|113564219|International|1|2
+26320250|cincinnati, oh|0|Error|1|2
+26320250|cincinnati, oh|16897237|Vero Beach, FL|1|2
+26320250|cincinnati, oh|13058772|Mountain View, CA|1|2
+26320250|cincinnati, oh|42328578|Cincinnati, OH|1|2
+26320250|cincinnati, oh|18674590|Worcester, MA|1|2
+26320250|cincinnati, oh|18427990|Chester, Virginia|1|2
+26320250|cincinnati, oh|21770882|Maine|1|2
+26320250|cincinnati, oh|14315150|Nashville, TN|1|2
+26320250|cincinnati, oh|14153843|iPhone: 0.000000,0.000000|1|2
+26320250|cincinnati, oh|19154824|Florida, USA|1|2
+26320250|cincinnati, oh|18208795|Melbourne, FL|1|2
+26320250|cincinnati, oh|25333353|Columbia, MO|1|2
+26320250|cincinnati, oh|43026129|Cincinnati, Ohio|1|2
+26320250|cincinnati, oh|17971670|Owasso, OK|1|2
+26320250|cincinnati, oh|385681053|Cincinnati, OH|1|2
+26320250|cincinnati, oh|28552331|Dayton OH|1|2
+26320250|cincinnati, oh|2980247974|United States|1|2
+26320250|cincinnati, oh|0|Error|1|2
+26320250|cincinnati, oh|17809204|Cincinnati, OH|1|2
+26320250|cincinnati, oh|36556810|Pocono Mountains in PA|1|2
+26320250|cincinnati, oh|53416950|Blue Ridge Mountains!|1|2
+25928748|cincinnati, oh|25928748|Cincinnati, OH|4|2
+25928748|cincinnati, oh|0|Error|2|2
+25928748|cincinnati, oh|192028987|Error|1|2
+25928748|cincinnati, oh|64897130|Newark, NJ|1|2
+25928748|cincinnati, oh|22392470|Cincinnati, Ohio|1|2
+25928748|cincinnati, oh|44524794|Connecticut, USA|1|2
+25928748|cincinnati, oh|29571624|Philly|1|2
+25928748|cincinnati, oh|25458610|Here and There|1|2
+25274482|cincinnati, oh|0|Error|6|2
+25274482|cincinnati, oh|0|Error|5|2
+25274482|cincinnati, oh|0|Error|3|2
+25274482|cincinnati, oh|0|Error|2|2
+25274482|cincinnati, oh|0|Error|2|2
+25274482|cincinnati, oh|0|Error|2|2
+25274482|cincinnati, oh|0|Error|2|2
+25274482|cincinnati, oh|2565796321|Error|2|2
+25274482|cincinnati, oh|20838961|Italy|1|2
+25274482|cincinnati, oh|51263592|New York|1|2
+25274482|cincinnati, oh|13838562|Travelling|1|2
+25274482|cincinnati, oh|47609731|Error|1|2
+25274482|cincinnati, oh|866676229|Liverpool, Aintree |1|2
+25274482|cincinnati, oh|228866701|Hollywood, CA|1|2
+25274482|cincinnati, oh|0|Error|1|2
+21342612|cincinnati, oh|16939148|San Francisco|1|2
+39299619|cincinnati, oh|15763995|Canada|1|2
+39299619|cincinnati, oh|10792652|Sarasota FL|1|2
+14920239|cincinnati, ohio|18725327|Norway|9|2
+14920239|cincinnati, ohio|17154583|Error|9|2
+14920239|cincinnati, ohio|38676010|Geneva / Switzerland|8|2
+14920239|cincinnati, ohio|226634829|Massachusetts, USA|8|2
+14920239|cincinnati, ohio|25437682|Singapore|7|2
+14920239|cincinnati, ohio|39229234|Berlin|6|2
+14920239|cincinnati, ohio|204905272|London, UK|5|2
+14920239|cincinnati, ohio|23958795|Bergisch Gladbach, Cologne, DE|5|2
+14920239|cincinnati, ohio|21716540|Seattle|4|2
+14920239|cincinnati, ohio|19718969|London, Ontario, Canada|3|2
+14920239|cincinnati, ohio|0|Error|3|2
+14920239|cincinnati, ohio|17090138|Tampa, FL|3|2
+14920239|cincinnati, ohio|0|Error|3|2
+14920239|cincinnati, ohio|15626025|New York City|3|2
+14920239|cincinnati, ohio|15494236|Error|2|2
+14920239|cincinnati, ohio|0|Error|2|2
+14920239|cincinnati, ohio|36424802|polaroid cameras  |2|2
+14920239|cincinnati, ohio|0|Error|2|2
+14920239|cincinnati, ohio|317270269|Munich|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|20083551|London, England|1|2
+14920239|cincinnati, ohio|15303284|Brooklyn, NY|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|3940068675|Rhode Island, USA|1|2
+14920239|cincinnati, ohio|45042143|PA/NY/NJ|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|45239194|Bordeaux, France|1|2
+14920239|cincinnati, ohio|20770792|USA|1|2
+14920239|cincinnati, ohio|14590903|Rochester, NY|1|2
+14920239|cincinnati, ohio|16144132|NYC|1|2
+14920239|cincinnati, ohio|2607628758|Canada|1|2
+14920239|cincinnati, ohio|40984616|Toronto, ON|1|2
+14920239|cincinnati, ohio|22686020|Austria|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|3110031|Israel|1|2
+14920239|cincinnati, ohio|19584670|Weert, Netherlands|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|88680920|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|16232076|Columbus, Ohio|1|2
+14920239|cincinnati, ohio|14386692|Error|1|2
+14920239|cincinnati, ohio|44531593|USA|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|698233|Toronto, ON|1|2
+14920239|cincinnati, ohio|0|Error|1|2
+14920239|cincinnati, ohio|16015298|USA|1|2
+14920239|cincinnati, ohio|252376017|Error|1|2
+46116019|cincinnati, ohio|34344472|Error|1|2
+46116019|cincinnati, ohio|36423031|New York City|1|2
+46116019|cincinnati, ohio|19775510|Cincinnati, OH|1|2
+46116019|cincinnati, ohio|264036590|Error|1|2
+46116019|cincinnati, ohio|328619292|Error|1|2
+46116019|cincinnati, ohio|0|Error|1|2
+32436897|cincinnati, ohio|1225217701|Error|2|2
+32436897|cincinnati, ohio|419784997|Error|1|2
+32436897|cincinnati, ohio|31347949|Cincinnati|1|2
+32436897|cincinnati, ohio|17526475|Cincinnati|1|2
+44151231|cincinnati, ohio|0|Error|8|2
+44151231|cincinnati, ohio|18865153|Error|3|2
+44151231|cincinnati, ohio|36488299|Error|2|2
+44151231|cincinnati, ohio|32306015|Shit, I have no clue!|2|2
+44151231|cincinnati, ohio|0|Error|2|2
+44151231|cincinnati, ohio|2191736426|Error|2|2
+44151231|cincinnati, ohio|0|Error|2|2
+44151231|cincinnati, ohio|21551745|Error|1|2
+44151231|cincinnati, ohio|1908341071|Error|1|2
+44151231|cincinnati, ohio|180685091|Page has moved|1|2
+44151231|cincinnati, ohio|1319759094|Error|1|2
+3948861|cincinnati, ohio|404133|St. Louis, Missouri|1|2
+3948861|cincinnati, ohio|1836791|Phoenix, AZ|1|2
+3948861|cincinnati, ohio|11762832|Fullerton, CA, US|1|2
+15215361|cincinnati, oh|14293310|Error|5|2
+15215361|cincinnati, oh|40626514|Instagram @affioncrockett |4|2
+15215361|cincinnati, oh|16664681|Los Angeles, CA|4|2
+15215361|cincinnati, oh|529017636|Error|4|2
+15215361|cincinnati, oh|3192544139|Error|4|2
+15215361|cincinnati, oh|22155361|Phoenix, Arizona|4|2
+15215361|cincinnati, oh|807095|New York City|4|2
+15215361|cincinnati, oh|14501275|Hyde Park, Chicago, Illinois|2|2
+15215361|cincinnati, oh|55953666|Newport Beach, California, USA|2|2
+15215361|cincinnati, oh|89519600|Error|2|2
+15215361|cincinnati, oh|6801772|New York, New York, USA|2|2
+15215361|cincinnati, oh|3246146162|Error|2|2
+15215361|cincinnati, oh|28021375|Atlanta,Georgia |2|2
+15215361|cincinnati, oh|0|Error|2|2
+15215361|cincinnati, oh|23349115|Error|2|2
+15215361|cincinnati, oh|7846|Los Angeles, CA|2|2
+15215361|cincinnati, oh|14662354|Washington, D.C.|2|2
+15215361|cincinnati, oh|1326391|Charleston, UT, USA|2|2
+15215361|cincinnati, oh|18664838|In front of my screen|2|2
+15215361|cincinnati, oh|15479818|Bucharest, Romania|2|2
+15215361|cincinnati, oh|5474362|Chicago|2|2
+15215361|cincinnati, oh|754807|39.931579,116.456405|2|2
+15215361|cincinnati, oh|216244061|Tijuana|2|2
+15215361|cincinnati, oh|3764454021|Error|2|2
+15215361|cincinnati, oh|31407208|Australia, Worldwide|2|2
+15215361|cincinnati, oh|254733308|Error|2|2
+15215361|cincinnati, oh|0|Error|2|2
+15215361|cincinnati, oh|305159162|Staten via Brooklyn|2|2
+15215361|cincinnati, oh|362533422|Herdecke|2|2
+15215361|cincinnati, oh|120246988|Error|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|83596489|Error|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|71524148|Waterloo,Ca|1|2
+15215361|cincinnati, oh|8496692|London|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|759251|Error|1|2
+15215361|cincinnati, oh|2864232527|Dallas , Texas |1|2
+15215361|cincinnati, oh|15996971|Charlotte, NC|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|21037096|Calgary, Alberta, Canada|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|36079936|Error|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|25357817|Trinidad and Tobago|1|2
+15215361|cincinnati, oh|11701542|Khobar, KSA|1|2
+15215361|cincinnati, oh|133529948|Error|1|2
+15215361|cincinnati, oh|16646777|Error|1|2
+15215361|cincinnati, oh|128770290|Error|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|1044771|Error|1|2
+15215361|cincinnati, oh|19000765|Texas|1|2
+15215361|cincinnati, oh|21407183|United States|1|2
+15215361|cincinnati, oh|35417651|Error|1|2
+15215361|cincinnati, oh|66169732|England|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|19738805|Galway, Ireland|1|2
+15215361|cincinnati, oh|16271460|Los Angeles|1|2
+15215361|cincinnati, oh|347002675|Tellus, Milky Way|1|2
+15215361|cincinnati, oh|36274434|Area Code Trappin Baby!|1|2
+15215361|cincinnati, oh|267262018|13.80216, 100.57850|1|2
+15215361|cincinnati, oh|43872897|England|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|2344108858|Error|1|2
+15215361|cincinnati, oh|43620449|Los Angeles, CA|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|82282820|32.0260361,120.8684614|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|31653465|Arizona.|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|28372011|UK|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|526211016|Error|1|2
+15215361|cincinnati, oh|95835353|Error|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|774300|Brooklyn, NY|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|26468044|Paris Lhasa Tehran Pyongyang|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|301161849|Error|1|2
+15215361|cincinnati, oh|863391|Palo Alto, California|1|2
+15215361|cincinnati, oh|22948692|Downtown Detroit, MI|1|2
+15215361|cincinnati, oh|585312301|Error|1|2
+15215361|cincinnati, oh|1362860648|Error|1|2
+15215361|cincinnati, oh|65362470|Error|1|2
+15215361|cincinnati, oh|24942215|Phoenix, Arizona|1|2
+15215361|cincinnati, oh|11883132|San Francisco|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|15135567|Toronto, Canada|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|27998839|Australia #F4F|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|18634085|Chicago, Illinois|1|2
+15215361|cincinnati, oh|11244852|Toronto, Ontario|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|1066345226|Error|1|2
+15215361|cincinnati, oh|28701653|Error|1|2
+15215361|cincinnati, oh|58235651|The cosmic universe.|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|12687952|Buffalo, NY|1|2
+15215361|cincinnati, oh|211102620|Error|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|79888094|Philippines|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|220190769|Valencia, Venezuela|1|2
+15215361|cincinnati, oh|71110626|NYC|1|2
+15215361|cincinnati, oh|18834157|Tianjin, Beijing, China|1|2
+15215361|cincinnati, oh|1317|iPhone: 37.772146,-122.403831|1|2
+7975842|cincinnati, oh|0|Error|6|2
+7975842|cincinnati, oh|30920786|Southern Ohio|4|2
+7975842|cincinnati, oh|2018321|Error|1|2
+7975842|cincinnati, oh|0|Error|1|2
+7975842|cincinnati, oh|0|Error|1|2
+7975842|cincinnati, oh|190906595|Error|1|2
+7975842|cincinnati, oh|14544819|Denver|1|2
+7975842|cincinnati, oh|11598542|Oakland, CA|1|2
+29990430|cincinnati, oh|66745757|Cincinnati, OH|4|2
+29990430|cincinnati, oh|9130182|chicago|3|2
+29990430|cincinnati, oh|15912720|Cincinnati, Ohio|3|2
+29990430|cincinnati, oh|90420314|Manhattanland|1|2
+29990430|cincinnati, oh|14075928|Error|1|2
+29990430|cincinnati, oh|20650189|Cincy|1|2
+29990430|cincinnati, oh|2203009346|http://goo.gl/w9ZJwz|1|2
+29990430|cincinnati, oh|15736190|Freiburg, Germany|1|2
+29990430|cincinnati, oh|18396070|Los Angeles, CA|1|2
+29990430|cincinnati, oh|161666707|Error|1|2
+29990430|cincinnati, oh|0|Error|1|2
+29990430|cincinnati, oh|0|Error|1|2
+29990430|cincinnati, oh|15782816|London, UK|1|2
+29990430|cincinnati, oh|36433623|Dayton, OH|1|2
+29990430|cincinnati, oh|17480634|Los Angeles|1|2
+29990430|cincinnati, oh|0|Error|1|2
+15944045|cincinnati, oh|61676194|West Coast|1|2
+15944045|cincinnati, oh|0|Error|1|2
+15944045|cincinnati, oh|3001139490|Error|1|2
+15944045|cincinnati, oh|66196028|San Francisco|1|2
+15944045|cincinnati, oh|0|Error|1|2
+15944045|cincinnati, oh|19168378|Chicago|1|2
+15944045|cincinnati, oh|26142895| Western Pa.|1|2
+26055629|cincinnati, ohio|16559835|New York|8|2
+26055629|cincinnati, ohio|1443129835|Colombo, Sri Lanka|7|2
+26055629|cincinnati, ohio|24076242|Los Angeles, CA|5|2
+26055629|cincinnati, ohio|0|Error|5|2
+26055629|cincinnati, ohio|558196187|Error|4|2
+26055629|cincinnati, ohio|14345566|Texas Hill Country|3|2
+26055629|cincinnati, ohio|20621339|nomad|3|2
+26055629|cincinnati, ohio|363713800|Error|3|2
+26055629|cincinnati, ohio|36405354|Amherst, MA|3|2
+26055629|cincinnati, ohio|66394638|Cebu City|3|2
+26055629|cincinnati, ohio|7807162|Cincinnati|2|2
+26055629|cincinnati, ohio|50452297| Cincinnati Ohio|2|2
+26055629|cincinnati, ohio|56746916|Chicago|2|2
+26055629|cincinnati, ohio|49739335|Cincinnati, Ohio|2|2
+26055629|cincinnati, ohio|7971552|Bridgeton, New Jersey|1|2
+26055629|cincinnati, ohio|9395832|Error|1|2
+26055629|cincinnati, ohio|15126388|Cambridge|1|2
+26055629|cincinnati, ohio|5920532|Global|1|2
+26055629|cincinnati, ohio|15876398|Cincinnati, OH|1|2
+26055629|cincinnati, ohio|14458280|Cambridge, MA|1|2
+26055629|cincinnati, ohio|11314342|Toledo, Ohio|1|2
+26055629|cincinnati, ohio|0|Error|1|2
+26055629|cincinnati, ohio|13572612|New York City|1|2
+26055629|cincinnati, ohio|20|San Francisco, CA, US|1|2
+26055629|cincinnati, ohio|25308527|Fort Wayne, Indiana|1|2
+26055629|cincinnati, ohio|50978078|Coimbatore, India|1|2
+26055629|cincinnati, ohio|894134094|Error|1|2
+26055629|cincinnati, ohio|2292096693|Error|1|2
+26055629|cincinnati, ohio|16736293|On your phone :)|1|2
+26055629|cincinnati, ohio|17242377|Georgia|1|2
+26055629|cincinnati, ohio|60882590|Miami, Florida|1|2
+26055629|cincinnati, ohio|25597170|Miami, FL|1|2
+26055629|cincinnati, ohio|9128152|New York, NY|1|2
+26055629|cincinnati, ohio|4641021|World Wide Web|1|2
+26055629|cincinnati, ohio|0|Error|1|2
+26055629|cincinnati, ohio|450309131|Cincinnati Ohio|1|2
+26055629|cincinnati, ohio|0|Error|1|2
+26055629|cincinnati, ohio|0|Error|1|2
+26055629|cincinnati, ohio|3060302712|Error|1|2
+26055629|cincinnati, ohio|16343026|Bay Area / NYC |1|2
+26055629|cincinnati, ohio|17903385|Santa Monica, California|1|2
+26055629|cincinnati, ohio|118970324|Chicago, IL|1|2
+26055629|cincinnati, ohio|49887999|Somewhere in Chicago|1|2
+26055629|cincinnati, ohio|0|Error|1|2
+26055629|cincinnati, ohio|0|Error|1|2
+26055629|cincinnati, ohio|84964508|Cincinnati|1|2
+26055629|cincinnati, ohio|0|Error|1|2
+26055629|cincinnati, ohio|15619288|USA, SW Ohio,|1|2
+26055629|cincinnati, ohio|18216791|Miami, Florida|1|2
+26055629|cincinnati, ohio|15018677|Connecticut, USA|1|2
+26055629|cincinnati, ohio|0|Error|1|2
+14139081|cincinnati, oh|3840|94123|3|2
+14139081|cincinnati, oh|755990|Error|3|2
+14139081|cincinnati, oh|14852199|Toronto|2|2
+14139081|cincinnati, oh|0|Error|2|2
+14139081|cincinnati, oh|16956955|Los Angeles|2|2
+14139081|cincinnati, oh|755431|Seattle, Wa|2|2
+14139081|cincinnati, oh|1835411|Sector ZZ9 Plural Z Alpha|1|2
+14139081|cincinnati, oh|48912717|47_9S 126_43W|1|2
+14139081|cincinnati, oh|61133|New York, NY|1|2
+14139081|cincinnati, oh|15154217|Seattle, WA|1|2
+14139081|cincinnati, oh|0|Error|1|2
+14139081|cincinnati, oh|2493529584|Error|1|2
+14139081|cincinnati, oh|7125992|Bay Area, CA|1|2
+14139081|cincinnati, oh|13286672|Dallas, TX|1|2
+14139081|cincinnati, oh|29101954|Townsville|1|2
+14139081|cincinnati, oh|865671956|Taco Bell, usually |1|2
+14139081|cincinnati, oh|30139655|Error|1|2
+14139081|cincinnati, oh|394216985|Error|1|2
+14139081|cincinnati, oh|14464369|Error|1|2
+14139081|cincinnati, oh|12611642|Fairfax, VA|1|2
+14139081|cincinnati, oh|11340982|los angeles|1|2
+14139081|cincinnati, oh|813286|Washington, DC|1|2
+14139081|cincinnati, oh|14158033|Columbus, OH|1|2
+14139081|cincinnati, oh|14189716|Cincinnati, OH|1|2
+19382307|cincinnati, oh|1255080451|Error|3|2
+19382307|cincinnati, oh|0|Error|1|2
+19382307|cincinnati, oh|2996452781|Error|1|2
+19382307|cincinnati, oh|8881852|Cincinnati, OH|1|2
+19382307|cincinnati, oh|0|Error|1|2
+19382307|cincinnati, oh|17384103|Cincinnati, OH|1|2
+19382307|cincinnati, oh|0|Error|1|2
+19382307|cincinnati, oh|19886875|Pevely, Missouri (USA)|1|2
+19382307|cincinnati, oh|6281472|Goes, the Netherlands|1|2
+19382307|cincinnati, oh|14272141|Cincinnati Ohio|1|2
+19382307|cincinnati, oh|17223170|Cincy|1|2
+19382307|cincinnati, oh|0|Error|1|2
+19382307|cincinnati, oh|14119180|Cincinnati|1|2
+19382307|cincinnati, oh|14261465|Seattle, WA|1|2
+68534586|cincinnati, ohio|595931518|Error|5|2
+68534586|cincinnati, ohio|22827921|Tulsa|2|2
+68534586|cincinnati, ohio|89124416|The Internet|2|2
+68534586|cincinnati, ohio|49450929|The Best Coast|1|2
+68534586|cincinnati, ohio|264036590|Error|1|2
+68534586|cincinnati, ohio|0|Error|1|2
+68534586|cincinnati, ohio|39097715|Error|1|2
+68534586|cincinnati, ohio|0|Error|1|2
+68534586|cincinnati, ohio|0|Error|1|2
+68534586|cincinnati, ohio|23827692|Error|1|2
+68534586|cincinnati, ohio|12513472|Cracked.com|1|2
+80389123|cincinnati, ohio|739076869|Error|1|2
+80389123|cincinnati, ohio|20091010|London|1|2
+80389123|cincinnati, ohio|1139441|kitchener, ontario|1|2
+57661724|cincinnati, oh|15926905|brooklyn|3|2
+57661724|cincinnati, oh|387187240|Vegas x Brooklyn|1|2
+57661724|cincinnati, oh|0|Error|1|2
+15486905|cincinnati, ohio|31105603|CharmCity|11|2
+15486905|cincinnati, ohio|20047650|London|4|2
+15486905|cincinnati, ohio|43872897|England|4|2
+15486905|cincinnati, ohio|16804555|London|3|2
+15486905|cincinnati, ohio|14747415|KCMO|2|2
+15486905|cincinnati, ohio|30034613|Orange County, CA|2|2
+15486905|cincinnati, ohio|14275694|Just south of nowhere|1|2
+15486905|cincinnati, ohio|424709884|Error|1|2
+15486905|cincinnati, ohio|12057|Scottsdale, AZ|1|2
+15486905|cincinnati, ohio|14380009|Grand Rapids, MI|1|2
+15486905|cincinnati, ohio|12611642|Fairfax, VA|1|2
+15486905|cincinnati, ohio|860747238|Error|1|2
+15486905|cincinnati, ohio|15867691|Philly Suburbs, PA|1|2
+15486905|cincinnati, ohio|0|Error|1|2
+14285816|cincinnati, ohio|764432978|Error|10|2
+14285816|cincinnati, ohio|0|Error|5|2
+14285816|cincinnati, ohio|17972253|South Hyde Park, KCMO|3|2
+14285816|cincinnati, ohio|21061276|Cincinnati, Ohio|3|2
+14285816|cincinnati, ohio|16035473|NOGO (North of Chicago)|3|2
+14285816|cincinnati, ohio|0|Error|2|2
+14285816|cincinnati, ohio|0|Error|2|2
+14285816|cincinnati, ohio|62108116|CIncinnati, Ohio|2|2
+14285816|cincinnati, ohio|24132944|Error|2|2
+14285816|cincinnati, ohio|16478273|Broad Ripple USA|2|2
+14285816|cincinnati, ohio|17043155|MI but Faked birth in Kenya|2|2
+14285816|cincinnati, ohio|1142952012|Error|2|2
+14285816|cincinnati, ohio|544240751|562|1|2
+14285816|cincinnati, ohio|37373525|Los Angeles, California.|1|2
+14285816|cincinnati, ohio|16133380|Neverland|1|2
+14285816|cincinnati, ohio|25299216|Error|1|2
+14285816|cincinnati, ohio|18651145|I'm here and sometimes there |1|2
+14285816|cincinnati, ohio|26066729|Baton Rouge, La. |1|2
+14285816|cincinnati, ohio|0|Error|1|2
+14285816|cincinnati, ohio|348767152|Error|1|2
+14285816|cincinnati, ohio|16294019|Meth Empire, Arizona|1|2
+14285816|cincinnati, ohio|0|Error|1|2
+14285816|cincinnati, ohio|235066168|513 to the 216|1|2
+14285816|cincinnati, ohio|15948903|Southern California|1|2
+14285816|cincinnati, ohio|30757624|Slowly going out of my mind.|1|2
+37572972|cincinnati, oh|22230866|Hollywood, CA |4|2
+37572972|cincinnati, oh|27260086|Error|3|2
+20968144|cincinnati, oh|0|Error|4|2
+20968144|cincinnati, oh|17354343|cincinnati, ohio|4|2
+20968144|cincinnati, oh|0|Error|4|2
+20968144|cincinnati, oh|18851624|Cincinnati to Chicago to San Diego.|3|2
+20968144|cincinnati, oh|35967891|Cleveland, USA|3|2
+20968144|cincinnati, oh|380243142|Stoke-On-Trent |3|2
+20968144|cincinnati, oh|40312841|iphone:40.025705,83.997567|2|2
+20968144|cincinnati, oh|17474868|Chicago|2|2
+20968144|cincinnati, oh|56042488|Venice, CA|2|2
+20968144|cincinnati, oh|0|Error|1|2
+20968144|cincinnati, oh|17499102|Bus/Van/Airplane|1|2
+20968144|cincinnati, oh|17916638|Half Moon Bay, CA|1|2
+20968144|cincinnati, oh|16835712|Everywhere|1|2
+20968144|cincinnati, oh|478509923|Error|1|2
+20968144|cincinnati, oh|22885781|Cincinnati, OH, USA|1|2
+20968144|cincinnati, oh|0|Error|1|2
+78378609|cincinnati, ohio|152798670|Normal, IL|8|2
+78378609|cincinnati, ohio|35290923|Santos  SP  Brasil|5|2
+78378609|cincinnati, ohio|28119249|florida 850, 407 ,321|5|2
+78378609|cincinnati, ohio|1135440426|Troy, NY|4|2
+78378609|cincinnati, ohio|264036590|Error|4|2
+78378609|cincinnati, ohio|0|Error|4|2
+78378609|cincinnati, ohio|268200430|Brasil|3|2
+78378609|cincinnati, ohio|30504820|New Hampshire|3|2
+78378609|cincinnati, ohio|0|Error|3|2
+78378609|cincinnati, ohio|0|Error|3|2
+78378609|cincinnati, ohio|21839936|Cincinnati, OH|3|2
+78378609|cincinnati, ohio|34669292|Earth|3|2
+78378609|cincinnati, ohio|41904598|S.C.Corinthians Paulista|3|2
+78378609|cincinnati, ohio|29296951|So. Cali, Baby!!!|3|2
+78378609|cincinnati, ohio|0|Error|3|2
+78378609|cincinnati, ohio|64769168|Tampa, FL|3|2
+78378609|cincinnati, ohio|36421300|Nebraska|3|2
+78378609|cincinnati, ohio|215575152|Error|3|2
+78378609|cincinnati, ohio|71431827|Vail, Colorado|3|2
+78378609|cincinnati, ohio|0|Error|3|2
+78378609|cincinnati, ohio|55674990|Lubbock, TX.|3|2
+78378609|cincinnati, ohio|32194207|Error|3|2
+78378609|cincinnati, ohio|18046425|Santa e Bela Catarina | BRASIL|2|2
+78378609|cincinnati, ohio|17094167|Pennsylvania |2|2
+78378609|cincinnati, ohio|84092181|Dallas, TX|2|2
+78378609|cincinnati, ohio|746972755|Error|2|2
+78378609|cincinnati, ohio|0|Error|2|2
+78378609|cincinnati, ohio|23292361|Error|2|2
+78378609|cincinnati, ohio|0|Error|2|2
+78378609|cincinnati, ohio|221557547|Error|2|2
+78378609|cincinnati, ohio|132769981|Error|2|2
+78378609|cincinnati, ohio|0|Error|2|2
+78378609|cincinnati, ohio|323428158|kitson town |2|2
+78378609|cincinnati, ohio|22982004|16th and Valencia Roxy Music|2|2
+78378609|cincinnati, ohio|274016671|Error|1|2
+78378609|cincinnati, ohio|23701377|Michigan/Arizona|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|18048496|New York City|1|2
+78378609|cincinnati, ohio|374055568|cincy|1|2
+78378609|cincinnati, ohio|18611947|East Sussex, UK|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|46292048|Chillicothe, OH|1|2
+78378609|cincinnati, ohio|180685091|Page has moved|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|20117257|Lubbock, TX|1|2
+78378609|cincinnati, ohio|15312876|Cincinnati|1|2
+78378609|cincinnati, ohio|271402922|Error|1|2
+78378609|cincinnati, ohio|26343970|S.O.T.A (State Of The Art)|1|2
+78378609|cincinnati, ohio|15518620|Tinton Falls, New Jersey|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|38644638|A Peaceful State Of Mind|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|17966250|U.S.|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|19744596|Charlotte, NC|1|2
+78378609|cincinnati, ohio|28870086|Anywhere, USA|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|75957420|Brasil|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|49450929|The Best Coast|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|70296328|Sou um poeta sonhador|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|459128839|Karachi, Pakistan|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|216881442|Error|1|2
+78378609|cincinnati, ohio|34410940|#QUEENS NYC & ATL|1|2
+78378609|cincinnati, ohio|51263592|New York|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|0|Error|1|2
+78378609|cincinnati, ohio|22107957|The World|1|2
+78378609|cincinnati, ohio|24801877|Santa Catarina|1|2
+9697482|cincinnati, oh|0|Error|2|2
+9697482|cincinnati, oh|59913726|Cincinnati, OH|2|2
+9697482|cincinnati, oh|7018192|Kings Mills, Ohio|2|2
+9697482|cincinnati, oh|0|Error|2|2
+9697482|cincinnati, oh|14993209|Olney, MD|2|2
+9697482|cincinnati, oh|9105122|New Orleans, LA, USA|1|2
+9697482|cincinnati, oh|8854032|Dallas, TX|1|2
+9697482|cincinnati, oh|0|Error|1|2
+9697482|cincinnati, oh|783214|San Francisco, CA|1|2
+9697482|cincinnati, oh|646233|Everywhere|1|2
+9697482|cincinnati, oh|10983882|West Chester, OH|1|2
+9697482|cincinnati, oh|9542222|Columbus, OH|1|2
+9697482|cincinnati, oh|14246782|NYC expat in San Diego, CA|1|2
+9697482|cincinnati, oh|8815032|not here|1|2
+9697482|cincinnati, oh|134887156|Memphis, TN|1|2
+9697482|cincinnati, oh|10886832|iPhone: 45.522545,-73.593346|1|2
+9697482|cincinnati, oh|14175987|Lebanon, In|1|2
+9697482|cincinnati, oh|22982374|Error|1|2
+9697482|cincinnati, oh|16582858|Cincinnati, OH|1|2
+9697482|cincinnati, oh|5128421|Nashville TN|1|2
+9697482|cincinnati, oh|14331952|Madison, WI|1|2
+9697482|cincinnati, oh|14249124|Montreal|1|2
+9697482|cincinnati, oh|12611642|Fairfax, VA|1|2
+9697482|cincinnati, oh|4795561|Elsewhere|1|2
+9697482|cincinnati, oh|9549602|Urbandale, IA|1|2
+17562169|cincinnati, oh|19604308|Bankrupt Illinois|8|2
+17562169|cincinnati, oh|34753051|Error|5|2
+17562169|cincinnati, oh|3457337902|Error|5|2
+17562169|cincinnati, oh|19471245|Scottish Highlands|5|2
+17562169|cincinnati, oh|19404587|Error|5|2
+17562169|cincinnati, oh|19950678|Error|2|2
+17562169|cincinnati, oh|19083469|Iowa City, Iowa|2|2
+17562169|cincinnati, oh|31332871|Error|2|2
+17562169|cincinnati, oh|21700062|USA|2|2
+17562169|cincinnati, oh|66201148|Charleston, SC.|1|2
+17562169|cincinnati, oh|19796866|Miami|1|2
+17562169|cincinnati, oh|0|Error|1|2
+17562169|cincinnati, oh|19518055|Canada|1|2
+17562169|cincinnati, oh|783383|LA, CA|1|2
+17562169|cincinnati, oh|19674410|Ohio|1|2
+16545868|cincinnati, ohio|16593362|US & Canada|8|2
+16545868|cincinnati, ohio|42818387|Error|2|2
+16545868|cincinnati, ohio|49115596|San Francisco|1|2
+16545868|cincinnati, ohio|41277717|Washington, DC|1|2
+16545868|cincinnati, ohio|15672832|Error|1|2
+16545868|cincinnati, ohio|19600067|Los Angeles|1|2
+16545868|cincinnati, ohio|32503786|Cincinnati Ohio |1|2
+16545868|cincinnati, ohio|0|Error|1|2
+4629|cincinnati, oh|15972469|Dayton, Ohio, USA|2|2
+4629|cincinnati, oh|0|Error|1|2
+4629|cincinnati, oh|15041835|Loveland OH|1|2
+4629|cincinnati, oh|573823470|Error|1|2
+4629|cincinnati, oh|754556|Boston, MA|1|2
+4629|cincinnati, oh|3242121|Northern Virginia USA|1|2
+4629|cincinnati, oh|16971505|Cincinnati, United States|1|2
+4629|cincinnati, oh|15078148|Chicago, IL|1|2
+2110061|cincinnati, oh|3497941|Takoma Park, MD|1|2
+2110061|cincinnati, oh|804455|Phoenix Arizona|1|2
+2110061|cincinnati, oh|0|Error|1|2
+2110061|cincinnati, oh|15568621|College Park, MD info@bdpa.org|1|2
+15743074|cincinnati, oh|14628300|Cincinnati, OH|2|2
+15743074|cincinnati, oh|20689544|Olympia, WA|1|2
+15743074|cincinnati, oh|19051137|Washington, DC|1|2
+15743074|cincinnati, oh|14372143|Chicago, IL|1|2
+15743074|cincinnati, oh|56835005|Error|1|2
+15743074|cincinnati, oh|34163|St. Asaph, Wales 01745 851848|1|2
+15743074|cincinnati, oh|614196945|Error|1|2
+15743074|cincinnati, oh|11548472|Error|1|2
+15744473|cincinnati, ohio|0|Error|11|2
+15744473|cincinnati, ohio|18660634|Error|2|2
+15744473|cincinnati, ohio|5834352|NJ/NYC|2|2
+15744473|cincinnati, ohio|16701041|Vancouver, BC|1|2
+15744473|cincinnati, ohio|5695942|New York, NY|1|2
+15744473|cincinnati, ohio|0|Error|1|2
+15744473|cincinnati, ohio|17992976|New Jersey|1|2
+16799584|cincinnati, oh|21678658|Cincinnati, Ohio, and Kentucky|2|2
+16799584|cincinnati, oh|9521382|Waynesville,OH|2|2
+16799584|cincinnati, oh|17213015|Northside, Cincinnati, OH|1|2
+16799584|cincinnati, oh|2369534768|Error|1|2
+16799584|cincinnati, oh|0|Error|1|2
+16799584|cincinnati, oh|137843224|Error|1|2
+16799584|cincinnati, oh|20831846|Cincinnati, OH|1|2
+16799584|cincinnati, oh|21411321|Cincinnati, OH|1|2
+16799584|cincinnati, oh|34621426|Cincinnati, OH|1|2
+16799584|cincinnati, oh|26092282|Vegas/L.A. formerly Chicago|1|2
+16799584|cincinnati, oh|26849501|Cincinnati, OH|1|2
+16799584|cincinnati, oh|19207513|Illinois|1|2
+16799584|cincinnati, oh|18337093|iPhone: 39.119278,-84.496185|1|2
+16799584|cincinnati, oh|0|Error|1|2
+16799584|cincinnati, oh|14120099|Cincinnati, OH|1|2
+14859608|cincinnati, oh|195042122|Brooklyn|4|2
+14859608|cincinnati, oh|18698123|San Francisco, CA|3|2
+14859608|cincinnati, oh|11789832|Boston, MA|2|2
+14859608|cincinnati, oh|6624822|Nashville, TN|2|2
+14859608|cincinnati, oh|0|Error|1|2
+14859608|cincinnati, oh|15076305|Cincinnati, OH USA|1|2
+14859608|cincinnati, oh|17294128|Toronto, Canada|1|2
+14859608|cincinnati, oh|3713|Somerville, MA|1|2
+14859608|cincinnati, oh|14813968|Medina/Cleveland, OH|1|2
+14859608|cincinnati, oh|0|Error|1|2
+14859608|cincinnati, oh|0|Error|1|2
+14859608|cincinnati, oh|0|Error|1|2
+14859608|cincinnati, oh|534677003|San Francisoc|1|2
+14859608|cincinnati, oh|5865|Pilestredet|1|2
+14859608|cincinnati, oh|0|Error|1|2
+14859608|cincinnati, oh|15613175|Palo Alto, CA|1|2
+14859608|cincinnati, oh|801607|San Francisco|1|2
+14859608|cincinnati, oh|78453|New York, NY|1|2
+14859608|cincinnati, oh|11640|Portland Oregon|1|2
+14859608|cincinnati, oh|20172395|Error|1|2
+14859608|cincinnati, oh|17863128|Poland|1|2
+14859608|cincinnati, oh|0|Error|1|2
+14859608|cincinnati, oh|809010|Peoria, Illinois|1|2
+35692752|cincinnati, oh|1461805674|Error|2|2
+35692752|cincinnati, oh|0|Error|2|2
+35692752|cincinnati, oh|41826313|Cincinnati, OH|2|2
+35692752|cincinnati, oh|28145811|New Richmond, Ohio|1|2
+35692752|cincinnati, oh|0|Error|1|2
+35692752|cincinnati, oh|371001007|Error|1|2
+35692752|cincinnati, oh|50942482|Cincinnati, Ohio|1|2
+35692752|cincinnati, oh|0|Error|1|2
+35692752|cincinnati, oh|74285380|cincinasty|1|2
+35692752|cincinnati, oh|3316379575|Error|1|2
+35692752|cincinnati, oh|54032100|Error|1|2
+35692752|cincinnati, oh|26142144|Cincinnati|1|2
+16819651|cincinnati, oh|10269192|Monroe, OH|3|2
+16819651|cincinnati, oh|0|Error|1|2
+25214774|cincinnati, ohio|230796796|Error|1|2
+25214774|cincinnati, ohio|24074617|Cincinnati, Ohio|1|2
+25214774|cincinnati, ohio|715277574|Error|1|2
+25214774|cincinnati, ohio|31567202|Cincinnati, OH  #PPL #BBN|1|2
+19979812|cincinnati, oh|21611967|Southwest Florida|4|2
+19979812|cincinnati, oh|15991874|New York, NY|2|2
+19979812|cincinnati, oh|9977192|Error|1|2
+19979812|cincinnati, oh|29448532|Artist, Writer in Munich|1|2
+19979812|cincinnati, oh|26917929|Carmel Valley, CA.|1|2
+19979812|cincinnati, oh|38491706|Canada|1|2
+19979812|cincinnati, oh|0|Error|1|2
+19979812|cincinnati, oh|38238226|detroit|1|2
+19979812|cincinnati, oh|5683952|appleton, wi|1|2
+19979812|cincinnati, oh|0|Error|1|2
+19979812|cincinnati, oh|754576|Los Angeles, CA|1|2
+19979812|cincinnati, oh|16603994|Next door to the Machine|1|2
+33626276|cincinnati, ohio|0|Error|1|2
+33626276|cincinnati, ohio|0|Error|1|2
+28470558|cincinnati, oh|28470558|Cincinnati, OH|5|2
+28470558|cincinnati, oh|15763092|Ft. Morgan, Co|2|2
+28470558|cincinnati, oh|20214548|Boston + Wilderness Adventures|2|2
+28470558|cincinnati, oh|15049881|Aptos, California|2|2
+28470558|cincinnati, oh|22627700| Texas|1|2
+28470558|cincinnati, oh|22076445|New York City|1|2
+28470558|cincinnati, oh|15474511|Texas|1|2
+28470558|cincinnati, oh|23026604|Canada|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|16732982|Georgia|1|2
+28470558|cincinnati, oh|28162811|Olympia, WA|1|2
+28470558|cincinnati, oh|45371251|Chi-Town|1|2
+28470558|cincinnati, oh|24100116|Newport News VA|1|2
+28470558|cincinnati, oh|30933269|Bakersfield, Ca|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|18514940|Metro Atlanta|1|2
+28470558|cincinnati, oh|23473936|Jacksonville, Florida|1|2
+28470558|cincinnati, oh|40555559|Pittsburgh, Pa. USA|1|2
+28470558|cincinnati, oh|30127096|Atlanta, GA|1|2
+28470558|cincinnati, oh|297193963|Error|1|2
+28470558|cincinnati, oh|16481011|Natick, Boston, MA and beyond|1|2
+28470558|cincinnati, oh|0|Error|1|2
+28470558|cincinnati, oh|17235372|Hanford, CA|1|2
+28470558|cincinnati, oh|735288882|Italy|1|2
+28470558|cincinnati, oh|20658751|Fort Stewart, GA|1|2
+28470558|cincinnati, oh|1272683401|Error|1|2
+28470558|cincinnati, oh|28121877|UNITED STATES OF AMERICA|1|2
+28470558|cincinnati, oh|19406852|Boise, ID|1|2
+28470558|cincinnati, oh|106057231|Error|1|2
+28470558|cincinnati, oh|41290911|Oak Ridge NC|1|2
+74533347|cincinnati, oh|21981350|Long Island, NY|4|2
+74533347|cincinnati, oh|0|Error|3|2
+74533347|cincinnati, oh|28066436|In my mind|3|2
+74533347|cincinnati, oh|0|Error|2|2
+74533347|cincinnati, oh|0|Error|1|2
+74533347|cincinnati, oh|18190044|Harlem|1|2
+74533347|cincinnati, oh|0|Error|1|2
+74533347|cincinnati, oh|0|Error|1|2
+74533347|cincinnati, oh|28669612|Error|1|2
+74533347|cincinnati, oh|19923144|Error|1|2
+74533347|cincinnati, oh|20090925|Error|1|2
+4279671|cincinnati, oh|11432542|Cincinnati|2|2
+4279671|cincinnati, oh|0|Error|1|2
+14768850|cincinnati, oh|21544905|Cincinnati, OH|6|2
+14768850|cincinnati, oh|29086872|cincinnati|2|2
+14768850|cincinnati, oh|0|Error|1|2
+14768850|cincinnati, oh|0|Error|1|2
+14768850|cincinnati, oh|18399374|Cincinnati, Ohio|1|2
+14768850|cincinnati, oh|16369988|Cincinnati, OH|1|2
+14768850|cincinnati, oh|14976902|Error|1|2
+14768850|cincinnati, oh|17161990|Brooklyn, NY|1|2
+72441235|cincinnati, ohio|593509515|Error|10|2
+72441235|cincinnati, ohio|150224488|Error|5|2
+72441235|cincinnati, ohio|729762656|Error|4|2
+72441235|cincinnati, ohio|43474694|Error|1|2
+72441235|cincinnati, ohio|0|Error|1|2
+72441235|cincinnati, ohio|17089713|Los Angeles, CA|1|2
+17924054|cincinnati, oh|14811876|New York|2|2
+17924054|cincinnati, oh|3386439610|Error|2|2
+17924054|cincinnati, oh|47112011|Worldwide|1|2
+17924054|cincinnati, oh|17026851|Paris and Chicago|1|2
+17924054|cincinnati, oh|17075681|Cincinnati,OH|1|2
+17924054|cincinnati, oh|48203749|Boston area|1|2
+17924054|cincinnati, oh|16203072|North Carolina|1|2
+17924054|cincinnati, oh|16445842|Northern Colorado|1|2
+17924054|cincinnati, oh|62910494|Global|1|2
+17924054|cincinnati, oh|75105792|CT | NY |1|2
+17924054|cincinnati, oh|20599544|Connecticut|1|2
+17924054|cincinnati, oh|18720406|Cincinnati|1|2
+15827178|cincinnati, ohio|85285696|Error|4|2
+15827178|cincinnati, ohio|24263898|Oklahoma|3|2
+15827178|cincinnati, ohio|42034355|Australia|2|2
+15827178|cincinnati, ohio|15321447|NY & Cambridge|2|2
+15827178|cincinnati, ohio|0|Error|1|2
+15827178|cincinnati, ohio|0|Error|1|2
+17930598|cincinnati, oh|18337093|iPhone: 39.119278,-84.496185|5|2
+17930598|cincinnati, oh|18953819|Cincinnati, OH|1|2
+17930598|cincinnati, oh|20520540|Cincinnati, OH|1|2
+17930598|cincinnati, oh|20276998|Cincinnati, OH|1|2
+17930598|cincinnati, oh|0|Error|1|2
+17930598|cincinnati, oh|144239543|Error|1|2
+17930598|cincinnati, oh|972651|Error|1|2
+17930598|cincinnati, oh|15535269|Cincinnati, Ohio, USA|1|2
+17930598|cincinnati, oh|0|Error|1|2
+17930598|cincinnati, oh|0|Error|1|2
+26320250|cincinnati, oh|0|Error|5|2
+26320250|cincinnati, oh|0|Error|2|2
+26320250|cincinnati, oh|0|Error|2|2
+26320250|cincinnati, oh|0|Error|2|2
+26320250|cincinnati, oh|65883743|The World Wide Web :-)|2|2
+26320250|cincinnati, oh|0|Error|1|2
+26320250|cincinnati, oh|17941492|San Diego|1|2
+26320250|cincinnati, oh|22987468|Winter Park, Florida, USA|1|2
+26320250|cincinnati, oh|25096876|iPhone: 41.524284,-87.718903|1|2
+26320250|cincinnati, oh|0|Error|1|2
+26320250|cincinnati, oh|28792298|Error|1|2
+26320250|cincinnati, oh|43452450|iPhone: 44.403339,-68.234673|1|2
+26320250|cincinnati, oh|0|Error|1|2
+26320250|cincinnati, oh|21990874|New Orleans, LA|1|2
+26320250|cincinnati, oh|22371995|Oklahoma|1|2
+26320250|cincinnati, oh|169479699|Error|1|2
+26320250|cincinnati, oh|36179184|Beckley, West Virginia|1|2
+26320250|cincinnati, oh|21167652|Dallas, TX|1|2
+26320250|cincinnati, oh|44589349|Toronto, Canada|1|2
+26320250|cincinnati, oh|3314443536|Error|1|2
+26320250|cincinnati, oh|54328003|Tulsa, Oklahoma|1|2
+26320250|cincinnati, oh|0|Error|1|2
+26320250|cincinnati, oh|35767916|Phoenix & Minneapolis, USA|1|2
+44151231|cincinnati, ohio|0|Error|4|2
+44151231|cincinnati, ohio|32306015|Shit, I have no clue!|3|2
+44151231|cincinnati, ohio|343428500|Error|2|2
+44151231|cincinnati, ohio|0|Error|1|2
+44151231|cincinnati, ohio|171317482|Error|1|2
+44151231|cincinnati, ohio|970797120|Evasions 17:27|1|2
+44151231|cincinnati, ohio|163275837|ERICA'S WORLD|1|2
+44151231|cincinnati, ohio|0|Error|1|2
+44151231|cincinnati, ohio|15460081|Error|1|2
+44151231|cincinnati, ohio|21254264|Los Angeles, CA|1|2
+44151231|cincinnati, ohio|293124717|Over at @NathanKress|1|2
+44151231|cincinnati, ohio|2953352107|Error|1|2
+44151231|cincinnati, ohio|53153263|Error|1|2
+45220597|cincinnati, ohio|25020327|Error|3|2
+45220597|cincinnati, ohio|0|Error|1|2
+53620614|cincinnati, ohio|0|Error|4|2
+53620614|cincinnati, ohio|0|Error|2|2
+53620614|cincinnati, ohio|0|Error|1|2
+53620614|cincinnati, ohio|109301117|Error|1|2
+53620614|cincinnati, ohio|497333756|Miskolc|1|2
+53620614|cincinnati, ohio|38758745|Cincinnati, OH|1|2
+53620614|cincinnati, ohio|3519381|Error|1|2
+53620614|cincinnati, ohio|67933152|CBUS, O-H-I-O|1|2
+53620614|cincinnati, ohio|309856850|Your Party|1|2
+53620614|cincinnati, ohio|17639095|CHRONO LLC|1|2
+53620614|cincinnati, ohio|0|Error|1|2
+53620614|cincinnati, ohio|18750099|Columbus, OH|1|2
+26413579|cincinnati, ohio|26800332|LOVE|1|2
+26413579|cincinnati, ohio|0|Error|1|2
+26413579|cincinnati, ohio|16171413|Los Angeles|1|2
+14881843|cincinnati, oh|15670375|austin|1|2
+14881843|cincinnati, oh|17015011|Boone County, KY.|1|2
+14881843|cincinnati, oh|568542076|Error|1|2
+14881843|cincinnati, oh|0|Error|1|2
+14881843|cincinnati, oh|53190159|Cincinnati, OH|1|2
+32669936|cincinnati, oh|1155762691|Error|2|2
+32669936|cincinnati, oh|0|Error|1|2
+32669936|cincinnati, oh|37068209| Coast to Coast|1|2
+32669936|cincinnati, oh|2159985469|Error|1|2
+32669936|cincinnati, oh|19289340|The Tundra|1|2
+32669936|cincinnati, oh|0|Error|1|2
+46308633|cincinnati, oh|18713254|Earth|4|2
+46308633|cincinnati, oh|14224462|Error|3|2
+46308633|cincinnati, oh|18655166|Los Angeles, CA |2|2
+46308633|cincinnati, oh|14823961|Toledo, OH|2|2
+46308633|cincinnati, oh|22461427|Los Angeles|1|2
+46308633|cincinnati, oh|0|Error|1|2
+46308633|cincinnati, oh|19650354|UK|1|2
+46308633|cincinnati, oh|119919946|California|1|2
+46308633|cincinnati, oh|0|Error|1|2
+46308633|cincinnati, oh|15485441|New York, New York|1|2
+46308633|cincinnati, oh|27088695|Cincinnati, OH|1|2
+46308633|cincinnati, oh|1696124821|Error|1|2
+46308633|cincinnati, oh|18671559|Error|1|2
+1230751|cincinnati, oh|14408001|on a horse farm in Cincinnati.|2|2
+1230751|cincinnati, oh|20800351|Cincinnati, OH|1|2
+1230751|cincinnati, oh|0|Error|1|2
+1230751|cincinnati, oh|949521|San Diego|1|2
+1230751|cincinnati, oh|14302822|San Antonio, Texas|1|2
+1230751|cincinnati, oh|13012632|Atlanta & some other places|1|2
+1230751|cincinnati, oh|0|Error|1|2
+1230751|cincinnati, oh|0|Error|1|2
+24304917|cincinnati, ohio|14724800|Cincinnati, OH|2|2
+24304917|cincinnati, ohio|15029970|Planet Earth|1|2
+24304917|cincinnati, ohio|0|Error|1|2
+24304917|cincinnati, ohio|37406894|cincinnati, ohio|1|2
+24304917|cincinnati, ohio|18197931|Cincinnati, OH|1|2
+24304917|cincinnati, ohio|4641021|World Wide Web|1|2
+24304917|cincinnati, ohio|19473847|Northern Kentucky|1|2
+24304917|cincinnati, ohio|18066879|Cincinnati|1|2
+24304917|cincinnati, ohio|44714384|Cincinnati OH|1|2
+24304917|cincinnati, ohio|16106005|Cincinnati|1|2
+24304917|cincinnati, ohio|0|Error|1|2
+24304917|cincinnati, ohio|15991049|USA|1|2
+24304917|cincinnati, ohio|16650431|Cincinnati, OH|1|2
+19069462|cincinnati, oh|16350401|Writer's Digest - Cincinnati|1|2
+70472883|cincinnati, oh|20485604|Cincinnati, Ohio|3|2
+70472883|cincinnati, oh|14520936|Error|1|2
+70472883|cincinnati, oh|28169089|X-Files not X-Games|1|2
+70472883|cincinnati, oh|24226291|Cincinnati, Oh|1|2
+23303976|cincinnati, oh|0|Error|2|2
+23303976|cincinnati, oh|0|Error|1|2
+23303976|cincinnati, oh|7470592|Cincinnati, OH|1|2
+23303976|cincinnati, oh|23034673|Error|1|2
+23303976|cincinnati, oh|0|Error|1|2
+23303976|cincinnati, oh|0|Error|1|2
+70469031|cincinnati, oh|46893921|las vegas |4|2
+50571729|cincinnati, oh|18299755|Cincinnati, OH|6|2
+50571729|cincinnati, oh|18970295|Error|2|2
+50571729|cincinnati, oh|5539122|Error|2|2
+50571729|cincinnati, oh|0|Error|2|2
+50571729|cincinnati, oh|3038526828|Error|2|2
+50571729|cincinnati, oh|0|Error|1|2
+50571729|cincinnati, oh|23402920|NastyNati, OH|1|2
+50571729|cincinnati, oh|6017542|Global|1|2
+50571729|cincinnati, oh|394216985|Error|1|2
+50571729|cincinnati, oh|48740825|Santa Cruz, CA|1|2
+50571729|cincinnati, oh|2312470274|Error|1|2
+50571729|cincinnati, oh|41137008|Boston, MA|1|2
+50571729|cincinnati, oh|4117038142|Error|1|2
+17024606|cincinnati, oh|17022346|Indianapolis, IN|2|2
+17024606|cincinnati, oh|0|Error|2|2
+17024606|cincinnati, oh|70504356|OHIO|2|2
+17024606|cincinnati, oh|17020856|iPhone: 36.101547,-86.918655|2|2
+17024606|cincinnati, oh|16581094|iPhone: 32.284153,-86.609047|1|2
+17024606|cincinnati, oh|0|Error|1|2
+17024606|cincinnati, oh|42130336|Fishers, IN|1|2
+17024606|cincinnati, oh|19301010|Arvada, CO|1|2
+17024606|cincinnati, oh|70863801|Cincy|1|2
+17024606|cincinnati, oh|76147879|Madison, WI|1|2
+18076280|cincinnati, oh|21864795|My Own Little World, UK.|4|2
+18076280|cincinnati, oh|70752077|In my Library!|3|2
+18076280|cincinnati, oh|64052082|Volterra, Italy|2|2
+18076280|cincinnati, oh|22069514|NC|2|2
+18076280|cincinnati, oh|0|Error|2|2
+18076280|cincinnati, oh|0|Error|1|2
+18076280|cincinnati, oh|64707684|Error|1|2
+18076280|cincinnati, oh|42415676|Error|1|2
+18076280|cincinnati, oh|23747487|Perth, Australia|1|2
+18917729|cincinnati, ohio|416838834|Error|2|2
+18917729|cincinnati, ohio|140307712|Argentina|1|2
+18917729|cincinnati, ohio|21678658|Cincinnati, Ohio, and Kentucky|1|2
+18917729|cincinnati, ohio|8453452|Silicon Valley, California|1|2
+18917729|cincinnati, ohio|0|Error|1|2
+18917729|cincinnati, ohio|18773467|Clearwater, Tampa, Florida|1|2
+18917729|cincinnati, ohio|17328935|Error|1|2
+18917729|cincinnati, ohio|53190159|Cincinnati, OH|1|2
+18917729|cincinnati, ohio|17565891|San Francisco, CA|1|2
+18917729|cincinnati, ohio|0|Error|1|2
+18917729|cincinnati, ohio|816653|San Francisco, CA|1|2
+18917729|cincinnati, ohio|41986240|Northampton, MA|1|2
+18917729|cincinnati, ohio|17064675|Cincinnati, Consumer Capital|1|2
+18917729|cincinnati, ohio|0|Error|1|2
+18917729|cincinnati, ohio|15004552|Over-the-Rhine, Cincinnati, Oh|1|2
+18917729|cincinnati, ohio|43026129|Cincinnati, Ohio|1|2
+18917729|cincinnati, ohio|0|Error|1|2
+18917729|cincinnati, ohio|0|Error|1|2
+18917729|cincinnati, ohio|24556152|Dayton, Ohio|1|2
+18917729|cincinnati, ohio|15770494|NKY/Cincinnati|1|2
+18917729|cincinnati, ohio|5271381|Cincinnati, Ohio USA|1|2
+18917729|cincinnati, ohio|9478992|Cincinnati, Ohio USA|1|2
+61388112|cincinnati, ohio|0|Error|2|2
+61388112|cincinnati, ohio|31331740|Los Angeles|2|2
+61388112|cincinnati, ohio|23389613|Parts Unknown|1|2
+61388112|cincinnati, ohio|0|Error|1|2
+23359753|cincinnati, ohio|0|Error|2|2
+23359753|cincinnati, ohio|141820895|Error|2|2
+23359753|cincinnati, ohio|14395888|Orange County, CA|1|2
+23359753|cincinnati, ohio|0|Error|1|2
+17175533|cincinnati, ohio|23791725|San Diego, CA|5|2
+17175533|cincinnati, ohio|1651553208|Error|5|2
+17175533|cincinnati, ohio|17213015|Northside, Cincinnati, OH|1|2
+17175533|cincinnati, ohio|18451708|Kansas City, MO|1|2
+17175533|cincinnati, ohio|101592836|UK|1|2
+17175533|cincinnati, ohio|17613487|Porkopolis|1|2
+17175533|cincinnati, ohio|16999540|Error|1|2
+17175533|cincinnati, ohio|14776716|Cincinnati|1|2
+17175533|cincinnati, ohio|2391311118|Austin, TX|1|2
+70547923|cincinnati, ohio|98768710|Error|2|2
+70547923|cincinnati, ohio|0|Error|1|2
+70547923|cincinnati, ohio|0|Error|1|2
+70547923|cincinnati, ohio|270539130|puebla|1|2
+26508314|cincinnati, ohio|57772977|New York/Martha's Vineyard|5|2
+26508314|cincinnati, ohio|15650035|Error|4|2
+26508314|cincinnati, ohio|24147632|New York, NY|3|2
+26508314|cincinnati, ohio|0|Error|2|2
+26508314|cincinnati, ohio|34778516|Error|1|2
+26508314|cincinnati, ohio|22676390|New York, NY|1|2
+26508314|cincinnati, ohio|19536314|New York and Florida|1|2
+35958772|cincinnati, oh|54637009|California|2|2
+37048654|cincinnati, oh|17175533|Cincinnati, Ohio|3|2
+37048654|cincinnati, oh|17613487|Porkopolis|2|2
+37048654|cincinnati, oh|16063347|Cincinnati, Ohio|2|2
+37048654|cincinnati, oh|8958852|Cincinnati, Ohio|2|2
+37048654|cincinnati, oh|19596330|Cincinnati, OH|1|2
+37048654|cincinnati, oh|17213015|Northside, Cincinnati, OH|1|2
+37048654|cincinnati, oh|0|Error|1|2
+37048654|cincinnati, oh|22064080|Error|1|2
+37048654|cincinnati, oh|264036590|Error|1|2
+37048654|cincinnati, oh|10156532|Burbank, Calif.|1|2
+18585350|cincinnati, oh|15312876|Cincinnati|1|2
+18585350|cincinnati, oh|14147915|Error|1|2
+18585350|cincinnati, oh|780641|Northern, Kentucky|1|2
+18585350|cincinnati, oh|3096351|Cincinnati|1|2
+18585350|cincinnati, oh|0|Error|1|2
+18585350|cincinnati, oh|15368807|Chattanooga, TN|1|2
+18585350|cincinnati, oh|4658641|St. Petersburg, Florida|1|2
+18189074|cincinnati, oh|1595261|Kentucky|2|2
+18189074|cincinnati, oh|1787061|Kenton Vale, KY|2|2
+18189074|cincinnati, oh|0|Error|1|2
+18189074|cincinnati, oh|55544227|Hamilton County OH|1|2
+18189074|cincinnati, oh|69338327|Cincinnati, Ohio|1|2
+18189074|cincinnati, oh|18032496|Displaying my greatness|1|2
+18189074|cincinnati, oh|21949305|Cincinnati|1|2
+18189074|cincinnati, oh|14603500|Kentucky|1|2
+18189074|cincinnati, oh|14120099|Cincinnati, OH|1|2
+72719492|cincinnati, oh|59323888|somewhere peaceful|3|2
+72719492|cincinnati, oh|0|Error|2|2
+72719492|cincinnati, oh|0|Error|2|2
+72719492|cincinnati, oh|124728129|Error|1|2
+72719492|cincinnati, oh|0|Error|1|2
+72719492|cincinnati, oh|0|Error|1|2
+72719492|cincinnati, oh|0|Error|1|2
+72719492|cincinnati, oh|47807350|Ohio to Bailey Island & back|1|2
+8758162|cincinnati, oh|15175773|Columbus, Ohio|5|2
+8758162|cincinnati, oh|13565432|Cincinnati, OH, USA|3|2
+8758162|cincinnati, oh|9697482|Cincinnati|2|2
+8758162|cincinnati, oh|8815032|not here|2|2
+8758162|cincinnati, oh|14043602|Greater Cincinnati Area|2|2
+8758162|cincinnati, oh|0|Error|1|2
+8758162|cincinnati, oh|0|Error|1|2
+8758162|cincinnati, oh|11556332|Cincinnati 45215|1|2
+8758162|cincinnati, oh|70011369|Cincinnati|1|2
+8758162|cincinnati, oh|18326235|Cincinnati|1|2
+8758162|cincinnati, oh|278315180|Cincinnati, Ohio|1|2
+8758162|cincinnati, oh|10983882|West Chester, OH|1|2
+8758162|cincinnati, oh|15312876|Cincinnati|1|2
+8758162|cincinnati, oh|14120099|Cincinnati, OH|1|2
+8758162|cincinnati, oh|0|Error|1|2
+8758162|cincinnati, oh|2462591|Cincinnati, OH|1|2
+8758162|cincinnati, oh|0|Error|1|2
+8758162|cincinnati, oh|816653|San Francisco, CA|1|2
+26585408|cincinnati, oh|0|Error|1|2
+16102208|cincinnati, oh|15254434|U.S., Canada, Mexico|1|2
+16102208|cincinnati, oh|24362769|NYC and Worldwide|1|2
+16102208|cincinnati, oh|0|Error|1|2
+16102208|cincinnati, oh|47439742|Cincinnati, Ohio|1|2
+16102208|cincinnati, oh|180685091|Page has moved|1|2
+16102208|cincinnati, oh|19040451|Cincinnati, OH|1|2
+16315669|cincinnati, oh|8958852|Cincinnati, Ohio|2|2
+16315669|cincinnati, oh|265119769|Error|1|2
+16315669|cincinnati, oh|10980632|Cincinnati, OH|1|2
+16315669|cincinnati, oh|14463028|513.400.4097|1|2
+16315669|cincinnati, oh|13524672|Over-the-Rhine, Cincinnati, Ohio|1|2
+16315669|cincinnati, oh|58398927|A Waffle House Low Counter|1|2
+28549622|cincinnati, oh|0|Error|4|2
+25546803|cincinnati, oh|22676390|New York, NY|3|2
+25546803|cincinnati, oh|66071089|United States|2|2
+25546803|cincinnati, oh|18633087|Error|2|2
+25546803|cincinnati, oh|0|Error|1|2
+25546803|cincinnati, oh|18691728|Moore, OK|1|2
+25546803|cincinnati, oh|17550676|USA|1|2
+25546803|cincinnati, oh|1133701|Los Angeles, CA|1|2
+25546803|cincinnati, oh|30372442|Coopers Beach, New Zealand|1|2
+25546803|cincinnati, oh|17487825|Cincinnati|1|2
+25546803|cincinnati, oh|68592952|Everywhere Baby !!!|1|2
+25546803|cincinnati, oh|44505076|Charlottetown, PEI, Canada|1|2
+24498516|cincinnati, ohio|31615822|Error|3|2
+24498516|cincinnati, ohio|22768393|New Jersey, USA|2|2
+24498516|cincinnati, ohio|340642061|Error|1|2
+24498516|cincinnati, ohio|16629933|Cincinnati, OH|1|2
+24498516|cincinnati, ohio|0|Error|1|2
+24498516|cincinnati, ohio|22650108|Everywhere|1|2
+24498516|cincinnati, ohio|0|Error|1|2
+24498516|cincinnati, ohio|0|Error|1|2
+24498516|cincinnati, ohio|14549068|Wichita Falls|1|2
+24498516|cincinnati, ohio|18541081|Cincinnati, Ohio|1|2
+24498516|cincinnati, ohio|31733177|Melbourne, Australia|1|2
+24498516|cincinnati, ohio|24498516|Cincinnati, Ohio|1|2
+24498516|cincinnati, ohio|0|Error|1|2
+25570262|cincinnati, oh|13072972|Cincinnati, OH|1|2
+25570262|cincinnati, oh|0|Error|1|2
+32225641|cincinnati, oh|32265297|Reside in O-H-I-O|4|2
+32225641|cincinnati, oh|20708356|Rock Hill, SC|1|2
+32225641|cincinnati, oh|9621862|Germantown MD|1|2
+32225641|cincinnati, oh|165021348|United Kingdom|1|2
+32225641|cincinnati, oh|264036590|Error|1|2
+32225641|cincinnati, oh|32334671|Ohio or Florida|1|2
+32225641|cincinnati, oh|54259935|Famous Smoke Shop, Easton, PA|1|2
+21388593|cincinnati, oh|0|Error|4|2
+21388593|cincinnati, oh|27229574|Brick city-----over there now.|3|2
+21388593|cincinnati, oh|34502461|Chicago, IL|2|2
+21388593|cincinnati, oh|0|Error|2|2
+21388593|cincinnati, oh|0|Error|1|2
+21388593|cincinnati, oh|0|Error|1|2
+21388593|cincinnati, oh|144718712|THELILMOSHOW|1|2
+21388593|cincinnati, oh|22848668|Error|1|2
+29788212|cincinnati, oh|180685091|Page has moved|2|2
+29788212|cincinnati, oh|0|Error|2|2
+29788212|cincinnati, oh|17280019|Columbus, Ohio|1|2
+29788212|cincinnati, oh|20824110|Mississippi/Cincinnati|1|2
+29788212|cincinnati, oh|264036590|Error|1|2
+29788212|cincinnati, oh|16672159|Error|1|2
+29788212|cincinnati, oh|0|Error|1|2
+29788212|cincinnati, oh|19206101|Cincinnati, Oh|1|2
+29788212|cincinnati, oh|18061913|Cincinnati, OH|1|2
+29788212|cincinnati, oh|0|Error|1|2
+11964012|cincinnati, oh|18705199|Cincinnati, OH|2|2
+11964012|cincinnati, oh|122839791|Error|2|2
+11964012|cincinnati, oh|0|Error|2|2
+11964012|cincinnati, oh|0|Error|1|2
+11964012|cincinnati, oh|5577902|I live in the State of Grace|1|2
+11964012|cincinnati, oh|17162693|Charlotte, NC|1|2
+11964012|cincinnati, oh|14116247|Nashville, TN|1|2
+11964012|cincinnati, oh|0|Error|1|2
+11964012|cincinnati, oh|0|Error|1|2
+11964012|cincinnati, oh|0|Error|1|2
+11964012|cincinnati, oh|0|Error|1|2
+11964012|cincinnati, oh|974243689|Queen City|1|2
+11964012|cincinnati, oh|30363363|Morrow, OH|1|2
+11964012|cincinnati, oh|0|Error|1|2
+11964012|cincinnati, oh|26483706|Charlotte, NC|1|2
+11964012|cincinnati, oh|0|Error|1|2
+14063311|cincinnati, oh|264036590|Error|4|2
+14063311|cincinnati, oh|972651|Error|1|2
+14063311|cincinnati, oh|4629|Cincinnati, OH|1|2
+14063311|cincinnati, oh|6421992|St-Legier, Switzlerland|1|2
+14063311|cincinnati, oh|201504729|Error|1|2
+14063311|cincinnati, oh|95373654|Alexandria, Virginia|1|2
+14063311|cincinnati, oh|0|Error|1|2
+14063311|cincinnati, oh|0|Error|1|2
+14063311|cincinnati, oh|0|Error|1|2
+15626132|cincinnati, oh|42293684|Edmonton|6|2
+15626132|cincinnati, oh|0|Error|3|2
+15626132|cincinnati, oh|0|Error|1|2
+15626132|cincinnati, oh|16381016|Medford, New Jersey|1|2
+15626132|cincinnati, oh|39891227|Six one three.|1|2
+15626132|cincinnati, oh|69192786|Calgary, Scottsdale|1|2
+15626132|cincinnati, oh|47650483|Error|1|2
+25615602|cincinnati, ohio|23599224|Cincinasty O-H....|6|2
+25615602|cincinnati, ohio|33086134|Cleveland,OH|3|2
+25615602|cincinnati, ohio|40063860|Burbs of Chicago|2|2
+25615602|cincinnati, ohio|3291466538|New York, NY|1|2
+25615602|cincinnati, ohio|16161464|Toronto|1|2
+25615602|cincinnati, ohio|0|Error|1|2
+25615602|cincinnati, ohio|0|Error|1|2
+25615602|cincinnati, ohio|14355899|World|1|2
+25615602|cincinnati, ohio|18250593|Buckeye Nation OH----IO|1|2
+25615602|cincinnati, ohio|24776235|US|1|2
+71728365|cincinnati, oh|70795230|Error|4|2
+71728365|cincinnati, oh|0|Error|1|2
+71728365|cincinnati, oh|16106034|Denver, Colorado|1|2
+71728365|cincinnati, oh|743403|Kennesaw, Georgia|1|2
+71728365|cincinnati, oh|0|Error|1|2
+71728365|cincinnati, oh|113086224|Error|1|2
+71728365|cincinnati, oh|16547184|California|1|2
+71728365|cincinnati, oh|10099732|Mojave, CA|1|2
+71728365|cincinnati, oh|0|Error|1|2
+17233800|cincinnati, oh|17233800|Cincinnati, OH|4|2
+17233800|cincinnati, oh|23093|Texas|1|2
+17233800|cincinnati, oh|74000205|Error|1|2
+17233800|cincinnati, oh|66487905|Error|1|2
+17233800|cincinnati, oh|30709294|Error|1|2
+17233800|cincinnati, oh|5863952|USA|1|2
+17233800|cincinnati, oh|69397132|Regina, SK|1|2
+17233800|cincinnati, oh|0|Error|1|2
+17233800|cincinnati, oh|20063715|Keller, TX|1|2
+17233800|cincinnati, oh|0|Error|1|2
+17233800|cincinnati, oh|22421430|Orlando, FL|1|2
+17233800|cincinnati, oh|189841326|Error|1|2
+17233800|cincinnati, oh|0|Error|1|2
+17233800|cincinnati, oh|20007654|San Diego, CA|1|2
+17233800|cincinnati, oh|14323784|Oakland, CA|1|2
+17233800|cincinnati, oh|21024127|The Fox Valley, WI|1|2
+17233800|cincinnati, oh|21035820|Where it's at|1|2
+17233800|cincinnati, oh|15152358|KnoxVegas, TN|1|2
+17233800|cincinnati, oh|14051666|Bartlett, TN|1|2
+17233800|cincinnati, oh|28473453|Northern California|1|2
+17233800|cincinnati, oh|6634452|Central CA|1|2
+5700132|cincinnati, ohio|6244532|Cincinnati, Ohio, USA|1|2
+5700132|cincinnati, ohio|8983712|Colorado | Worldwide|1|2
+5700132|cincinnati, ohio|18052611|Cincinnati, OH|1|2
+5700132|cincinnati, ohio|13654112|Nashville, TN|1|2
+5700132|cincinnati, ohio|19040451|Cincinnati, OH|1|2
+15137512|cincinnati, oh|0|Error|3|2
+15137512|cincinnati, oh|14250105|San Francisco, California|2|2
+15137512|cincinnati, oh|0|Error|1|2
+15137512|cincinnati, oh|14398481|Park Hills, KY|1|2
+15137512|cincinnati, oh|30928974|Mexico, usually|1|2
+15137512|cincinnati, oh|0|Error|1|2
+15137512|cincinnati, oh|0|Error|1|2
+15137512|cincinnati, oh|17378892|Boonville, IN|1|2
+15137512|cincinnati, oh|43452450|iPhone: 44.403339,-68.234673|1|2
+15137512|cincinnati, oh|25197292|Central OKC - The Windy State |1|2
+14111954|cincinnati, oh|16885858|London|2|2
+14111954|cincinnati, oh|14761754|Cincinnati|2|2
+14111954|cincinnati, oh|14823961|Toledo, OH|2|2
+14111954|cincinnati, oh|17041703|Cincinnati, OH|2|2
+14111954|cincinnati, oh|46308633|Cincinnati, OH|1|2
+14111954|cincinnati, oh|21678658|Cincinnati, Ohio, and Kentucky|1|2
+14111954|cincinnati, oh|31353077|Los Angeles|1|2
+14111954|cincinnati, oh|108788397|Error|1|2
+14111954|cincinnati, oh|18829528|Dublin, Ireland|1|2
+14111954|cincinnati, oh|4279671|Error|1|2
+14111954|cincinnati, oh|14943818|Cincinnati, OH|1|2
+14111954|cincinnati, oh|14111954|Cincinnati, OH|1|2
+14116151|cincinnati, oh|0|Error|3|2
+14116151|cincinnati, oh|14343083|Cincinnati|2|2
+14116151|cincinnati, oh|233382865|Error|1|2
+14116151|cincinnati, oh|17707380|Cincinnati Ohio|1|2
+14116151|cincinnati, oh|2688100796|Error|1|2
+14116151|cincinnati, oh|802309|Ross, Ohio|1|2
+14116151|cincinnati, oh|2900|Kansas City, MO|1|2
+14116151|cincinnati, oh|734023|Cincinnati, OH/Northern KY|1|2
+14116151|cincinnati, oh|0|Error|1|2
+39286471|cincinnati, ohio|16799584|Cincinnati, OH|2|2
+39286471|cincinnati, ohio|18457851|Cincinnati|1|2
+39286471|cincinnati, ohio|51312614|Cold Springs, KY|1|2
+39286471|cincinnati, ohio|14120099|Cincinnati, OH|1|2
+39286471|cincinnati, ohio|27899362|Cincinnati|1|2
+33636054|cincinnati, ohio|176549696|Here. There. Everywhere.|2|2
+33636054|cincinnati, ohio|14302561|Cincinnati, OH |1|2
+33636054|cincinnati, ohio|18953819|Cincinnati, OH|1|2
+33636054|cincinnati, ohio|9630832|Cincinnati, N. KY|1|2
+33636054|cincinnati, ohio|8769212|Chicago, IL|1|2
+33636054|cincinnati, ohio|0|Error|1|2
+33636054|cincinnati, ohio|14043682|Cleveland|1|2
+33636054|cincinnati, ohio|14461377|Cincinnati, Ohio|1|2
+33636054|cincinnati, ohio|7573792|Error|1|2
+33636054|cincinnati, ohio|34290399|Times-Union Media-Jacksonville|1|2
+33636054|cincinnati, ohio|248745253|Ohio|1|2
+33636054|cincinnati, ohio|10202|Boston, MA|1|2
+33636054|cincinnati, ohio|41881116|Findlay Market, Cincinnati OH|1|2
+33636054|cincinnati, ohio|14217862|USA, Europe, LatAm, Asia.|1|2
+33636054|cincinnati, ohio|8958852|Cincinnati, Ohio|1|2
+33636054|cincinnati, ohio|850741|Gainesville, FL|1|2
+33636054|cincinnati, ohio|14228300|Kansas City|1|2
+33636054|cincinnati, ohio|14120099|Cincinnati, OH|1|2
+33636054|cincinnati, ohio|4816|San Francisco, CA|1|2
+33636054|cincinnati, ohio|385681053|Cincinnati, OH|1|2
+19366443|cincinnati, ohio|24768053|Mattieland|4|2
+19366443|cincinnati, ohio|22540123|new york|2|2
+19366443|cincinnati, ohio|27733209|sunny clearwater florida|2|2
+19366443|cincinnati, ohio|15563076|United States|1|2
+19366443|cincinnati, ohio|56870561|Detroit, MI|1|2
+19366443|cincinnati, ohio|31229064|Beaufort, SC|1|2
+19366443|cincinnati, ohio|0|Error|1|2
+19366443|cincinnati, ohio|0|Error|1|2
+19366443|cincinnati, ohio|50444270|Anywhere else!!|1|2
+19366443|cincinnati, ohio|23714935|Not here anymore|1|2
+19366443|cincinnati, ohio|29738127|Middletown, NY|1|2
+19366443|cincinnati, ohio|43458569|South Central Illinois|1|2
+19366443|cincinnati, ohio|16881185|West Coast|1|2
+19366443|cincinnati, ohio|0|Error|1|2
+19366443|cincinnati, ohio|0|Error|1|2
+57115287|cincinnati, oh|207334932|Error|1|2
+57115287|cincinnati, oh|36844410|Ohio|1|2
+15184942|cincinnati, oh|0|Error|1|2
+15184942|cincinnati, oh|15184942|Cincinnati, OH|1|2
+21481596|cincinnati, oh|0|Error|2|2
+21481596|cincinnati, oh|21422384|Cincinnati, Ohio|1|2
+21481596|cincinnati, oh|14095883|Ohio and Kentucky|1|2
+21481596|cincinnati, oh|17993342|New York, Cincinnati, Planes|1|2
+21481596|cincinnati, oh|70973082|Cincinnati, Ohio|1|2
+17288874|cincinnati, oh|0|Error|1|2
+17288874|cincinnati, oh|10221|san francisco|1|2
+17288874|cincinnati, oh|49084734|Cincinnati, Ohio|1|2
+17288874|cincinnati, oh|46421484|Error|1|2
+17288874|cincinnati, oh|0|Error|1|2
+17288874|cincinnati, oh|131868435|Error|1|2
+17288874|cincinnati, oh|29187560|Error|1|2
+17288874|cincinnati, oh|20367023|Phnom Penh, Cambodia|1|2
+50942482|cincinnati, ohio|0|Error|13|2
+50942482|cincinnati, ohio|0|Error|3|2
+50942482|cincinnati, ohio|56359511|Savannah, GA|2|2
+50942482|cincinnati, ohio|0|Error|1|2
+15215361|cincinnati, oh|19165723|Iphone: 38.0493,84.5000|2|2
+15215361|cincinnati, oh|0|Error|2|2
+15215361|cincinnati, oh|19658936|Atlanta, GA|2|2
+15215361|cincinnati, oh|2768501|Australia|2|2
+15215361|cincinnati, oh|96890382|Error|2|2
+15215361|cincinnati, oh|23274387|Denver, Colorado|1|2
+15215361|cincinnati, oh|15139258|Living The Dream|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|0|Error|1|2
+15215361|cincinnati, oh|15845456|Boston-ish, Massachusetts US|1|2
+14184615|cincinnati, oh|2462591|Cincinnati, OH|3|2
+14184615|cincinnati, oh|24978762|St. Marys, PA|2|2
+14184615|cincinnati, oh|0|Error|2|2
+14184615|cincinnati, oh|0|Error|1|2
+14184615|cincinnati, oh|199661821|Error|1|2
+14184615|cincinnati, oh|17490208|Cincinnati, OH|1|2
+14184615|cincinnati, oh|14184615|Cincinnati, OH | McLean, VA |1|2
+14184615|cincinnati, oh|374055568|cincy|1|2
+14184615|cincinnati, oh|0|Error|1|2
+14184615|cincinnati, oh|26647142|Independence, Kentucky 41051|1|2
+34109840|cincinnati, ohio|33067676|Arcadia, FL|2|2
+34109840|cincinnati, ohio|3921449661|Saranac Lake New York|2|2
+34109840|cincinnati, ohio|553358144|Error|2|2
+34109840|cincinnati, ohio|21259294|USA|1|2
+34109840|cincinnati, ohio|34423528|Washington, NC|1|2
+34109840|cincinnati, ohio|23957389|Washington DC Metro Area|1|2
+34109840|cincinnati, ohio|19296903|knoxville, tn|1|2
+20485604|cincinnati, ohio|14520936|Error|2|2
+20485604|cincinnati, ohio|22602226|Error|2|2
+20485604|cincinnati, ohio|70472883|Cincinnati, OH|2|2
+20485604|cincinnati, ohio|707782130|Error|1|2
+14221435|cincinnati, oh|171593604|Hendersonville, NC|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|16187120|SF Bay Area|1|2
+14221435|cincinnati, oh|10819662|Rochester, NY|1|2
+14221435|cincinnati, oh|34662789|Cincinnati, OH|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|0|Error|1|2
+14221435|cincinnati, oh|1222621|Minneapolis, MN|1|2
+14221435|cincinnati, oh|16478966|Louisville, KY|1|2
+14221435|cincinnati, oh|338601496|Las Vegas, Nevada|1|2
+14221435|cincinnati, oh|0|Error|1|2
+16319470|cincinnati, ohio|100882448|Error|1|2
+16319470|cincinnati, ohio|388830617|Manchester|1|2
+16319470|cincinnati, ohio|0|Error|1|2
+16319470|cincinnati, ohio|0|Error|1|2
+33103246|cincinnati, ohio|14585775|Miamisburg, OH|1|2
+33103246|cincinnati, ohio|0|Error|1|2
+33103246|cincinnati, ohio|19299909|Germantown, MD|1|2
+33103246|cincinnati, ohio|7160722|Dayton, Ohio|1|2
+76100118|cincinnati, oh|33041941|Southern California|2|2
+76100118|cincinnati, oh|0|Error|2|2
+76100118|cincinnati, oh|0|Error|1|2
+76100118|cincinnati, oh|35551756|Texas|1|2
+51990656|cincinnati, ohio|0|Error|6|2
+51990656|cincinnati, ohio|0|Error|5|2
+51990656|cincinnati, ohio|0|Error|5|2
+51990656|cincinnati, ohio|579510166|London|3|2
+51990656|cincinnati, ohio|24742957|Kind of Utah...|1|2
+51990656|cincinnati, ohio|0|Error|1|2
+14231914|cincinnati, ohio|29019304|Boston, MA|2|2
+14231914|cincinnati, ohio|40573917|iPhone: 28.414652,-81.587303|2|2
+14231914|cincinnati, ohio|20798400|Celebration, Florida|1|2
+14231914|cincinnati, ohio|29867509|FL|1|2
+14231914|cincinnati, ohio|29806238|33 royal st.|1|2
+26862062|cincinnati, ohio|58040919|Error|7|2
+26862062|cincinnati, ohio|160744529|Error|3|2
+26862062|cincinnati, ohio|30839125|Murrieta, CA|3|2
+26883130|cincinnati, oh|55606097|Cincinnati, OH|3|2
+26883130|cincinnati, oh|63345988|Tallahassee, Florida|1|2
+26883130|cincinnati, oh|18490865|Chandler, AZ   USA|1|2
+26883130|cincinnati, oh|15365771|New York, NY|1|2
+26883130|cincinnati, oh|0|Error|1|2
+26883130|cincinnati, oh|2425909771|Error|1|2
+26883130|cincinnati, oh|0|Error|1|2
+26883130|cincinnati, oh|64966985|Just about anywhere...|1|2
+26883130|cincinnati, oh|24691338|Brooklyn, NY|1|2
+26883130|cincinnati, oh|0|Error|1|2
+26883130|cincinnati, oh|26883130|Cincinnati, OH|1|2
+26883130|cincinnati, oh|16068293|UK|1|2
+26883130|cincinnati, oh|23128414|St. Elsewhere|1|2
+26883130|cincinnati, oh|0|Error|1|2
+15357557|cincinnati, oh|16607904|Error|2|2
+15357557|cincinnati, oh|43666495|Milan - Italy|1|2
+15357557|cincinnati, oh|16166740|Hong Kong / Shenzhen border|1|2
+15357557|cincinnati, oh|0|Error|1|2
+15357557|cincinnati, oh|14389031|Toronto, Ontario, Canada|1|2
+15357557|cincinnati, oh|466761033|Minneapolis |1|2
+15357557|cincinnati, oh|46673695|Wilmington, DE USA|1|2
+11163312|cincinnati, ohio|16863983|SF Bay Area|1|2
+11163312|cincinnati, ohio|3253671|Seattle, WA / Boulder, CO|1|2
+11163312|cincinnati, ohio|16651072|Las Vegas, NV|1|2
+30364745|cincinnati, ohio|74527854|Dayton|4|2
+30364745|cincinnati, ohio|44600932|Dayton/Oxford, Ohio|4|2
+30364745|cincinnati, ohio|86183060|Error|2|2
+30364745|cincinnati, ohio|32959253|Error|1|2
+30364745|cincinnati, ohio|623625714|Error|1|2
+30364745|cincinnati, ohio|46376405|Carmel, IN|1|2
+30364745|cincinnati, ohio|28669612|Error|1|2
+30364745|cincinnati, ohio|813286|Washington, DC|1|2
+15372117|cincinnati, oh|140307712|Argentina|1|2
+63618328|cincinnati, oh|0|Error|3|2
+63618328|cincinnati, oh|0|Error|3|2
+63618328|cincinnati, oh|0|Error|2|2
+63618328|cincinnati, oh|0|Error|1|2
+63618328|cincinnati, oh|0|Error|1|2
+63618328|cincinnati, oh|0|Error|1|2
+63618328|cincinnati, oh|0|Error|1|2
+63618328|cincinnati, oh|0|Error|1|2
+63618328|cincinnati, oh|0|Error|1|2
+63618328|cincinnati, oh|0|Error|1|2
+63618328|cincinnati, oh|63618328|Cincinnati, OH|1|2
+63618328|cincinnati, oh|0|Error|1|2
+63618328|cincinnati, oh|0|Error|1|2
+63618328|cincinnati, oh|0|Error|1|2
+63618328|cincinnati, oh|41126907|U.S.A.|1|2
+63618328|cincinnati, oh|0|Error|1|2
+31133465|cincinnati, oh|29769608|Independence, KY|2|2
+31133465|cincinnati, oh|17413696|Fort Erie, Ontario, Canada|1|2
+31133465|cincinnati, oh|25089386|Northern KY|1|2
+58398927|cincinnati, ohio|23855565|Wherever the games take me!|3|2
+58398927|cincinnati, ohio|8958852|Cincinnati, Ohio|3|2
+58398927|cincinnati, ohio|14776716|Cincinnati|2|2
+58398927|cincinnati, ohio|0|Error|1|2
+58398927|cincinnati, ohio|0|Error|1|2
+58398927|cincinnati, ohio|15535269|Cincinnati, Ohio, USA|1|2
+63211718|cincinnati, ohio|0|Error|1|2
+63211718|cincinnati, ohio|0|Error|1|2
+63211718|cincinnati, ohio|36428022|Cincinnati, Ohio|1|2
+63211718|cincinnati, ohio|0|Error|1|2
+63211718|cincinnati, ohio|0|Error|1|2
+10172902|cincinnati, oh|19133573|Oxford, OH|5|2
+10172902|cincinnati, oh|462239890|Error|2|2
+745233|cincinnati, oh|13012762|Cincinnati|2|2
+745233|cincinnati, oh|0|Error|1|2
+745233|cincinnati, oh|15443339|Cincinnati, Ohio|1|2
+745233|cincinnati, oh|0|Error|1|2
+745233|cincinnati, oh|0|Error|1|2
+745233|cincinnati, oh|0|Error|1|2
+745233|cincinnati, oh|243750516|Error|1|2
+745233|cincinnati, oh|21237045|San Francisco, CA|1|2
+16029545|cincinnati, ohio|69609223|Mason, OH|2|2
+16029545|cincinnati, ohio|14161120|Centerville, OH|1|2
+16029545|cincinnati, ohio|0|Error|1|2
+16029545|cincinnati, ohio|15467058|West Chester, Ohio|1|2
+16029545|cincinnati, ohio|385681053|Cincinnati, OH|1|2
+44815180|cincinnati, ohio|29509060|Las Vegas|2|2
+44815180|cincinnati, ohio|4259561|fistcity|1|2
+44815180|cincinnati, ohio|0|Error|1|2
+44815180|cincinnati, ohio|20411461|Lanark (IL, United States)|1|2
+44815180|cincinnati, ohio|1309589870|Error|1|2
+44815180|cincinnati, ohio|1386831|New Richmond, OH|1|2
+44815180|cincinnati, ohio|57082065|Error|1|2
+30136094|cincinnati, ohio|17932463|Albuquerque, New Mexico, USA|1|2
+30136094|cincinnati, ohio|16132529|Dayton, OH|1|2
+30136094|cincinnati, ohio|0|Error|1|2
+16506878|cincinnati, oh|49107927|here and there|1|2
+16506878|cincinnati, oh|0|Error|1|2
+16506878|cincinnati, oh|48515789|Error|1|2
+16506878|cincinnati, oh|0|Error|1|2
+16506878|cincinnati, oh|58577184|Cincinnati, OH|1|2
+16506878|cincinnati, oh|13965682|Cincinnati Ohio|1|2
+16506878|cincinnati, oh|26483706|Charlotte, NC|1|2
+17559434|cincinnati, ohio|33694840|Los Angeles|3|2
+17559434|cincinnati, ohio|27255431|On Cloud Nine|2|2
+17559434|cincinnati, ohio|23400642|Cincinnati, Ohio|2|2
+17559434|cincinnati, ohio|41969921|Tuscaloosa, AL|1|2
+17559434|cincinnati, ohio|18957524|New York, NY|1|2
+55326224|cincinnati, oh|28409700|GO DAWGS|2|2
+55326224|cincinnati, oh|34027817|Union, KY|1|2
+55326224|cincinnati, oh|27754539|Ohiooooo|1|2
+55326224|cincinnati, oh|0|Error|1|2
+22821576|cincinnati, oh|15033790|Ohio|2|2
+22821576|cincinnati, oh|0|Error|1|2
+22821576|cincinnati, oh|0|Error|1|2
+22821576|cincinnati, oh|22821576|Error|1|2
+22821576|cincinnati, oh|17613487|Porkopolis|1|2
+22821576|cincinnati, oh|14069365|Brooklyn|1|2
+22821576|cincinnati, oh|17234137|Chicago|1|2
+22821576|cincinnati, oh|15535269|Cincinnati, Ohio, USA|1|2
+22821576|cincinnati, oh|23146874|Error|1|2
+22821576|cincinnati, oh|25947513|iPhone: 39.946896,-82.999992|1|2
+22821576|cincinnati, oh|17175533|Cincinnati, Ohio|1|2
+22821576|cincinnati, oh|10371822|Washington, DC|1|2
+47987511|cincinnati, oh|0|Error|2|2
+47987511|cincinnati, oh|3428603699|At an In-N-Out|1|2
+25967635|cincinnati, ohio|0|Error|2|2
+25967635|cincinnati, ohio|65952652|Ohio|2|2
+30162375|cincinnati, ohio|0|Error|2|2
+16386707|cincinnati, ohio|300396257|Washington State|2|2
+16386707|cincinnati, ohio|17987072|California|1|2
+16386707|cincinnati, ohio|0|Error|1|2
+15497665|cincinnati, oh|0|Error|3|2
+15497665|cincinnati, oh|30435670|Concord, NH|2|2
+15497665|cincinnati, oh|0|Error|2|2
+15497665|cincinnati, oh|14912012|Boone, NC|2|2
+15497665|cincinnati, oh|0|Error|2|2
+15497665|cincinnati, oh|0|Error|1|2
+15497665|cincinnati, oh|14076060|Benedict, MD|1|2
+15497665|cincinnati, oh|18888345|Evansville, Indiana|1|2
+15497665|cincinnati, oh|0|Error|1|2
+15497665|cincinnati, oh|29484311|Longmont, Colorado|1|2
+15497665|cincinnati, oh|17838059|Austin, TX|1|2
+15497665|cincinnati, oh|3774062592|Error|1|2
+53247153|cincinnati, ohio|50725573|Palm Beach Gardens, Fl|8|2
+53247153|cincinnati, ohio|180107031|Error|7|2
+53247153|cincinnati, ohio|1593868536|Error|4|2
+53247153|cincinnati, ohio|52939106|Los Angeles|1|2
+30206462|cincinnati, oh|22269365|Buffalo, NY|6|2
+30206462|cincinnati, oh|0|Error|1|2
+30206462|cincinnati, oh|23371186|florida|1|2
+30206462|cincinnati, oh|34311352|Ohio|1|2
+22871196|cincinnati, ohio|11282762|Cincinnati OH|4|2
+22871196|cincinnati, ohio|43149244|Louisville, KY|1|2
+22871196|cincinnati, ohio|65478056|Hollywood, CA|1|2
+22871196|cincinnati, ohio|0|Error|1|2
+22871196|cincinnati, ohio|40732385|Error|1|2
+22871196|cincinnati, ohio|264036590|Error|1|2
+22871196|cincinnati, ohio|62902439|Bay Areaaaaaa|1|2
+22871196|cincinnati, ohio|16264006|jet lag city.|1|2
+22871196|cincinnati, ohio|15397660|Hayward, CA|1|2
+22871196|cincinnati, ohio|14709355|The Ranch|1|2
+39651090|cincinnati, oh|54889271|Error|3|2
+39651090|cincinnati, oh|0|Error|2|2
+39651090|cincinnati, oh|0|Error|2|2
+39651090|cincinnati, oh|0|Error|2|2
+39651090|cincinnati, oh|34738865|Columbus Ohio|1|2
+39651090|cincinnati, oh|20894913|Macon GA|1|2
+39651090|cincinnati, oh|0|Error|1|2
+39651090|cincinnati, oh|0|Error|1|2
+39651090|cincinnati, oh|274091053|San Fran, CA to Jville, FL|1|2
+39651090|cincinnati, oh|0|Error|1|2
+39651090|cincinnati, oh|28918909|*in the kitchen*|1|2
+17639442|cincinnati, oh|0|Error|5|2
+17639442|cincinnati, oh|23702126|45211|3|2
+17639442|cincinnati, oh|52271774|Matthews, NC|2|2
+17639442|cincinnati, oh|163054078|Error|1|2
+14499633|cincinnati, oh|541790595|iamrobort|1|2
+14499633|cincinnati, oh|49026824|@ Starbucks|1|2
+14499633|cincinnati, oh|1573697059|Error|1|2
+14499633|cincinnati, oh|18058317|Washington, DC|1|2
+14499633|cincinnati, oh|18867059|Error|1|2
+14499633|cincinnati, oh|0|Error|1|2
+14499633|cincinnati, oh|0|Error|1|2
+21839925|cincinnati, oh|14939753|Error|4|2
+21839925|cincinnati, oh|1033841|iPhone: 21.953192,-159.667343|2|2
+21839925|cincinnati, oh|19330238|Dallas. Austin. PA. The World.|2|2
+21839925|cincinnati, oh|14378132|Syracuse, NY, USA|1|2
+21839925|cincinnati, oh|16049663|Chicago|1|2
+21839925|cincinnati, oh|20794651|Error|1|2
+21839925|cincinnati, oh|20112111|Boston|1|2
+21839925|cincinnati, oh|16098749|iPhone: 40.753166,-73.991455|1|2
+7160722|cincinnati, oh|0|Error|6|2
+7160722|cincinnati, oh|14585775|Miamisburg, OH|3|2
+7160722|cincinnati, oh|407326902|Sacramento|2|2
+7160722|cincinnati, oh|733507464|Error|1|2
+7160722|cincinnati, oh|17824873|south carolina|1|2
+7160722|cincinnati, oh|15976697|USA|1|2
+7160722|cincinnati, oh|2067661|Cincinnati, Ohio, USA|1|2
+34428106|cincinnati, ohio|18556132|Whittier, Los Angeles CA|3|2
+34428106|cincinnati, ohio|69923410|Anaheim Hills, CA.|1|2
+34428106|cincinnati, ohio|16867505|Error|1|2
+34428106|cincinnati, ohio|41264383|Error|1|2
+34428106|cincinnati, ohio|20563578|Rochester, NY|1|2
+34428106|cincinnati, ohio|38100233|Alfonso, Cavite|1|2
+34428106|cincinnati, ohio|46007125|Cincinnati, Ohio|1|2
+34428106|cincinnati, ohio|31058285|All Over The World |1|2
+24991894|cincinnati, oh|24776235|US|14|2
+24991894|cincinnati, oh|228472376|Error|2|2
+24991894|cincinnati, oh|52232144|Error|2|2
+24991894|cincinnati, oh|30030379|New York, NY|1|2
+24991894|cincinnati, oh|0|Error|1|2
+24991894|cincinnati, oh|28456384|Error|1|2
+18713366|cincinnati, oh|15358159|iPhone: 38.409714,-82.428291|5|2
+18713366|cincinnati, oh|31367584|Error|2|2
+18713366|cincinnati, oh|0|Error|1|2
+18713366|cincinnati, oh|16683643|Orlando, FL|1|2
+18713366|cincinnati, oh|264036590|Error|1|2
+18713366|cincinnati, oh|0|Error|1|2
+18713366|cincinnati, oh|0|Error|1|2
+18713366|cincinnati, oh|0|Error|1|2
+18713366|cincinnati, oh|309230861|221B|1|2
+72193127|cincinnati, oh|0|Error|1|2
+72193127|cincinnati, oh|52939106|Los Angeles|1|2
+72193127|cincinnati, oh|0|Error|1|2
+72193127|cincinnati, oh|1177075033|Error|1|2
+72193127|cincinnati, oh|325288320|Error|1|2
+72193127|cincinnati, oh|18228898|New York, NY, USA|1|2
+51232465|cincinnati, oh|0|Error|3|2
+51232465|cincinnati, oh|0|Error|1|2
+51232465|cincinnati, oh|0|Error|1|2
+51232465|cincinnati, oh|44229311|on the plane flying over you..|1|2
+22933954|cincinnati, oh|0|Error|1|2
+22933954|cincinnati, oh|10798802|boston/upstate NY/oz/the road|1|2
+33420530|cincinnati, oh|0|Error|8|2
+33420530|cincinnati, oh|38252077|Los Angeles|2|2
+33420530|cincinnati, oh|27078313|savannah, georgia|1|2
+22938885|cincinnati, oh|1677901|Cincinnati, Ohio|3|2
+22938885|cincinnati, oh|25858396|Cincinnati, OH|3|2
+22938885|cincinnati, oh|0|Error|3|2
+22938885|cincinnati, oh|0|Error|2|2
+22938885|cincinnati, oh|54988521|Error|1|2
+22938885|cincinnati, oh|6539592|About to perform near you|1|2
+22938885|cincinnati, oh|426866419|Error|1|2
+22938885|cincinnati, oh|22938885|London, UK|1|2
+22938885|cincinnati, oh|14659245|Error|1|2
+22938885|cincinnati, oh|22336786|Huntington Beach, CA|1|2
+22938885|cincinnati, oh|18727223|Cincinnati, OH|1|2
+22938885|cincinnati, oh|0|Error|1|2
+18745624|cincinnati, ohio|2942659096|OKC|1|2
+18745624|cincinnati, ohio|14155772|Cincinnati, OH|1|2
+18745624|cincinnati, ohio|22176791|Cincinnati|1|2
+18745624|cincinnati, ohio|36955669|Wapakoneta|1|2
+18745624|cincinnati, ohio|21405573|MI|1|2
+18745624|cincinnati, ohio|15312876|Cincinnati|1|2
+18745624|cincinnati, ohio|23080814|Cincinnati, Ohio|1|2
+18745624|cincinnati, ohio|17726869|Error|1|2
+18745624|cincinnati, ohio|0|Error|1|2
+18745624|cincinnati, ohio|0|Error|1|2
+18745624|cincinnati, ohio|17243620|Error|1|2
+19796286|cincinnati, ohio|31206523|St Louis, MO|2|2
+19796286|cincinnati, ohio|0|Error|1|2
+19796286|cincinnati, ohio|0|Error|1|2
+30286072|cincinnati, ohio|178982928|Error|1|2
+14569589|cincinnati, oh|43588180|Liverpool|3|2
+14569589|cincinnati, oh|15474627|Summerville, SC|2|2
+14569589|cincinnati, oh|14255057|Omaha, NE|1|2
+14569589|cincinnati, oh|14136311|Error|1|2
+14569589|cincinnati, oh|602203324|manchester|1|2
+14569589|cincinnati, oh|17409789|Error|1|2
+14569589|cincinnati, oh|14639235|Atlanta|1|2
+14569589|cincinnati, oh|109425487|Bexley Ohio|1|2
+14569589|cincinnati, oh|9919112|MAss suburbs|1|2
+14569589|cincinnati, oh|13127032|Nashville, TN|1|2
+14569589|cincinnati, oh|14304739|Atlanta, GA|1|2
+14569589|cincinnati, oh|0|Error|1|2
+14569589|cincinnati, oh|14172899|Philadelphia, Pa - Recruiting |1|2
+14569589|cincinnati, oh|0|Error|1|2
+14569589|cincinnati, oh|0|Error|1|2
+14569589|cincinnati, oh|34336039|Error|1|2
+14569589|cincinnati, oh|0|Error|1|2
+14569589|cincinnati, oh|256659038|Error|1|2
+16060663|cincinnati, ohio|2752086617|Gosberton |2|2
+16060663|cincinnati, ohio|0|Error|2|2
+16060663|cincinnati, ohio|41274607|Atlanta, GA|2|2
+16060663|cincinnati, ohio|17875053|Louisville, Kentucky|2|2
+16060663|cincinnati, ohio|14834889|Nashville, TN|2|2
+16060663|cincinnati, ohio|9697482|Cincinnati|1|2
+16060663|cincinnati, ohio|6655632|Asheville, NC|1|2
+16060663|cincinnati, ohio|76857111|Usually on my iPhone!|1|2
+16060663|cincinnati, ohio|76168388|Cabot, Ar |1|2
+16060663|cincinnati, ohio|14086764|London, England|1|2
+16060663|cincinnati, ohio|18090559|iPhone: |1|2
+16060663|cincinnati, ohio|0|Error|1|2
+16060663|cincinnati, ohio|0|Error|1|2
+16060663|cincinnati, ohio|13220972|atl, ga|1|2
+15627485|cincinnati, oh|3210151|Austin, TX|2|2
+15627485|cincinnati, oh|72822984|london|1|2
+15627485|cincinnati, oh|0|Error|1|2
+15627485|cincinnati, oh|54837399|London|1|2
+15627485|cincinnati, oh|0|Error|1|2
+15627485|cincinnati, oh|0|Error|1|2
+15627485|cincinnati, oh|627201175|Error|1|2
+15627485|cincinnati, oh|0|Error|1|2
+15627485|cincinnati, oh|48177287|Atlanta, Georgia|1|2
+15627485|cincinnati, oh|16832044|California|1|2
+15627485|cincinnati, oh|0|Error|1|2
+15627485|cincinnati, oh|123820135|Error|1|2
+15627485|cincinnati, oh|102174573|Error|1|2
+15627485|cincinnati, oh|47522556|Error|1|2
+15627485|cincinnati, oh|60742595|Minneapolis|1|2
+30250525|cincinnati, oh|0|Error|6|2
+30250525|cincinnati, oh|16264006|jet lag city.|2|2
+30250525|cincinnati, oh|61106258|Cincinnati|1|2
+30250525|cincinnati, oh|0|Error|1|2
+30250525|cincinnati, oh|14166346|Los Angeles, CA|1|2
+30250525|cincinnati, oh|18378446|Baltimore, MD|1|2
+30250525|cincinnati, oh|18734884|Heart's in Baltimore|1|2
+30250525|cincinnati, oh|0|Error|1|2
+25078898|cincinnati, oh|0|Error|1|2
+25078898|cincinnati, oh|6040382|New Orleans, Louisiana|1|2
+25078898|cincinnati, oh|76650927|Error|1|2
+25078898|cincinnati, oh|0|Error|1|2
+25078898|cincinnati, oh|0|Error|1|2
+25078898|cincinnati, oh|37708610|USA|1|2
+25078898|cincinnati, oh|28150655|Cincinnati, OH |1|2
+25078898|cincinnati, oh|633493|Error|1|2
+25078898|cincinnati, oh|114927133|England|1|2
+20891903|cincinnati, ohio|17471457|Virginia|1|2
+20891903|cincinnati, ohio|19251068|Atlanta|1|2
+20891903|cincinnati, ohio|14840786|Error|1|2
+20891903|cincinnati, ohio|14965482|Error|1|2
+20891903|cincinnati, ohio|32497016|Error|1|2
+20891903|cincinnati, ohio|0|Error|1|2
+18163201|cincinnati, ohio|0|Error|4|2
+18163201|cincinnati, ohio|23125550|Ohio|2|2
+18163201|cincinnati, ohio|0|Error|1|2
+18163201|cincinnati, ohio|35094637|New York City|1|2
+21949305|cincinnati, oh|14165522|Eden Prairie, MN|11|2
+21949305|cincinnati, oh|0|Error|1|2
+30048053|cincinnati, oh|24776235|US|9|2
+30048053|cincinnati, oh|0|Error|3|2
+30048053|cincinnati, oh|274144368|Shiremoor, Newcastle Upon Tyne|3|2
+30048053|cincinnati, oh|0|Error|1|2
+30048053|cincinnati, oh|0|Error|1|2
+30048053|cincinnati, oh|30541784|StL|1|2
+14625589|cincinnati, oh|363324770|Error|2|2
+14625589|cincinnati, oh|14428947|Eugene, OR|2|2
+14625589|cincinnati, oh|11397752|Seattle, WA|1|2
+17781880|cincinnati, ohio|965091|Seattle, WA|1|2
+17781880|cincinnati, ohio|13655472|Minneapolis|1|2
+17781880|cincinnati, ohio|0|Error|1|2
+17781880|cincinnati, ohio|7670202|Ape Hole, NB|1|2
+17781880|cincinnati, ohio|0|Error|1|2
+17781880|cincinnati, ohio|25930676|Cincinnati, Ohio|1|2
+17781880|cincinnati, ohio|755431|Seattle, Wa|1|2
+75459817|cincinnati, ohio|25078384|Error|7|2
+75459817|cincinnati, ohio|60157781|Cincinnati|2|2
+75459817|cincinnati, ohio|16799584|Cincinnati, OH|2|2
+75459817|cincinnati, ohio|18309234|Indianapolis|2|2
+75459817|cincinnati, ohio|14178714|Cincinnati, OH|2|2
+75459817|cincinnati, ohio|0|Error|1|2
+75459817|cincinnati, ohio|14120099|Cincinnati, OH|1|2
+75459817|cincinnati, ohio|0|Error|1|2
+75459817|cincinnati, ohio|0|Error|1|2
+75459817|cincinnati, ohio|15997823|Cincinnati, OH USA|1|2
+36664382|cincinnati, oh|0|Error|2|2
+36664382|cincinnati, oh|595803260|Error|2|2
+36664382|cincinnati, oh|0|Error|1|2
+36664382|cincinnati, oh|3900494360|Encino, California|1|2
+36664382|cincinnati, oh|46417885|Washington, DC|1|2
+36664382|cincinnati, oh|35767916|Phoenix & Minneapolis, USA|1|2
+36664382|cincinnati, oh|494745166|Error|1|2
+36664382|cincinnati, oh|143163865|Cleveland, OH|1|2
+18842437|cincinnati, ohio|28374282|Cincinnati USA|3|2
+18842437|cincinnati, ohio|17913181|Las Vegas, Chicago, Dallas|2|2
+18842437|cincinnati, ohio|13565432|Cincinnati, OH, USA|1|2
+18842437|cincinnati, ohio|14343083|Cincinnati|1|2
+18842437|cincinnati, ohio|7510322|Error|1|2
+18842437|cincinnati, ohio|7433912|Ohio|1|2
+18842437|cincinnati, ohio|1893561|Cincinnati|1|2
+18842437|cincinnati, ohio|13906222|Moncton, NB|1|2
+18842437|cincinnati, ohio|6434802|the interweb|1|2
+18842437|cincinnati, ohio|26721151|long beach, ca|1|2
+18842437|cincinnati, ohio|0|Error|1|2
+18842437|cincinnati, ohio|0|Error|1|2
+18842437|cincinnati, ohio|608473|Arlington, VA|1|2
+18842437|cincinnati, ohio|7807162|Cincinnati|1|2
+18842437|cincinnati, ohio|97411386|Error|1|2
+18842437|cincinnati, ohio|0|Error|1|2
+18842437|cincinnati, ohio|385681053|Cincinnati, OH|1|2
+45060265|cincinnati, oh|19949514|London|4|2
+45060265|cincinnati, oh|0|Error|3|2
+45060265|cincinnati, oh|785841|San Francisco-ish, California|3|2
+45060265|cincinnati, oh|0|Error|3|2
+45060265|cincinnati, oh|278545244|Error|2|2
+45060265|cincinnati, oh|48508764|Hopefully on a golf course|1|2
+45060265|cincinnati, oh|346786674|Error|1|2
+45060265|cincinnati, oh|0|Error|1|2

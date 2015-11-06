@@ -1,0 +1,551 @@
+14558147|st petersburg, fl|16710968|Corpus Christi, Texas|4|2
+14558147|st petersburg, fl|2648076900|Error|3|2
+14558147|st petersburg, fl|6647852|Orlando, FL|2|2
+14558147|st petersburg, fl|11539982|The Jersey Shore!|2|2
+14558147|st petersburg, fl|9524712|Albany, NY|2|2
+14558147|st petersburg, fl|15433596|Seattle|2|2
+14558147|st petersburg, fl|22688529|St Petersburg, FL|2|2
+14558147|st petersburg, fl|0|Error|2|2
+14558147|st petersburg, fl|0|Error|2|2
+14558147|st petersburg, fl|16936490|Tampa Bay area, Florida|2|2
+14558147|st petersburg, fl|900407124|Error|1|2
+14558147|st petersburg, fl|16302651|Brooklyn, NY|1|2
+14558147|st petersburg, fl|17261878|Florida|1|2
+14558147|st petersburg, fl|13951382|CNX - KBV - CEB - BER - MDE|1|2
+14558147|st petersburg, fl|20788035|Colorado Springs|1|2
+14558147|st petersburg, fl|0|Error|1|2
+14558147|st petersburg, fl|24321025|Stilly, Oklahoma|1|2
+14558147|st petersburg, fl|23526872|St. Petersburg, Florida|1|2
+14558147|st petersburg, fl|22797122|Orlando, FL|1|2
+14558147|st petersburg, fl|448888037|Error|1|2
+14558147|st petersburg, fl|0|Error|1|2
+15876267|st petersburg, florida|42736842|Los Angeles|4|2
+15876267|st petersburg, florida|735328724|New Jersey, USA|2|2
+15876267|st petersburg, florida|1528384508|Error|1|2
+15876267|st petersburg, florida|16164520|Austin|1|2
+22299947|st petersburg, florida|431224879|Error|16|2
+22299947|st petersburg, florida|0|Error|9|2
+22299947|st petersburg, florida|0|Error|5|2
+22299947|st petersburg, florida|16413845|NC/NY|5|2
+22299947|st petersburg, florida|518784354|Error|4|2
+22299947|st petersburg, florida|0|Error|4|2
+22299947|st petersburg, florida|15926905|brooklyn|3|2
+22299947|st petersburg, florida|0|Error|3|2
+22299947|st petersburg, florida|271725267|Jet$ Crib Foo|2|2
+22299947|st petersburg, florida|16116045|Louisville, KY|2|2
+22299947|st petersburg, florida|17530277|everywhere doing everything |2|2
+22299947|st petersburg, florida|35586563|Error|2|2
+22299947|st petersburg, florida|19028953|Error|2|2
+22299947|st petersburg, florida|447289741|Error|2|2
+22299947|st petersburg, florida|19496008|The South|2|2
+22299947|st petersburg, florida|22299947|Miami, FL|1|2
+22299947|st petersburg, florida|15437723|Error|1|2
+22299947|st petersburg, florida|326859892|Error|1|2
+22299947|st petersburg, florida|18663366|Error|1|2
+22299947|st petersburg, florida|0|Error|1|2
+22299947|st petersburg, florida|817113|New York, NY|1|2
+22299947|st petersburg, florida|0|Error|1|2
+22299947|st petersburg, florida|0|Error|1|2
+22299947|st petersburg, florida|0|Error|1|2
+22299947|st petersburg, florida|0|Error|1|2
+22299947|st petersburg, florida|40626514|Instagram @affioncrockett |1|2
+22299947|st petersburg, florida|33376178|Error|1|2
+22299947|st petersburg, florida|17112369|Washington, DC|1|2
+22299947|st petersburg, florida|3323066952|Error|1|2
+22299947|st petersburg, florida|7574102|Brooklyn|1|2
+22299947|st petersburg, florida|17740885|IG: 19IsHisNumber|1|2
+22299947|st petersburg, florida|18345994|Error|1|2
+22299947|st petersburg, florida|2996392984|London|1|2
+22299947|st petersburg, florida|2853377854|Error|1|2
+22299947|st petersburg, florida|17915334|Detroit, MI|1|2
+22299947|st petersburg, florida|4081481|New Jersey|1|2
+22299947|st petersburg, florida|15808765|Newark, NJ|1|2
+22299947|st petersburg, florida|36089902|In the car. Watch out!|1|2
+22299947|st petersburg, florida|30979004|Error|1|2
+22299947|st petersburg, florida|180601330|Error|1|2
+22299947|st petersburg, florida|18157057|Detroit|1|2
+22299947|st petersburg, florida|64751433|Detroit, Michigan|1|2
+22299947|st petersburg, florida|0|Error|1|2
+22299947|st petersburg, florida|17853760|LA|1|2
+22299947|st petersburg, florida|16722779|NYC|1|2
+22299947|st petersburg, florida|18837399|DC|1|2
+22299947|st petersburg, florida|29772561|Error|1|2
+22299947|st petersburg, florida|25953581|Error|1|2
+22299947|st petersburg, florida|53258013|US, the hub of world economy|1|2
+22299947|st petersburg, florida|18915240|Seeking Salvation|1|2
+22299947|st petersburg, florida|1007280440|senatobia,ms|1|2
+22299947|st petersburg, florida|96261889|Error|1|2
+22299947|st petersburg, florida|0|Error|1|2
+30820002|st petersburg, fl|0|Error|13|2
+30820002|st petersburg, fl|41598384|Tampa, FL|7|2
+30820002|st petersburg, fl|15859099|Tampa, Florida|4|2
+30820002|st petersburg, fl|0|Error|2|2
+30820002|st petersburg, fl|61508222|Tampa, FL|2|2
+30820002|st petersburg, fl|18962401|Cant Stand, Florida|2|2
+30820002|st petersburg, fl|48048282|666 Central Ave, DOWNTOWN|2|2
+30820002|st petersburg, fl|0|Error|2|2
+30820002|st petersburg, fl|0|Error|2|2
+30820002|st petersburg, fl|27987646|Los Angeles, CA|2|2
+30820002|st petersburg, fl|21314199|The Asylum|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|70797924|Nederland, Colorado |1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|18994204|all around the world|1|2
+30820002|st petersburg, fl|21291890|Florida|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|33248807|Philadelphia |1|2
+30820002|st petersburg, fl|100312878|Long Island, NY|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|8614572|Georgia, USA|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|15591951|San Diego, California|1|2
+30820002|st petersburg, fl|16467410|Tampa || Fort Myers || Naples|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|42594553|Brooklyn, NY|1|2
+30820002|st petersburg, fl|18712171|Southern California|1|2
+30820002|st petersburg, fl|21716360|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|30073357|Error|1|2
+30820002|st petersburg, fl|25437497|salt lake city|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|1244947699|Error|1|2
+30820002|st petersburg, fl|42809405|St. Petersburg, FL, USA|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|0|Error|1|2
+30820002|st petersburg, fl|38787539|@_FloggingMolly|1|2
+30820002|st petersburg, fl|9359232|Hell|1|2
+30820002|st petersburg, fl|18953834|St. Petersburg, FL|1|2
+15222519|st petersburg, fl|5683952|appleton, wi|1|2
+34601048|st petersburg, florida|538774523|Error|1|2
+34601048|st petersburg, florida|172485225|Error|1|2
+34601048|st petersburg, florida|0|Error|1|2
+19752173|st petersburg, fl|78764508|here and there|7|2
+19752173|st petersburg, fl|76896453|Pacifica, Ca|3|2
+19752173|st petersburg, fl|10916722|Orange County|2|2
+19752173|st petersburg, fl|1967795036|Error|2|2
+19752173|st petersburg, fl|0|Error|2|2
+19752173|st petersburg, fl|61699877|Never Never Land |2|2
+19752173|st petersburg, fl|1795044354|Error|2|2
+19752173|st petersburg, fl|0|Error|1|2
+19752173|st petersburg, fl|0|Error|1|2
+19752173|st petersburg, fl|2416029919|Error|1|2
+19752173|st petersburg, fl|43003845|Tennessee|1|2
+19752173|st petersburg, fl|0|Error|1|2
+19752173|st petersburg, fl|18314308|Nashville, TN|1|2
+19752173|st petersburg, fl|16325690|Error|1|2
+19752173|st petersburg, fl|78348996|Error|1|2
+19752173|st petersburg, fl|42533748|Florida|1|2
+19752173|st petersburg, fl|27493899|San Diego|1|2
+19752173|st petersburg, fl|2823008671|Error|1|2
+19752173|st petersburg, fl|459675875|Big Sky, MT|1|2
+19752173|st petersburg, fl|161508743|Error|1|2
+18243145|st petersburg, fl|40327314|Error|4|2
+18243145|st petersburg, fl|22465721|Vienna, VA|3|2
+18243145|st petersburg, fl|48847382|Internationally Known|2|2
+18243145|st petersburg, fl|0|Error|1|2
+18243145|st petersburg, fl|23321566|Error|1|2
+18243145|st petersburg, fl|540094868|Error|1|2
+18243145|st petersburg, fl|21907142|Worldwide|1|2
+18243145|st petersburg, fl|172663567|Error|1|2
+18243145|st petersburg, fl|0|Error|1|2
+18243145|st petersburg, fl|62195462|Tampa Florida|1|2
+18243145|st petersburg, fl|18960669|Bay Area, CA |1|2
+18243145|st petersburg, fl|18243145|St. Petersburg, FL|1|2
+18243145|st petersburg, fl|0|Error|1|2
+18243145|st petersburg, fl|189181547|Error|1|2
+18243145|st petersburg, fl|70560711|Error|1|2
+18243145|st petersburg, fl|39627161|Ft. Myers, FL|1|2
+18243145|st petersburg, fl|0|Error|1|2
+18243145|st petersburg, fl|0|Error|1|2
+18243145|st petersburg, fl|0|Error|1|2
+18243145|st petersburg, fl|20340970|NYC|1|2
+18243145|st petersburg, fl|22968816|Tampa, FL|1|2
+18243145|st petersburg, fl|42809405|St. Petersburg, FL, USA|1|2
+18243145|st petersburg, fl|0|Error|1|2
+18243145|st petersburg, fl|47122279|st. petersburg, florida|1|2
+18243145|st petersburg, fl|15381679|Chicago, IL|1|2
+18243145|st petersburg, fl|0|Error|1|2
+18243145|st petersburg, fl|16255706|Renfrew, Canada|1|2
+48916742|st petersburg, florida|0|Error|4|2
+48916742|st petersburg, florida|16632916|Error|2|2
+48916742|st petersburg, florida|28534252|Poulterland|2|2
+48916742|st petersburg, florida|489538454|Orlando, Fl|1|2
+48916742|st petersburg, florida|15170566|Error|1|2
+48916742|st petersburg, florida|42566787|Tampa Bay, FL|1|2
+48916742|st petersburg, florida|18116794|Santa Rosa, Ca|1|2
+48916742|st petersburg, florida|0|Error|1|2
+48916742|st petersburg, florida|17919972|Error|1|2
+48916742|st petersburg, florida|21255118|Driving in circles...|1|2
+48916742|st petersburg, florida|26541509|LA | NYC | SCOTTSDALE|1|2
+64780470|st petersburg, florida|54555255|Error|6|2
+64780470|st petersburg, florida|57371662|New York City|4|2
+64780470|st petersburg, florida|33692766|Miami @Chica World Wide LLC|4|2
+64780470|st petersburg, florida|17444573|New Orleans|3|2
+64780470|st petersburg, florida|631046718|Error|3|2
+64780470|st petersburg, florida|0|Error|3|2
+64780470|st petersburg, florida|0|Error|2|2
+64780470|st petersburg, florida|0|Error|2|2
+64780470|st petersburg, florida|50966605|New York|2|2
+64780470|st petersburg, florida|145497315|Port St. Lucie, FL. 34983, USA|1|2
+64780470|st petersburg, florida|452876738|Error|1|2
+64780470|st petersburg, florida|14934818|New York, NY|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|376437542|Madrid|1|2
+64780470|st petersburg, florida|23089953|United States|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|82531346|Error|1|2
+64780470|st petersburg, florida|38434916|New York City|1|2
+64780470|st petersburg, florida|28283094|Boston, MA, US|1|2
+64780470|st petersburg, florida|163685528|Utopian state of mind|1|2
+64780470|st petersburg, florida|54155942|USA|1|2
+64780470|st petersburg, florida|20013340|NYC|1|2
+64780470|st petersburg, florida|47374114|Somewhere over the Rainbow|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|17371873|Los Angeles, CA|1|2
+64780470|st petersburg, florida|31277016|cleveland ohio|1|2
+64780470|st petersburg, florida|471676773|Error|1|2
+64780470|st petersburg, florida|52881899|Error|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|58907608|New York, NY|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|9624042|Memphis, TN|1|2
+64780470|st petersburg, florida|40824374|Error|1|2
+64780470|st petersburg, florida|441374099|New Yawk|1|2
+64780470|st petersburg, florida|18128265|San Francisco, California|1|2
+74479903|st petersburg, fl|22185124|Cubicle Hell|7|2
+74479903|st petersburg, fl|20666391|Utrecht|2|2
+74479903|st petersburg, fl|45656977|1100+ stores in US Nationwide|1|2
+74479903|st petersburg, fl|25136369|Indiana, USA|1|2
+74479903|st petersburg, fl|24816382|Halifax, NS|1|2
+74479903|st petersburg, fl|24342348|Australia|1|2
+74479903|st petersburg, fl|62620584|www.saraleedeli.com|1|2
+43024138|st petersburg, fl|0|Error|3|2
+43024138|st petersburg, fl|55719542|San Frangeles, CA|2|2
+43024138|st petersburg, fl|0|Error|2|2
+43024138|st petersburg, fl|0|Error|2|2
+43024138|st petersburg, fl|90420314|Manhattanland|1|2
+43024138|st petersburg, fl|23544596|Los Angeles |1|2
+43024138|st petersburg, fl|20777187|Las Vegas, NV|1|2
+43024138|st petersburg, fl|18704291|Edgewater Park, NJ|1|2
+43024138|st petersburg, fl|0|Error|1|2
+43024138|st petersburg, fl|0|Error|1|2
+43024138|st petersburg, fl|14371934|Bloomington|1|2
+43024138|st petersburg, fl|16446860|New York|1|2
+24769795|st petersburg, fl|1311892872|Error|5|2
+24769795|st petersburg, fl|24769795|St. Petersburg, FL|3|2
+24769795|st petersburg, fl|0|Error|2|2
+24769795|st petersburg, fl|0|Error|1|2
+24769795|st petersburg, fl|28809652|St. Petersburg, FL|1|2
+24769795|st petersburg, fl|0|Error|1|2
+24769795|st petersburg, fl|0|Error|1|2
+24769795|st petersburg, fl|0|Error|1|2
+24769795|st petersburg, fl|1898243875|Error|1|2
+24769795|st petersburg, fl|51337550|Huntington, WV|1|2
+42244648|st petersburg, fl|21255118|Driving in circles...|1|2
+42244648|st petersburg, fl|341233825|Philippines. Paris, France|1|2
+19442844|st petersburg, fl|14262537|West of the Magic, FL|2|2
+15380032|st petersburg, florida|1087885128|Melbourne, Australia|3|2
+15380032|st petersburg, florida|0|Error|3|2
+15380032|st petersburg, florida|0|Error|3|2
+15380032|st petersburg, florida|43101579|Atlanta GA|2|2
+15380032|st petersburg, florida|10730882|29.82749985,-95.69028306|2|2
+15380032|st petersburg, florida|17897145|murder city|1|2
+15380032|st petersburg, florida|0|Error|1|2
+15380032|st petersburg, florida|17244796|Fort Mill, SC|1|2
+15380032|st petersburg, florida|0|Error|1|2
+15380032|st petersburg, florida|79245979|Bay Area, CA|1|2
+15102818|st petersburg, fl|14323769|Tampa, Florida|10|2
+42644798|st petersburg, fl|29248042|The Beautiful Berkshires!|1|2
+42644798|st petersburg, fl|0|Error|1|2
+42644798|st petersburg, fl|0|Error|1|2
+88136091|st petersburg, fl|88136091|St. Petersburg, FL|1|2
+88136091|st petersburg, fl|319125632|Error|1|2
+40882144|st petersburg, fl|18093512|Tampa Bay, Florida|2|2
+40882144|st petersburg, fl|0|Error|1|2
+40882144|st petersburg, fl|0|Error|1|2
+40882144|st petersburg, fl|69938617|Error|1|2
+40882144|st petersburg, fl|0|Error|1|2
+40882144|st petersburg, fl|0|Error|1|2
+40882144|st petersburg, fl|267776127|Pinellas County, Florida|1|2
+40882144|st petersburg, fl|17935958|Tampa Bay, Florida|1|2
+40882144|st petersburg, fl|78733014|Springfield, Ohio|1|2
+28111736|st petersburg, florida|20727198|Destiny|1|2
+41749124|st petersburg, fl|0|Error|4|2
+41749124|st petersburg, fl|24328157|Citrus Heights CA|4|2
+41749124|st petersburg, fl|86894150|Auckland, New Zealand|4|2
+41749124|st petersburg, fl|15178982|America|3|2
+41749124|st petersburg, fl|10932022|Pittsburgh, PA|2|2
+41749124|st petersburg, fl|0|Error|1|2
+41749124|st petersburg, fl|56387058|With @HaleyHam #ABIG|1|2
+41749124|st petersburg, fl|1018229635|Amsterdam|1|2
+41749124|st petersburg, fl|22546041|New Port Richey, Florida|1|2
+41749124|st petersburg, fl|792895034|Key West, FL|1|2
+41749124|st petersburg, fl|22688529|St Petersburg, FL|1|2
+41749124|st petersburg, fl|9257622|SF LA SD LV CLE|1|2
+41749124|st petersburg, fl|18561541|Detroit|1|2
+41749124|st petersburg, fl|17586383|los angeles|1|2
+41749124|st petersburg, fl|0|Error|1|2
+41749124|st petersburg, fl|17454769|Dallas, TX. Rockies, NYC.|1|2
+41749124|st petersburg, fl|41749124|St. Petersburg, FL|1|2
+41490390|st petersburg, florida|0|Error|4|2
+41490390|st petersburg, florida|85546644|Error|3|2
+41490390|st petersburg, florida|17157354|Kingston Upon Thames|1|2
+41490390|st petersburg, florida|0|Error|1|2
+41490390|st petersburg, florida|0|Error|1|2
+41490390|st petersburg, florida|0|Error|1|2
+41490390|st petersburg, florida|20819440|Error|1|2
+41490390|st petersburg, florida|0|Error|1|2
+41490390|st petersburg, florida|20204927|Fridays @10/9c on E!|1|2
+41490390|st petersburg, florida|0|Error|1|2
+41490390|st petersburg, florida|14988344|MO, USA|1|2
+41490390|st petersburg, florida|0|Error|1|2
+41490390|st petersburg, florida|0|Error|1|2
+41490390|st petersburg, florida|54751873|Los Angeles California|1|2
+41490390|st petersburg, florida|1331842520|Lavigne, Ontario|1|2
+41490390|st petersburg, florida|0|Error|1|2
+41490390|st petersburg, florida|22179997|Hollywood, CA|1|2
+41490390|st petersburg, florida|2709459511|Error|1|2
+41490390|st petersburg, florida|2883841|Los Angeles, CA|1|2
+41490390|st petersburg, florida|749472168|Error|1|2
+41490390|st petersburg, florida|0|Error|1|2
+25899929|st petersburg, fl|4055811082|Error|4|2
+31143286|st petersburg, fl|23840688|USA & Canada|3|2
+31143286|st petersburg, fl|0|Error|2|2
+31143286|st petersburg, fl|0|Error|1|2
+31143286|st petersburg, fl|44372123|Florida Southern College|1|2
+31143286|st petersburg, fl|11883132|San Francisco|1|2
+31143286|st petersburg, fl|30516074|Shelburne, VT|1|2
+31143286|st petersburg, fl|14785819|Washington, DC|1|2
+25381790|st petersburg, fl|18498684|New York City|1|2
+39543168|st petersburg, fl|28036126|Indy|1|2
+39543168|st petersburg, fl|34394666|Miami, FL|1|2
+39543168|st petersburg, fl|27355033|Far Hills, NJ|1|2
+39543168|st petersburg, fl|73538600|Going Around In Circles!|1|2
+39543168|st petersburg, fl|33174960|Glasgow, Scotland|1|2
+39543168|st petersburg, fl|284769546|Error|1|2
+39543168|st petersburg, fl|907088263|Error|1|2
+39543168|st petersburg, fl|18883262|Decatur , Illinois|1|2
+39543168|st petersburg, fl|0|Error|1|2
+39543168|st petersburg, fl|29825498|iPhone: 37.595261,-77.609383|1|2
+52130850|st petersburg, florida|0|Error|9|2
+52130850|st petersburg, florida|0|Error|4|2
+52130850|st petersburg, florida|0|Error|4|2
+52130850|st petersburg, florida|21705722|Somewhere in my head|2|2
+52130850|st petersburg, florida|236898065|Error|1|2
+52130850|st petersburg, florida|13223692|Myrtle Beach, South Carolina|1|2
+16875347|st petersburg, fl|19636860|St.Pete,Pinellas Park,Tampa|8|2
+16875347|st petersburg, fl|0|Error|3|2
+16875347|st petersburg, fl|0|Error|1|2
+16875347|st petersburg, fl|0|Error|1|2
+16875347|st petersburg, fl|2495950024|Error|1|2
+16875347|st petersburg, fl|60373996|Florida, USA|1|2
+76792736|st petersburg, fl|39505153|Rochester, NY|4|2
+76792736|st petersburg, fl|28028365|Baltimore, MD|3|2
+76792736|st petersburg, fl|68508511|Pittsburgh|2|2
+76792736|st petersburg, fl|33742459|Denver, CO|2|2
+76792736|st petersburg, fl|0|Error|1|2
+76792736|st petersburg, fl|0|Error|1|2
+76792736|st petersburg, fl|87097007|Error|1|2
+76792736|st petersburg, fl|17611891|Error|1|2
+76792736|st petersburg, fl|24929621|Error|1|2
+27125949|st petersburg, fl|38771143|Boston, Ma|12|2
+27125949|st petersburg, fl|33511856|Los Angeles, California |5|2
+27125949|st petersburg, fl|17238769|Colorado|4|2
+27125949|st petersburg, fl|32675988|Clearwater FL |4|2
+27125949|st petersburg, fl|44484303|Chicago|3|2
+27125949|st petersburg, fl|15285305|Worldwide|3|2
+27125949|st petersburg, fl|27125949|Clearwater, FL|3|2
+27125949|st petersburg, fl|27935881|Www.No2abuse.com|2|2
+27125949|st petersburg, fl|32729111|Concord, CA|2|2
+27125949|st petersburg, fl|54186362|Always in front of a computer|2|2
+27125949|st petersburg, fl|48050718|iPhone: 37.612274,-97.312431|1|2
+27125949|st petersburg, fl|62088627|Toronto|1|2
+27125949|st petersburg, fl|14232408|Error|1|2
+27125949|st petersburg, fl|19664316|Southern Utah|1|2
+27125949|st petersburg, fl|1361022463|Kentucky|1|2
+27125949|st petersburg, fl|0|Error|1|2
+27125949|st petersburg, fl|215239279|Error|1|2
+27125949|st petersburg, fl|16314289|In the world!?|1|2
+27125949|st petersburg, fl|270619758|Error|1|2
+27125949|st petersburg, fl|20553464|everywhere |1|2
+27125949|st petersburg, fl|0|Error|1|2
+19923530|st petersburg, fl|19054936|Raleigh, NC|1|2
+19923530|st petersburg, fl|14375412|Error|1|2
+19923530|st petersburg, fl|17839096|instagram: lananita84|1|2
+19923530|st petersburg, fl|15234546|London|1|2
+19923530|st petersburg, fl|54681213|St. Petersburg|1|2
+19923530|st petersburg, fl|0|Error|1|2
+19923530|st petersburg, fl|31217642|Denver, CO|1|2
+19923530|st petersburg, fl|12858752|iPhone: 49.264420,-123.171516|1|2
+16812534|st petersburg, fl|20623781|Charleston, SC|4|2
+16812534|st petersburg, fl|21724117|Chiang Mai|1|2
+16812534|st petersburg, fl|11407882|Cary, NC|1|2
+16812534|st petersburg, fl|586911350|Error|1|2
+16812534|st petersburg, fl|0|Error|1|2
+16812534|st petersburg, fl|14260215|Portland, OR|1|2
+16812534|st petersburg, fl|17660204|Oxnard, CA|1|2
+16812534|st petersburg, fl|20943177|seattle area|1|2
+16812534|st petersburg, fl|15821399|Washington, DC|1|2
+16812534|st petersburg, fl|166533951|Error|1|2
+16812534|st petersburg, fl|0|Error|1|2
+16812534|st petersburg, fl|17386562|Romania|1|2
+16812534|st petersburg, fl|15770852|Houston & Austin, Texas USA|1|2
+16812534|st petersburg, fl|34202536|Sydney|1|2
+16812534|st petersburg, fl|24705492|Lake Elsinore, CA|1|2
+40963148|st petersburg, fl|26228639|Austell, Ga|4|2
+40963148|st petersburg, fl|0|Error|3|2
+40963148|st petersburg, fl|19891596|Atlanta, GA|2|2
+40963148|st petersburg, fl|18444655|A Studio or Stage Near You|2|2
+40963148|st petersburg, fl|31111891|Tampa, Florida|1|2
+40963148|st petersburg, fl|342887079|The EIB Network|1|2
+40963148|st petersburg, fl|0|Error|1|2
+40963148|st petersburg, fl|17544242|Tampa, Florida|1|2
+40963148|st petersburg, fl|455035103|posted|1|2
+40963148|st petersburg, fl|22644797|WiLD World, USA|1|2
+22299947|st petersburg, florida|447289741|Error|6|2
+22299947|st petersburg, florida|1352774959|Error|2|2
+22299947|st petersburg, florida|431224879|Error|2|2
+22299947|st petersburg, florida|23250101|instagram : @plugwondelasoul|1|2
+22299947|st petersburg, florida|0|Error|1|2
+22299947|st petersburg, florida|61663|London, England|1|2
+22299947|st petersburg, florida|2536252215|Error|1|2
+22299947|st petersburg, florida|0|Error|1|2
+22299947|st petersburg, florida|16004411|wherever i am, im prolly late|1|2
+23429932|st petersburg, fl|17687524|Chicago|7|2
+23429932|st petersburg, fl|15080959|Washington, DC|2|2
+23429932|st petersburg, fl|1410447841|Error|1|2
+23429932|st petersburg, fl|3575811|Chicago, IL|1|2
+23429932|st petersburg, fl|1062731|DC|1|2
+23429932|st petersburg, fl|21567383|St. Pete, FL|1|2
+17722159|st petersburg, fl|14402664|Baltimore,MD|3|2
+17722159|st petersburg, fl|30446764|St Petersburg, FL|2|2
+17722159|st petersburg, fl|24787334|MIA, JFK, ATL, SLC, DFW HM=SDQ|1|2
+17722159|st petersburg, fl|0|Error|1|2
+17722159|st petersburg, fl|370552834|Tampa, FL|1|2
+17722159|st petersburg, fl|17840357|Clearwater, FL|1|2
+17722159|st petersburg, fl|17066103|Largo, FL|1|2
+17722159|st petersburg, fl|21567383|St. Pete, FL|1|2
+67573559|st petersburg, florida|1217449698|Jakarta|3|2
+67573559|st petersburg, florida|30255334|Mobile, AL|1|2
+67573559|st petersburg, florida|67464869|Nashville, TN|1|2
+67573559|st petersburg, florida|65212470|here, there, and everywhere|1|2
+67573559|st petersburg, florida|17371468|Central Texas|1|2
+10104742|st petersburg, fl|23442639|Gothopia Moon Base Alpha North|5|2
+10104742|st petersburg, fl|34690379|Humboldt County, CA|1|2
+10104742|st petersburg, fl|0|Error|1|2
+10104742|st petersburg, fl|14434366|Tampa|1|2
+10104742|st petersburg, fl|7861312|Los Angeles, CA|1|2
+10104742|st petersburg, fl|39686986|3451 4th St. N. Saint Pete|1|2
+52130850|st petersburg, florida|1013643702|Error|2|2
+52130850|st petersburg, florida|0|Error|2|2
+52130850|st petersburg, florida|235403137|Error|1|2
+52130850|st petersburg, florida|42726099|St. Petersburg, FL|1|2
+31172192|st petersburg, fl|0|Error|3|2
+31172192|st petersburg, fl|16237734|Dayton, OH & Kingston, NY|2|2
+31172192|st petersburg, fl|0|Error|1|2
+31172192|st petersburg, fl|25287819|Tampa Bay area|1|2
+31172192|st petersburg, fl|38263205|MN, WIS, IA, IN |1|2
+31172192|st petersburg, fl|0|Error|1|2
+31172192|st petersburg, fl|18494242|Error|1|2
+31172192|st petersburg, fl|17593458|Florida|1|2
+31172192|st petersburg, fl|2594093186|Error|1|2
+31172192|st petersburg, fl|17686669|Newport Beach, CA|1|2
+31172192|st petersburg, fl|15090014|Error|1|2
+31172192|st petersburg, fl|32336140|Boulder, CO|1|2
+31172192|st petersburg, fl|0|Error|1|2
+31172192|st petersburg, fl|0|Error|1|2
+31172192|st petersburg, fl|0|Error|1|2
+16527567|st petersburg, fl|0|Error|3|2
+16527567|st petersburg, fl|0|Error|3|2
+16527567|st petersburg, fl|0|Error|2|2
+16527567|st petersburg, fl|0|Error|1|2
+16527567|st petersburg, fl|0|Error|1|2
+16527567|st petersburg, fl|0|Error|1|2
+16527567|st petersburg, fl|0|Error|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|0|Error|1|2
+64780470|st petersburg, florida|0|Error|1|2
+41749124|st petersburg, fl|0|Error|4|2
+41749124|st petersburg, fl|318337325|Error|4|2
+41749124|st petersburg, fl|15178982|America|3|2
+41749124|st petersburg, fl|15709377|Baton Rouge|1|2
+41749124|st petersburg, fl|22688529|St Petersburg, FL|1|2
+41749124|st petersburg, fl|0|Error|1|2
+41749124|st petersburg, fl|0|Error|1|2
+41749124|st petersburg, fl|0|Error|1|2
+49098320|st petersburg, fl|0|Error|2|2
+49098320|st petersburg, fl|16858186|Toronto, Canada|2|2
+49098320|st petersburg, fl|64018901|The United States of Awesome|2|2
+49098320|st petersburg, fl|0|Error|1|2
+49098320|st petersburg, fl|0|Error|1|2
+49098320|st petersburg, fl|0|Error|1|2
+49098320|st petersburg, fl|0|Error|1|2
+49098320|st petersburg, fl|14828860|New Jersey, USA|1|2
+49098320|st petersburg, fl|0|Error|1|2
+49098320|st petersburg, fl|49175000|Flyover country|1|2
+49098320|st petersburg, fl|15907720|DC & NYC|1|2
+49098320|st petersburg, fl|2284296188|Error|1|2
+49098320|st petersburg, fl|0|Error|1|2
+49098320|st petersburg, fl|19543147|Houston, Texas|1|2
+49098320|st petersburg, fl|0|Error|1|2
+49098320|st petersburg, fl|3853077677|Error|1|2
+49098320|st petersburg, fl|1887689972|Bradford|1|2
+49098320|st petersburg, fl|21081237|Northern Shire|1|2
+49098320|st petersburg, fl|238244069|Error|1|2
+49098320|st petersburg, fl|160789311|Error|1|2
+30235944|st petersburg, fl|56267516|Michigan|5|2
+30235944|st petersburg, fl|34139521|conway ar|3|2
+30235944|st petersburg, fl|23419080|Tampa/St. Petersburg|2|2
+30235944|st petersburg, fl|42404429|Chicago|2|2
+30235944|st petersburg, fl|49977254|miami fl|1|2
+30235944|st petersburg, fl|47105932|Fluffya, PA|1|2
+30235944|st petersburg, fl|0|Error|1|2
+30235944|st petersburg, fl|24768053|Mattieland|1|2
+45983853|st petersburg, florida|2846581|Chicago|5|2
+45983853|st petersburg, florida|0|Error|4|2
+45983853|st petersburg, florida|31353077|Los Angeles|1|2
+45983853|st petersburg, florida|32960094|I'm gonna say LA but I mean NY|1|2
+45983853|st petersburg, florida|28057280|Tampa, FL|1|2
+14558147|st petersburg, fl|2936811|Kennewick, WA|3|2
+14558147|st petersburg, fl|75803015|Error|2|2
+14558147|st petersburg, fl|113536603|Error|2|2
+14558147|st petersburg, fl|17519222|Philadelphia, Pa|2|2
+14558147|st petersburg, fl|18055809|Error|1|2
+14558147|st petersburg, fl|41603656|Australia|1|2
+14558147|st petersburg, fl|74254655|NYC baby|1|2
+14558147|st petersburg, fl|28814858|Brooklyn|1|2
+14558147|st petersburg, fl|5299912|33.646033,-91.812198|1|2
+14558147|st petersburg, fl|21268897|New York City|1|2
+14558147|st petersburg, fl|167146105|Error|1|2
+14558147|st petersburg, fl|1354383954|Error|1|2
+14558147|st petersburg, fl|38463976|Miami, Florida|1|2
+59574144|st petersburg, fl|17043155|MI but Faked birth in Kenya|3|2
+59574144|st petersburg, fl|21717987|Deep in the Blue Part of FL|2|2
+59574144|st petersburg, fl|12081832|San Francisco|2|2
+59574144|st petersburg, fl|0|Error|1|2
+59574144|st petersburg, fl|70980952|washington dc|1|2
+59574144|st petersburg, fl|11640472|Minneapolis, MN|1|2
+59574144|st petersburg, fl|21407833|this planet|1|2
+59574144|st petersburg, fl|55049476|Los Angeles|1|2
+59574144|st petersburg, fl|26063171|Chicago from Detroit via DCetc|1|2
+59574144|st petersburg, fl|15784302|Washington, DC|1|2
+59574144|st petersburg, fl|338601496|Las Vegas, Nevada|1|2
+59574144|st petersburg, fl|37300767|Washington, DC|1|2
+32402040|st petersburg, fl|14075928|Error|1|2

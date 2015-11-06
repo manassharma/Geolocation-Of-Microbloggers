@@ -1,0 +1,1613 @@
+15534131|arlington, va|16132559|Washington, DC|6|2
+15534131|arlington, va|16266286|Midland, MI|3|2
+15534131|arlington, va|17655190|Arlington, VA|2|2
+15534131|arlington, va|835824570|Error|2|2
+15534131|arlington, va|0|Error|2|2
+15534131|arlington, va|28194701|Detroit, MI|2|2
+15534131|arlington, va|176549696|Here. There. Everywhere.|2|2
+15534131|arlington, va|9377402|Orlando, FL|1|2
+15534131|arlington, va|17235612|South Florida, USA|1|2
+15534131|arlington, va|337480456|Canada|1|2
+15534131|arlington, va|0|Error|1|2
+15534131|arlington, va|14945515|Arlington, VA|1|2
+15534131|arlington, va|0|Error|1|2
+15534131|arlington, va|83883736|Error|1|2
+15534131|arlington, va|807095|New York City|1|2
+15534131|arlington, va|0|Error|1|2
+15534131|arlington, va|3380241|Detroit, MI|1|2
+15534131|arlington, va|16563663|Michigan|1|2
+15534131|arlington, va|37665386|Burlington, ON|1|2
+15534131|arlington, va|16144811|arlington, va|1|2
+15534131|arlington, va|17288549|Wabash, IN, USA|1|2
+15534131|arlington, va|13126182|Detroit, MI|1|2
+15534131|arlington, va|0|Error|1|2
+15534131|arlington, va|740493|Ogden, UT|1|2
+15534131|arlington, va|14372486|Global|1|2
+15534131|arlington, va|0|Error|1|2
+15534131|arlington, va|24492744|California, USA|1|2
+14947171|arlington, va|48518515|Toronto & Sarasota Fla USA|5|2
+14947171|arlington, va|517738596|Error|4|2
+14947171|arlington, va|15778667|Chicago,IL. USA|3|2
+14947171|arlington, va|5455082|Austria, vienna|3|2
+14947171|arlington, va|26538162|Aarhus, Denmark|2|2
+14947171|arlington, va|15354758|Washington, DC|2|2
+14947171|arlington, va|16886645|Katonah,  NY|2|2
+14947171|arlington, va|1107264290|The Oppressively Hot South|1|2
+14947171|arlington, va|13127042|Brighton, UK|1|2
+14947171|arlington, va|14973247|California|1|2
+14947171|arlington, va|15968007|Bournemouth|1|2
+14947171|arlington, va|0|Error|1|2
+14947171|arlington, va|18078026|Raleigh, NC|1|2
+14947171|arlington, va|19919492|Indiana & Sweden|1|2
+14947171|arlington, va|71283186|Everywhere |1|2
+14947171|arlington, va|1104836994|Error|1|2
+14947171|arlington, va|560238921|Error|1|2
+14947171|arlington, va|7040482|San Diego|1|2
+14947171|arlington, va|19658826|Worldwide|1|2
+14947171|arlington, va|19673173|Manchester|1|2
+14947171|arlington, va|14367399|Error|1|2
+86252910|arlington, va|0|Error|1|2
+23986435|arlington, va|15458366|Washington, DC|3|2
+23986435|arlington, va|8069572|Marin County, CA|3|2
+23986435|arlington, va|2168247852|Error|2|2
+23986435|arlington, va|14193675|Los Angeles, CA|2|2
+23986435|arlington, va|0|Error|1|2
+23986435|arlington, va|15135107|Washington DC|1|2
+23986435|arlington, va|10297|Error|1|2
+23986435|arlington, va|16049299|Boulder, Colorado|1|2
+23986435|arlington, va|0|Error|1|2
+23986435|arlington, va|45747659|San Francisco, CA|1|2
+23986435|arlington, va|11489|San Francisco, CA |1|2
+23986435|arlington, va|15828276|Berkeley and Los Angeles|1|2
+23986435|arlington, va|778057|Washington, DC|1|2
+23986435|arlington, va|0|Error|1|2
+23986435|arlington, va|11278102|Depending when|1|2
+23986435|arlington, va|49555342|Error|1|2
+23986435|arlington, va|3234997048|Error|1|2
+23986435|arlington, va|14251565|Washington, DC|1|2
+23986435|arlington, va|0|Error|1|2
+23986435|arlington, va|28646364|Nashua, NH|1|2
+23986435|arlington, va|1966141|Washington, DC|1|2
+23986435|arlington, va|0|Error|1|2
+23986435|arlington, va|2176092300|Washington D.C.|1|2
+23986435|arlington, va|18250476|Fremont, CA|1|2
+23986435|arlington, va|11253262|Washington, DC|1|2
+23986435|arlington, va|77517724|Washington, DC|1|2
+23986435|arlington, va|8707212|Washington DC|1|2
+14604048|arlington, va|0|Error|2|2
+14604048|arlington, va|19616558|Washington, DC, USA|1|2
+14604048|arlington, va|20164832|Maryland|1|2
+14604048|arlington, va|15005151|Silver Spring, MD|1|2
+14604048|arlington, va|0|Error|1|2
+14604048|arlington, va|0|Error|1|2
+14604048|arlington, va|64835606|New York, NY|1|2
+14604048|arlington, va|16241630|Error|1|2
+14604048|arlington, va|461910672|Perth|1|2
+14604048|arlington, va|14604048|Arlington, VA|1|2
+15481585|arlington, va|0|Error|2|2
+15481585|arlington, va|10168082|Washington, DC|2|2
+15481585|arlington, va|0|Error|1|2
+15481585|arlington, va|20493204|Virginia, USA|1|2
+15481585|arlington, va|14936771|Charleston, SC|1|2
+15481585|arlington, va|17602541|Washington, DC|1|2
+15481585|arlington, va|1553353123|Error|1|2
+15481585|arlington, va|15976697|USA|1|2
+15481585|arlington, va|56149176|Earth|1|2
+15481585|arlington, va|0|Error|1|2
+15481585|arlington, va|72649711|Error|1|2
+15481585|arlington, va|15505015|Virginia - USA|1|2
+15481585|arlington, va|15692987|Washington, DC|1|2
+15481585|arlington, va|15581825|Anderson, South Carolina|1|2
+16140358|arlington, va|20488686|Error|7|2
+16140358|arlington, va|0|Error|3|2
+16140358|arlington, va|6017542|Global|3|2
+16140358|arlington, va|19268706|Instagram @secupp|2|2
+16140358|arlington, va|16129920|New York, NY USA|2|2
+16140358|arlington, va|0|Error|2|2
+16140358|arlington, va|7841652|New York, NY|2|2
+16140358|arlington, va|19739126|California|2|2
+16140358|arlington, va|21946531|anywhere in the world|1|2
+16140358|arlington, va|16162885|Plano, TX|1|2
+16140358|arlington, va|18217624|Error|1|2
+16140358|arlington, va|1367531|U.S.A.|1|2
+16140358|arlington, va|26585095|Across the globe|1|2
+16140358|arlington, va|1420928882|Error|1|2
+16140358|arlington, va|12044602|Los Angeles, California|1|2
+16140358|arlington, va|19012514|Akron, Ohio|1|2
+16140358|arlington, va|9508922|Error|1|2
+16140358|arlington, va|27404671|Savage States of America|1|2
+16140358|arlington, va|28885875|To The Right of You!|1|2
+16140358|arlington, va|19637821|USA|1|2
+16140358|arlington, va|17241517|just outside the Beltway|1|2
+16140358|arlington, va|0|Error|1|2
+16140358|arlington, va|65493023|Alaska|1|2
+16140358|arlington, va|0|Error|1|2
+16140358|arlington, va|0|Error|1|2
+16140358|arlington, va|20852423|Mokena, IL|1|2
+16140358|arlington, va|0|Error|1|2
+76436996|arlington, va|18197232|Washington DC Metro Area|5|2
+76436996|arlington, va|1894738190|Error|4|2
+76436996|arlington, va|120583148|Error|2|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|127189442|Error|1|2
+76436996|arlington, va|79469179|Cuff of Rocky Mountains, USA|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|2903704864|USA|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|14934818|New York, NY|1|2
+76436996|arlington, va|32759930|Boston, MA|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|823807|Tucson, AZ|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|18159014|London|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|0|Error|1|2
+76436996|arlington, va|0|Error|1|2
+17816420|arlington, va|15947897|Error|3|2
+17816420|arlington, va|7093|Error|3|2
+17816420|arlington, va|12046252|Portland, OR|3|2
+17816420|arlington, va|1355589396|unknown|2|2
+17816420|arlington, va|16838731|DC|2|2
+17816420|arlington, va|14290557|Boston, MA|2|2
+17816420|arlington, va|763699|San Francisco|2|2
+17816420|arlington, va|20551303|Los Angeles|1|2
+17816420|arlington, va|0|Error|1|2
+17816420|arlington, va|14256823|Portland, OR|1|2
+17816420|arlington, va|0|Error|1|2
+17816420|arlington, va|16144811|arlington, va|1|2
+17816420|arlington, va|5380672|Chicago, IL|1|2
+17816420|arlington, va|16144314|Arlington, VA|1|2
+17816420|arlington, va|3235011|Scotch Plains, NJ, USA|1|2
+17816420|arlington, va|61592630|USA|1|2
+65440234|arlington, va|29102891|Denver, CO|11|2
+65440234|arlington, va|0|Error|5|2
+65440234|arlington, va|3015537053|Error|3|2
+65440234|arlington, va|17688752|a little bit Sideways|2|2
+65440234|arlington, va|16541772|Error|1|2
+65440234|arlington, va|66123136|Error|1|2
+65440234|arlington, va|18013138|Canton, OH|1|2
+65440234|arlington, va|0|Error|1|2
+65440234|arlington, va|55586836|Furrginia, USA|1|2
+65440234|arlington, va|47214316|Houston, Texas, USA|1|2
+65440234|arlington, va|28458022|Where I want to be|1|2
+65440234|arlington, va|0|Error|1|2
+65440234|arlington, va|598459036|Cloud Nine xo|1|2
+65440234|arlington, va|65437026|Sunny California|1|2
+65440234|arlington, va|42404429|Chicago|1|2
+65440234|arlington, va|42354277|OTRB/in M&D's heart|1|2
+65440234|arlington, va|0|Error|1|2
+65440234|arlington, va|69673823|Rainbow Bridge|1|2
+14980809|arlington, va|15113820|Silicon Valley Girl n DelaWha?|4|2
+14980809|arlington, va|0|Error|4|2
+14980809|arlington, va|14940336|Boston, MA|4|2
+14980809|arlington, va|2345864262|Error|2|2
+14980809|arlington, va|10859812|Arlington, VA; Washington, DC|2|2
+14980809|arlington, va|0|Error|2|2
+14980809|arlington, va|28785486|New York City / Worldwide|1|2
+14980809|arlington, va|0|Error|1|2
+14980809|arlington, va|35762860|Washington, DC|1|2
+14980809|arlington, va|12054572|Alexandria, VA|1|2
+14980809|arlington, va|15984695|Chandler, AZ|1|2
+14980809|arlington, va|0|Error|1|2
+14980809|arlington, va|23852047|N. America & Now Worldwide!|1|2
+14980809|arlington, va|14500380|Houston|1|2
+14980809|arlington, va|5768872|NYC|1|2
+14980809|arlington, va|0|Error|1|2
+14980809|arlington, va|0|Error|1|2
+75667320|arlington, va|11883132|San Francisco|28|2
+75667320|arlington, va|51446354|Moscow, Miami, World|1|2
+75667320|arlington, va|22007499|Error|1|2
+75667320|arlington, va|2883841|Los Angeles, CA|1|2
+8431652|arlington, va|8431652|South F-ing Florida|27|2
+8431652|arlington, va|21407833|this planet|10|2
+8431652|arlington, va|0|Error|10|2
+8431652|arlington, va|1479322196|Error|8|2
+8431652|arlington, va|216618670|LA|6|2
+8431652|arlington, va|0|Error|5|2
+8431652|arlington, va|57917441|The Lizzantine Empire|5|2
+8431652|arlington, va|15455314|Error|5|2
+8431652|arlington, va|17365683|Florida|4|2
+8431652|arlington, va|21117160|EDT|4|2
+8431652|arlington, va|0|Error|4|2
+8431652|arlington, va|0|Error|4|2
+8431652|arlington, va|812600|Little Rock, AR|4|2
+8431652|arlington, va|63065243|Freedom Hills, AL|4|2
+8431652|arlington, va|43464027|San Francisco|4|2
+8431652|arlington, va|17079583|Phoenix, AZ|3|2
+8431652|arlington, va|15292813|State of Confusion|3|2
+8431652|arlington, va|0|Error|3|2
+8431652|arlington, va|78783|Cambridge, MA|3|2
+8431652|arlington, va|18380182|BROOKLYN NYC USA|3|2
+8431652|arlington, va|0|Error|3|2
+8431652|arlington, va|0|Error|2|2
+8431652|arlington, va|14854961|LA | DC|2|2
+8431652|arlington, va|11009852|San Francisco/Silicon Valley|2|2
+8431652|arlington, va|92858689|California, USA |2|2
+8431652|arlington, va|16129920|New York, NY USA|2|2
+8431652|arlington, va|24431892|Berkeley, California|2|2
+8431652|arlington, va|36297832|No Marketers/GetTwitterFollows|2|2
+8431652|arlington, va|0|Error|2|2
+8431652|arlington, va|14019992|Rockland County, NY|2|2
+8431652|arlington, va|15276401|North Carolina|2|2
+8431652|arlington, va|18851248|Error|2|2
+8431652|arlington, va|980611|West Coast|2|2
+8431652|arlington, va|17905363|Somerset, NJ|2|2
+8431652|arlington, va|0|Error|2|2
+8431652|arlington, va|32189855|Error|1|2
+8431652|arlington, va|26558023|nyc|1|2
+8431652|arlington, va|15233524|On it.|1|2
+8431652|arlington, va|27512951|Home|1|2
+8431652|arlington, va|14066024|Washington, DC|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|20480549|Retweets are not endorsements|1|2
+8431652|arlington, va|19359749|Minneapolis|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|22656672|Washington DC|1|2
+8431652|arlington, va|38737553|Northern California|1|2
+8431652|arlington, va|18761190|Error|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|67393465|San Francisco, CA|1|2
+8431652|arlington, va|754957|Washington, DC|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|73184383|Error|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|8886852|102 FM|1|2
+8431652|arlington, va|16031631|Not quite there yet.|1|2
+8431652|arlington, va|36300569|Error|1|2
+8431652|arlington, va|34601665|Los Angeles, CA|1|2
+8431652|arlington, va|27952164|Error|1|2
+8431652|arlington, va|12340562|Los Angeles|1|2
+8431652|arlington, va|6751172|Brooklyn, NY|1|2
+8431652|arlington, va|33101342|Error|1|2
+8431652|arlington, va|279908069|Error|1|2
+8431652|arlington, va|23255247|Boston, DC and Hamburg|1|2
+8431652|arlington, va|16939148|San Francisco|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|15774048|New York NY (Forest Hills) USA|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|57203|San Jose|1|2
+8431652|arlington, va|15623486|Anywhere the Internet Goes|1|2
+8431652|arlington, va|25913058|NYC area|1|2
+8431652|arlington, va|1947301|Error|1|2
+8431652|arlington, va|15985111|Grand Rapids, MI|1|2
+8431652|arlington, va|13493302|Washington, DC|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|25896141|Colorado|1|2
+8431652|arlington, va|21833728|Washington DC, USA|1|2
+8431652|arlington, va|16002804|Salem, Oregon|1|2
+8431652|arlington, va|2020351|The Internet|1|2
+8431652|arlington, va|21697217|Left Nostril of Arkansas|1|2
+8431652|arlington, va|6092972|Washington, DC|1|2
+8431652|arlington, va|22310282|Wouldn't you like to know|1|2
+8431652|arlington, va|20086998|Los Angeles California|1|2
+8431652|arlington, va|6877722|Fort Myers Beach, FL|1|2
+8431652|arlington, va|15120887|Alexandria, Virginia|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|21735063|Error|1|2
+8431652|arlington, va|5887902|Yokohama|1|2
+8431652|arlington, va|18335680|Milwaukee|1|2
+8431652|arlington, va|1292825984|I tweet real shit|1|2
+8431652|arlington, va|16356190|Washington, DC  USA|1|2
+8431652|arlington, va|2303751216|New York, NY|1|2
+8431652|arlington, va|28547310|Mid-Atlantic Region|1|2
+8431652|arlington, va|65493023|Alaska|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|15976697|USA|1|2
+8431652|arlington, va|18732627|Error|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|3497941|Takoma Park, MD|1|2
+8431652|arlington, va|11640472|Minneapolis, MN|1|2
+8431652|arlington, va|17251395|Home|1|2
+8431652|arlington, va|248535836|Fort Madison, IA|1|2
+8431652|arlington, va|17090064|Kansas City, MO|1|2
+8431652|arlington, va|1112792870|Error|1|2
+8431652|arlington, va|12691002|Probably walking somewhere |1|2
+8431652|arlington, va|34761747|Left Coast, USA|1|2
+8431652|arlington, va|28958853|iPhone: 37.793011,-122.427109|1|2
+8431652|arlington, va|1106501|New York, NY|1|2
+8431652|arlington, va|820585|Brooklyn, NY|1|2
+8431652|arlington, va|134997322|Atlanta, Ga|1|2
+8431652|arlington, va|10419|iPhone: 38.897707,-77.037294|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|0|Error|1|2
+8431652|arlington, va|3006365552|Error|1|2
+8431652|arlington, va|15368940|California|1|2
+8431652|arlington, va|38705789|Humboldt County Nevada|1|2
+8431652|arlington, va|14576199|Viva Nashvegas|1|2
+8431652|arlington, va|103726540|Error|1|2
+8431652|arlington, va|15883275|Error|1|2
+8431652|arlington, va|16892534|trapped in GOP-land|1|2
+8431652|arlington, va|0|Error|1|2
+14294122|arlington, va|83883736|Error|2|2
+14294122|arlington, va|14294046|Washington, DC|2|2
+14294122|arlington, va|9300262|Washington, D.C.|1|2
+14294122|arlington, va|45190383|DC Metro Area|1|2
+14294122|arlington, va|14238142|Washington, DC|1|2
+14294122|arlington, va|6393032|Arlington, VA|1|2
+14294122|arlington, va|0|Error|1|2
+14294122|arlington, va|5610392|Corona, CA|1|2
+14294122|arlington, va|17919972|Error|1|2
+14294122|arlington, va|759251|Error|1|2
+14294122|arlington, va|0|Error|1|2
+14294122|arlington, va|5942922|Everywhere|1|2
+14294122|arlington, va|3137331|Washington, DC|1|2
+14294122|arlington, va|7214092|Maryland, USA|1|2
+14294122|arlington, va|14511951|Error|1|2
+14294122|arlington, va|0|Error|1|2
+14294122|arlington, va|0|Error|1|2
+14294122|arlington, va|0|Error|1|2
+14294122|arlington, va|0|Error|1|2
+14294122|arlington, va|0|Error|1|2
+14294122|arlington, va|0|Error|1|2
+14294122|arlington, va|3286404410|Seattle, WA|1|2
+14294122|arlington, va|15846407|California|1|2
+21175812|arlington, va|21175812|Arlington, VA, USA|20|2
+21175812|arlington, va|21161518|Sao Paulo - Brazil|7|2
+21175812|arlington, va|0|Error|3|2
+21175812|arlington, va|56932557|Rio de Janeiro/Brasil|3|2
+21175812|arlington, va|39941405|Brasil|3|2
+21175812|arlington, va|17929027|The Ruff|2|2
+21175812|arlington, va|0|Error|2|2
+21175812|arlington, va|61928956|Washington, D.C.|2|2
+21175812|arlington, va|0|Error|2|2
+21175812|arlington, va|29359433|Columbia SC / Philadelphia PA|2|2
+21175812|arlington, va|0|Error|1|2
+21175812|arlington, va|0|Error|1|2
+21175812|arlington, va|56434431|Norfolk, Virginia, USA|1|2
+21175812|arlington, va|0|Error|1|2
+21175812|arlington, va|18022904|Error|1|2
+21175812|arlington, va|52594527|Columbus, GA|1|2
+21175812|arlington, va|38522938|Baltimore, MD|1|2
+21175812|arlington, va|8446352|Error|1|2
+21175812|arlington, va|15746953|Salvador, Bahia|1|2
+21175812|arlington, va|367961950|Error|1|2
+21175812|arlington, va|17294851|California|1|2
+21175812|arlington, va|0|Error|1|2
+21175812|arlington, va|20031242|Los Angeles, CA|1|2
+21175812|arlington, va|0|Error|1|2
+21175812|arlington, va|59820706|Error|1|2
+21175812|arlington, va|36372164|Juiz de Fora - MG - Brasil|1|2
+21175812|arlington, va|74293803|Salvador|1|2
+21175812|arlington, va|0|Error|1|2
+21175812|arlington, va|0|Error|1|2
+21175812|arlington, va|11540292|Norfolk, Virginia|1|2
+21175812|arlington, va|25594518|Santurce El Sitio P.R|1|2
+21175812|arlington, va|19880831|Washington, DC|1|2
+21175812|arlington, va|69102918|Error|1|2
+18528834|arlington, va|23508439|Error|3|2
+18528834|arlington, va|8775672|Washington, D.C.|2|2
+18528834|arlington, va|17169239|Milwaukee, WI|2|2
+18528834|arlington, va|0|Error|1|2
+18528834|arlington, va|0|Error|1|2
+18528834|arlington, va|43114469|Error|1|2
+18528834|arlington, va|0|Error|1|2
+18528834|arlington, va|23460494|Portsmouth, VA|1|2
+18528834|arlington, va|19611483|Air, Space and Cyberspace|1|2
+18528834|arlington, va|0|Error|1|2
+18528834|arlington, va|22826294|Fort George G. Meade, Md.|1|2
+18528834|arlington, va|32880205|InTheWoods|1|2
+18528834|arlington, va|38961973|Afghanistan|1|2
+18528834|arlington, va|10126672|Washington, D.C.|1|2
+18528834|arlington, va|28576135|The Pentagon, Washington D.C.|1|2
+62900765|arlington, va|0|Error|3|2
+17768559|arlington, va|0|Error|7|2
+17768559|arlington, va|0|Error|4|2
+17768559|arlington, va|17660116|central PA|3|2
+17768559|arlington, va|14962749|New York, New York|2|2
+17768559|arlington, va|82781182|New York, New York|2|2
+17768559|arlington, va|14840786|Error|2|2
+17768559|arlington, va|17769221|The Noke|2|2
+17768559|arlington, va|16531828|DC Metro |2|2
+17768559|arlington, va|0|Error|2|2
+17768559|arlington, va|19163259|Central MA|1|2
+17768559|arlington, va|0|Error|1|2
+17768559|arlington, va|19514365|Boston|1|2
+17768559|arlington, va|0|Error|1|2
+17768559|arlington, va|20020028|Error|1|2
+17768559|arlington, va|0|Error|1|2
+17768559|arlington, va|16713134|Silicon Valley, CA|1|2
+18269677|arlington, va|7518252|Cleveland, Ohio|4|2
+18269677|arlington, va|14251565|Washington, DC|3|2
+18269677|arlington, va|0|Error|2|2
+18269677|arlington, va|12886812|Geneva, NY via RVA & DC|2|2
+18269677|arlington, va|17595439|Berkeley|2|2
+18269677|arlington, va|18269677|Arlington, VA|1|2
+18269677|arlington, va|14526445|Tampa, FL|1|2
+18269677|arlington, va|16658258|VA|1|2
+18269677|arlington, va|30913789|Washington, DC|1|2
+18269677|arlington, va|34322889|Error|1|2
+18269677|arlington, va|965651|San Francisco, CA|1|2
+18269677|arlington, va|31481991|Washington, DC Metro Area|1|2
+18269677|arlington, va|8453452|Silicon Valley, California|1|2
+18269677|arlington, va|18539631|Fountain Hills, Arizona|1|2
+18269677|arlington, va|5374982|Bad Reichenhall, Deutschland|1|2
+18269677|arlington, va|0|Error|1|2
+18269677|arlington, va|8381512|Potomac, MD|1|2
+18269677|arlington, va|21044126|Los Angeles|1|2
+18269677|arlington, va|15266154|Error|1|2
+18269677|arlington, va|0|Error|1|2
+18269677|arlington, va|0|Error|1|2
+18269677|arlington, va|9274492|Kansas City, MO|1|2
+18269677|arlington, va|14484353|Washington, DC & Richmond, VA|1|2
+18269677|arlington, va|69236334|Cleveland, Ohio|1|2
+18269677|arlington, va|14132188|Pittsburgh, PA|1|2
+10668202|arlington, va|16838731|DC|3|2
+10668202|arlington, va|74343783|California|3|2
+10668202|arlington, va|0|Error|3|2
+10668202|arlington, va|88115093|Iowa|2|2
+10668202|arlington, va|844631|Silicon Valley, Ca.|2|2
+10668202|arlington, va|0|Error|2|2
+10668202|arlington, va|20625553|Bollington|2|2
+10668202|arlington, va|4594|Hong Kong/NYC|2|2
+10668202|arlington, va|14981006|Arlington, VA|2|2
+10668202|arlington, va|0|Error|2|2
+10668202|arlington, va|20039966|Vegas|Miami|1|2
+10668202|arlington, va|20415938|San Jose, CA|1|2
+10668202|arlington, va|7093|Error|1|2
+10668202|arlington, va|0|Error|1|2
+10668202|arlington, va|15931233|Lansing, MI|1|2
+10668202|arlington, va|216427401|Nigeria|1|2
+10668202|arlington, va|0|Error|1|2
+10668202|arlington, va|16329969|Washington, DC|1|2
+10668202|arlington, va|23215583|God's Earth|1|2
+10668202|arlington, va|39855495|Melbourne, Australia|1|2
+10668202|arlington, va|14945515|Arlington, VA|1|2
+10668202|arlington, va|18649884|Alexandria|1|2
+10668202|arlington, va|16144314|Arlington, VA|1|2
+10668202|arlington, va|14222615|Ashburn, VA|1|2
+10668202|arlington, va|29530734|Morganville, NJ|1|2
+10668202|arlington, va|18954007|Twitterverse|1|2
+10668202|arlington, va|33705943|Los Angeles (Brentwood)|1|2
+10668202|arlington, va|337480456|Canada|1|2
+10668202|arlington, va|193254825|Error|1|2
+10668202|arlington, va|15947897|Error|1|2
+10668202|arlington, va|2389305678|Error|1|2
+10668202|arlington, va|142513137|Error|1|2
+10668202|arlington, va|14998675|San Francisco, California|1|2
+10668202|arlington, va|14983833|SoCal, CA|1|2
+10668202|arlington, va|130584275|Denver, Colorado|1|2
+10668202|arlington, va|15854047|Louisiana|1|2
+10668202|arlington, va|13621012|Detroit Metro / Michigan / USA|1|2
+10668202|arlington, va|15412641|Washington, DC|1|2
+10668202|arlington, va|657653|Massachusetts, USA|1|2
+17092444|arlington, va|2884771|New York, NY|3|2
+17092444|arlington, va|16186916|Virginia|2|2
+17092444|arlington, va|21696279|Washington, DC|2|2
+17092444|arlington, va|17220934|Nashville, TN|1|2
+17092444|arlington, va|28657802|Washington, DC|1|2
+17092444|arlington, va|3554721|Washington, DC|1|2
+17092444|arlington, va|55355654|Washington, D.C.|1|2
+17092444|arlington, va|45387756|Error|1|2
+17092444|arlington, va|31127446|Washington, D.C.|1|2
+17092444|arlington, va|0|Error|1|2
+17092444|arlington, va|18812301|New York, NY|1|2
+17092444|arlington, va|0|Error|1|2
+17092444|arlington, va|7804342|Washington, D.C. Beltway|1|2
+17092444|arlington, va|14738157|Richmond, Virginia|1|2
+17092444|arlington, va|759251|Error|1|2
+17092444|arlington, va|15096075|New York, NY / Portland, OR|1|2
+17092444|arlington, va|0|Error|1|2
+17092444|arlington, va|15931637|Washington, DC|1|2
+17092444|arlington, va|76350251|CA|1|2
+17092444|arlington, va|21401886|Arlington, VA|1|2
+17092444|arlington, va|813286|Washington, DC|1|2
+17092444|arlington, va|22819917|Washington, DC|1|2
+17092444|arlington, va|3148356377|Error|1|2
+17092444|arlington, va|16789964|Arlington, VA|1|2
+17092444|arlington, va|16789970|Searchlight, NV|1|2
+73454269|arlington, va|78985821|Greenville, SC|1|2
+16546457|arlington, va|19257774|Oregon|2|2
+16546457|arlington, va|2357810216|Error|2|2
+16546457|arlington, va|0|Error|2|2
+16546457|arlington, va|20196266|Read | Contribute | Share|2|2
+16546457|arlington, va|44976848|Error|1|2
+16546457|arlington, va|0|Error|1|2
+16546457|arlington, va|14142000|Columbus, OH|1|2
+16546457|arlington, va|0|Error|1|2
+16546457|arlington, va|20437286|Washington, DC|1|2
+16546457|arlington, va|17971099|Los Angeles, CA|1|2
+16546457|arlington, va|30316960|New Jersey|1|2
+16546457|arlington, va|73222462|Kentucky|1|2
+16546457|arlington, va|14713778|Pleasant Gap, PA|1|2
+16546457|arlington, va|16890148|Pelham, AL, USA|1|2
+16546457|arlington, va|38500966|Cambridge, MA & Stanford, CA|1|2
+16546457|arlington, va|15311023|Error|1|2
+16546457|arlington, va|15147042|Bethesda, MD|1|2
+16546457|arlington, va|0|Error|1|2
+16546457|arlington, va|0|Error|1|2
+16546457|arlington, va|0|Error|1|2
+16546457|arlington, va|17787527|North Carolina|1|2
+16546457|arlington, va|1137117434|Error|1|2
+16546457|arlington, va|0|Error|1|2
+16546457|arlington, va|90477601|Error|1|2
+16546457|arlington, va|3224012527|Error|1|2
+16546457|arlington, va|14337834|Buffalo NY|1|2
+8185812|arlington, va|29194419|Alexandria, VA|3|2
+8185812|arlington, va|695653|Boston, MA|2|2
+8185812|arlington, va|15161360|New York, NY|2|2
+8185812|arlington, va|14470827|Baltimore, MD|2|2
+8185812|arlington, va|127983050|@CastleActive|1|2
+8185812|arlington, va|7861312|Los Angeles, CA|1|2
+8185812|arlington, va|19405754|Error|1|2
+8185812|arlington, va|1910422262|Error|1|2
+8185812|arlington, va|15661871|San Francisco|1|2
+8185812|arlington, va|941724637|Error|1|2
+8185812|arlington, va|0|Error|1|2
+8185812|arlington, va|0|Error|1|2
+8185812|arlington, va|0|Error|1|2
+8185812|arlington, va|28866495|Atlanta, GA|1|2
+8185812|arlington, va|23270524|Brooklyn, NY|1|2
+8185812|arlington, va|312313989|Error|1|2
+12121332|arlington, va|1470495840|Miami|5|2
+12121332|arlington, va|87512185|Arlington, Virginia|2|2
+12121332|arlington, va|11204402|NYC|2|2
+12121332|arlington, va|19621110|Los Angeles, CA|1|2
+12121332|arlington, va|18394070|Error|1|2
+12121332|arlington, va|0|Error|1|2
+12121332|arlington, va|0|Error|1|2
+12121332|arlington, va|22760649|Falls Church, VA|1|2
+12121332|arlington, va|17817473|Texas|1|2
+12121332|arlington, va|17826560|Texas|1|2
+12121332|arlington, va|2989018918|Error|1|2
+12121332|arlington, va|0|Error|1|2
+5570452|arlington, va|0|Error|5|2
+5570452|arlington, va|14292919|Boone, NC|4|2
+5570452|arlington, va|998838745|Error|2|2
+5570452|arlington, va|6145322|Washougal, WA|2|2
+5570452|arlington, va|391315245|Error|2|2
+5570452|arlington, va|5520382|Milwaukie, OR|1|2
+5570452|arlington, va|10483752|Los Angeles, CA|1|2
+5570452|arlington, va|736153|Austin, TX|1|2
+5570452|arlington, va|16022824|Nashville|1|2
+46994068|arlington, va|37858656|Barcelona|6|2
+46994068|arlington, va|16234345|Washington DC, USA|5|2
+46994068|arlington, va|493521983|Houston, TX|4|2
+46994068|arlington, va|179531552|Error|3|2
+46994068|arlington, va|50936552|Vancouver, Canada|3|2
+46994068|arlington, va|33755878|Chicago, IL, USA|3|2
+46994068|arlington, va|17566596|ATLANTA|3|2
+46994068|arlington, va|31586980|Washington D.C.|3|2
+46994068|arlington, va|0|Error|3|2
+46994068|arlington, va|19910740|NJ @sweetsoaps on Periscope|3|2
+46994068|arlington, va|0|Error|2|2
+46994068|arlington, va|29198566|Palm Coast, FL|2|2
+46994068|arlington, va|17043203|Lake Elsinore, CA|2|2
+46994068|arlington, va|17757884|Near Seattle|2|2
+46994068|arlington, va|3041201|Sweet Home Alabama|2|2
+46994068|arlington, va|0|Error|2|2
+46994068|arlington, va|14248740|Arlington, TX|2|2
+46994068|arlington, va|20820709|San Francisco, California|2|2
+46994068|arlington, va|0|Error|2|2
+46994068|arlington, va|815586|Maryland|2|2
+46994068|arlington, va|56896258|St. Louis, MO|1|2
+46994068|arlington, va|27808538|California|1|2
+46994068|arlington, va|15554107|Atoka, Oklahoma|1|2
+46994068|arlington, va|14780587|Tampa Bay, FL|1|2
+46994068|arlington, va|42518865|Fredericksburg, Virginia|1|2
+46994068|arlington, va|10202|Boston, MA|1|2
+46994068|arlington, va|15292026|Philadelphia Metro, PA|1|2
+46994068|arlington, va|0|Error|1|2
+46994068|arlington, va|3387174674|Error|1|2
+46994068|arlington, va|14874135|As Seen on Oprah!!!!|1|2
+46994068|arlington, va|0|Error|1|2
+46994068|arlington, va|23716864|Maryland|1|2
+46994068|arlington, va|14343196|Los Angeles|1|2
+46994068|arlington, va|23171383|Chicago|1|2
+46994068|arlington, va|15627485|CVG, PDX and RDU|1|2
+46994068|arlington, va|864371|St. Louis, MO|1|2
+46994068|arlington, va|0|Error|1|2
+46994068|arlington, va|0|Error|1|2
+46994068|arlington, va|19593502|Augusta, GA|1|2
+46994068|arlington, va|0|Error|1|2
+46994068|arlington, va|2171312981|Los Angeles, CA|1|2
+46994068|arlington, va|14115587|Bloomington, Indiana|1|2
+46994068|arlington, va|426856051|Error|1|2
+46994068|arlington, va|0|Error|1|2
+46994068|arlington, va|135102896|I love blogging.|1|2
+46994068|arlington, va|18327022|On the internet|1|2
+46994068|arlington, va|62341949|London|1|2
+46994068|arlington, va|28414931|Durham UK|1|2
+46994068|arlington, va|25373530|Waterloo, Ontario|1|2
+46994068|arlington, va|75160341|California|1|2
+46994068|arlington, va|14141433|Enfield, CT|1|2
+46994068|arlington, va|1329677000|Seattle, WA|1|2
+46994068|arlington, va|19960738|Planet Leximania|1|2
+46994068|arlington, va|0|Error|1|2
+46994068|arlington, va|12136622|Austin, TX|1|2
+46994068|arlington, va|19995471|Toronto, Ontario, Canada|1|2
+46994068|arlington, va|16576726|Texas|1|2
+46994068|arlington, va|15737459|Chicago, IL|1|2
+46994068|arlington, va|15650726|Richmond, VA 23060|1|2
+46994068|arlington, va|17120553|India|1|2
+46994068|arlington, va|40050639|NJ|1|2
+46994068|arlington, va|2506665732|Error|1|2
+58531651|arlington, va|80623232|Southern California|2|2
+58531651|arlington, va|18267263|charlotte, nyc and airplanes|2|2
+58531651|arlington, va|0|Error|2|2
+58531651|arlington, va|15024241|Global |2|2
+58531651|arlington, va|18222910|Oakland, CA via New York, NY|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|20691066|The Granite State      |1|2
+58531651|arlington, va|29600506|Chennai, India|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|364645408|beans |1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|789158|Mt. Vernon, Baltimore, MD|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|261979058|Error|1|2
+58531651|arlington, va|43969788|Switzerland|1|2
+58531651|arlington, va|818793|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|7144422|Error|1|2
+58531651|arlington, va|2232041|iPhone: 38.864128,-77.058922|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|15554102|Washington DC|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|188573761|Error|1|2
+58531651|arlington, va|78683549|United States|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|43237308|California|1|2
+58531651|arlington, va|16559026|Richmond, Virginia|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|19917647|Atlanta|1|2
+58531651|arlington, va|19323945|Memphis, TN|1|2
+58531651|arlington, va|0|Error|1|2
+58531651|arlington, va|0|Error|1|2
+19821755|arlington, va|3030554001|Error|4|2
+19821755|arlington, va|30215661|Washington DC|2|2
+19821755|arlington, va|0|Error|2|2
+19821755|arlington, va|98796449|SHOPPING!|2|2
+19821755|arlington, va|20189737|Cleveland, Ohio|1|2
+19821755|arlington, va|87512185|Arlington, Virginia|1|2
+19821755|arlington, va|0|Error|1|2
+19821755|arlington, va|0|Error|1|2
+19821755|arlington, va|48731300|Fair Haven, NJ, USA|1|2
+19821755|arlington, va|0|Error|1|2
+19821755|arlington, va|71690646|Atlanta, GA|1|2
+19821755|arlington, va|0|Error|1|2
+19821755|arlington, va|14493371|Philadelphia, PA|1|2
+19821755|arlington, va|0|Error|1|2
+19821755|arlington, va|0|Error|1|2
+19821755|arlington, va|289458393|Dallas, Texas|1|2
+19821755|arlington, va|0|Error|1|2
+19821755|arlington, va|15191170|Encinitas, Calif.|1|2
+12133382|arlington, va|13397962|Error|10|2
+12133382|arlington, va|12133382|Arlington, VA|9|2
+12133382|arlington, va|0|Error|7|2
+12133382|arlington, va|14437914|Arlington, VA | New York, NY |7|2
+12133382|arlington, va|10915142|Error|6|2
+12133382|arlington, va|318023113|Error|5|2
+12133382|arlington, va|17965843|Brooklyn, NY, USA|5|2
+12133382|arlington, va|18777269|Error|4|2
+12133382|arlington, va|16347028|New York, NY|4|2
+12133382|arlington, va|0|Error|3|2
+12133382|arlington, va|36782022|Everywhere|3|2
+12133382|arlington, va|51197470|Boston, Massachusetts|3|2
+12133382|arlington, va|213937723|Error|3|2
+12133382|arlington, va|137533758|Error|3|2
+12133382|arlington, va|18809869|Arlington, VA|3|2
+12133382|arlington, va|39294154|Hawaii|2|2
+12133382|arlington, va|22798752|Error|2|2
+12133382|arlington, va|26780796|Boston, MA|2|2
+12133382|arlington, va|192038956|Error|2|2
+12133382|arlington, va|28412100|Austin, TX|2|2
+12133382|arlington, va|13159032|Find NBR on your TV at nbr.com|2|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|16169211|Error|1|2
+12133382|arlington, va|29283|San Francisco|1|2
+12133382|arlington, va|972651|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|6274822|Philadelphia|1|2
+12133382|arlington, va|15639089|earth dimension c-138|1|2
+12133382|arlington, va|2663609586|Error|1|2
+12133382|arlington, va|5578322|Washington, DC|1|2
+12133382|arlington, va|3324846065|London, England|1|2
+12133382|arlington, va|19254267|Ottawa Hills, Ohio|1|2
+12133382|arlington, va|2192372054|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|71072973|SJCA|1|2
+12133382|arlington, va|277493771|Ontario, Canada|1|2
+12133382|arlington, va|14266165|Arlington VA|1|2
+12133382|arlington, va|756018|Austin, TX|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|21005945|NoVa y'all!|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|16745147|Seattle, WA and Vancouver, BC|1|2
+12133382|arlington, va|113232543|Atlanta   Barbados |1|2
+12133382|arlington, va|51136779|Wilmington, North Carolina|1|2
+12133382|arlington, va|31453667|Amarillo, Texas|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|12498442|Chicagoland|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|28488416|Kensington, MD|1|2
+12133382|arlington, va|754998|Error|1|2
+12133382|arlington, va|48860883|El Paso, TX|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|291122920|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|233272671|Planet Earth|1|2
+12133382|arlington, va|20944894|Milky way|1|2
+12133382|arlington, va|14716014|Los Angeles, CA|1|2
+12133382|arlington, va|3220689103|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|8407392|Alexandria, VA|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|10886522|Los Angeles|1|2
+12133382|arlington, va|26552077|Hartford, Connecticut, USA|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|15184911|Oakland, CA|1|2
+12133382|arlington, va|21438237|Cincinnati|1|2
+12133382|arlington, va|19308477|Marshall, MI|1|2
+12133382|arlington, va|15471824|San Francisco|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|65973486|Mexicali, B.c|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|40137632|New York City|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|570616955|Error|1|2
+12133382|arlington, va|1561465244|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|17173604|Indianapolis, Indiana|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|5911972|San Francisco|1|2
+12133382|arlington, va|26844921|Texas|1|2
+12133382|arlington, va|40406020|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|59604142|Arlington, VA|1|2
+12133382|arlington, va|20628749| Xenia, OH 45385|1|2
+12133382|arlington, va|107529100|Error|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|15409034|NYC|1|2
+12133382|arlington, va|15408055|san diego|1|2
+12133382|arlington, va|9181922|Chicago|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|3023120183|Error|1|2
+12133382|arlington, va|16016427|Error|1|2
+12133382|arlington, va|84468826|Not where I want to be|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|17704826|Los Angeles, CA|1|2
+12133382|arlington, va|5130101|Washington DC|1|2
+12133382|arlington, va|0|Error|1|2
+12133382|arlington, va|6324592|Error|1|2
+12133382|arlington, va|0|Error|1|2
+18698543|arlington, va|14977037|Oklahoma City|3|2
+18698543|arlington, va|14529929|Error|2|2
+18698543|arlington, va|88854106|Error|2|2
+18698543|arlington, va|2232041|iPhone: 38.864128,-77.058922|1|2
+18698543|arlington, va|0|Error|1|2
+18698543|arlington, va|0|Error|1|2
+18698543|arlington, va|18698543|Arlington, VA|1|2
+18698543|arlington, va|0|Error|1|2
+18698543|arlington, va|31127446|Washington, D.C.|1|2
+18698543|arlington, va|0|Error|1|2
+18698543|arlington, va|0|Error|1|2
+18698543|arlington, va|19302665|Error|1|2
+18698543|arlington, va|1917731|Washington, DC|1|2
+18698543|arlington, va|0|Error|1|2
+18698543|arlington, va|435213502|Error|1|2
+18698543|arlington, va|0|Error|1|2
+18698543|arlington, va|0|Error|1|2
+18698543|arlington, va|17597658|New York|1|2
+18698543|arlington, va|15219929|Washington, DC|1|2
+18698543|arlington, va|0|Error|1|2
+18698543|arlington, va|15697629|Oklahoma City, Oklahoma|1|2
+26040290|arlington, va|29342963|Greensboro, NC|3|2
+26040290|arlington, va|61220477|Raleigh, NC|3|2
+26040290|arlington, va|16887628|Alexandria, VA|2|2
+26040290|arlington, va|28811251|Boston|2|2
+26040290|arlington, va|21674448|Washington, DC|2|2
+26040290|arlington, va|2831163283|Error|2|2
+26040290|arlington, va|0|Error|2|2
+26040290|arlington, va|1050111|Washington, DC|1|2
+26040290|arlington, va|17908048|Planet Earth|1|2
+26040290|arlington, va|0|Error|1|2
+26040290|arlington, va|15802845|College Park, MD|1|2
+26040290|arlington, va|50325797|Washington, DC|1|2
+26040290|arlington, va|76175716|NYC|1|2
+26040290|arlington, va|0|Error|1|2
+26040290|arlington, va|2210050741|Error|1|2
+26040290|arlington, va|16491569|Washington, DC|1|2
+26040290|arlington, va|15335534|Authenticity Woods, Virginia.|1|2
+26040290|arlington, va|0|Error|1|2
+26040290|arlington, va|0|Error|1|2
+26040290|arlington, va|0|Error|1|2
+26040290|arlington, va|28151609|Philadelphia, PA|1|2
+26040290|arlington, va|0|Error|1|2
+26040290|arlington, va|0|Error|1|2
+26040290|arlington, va|42772743|Error|1|2
+26040290|arlington, va|20388786|D1scourse HQ (Baltimore/D.C.)|1|2
+32070022|arlington, va|17539739|Washington DC|6|2
+32070022|arlington, va|10880202|Washington, D.C.|2|2
+32070022|arlington, va|6708952|Washington DC|2|2
+32070022|arlington, va|17837184|Princeton, NJ|2|2
+32070022|arlington, va|10297|Error|1|2
+32070022|arlington, va|16729309|about.me/lucybernholz|1|2
+32070022|arlington, va|0|Error|1|2
+32070022|arlington, va|0|Error|1|2
+32070022|arlington, va|17993759|New York|1|2
+32070022|arlington, va|1598793470|Error|1|2
+32070022|arlington, va|19186585|Cleveland and San Francisco|1|2
+32070022|arlington, va|0|Error|1|2
+32070022|arlington, va|0|Error|1|2
+32070022|arlington, va|18139255|Cleveland |1|2
+32070022|arlington, va|0|Error|1|2
+32070022|arlington, va|23090546|Venice, FL |1|2
+32070022|arlington, va|0|Error|1|2
+32070022|arlington, va|28128303|Flint, MI|1|2
+32070022|arlington, va|39511166|Washington, DC|1|2
+32070022|arlington, va|75060502|San Francisco, CA|1|2
+32070022|arlington, va|36369382|San Antonio, Texas|1|2
+32070022|arlington, va|0|Error|1|2
+32070022|arlington, va|17459392|Washington, DC|1|2
+32070022|arlington, va|17414208|Birmingham, Alabama|1|2
+42914038|arlington, va|0|Error|19|2
+42914038|arlington, va|12413032|Washington, DC|2|2
+42914038|arlington, va|16812515|Durham, NC|2|2
+42914038|arlington, va|17865810|London|1|2
+42914038|arlington, va|28890080|Delphi, IN|1|2
+42914038|arlington, va|21457294|Ann Arbor, MI|1|2
+42914038|arlington, va|18312349|Error|1|2
+42914038|arlington, va|19692478|New York, NY|1|2
+42914038|arlington, va|18941094|Reading|1|2
+42914038|arlington, va|0|Error|1|2
+42914038|arlington, va|18571051|Fulton, MO|1|2
+42914038|arlington, va|89007245|Austin, TX|1|2
+61248949|arlington, va|0|Error|10|2
+61248949|arlington, va|67353354|Washington, DC|7|2
+61248949|arlington, va|0|Error|5|2
+61248949|arlington, va|0|Error|3|2
+61248949|arlington, va|0|Error|3|2
+61248949|arlington, va|48041119|Arlington, VA|1|2
+61248949|arlington, va|73208089|Washington, DC|1|2
+61248949|arlington, va|0|Error|1|2
+61248949|arlington, va|61248949|Arlington, VA|1|2
+61248949|arlington, va|17591611|Toronto|1|2
+61248949|arlington, va|39300931|King of Prussia, PA |1|2
+61248949|arlington, va|59497404|Washington, DC|1|2
+61248949|arlington, va|73176784|Washington, DC|1|2
+61248949|arlington, va|16872548|Error|1|2
+61248949|arlington, va|16830518|Error|1|2
+61248949|arlington, va|62099558|Error|1|2
+61248949|arlington, va|53453118|Error|1|2
+61248949|arlington, va|0|Error|1|2
+61248949|arlington, va|0|Error|1|2
+19380752|arlington, va|65686531|Providence, RI|3|2
+19380752|arlington, va|224445091|Norf Ldn, UK.|1|2
+19380752|arlington, va|16712898|Washington, DC|1|2
+19380752|arlington, va|164551689|Error|1|2
+19380752|arlington, va|17080512|Washington DC|1|2
+19380752|arlington, va|15222334|Error|1|2
+19380752|arlington, va|7923932|portland|1|2
+19380752|arlington, va|24731389|Washington, DC|1|2
+19380752|arlington, va|32577331|Denver|1|2
+19380752|arlington, va|20899023|Ranking something somewhere|1|2
+19380752|arlington, va|0|Error|1|2
+19380752|arlington, va|19299909|Germantown, MD|1|2
+19380752|arlington, va|64785803|Error|1|2
+19380752|arlington, va|1286694072|Spring Hill, Fl|1|2
+19380752|arlington, va|2484021056|Peter 5:5-14|1|2
+19380752|arlington, va|7144422|Error|1|2
+19380752|arlington, va|15859184|Houston/At A Ballpark|1|2
+65727392|arlington, va|36471524|Baltimore|5|2
+65727392|arlington, va|21462819|Omaha, NE & Exeter, UK|3|2
+65727392|arlington, va|61552834|Atlanta, GA|2|2
+65727392|arlington, va|80587754|Iowa|2|2
+65727392|arlington, va|17963989|Iowa|2|2
+65727392|arlington, va|0|Error|2|2
+65727392|arlington, va|44359974|Error|1|2
+65727392|arlington, va|10297|Error|1|2
+65727392|arlington, va|0|Error|1|2
+65727392|arlington, va|16833957|San Francisco Bay Area|1|2
+65727392|arlington, va|16580351|Milwaukee, WI|1|2
+65727392|arlington, va|19186585|Cleveland and San Francisco|1|2
+65727392|arlington, va|42629597|Paterson, NJ USA|1|2
+65727392|arlington, va|0|Error|1|2
+65727392|arlington, va|19833180|Livingston, NJ & NYC|1|2
+65727392|arlington, va|17467699|St. Louis, Missouri|1|2
+65727392|arlington, va|34633392|Omaha, NE|1|2
+65727392|arlington, va|22064080|Error|1|2
+65727392|arlington, va|17907332|Cleveland|1|2
+65727392|arlington, va|31311757|Error|1|2
+65727392|arlington, va|0|Error|1|2
+65727392|arlington, va|61664972|Buffalo, NY|1|2
+65727392|arlington, va|15537925|New York, NY|1|2
+6393032|arlington, va|13753642|Scotland|8|2
+6393032|arlington, va|0|Error|3|2
+6393032|arlington, va|14313633|Houston|2|2
+6393032|arlington, va|640893|Atlanta, GA|2|2
+6393032|arlington, va|4923811|Washington, D.C.|2|2
+6393032|arlington, va|8548612|ricochet:pj3bjgdb7qir7qps|2|2
+6393032|arlington, va|20378448|Washington, DC|1|2
+6393032|arlington, va|1050111|Washington, DC|1|2
+6393032|arlington, va|363677903|Error|1|2
+6393032|arlington, va|17454769|Dallas, TX. Rockies, NYC.|1|2
+6393032|arlington, va|16887628|Alexandria, VA|1|2
+6393032|arlington, va|16635556|London, UK|1|2
+6393032|arlington, va|6426042|Seattle Area |1|2
+6393032|arlington, va|15517584|San Francisco, CA|1|2
+6393032|arlington, va|3366641|Mechelen, Belgium|1|2
+6393032|arlington, va|28479923|Pennsylvania|1|2
+6393032|arlington, va|15498429|Virginia|1|2
+6393032|arlington, va|16129920|New York, NY USA|1|2
+6393032|arlington, va|14066024|Washington, DC|1|2
+6393032|arlington, va|4248211|Washington, DC|1|2
+6393032|arlington, va|1626991|Test City, U.S.A.|1|2
+6393032|arlington, va|16068266|K St., Washington, D.C.|1|2
+6393032|arlington, va|12687842|Atlanta, GA|1|2
+6393032|arlington, va|0|Error|1|2
+6393032|arlington, va|16467056|Copenhagen|1|2
+6393032|arlington, va|15335534|Authenticity Woods, Virginia.|1|2
+6393032|arlington, va|14964429|Charlotte, NC|1|2
+6393032|arlington, va|18226567|Washington, DC|1|2
+6393032|arlington, va|14809833|In traffic. Always.|1|2
+6393032|arlington, va|21313053|Charlottesville, VA|1|2
+6393032|arlington, va|469153|Rome, Italy|1|2
+16667186|arlington, va|18020390|Baltimore|5|2
+16667186|arlington, va|18321436|Los Angeles, CA|4|2
+16667186|arlington, va|21312871|new york|3|2
+16667186|arlington, va|14615273|Brooklyn, NY|3|2
+16667186|arlington, va|2356784568|Error|2|2
+16667186|arlington, va|19725031|St.Louis,MO/Nuremberg Germany|2|2
+16667186|arlington, va|8918032|Louisville, Ky.|1|2
+16667186|arlington, va|15250836|LA, SF, Tokyo|1|2
+16667186|arlington, va|789158|Mt. Vernon, Baltimore, MD|1|2
+16667186|arlington, va|14533116|Durham, NC and Washington, DC|1|2
+16667186|arlington, va|14304302|New Jersey|1|2
+16667186|arlington, va|14849103|Mexico City, Washington DC|1|2
+16667186|arlington, va|75148689|LA & NYC |1|2
+16667186|arlington, va|0|Error|1|2
+16667186|arlington, va|6904482|San Francisco, CA|1|2
+16667186|arlington, va|15164442|Burlington, ON, Canada|1|2
+16667186|arlington, va|14577922|Minneapolis, Minnesota|1|2
+16667186|arlington, va|15378805|Capitol Hill, Washington, D.C.|1|2
+16667186|arlington, va|14255759|San Diego, California|1|2
+16667186|arlington, va|14553055|LDN via DC, CO & Nebraska|1|2
+16667186|arlington, va|16113214|Error|1|2
+16667186|arlington, va|14892220|All over|1|2
+16667186|arlington, va|16729357|California|1|2
+38903927|arlington, va|33765961|Portland, Or|1|2
+1815651|arlington, va|16385991|chicago|2|2
+1815651|arlington, va|15601720|Baltimore, Maryland|2|2
+1815651|arlington, va|68055829|Error|2|2
+1815651|arlington, va|0|Error|1|2
+1815651|arlington, va|11922692|New York, New York|1|2
+1815651|arlington, va|15396961|Philadelphia, PA|1|2
+1815651|arlington, va|0|Error|1|2
+1815651|arlington, va|278535304|Error|1|2
+1815651|arlington, va|16417516|Error|1|2
+1815651|arlington, va|14129148|iPhone: 32.960261,-117.012352|1|2
+1815651|arlington, va|19615995|New York City|1|2
+1815651|arlington, va|0|Error|1|2
+1815651|arlington, va|83138547|Kansas City|1|2
+14371335|arlington, va|14929948|Atlanta, Georgia -Los Angeles|2|2
+14371335|arlington, va|21508309|Calgary, Canada|2|2
+14371335|arlington, va|14075928|Error|1|2
+14371335|arlington, va|477633050|World|1|2
+14371335|arlington, va|35405255|USA|1|2
+14371335|arlington, va|0|Error|1|2
+14371335|arlington, va|14371335|Arlington, VA|1|2
+14371335|arlington, va|27700636|Was here now back then|1|2
+14371335|arlington, va|45324037|Las Vegas|1|2
+14371335|arlington, va|608473|Arlington, VA|1|2
+14371335|arlington, va|0|Error|1|2
+14371335|arlington, va|0|Error|1|2
+14371335|arlington, va|0|Error|1|2
+14140115|arlington, va|0|Error|6|2
+14140115|arlington, va|52416062|Metro DC|3|2
+14140115|arlington, va|39614035|San Francisco Bay Area, CA|3|2
+14140115|arlington, va|17773224|Orlando, FL|2|2
+14140115|arlington, va|49036028|Mechanicville, NY|2|2
+14140115|arlington, va|28035990|NYC|1|2
+14140115|arlington, va|157801301|Error|1|2
+14140115|arlington, va|14445018|Helsinki, Finland|1|2
+14140115|arlington, va|16164520|Austin|1|2
+14140115|arlington, va|28214203|D.C.|1|2
+14140115|arlington, va|451197287|Error|1|2
+14140115|arlington, va|46337767|Ocean|1|2
+14140115|arlington, va|397597909|Washington, DC|1|2
+14140115|arlington, va|19414984|Error|1|2
+14140115|arlington, va|15858396|boston|1|2
+14140115|arlington, va|20312345|likely in the USA|1|2
+14140115|arlington, va|7125062|Huntsville|1|2
+14140115|arlington, va|0|Error|1|2
+14140115|arlington, va|58842669|Washington, DC|1|2
+14140115|arlington, va|50835878|Los Angeles via Cleveland|1|2
+14140115|arlington, va|22837243|ATX|1|2
+14140115|arlington, va|1304615755|Error|1|2
+14140115|arlington, va|15332302|Bow, NH|1|2
+14882554|arlington, va|1281832278|Error|11|2
+14882554|arlington, va|79914536|Error|10|2
+14882554|arlington, va|47437117|Arlington, VA|6|2
+14882554|arlington, va|46002396|New York, NY|4|2
+14882554|arlington, va|372387642|Error|2|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|56221330|Kentucky|1|2
+14882554|arlington, va|17778734|NY|1|2
+14882554|arlington, va|32415969|Error|1|2
+14882554|arlington, va|3307029657|London, England|1|2
+14882554|arlington, va|32892321|Error|1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|45040000|Mesa |1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|20892260|Palo Alto, CA|1|2
+14882554|arlington, va|55838072|Denver, CO|1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|9609632|Sydney, Australia|1|2
+14882554|arlington, va|63168204|Houston, TX|1|2
+14882554|arlington, va|56166281|Washington, DC|1|2
+14882554|arlington, va|25694934|st.louis, mo|1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|794532|Washington, DC|1|2
+14882554|arlington, va|15763092|Ft. Morgan, Co|1|2
+14882554|arlington, va|8496762|Error|1|2
+14882554|arlington, va|66752985|Denver, CO|1|2
+14882554|arlington, va|14882554|Arlington, VA|1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|16721461|Washington, D.C. |1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|24392055|Lake Forest, IL|1|2
+14882554|arlington, va|0|Error|1|2
+14882554|arlington, va|344896946|Error|1|2
+23317539|arlington, va|40927173|Yankee Stadium|2|2
+23317539|arlington, va|14115119|chicago, il|1|2
+23317539|arlington, va|640893|Atlanta, GA|1|2
+23317539|arlington, va|1917731|Washington, DC|1|2
+23317539|arlington, va|1055792508|Error|1|2
+23317539|arlington, va|43158512|Error|1|2
+23317539|arlington, va|9883192|Los Angeles|1|2
+23317539|arlington, va|71026122|Error|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|10491442|UK|1|2
+23317539|arlington, va|435213502|Error|1|2
+23317539|arlington, va|4923811|Washington, D.C.|1|2
+23317539|arlington, va|16392091|Error|1|2
+23317539|arlington, va|727472528|The Blogosphere|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|11435642|New York, NY|1|2
+23317539|arlington, va|21313053|Charlottesville, VA|1|2
+23317539|arlington, va|0|Error|1|2
+23317539|arlington, va|253829684|Error|1|2
+23317539|arlington, va|590334864|Los Angeles, CA|1|2
+23317539|arlington, va|4898501|Global|1|2
+76516446|arlington, va|22976355|Missouri|3|2
+76516446|arlington, va|21405047|NYC, or thereabouts|3|2
+76516446|arlington, va|0|Error|2|2
+76516446|arlington, va|38055976|iPhone: 42.356697,-71.055267|2|2
+76516446|arlington, va|18964696|Cincinnati / New York|1|2
+76516446|arlington, va|8453452|Silicon Valley, California|1|2
+76516446|arlington, va|66812365|Error|1|2
+76516446|arlington, va|86353297|Colorado|1|2
+76516446|arlington, va|20288521|Florida|1|2
+76516446|arlington, va|46748294|San Francisco Bay Area|1|2
+76516446|arlington, va|0|Error|1|2
+76516446|arlington, va|36750056|Virginia|1|2
+76516446|arlington, va|18619072|southeast Texas|1|2
+76516446|arlington, va|14315150|Nashville, TN|1|2
+76516446|arlington, va|76516446|Arlington, VA|1|2
+76516446|arlington, va|56200412|West Michigan|1|2
+76516446|arlington, va|17521340|Chicago|1|2
+76516446|arlington, va|18624104|Chicago|1|2
+76516446|arlington, va|216851216|Charleston, S.C.|1|2
+76516446|arlington, va|0|Error|1|2
+76516446|arlington, va|0|Error|1|2
+76516446|arlington, va|0|Error|1|2
+76516446|arlington, va|14859512|Port Hardy, BC|1|2
+76516446|arlington, va|0|Error|1|2
+76516446|arlington, va|19658826|Worldwide|1|2
+631823|arlington, va|203967384|Error|5|2
+631823|arlington, va|6298462|Brooklyn, NY|4|2
+631823|arlington, va|18124474|Salem, MA USA|3|2
+631823|arlington, va|39147184|Salem, MA|2|2
+631823|arlington, va|5273561|Brooklyn|2|2
+631823|arlington, va|394205724|Washington, D.C.|2|2
+631823|arlington, va|11154172|Brussels|2|2
+631823|arlington, va|18196758|Error|2|2
+631823|arlington, va|0|Error|1|2
+631823|arlington, va|14677998|Washington, DC|1|2
+631823|arlington, va|78367352|Washington, DC|1|2
+631823|arlington, va|84764215|Washington, DC|1|2
+631823|arlington, va|135837580|Error|1|2
+631823|arlington, va|18695316|Austin, Texas|1|2
+631823|arlington, va|626103|Portland, OR|1|2
+631823|arlington, va|638323|Dunsmuir, CA|1|2
+631823|arlington, va|0|Error|1|2
+631823|arlington, va|0|Error|1|2
+631823|arlington, va|0|Error|1|2
+631823|arlington, va|14132543|Brookland, Washington, DC|1|2
+48883574|arlington, va|10618402|Dublin, OH|5|2
+48883574|arlington, va|50325797|Washington, DC|2|2
+48883574|arlington, va|820656|Chicago, IL|2|2
+48883574|arlington, va|15205798|Boston, MA & Denver, CO|1|2
+48883574|arlington, va|16551002|Charlotte, NC|1|2
+48883574|arlington, va|0|Error|1|2
+48883574|arlington, va|16721886|Milton, DE|1|2
+48883574|arlington, va|1393225117|Error|1|2
+48883574|arlington, va|16137844|Error|1|2
+48883574|arlington, va|28035990|NYC|1|2
+48883574|arlington, va|16649000|DMV|1|2
+48883574|arlington, va|21279256|Los Angeles, CA|1|2
+48883574|arlington, va|18519345|Washington, DC|1|2
+48883574|arlington, va|63253045|Monster Energy|1|2
+48883574|arlington, va|16012741|Alexandria, VA|1|2
+48883574|arlington, va|16498112|Washington, D.C.|1|2
+48883574|arlington, va|2195241|Palo Alto, CA|1|2
+48883574|arlington, va|23480093|Brooklyn|1|2
+17342390|arlington, va|40706825|It depends|4|2
+17342390|arlington, va|28453695|London|2|2
+17342390|arlington, va|29415843|London and New York|2|2
+17342390|arlington, va|7301572|Next door to Washington, DC|2|2
+17342390|arlington, va|15943215|Boston|1|2
+17342390|arlington, va|34312227|Atlanta, GA|1|2
+17342390|arlington, va|0|Error|1|2
+17342390|arlington, va|20793816|Seattle, Washington|1|2
+17342390|arlington, va|11081482|Corridonia|1|2
+17342390|arlington, va|3247471|Boston|1|2
+17342390|arlington, va|19108194|Watford|1|2
+17342390|arlington, va|576322751|Alexandria, VA|1|2
+17342390|arlington, va|17679150|Atlanta, GA|1|2
+8431652|arlington, va|0|Error|2|2
+8431652|arlington, va|24431892|Berkeley, California|2|2
+8431652|arlington, va|31325625|South Louisiana|1|2
+8431652|arlington, va|15182798|new york city|1|2
+8431652|arlington, va|13524182|Washington, D.C.|1|2
+8431652|arlington, va|48750790|Washington, DC|1|2
+8431652|arlington, va|11771512|Washington, DC|1|2
+8431652|arlington, va|19462341|United States|1|2
+8431652|arlington, va|73147282|NYC|1|2
+8431652|arlington, va|15691197|Philadelphia|1|2
+8431652|arlington, va|16140900|Error|1|2
+8431652|arlington, va|253728554|London|1|2
+19380752|arlington, va|23597189|wherever there's vodka|2|2
+19380752|arlington, va|11923852|DC Metro Area|2|2
+19380752|arlington, va|14119779|DC|1|2
+19380752|arlington, va|7144422|Error|1|2
+19380752|arlington, va|64785803|Error|1|2
+19380752|arlington, va|12788762|Falls Church, VA|1|2
+19380752|arlington, va|3033943383|Error|1|2
+19380752|arlington, va|21920875|wtop.com/take-clinton-yates|1|2
+19380752|arlington, va|15693659|Washington, DC|1|2
+19380752|arlington, va|0|Error|1|2
+19380752|arlington, va|27603|Washington, DC|1|2
+19380752|arlington, va|34390278|Michigan|1|2
+19380752|arlington, va|14258424|Darlington, WI|1|2
+19380752|arlington, va|17585630|Los Angeles|1|2
+19380752|arlington, va|15859184|Houston/At A Ballpark|1|2
+19380752|arlington, va|0|Error|1|2
+19380752|arlington, va|33483370|SF by way of DC & FL|1|2
+16790881|arlington, va|0|Error|1|2
+20047284|arlington, va|18886606|Big Island|1|2
+20047284|arlington, va|24561581|Error|1|2
+20047284|arlington, va|18067423|Austin|1|2
+15865172|arlington, va|17191032|NY|2|2
+15865172|arlington, va|3438389939|England|2|2
+15865172|arlington, va|17904643|Error|2|2
+15865172|arlington, va|36356614|Redwood City, CA|2|2
+15865172|arlington, va|0|Error|1|2
+15865172|arlington, va|14040992|New York, NY|1|2
+15865172|arlington, va|20703666|Venice, CA|1|2
+15865172|arlington, va|7429102|Virginia|1|2
+15865172|arlington, va|27517447|Austin, TX|1|2
+15865172|arlington, va|14703499|Dallas, TX|1|2
+23226030|arlington, va|31772680|Not in T.O.|1|2
+23226030|arlington, va|24263238|Error|1|2
+23226030|arlington, va|541519998|Error|1|2
+23226030|arlington, va|1424581|NEW YORK CITY | CLEVELAND|1|2
+21697791|arlington, va|14072844|Falls Church, VA|2|2
+21697791|arlington, va|15736190|Freiburg, Germany|1|2
+21697791|arlington, va|6997692|Charleston, SC|1|2
+21145054|arlington, va|67784620|Error|1|2
+21145054|arlington, va|20296727|chicago |1|2
+14860495|arlington, va|18298254|Washington, D.C.|3|2
+14860495|arlington, va|11632342|Minneapolis, Minnesota|2|2
+14860495|arlington, va|72744971|Arlington VA Virginia NoVa DC|1|2
+14860495|arlington, va|9777432|Centreville, VA|1|2
+14860495|arlington, va|14252963|Gig Harbor, WA based|1|2
+14860495|arlington, va|14390225|New York, NY|1|2
+19272817|arlington, va|0|Error|1|2
+19272817|arlington, va|0|Error|1|2
+19272817|arlington, va|15391102|Washington, DC|1|2
+19272817|arlington, va|34930874|New York, NY, USA|1|2
+19272817|arlington, va|11856092|New York City|1|2
+19272817|arlington, va|30364057|state of Palestine |1|2
+19272817|arlington, va|16665960|Washington, D.C.|1|2
+19272817|arlington, va|0|Error|1|2
+19272817|arlington, va|0|Error|1|2
+19272817|arlington, va|0|Error|1|2
+19272817|arlington, va|14353761|the INTERNET!|1|2
+28614550|arlington, va|0|Error|2|2
+28614550|arlington, va|47752415|Chicago, IL|1|2
+28614550|arlington, va|0|Error|1|2
+28614550|arlington, va|63355112|New York, NY|1|2
+28614550|arlington, va|34609255|USA|1|2
+28614550|arlington, va|366427909|Error|1|2
+28614550|arlington, va|27807159|Florida|1|2
+28614550|arlington, va|72475621|Broken Arrow Oklahoma|1|2
+28614550|arlington, va|28362101|Midland, TX|1|2
+28614550|arlington, va|38961973|Afghanistan|1|2
+28614550|arlington, va|0|Error|1|2
+15723876|arlington, va|14398594|Bismarck, North Dakota|2|2
+15723876|arlington, va|609713|Escondido, CA|1|2
+15723876|arlington, va|23197972|Daleville, VA|1|2
+15723876|arlington, va|29621029|WASHINGTON DC|1|2
+15723876|arlington, va|18682192|Washington, DC|1|2
+15723876|arlington, va|1484970852|Mumbai, India|1|2
+15723876|arlington, va|14856348|Washington, D.C.|1|2
+68552953|arlington, va|254746420|Error|2|2
+68552953|arlington, va|1146882062|Error|2|2
+68552953|arlington, va|41896375|Error|1|2
+68552953|arlington, va|0|Error|1|2
+65437177|arlington, va|47214316|Houston, Texas, USA|5|2
+65437177|arlington, va|0|Error|3|2
+65437177|arlington, va|0|Error|2|2
+65437177|arlington, va|0|Error|1|2
+65437177|arlington, va|0|Error|1|2
+65437177|arlington, va|0|Error|1|2
+65437177|arlington, va|0|Error|1|2
+65437177|arlington, va|0|Error|1|2
+65437177|arlington, va|0|Error|1|2
+61248949|arlington, va|0|Error|4|2
+61248949|arlington, va|0|Error|2|2
+61248949|arlington, va|0|Error|2|2
+61248949|arlington, va|0|Error|1|2
+61248949|arlington, va|0|Error|1|2
+61248949|arlington, va|609237088|Error|1|2
+61248949|arlington, va|74201128|Washington, DC|1|2
+61248949|arlington, va|16916156|Error|1|2
+61248949|arlington, va|16989057|Error|1|2
+61248949|arlington, va|16989463|Error|1|2
+61248949|arlington, va|16819216|Error|1|2
+61248949|arlington, va|67166865|Washington, DC|1|2
+61248949|arlington, va|70827009|Washington, DC|1|2
+61248949|arlington, va|49069296|Error|1|2
+61248949|arlington, va|44827882|Miami|1|2
+7793242|arlington, va|19210865|Los Angeles, CA|2|2
+7793242|arlington, va|0|Error|1|2
+7793242|arlington, va|0|Error|1|2
+7793242|arlington, va|19424285|San Francisco, CA|1|2
+7793242|arlington, va|14080367|Rye|1|2
+7793242|arlington, va|18053213|Downtown Austin Texas! |1|2
+7793242|arlington, va|0|Error|1|2
+7793242|arlington, va|14332618|Harrisburg, Pa.|1|2
+7793242|arlington, va|0|Error|1|2
+32960697|arlington, va|12199862|Poulsbo, WA|5|2
+32960697|arlington, va|0|Error|5|2
+32960697|arlington, va|28915212|Error|1|2
+32960697|arlington, va|0|Error|1|2
+17270719|arlington, va|912776089|Error|2|2
+17270719|arlington, va|226191607|Karnal, Haryana|2|2
+17270719|arlington, va|5146051|Washington, D.C.|1|2
+17270719|arlington, va|19512493|London and Edinburgh|1|2
+17270719|arlington, va|17316667|Error|1|2
+17270719|arlington, va|52434298|Pancake Mountain|1|2
+17270719|arlington, va|31553919|Arlington, VA|1|2
+17270719|arlington, va|1183041|Los Angeles|1|2
+17270719|arlington, va|755990|Error|1|2
+17270719|arlington, va|49380756|Error Town|1|2
+17270719|arlington, va|12611642|Fairfax, VA|1|2
+17270719|arlington, va|25839187|Annandale, VA|1|2
+17270719|arlington, va|0|Error|1|2
+17270719|arlington, va|14162415|Toronto|1|2
+18783727|arlington, va|14485072|Chicago|3|2
+18783727|arlington, va|2884771|New York, NY|2|2
+18783727|arlington, va|0|Error|1|2
+18783727|arlington, va|9532992|Ithaca, NY|1|2
+18783727|arlington, va|2467791|Washington, DC|1|2
+18783727|arlington, va|15391102|Washington, DC|1|2
+18783727|arlington, va|18025557|Washington, D.C.|1|2
+18783727|arlington, va|2325850615|Boulder, CO|1|2
+18783727|arlington, va|18622869|DC|1|2
+18783727|arlington, va|844739886|Error|1|2
+18783727|arlington, va|18645458|NYC|1|2
+18783727|arlington, va|21315320|DC|1|2
+18783727|arlington, va|11640472|Minneapolis, MN|1|2
+18430563|arlington, va|17503827|Los Angeles, CA|2|2
+18430563|arlington, va|8258682|San Francisco, CA|1|2
+18430563|arlington, va|15972730|Philadelphia, PA|1|2
+18430563|arlington, va|19869837|Arlington, VA|1|2
+18430563|arlington, va|22665550|Annapolis, MD|1|2
+18430563|arlington, va|840165524|Error|1|2
+22645200|arlington, va|26060944|Error|2|2
+22645200|arlington, va|56415558|Error|1|2
+22645200|arlington, va|18683120|Washington, DC|1|2
+22645200|arlington, va|0|Error|1|2
+6393032|arlington, va|14066024|Washington, DC|3|2
+6393032|arlington, va|25867779|Left of Center|2|2
+6393032|arlington, va|216618670|LA|2|2
+6393032|arlington, va|0|Error|1|2
+6393032|arlington, va|22056192|Brooklyn, NY|1|2
+6393032|arlington, va|21814993|Washington, USA|1|2
+6393032|arlington, va|2573578635|Sarreguemines|1|2
+6393032|arlington, va|0|Error|1|2
+6393032|arlington, va|14267557|Southern New Jersey|1|2
+6393032|arlington, va|12789972|Laconia, NH|1|2
+6393032|arlington, va|47214283|Error|1|2
+6393032|arlington, va|15113571|Washington, D.C. |1|2
+6393032|arlington, va|4248211|Washington, DC|1|2
+6393032|arlington, va|11134252|Washington, DC|1|2
+6393032|arlington, va|12687842|Atlanta, GA|1|2
+6393032|arlington, va|18560231|Washington DC|1|2
+6393032|arlington, va|7440862|NJ|1|2
+6393032|arlington, va|23134068|Error|1|2
+6393032|arlington, va|13753642|Scotland|1|2
+6393032|arlington, va|16641577|Washington DC|1|2
+6393032|arlington, va|0|Error|1|2
+6393032|arlington, va|15883498|Wethersfield, CT|1|2
+6393032|arlington, va|15009171|Hiding behind the chainsaws.|1|2
+631823|arlington, va|8120202|San Diego|2|2
+631823|arlington, va|6744472|Sanford, MI|2|2
+631823|arlington, va|2902786221|Error|2|2
+631823|arlington, va|11154172|Brussels|2|2
+631823|arlington, va|14399868|Error|1|2
+631823|arlington, va|6298462|Brooklyn, NY|1|2
+631823|arlington, va|9463462|Southern California|1|2
+16396193|arlington, virginia|19541939|New York|1|2
+16396193|arlington, virginia|15173376|Chicago|1|2
+16396193|arlington, virginia|16291762|Error|1|2
+16396193|arlington, virginia|2452900269|Canada|1|2
+16396193|arlington, virginia|756278|Seattle, WA|1|2
+16396193|arlington, virginia|0|Error|1|2
+16396193|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|0|Error|2|2
+26377539|arlington, virginia|81018469|Error|2|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|14943495|Brooklyn, NY|1|2
+26377539|arlington, virginia|41110404|Westerville, Ohio|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|14954270|Baltimore, MD|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|17606107|Plainwell, MI|1|2
+26377539|arlington, virginia|53006175|Northamptonshire, UK|1|2
+26377539|arlington, virginia|51027398|Michigan|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|15588657|Global|1|2
+26377539|arlington, virginia|16965605|Berlin, Germany|1|2
+69289910|arlington, virginia|14605978|Chicago|5|2
+69289910|arlington, virginia|15650726|Richmond, VA 23060|4|2
+69289910|arlington, virginia|21980224|Error|4|2
+69289910|arlington, virginia|16402951|Hartford, CT|2|2
+69289910|arlington, virginia|0|Error|2|2
+69289910|arlington, virginia|20732124|Mesa, Arizona USA|2|2
+69289910|arlington, virginia|26875700|New York|2|2
+69289910|arlington, virginia|0|Error|2|2
+69289910|arlington, virginia|8124952|Seattle, WA|2|2
+69289910|arlington, virginia|120261246|MONTREAL|2|2
+69289910|arlington, virginia|16673147|The City of Brotherly Love|2|2
+69289910|arlington, virginia|19799171|Newport, RI|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|885013178|Error|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|49366829|UK|1|2
+69289910|arlington, virginia|54770181|Pella, Iowa|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|16488147|Fresno, CA|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|69472743|Roanoke, VA|1|2
+69289910|arlington, virginia|273553190|Error|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|16278710|Detroit, MI | USA|1|2
+69289910|arlington, virginia|1377490423|Error|1|2
+69289910|arlington, virginia|19343805|NYC|1|2
+69289910|arlington, virginia|1177085329|The Sixth Circle of Hell|1|2
+69289910|arlington, virginia|43958971|Arlington, VA|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|25279177|ATL, GA, US|1|2
+69289910|arlington, virginia|29992948|Washington, DC|1|2
+69289910|arlington, virginia|14739929|New Orleans, LA|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|1231732027|Error|1|2
+69289910|arlington, virginia|18028855|Austin, Texas|1|2
+69289910|arlington, virginia|102333128|Error|1|2
+69289910|arlington, virginia|19639085|New York City|1|2
+69289910|arlington, virginia|23857477|San Rafael, CA|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|57422596|Commonwealth of Virginia|1|2
+69289910|arlington, virginia|46337767|Ocean|1|2
+69289910|arlington, virginia|20518073|New York, NY|1|2
+69289910|arlington, virginia|19785646|See also|1|2
+69289910|arlington, virginia|23653227|Somerset, New Jersey|1|2
+69289910|arlington, virginia|14225711|Rochester, NY|1|2
+69289910|arlington, virginia|17717512|Online|1|2
+69289910|arlington, virginia|29082715|Roxbury, NJ|1|2
+69289910|arlington, virginia|4121091|Memphis, Tennessee|1|2
+69289910|arlington, virginia|3032923659|Error|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|39493559|Midlothian, VA|1|2
+69289910|arlington, virginia|2509199959|Error|1|2
+69289910|arlington, virginia|24746707|Chicago, IL|1|2
+69289910|arlington, virginia|2505967015|Error|1|2
+69289910|arlington, virginia|19136776|Chicago|1|2
+69289910|arlington, virginia|62816265|Washington, D.C.|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|19290107|Buffalo, NY|1|2
+69289910|arlington, virginia|31927291|RVa - Richmond, Virginia|1|2
+69289910|arlington, virginia|15409034|NYC|1|2
+69289910|arlington, virginia|17075139|Nashville, TN|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|14295094|Philadelphia, PA|1|2
+69289910|arlington, virginia|28896812|Tampa, Florida|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|0|Error|1|2
+24728408|arlington, virginia|0|Error|5|2
+24728408|arlington, virginia|16000947|Washington, DC|5|2
+24728408|arlington, virginia|19299909|Germantown, MD|4|2
+24728408|arlington, virginia|15099384|Melbourne, FL|4|2
+24728408|arlington, virginia|0|Error|3|2
+24728408|arlington, virginia|807095|New York City|3|2
+24728408|arlington, virginia|14515734|Los Angeles, CA|3|2
+24728408|arlington, virginia|1716581|Oakland, CA|3|2
+24728408|arlington, virginia|26548315| New York|3|2
+24728408|arlington, virginia|0|Error|3|2
+24728408|arlington, virginia|19432203|Melbourne Bch, FL / The Road|2|2
+24728408|arlington, virginia|44356778|Washington, DC|2|2
+24728408|arlington, virginia|23827692|Error|2|2
+24728408|arlington, virginia|41611947|Chicago, IL|2|2
+24728408|arlington, virginia|18519918|California, Los Angeles|1|2
+24728408|arlington, virginia|2569141|Greenville | South Carolina|1|2
+24728408|arlington, virginia|941724637|Error|1|2
+24728408|arlington, virginia|0|Error|1|2
+24728408|arlington, virginia|78139580|Earth|1|2
+24728408|arlington, virginia|0|Error|1|2
+24728408|arlington, virginia|14852513|Boston|1|2
+24728408|arlington, virginia|0|Error|1|2
+24728408|arlington, virginia|3324846065|London, England|1|2
+24728408|arlington, virginia|0|Error|1|2
+24728408|arlington, virginia|5392522|Washington, DC|1|2
+24728408|arlington, virginia|41188303|Planet Earth|1|2
+24728408|arlington, virginia|15368896|New York City|1|2
+24728408|arlington, virginia|14112294|In Transition|1|2
+24728408|arlington, virginia|29540861|Nationwide|1|2
+24728408|arlington, virginia|62845081|Top of the World|1|2
+24728408|arlington, virginia|14863467|San Francisco, California|1|2
+24728408|arlington, virginia|29899949|Washington, DC|1|2
+24728408|arlington, virginia|24728408|Arlington, Virginia|1|2
+24728408|arlington, virginia|35069367|Venice, CA|1|2
+24728408|arlington, virginia|26844139|Stockholm|1|2
+24728408|arlington, virginia|21728303|New York & Miami|1|2
+15779877|arlington, virginia|14681055|Anywhere there are no snakes.|3|2
+15779877|arlington, virginia|46633580|Denmark|2|2
+15779877|arlington, virginia|21481217|Error|2|2
+15779877|arlington, virginia|17162250|New York|1|2
+15779877|arlington, virginia|13293482|Miami, FL|1|2
+15779877|arlington, virginia|19196214|VA|1|2
+15779877|arlington, virginia|0|Error|1|2
+15779877|arlington, virginia|16190278|Brooklyn, NY|1|2
+15779877|arlington, virginia|9851462|Los Angeles, CA|1|2
+15779877|arlington, virginia|347241011|Error|1|2
+15779877|arlington, virginia|18189351|Chicago|1|2
+15779877|arlington, virginia|2896671|In Motion|1|2
+15779877|arlington, virginia|1531500793|Error|1|2
+15779877|arlington, virginia|17313889|here and there|1|2
+15779877|arlington, virginia|5990172| Los Angeles|1|2
+15779877|arlington, virginia|18681934|Washington, DC|1|2
+15779877|arlington, virginia|19357375|Manhattan|1|2
+15779877|arlington, virginia|25556948|Error|1|2
+15779877|arlington, virginia|19598182|Brooklyn, New York|1|2
+15779877|arlington, virginia|19519252|New York City|1|2
+15779877|arlington, virginia|0|Error|1|2
+15779877|arlington, virginia|52089472|New York|1|2
+15779877|arlington, virginia|0|Error|1|2
+15779877|arlington, virginia|338901288|Czech Republic|1|2
+15779877|arlington, virginia|0|Error|1|2
+15779877|arlington, virginia|0|Error|1|2
+15779877|arlington, virginia|39307863|Elgin (Plato Center) IL|1|2
+15779877|arlington, virginia|16443393|Brooklyn|1|2
+15779877|arlington, virginia|22187863|Methuen, Massachusetts|1|2
+15779877|arlington, virginia|14572408|between Providence and Boston|1|2
+15779877|arlington, virginia|24016551|Charlotte area|1|2
+69289910|arlington, virginia|15650726|Richmond, VA 23060|5|2
+69289910|arlington, virginia|15814920|Boston|4|2
+69289910|arlington, virginia|19785646|See also|3|2
+69289910|arlington, virginia|0|Error|2|2
+69289910|arlington, virginia|19290107|Buffalo, NY|2|2
+69289910|arlington, virginia|15752255|New York City|2|2
+69289910|arlington, virginia|20518073|New York, NY|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|53551218|Error|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|1231732027|Error|1|2
+69289910|arlington, virginia|0|Error|1|2
+69289910|arlington, virginia|130584275|Denver, Colorado|1|2
+69289910|arlington, virginia|56775611|Virginia|1|2
+69289910|arlington, virginia|8124952|Seattle, WA|1|2
+26377539|arlington, virginia|0|Error|2|2
+26377539|arlington, virginia|69051613|Hatteras Island, NC|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|17399684|Boston. MA|1|2
+26377539|arlington, virginia|17606107|Plainwell, MI|1|2
+26377539|arlington, virginia|17810898|Gulf Coast AL|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|14943495|Brooklyn, NY|1|2
+26377539|arlington, virginia|47843880|North Carolina|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|26063179|Error|1|2
+26377539|arlington, virginia|22393447|Lincoln, Nebraska|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|14980698|Provo, Utah, USA|1|2
+26377539|arlington, virginia|15112316|Houston|1|2
+26377539|arlington, virginia|17259640|Pennsylvania|1|2
+26377539|arlington, virginia|20694145|new york city|1|2
+26377539|arlington, virginia|17454801|Error|1|2
+26377539|arlington, virginia|1953594210|Error|1|2
+26377539|arlington, virginia|17440840|Asheville, Fletcher, NC|1|2
+26377539|arlington, virginia|25663936|San Angelo Texas|1|2
+26377539|arlington, virginia|19681213|Boston MA|1|2
+26377539|arlington, virginia|0|Error|1|2
+26377539|arlington, virginia|0|Error|1|2
+22211080|arlington, virginia|16563471|Nashville (Gallatin), TN|1|2
+22211080|arlington, virginia|17000122|Virginia, USA|1|2
+22211080|arlington, virginia|33219355|iPhone: 38.904282,-92.351074|1|2
+22211080|arlington, virginia|35070946|Central Florida|1|2
+36086457|arlington, virginia|0|Error|1|2
+73039130|arlington, virginia|11883132|San Francisco|2|2
+73039130|arlington, virginia|0|Error|1|2
+73039130|arlington, virginia|22413898|Central Florida|1|2
+73039130|arlington, virginia|40971819|worldwide|1|2
+73039130|arlington, virginia|0|Error|1|2
+73039130|arlington, virginia|7449512|Philippines|1|2
+73039130|arlington, virginia|0|Error|1|2
+73039130|arlington, virginia|0|Error|1|2
+73039130|arlington, virginia|972651|Error|1|2
+73039130|arlington, virginia|5527452|Philippines|1|2
+14603564|arlington, virginia|14375789|Washington DC|1|2
+14603564|arlington, virginia|6627892|Arlington, Va.|1|2

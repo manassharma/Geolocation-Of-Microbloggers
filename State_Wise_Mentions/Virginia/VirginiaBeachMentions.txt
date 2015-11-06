@@ -1,0 +1,1586 @@
+55181633|virginia beach, va|0|Error|7|2
+67241323|virginia beach, va|527059312|Error|7|2
+67241323|virginia beach, va|0|Error|4|2
+67241323|virginia beach, va|33465403|Salt Lake City Utah |3|2
+67241323|virginia beach, va|316764430|Error|3|2
+67241323|virginia beach, va|2422468442|Error|3|2
+67241323|virginia beach, va|96232889|Error|3|2
+67241323|virginia beach, va|498641075|Error|2|2
+67241323|virginia beach, va|24594649|CT|2|2
+67241323|virginia beach, va|32436824|currently elevating |2|2
+67241323|virginia beach, va|24847776|NYC - BOS - LA - SEA |2|2
+67241323|virginia beach, va|627293921|Error|2|2
+67241323|virginia beach, va|34032456|Global Bound|2|2
+67241323|virginia beach, va|0|Error|1|2
+67241323|virginia beach, va|0|Error|1|2
+67241323|virginia beach, va|100252006|Error|1|2
+67241323|virginia beach, va|0|Error|1|2
+67241323|virginia beach, va|0|Error|1|2
+67241323|virginia beach, va|78230619|memphis ten|1|2
+67241323|virginia beach, va|0|Error|1|2
+67241323|virginia beach, va|508249274|Error|1|2
+67241323|virginia beach, va|0|Error|1|2
+67241323|virginia beach, va|32758509|NORTH CAROLINA|1|2
+67241323|virginia beach, va|1050365671|GET RICH OR STAY BROKE!|1|2
+67241323|virginia beach, va|64348462|Allentown, PA|1|2
+67241323|virginia beach, va|0|Error|1|2
+67241323|virginia beach, va|33474720|Indianapolis, In|1|2
+67241323|virginia beach, va|0|Error|1|2
+67241323|virginia beach, va|123618707|The Dot, up up & away|1|2
+67241323|virginia beach, va|0|Error|1|2
+67241323|virginia beach, va|21653241|On a Plane|1|2
+67241323|virginia beach, va|0|Error|1|2
+67241323|virginia beach, va|0|Error|1|2
+67241323|virginia beach, va|67628943|port city|1|2
+45876913|virginia beach, va|0|Error|1|2
+45876913|virginia beach, va|0|Error|1|2
+45876913|virginia beach, va|1435711950|Andover, MN|1|2
+45876913|virginia beach, va|49879545|Norfolk, VA|1|2
+45876913|virginia beach, va|0|Error|1|2
+45876913|virginia beach, va|0|Error|1|2
+45876913|virginia beach, va|0|Error|1|2
+45876913|virginia beach, va|0|Error|1|2
+45876913|virginia beach, va|25628858|BK, NY|1|2
+45876913|virginia beach, va|0|Error|1|2
+45876913|virginia beach, va|0|Error|1|2
+57934699|virginia beach, va|2691184292|Error|2|2
+57934699|virginia beach, va|0|Error|2|2
+57934699|virginia beach, va|1341974510|Error|2|2
+57934699|virginia beach, va|57934699|Virginia Beach, VA|1|2
+57934699|virginia beach, va|0|Error|1|2
+57934699|virginia beach, va|26197736|VA|1|2
+16751321|virginia beach, va|2417292206|Northwest, UK|2|2
+16751321|virginia beach, va|230089563|Error|2|2
+16751321|virginia beach, va|49722186|New York, NY|2|2
+16751321|virginia beach, va|9226312|evansville, indiana  |2|2
+16751321|virginia beach, va|0|Error|2|2
+16751321|virginia beach, va|16442331|Atlanta, GA|1|2
+16751321|virginia beach, va|0|Error|1|2
+16751321|virginia beach, va|18663924|San Antonio, Texas|1|2
+16751321|virginia beach, va|25281725|Atlanta| Virginia | Charlotte|1|2
+16751321|virginia beach, va|14908658|Virginia Beach, VA|1|2
+16751321|virginia beach, va|0|Error|1|2
+16751321|virginia beach, va|14813136|Based in Memphis, TN|1|2
+16751321|virginia beach, va|20334517|Located in NJ, Ship Worldwide|1|2
+16751321|virginia beach, va|263263866|Error|1|2
+16751321|virginia beach, va|16207185|Los Angeles + Anywhere|1|2
+16751321|virginia beach, va|0|Error|1|2
+20721393|virginia beach, va|30679939|Cincinnati, OH|6|2
+20721393|virginia beach, va|15618553|Norfolk, VA|2|2
+20721393|virginia beach, va|2335569998|Error|2|2
+20721393|virginia beach, va|0|Error|1|2
+20721393|virginia beach, va|2361698330|Spalding, Lincolnshire, UK|1|2
+20721393|virginia beach, va|35652732|In the Fortress of Solitude!|1|2
+20721393|virginia beach, va|0|Error|1|2
+20721393|virginia beach, va|21919988|York, Pa.|1|2
+20721393|virginia beach, va|0|Error|1|2
+20721393|virginia beach, va|0|Error|1|2
+20721393|virginia beach, va|34869665|Los Angeles|1|2
+20721393|virginia beach, va|31421996|Chicago IL by way of Denver CO|1|2
+20721393|virginia beach, va|930319975|elizabethtown, KY|1|2
+12090122|virginia beach, va|21004919|Rockton IL |1|2
+12090122|virginia beach, va|30487318|Columbus OH|1|2
+12090122|virginia beach, va|23383576|Belleville, IL|1|2
+12090122|virginia beach, va|0|Error|1|2
+12090122|virginia beach, va|20514505|Kansas|1|2
+12090122|virginia beach, va|0|Error|1|2
+12090122|virginia beach, va|8787232|IL|1|2
+12090122|virginia beach, va|33104613|Texas|1|2
+12090122|virginia beach, va|21032383|Everywhere|1|2
+12090122|virginia beach, va|31230781|Alabama|1|2
+12090122|virginia beach, va|81518059|Virginia Beach, VA|1|2
+12090122|virginia beach, va|0|Error|1|2
+12090122|virginia beach, va|17594677|Maryland|1|2
+12090122|virginia beach, va|0|Error|1|2
+12090122|virginia beach, va|17130899|Watts, Compton,Tulsa, KCMO|1|2
+12090122|virginia beach, va|33562795|Former Chicagoan Now Maine! |1|2
+12090122|virginia beach, va|41290911|Oak Ridge NC|1|2
+62140586|virginia beach, va|558793745|DC |5|2
+62140586|virginia beach, va|443222069|Error|4|2
+62140586|virginia beach, va|32638230|a cloud higher than yours|4|2
+62140586|virginia beach, va|24394738|Live from Hyperreality|3|2
+62140586|virginia beach, va|39543324|Bay Area |3|2
+62140586|virginia beach, va|0|Error|3|2
+62140586|virginia beach, va|24126342| 8 0 4 0 4|3|2
+62140586|virginia beach, va|0|Error|3|2
+62140586|virginia beach, va|2218841980|Error|3|2
+62140586|virginia beach, va|184769187|Error|2|2
+62140586|virginia beach, va|65060396|Cleveland Oh|2|2
+62140586|virginia beach, va|0|Error|2|2
+62140586|virginia beach, va|1915842930|-NY-|2|2
+62140586|virginia beach, va|42465008|VA 757 HAMPTON |2|2
+62140586|virginia beach, va|0|Error|2|2
+62140586|virginia beach, va|0|Error|2|2
+62140586|virginia beach, va|0|Error|2|2
+62140586|virginia beach, va|25137445|Romans 10:9|2|2
+62140586|virginia beach, va|0|Error|2|2
+62140586|virginia beach, va|601912451|Error|1|2
+62140586|virginia beach, va|18888322|Right Next to Doug Funnie|1|2
+62140586|virginia beach, va|0|Error|1|2
+62140586|virginia beach, va|0|Error|1|2
+62140586|virginia beach, va|18511850|Baltimore |1|2
+62140586|virginia beach, va|17788738|Error|1|2
+62140586|virginia beach, va|65443340|In the Atlantic.|1|2
+62140586|virginia beach, va|287261811|Error|1|2
+62140586|virginia beach, va|759618781|Error|1|2
+62140586|virginia beach, va|493805364|xo|1|2
+62140586|virginia beach, va|27477780|Texas|1|2
+62140586|virginia beach, va|27386405|Beyonce's World|1|2
+62140586|virginia beach, va|1284789612|Error|1|2
+62140586|virginia beach, va|0|Error|1|2
+62140586|virginia beach, va|0|Error|1|2
+62140586|virginia beach, va|114361714|757|1|2
+9976102|virginia beach, va|14217378|Tyler, Texas|1|2
+9976102|virginia beach, va|19178497|Urbana, IL|1|2
+9976102|virginia beach, va|9976102|Virginia Beach, VA|1|2
+9976102|virginia beach, va|17576811|Alexandria, VA|1|2
+9976102|virginia beach, va|58277872|Waipahu, HI|1|2
+68958514|virginia beach, va|0|Error|6|2
+68958514|virginia beach, va|2308756101|Error|6|2
+68958514|virginia beach, va|0|Error|3|2
+68958514|virginia beach, va|0|Error|3|2
+68958514|virginia beach, va|0|Error|3|2
+68958514|virginia beach, va|0|Error|3|2
+68958514|virginia beach, va|580728812|LOST IN THE MEDIA |2|2
+68958514|virginia beach, va|25343191|In a studio working|2|2
+68958514|virginia beach, va|28137134|Rylan's world, VA|2|2
+68958514|virginia beach, va|0|Error|2|2
+68958514|virginia beach, va|0|Error|2|2
+68958514|virginia beach, va|0|Error|2|2
+68958514|virginia beach, va|0|Error|2|2
+68958514|virginia beach, va|459808865|Error|2|2
+68958514|virginia beach, va|239754620|Soshortfatandugly|2|2
+68958514|virginia beach, va|0|Error|1|2
+68958514|virginia beach, va|344325337|Leeds, England|1|2
+68958514|virginia beach, va|0|Error|1|2
+68958514|virginia beach, va|27098158|California~ I Travel|1|2
+68958514|virginia beach, va|34283329|Marrero, USA|1|2
+68958514|virginia beach, va|0|Error|1|2
+68958514|virginia beach, va|166528190|lagos nigeria|1|2
+68958514|virginia beach, va|22336310|Chef at Babbo |1|2
+68958514|virginia beach, va|1482294048|Error|1|2
+68958514|virginia beach, va|192335828|Error|1|2
+68958514|virginia beach, va|3978024232|Error|1|2
+68958514|virginia beach, va|15914081|wherever the #work takes me..|1|2
+68958514|virginia beach, va|0|Error|1|2
+68958514|virginia beach, va|21808942|Why it matter, Florida |1|2
+68958514|virginia beach, va|0|Error|1|2
+68958514|virginia beach, va|0|Error|1|2
+20799281|virginia beach, va|1584108715|Error|2|2
+20799281|virginia beach, va|0|Error|2|2
+20799281|virginia beach, va|0|Error|1|2
+18890411|virginia beach, va|16667447|New York City|2|2
+18890411|virginia beach, va|14659966|Philadelphia|1|2
+88097325|virginia beach, va|23027648|Into The Sun|6|2
+88097325|virginia beach, va|34205405|The Park|4|2
+88097325|virginia beach, va|24598177|Brooklyn, NY forever. |3|2
+88097325|virginia beach, va|2750722452|Error|3|2
+88097325|virginia beach, va|0|Error|3|2
+88097325|virginia beach, va|42242762|VIRGINIA BEACH|3|2
+88097325|virginia beach, va|31620747|LOS ANGELES, WORLDWIDE.|2|2
+88097325|virginia beach, va|34269322|Virginia Beach, VA, USA|2|2
+88097325|virginia beach, va|23440598|Norfolk, VA|2|2
+88097325|virginia beach, va|88097325|Virginia Beach, VA|2|2
+88097325|virginia beach, va|18052608|Virginia Beach|1|2
+88097325|virginia beach, va|57934699|Virginia Beach, VA|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|164437196|Error|1|2
+88097325|virginia beach, va|35250709|D.M.V / N.Y.|1|2
+88097325|virginia beach, va|15381688|Behind the light in your eye|1|2
+88097325|virginia beach, va|309158905|Error|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|32241184|Error|1|2
+88097325|virginia beach, va|43552173|Virginia Beach, VA, USA|1|2
+88097325|virginia beach, va|24495936|DMV now..but  NCs always home!|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|15223539|Alexandria, VA|1|2
+88097325|virginia beach, va|14585421|Error|1|2
+88097325|virginia beach, va|19776079|Error|1|2
+88097325|virginia beach, va|25138267|Philadelphia|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|19273656|. London, UK.|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|30791515|Boulder, CO|1|2
+88097325|virginia beach, va|292795276|Error|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|271475566|Error|1|2
+88097325|virginia beach, va|29995551|Error|1|2
+88097325|virginia beach, va|20641153|Oakland, Ca |1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|62476663|Error|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|22705739|LA|1|2
+88097325|virginia beach, va|49054362|Richmond/DC|1|2
+88097325|virginia beach, va|1646997254|Error|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|1969307844|Error|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|143925703|Error|1|2
+88097325|virginia beach, va|44596715|London|1|2
+88097325|virginia beach, va|21632232|Washington, DC|1|2
+88097325|virginia beach, va|23028064|Error|1|2
+88097325|virginia beach, va|20497091|Error|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|0|Error|1|2
+88097325|virginia beach, va|0|Error|1|2
+12600952|virginia beach, va|9463702|Blacksburg, VA|7|2
+12600952|virginia beach, va|63497889|Virginia Beach, Virginia|4|2
+12600952|virginia beach, va|0|Error|3|2
+12600952|virginia beach, va|108684622|Error|2|2
+12600952|virginia beach, va|3002361|Miami|2|2
+12600952|virginia beach, va|16891682|Blacksburg, Virginia|1|2
+12600952|virginia beach, va|340993238|Error|1|2
+12600952|virginia beach, va|15113820|Silicon Valley Girl n DelaWha?|1|2
+12600952|virginia beach, va|15493871|iPhone: 36.877520,-76.041141|1|2
+12600952|virginia beach, va|0|Error|1|2
+12600952|virginia beach, va|11404952|Fredericksburg, Virginia|1|2
+12600952|virginia beach, va|19273090|Towson, Maryland|1|2
+12600952|virginia beach, va|146093647|Baton Rouge LA|1|2
+12600952|virginia beach, va|83214668|chapel thrill|1|2
+12600952|virginia beach, va|0|Error|1|2
+12600952|virginia beach, va|20215760|Wash DC area.|1|2
+12600952|virginia beach, va|25668422|Dublin City, Ireland|1|2
+12600952|virginia beach, va|18555098|VA Beach|1|2
+15618553|virginia beach, va|24916415|Orlando, FL|3|2
+15618553|virginia beach, va|11447822|Virginia Beach, VA|3|2
+15618553|virginia beach, va|45613809|Brussels|2|2
+15618553|virginia beach, va|15674094|Los Angeles|2|2
+15618553|virginia beach, va|29317757|Somerville, Massachusetts|2|2
+15618553|virginia beach, va|14906496|A deep dark hole|2|2
+15618553|virginia beach, va|17299209|Wisconsin|1|2
+15618553|virginia beach, va|2982300831|Krasnodar
+|1|2
+15618553|virginia beach, va|14197641|Portland, Oregon. Wet, rainy. |1|2
+15618553|virginia beach, va|33501564|Error|1|2
+15618553|virginia beach, va|29676657|West of the 405|1|2
+15618553|virginia beach, va|0|Error|1|2
+15618553|virginia beach, va|0|Error|1|2
+15618553|virginia beach, va|89425087|Error|1|2
+15618553|virginia beach, va|17845789| Vancouver. Airplanes|1|2
+15618553|virginia beach, va|2966553532|Error|1|2
+15618553|virginia beach, va|0|Error|1|2
+15618553|virginia beach, va|19220724|Everywhere|1|2
+15618553|virginia beach, va|0|Error|1|2
+15618553|virginia beach, va|21137858|Kingwood, Texas|1|2
+15618553|virginia beach, va|0|Error|1|2
+15618553|virginia beach, va|0|Error|1|2
+15618553|virginia beach, va|34997030|Birmingham, Alabama, USA|1|2
+15618553|virginia beach, va|0|Error|1|2
+15618553|virginia beach, va|722793|Boulder, CO|1|2
+15618553|virginia beach, va|0|Error|1|2
+15618553|virginia beach, va|15631007|Massachusetts|1|2
+15618553|virginia beach, va|0|Error|1|2
+15618553|virginia beach, va|18274924|Phoenix, AZ|1|2
+15618553|virginia beach, va|14283832|Loudoun County|1|2
+15618553|virginia beach, va|14767228|Error|1|2
+15618553|virginia beach, va|0|Error|1|2
+21906253|virginia beach, va|817636772|San Francisco|6|2
+21906253|virginia beach, va|21906253|VA Beach, VA|4|2
+21906253|virginia beach, va|0|Error|4|2
+21906253|virginia beach, va|0|Error|4|2
+21906253|virginia beach, va|0|Error|2|2
+21906253|virginia beach, va|18619280|D.M.[V.] |2|2
+21906253|virginia beach, va|25435837|Keno|2|2
+21906253|virginia beach, va|136286858|Willemstad, Curacao|2|2
+21906253|virginia beach, va|341564813|Error|1|2
+21906253|virginia beach, va|18010149|Toronto|1|2
+21906253|virginia beach, va|0|Error|1|2
+21906253|virginia beach, va|0|Error|1|2
+21906253|virginia beach, va|78455976|VA. 757 to be exact!|1|2
+21906253|virginia beach, va|0|Error|1|2
+21906253|virginia beach, va|25154863|Las Vegas, NV|1|2
+21906253|virginia beach, va|16658021|Washington, DC|1|2
+21906253|virginia beach, va|0|Error|1|2
+21906253|virginia beach, va|20893512|RVA|1|2
+21906253|virginia beach, va|21808942|Why it matter, Florida |1|2
+21906253|virginia beach, va|0|Error|1|2
+21906253|virginia beach, va|791178|Error|1|2
+42449208|virginia beach, va|0|Error|5|2
+42449208|virginia beach, va|0|Error|3|2
+42449208|virginia beach, va|0|Error|2|2
+42449208|virginia beach, va|0|Error|1|2
+42449208|virginia beach, va|0|Error|1|2
+42449208|virginia beach, va|372080869|Error|1|2
+42449208|virginia beach, va|0|Error|1|2
+49831979|virginia beach, va|0|Error|1|2
+52586194|virginia beach, va|15352066|Error|2|2
+52586194|virginia beach, va|17300462|Virginia Beach, VA|2|2
+52586194|virginia beach, va|0|Error|2|2
+52586194|virginia beach, va|0|Error|2|2
+52586194|virginia beach, va|0|Error|2|2
+52586194|virginia beach, va|37956386|Virginia Beach, VA|1|2
+52586194|virginia beach, va|987646394|Error|1|2
+52586194|virginia beach, va|0|Error|1|2
+52586194|virginia beach, va|36379406|Va Beach or Va Beach|1|2
+52586194|virginia beach, va|0|Error|1|2
+52586194|virginia beach, va|20542617|Virginia Beach|1|2
+52586194|virginia beach, va|0|Error|1|2
+52586194|virginia beach, va|0|Error|1|2
+52586194|virginia beach, va|0|Error|1|2
+52586194|virginia beach, va|30882054|Chicago's North Shore, IL|1|2
+52586194|virginia beach, va|6567132|Virginia Beach, VA|1|2
+23662963|virginia beach, va|0|Error|3|2
+23662963|virginia beach, va|0|Error|2|2
+23662963|virginia beach, va|14842523|Chiang Mai|1|2
+23662963|virginia beach, va|17063978|Hampton, VA|1|2
+23662963|virginia beach, va|0|Error|1|2
+77078576|virginia beach, va|0|Error|4|2
+77078576|virginia beach, va|0|Error|2|2
+77078576|virginia beach, va|2750722452|Error|2|2
+77078576|virginia beach, va|0|Error|2|2
+77078576|virginia beach, va|30578922|Virginia Beach|1|2
+37391799|virginia beach, va|71804281|Error|9|2
+37391799|virginia beach, va|216233235|Error|3|2
+37391799|virginia beach, va|0|Error|3|2
+37391799|virginia beach, va|17643668|Virginia beach|3|2
+37391799|virginia beach, va|176458817|Error|2|2
+37391799|virginia beach, va|0|Error|2|2
+37391799|virginia beach, va|19027526|Error|2|2
+37391799|virginia beach, va|0|Error|2|2
+37391799|virginia beach, va|0|Error|2|2
+37391799|virginia beach, va|0|Error|2|2
+37391799|virginia beach, va|286860188|Los Angeles,California|1|2
+37391799|virginia beach, va|83694888|DMV|1|2
+37391799|virginia beach, va|26803101|Error|1|2
+37391799|virginia beach, va|14549283|the DMV|1|2
+37391799|virginia beach, va|146695463|Los Angeles + |1|2
+37391799|virginia beach, va|180601330|Error|1|2
+37391799|virginia beach, va|407810137|Minneapolis, MN|1|2
+37391799|virginia beach, va|0|Error|1|2
+37391799|virginia beach, va|0|Error|1|2
+37391799|virginia beach, va|18178300|Error|1|2
+37391799|virginia beach, va|2935546656|Error|1|2
+37391799|virginia beach, va|60520762|DMV|1|2
+37391799|virginia beach, va|25792846|Error|1|2
+37391799|virginia beach, va|0|Error|1|2
+37391799|virginia beach, va|0|Error|1|2
+37391799|virginia beach, va|0|Error|1|2
+37391799|virginia beach, va|2419376660|Error|1|2
+37391799|virginia beach, va|275441182|Error|1|2
+37391799|virginia beach, va|67333300|Virginia|1|2
+37391799|virginia beach, va|32582186|Error|1|2
+57710612|virginia beach, va|342271671|Error|1|2
+57710612|virginia beach, va|28943632|Virginia Beach VA|1|2
+57710612|virginia beach, va|18314902|Virginia Beach, VA|1|2
+57710612|virginia beach, va|0|Error|1|2
+57710612|virginia beach, va|47656982|Southeast VA,  Northeast N.C.|1|2
+57710612|virginia beach, va|15780044|iPhone: 0.000000,0.000000|1|2
+57710612|virginia beach, va|1648311|New Orleans, LA, USA|1|2
+57710612|virginia beach, va|15756858|Virginia Beach, VA, USA|1|2
+57710612|virginia beach, va|0|Error|1|2
+15768346|virginia beach, va|0|Error|1|2
+15768346|virginia beach, va|15651891|Phoenix|1|2
+15768346|virginia beach, va|41456831|Gwinnett County, Georgia|1|2
+15379850|virginia beach, va|0|Error|1|2
+15379850|virginia beach, va|0|Error|1|2
+15379850|virginia beach, va|2980632263|S.FL // The Internet|1|2
+15379850|virginia beach, va|0|Error|1|2
+15379850|virginia beach, va|24461828|Error|1|2
+15379850|virginia beach, va|0|Error|1|2
+15379850|virginia beach, va|0|Error|1|2
+15379850|virginia beach, va|4761421|Toronto/Tegucigalpa|1|2
+15379850|virginia beach, va|22757820|London|1|2
+15379850|virginia beach, va|14531778|Error|1|2
+15379850|virginia beach, va|99568319|Error|1|2
+15379850|virginia beach, va|1481322158|Salto, Uruguay|1|2
+15379850|virginia beach, va|21047430|Washington, DC area|1|2
+15379850|virginia beach, va|17329117|Montreal|1|2
+15379850|virginia beach, va|27086815|Kent, UK|1|2
+15379850|virginia beach, va|0|Error|1|2
+15379850|virginia beach, va|0|Error|1|2
+15379850|virginia beach, va|239822222|Error|1|2
+26260814|virginia beach, va|28614618|Out my mind; Just in time|1|2
+26260814|virginia beach, va|0|Error|1|2
+26260814|virginia beach, va|35787166|The Pinkprint in stores NOW|1|2
+26260814|virginia beach, va|0|Error|1|2
+49854484|virginia beach, va|24796225|Rochester NY|3|2
+49854484|virginia beach, va|50188250|chesapeake virginia|3|2
+49854484|virginia beach, va|2972944261|Error|2|2
+49854484|virginia beach, va|14230524|Error|1|2
+49854484|virginia beach, va|27014805|Honolulu, HI -Newport News, VA|1|2
+49854484|virginia beach, va|19480692|NY (previously SC, VA, PA, GA)|1|2
+49854484|virginia beach, va|40285923|Virginia Beach|1|2
+49854484|virginia beach, va|2612938416|Everywhere|1|2
+49854484|virginia beach, va|47516981|Error|1|2
+5556732|virginia beach, va|0|Error|1|2
+5556732|virginia beach, va|0|Error|1|2
+5556732|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|24302245|Virginia Beach, VA|27|2
+24302245|virginia beach, va|60695143|Fort Collins Northern Colorado|21|2
+24302245|virginia beach, va|0|Error|11|2
+24302245|virginia beach, va|57546408|Minneapolis MN|11|2
+24302245|virginia beach, va|24898059|Milwaukee, Wisconsin U.S.A.|10|2
+24302245|virginia beach, va|14673840|just outside Chicago, Illinois|9|2
+24302245|virginia beach, va|18489152|Santa Cruz, California, USA|8|2
+24302245|virginia beach, va|455059002|Error|6|2
+24302245|virginia beach, va|27342984|Southwest Missouri|6|2
+24302245|virginia beach, va|15756858|Virginia Beach, VA, USA|5|2
+24302245|virginia beach, va|18330275|San Diego, CA|5|2
+24302245|virginia beach, va|325317490|Error|5|2
+24302245|virginia beach, va|287043376|Error|5|2
+24302245|virginia beach, va|2165974050|Error|4|2
+24302245|virginia beach, va|19187122|Fort Worth,TX & Los Angeles,CA|3|2
+24302245|virginia beach, va|56698292|New Jersey, USA|3|2
+24302245|virginia beach, va|27290606|argentina|3|2
+24302245|virginia beach, va|2537372496|Error|3|2
+24302245|virginia beach, va|12606782|Bellaire, Florida|3|2
+24302245|virginia beach, va|1350324720|Byron Bay|3|2
+24302245|virginia beach, va|18878234|Austin, Texas, USA |3|2
+24302245|virginia beach, va|16410771|Error|2|2
+24302245|virginia beach, va|15175597|Toronto, Ontario|2|2
+24302245|virginia beach, va|19888439|Error|2|2
+24302245|virginia beach, va|42923569|San Diego|2|2
+24302245|virginia beach, va|19559747|Tucson, AZ|2|2
+24302245|virginia beach, va|88043381|Fort Wallton Beach, FL|2|2
+24302245|virginia beach, va|34593246|London|2|2
+24302245|virginia beach, va|30760576|Westchester County, NY|2|2
+24302245|virginia beach, va|0|Error|2|2
+24302245|virginia beach, va|15755901|Error|2|2
+24302245|virginia beach, va|0|Error|2|2
+24302245|virginia beach, va|43731192|Oklahoma, DE, PA, GA, NV|2|2
+24302245|virginia beach, va|47745320|Los Angeles, CA|2|2
+24302245|virginia beach, va|19407975|Tampa, FL|2|2
+24302245|virginia beach, va|61274503|Los Angeles, California|2|2
+24302245|virginia beach, va|17383274|Colorado|2|2
+24302245|virginia beach, va|16699495|New York|2|2
+24302245|virginia beach, va|818793|Error|2|2
+24302245|virginia beach, va|60190631|Chicago, IL|2|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|87962304|Virginia Beach, VA|1|2
+24302245|virginia beach, va|76975238|Dallas, Texas|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|998165604|Mulholland Drive|1|2
+24302245|virginia beach, va|141918960|Error|1|2
+24302245|virginia beach, va|14435000|Santa Barbara * Scottsdale|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|966280914|straya|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|60788707|London ON Canada|1|2
+24302245|virginia beach, va|16540322|Memphis, TN|1|2
+24302245|virginia beach, va|7846942|Austin, TX|1|2
+24302245|virginia beach, va|45921994|York, PA|1|2
+24302245|virginia beach, va|24186359|The Beach         |1|2
+24302245|virginia beach, va|25290300|Dallas, Texas USA|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|355522726|sweetwater texas|1|2
+24302245|virginia beach, va|14738881|http://tinyurl/1232343|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|64769168|Tampa, FL|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|25153101|St Albans, England|1|2
+24302245|virginia beach, va|72348125|Carmel, California|1|2
+24302245|virginia beach, va|21116935|Denver, Colorado|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|64082036|Tokyo, Japan|1|2
+24302245|virginia beach, va|2196260083|Error|1|2
+24302245|virginia beach, va|18502088|Jakarta|1|2
+24302245|virginia beach, va|6040172|London | Online|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|24062738|Ontario, Canada|1|2
+24302245|virginia beach, va|59643287|New York, NY 10005|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|18308230|Louisiana|1|2
+24302245|virginia beach, va|275398192|New York City|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|43019331|Worldwide|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|17398978|Front Royal, VA|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|82115283|Atlanta, GA|1|2
+24302245|virginia beach, va|107460982|Error|1|2
+24302245|virginia beach, va|39429015|Orange County, CA|1|2
+24302245|virginia beach, va|19784023|Error|1|2
+24302245|virginia beach, va|46093540|Queensland  Australia|1|2
+24302245|virginia beach, va|71137085|Australia|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|25919376|Indiana|1|2
+24302245|virginia beach, va|14920318|Error|1|2
+24302245|virginia beach, va|17627344|Los Angeles|1|2
+24302245|virginia beach, va|18521287|Maryland|1|2
+24302245|virginia beach, va|78062665|Dallas Tx.|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|17621819|Mesa, AZ|1|2
+24302245|virginia beach, va|33634012|Fashion Videographer|1|2
+24302245|virginia beach, va|141167994|croydon|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|82189249|Queenstown, New Zealand|1|2
+24302245|virginia beach, va|8788782|Seattle + Worldwide|1|2
+24302245|virginia beach, va|58301493|Bookstore/website & Florida|1|2
+24302245|virginia beach, va|94148259|Toronto, Canada|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|118088516|Error|1|2
+24302245|virginia beach, va|9377402|Orlando, FL|1|2
+24302245|virginia beach, va|434519430|Error|1|2
+24302245|virginia beach, va|2170071328|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|51027398|Michigan|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|48622770|San Francisco Bay Area|1|2
+24302245|virginia beach, va|23721972|Tulsa, OK|1|2
+24302245|virginia beach, va|17008328|California|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|92246834|UK|1|2
+24302245|virginia beach, va|16413061|Boston|1|2
+24302245|virginia beach, va|11295352|Jackson, MS|1|2
+24302245|virginia beach, va|81318031|La La Land|1|2
+24302245|virginia beach, va|59766328|iPhone: 33.123092,-96.705696|1|2
+24302245|virginia beach, va|17818959|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|3233003804|Error|1|2
+24302245|virginia beach, va|60198816|Long Island, NY|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|23663535|Colorado|1|2
+24302245|virginia beach, va|18719192|Atlanta |1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|561455772|Error|1|2
+24302245|virginia beach, va|53657495|Victoria, Australia|1|2
+24302245|virginia beach, va|3301769298|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|73503335|Error|1|2
+24302245|virginia beach, va|79685637|Global|1|2
+24302245|virginia beach, va|1545838585|nyc|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|35419445|Barcelona Spain|1|2
+24302245|virginia beach, va|78404099|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|34314757|Florida USA|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|26461252|Ohio, US|1|2
+24302245|virginia beach, va|1624589712|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|28408205|TEXAS USA|1|2
+24302245|virginia beach, va|12090722|Colorado and More!|1|2
+24302245|virginia beach, va|23209423|Somewhere Wonderful|1|2
+24302245|virginia beach, va|16000980|iPhone: 34.032539,-118.470879|1|2
+24302245|virginia beach, va|93775276|Error|1|2
+24302245|virginia beach, va|75894075|Error|1|2
+24302245|virginia beach, va|28562298|Paris, Lyon, Europe...|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|25112621|Gambrills, MD|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|16383523|Kennesaw GA |1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|22715184|Australia|1|2
+24302245|virginia beach, va|19338442|UK|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|17526452|Los Angeles, CA|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|2347365079|Error|1|2
+24302245|virginia beach, va|13356392|Philadelphia Pa.|1|2
+24302245|virginia beach, va|40609197|Virginia Beach, VA|1|2
+24302245|virginia beach, va|14535966|Bay Area, California|1|2
+24302245|virginia beach, va|18876735|www.thedavidbowers.com|1|2
+24302245|virginia beach, va|15566022|Outside Philadelphia, PA|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|22042288|in the studio|1|2
+24302245|virginia beach, va|19214257|Orangeville, Ontario, Canada|1|2
+24302245|virginia beach, va|0|Error|1|2
+16832800|virginia beach, va|0|Error|4|2
+16832800|virginia beach, va|0|Error|1|2
+16832800|virginia beach, va|0|Error|1|2
+16832800|virginia beach, va|0|Error|1|2
+16832800|virginia beach, va|0|Error|1|2
+16832800|virginia beach, va|379937899|Error|1|2
+48032167|virginia beach, va|0|Error|2|2
+28896571|virginia beach, va|0|Error|4|2
+28896571|virginia beach, va|14958275|Oakland, CA|2|2
+28896571|virginia beach, va|48439642|Greenville, NC|1|2
+28896571|virginia beach, va|18702364|Philadelphia, NC|1|2
+64760595|virginia beach, va|16973902|Nashville, Tennessee|4|2
+64760595|virginia beach, va|1365626928|Friendswood, TX|2|2
+64760595|virginia beach, va|43489430|Summoned to the desert. |1|2
+64760595|virginia beach, va|0|Error|1|2
+64760595|virginia beach, va|1203771|Error|1|2
+64760595|virginia beach, va|0|Error|1|2
+64760595|virginia beach, va|0|Error|1|2
+64760595|virginia beach, va|0|Error|1|2
+64760595|virginia beach, va|24086519| USA & AUSTRIA|1|2
+64760595|virginia beach, va|68574065|Error|1|2
+64760595|virginia beach, va|0|Error|1|2
+64760595|virginia beach, va|0|Error|1|2
+64760595|virginia beach, va|0|Error|1|2
+64760595|virginia beach, va|16667193|Nashville, TN|1|2
+51326274|virginia beach, va|51326274|Virginia Beach, VA|7|2
+51326274|virginia beach, va|0|Error|1|2
+51326274|virginia beach, va|0|Error|1|2
+25236755|virginia beach, va|22098782|VA beach |3|2
+25236755|virginia beach, va|36379406|Va Beach or Va Beach|2|2
+25236755|virginia beach, va|22650818|Virginia Beach baby|2|2
+25236755|virginia beach, va|15355406|Error|1|2
+25236755|virginia beach, va|27769297|SYD -- LAX|1|2
+25236755|virginia beach, va|0|Error|1|2
+25236755|virginia beach, va|22086102|iPhone: 36.851379,-76.003418|1|2
+25236755|virginia beach, va|22081596|Brooklyn, NY USA|1|2
+37956386|virginia beach, va|50887633|Virginia Beach, VA|1|2
+37956386|virginia beach, va|52586194|Virginia Beach, VA|1|2
+37956386|virginia beach, va|45574381|Virginia Beach,VA|1|2
+37956386|virginia beach, va|51446765|Virginia Beach, VA|1|2
+37956386|virginia beach, va|27342984|Southwest Missouri|1|2
+37956386|virginia beach, va|69831791|Pasadena|1|2
+37956386|virginia beach, va|15447859|skype:jefffaldalen|1|2
+37956386|virginia beach, va|16699495|New York|1|2
+37956386|virginia beach, va|18321578|Virginia Beach VA 23456|1|2
+37956386|virginia beach, va|22715184|Australia|1|2
+6368222|virginia beach, va|9781242|23510|11|2
+6368222|virginia beach, va|1966895540|Bolton |4|2
+6368222|virginia beach, va|52596413|New York, NY|4|2
+6368222|virginia beach, va|245075797|DeLand, FL|3|2
+6368222|virginia beach, va|7574312|42.051652,-88.033675|1|2
+6368222|virginia beach, va|1642681|Los Angeles / Redondo Beach |1|2
+6368222|virginia beach, va|4450541|LA/OC|1|2
+6368222|virginia beach, va|7657922|Edmonton, Alberta CA|1|2
+6368222|virginia beach, va|164994192|Error|1|2
+24872795|virginia beach, va|0|Error|1|2
+23018798|virginia beach, va|23018798|Error|12|2
+23018798|virginia beach, va|0|Error|6|2
+23018798|virginia beach, va|57030599|VA|5|2
+23018798|virginia beach, va|487313570|Error|4|2
+23018798|virginia beach, va|1092561547|Error|4|2
+23018798|virginia beach, va|0|Error|3|2
+23018798|virginia beach, va|0|Error|2|2
+23018798|virginia beach, va|1284789612|Error|2|2
+23018798|virginia beach, va|7145432|Los Angeles|1|2
+23018798|virginia beach, va|0|Error|1|2
+23018798|virginia beach, va|0|Error|1|2
+23018798|virginia beach, va|16728964|Archerville|1|2
+23018798|virginia beach, va|0|Error|1|2
+23018798|virginia beach, va|0|Error|1|2
+23018798|virginia beach, va|0|Error|1|2
+23018798|virginia beach, va|16638685|UP THRU DERE!|1|2
+23018798|virginia beach, va|0|Error|1|2
+23018798|virginia beach, va|1479083581|Error|1|2
+23018798|virginia beach, va|577456307|Error|1|2
+23018798|virginia beach, va|0|Error|1|2
+23018798|virginia beach, va|0|Error|1|2
+23018798|virginia beach, va|36425615|ATL & VA by Way of Queens NYC|1|2
+79254357|virginia beach, va|340993238|Error|5|2
+79254357|virginia beach, va|17215802|Across 30+ countries|5|2
+79254357|virginia beach, va|0|Error|4|2
+79254357|virginia beach, va|0|Error|3|2
+79254357|virginia beach, va|52586194|Virginia Beach, VA|2|2
+79254357|virginia beach, va|24259523|Peck |2|2
+79254357|virginia beach, va|2120031|Virginia Beach, VA|2|2
+79254357|virginia beach, va|28898053|Virginia Beach, VA|1|2
+79254357|virginia beach, va|6368222|Virginia Beach, VA|1|2
+79254357|virginia beach, va|17300462|Virginia Beach, VA|1|2
+79254357|virginia beach, va|83580754|Virginia Beach, VA|1|2
+79254357|virginia beach, va|0|Error|1|2
+79254357|virginia beach, va|0|Error|1|2
+79254357|virginia beach, va|893571300|Error|1|2
+79254357|virginia beach, va|0|Error|1|2
+79254357|virginia beach, va|23166001|Chesapeake, VA|1|2
+79254357|virginia beach, va|27270787|Earth|1|2
+48850123|virginia beach, va|30748614|virginia(from fla)|8|2
+48850123|virginia beach, va|0|Error|2|2
+48850123|virginia beach, va|6566202|Los Angeles|1|2
+48850123|virginia beach, va|0|Error|1|2
+48850123|virginia beach, va|54682125|BillCosby.com/Concerts|1|2
+48850123|virginia beach, va|25967150|ATLANTA,GA | NYC | MIAMI|1|2
+48850123|virginia beach, va|0|Error|1|2
+26830948|virginia beach, va|0|Error|2|2
+26830948|virginia beach, va|15165351|VA Beach|2|2
+26830948|virginia beach, va|1419406934|londres inglaterra|1|2
+26830948|virginia beach, va|16026954|Charlottesville, VA|1|2
+26830948|virginia beach, va|19644093|Charlotte|1|2
+26830948|virginia beach, va|18205029|Virginia Beach, VA|1|2
+26830948|virginia beach, va|6416322|VA|1|2
+26830948|virginia beach, va|0|Error|1|2
+26830948|virginia beach, va|19295026|Los Angeles, CA|1|2
+26830948|virginia beach, va|0|Error|1|2
+17448097|virginia beach, va|22885571|Richmond, VA|4|2
+17448097|virginia beach, va|7726282|Cleveland, OH|4|2
+17448097|virginia beach, va|55227138|norfolk virginia|2|2
+17448097|virginia beach, va|17296884|Norfolk, Virginia|1|2
+17448097|virginia beach, va|21880646|New York City|1|2
+17448097|virginia beach, va|0|Error|1|2
+17448097|virginia beach, va|0|Error|1|2
+22932545|virginia beach, va|0|Error|1|2
+22932545|virginia beach, va|177728662|Error|1|2
+22932545|virginia beach, va|0|Error|1|2
+22932545|virginia beach, va|43041878|Ho Chi Minh city, VN |1|2
+22932545|virginia beach, va|1460739398|Montreal, QC|1|2
+22932545|virginia beach, va|16286578|Error|1|2
+39156664|virginia beach, va|0|Error|2|2
+39156664|virginia beach, va|0|Error|2|2
+39156664|virginia beach, va|0|Error|2|2
+39156664|virginia beach, va|21908338|Error|1|2
+39156664|virginia beach, va|21522338|Error|1|2
+39156664|virginia beach, va|0|Error|1|2
+39156664|virginia beach, va|47737434|Washington DC|1|2
+39156664|virginia beach, va|0|Error|1|2
+39156664|virginia beach, va|0|Error|1|2
+39156664|virginia beach, va|89323026|Error|1|2
+39156664|virginia beach, va|0|Error|1|2
+39156664|virginia beach, va|0|Error|1|2
+39156664|virginia beach, va|792907|Here, There, Everywhere...|1|2
+39156664|virginia beach, va|15726264|Venice, Florida|1|2
+39156664|virginia beach, va|52586194|Virginia Beach, VA|1|2
+39156664|virginia beach, va|21135496|Error|1|2
+39156664|virginia beach, va|2003741|Sydney|1|2
+39156664|virginia beach, va|19539674|New Jersey, baby!!|1|2
+39156664|virginia beach, va|0|Error|1|2
+39156664|virginia beach, va|46679294|Quito|1|2
+39156664|virginia beach, va|0|Error|1|2
+39156664|virginia beach, va|0|Error|1|2
+39156664|virginia beach, va|21341143|Atlanta|1|2
+39156664|virginia beach, va|0|Error|1|2
+39156664|virginia beach, va|2205819300|Error|1|2
+39156664|virginia beach, va|95431706|Error|1|2
+39156664|virginia beach, va|0|Error|1|2
+39156664|virginia beach, va|0|Error|1|2
+39156664|virginia beach, va|1205807533|Error|1|2
+21101349|virginia beach, va|0|Error|5|2
+21101349|virginia beach, va|463372530|Error|4|2
+21101349|virginia beach, va|262916878|Error|3|2
+21101349|virginia beach, va|0|Error|2|2
+21101349|virginia beach, va|0|Error|2|2
+21101349|virginia beach, va|0|Error|1|2
+21101349|virginia beach, va|29455876|Error|1|2
+21101349|virginia beach, va|30979004|Error|1|2
+21101349|virginia beach, va|16834823|Virginia Native.|1|2
+21101349|virginia beach, va|347509749|Error|1|2
+21101349|virginia beach, va|711000274|Error|1|2
+42994403|virginia beach, va|1554248634|Error|6|2
+42994403|virginia beach, va|23823755|VA to NC to IL now AZ|6|2
+42994403|virginia beach, va|38307111|Atlanta, GA|4|2
+42994403|virginia beach, va|909081684|Error|3|2
+42994403|virginia beach, va|29020669|Error|3|2
+42994403|virginia beach, va|0|Error|2|2
+42994403|virginia beach, va|0|Error|2|2
+42994403|virginia beach, va|162958672|Error|2|2
+42994403|virginia beach, va|0|Error|1|2
+42994403|virginia beach, va|0|Error|1|2
+42994403|virginia beach, va|85208948|New York City|1|2
+42994403|virginia beach, va|34499142|New Jersey|1|2
+42994403|virginia beach, va|17165328|Philadelphia, PA|1|2
+42994403|virginia beach, va|614880511|Error|1|2
+42994403|virginia beach, va|89775300|Washington, DC|1|2
+42994403|virginia beach, va|0|Error|1|2
+42994403|virginia beach, va|3071124867|Error|1|2
+42994403|virginia beach, va|106951565|DETROIT|1|2
+42994403|virginia beach, va|15256841|Atlanta GA|1|2
+42994403|virginia beach, va|32285747|Wherever God takes me |1|2
+19631322|virginia beach, va|0|Error|13|2
+19631322|virginia beach, va|0|Error|6|2
+19631322|virginia beach, va|2409227616|Error|3|2
+19631322|virginia beach, va|0|Error|2|2
+19631322|virginia beach, va|5438392|Brooklyn, NY|2|2
+19631322|virginia beach, va|19636959|NewAngeles, TexFrancisco|1|2
+19631322|virginia beach, va|0|Error|1|2
+19631322|virginia beach, va|15437723|Error|1|2
+19631322|virginia beach, va|27126701|Los Angeles, CA|1|2
+19631322|virginia beach, va|19631322|Virginia Beach, VA|1|2
+19631322|virginia beach, va|1737|In my head|1|2
+19631322|virginia beach, va|0|Error|1|2
+19631322|virginia beach, va|5901702|nyc|1|2
+34447122|virginia beach, va|6558892|Oakland|2|2
+34447122|virginia beach, va|14766014|San Francisco, CA|2|2
+34447122|virginia beach, va|2189836328|Error|2|2
+34447122|virginia beach, va|33554024|Brooklyn, NY|1|2
+34447122|virginia beach, va|0|Error|1|2
+34447122|virginia beach, va|18168823|NYC|1|2
+34447122|virginia beach, va|16889324|Error|1|2
+34447122|virginia beach, va|14869952|Error|1|2
+34447122|virginia beach, va|39338390|Washington DC|1|2
+34447122|virginia beach, va|17081275|Southern California|1|2
+34447122|virginia beach, va|2720163648|Error|1|2
+34447122|virginia beach, va|36060697|Error|1|2
+34447122|virginia beach, va|7273192|San Francisco|1|2
+34447122|virginia beach, va|121782781|Austin, TX|1|2
+34447122|virginia beach, va|0|Error|1|2
+34447122|virginia beach, va|5569112|Mill Valley, CA|1|2
+34447122|virginia beach, va|14813320|Error|1|2
+34447122|virginia beach, va|13012632|Atlanta & some other places|1|2
+34447122|virginia beach, va|0|Error|1|2
+34447122|virginia beach, va|7212562|Dallas, Texas|1|2
+14588579|virginia beach, va|86631053|Virginia|8|2
+14588579|virginia beach, va|147431056|Eagle Mountain, UT|4|2
+14588579|virginia beach, va|89303087|Pinehurst, NC|3|2
+14588579|virginia beach, va|15117599|Derby UK|3|2
+14588579|virginia beach, va|17381346|Raleigh, NC|2|2
+14588579|virginia beach, va|13226652|Kansas City, MO|1|2
+14588579|virginia beach, va|14771415|Your timeline.|1|2
+14588579|virginia beach, va|15221529|Superior, CO|1|2
+14588579|virginia beach, va|14463556|Error|1|2
+14588579|virginia beach, va|24231207|Colorado|1|2
+14588579|virginia beach, va|27289822|Ontario, Canada|1|2
+14588579|virginia beach, va|15811110|USA|1|2
+14588579|virginia beach, va|5577902|I live in the State of Grace|1|2
+14588579|virginia beach, va|23721478|Colorado, USA|1|2
+14588579|virginia beach, va|611043635|Error|1|2
+14588579|virginia beach, va|0|Error|1|2
+14588579|virginia beach, va|99306772|New Orleans, La|1|2
+14588579|virginia beach, va|0|Error|1|2
+34054257|virginia beach, va|0|Error|8|2
+34054257|virginia beach, va|0|Error|7|2
+34054257|virginia beach, va|0|Error|3|2
+34054257|virginia beach, va|0|Error|1|2
+34054257|virginia beach, va|0|Error|1|2
+34054257|virginia beach, va|0|Error|1|2
+34054257|virginia beach, va|30748614|virginia(from fla)|1|2
+34054257|virginia beach, va|48850123|Virginia Beach, VA|1|2
+78576706|virginia beach, va|36379406|Va Beach or Va Beach|3|2
+78576706|virginia beach, va|1610755609|Error|2|2
+78576706|virginia beach, va|36425615|ATL & VA by Way of Queens NYC|1|2
+78576706|virginia beach, va|0|Error|1|2
+23571773|virginia beach, va|0|Error|3|2
+23571773|virginia beach, va|0|Error|3|2
+23571773|virginia beach, va|58644235|Error|1|2
+23571773|virginia beach, va|0|Error|1|2
+16578029|virginia beach, va|0|Error|7|2
+16578029|virginia beach, va|0|Error|3|2
+16578029|virginia beach, va|15893379|Sydney, Australia|2|2
+16578029|virginia beach, va|0|Error|1|2
+16578029|virginia beach, va|77365550|Error|1|2
+16578029|virginia beach, va|16578029|Virginia Beach, VA|1|2
+16578029|virginia beach, va|15780044|iPhone: 0.000000,0.000000|1|2
+16578029|virginia beach, va|16274633|Virginia Beach, VA|1|2
+16578029|virginia beach, va|0|Error|1|2
+16578029|virginia beach, va|65769471|Error|1|2
+16895664|virginia beach, va|30230172|Error|1|2
+16895664|virginia beach, va|509124032|Error|1|2
+29872295|virginia beach, va|362900369|toronto|1|2
+17911285|virginia beach, va|403720712|Error|6|2
+17911285|virginia beach, va|30235579|Error|3|2
+17911285|virginia beach, va|27109246|Portland, Oregon|2|2
+17911285|virginia beach, va|20219337|Nashville, Tennessee|1|2
+17911285|virginia beach, va|0|Error|1|2
+17911285|virginia beach, va|0|Error|1|2
+17911285|virginia beach, va|0|Error|1|2
+9894392|virginia beach, va|14554309|Philadelphia, Pennsylvania, US|8|2
+9894392|virginia beach, va|15618553|Norfolk, VA|2|2
+9894392|virginia beach, va|19637934|Los Angeles-ish|2|2
+9894392|virginia beach, va|45371222|Los Angeles|1|2
+9894392|virginia beach, va|9639502|Seattle, Washington, USA|1|2
+9894392|virginia beach, va|0|Error|1|2
+9894392|virginia beach, va|21437548|along the northern edge of thi|1|2
+85191656|virginia beach, va|16658682|Hartford to Springfield|3|2
+85191656|virginia beach, va|26562338|Error|2|2
+85191656|virginia beach, va|3004231|Error|2|2
+85191656|virginia beach, va|24428233|Error|2|2
+85191656|virginia beach, va|19833465|Los Angeles CA|2|2
+85191656|virginia beach, va|14230524|Error|1|2
+85191656|virginia beach, va|21733345|Error|1|2
+85191656|virginia beach, va|0|Error|1|2
+85191656|virginia beach, va|0|Error|1|2
+85191656|virginia beach, va|977505000|Error|1|2
+85191656|virginia beach, va|35605472|CT, USA|1|2
+85191656|virginia beach, va|23702397|HARLEM WORLD|1|2
+85191656|virginia beach, va|0|Error|1|2
+23328363|virginia beach, va|26766099|Brooklyn, New York|15|2
+23328363|virginia beach, va|31748666|Indoor/outdoor|9|2
+23328363|virginia beach, va|0|Error|3|2
+23328363|virginia beach, va|23832022|Worldwide |2|2
+23328363|virginia beach, va|0|Error|1|2
+23328363|virginia beach, va|112600958|Everywhere|1|2
+23328363|virginia beach, va|0|Error|1|2
+23328363|virginia beach, va|23948711|Error|1|2
+23328363|virginia beach, va|0|Error|1|2
+17824425|virginia beach, va|0|Error|3|2
+17824425|virginia beach, va|902964564|Error|3|2
+17824425|virginia beach, va|1266033242|Error|3|2
+17824425|virginia beach, va|56235798|DMV|3|2
+17824425|virginia beach, va|0|Error|2|2
+17824425|virginia beach, va|487313570|Error|2|2
+17824425|virginia beach, va|29897943|Error|2|2
+17824425|virginia beach, va|20124555|Error|1|2
+17824425|virginia beach, va|15726053|Still Searching.....|1|2
+17824425|virginia beach, va|16834823|Virginia Native.|1|2
+17824425|virginia beach, va|57030599|VA|1|2
+17824425|virginia beach, va|0|Error|1|2
+17824425|virginia beach, va|23746241|In God's Hands|1|2
+17824425|virginia beach, va|15914081|wherever the #work takes me..|1|2
+17824425|virginia beach, va|29607401|Error|1|2
+17824425|virginia beach, va|22108726|always in production|1|2
+17824425|virginia beach, va|26047548|The Desert|1|2
+17300462|virginia beach, va|13557782|Where ever I need to be.|5|2
+17300462|virginia beach, va|0|Error|3|2
+17300462|virginia beach, va|0|Error|2|2
+17300462|virginia beach, va|22480651|Virginia Beach|2|2
+17300462|virginia beach, va|18898143|Hampton, NH|2|2
+17300462|virginia beach, va|6291392|Aliso Viejo CA|2|2
+17300462|virginia beach, va|24288031|Georgia, USA|2|2
+17300462|virginia beach, va|17232013|Lake Texoma, Texas / Global|2|2
+17300462|virginia beach, va|19287486|Naples, Florida|2|2
+17300462|virginia beach, va|0|Error|2|2
+17300462|virginia beach, va|0|Error|2|2
+17300462|virginia beach, va|0|Error|2|2
+17300462|virginia beach, va|340993238|Error|1|2
+17300462|virginia beach, va|0|Error|1|2
+17300462|virginia beach, va|24232122|San Francisco Bay Area|1|2
+17300462|virginia beach, va|15248833|New York, NY|1|2
+17300462|virginia beach, va|0|Error|1|2
+17300462|virginia beach, va|16029177|At the Beach|1|2
+17300462|virginia beach, va|51001210|France/Rennes|1|2
+17300462|virginia beach, va|15392595|Virginia |1|2
+17300462|virginia beach, va|212192103|Lincoln, UK|1|2
+17300462|virginia beach, va|18760460|Fort Lauderdale, FL|1|2
+17300462|virginia beach, va|3523971|Los Angeles and Cucamonga|1|2
+17300462|virginia beach, va|27270787|Earth|1|2
+17300462|virginia beach, va|16879661|Colorado|1|2
+17300462|virginia beach, va|14398964|National|1|2
+17300462|virginia beach, va|0|Error|1|2
+17300462|virginia beach, va|12138512|Error|1|2
+17300462|virginia beach, va|0|Error|1|2
+17300462|virginia beach, va|963496447|The Hague|1|2
+17300462|virginia beach, va|9939002|Stockbridge, GA|1|2
+17300462|virginia beach, va|0|Error|1|2
+17300462|virginia beach, va|55923301|belgium|1|2
+17300462|virginia beach, va|499161108|Error|1|2
+17300462|virginia beach, va|20632796|Error|1|2
+17300462|virginia beach, va|177533019|San Francisco|1|2
+17300462|virginia beach, va|32277432|Glendale, CA / Global|1|2
+17300462|virginia beach, va|2810320657|Error|1|2
+24160606|virginia beach, va|25403731|on my post! |2|2
+24160606|virginia beach, va|0|Error|1|2
+24160606|virginia beach, va|41255444|HARLEM|1|2
+24160606|virginia beach, va|188954093|Wilmington, DE|1|2
+24160606|virginia beach, va|0|Error|1|2
+24160606|virginia beach, va|19971995|REALITY|1|2
+24160606|virginia beach, va|6091342|Error|1|2
+24178812|virginia beach, va|0|Error|4|2
+24178812|virginia beach, va|0|Error|3|2
+24178812|virginia beach, va|24425083|Error|1|2
+24178812|virginia beach, va|68745402|Washington, DC|1|2
+24178812|virginia beach, va|23619359|NYC|1|2
+24178812|virginia beach, va|21198992|London,England|1|2
+24178812|virginia beach, va|64461771|On Your Mind !!|1|2
+24178812|virginia beach, va|44524794|Connecticut, USA|1|2
+24178812|virginia beach, va|38490750|Error|1|2
+24178812|virginia beach, va|0|Error|1|2
+24178812|virginia beach, va|30966948|Los Angeles, CA|1|2
+24178812|virginia beach, va|0|Error|1|2
+24178812|virginia beach, va|89286816|Boston|1|2
+24178812|virginia beach, va|167727454|bislig city.....|1|2
+33628560|virginia beach, va|0|Error|9|2
+33628560|virginia beach, va|0|Error|2|2
+33628560|virginia beach, va|61354592|NEW YORK CITY|2|2
+33628560|virginia beach, va|610352153|Error|1|2
+33628560|virginia beach, va|0|Error|1|2
+33628560|virginia beach, va|0|Error|1|2
+33628560|virginia beach, va|27010860|Chocolate City - DC|1|2
+33628560|virginia beach, va|0|Error|1|2
+33628560|virginia beach, va|1623998342|Error|1|2
+33628560|virginia beach, va|2747128906|Error|1|2
+43093715|virginia beach, va|0|Error|2|2
+43093715|virginia beach, va|0|Error|2|2
+43093715|virginia beach, va|17070302|Cherry Hill, NJ|1|2
+43093715|virginia beach, va|0|Error|1|2
+43093715|virginia beach, va|55902982|Manitoba|1|2
+43093715|virginia beach, va|0|Error|1|2
+43093715|virginia beach, va|0|Error|1|2
+43093715|virginia beach, va|0|Error|1|2
+43093715|virginia beach, va|0|Error|1|2
+43093715|virginia beach, va|14373698|Indonesia|1|2
+43093715|virginia beach, va|0|Error|1|2
+43093715|virginia beach, va|14908658|Virginia Beach, VA|1|2
+43093715|virginia beach, va|0|Error|1|2
+43093715|virginia beach, va|0|Error|1|2
+43093715|virginia beach, va|0|Error|1|2
+43093715|virginia beach, va|11651582|Error|1|2
+43093715|virginia beach, va|0|Error|1|2
+43093715|virginia beach, va|0|Error|1|2
+43093715|virginia beach, va|1201546664|where passion meets creativity|1|2
+49655108|virginia beach, va|16670014|Virginia|2|2
+49655108|virginia beach, va|0|Error|1|2
+49655108|virginia beach, va|15654703|757|1|2
+48371465|virginia beach, va|52911832|Everywhere|5|2
+48371465|virginia beach, va|28929723|Michigan, USA|2|2
+48371465|virginia beach, va|377652292|southcarolinaaa|2|2
+48371465|virginia beach, va|0|Error|1|2
+48371465|virginia beach, va|0|Error|1|2
+48371465|virginia beach, va|0|Error|1|2
+48371465|virginia beach, va|1051743368|Error|1|2
+18205029|virginia beach, va|108609491|Error|1|2
+18205029|virginia beach, va|40273442|Huntington Beach, CA|1|2
+24302245|virginia beach, va|60695143|Fort Collins Northern Colorado|3|2
+24302245|virginia beach, va|11778|Mumbai, India|2|2
+24302245|virginia beach, va|17008328|California|2|2
+24302245|virginia beach, va|24302245|Virginia Beach, VA|2|2
+24302245|virginia beach, va|17672362|Singapore|2|2
+24302245|virginia beach, va|17567609|Chicago|2|2
+24302245|virginia beach, va|18477167|Orlando, Florida|1|2
+24302245|virginia beach, va|37494427|NH - USA|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|16102548|Vernon, Tx|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|20651510|USA|1|2
+24302245|virginia beach, va|16295357|Orlando, Florida|1|2
+24302245|virginia beach, va|27342984|Southwest Missouri|1|2
+24302245|virginia beach, va|9637422|Washington, DC|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|2597237881|Error|1|2
+24302245|virginia beach, va|25831318|Sacramento, CA.|1|2
+24302245|virginia beach, va|227457029|Virginia Beach, VA|1|2
+24302245|virginia beach, va|49475827|Virginia Beach, Va.|1|2
+24302245|virginia beach, va|15756858|Virginia Beach, VA, USA|1|2
+24302245|virginia beach, va|161128169|Global|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|65260323|Santa Rosa Beach, Florida|1|2
+24302245|virginia beach, va|33175976|NE Alabama|1|2
+24302245|virginia beach, va|44365018|Alabama|1|2
+24302245|virginia beach, va|25112621|Gambrills, MD|1|2
+24302245|virginia beach, va|20746071|Error|1|2
+24302245|virginia beach, va|20197669|USA -Nationwide|1|2
+24302245|virginia beach, va|20084930|Florida|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|0|Error|1|2
+24302245|virginia beach, va|303379869|Monterrey |1|2
+24302245|virginia beach, va|0|Error|1|2
+30714462|virginia beach, va|27710633|Norfolk, VA|1|2
+30714462|virginia beach, va|0|Error|1|2
+30714462|virginia beach, va|0|Error|1|2
+55280567|virginia beach, va|0|Error|2|2
+55280567|virginia beach, va|57991673|Error|1|2
+55280567|virginia beach, va|0|Error|1|2
+55280567|virginia beach, va|0|Error|1|2
+16108273|virginia beach, va|0|Error|1|2
+16108273|virginia beach, va|14290415|Boston|1|2
+41288950|virginia beach, va|1576040270|Error|3|2
+41288950|virginia beach, va|24979401|Error|2|2
+19268971|virginia beach, va|0|Error|3|2
+19268971|virginia beach, va|0|Error|2|2
+19268971|virginia beach, va|0|Error|2|2
+19268971|virginia beach, va|0|Error|1|2
+19268971|virginia beach, va|0|Error|1|2
+19268971|virginia beach, va|0|Error|1|2
+19268971|virginia beach, va|0|Error|1|2
+19268971|virginia beach, va|0|Error|1|2
+19268971|virginia beach, va|0|Error|1|2
+19268971|virginia beach, va|42644571|Nyc, Va, & The Atlantic  |1|2
+19268971|virginia beach, va|18933493|In my own world|1|2
+34054257|virginia beach, va|0|Error|9|2
+34054257|virginia beach, va|58997629|Virginia Beach|8|2
+34054257|virginia beach, va|0|Error|4|2
+46647862|virginia beach, va|12600952|Blacksburg, VA|3|2
+46647862|virginia beach, va|0|Error|3|2
+46647862|virginia beach, va|0|Error|1|2
+12090122|virginia beach, va|15688773|Want Help? Click the link|2|2
+50887633|virginia beach, va|0|Error|9|2
+50887633|virginia beach, va|14807546|Atlanta, GA|4|2
+50887633|virginia beach, va|46576295|*WORLDWIDE*|2|2
+50887633|virginia beach, va|0|Error|1|2
+50887633|virginia beach, va|49902741|Error|1|2
+50887633|virginia beach, va|389009181|Error|1|2
+50887633|virginia beach, va|40316879|The World|1|2
+50887633|virginia beach, va|20727198|Destiny|1|2
+50887633|virginia beach, va|40315069|Everywhere|1|2
+50887633|virginia beach, va|83002323|U.S. Canada U.K.|1|2
+50887633|virginia beach, va|0|Error|1|2
+50887633|virginia beach, va|0|Error|1|2
+15267004|virginia beach, va|599120309|east|4|2
+15267004|virginia beach, va|245075797|DeLand, FL|3|2
+15267004|virginia beach, va|161565750|Error|2|2
+15267004|virginia beach, va|1648311|New Orleans, LA, USA|2|2
+15267004|virginia beach, va|0|Error|1|2
+15267004|virginia beach, va|1314491|Norfolk, Va., USA|1|2
+15267004|virginia beach, va|3841451|23452|1|2
+15267004|virginia beach, va|16973085|spook city, USA|1|2
+62140586|virginia beach, va|0|Error|2|2
+62140586|virginia beach, va|125231837|Error|2|2
+62140586|virginia beach, va|283835002|Everywhere Your Not|1|2
+62140586|virginia beach, va|39543324|Bay Area |1|2
+62140586|virginia beach, va|188375241|OUT HERE!|1|2
+62140586|virginia beach, va|0|Error|1|2
+62140586|virginia beach, va|0|Error|1|2
+62140586|virginia beach, va|759618781|Error|1|2
+62140586|virginia beach, va|0|Error|1|2
+62140586|virginia beach, va|0|Error|1|2
+62140586|virginia beach, va|34308920|Milwaukee|1|2
+48850123|virginia beach, va|48850123|Virginia Beach, VA|14|2
+48850123|virginia beach, va|0|Error|2|2
+48850123|virginia beach, va|0|Error|2|2
+48850123|virginia beach, va|34054257|Virginia Beach, VA|2|2
+48850123|virginia beach, va|0|Error|2|2
+48850123|virginia beach, va|0|Error|2|2
+48850123|virginia beach, va|0|Error|2|2
+48850123|virginia beach, va|0|Error|2|2
+48850123|virginia beach, va|156180293|Error|2|2
+48850123|virginia beach, va|0|Error|1|2
+48850123|virginia beach, va|0|Error|1|2
+48850123|virginia beach, va|35553883|Portsmouth, Virginia|1|2
+48850123|virginia beach, va|0|Error|1|2
+48850123|virginia beach, va|0|Error|1|2
+48850123|virginia beach, va|73761847|instagram @djwhoop|1|2
+48850123|virginia beach, va|30399519|Finding my way |1|2
+26610836|virginia beach, virginia|31229861|Chesapeake, VA|2|2
+26610836|virginia beach, virginia|26600547|Error|2|2
+26610836|virginia beach, virginia|0|Error|1|2
+26610836|virginia beach, virginia|21424336|St. Louis, MO|1|2
+26610836|virginia beach, virginia|0|Error|1|2
+26610836|virginia beach, virginia|0|Error|1|2
+26610836|virginia beach, virginia|32254911|Virginia Beach, VA|1|2
+26610836|virginia beach, virginia|276169834|Error|1|2
+27007776|virginia beach, virginia|34761134|New York, NY|14|2
+27007776|virginia beach, virginia|0|Error|10|2
+27007776|virginia beach, virginia|27480483|DOWNLOAD my single #Designer|6|2
+27007776|virginia beach, virginia|21219390|New York City|5|2
+27007776|virginia beach, virginia|0|Error|4|2
+27007776|virginia beach, virginia|2411946242|Chicago IL|3|2
+27007776|virginia beach, virginia|6091342|Error|3|2
+27007776|virginia beach, virginia|26641757|ATL/NC|3|2
+27007776|virginia beach, virginia|27007776|VA Baby!!!!|3|2
+27007776|virginia beach, virginia|23903813|California|2|2
+27007776|virginia beach, virginia|18220175|EVERYWHERE!!!|2|2
+27007776|virginia beach, virginia|23262114|Chicago to LA|2|2
+27007776|virginia beach, virginia|0|Error|2|2
+27007776|virginia beach, virginia|345687834|Error|2|2
+27007776|virginia beach, virginia|0|Error|2|2
+27007776|virginia beach, virginia|144718712|THELILMOSHOW|2|2
+27007776|virginia beach, virginia|417107264|Error|2|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|3168195962|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|73304895|SoCaliVegas|1|2
+27007776|virginia beach, virginia|24415163|In ya babymama bed|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|53266594|Chicago And Im Loving It!|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|27125298|Error|1|2
+27007776|virginia beach, virginia|21057299|Chi-Town born; Bay Cali bred.|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|2991689577|Error|1|2
+27007776|virginia beach, virginia|33259264|OR|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|25745158|NYC|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|24945857|North Carolina | HKY | 828 ||1|2
+27007776|virginia beach, virginia|2801624178|Error|1|2
+27007776|virginia beach, virginia|310728729|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|320365450|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|1491683082|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|390307350|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|25365536|where I'm meant to be...|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|30848822|SoCaliVegas|1|2
+27007776|virginia beach, virginia|237295137|Error|1|2
+27007776|virginia beach, virginia|121581805|Atlanta, GA|1|2
+27007776|virginia beach, virginia|30022428|LOS ANGELES|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|61661641|houston, tx|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|33811956|Bronx, NY|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|28948414|World~Wide|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|960734364|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|2758138316|@ohyesmario |1|2
+27007776|virginia beach, virginia|298569365|Columbia, SC|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|23388021|THE TOWN (OAKLAND,CA)|1|2
+27007776|virginia beach, virginia|24160606|Atlanta, GA|1|2
+27007776|virginia beach, virginia|437238463|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|48230321|ATL or Wherever the Bread At|1|2
+27007776|virginia beach, virginia|623357542|Atlanta |1|2
+27007776|virginia beach, virginia|19206137|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|14521926|Los Angeles, CA|1|2
+27007776|virginia beach, virginia|293780026|atlanta ga|1|2
+27007776|virginia beach, virginia|28922390|Florida|1|2
+27007776|virginia beach, virginia|169387478|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|112600958|Everywhere|1|2
+27007776|virginia beach, virginia|24728562|#iRep661|1|2
+27007776|virginia beach, virginia|21724970|philly, mia, nyc|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|56881078|Atlanta, GA|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|52197340|My Own Planet|1|2
+27007776|virginia beach, virginia|19107279|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|27406401|Present|1|2
+27007776|virginia beach, virginia|2910275624|Error|1|2
+27007776|virginia beach, virginia|12710012|New York City|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|1684225470|wouldn't you like to know|1|2
+27007776|virginia beach, virginia|30550413|Savannah/Albany, GA|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|22929621|where the wild things are. |1|2
+27007776|virginia beach, virginia|42622127|Asheville, NC|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|361471267|Santa Monica CA|1|2
+27007776|virginia beach, virginia|23405304|Plex$ide |1|2
+27007776|virginia beach, virginia|32959253|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|34999173|Baltimore, MD|1|2
+27007776|virginia beach, virginia|27189793|Recaliberating...|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|30141781|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|27558050|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|18473588|CA|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|26294874|your heart3|1|2
+27007776|virginia beach, virginia|183384786|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|41199695|Atlanta, Georgia|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|23796261|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|71079042|Philly (NP ALL DAY)|1|2
+27007776|virginia beach, virginia|60961367|Americana, SP|1|2
+27007776|virginia beach, virginia|21336946|City Of Champions!|1|2
+27007776|virginia beach, virginia|309154475|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|16447588|Orlando, Florida|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|373099457|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|36379406|Va Beach or Va Beach|1|2
+27007776|virginia beach, virginia|308708304|New Life|1|2
+27007776|virginia beach, virginia|180601330|Error|1|2
+27007776|virginia beach, virginia|19637929|LA: Palm Trees & Basketball|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|176565766|london uk. |1|2
+27007776|virginia beach, virginia|2196982254|Error|1|2
+27007776|virginia beach, virginia|19129343|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|601427855|Error|1|2
+27007776|virginia beach, virginia|1514410490|Error|1|2
+27007776|virginia beach, virginia|39893781|In God's hands...|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|25668422|Dublin City, Ireland|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+27007776|virginia beach, virginia|0|Error|1|2
+16149273|virginia beach, virginia|0|Error|1|2
+16149273|virginia beach, virginia|16253244|Portland/NYC|1|2
+16149273|virginia beach, virginia|15316484|PDX, Oregon, Earth|1|2
+16149273|virginia beach, virginia|186576056|Error|1|2
+16149273|virginia beach, virginia|276390611|Error|1|2
+16149273|virginia beach, virginia|52581822|Bamfsburg|1|2
+20334310|virginia beach, virginia|23018798|Error|1|2
+20334310|virginia beach, virginia|2901164378|Error|1|2
+20334310|virginia beach, virginia|15907720|DC & NYC|1|2
+20334310|virginia beach, virginia|0|Error|1|2
+69908204|virginia beach, virginia|11883132|San Francisco|22|2
+69908204|virginia beach, virginia|8453452|Silicon Valley, California|5|2
+69908204|virginia beach, virginia|79561189|Virginia Beach|3|2
+69908204|virginia beach, virginia|68770524|Chicago, IL|2|2
+69908204|virginia beach, virginia|70999014|The Villages, Florida|2|2
+69908204|virginia beach, virginia|2965763697|Essex/London |2|2
+69908204|virginia beach, virginia|51446765|Virginia Beach, VA|2|2
+69908204|virginia beach, virginia|74894367|Error|2|2
+69908204|virginia beach, virginia|88823148|Virginia Beach, VA|2|2
+69908204|virginia beach, virginia|77806603|Greenwood, In.|2|2
+69908204|virginia beach, virginia|14720411|So. Cal|2|2
+69908204|virginia beach, virginia|75964572|Error|1|2
+69908204|virginia beach, virginia|0|Error|1|2
+69908204|virginia beach, virginia|17833536|San Diego California|1|2
+69908204|virginia beach, virginia|68269738|Left Coast USA|1|2
+69908204|virginia beach, virginia|16655930|Error|1|2
+69908204|virginia beach, virginia|16538349|iPhone: 41.882175,-87.630821|1|2
+69908204|virginia beach, virginia|14663781|Newport News, VA|1|2
+69908204|virginia beach, virginia|10202|Boston, MA|1|2
+69908204|virginia beach, virginia|972651|Error|1|2
+69908204|virginia beach, virginia|8362412|HI/CA|1|2
+69908204|virginia beach, virginia|14323769|Tampa, Florida|1|2
+69908204|virginia beach, virginia|655683|Virginia Beach, VA|1|2
+69908204|virginia beach, virginia|14352195|Houston,TX|1|2
+69908204|virginia beach, virginia|30882054|Chicago's North Shore, IL|1|2
+69908204|virginia beach, virginia|121654524|Error|1|2
+69908204|virginia beach, virginia|11154832|Barcelona, Catalonia|1|2
+69908204|virginia beach, virginia|84912099|New York|1|2
+69908204|virginia beach, virginia|0|Error|1|2
+69908204|virginia beach, virginia|17300462|Virginia Beach, VA|1|2
+69908204|virginia beach, virginia|52586194|Virginia Beach, VA|1|2
+69908204|virginia beach, virginia|17019871|Error|1|2
+69908204|virginia beach, virginia|16519104|Melbourne, Australia|1|2
+69908204|virginia beach, virginia|30823686|Fayetteville, NC|1|2
+69908204|virginia beach, virginia|25112621|Gambrills, MD|1|2
+69908204|virginia beach, virginia|16413061|Boston|1|2
+69908204|virginia beach, virginia|65484781|The Field|1|2
+69908204|virginia beach, virginia|39616153|Dallas, Texas|1|2
+69908204|virginia beach, virginia|80122132|USA|1|2
+69908204|virginia beach, virginia|14799079|New York, NY|1|2
+69908204|virginia beach, virginia|20445880|'Im on a boat'|1|2
+69908204|virginia beach, virginia|0|Error|1|2
+69908204|virginia beach, virginia|0|Error|1|2
+69908204|virginia beach, virginia|31339820|Los Angeles, CA|1|2
+69908204|virginia beach, virginia|9295212|City of Brotherly Love|1|2
+69908204|virginia beach, virginia|37956386|Virginia Beach, VA|1|2
+69908204|virginia beach, virginia|0|Error|1|2
+69908204|virginia beach, virginia|0|Error|1|2
+69908204|virginia beach, virginia|0|Error|1|2
+69908204|virginia beach, virginia|22107817|Upstate NY|1|2
+69908204|virginia beach, virginia|2205819300|Error|1|2
+69908204|virginia beach, virginia|20678540|Oklahoma|1|2
+69908204|virginia beach, virginia|16581076|Lynchburg, Virginia|1|2
+69908204|virginia beach, virginia|0|Error|1|2
+69908204|virginia beach, virginia|19290107|Buffalo, NY|1|2
+69908204|virginia beach, virginia|14073438|Global|1|2
+69908204|virginia beach, virginia|16430887|Orange County, CA|1|2
+69908204|virginia beach, virginia|82768169|Everywhere|1|2
+69908204|virginia beach, virginia|627201175|Error|1|2
+69908204|virginia beach, virginia|21990874|New Orleans, LA|1|2
+69908204|virginia beach, virginia|24302245|Virginia Beach, VA|1|2
+69908204|virginia beach, virginia|36832842|Houston, Texas|1|2
+69908204|virginia beach, virginia|8071902|Minneapolis / Minnesota / MN|1|2
+69908204|virginia beach, virginia|0|Error|1|2
+69908204|virginia beach, virginia|0|Error|1|2
+69908204|virginia beach, virginia|844220042|Error|1|2
+30592239|virginia beach, virginia|0|Error|5|2
+30592239|virginia beach, virginia|28830907|www.Instagram.com/ImChrisRich|2|2
+30592239|virginia beach, virginia|24742957|Kind of Utah...|1|2
+30592239|virginia beach, virginia|293155760|Error|1|2
+30592239|virginia beach, virginia|22410000|Twitter Universe, The Past.|1|2
+17874510|virginia beach, virginia|22971449|Virginia Beach, VA|1|2
+17874510|virginia beach, virginia|25306021|Raleigh, NC|1|2
+17874510|virginia beach, virginia|0|Error|1|2
+47109694|virginia beach, virginia|26995327|Miami, Fl|14|2
+47109694|virginia beach, virginia|32024777|Tampa, FL Originated in Philly|13|2
+47109694|virginia beach, virginia|144718712|THELILMOSHOW|5|2
+47109694|virginia beach, virginia|0|Error|3|2
+47109694|virginia beach, virginia|0|Error|1|2
+47109694|virginia beach, virginia|308708304|New Life|1|2
+63497889|virginia beach, virginia|0|Error|2|2
+63497889|virginia beach, virginia|28898053|Virginia Beach, VA|1|2
+63497889|virginia beach, virginia|33238337|Error|1|2
+63497889|virginia beach, virginia|12600952|Blacksburg, VA|1|2
+63497889|virginia beach, virginia|63770030|Virginia Beach|1|2
+63497889|virginia beach, virginia|18089262|Virginia Beach|1|2
+63497889|virginia beach, virginia|0|Error|1|2
+63497889|virginia beach, virginia|42518865|Fredericksburg, Virginia|1|2
+63497889|virginia beach, virginia|59842249|Error|1|2
+63497889|virginia beach, virginia|0|Error|1|2
+63497889|virginia beach, virginia|18555098|VA Beach|1|2
+65480680|virginia beach, virginia|52586194|Virginia Beach, VA|2|2
+65480680|virginia beach, virginia|87962304|Virginia Beach, VA|1|2
+65480680|virginia beach, virginia|289872284|Error|1|2
+65480680|virginia beach, virginia|24302245|Virginia Beach, VA|1|2
+65480680|virginia beach, virginia|78355403|The great American Southwest|1|2
+65480680|virginia beach, virginia|0|Error|1|2
+65480680|virginia beach, virginia|0|Error|1|2
+65480680|virginia beach, virginia|71230135|Cap City ~~~ #RVA|1|2
+65480680|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|26375712|Minneapolis, MN|5|2
+8215672|virginia beach, virginia|2982163107|Error|4|2
+8215672|virginia beach, virginia|68020673|Southside Chi|3|2
+8215672|virginia beach, virginia|42155855|Error|3|2
+8215672|virginia beach, virginia|11661122|Error|2|2
+8215672|virginia beach, virginia|16076529|Los Angeles, CA & Africa|2|2
+8215672|virginia beach, virginia|17112369|Washington, DC|2|2
+8215672|virginia beach, virginia|0|Error|2|2
+8215672|virginia beach, virginia|155542334|In the bushes...|2|2
+8215672|virginia beach, virginia|14468265|New York, NY|2|2
+8215672|virginia beach, virginia|12853642|Cabo Blanco Alto|2|2
+8215672|virginia beach, virginia|16860135|Orange County, CA|2|2
+8215672|virginia beach, virginia|0|Error|2|2
+8215672|virginia beach, virginia|2982088151|Error|2|2
+8215672|virginia beach, virginia|0|Error|2|2
+8215672|virginia beach, virginia|16222940|Planet Earth LOL I think|2|2
+8215672|virginia beach, virginia|0|Error|2|2
+8215672|virginia beach, virginia|15024241|Global |2|2
+8215672|virginia beach, virginia|19337081|Littleton, CO|2|2
+8215672|virginia beach, virginia|34905872|Dallas,Tx|2|2
+8215672|virginia beach, virginia|15924274|Houston, TX|1|2
+8215672|virginia beach, virginia|14346678|in the wind|1|2
+8215672|virginia beach, virginia|155509540|Error|1|2
+8215672|virginia beach, virginia|2995008886|Error|1|2
+8215672|virginia beach, virginia|16798692|Error|1|2
+8215672|virginia beach, virginia|1101477025|Error|1|2
+8215672|virginia beach, virginia|14687772|New York|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|16108625|Los Angeles|1|2
+8215672|virginia beach, virginia|13453022|Arkansas, USA|1|2
+8215672|virginia beach, virginia|18748507|Error|1|2
+8215672|virginia beach, virginia|16056686|#CNJR West Coast Affiliate|1|2
+8215672|virginia beach, virginia|15755105|Ames, Iowa, USA|1|2
+8215672|virginia beach, virginia|9991842|NOLA|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|17512108|Baltimore, Maryland|1|2
+8215672|virginia beach, virginia|12498702|New York, NY|1|2
+8215672|virginia beach, virginia|15906933|Brooklyn | California|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|16203757|Forever 21|1|2
+8215672|virginia beach, virginia|16129920|New York, NY USA|1|2
+8215672|virginia beach, virginia|279908069|Error|1|2
+8215672|virginia beach, virginia|2354495159|Metro Atlanta Dweller|1|2
+8215672|virginia beach, virginia|29247941|Denver, CO|1|2
+8215672|virginia beach, virginia|19085154|Sasha Stompa's House|1|2
+8215672|virginia beach, virginia|16051819|Jerz|1|2
+8215672|virginia beach, virginia|36140835|Hartford, CT|1|2
+8215672|virginia beach, virginia|15786456|Sin City, Baby!|1|2
+8215672|virginia beach, virginia|259012840|Error|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|18749014|Error|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|17176321|Error|1|2
+8215672|virginia beach, virginia|26897109|Chicago |1|2
+8215672|virginia beach, virginia|16192219|Error|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|16387708|Northern NJ|1|2
+8215672|virginia beach, virginia|17862067|California|1|2
+8215672|virginia beach, virginia|2169061940|Error|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|379760347|Error|1|2
+8215672|virginia beach, virginia|18561541|Detroit|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|35873004|SoCal|1|2
+8215672|virginia beach, virginia|18375826|19131|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|25324839|Los Angeles|1|2
+8215672|virginia beach, virginia|24470814|Unapologetically Black.|1|2
+8215672|virginia beach, virginia|76213290|Error|1|2
+8215672|virginia beach, virginia|68604008|Error|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+47413940|virginia beach, virginia|0|Error|3|2
+47413940|virginia beach, virginia|25444367|Pacific Ocean|2|2
+47413940|virginia beach, virginia|16915148|Portland, Oregon|2|2
+47413940|virginia beach, virginia|17236385|Washington, DC|1|2
+47413940|virginia beach, virginia|17969394|Amsterdam || Istanbul|1|2
+47413940|virginia beach, virginia|21777342|Washington|1|2
+47413940|virginia beach, virginia|14664346|San Francisco, California|1|2
+47413940|virginia beach, virginia|257705663|Los Angeles, CA|1|2
+47413940|virginia beach, virginia|30063537|Madrid,Capital de la Dictadura|1|2
+47413940|virginia beach, virginia|21025348|Wisconsin|1|2
+47413940|virginia beach, virginia|252353540|Bordeaux|1|2
+47413940|virginia beach, virginia|0|Error|1|2
+47413940|virginia beach, virginia|14481660|Austin, Texas|1|2
+47413940|virginia beach, virginia|2427541751|Error|1|2
+47413940|virginia beach, virginia|11626542|iPhone: 46.201954,6.149549|1|2
+47413940|virginia beach, virginia|0|Error|1|2
+47413940|virginia beach, virginia|26535722|Austin, TX|1|2
+47413940|virginia beach, virginia|59452842|Raleigh, NC|1|2
+47413940|virginia beach, virginia|43662144|Austin, Texas|1|2
+47413940|virginia beach, virginia|12140432|Sydney, Australia|1|2
+47413940|virginia beach, virginia|0|Error|1|2
+47413940|virginia beach, virginia|15516433|Minneapolis, MN|1|2
+47413940|virginia beach, virginia|17440057|Denver|1|2
+47413940|virginia beach, virginia|0|Error|1|2
+47413940|virginia beach, virginia|106334541|a stalker would know ;)|1|2
+47413940|virginia beach, virginia|2815131|Amsterdam|1|2
+47413940|virginia beach, virginia|77231638|Error|1|2
+47413940|virginia beach, virginia|22336611|Canada|1|2
+47413940|virginia beach, virginia|36325592|Error|1|2
+47413940|virginia beach, virginia|12291552|DC | Denver|1|2
+47413940|virginia beach, virginia|11484262|Holmfirth, West Yorkshire.|1|2
+47413940|virginia beach, virginia|0|Error|1|2
+47413940|virginia beach, virginia|33162206|Switzerland|1|2
+16879478|virginia beach, virginia|61122050|Virginia Beach, VA|11|2
+16879478|virginia beach, virginia|273578529|Chicago Metropolitan Area|3|2
+16879478|virginia beach, virginia|0|Error|2|2
+16879478|virginia beach, virginia|13162012|Norfolk, VA|1|2
+16879478|virginia beach, virginia|135666988|Brasil|1|2
+16879478|virginia beach, virginia|1111978087|9028 N. Rodgers, Caledonia, MI|1|2
+40348993|virginia beach, virginia|62607046|In another galaxy - |7|2
+40348993|virginia beach, virginia|174073277|El Paso, TX|2|2
+40348993|virginia beach, virginia|63359947|Va Beach|1|2
+40348993|virginia beach, virginia|0|Error|1|2
+27901029|virginia beach, virginia|0|Error|1|2
+52287666|virginia beach, virginia|209250585|Error|2|2
+52287666|virginia beach, virginia|24796874|Error|1|2
+52287666|virginia beach, virginia|264036590|Error|1|2
+52287666|virginia beach, virginia|40285960|Bahamas baby!!|1|2
+52287666|virginia beach, virginia|166690050|Worldwide|1|2
+30935287|virginia beach, virginia|32238813|NJ/Phila. A Virginian, always.|3|2
+30935287|virginia beach, virginia|0|Error|3|2
+30935287|virginia beach, virginia|68320244|outchea knowing, ignoring you.|2|2
+30935287|virginia beach, virginia|1152521082|Error|1|2
+30935287|virginia beach, virginia|22961004|Winchester, Virginia|1|2
+30935287|virginia beach, virginia|0|Error|1|2
+30935287|virginia beach, virginia|21413254|ARL|1|2
+30935287|virginia beach, virginia|0|Error|1|2
+16089456|virginia beach, virginia|20207853|Atlanta, GA, USA|1|2
+16089456|virginia beach, virginia|63866939|Seattle, WA|1|2
+16089456|virginia beach, virginia|18470560|Texas, Lewisville|1|2
+16089456|virginia beach, virginia|1433928584|Error|1|2
+16089456|virginia beach, virginia|22986510|Long Beach|1|2
+16089456|virginia beach, virginia|6951882|Little Rhody! (401) + #Dashers|1|2
+16089456|virginia beach, virginia|0|Error|1|2
+16089456|virginia beach, virginia|323884117|Error|1|2
+16089456|virginia beach, virginia|0|Error|1|2
+40348993|virginia beach, virginia|62607046|In another galaxy - |3|2
+40348993|virginia beach, virginia|174073277|El Paso, TX|1|2
+41853858|virginia beach, virginia|9335002|London/Los Angeles|2|2
+41853858|virginia beach, virginia|19614216|global|2|2
+41853858|virginia beach, virginia|0|Error|2|2
+41853858|virginia beach, virginia|112600958|Everywhere|1|2
+41853858|virginia beach, virginia|31748666|Indoor/outdoor|1|2
+41853858|virginia beach, virginia|36379406|Va Beach or Va Beach|1|2
+41853858|virginia beach, virginia|16197239|Washington DC, USA|1|2
+41853858|virginia beach, virginia|242719181|London|1|2
+41853858|virginia beach, virginia|0|Error|1|2
+41853858|virginia beach, virginia|146695463|Los Angeles + |1|2
+22558810|virginia beach, virginia|18656467|Virginia Beach, VA, USA|1|2
+31722509|virginia beach, virginia|24938431|Error|4|2
+31722509|virginia beach, virginia|0|Error|1|2
+31722509|virginia beach, virginia|14506253|Tauntuan belly|1|2
+17398208|virginia beach, virginia|0|Error|3|2
+17398208|virginia beach, virginia|25770878|daBEACH, VA !|1|2
+17398208|virginia beach, virginia|0|Error|1|2
+17398208|virginia beach, virginia|4877361|Error|1|2
+43625620|virginia beach, virginia|5372792|Sydney, Australia|1|2
+43625620|virginia beach, virginia|18773467|Clearwater, Tampa, Florida|1|2
+43625620|virginia beach, virginia|3305826048|Error|1|2
+43625620|virginia beach, virginia|3192544139|Error|1|2
+43625620|virginia beach, virginia|21968401|New York, NY|1|2
+43625620|virginia beach, virginia|20227698|52.585949,-1.982290|1|2
+43625620|virginia beach, virginia|278544525|Error|1|2
+8215672|virginia beach, virginia|0|Error|3|2
+8215672|virginia beach, virginia|14437159|Fairfield, CT|1|2
+8215672|virginia beach, virginia|15924274|Houston, TX|1|2
+8215672|virginia beach, virginia|1633442664|Error|1|2
+8215672|virginia beach, virginia|20579335|Austin, TX|1|2
+8215672|virginia beach, virginia|24143856|Mother Earth|1|2
+8215672|virginia beach, virginia|0|Error|1|2
+8215672|virginia beach, virginia|19479541|camp cky|1|2
+8215672|virginia beach, virginia|19099274|Error|1|2
+8215672|virginia beach, virginia|16618413|NYC|1|2
+21929737|virginia beach, virginia|1112540984|Error|10|2
+21929737|virginia beach, virginia|29587589|Error|2|2
+21929737|virginia beach, virginia|25537064|Los Angeles, CA|2|2
+21929737|virginia beach, virginia|21111883|DALLAS/LA|1|2
+21929737|virginia beach, virginia|0|Error|1|2
+21929737|virginia beach, virginia|0|Error|1|2
+21929737|virginia beach, virginia|14379105|Slippery Rock, PA|1|2

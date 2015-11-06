@@ -1,0 +1,960 @@
+15077049|fairfax, va|14518349|Indiana, USA|4|2
+15077049|fairfax, va|930881|Toronto|2|2
+15077049|fairfax, va|14544686|Cleveland, OH|2|2
+15077049|fairfax, va|18556898|Virginia Beach,Va|1|2
+15077049|fairfax, va|0|Error|1|2
+15077049|fairfax, va|0|Error|1|2
+15077049|fairfax, va|19413442|Fairfax, VA|1|2
+15077049|fairfax, va|21315232|Fairfax, VA|1|2
+15077049|fairfax, va|20231805|San Antonio, TX|1|2
+15077049|fairfax, va|0|Error|1|2
+15077049|fairfax, va|187753082|Error|1|2
+15077049|fairfax, va|16494016|Error|1|2
+15077049|fairfax, va|21932471|Cleveland, OH|1|2
+15077049|fairfax, va|1112792870|Error|1|2
+15077049|fairfax, va|19337081|Littleton, CO|1|2
+15077049|fairfax, va|17639058|Minnesota|1|2
+24385576|fairfax, va|0|Error|3|2
+24385576|fairfax, va|18805378|Illinois|2|2
+24385576|fairfax, va|25843383|Error|1|2
+24385576|fairfax, va|69347129|Ann Arbor via Boston|1|2
+24385576|fairfax, va|46094715|Stanford University|1|2
+24385576|fairfax, va|22853029|Error|1|2
+15358342|fairfax, va|16331357|Findlay, OH|3|2
+15358342|fairfax, va|70018749|Findlay, OH|3|2
+15358342|fairfax, va|0|Error|2|2
+15358342|fairfax, va|20042237|WAY UP|2|2
+15358342|fairfax, va|17549743|San Tan Valley, AZ|2|2
+15358342|fairfax, va|0|Error|1|2
+15358342|fairfax, va|45374259|New Jersey|1|2
+15358342|fairfax, va|17863018|Orange County, California |1|2
+15358342|fairfax, va|2441290832|Error|1|2
+15358342|fairfax, va|0|Error|1|2
+15358342|fairfax, va|25735531|Knoxville, Tennessee|1|2
+15358342|fairfax, va|0|Error|1|2
+15358342|fairfax, va|128990841|Error|1|2
+15358342|fairfax, va|0|Error|1|2
+15358342|fairfax, va|2181166716|Error|1|2
+15358342|fairfax, va|0|Error|1|2
+15358342|fairfax, va|152027963|Error|1|2
+15358342|fairfax, va|24494333|Global|1|2
+15358342|fairfax, va|33641304|New Jersey|1|2
+15358342|fairfax, va|15779850|San Francisco, CA|1|2
+15358342|fairfax, va|16334355|OHIO|1|2
+15358342|fairfax, va|50703342|NOVA|1|2
+15358342|fairfax, va|0|Error|1|2
+15358342|fairfax, va|23695166|Baltimore, MD|1|2
+14148858|fairfax, va|5610822|Fairfax, VA|5|2
+14148858|fairfax, va|18383198|Error|4|2
+14148858|fairfax, va|0|Error|2|2
+14148858|fairfax, va|14334369|iPhone: 0.000000,0.000000|2|2
+14148858|fairfax, va|2503738729|Error|1|2
+14148858|fairfax, va|340866918|Error|1|2
+14148858|fairfax, va|43149244|Louisville, KY|1|2
+14148858|fairfax, va|9227612|Sasebo-shi, Nagasaki|1|2
+14148858|fairfax, va|12611642|Fairfax, VA|1|2
+14148858|fairfax, va|8637672|On The Road|1|2
+14148858|fairfax, va|0|Error|1|2
+14148858|fairfax, va|2349251|Yes|1|2
+16260772|fairfax, va|26007752|Virginia|9|2
+16260772|fairfax, va|0|Error|2|2
+16260772|fairfax, va|19991326|Bath County, Virginia|2|2
+16260772|fairfax, va|2467791|Washington, DC|1|2
+16260772|fairfax, va|12044602|Los Angeles, California|1|2
+16260772|fairfax, va|8223542|Somerville, MA|1|2
+16260772|fairfax, va|0|Error|1|2
+16260772|fairfax, va|15703945|Virginia Beach, VA|1|2
+16260772|fairfax, va|14848798|Washington, D.C.|1|2
+16260772|fairfax, va|0|Error|1|2
+16260772|fairfax, va|29363230|Richmond, VA|1|2
+16260772|fairfax, va|19394188|Phoenix, AZ / Washington, DC|1|2
+16260772|fairfax, va|16305848|Washington, DC|1|2
+16260772|fairfax, va|16260772|Fairfax, VA|1|2
+16260772|fairfax, va|19057572|Fairfax, VA|1|2
+21638758|fairfax, va|27987646|Los Angeles, CA|5|2
+21638758|fairfax, va|83663727|Error|2|2
+21638758|fairfax, va|0|Error|2|2
+21638758|fairfax, va|37629962|+31|2|2
+21638758|fairfax, va|0|Error|2|2
+21638758|fairfax, va|459675875|Big Sky, MT|2|2
+21638758|fairfax, va|0|Error|1|2
+21638758|fairfax, va|0|Error|1|2
+21638758|fairfax, va|41828516|Tyler, Texas|1|2
+21638758|fairfax, va|0|Error|1|2
+21638758|fairfax, va|22680702|Washington DC|1|2
+21638758|fairfax, va|0|Error|1|2
+21638758|fairfax, va|43736146|Venice, CA|1|2
+21638758|fairfax, va|22322650|Fairfax, VA|1|2
+21638758|fairfax, va|0|Error|1|2
+21638758|fairfax, va|0|Error|1|2
+21638758|fairfax, va|546700689|Error|1|2
+21638758|fairfax, va|0|Error|1|2
+21638758|fairfax, va|0|Error|1|2
+21638758|fairfax, va|587295277|Error|1|2
+12449|fairfax, va|752133|Southampton, UK|5|2
+12449|fairfax, va|2633711|Portland, OR|3|2
+12449|fairfax, va|53|Error|2|2
+12449|fairfax, va|25166595|Chicago, IL|2|2
+12449|fairfax, va|7617702|Salt Lake City, Utah|2|2
+12449|fairfax, va|6073782|San Francisco|1|2
+12449|fairfax, va|44423|Los Altos, Ca|1|2
+12449|fairfax, va|5017|Silicon Valley|1|2
+12449|fairfax, va|6998432|San Francisco|1|2
+12449|fairfax, va|9949772|Denver, CO, USA|1|2
+12449|fairfax, va|82363|austin texas|1|2
+12449|fairfax, va|10184292|Forest Hill, MD USA|1|2
+12449|fairfax, va|17495946|Sebastopol, CA|1|2
+12449|fairfax, va|6353092|San Francisco, CA|1|2
+12449|fairfax, va|819606|Berlin|1|2
+12449|fairfax, va|14120151|Cities worldwide|1|2
+12449|fairfax, va|11665282|Wayzata, MN|1|2
+12449|fairfax, va|0|Error|1|2
+12449|fairfax, va|23563163|Berkeley, California|1|2
+12449|fairfax, va|17159589|New York, NY|1|2
+12449|fairfax, va|3936151|Starfleet Academy, California|1|2
+12449|fairfax, va|264554704|Error|1|2
+12449|fairfax, va|8046872|Usually Mountain View, CA|1|2
+12449|fairfax, va|9832392|Seattle|1|2
+12449|fairfax, va|2523321|Error|1|2
+12449|fairfax, va|632023|Bay Area, CA|1|2
+18592972|fairfax, va|0|Error|1|2
+82184973|fairfax, va|20015781|Los Angeles|3|2
+82184973|fairfax, va|20551046|Washington DC|2|2
+82184973|fairfax, va|2478637879|Malibu, CA|2|2
+82184973|fairfax, va|55719542|San Frangeles, CA|2|2
+82184973|fairfax, va|0|Error|1|2
+82184973|fairfax, va|90569346|Error|1|2
+26960373|fairfax, va|558793745|DC |5|2
+26960373|fairfax, va|28175686|Error|4|2
+26960373|fairfax, va|0|Error|4|2
+26960373|fairfax, va|0|Error|2|2
+26960373|fairfax, va|0|Error|2|2
+26960373|fairfax, va|19632251|Philadelphia, PA|2|2
+26960373|fairfax, va|0|Error|2|2
+26960373|fairfax, va|19425579|BMORE to DC to GLOBAL|2|2
+26960373|fairfax, va|0|Error|1|2
+26960373|fairfax, va|0|Error|1|2
+26960373|fairfax, va|23396184|Error|1|2
+26960373|fairfax, va|0|Error|1|2
+26960373|fairfax, va|17039828|iPhone: 38.944672,-77.095009|1|2
+26960373|fairfax, va|0|Error|1|2
+26960373|fairfax, va|22557010|Baltimore, MD.|1|2
+19550641|fairfax, va|15763535|Lansing, MI|3|2
+19550641|fairfax, va|0|Error|1|2
+19550641|fairfax, va|0|Error|1|2
+22434994|fairfax, va|15763535|Lansing, MI|3|2
+22434994|fairfax, va|731743|Alexandria, VA|2|2
+22434994|fairfax, va|295943082|Error|1|2
+22434994|fairfax, va|16041234|Washington, DC|1|2
+22434994|fairfax, va|11883132|San Francisco|1|2
+22434994|fairfax, va|20439040|North Carolina U.S.A|1|2
+22434994|fairfax, va|18328783|Atlanta, GA|1|2
+22434994|fairfax, va|15976697|USA|1|2
+22434994|fairfax, va|0|Error|1|2
+22434994|fairfax, va|20890685|Denver, CO|1|2
+22434994|fairfax, va|16594557|Bellevue, WA|1|2
+22434994|fairfax, va|17454769|Dallas, TX. Rockies, NYC.|1|2
+22434994|fairfax, va|16893035|Yarmouth, Maine|1|2
+70670373|fairfax, va|7313362|Chicago, IL|2|2
+70670373|fairfax, va|12807732|Olympia, Washington State|1|2
+70670373|fairfax, va|371898717|Bristol|1|2
+70670373|fairfax, va|31985980|San Antonio, Texas|1|2
+70670373|fairfax, va|16875985|Austin, Texas|1|2
+70670373|fairfax, va|323275810|Boston, MA|1|2
+70670373|fairfax, va|3238982292|Error|1|2
+70670373|fairfax, va|22681408|Matawan, New Jersey|1|2
+70670373|fairfax, va|0|Error|1|2
+70670373|fairfax, va|8861182|Long Island, NY|1|2
+70670373|fairfax, va|777924|Lincoln, NE|1|2
+70670373|fairfax, va|4170491|Atlanta, GA|1|2
+70670373|fairfax, va|14138785|London, UK|1|2
+70670373|fairfax, va|2323976292|LA|1|2
+14779097|fairfax, va|14823567|Virginia|9|2
+14779097|fairfax, va|15571638|Error|4|2
+14779097|fairfax, va|5610822|Fairfax, VA|3|2
+14779097|fairfax, va|8838832|Earth|3|2
+14779097|fairfax, va|758421|Brooklyn, New York|3|2
+14779097|fairfax, va|16578346|Error|2|2
+14779097|fairfax, va|8630712|Seattle, WA|1|2
+14779097|fairfax, va|46654834|Sandwich, MA|1|2
+14779097|fairfax, va|8487572|Los Angeles, CA|1|2
+14779097|fairfax, va|399515761|Error|1|2
+14779097|fairfax, va|24290838|New Haven, CT|1|2
+14779097|fairfax, va|28629074|Columbus, Ohio|1|2
+14779097|fairfax, va|31965400|Error|1|2
+19555697|fairfax, va|15141130|Baltimore|4|2
+19555697|fairfax, va|88532102|Virginia|1|2
+19555697|fairfax, va|0|Error|1|2
+19555697|fairfax, va|19397785|Error|1|2
+16541658|fairfax, va|20591513|on a chair. there is a table a|5|2
+16541658|fairfax, va|24048071|Ohio|2|2
+16541658|fairfax, va|0|Error|2|2
+16541658|fairfax, va|0|Error|2|2
+16541658|fairfax, va|16096448|Milton Keynes, UK|2|2
+16541658|fairfax, va|12184042|London|1|2
+16541658|fairfax, va|15894801|Charleston, SC|1|2
+16541658|fairfax, va|15099054|NYC, NY|1|2
+16541658|fairfax, va|19480914|Poland|1|2
+16541658|fairfax, va|18317058|West Hollywood, CA|1|2
+16541658|fairfax, va|5695942|New York, NY|1|2
+16541658|fairfax, va|86587123|Hamden, CT, USA, Earth|1|2
+16541658|fairfax, va|14652452|Los Angeles|1|2
+16541658|fairfax, va|10221|san francisco|1|2
+16541658|fairfax, va|14389031|Toronto, Ontario, Canada|1|2
+16541658|fairfax, va|17008328|California|1|2
+16541658|fairfax, va|14777850|Roanoke, VA|1|2
+16541658|fairfax, va|215155055|Error|1|2
+16541658|fairfax, va|1934802841|San Francisco|1|2
+16541658|fairfax, va|14749606|San Francisco, CA|1|2
+16541658|fairfax, va|15865400|Fairfield, CT, USA|1|2
+12611642|fairfax, va|21222599|Seattle, WA|5|2
+12611642|fairfax, va|2216165611|Error|4|2
+12611642|fairfax, va|8914942|So far, you just can't see.|4|2
+12611642|fairfax, va|14183542|Home in New Mexico|4|2
+12611642|fairfax, va|1183041|Los Angeles|4|2
+12611642|fairfax, va|15165643|Northern Virginia, USA|3|2
+12611642|fairfax, va|8946022|Seattle|3|2
+12611642|fairfax, va|2698041|Brooklyn, NY|3|2
+12611642|fairfax, va|2100521|Brooklyn, NY|3|2
+12611642|fairfax, va|8518012|Vienna|3|2
+12611642|fairfax, va|16640675|Error|3|2
+12611642|fairfax, va|12611642|Fairfax, VA|3|2
+12611642|fairfax, va|14778467|Swindon, UK|3|2
+12611642|fairfax, va|2261835186|DeLand, Florida|2|2
+12611642|fairfax, va|29873662|NYC|2|2
+12611642|fairfax, va|0|Error|2|2
+12611642|fairfax, va|12683442|Columbia, MD|2|2
+12611642|fairfax, va|43730882|44.946972,-92.965931|2|2
+12611642|fairfax, va|59790636|Townsville|2|2
+12611642|fairfax, va|85425149|Austin, Texas|2|2
+12611642|fairfax, va|32904319|Error|2|2
+12611642|fairfax, va|17332595|Error|2|2
+12611642|fairfax, va|49380756|Error Town|2|2
+12611642|fairfax, va|24829706|I iz king of ma castle |2|2
+12611642|fairfax, va|17311407|Reston, VA|2|2
+12611642|fairfax, va|14048901|Berlin|2|2
+12611642|fairfax, va|0|Error|2|2
+12611642|fairfax, va|528906628|Lancashire|2|2
+12611642|fairfax, va|0|Error|2|2
+12611642|fairfax, va|20447039|Error|2|2
+12611642|fairfax, va|755068|San Francisco, CA|2|2
+12611642|fairfax, va|59524045|Beautiful Downtown Burbank|2|2
+12611642|fairfax, va|14246782|NYC expat in San Diego, CA|2|2
+12611642|fairfax, va|15410067|Error|2|2
+12611642|fairfax, va|52598272|Great White North|2|2
+12611642|fairfax, va|16104618|Error|2|2
+12611642|fairfax, va|15727419|01027|2|2
+12611642|fairfax, va|61592079|Error|2|2
+12611642|fairfax, va|22461427|Los Angeles|2|2
+12611642|fairfax, va|0|Error|2|2
+12611642|fairfax, va|15873961|Fort Wayne, Indiana|2|2
+12611642|fairfax, va|36836737|district 12|2|2
+12611642|fairfax, va|3454673597|Error|2|2
+12611642|fairfax, va|16072540|iPhone: 36.102180,-87.466667|1|2
+12611642|fairfax, va|7813012|San Diego and Boston|1|2
+12611642|fairfax, va|14189802|The Land of Rain & Cheese|1|2
+12611642|fairfax, va|14483222|Washington, DC|1|2
+12611642|fairfax, va|7437612|Greenville, TX|1|2
+12611642|fairfax, va|24001496|Seattle, WA|1|2
+12611642|fairfax, va|14987865|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|5887502|FL by way of LA/MS/NM/WA/CA|1|2
+12611642|fairfax, va|14686887|iPhone: 38.857796,-77.414169|1|2
+12611642|fairfax, va|18884557|Long Island, New York|1|2
+12611642|fairfax, va|8838832|Earth|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|24461956|Lansing, MI|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|7532832|Bellingham, WA|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|14965611|Oakland, CA|1|2
+12611642|fairfax, va|15141419|Seattle|1|2
+12611642|fairfax, va|645653|Newcastle, UK|1|2
+12611642|fairfax, va|14339376|Toronto|1|2
+12611642|fairfax, va|327495490|Error|1|2
+12611642|fairfax, va|46277137|Error|1|2
+12611642|fairfax, va|14307648|Error|1|2
+12611642|fairfax, va|21744204|GA, USA|1|2
+12611642|fairfax, va|15285356|Brooklyn, NY|1|2
+12611642|fairfax, va|14712676|Wien|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|3307641|Ceci n'est pas une CeilingCat.|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|18131219|30.595593, -87.153712|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|38787443|Error|1|2
+12611642|fairfax, va|17890145|Wheaton MD|1|2
+12611642|fairfax, va|17625434|Cypress, TX|1|2
+12611642|fairfax, va|151936134|Error|1|2
+12611642|fairfax, va|18638502|NYC|1|2
+12611642|fairfax, va|42707368|Colorado|1|2
+12611642|fairfax, va|1165268084|Adelaide, South Australia|1|2
+12611642|fairfax, va|14802877|Marianna, Fl|1|2
+12611642|fairfax, va|19709708|Mainer in exile|1|2
+12611642|fairfax, va|7101912|New Zealand|1|2
+12611642|fairfax, va|5796562|Nashville, TN|1|2
+12611642|fairfax, va|1333741|A-Team Themed Spaceship|1|2
+12611642|fairfax, va|3442281|Washington, DC|1|2
+12611642|fairfax, va|3040621|Redmond, WA|1|2
+12611642|fairfax, va|14483850|Seattle|1|2
+12611642|fairfax, va|67478331|Montour Falls, NY|1|2
+12611642|fairfax, va|196036017|Florida|1|2
+12611642|fairfax, va|17891410|Who's asking?|1|2
+12611642|fairfax, va|13727262|Philadelphia, PA|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|10836362|New Orleans, LA|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|16899599|Colchester, VT USA|1|2
+12611642|fairfax, va|792121|Stillwater, OK|1|2
+12611642|fairfax, va|1446506611|Error|1|2
+12611642|fairfax, va|14580265|Puget Sound|1|2
+12611642|fairfax, va|23255677|New Jersey, USA|1|2
+12611642|fairfax, va|14955914|Error|1|2
+12611642|fairfax, va|66305933|in the floppy drive..|1|2
+12611642|fairfax, va|3177116274|Error|1|2
+12611642|fairfax, va|2865614829|Arkansas, USA|1|2
+12611642|fairfax, va|28521141|Los Angeles, CA|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|36697827|Bangin' on the keys|1|2
+12611642|fairfax, va|13821862|DC - Ward 5|1|2
+12611642|fairfax, va|19856930|Singapore|1|2
+12611642|fairfax, va|17323992|Davis, CA|1|2
+12611642|fairfax, va|68344653|Disneyland|1|2
+12611642|fairfax, va|37043393|Brazil|1|2
+12611642|fairfax, va|6677002|Nashua, NH|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|18207929|San Luis Valley, Colorado|1|2
+12611642|fairfax, va|1021661|Charlottesville, VA|1|2
+12611642|fairfax, va|239578776|Orlando, Florida|1|2
+12611642|fairfax, va|108721467|Error|1|2
+12611642|fairfax, va|17510981|London, UK|1|2
+12611642|fairfax, va|14627691|Ventura Ca|1|2
+12611642|fairfax, va|46421043|Southeastern Pennsylvania, USA|1|2
+12611642|fairfax, va|44818103|So. Paris, Me., U.S.A., Sol 3|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|24647158|rainbow bridge|1|2
+12611642|fairfax, va|19254485|Chicago, IL|1|2
+12611642|fairfax, va|1843021|Somerville, MA|1|2
+12611642|fairfax, va|14835231|Wilmington, North Carolina|1|2
+12611642|fairfax, va|28186404|Twin Cities - MN|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|14457987|Rochester, NY|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|15921862|New Mexico|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|7144422|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|27066519|NoVA, USA|1|2
+12611642|fairfax, va|7861622|Los Angeles, CA|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|13354322|Utah|1|2
+12611642|fairfax, va|15152962|Madison, WI|1|2
+12611642|fairfax, va|51106227|Tampa, FL|1|2
+12611642|fairfax, va|12497|San Francisco, CA|1|2
+12611642|fairfax, va|18212779|Bergen, Norway|1|2
+12611642|fairfax, va|15324835|Error|1|2
+12611642|fairfax, va|14617762|Los Angeles & Huntington Beach|1|2
+12611642|fairfax, va|19911491|Somerville, MA|1|2
+12611642|fairfax, va|31794483|Atlanta, Georgia, USA|1|2
+12611642|fairfax, va|14554052|the US|1|2
+12611642|fairfax, va|14285700|Austin,Texas|1|2
+12611642|fairfax, va|504849504|north carolina|1|2
+12611642|fairfax, va|717313|NYC - Boston - Chicago - SF|1|2
+12611642|fairfax, va|19732725|Los Angeles, CA|1|2
+12611642|fairfax, va|18952432|Oak Lawn, IL|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|13625162|Leicestershire|1|2
+12611642|fairfax, va|17120022|Cedar Rapids, Iowa|1|2
+12611642|fairfax, va|41752280|Tainan, Taiwan|1|2
+12611642|fairfax, va|40276973|United States|1|2
+12611642|fairfax, va|505677235|Error|1|2
+12611642|fairfax, va|60086648|388 Union Ave. Brooklyn NY|1|2
+12611642|fairfax, va|5465672|Baltimore|1|2
+12611642|fairfax, va|14615462|01027|1|2
+12611642|fairfax, va|24825167|Error|1|2
+12611642|fairfax, va|24267328|Ontario|1|2
+12611642|fairfax, va|16929444|Redmond, WA|1|2
+12611642|fairfax, va|39394680|Tokyo, Japan|1|2
+12611642|fairfax, va|22196470|Error|1|2
+12611642|fairfax, va|322914537|Error|1|2
+12611642|fairfax, va|24971619|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|15657647|Error|1|2
+12611642|fairfax, va|1547781|seattle.wa.earth.sol.orion.mw|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|41533187|32.89444444,-97.02972222|1|2
+12611642|fairfax, va|16604386|Kentucky|1|2
+12611642|fairfax, va|86906386|Johnson County, KS|1|2
+12611642|fairfax, va|18056340|Seattle|1|2
+12611642|fairfax, va|9017192|Los Angeles, CA|1|2
+12611642|fairfax, va|23790917|Connecticut|1|2
+12611642|fairfax, va|66518152|ChichisPaLaBandaLandia|1|2
+12611642|fairfax, va|13095042|Error|1|2
+12611642|fairfax, va|5131|San Jose, CA|1|2
+12611642|fairfax, va|14407399|Nashua, NH|1|2
+12611642|fairfax, va|23282374|Seattle, WA|1|2
+12611642|fairfax, va|394216985|Error|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|55049251|Brooklyn, NY|1|2
+12611642|fairfax, va|19129617|Scotland|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|23070640|Phoenix, AZ, sometimes|1|2
+12611642|fairfax, va|18649510|Silver Spring, MD|1|2
+12611642|fairfax, va|7025052|Montreal, QC, Canada|1|2
+12611642|fairfax, va|15345816|Gallifrey|1|2
+12611642|fairfax, va|4138761|Error|1|2
+12611642|fairfax, va|39848301|Fremont, CA|1|2
+12611642|fairfax, va|11348282|Error|1|2
+12611642|fairfax, va|8641872|Portland|1|2
+12611642|fairfax, va|44654483|Northern CA|1|2
+12611642|fairfax, va|0|Error|1|2
+12611642|fairfax, va|16506222|Maryland, USA|1|2
+12611642|fairfax, va|103352755|Brooklyn, NY|1|2
+25577265|fairfax, va|16388972|San Diego, CA & Cornwall, ON|5|2
+25577265|fairfax, va|2307776510|Error|3|2
+25577265|fairfax, va|20275274|London, UK|2|2
+25577265|fairfax, va|19058681|Los Angeles, California|2|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|215001953|Worldwide|1|2
+25577265|fairfax, va|14436732|Dela-WHERE?|1|2
+25577265|fairfax, va|18552776|Pennsylvania|1|2
+25577265|fairfax, va|18220175|EVERYWHERE!!!|1|2
+25577265|fairfax, va|22172234|U.S and Canada|1|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|8430612|Denver, Colorado|1|2
+25577265|fairfax, va|1581646645|Error|1|2
+25577265|fairfax, va|14237254|Wilmington, NC |1|2
+25577265|fairfax, va|17323099|Denver, CO|1|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|40772764|Error|1|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|5534332|North Jersey|1|2
+25577265|fairfax, va|42735932|Pheonix, AZ|1|2
+25577265|fairfax, va|17641330|Austin, TX|1|2
+25577265|fairfax, va|13906222|Moncton, NB|1|2
+25577265|fairfax, va|5963772|Arlington, VA|1|2
+25577265|fairfax, va|14389103|New Orleans|1|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|33472982|Berlin|1|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|0|Error|1|2
+25577265|fairfax, va|19918253|Planet Earth|1|2
+25577265|fairfax, va|15272960|Virginia Beach, VA|1|2
+17218474|fairfax, va|14963174|London, Ontario, Canada|1|2
+17218474|fairfax, va|18644011|Philly (at present)|1|2
+17218474|fairfax, va|6667212|Spartanburg, SC|1|2
+17218474|fairfax, va|9785862|Fairfax, VA|1|2
+17218474|fairfax, va|12652|Error|1|2
+17218474|fairfax, va|14119160|NoVA|1|2
+56937494|fairfax, va|21894161|Washington DC|9|2
+56937494|fairfax, va|83036893|10800 Main Street|9|2
+56937494|fairfax, va|209250585|Error|5|2
+56937494|fairfax, va|362644323|Kingdom of Agrabah|4|2
+56937494|fairfax, va|21804902|Washington, D.C.|3|2
+56937494|fairfax, va|22652033|VA|2|2
+56937494|fairfax, va|38369476|Las Vegas |2|2
+56937494|fairfax, va|24085935|Northern VA|2|2
+56937494|fairfax, va|0|Error|2|2
+56937494|fairfax, va|557035938|Cyberspace|1|2
+56937494|fairfax, va|990266911|Error|1|2
+56937494|fairfax, va|63707972|Atlanta, GA|1|2
+56937494|fairfax, va|25182066|Washington D.C.|1|2
+56937494|fairfax, va|0|Error|1|2
+56937494|fairfax, va|98964891|Error|1|2
+56937494|fairfax, va|27935601|Error|1|2
+56937494|fairfax, va|264036590|Error|1|2
+56937494|fairfax, va|0|Error|1|2
+56937494|fairfax, va|0|Error|1|2
+56937494|fairfax, va|0|Error|1|2
+56937494|fairfax, va|519798238|Error|1|2
+56937494|fairfax, va|49974335|wheaton MD|1|2
+56937494|fairfax, va|28351299|Error|1|2
+56937494|fairfax, va|18369265|Virginia|1|2
+56937494|fairfax, va|0|Error|1|2
+56937494|fairfax, va|0|Error|1|2
+56937494|fairfax, va|0|Error|1|2
+56937494|fairfax, va|54550271|Error|1|2
+56937494|fairfax, va|134860012|P.A.|1|2
+56937494|fairfax, va|0|Error|1|2
+56937494|fairfax, va|0|Error|1|2
+56937494|fairfax, va|21557223|Philadelphia|1|2
+38068935|fairfax, va|23360597|Error|7|2
+38068935|fairfax, va|70024376|Error|6|2
+38068935|fairfax, va|241367859|Error|3|2
+38068935|fairfax, va|71004891|Error|2|2
+38068935|fairfax, va|30567588|Error|1|2
+38068935|fairfax, va|21894161|Washington DC|1|2
+38068935|fairfax, va|0|Error|1|2
+38068935|fairfax, va|27678379|Cary, NC|1|2
+12120802|fairfax, va|4723951|Peterborough, England|2|2
+12120802|fairfax, va|11883132|San Francisco|2|2
+12120802|fairfax, va|17846095|Folsom, California|2|2
+12120802|fairfax, va|16649325|iPhone: 38.770814,-77.170861|2|2
+12120802|fairfax, va|8786792|San Francisco, USA|2|2
+12120802|fairfax, va|71209224|UK|1|2
+12120802|fairfax, va|2196321|Pensacola, Florida|1|2
+12120802|fairfax, va|18354740|UK|1|2
+12120802|fairfax, va|972651|Error|1|2
+12120802|fairfax, va|2996486670|Error|1|2
+12120802|fairfax, va|10815642|Reims, Champagne-Ardenne|1|2
+12120802|fairfax, va|59872906|Amsterdam|1|2
+49085414|fairfax, va|31556038|California|1|2
+49085414|fairfax, va|36944475|LA. NYC. |1|2
+49085414|fairfax, va|145634527|Error|1|2
+5963772|fairfax, va|0|Error|2|2
+5963772|fairfax, va|14079852|Greater Philadelphia|2|2
+5963772|fairfax, va|16431844|San Diego, CA|2|2
+5963772|fairfax, va|37992113|New York|1|2
+5963772|fairfax, va|0|Error|1|2
+5963772|fairfax, va|0|Error|1|2
+5963772|fairfax, va|17936501|Philadelphia, United States|1|2
+5963772|fairfax, va|24061057|Honolulu, HI|1|2
+5963772|fairfax, va|14105347|Crown Heights, Brooklyn|1|2
+5963772|fairfax, va|628701771|Baltimore, MD|1|2
+5963772|fairfax, va|16047031|PA|1|2
+5963772|fairfax, va|10798802|boston/upstate NY/oz/the road|1|2
+5963772|fairfax, va|271139387|Error|1|2
+5963772|fairfax, va|5963772|Arlington, VA|1|2
+5963772|fairfax, va|16436064|New York|1|2
+5963772|fairfax, va|785547|Boston, MA|1|2
+5963772|fairfax, va|5768872|NYC|1|2
+5963772|fairfax, va|36357578|Philadelphia, Binghamton|1|2
+5963772|fairfax, va|0|Error|1|2
+5963772|fairfax, va|0|Error|1|2
+5571322|fairfax, va|0|Error|2|2
+5571322|fairfax, va|0|Error|1|2
+5571322|fairfax, va|0|Error|1|2
+5571322|fairfax, va|0|Error|1|2
+5571322|fairfax, va|0|Error|1|2
+5571322|fairfax, va|0|Error|1|2
+5571322|fairfax, va|33462570|Florence, Italy|1|2
+5571322|fairfax, va|170292593|Error|1|2
+5571322|fairfax, va|0|Error|1|2
+5571322|fairfax, va|147652142|Montemorelos|1|2
+5571322|fairfax, va|785822220|Error|1|2
+5571322|fairfax, va|0|Error|1|2
+5571322|fairfax, va|10239052|Error|1|2
+5571322|fairfax, va|1513216602|Error|1|2
+5571322|fairfax, va|5571322|Reston, VA|1|2
+5571322|fairfax, va|0|Error|1|2
+11345952|fairfax, va|17066782|Washington, DC|4|2
+11345952|fairfax, va|0|Error|2|2
+11345952|fairfax, va|27655952|Out avoiding black helicopters|2|2
+11345952|fairfax, va|17459392|Washington, DC|2|2
+11345952|fairfax, va|31137047|The Hague, Netherlands|1|2
+11345952|fairfax, va|868651|No matter where I go...|1|2
+11345952|fairfax, va|191945930|Error|1|2
+11345952|fairfax, va|11883132|San Francisco|1|2
+11345952|fairfax, va|17126283|Portland, OR|1|2
+11345952|fairfax, va|17909559|Columbus, Ohio, USA|1|2
+11345952|fairfax, va|14192174|Corsham, Wiltshire, England|1|2
+11345952|fairfax, va|14238142|Washington, DC|1|2
+11345952|fairfax, va|759251|Error|1|2
+11345952|fairfax, va|0|Error|1|2
+27673615|fairfax, va|30313925|Washington, DC|6|2
+27673615|fairfax, va|56167383|USA|6|2
+27673615|fairfax, va|19739126|California|5|2
+27673615|fairfax, va|17454769|Dallas, TX. Rockies, NYC.|2|2
+27673615|fairfax, va|14844867|Washington, DC|2|2
+27673615|fairfax, va|41808212|San Antonio, Texas|1|2
+27673615|fairfax, va|28785486|New York City / Worldwide|1|2
+27673615|fairfax, va|49704414|cleveland ohio|1|2
+27673615|fairfax, va|27783848|Florida|1|2
+27673615|fairfax, va|35195343|Pittsburgh, PA|1|2
+27673615|fairfax, va|78602058|UK|1|2
+27673615|fairfax, va|76076931|USA|1|2
+27673615|fairfax, va|919238408|Oklahoma|1|2
+27673615|fairfax, va|1367531|U.S.A.|1|2
+27673615|fairfax, va|0|Error|1|2
+27673615|fairfax, va|0|Error|1|2
+27673615|fairfax, va|18791763|Washington, D.C.|1|2
+27673615|fairfax, va|0|Error|1|2
+66014634|fairfax, va|972651|Error|12|2
+66014634|fairfax, va|19057044|Fairfax, VA|3|2
+66014634|fairfax, va|33982105|Falls Church, VA|3|2
+66014634|fairfax, va|0|Error|1|2
+66014634|fairfax, va|250556430|Washington, D.C.|1|2
+66014634|fairfax, va|12035332|Washington, DC|1|2
+66014634|fairfax, va|319744354|Fairfax County, VA|1|2
+66014634|fairfax, va|28127095|Tysons Corner, VA|1|2
+66014634|fairfax, va|0|Error|1|2
+66014634|fairfax, va|16016705|Fairfax, VA|1|2
+66014634|fairfax, va|56747571|Fairfax County, VA|1|2
+17922513|fairfax, va|11883132|San Francisco|2|2
+17922513|fairfax, va|17825445|New York|1|2
+48754929|fairfax, va|46576295|*WORLDWIDE*|11|2
+48754929|fairfax, va|745670282|Error|4|2
+48754929|fairfax, va|0|Error|2|2
+48754929|fairfax, va|0|Error|2|2
+48754929|fairfax, va|419117523|Error|2|2
+48754929|fairfax, va|0|Error|2|2
+48754929|fairfax, va|16190898|Los Angeles, CA|1|2
+48754929|fairfax, va|28221296|NBC|1|2
+48754929|fairfax, va|0|Error|1|2
+48754929|fairfax, va|19329393|New York City, New York|1|2
+48754929|fairfax, va|15846407|California|1|2
+48754929|fairfax, va|25247389|St Paul, MN|1|2
+14128054|fairfax, va|14738157|Richmond, Virginia|3|2
+14128054|fairfax, va|14197312|Virginia, New Jersey, The Wind|2|2
+14128054|fairfax, va|0|Error|1|2
+14128054|fairfax, va|0|Error|1|2
+14128054|fairfax, va|21672048|Error|1|2
+14128054|fairfax, va|26007752|Virginia|1|2
+14128054|fairfax, va|0|Error|1|2
+14128054|fairfax, va|15283729|Salisbury, MD|1|2
+14128054|fairfax, va|0|Error|1|2
+14128054|fairfax, va|14536203|Washington DC |1|2
+14128054|fairfax, va|15043584|Cedar Rapids, IA, USA|1|2
+14128054|fairfax, va|52574110|Virginia|1|2
+14128054|fairfax, va|12814702|Milwaukee, WI|1|2
+14128054|fairfax, va|99782230|Western CT & The Ether|1|2
+14128054|fairfax, va|526725774|Error|1|2
+14128054|fairfax, va|18139456|Virginia|1|2
+5610822|fairfax, va|17216999|Reston, Va|5|2
+5610822|fairfax, va|10609|Portland, OR|3|2
+5610822|fairfax, va|14823567|Virginia|3|2
+5610822|fairfax, va|23133240|CALIFORNIA, USA|2|2
+5610822|fairfax, va|8838832|Earth|2|2
+5610822|fairfax, va|14779097|Alexandria, VA|2|2
+5610822|fairfax, va|14078882|Seattle, Washington|2|2
+5610822|fairfax, va|12611642|Fairfax, VA|2|2
+5610822|fairfax, va|119108192|Error|1|2
+5610822|fairfax, va|44423|Los Altos, Ca|1|2
+5610822|fairfax, va|0|Error|1|2
+5610822|fairfax, va|16578346|Error|1|2
+5610822|fairfax, va|15602130|NYC|1|2
+5610822|fairfax, va|662423|San Francisco|1|2
+5610822|fairfax, va|16433007|Missouri|1|2
+5610822|fairfax, va|14636798|DC Metro|1|2
+5610822|fairfax, va|3922|Mission District, SF|1|2
+5610822|fairfax, va|15125727|Northern VA|1|2
+5610822|fairfax, va|42802775|Neither here nor there|1|2
+5610822|fairfax, va|28629074|Columbus, Ohio|1|2
+5610822|fairfax, va|15571638|Error|1|2
+5610822|fairfax, va|20261175|Fairfax, VA|1|2
+5610822|fairfax, va|0|Error|1|2
+44277241|fairfax, va|87281674|Toronto, Ontario, Canada|10|2
+44277241|fairfax, va|277643639|Error|7|2
+44277241|fairfax, va|34327087|Worcester, Ma|1|2
+44277241|fairfax, va|20820239|Error|1|2
+44277241|fairfax, va|16727036|Atlanta, GA|1|2
+44277241|fairfax, va|81428690|Arizona|1|2
+19478162|fairfax, va|1961585634|Error|2|2
+19478162|fairfax, va|33140768|Houston, TX|2|2
+19478162|fairfax, va|754156080|Error|2|2
+19478162|fairfax, va|17756114|Error|1|2
+19478162|fairfax, va|0|Error|1|2
+19478162|fairfax, va|19786749|Texan.|1|2
+18070167|fairfax, va|2800160078|Error|2|2
+18070167|fairfax, va|17461469|Australia|1|2
+18070167|fairfax, va|0|Error|1|2
+18070167|fairfax, va|0|Error|1|2
+18070167|fairfax, va|16007046|Seattle, WA|1|2
+18070167|fairfax, va|178544689|Minnesota|1|2
+18070167|fairfax, va|0|Error|1|2
+18070167|fairfax, va|0|Error|1|2
+18070167|fairfax, va|17662451|Vancouver, Kitsilano|1|2
+18070167|fairfax, va|464400747|Error|1|2
+18070167|fairfax, va|15583059|Burbank, CA|1|2
+18070167|fairfax, va|0|Error|1|2
+18070167|fairfax, va|14218149|DC metro|1|2
+18070167|fairfax, va|17392518|Phoenix, AZ|1|2
+18070167|fairfax, va|0|Error|1|2
+18070167|fairfax, va|14326165|Philly 'Burbs (Langhorne, PA)|1|2
+18070167|fairfax, va|17878138|NH|1|2
+18070167|fairfax, va|0|Error|1|2
+33537517|fairfax, va|67353354|Washington, DC|4|2
+33537517|fairfax, va|73176784|Washington, DC|2|2
+33537517|fairfax, va|44900366|Error|1|2
+33537517|fairfax, va|59499131|Washigton, DC|1|2
+33537517|fairfax, va|0|Error|1|2
+33537517|fairfax, va|0|Error|1|2
+33537517|fairfax, va|0|Error|1|2
+33537517|fairfax, va|16197672|Fairfax County, Virginia|1|2
+33537517|fairfax, va|0|Error|1|2
+18873177|fairfax, va|114478604|Error|5|2
+18873177|fairfax, va|0|Error|3|2
+18873177|fairfax, va|14803701|Everywhere|2|2
+18873177|fairfax, va|18165865|Washington, DC|2|2
+18873177|fairfax, va|4641021|World Wide Web|2|2
+18873177|fairfax, va|5667002|Chicago|1|2
+18873177|fairfax, va|0|Error|1|2
+18873177|fairfax, va|87777131|Fort Hood, Texas|1|2
+18873177|fairfax, va|34346196|United States|1|2
+18873177|fairfax, va|20489961|Error|1|2
+18873177|fairfax, va|0|Error|1|2
+18873177|fairfax, va|55341465|US|1|2
+18873177|fairfax, va|23339677|California|1|2
+18873177|fairfax, va|0|Error|1|2
+18873177|fairfax, va|17467699|St. Louis, Missouri|1|2
+18873177|fairfax, va|79543|Silicon Valley, CA|1|2
+26249865|fairfax, va|335508791|Queen City, NC|1|2
+26249865|fairfax, va|37997466|Fairfax, VA|1|2
+26249865|fairfax, va|37577907|Fairfax|1|2
+26249865|fairfax, va|61637157|Error|1|2
+57742236|fairfax, va|35767916|Phoenix & Minneapolis, USA|2|2
+57742236|fairfax, va|17727570|Detroit, MI|2|2
+57742236|fairfax, va|23140412|United States|1|2
+57742236|fairfax, va|27148754|New York, NY|1|2
+57742236|fairfax, va|19273794|Error|1|2
+57742236|fairfax, va|50833818|Error|1|2
+57742236|fairfax, va|32422354|Error|1|2
+57742236|fairfax, va|0|Error|1|2
+57742236|fairfax, va|18698794|North Carolina|1|2
+57742236|fairfax, va|19511821|USA|1|2
+57742236|fairfax, va|49859891|Pittsburgh PA|1|2
+17944172|fairfax, va|0|Error|1|2
+51518443|fairfax, va|0|Error|1|2
+34842158|fairfax, va|40791597|Stone Ocean|4|2
+34842158|fairfax, va|3969531|Wisconsin|2|2
+34842158|fairfax, va|0|Error|2|2
+34842158|fairfax, va|0|Error|2|2
+34842158|fairfax, va|800094|Sioux Falls, SD (soon)|1|2
+34842158|fairfax, va|10056112|Washington, DC|1|2
+34842158|fairfax, va|0|Error|1|2
+34842158|fairfax, va|0|Error|1|2
+41203244|fairfax, va|370825476|Error|1|2
+41203244|fairfax, va|24074032|Error|1|2
+41203244|fairfax, va|0|Error|1|2
+46468906|fairfax, va|0|Error|1|2
+15358342|fairfax, va|0|Error|3|2
+15358342|fairfax, va|20042237|WAY UP|3|2
+15358342|fairfax, va|20096189|Error|1|2
+15358342|fairfax, va|24494333|Global|1|2
+54933705|fairfax, va|22803302|Monterey Peninsula|5|2
+54933705|fairfax, va|22843167|Washington, DC|2|2
+54933705|fairfax, va|12340562|Los Angeles|2|2
+54933705|fairfax, va|0|Error|1|2
+54933705|fairfax, va|0|Error|1|2
+54933705|fairfax, va|15118704|Alexandria, Virginia|1|2
+18178006|fairfax, va|0|Error|2|2
+18178006|fairfax, va|1380386700|Error|1|2
+18178006|fairfax, va|972651|Error|1|2
+18178006|fairfax, va|0|Error|1|2
+15065657|fairfax, va|18081931|New York, NY|2|2
+15065657|fairfax, va|2202014756|Error|1|2
+15065657|fairfax, va|3000780292|Error|1|2
+15065657|fairfax, va|0|Error|1|2
+15065657|fairfax, va|22563769|Los Angeles|1|2
+15065657|fairfax, va|20620967|Where in the world are you?|1|2
+15065657|fairfax, va|0|Error|1|2
+15065657|fairfax, va|39801716|Somewhere in VA|1|2
+15065657|fairfax, va|23385159|Error|1|2
+15065657|fairfax, va|18223111|Washington, DC|1|2
+15065657|fairfax, va|2389303566|Old Hill, West Midlands.|1|2
+16120963|fairfax, va|2407557815|Error|2|2
+16120963|fairfax, va|30614676|Error|1|2
+16120963|fairfax, va|62581962|Error|1|2
+16120963|fairfax, va|3064617094|Error|1|2
+16120963|fairfax, va|20334674|Here, there, and everywhere.|1|2
+16120963|fairfax, va|26179439|Kentucky|1|2
+16120963|fairfax, va|34747631|Around the World|1|2
+16120963|fairfax, va|15930616|New York City|1|2
+16120963|fairfax, va|2898656830|Error|1|2
+44434692|fairfax, va|24481694|Phoenix|2|2
+44434692|fairfax, va|17693747|USA, wherever my RV takes me|1|2
+21376316|fairfax, va|54582060|San Diego|6|2
+21376316|fairfax, va|69457945|DC/Chi-town|3|2
+27673615|fairfax, va|56167383|USA|2|2
+27673615|fairfax, va|0|Error|1|2
+27673615|fairfax, va|3348903193|Error|1|2
+27673615|fairfax, va|37756752|Missouri|1|2
+27673615|fairfax, va|2411049612|Error|1|2
+27673615|fairfax, va|30651089|NC|1|2
+22434994|fairfax, va|16818600|Error|2|2
+22434994|fairfax, va|15113571|Washington, D.C. |1|2
+22434994|fairfax, va|0|Error|1|2
+40297689|fairfax, va|43895985|Fairfax, VA|1|2
+40297689|fairfax, va|37991193|Arlington, Virginia|1|2
+17296611|fairfax, va|36171627|VA|5|2
+17296611|fairfax, va|356497606|Error|1|2
+17296611|fairfax, va|24926710|The Big Smoke|1|2
+17296611|fairfax, va|701993484|Error|1|2
+17296611|fairfax, va|14835971|Error|1|2
+12120802|fairfax, va|14505930|Richland, WA|2|2
+12120802|fairfax, va|59872906|Amsterdam|2|2
+12120802|fairfax, va|12753422|Washington, DC|1|2
+12120802|fairfax, va|4246611|SF Bay Area|1|2
+12120802|fairfax, va|0|Error|1|2
+12120802|fairfax, va|0|Error|1|2
+12120802|fairfax, va|2503738729|Error|1|2
+12120802|fairfax, va|22058320|California|1|2
+12120802|fairfax, va|14284135|Error|1|2
+12120802|fairfax, va|0|Error|1|2
+12120802|fairfax, va|0|Error|1|2
+19478162|fairfax, va|754156080|Error|3|2
+19478162|fairfax, va|0|Error|1|2
+19478162|fairfax, va|22332898|Error|1|2
+16839716|fairfax, virginia|10298|St. Louis, MO|2|2
+16839716|fairfax, virginia|15482557|Error|1|2
+16839716|fairfax, virginia|20929521|Oklahoma City, OK|1|2
+16839716|fairfax, virginia|22272886|Montgomery, Alabama USA|1|2
+16839716|fairfax, virginia|268393823|Error|1|2
+16839716|fairfax, virginia|12650342|Error|1|2
+16839716|fairfax, virginia|12357402|Stamford, Lincolnshire|1|2
+16839716|fairfax, virginia|0|Error|1|2
+16839716|fairfax, virginia|18532867|Cleveland, Ohio|1|2
+16839716|fairfax, virginia|18490743|Fairfax, Virginia|1|2
+31135129|fairfax, virginia|230174196|Error|4|2
+31135129|fairfax, virginia|2178693609|Error|2|2
+31135129|fairfax, virginia|0|Error|2|2
+31135129|fairfax, virginia|72195816|301!|2|2
+31135129|fairfax, virginia|30817301|Error|2|2
+31135129|fairfax, virginia|18660296|Los Angeles, CA|1|2
+31135129|fairfax, virginia|15285562|Error|1|2
+31135129|fairfax, virginia|74052688|Northern VA|1|2
+31135129|fairfax, virginia|22680702|Washington DC|1|2
+31135129|fairfax, virginia|18627568|Hartford, KY|1|2
+31135129|fairfax, virginia|8485982|Nijmegen|1|2
+31135129|fairfax, virginia|56139757|Washington, D.C.|1|2
+31135129|fairfax, virginia|29557768|la|1|2
+31135129|fairfax, virginia|0|Error|1|2
+31135129|fairfax, virginia|22304015|Error|1|2
+31135129|fairfax, virginia|2900896622|Error|1|2
+31135129|fairfax, virginia|19245592|Lala Land - Los Angeles, CA |1|2
+31135129|fairfax, virginia|0|Error|1|2
+31135129|fairfax, virginia|0|Error|1|2
+31135129|fairfax, virginia|587295277|Error|1|2
+31135129|fairfax, virginia|0|Error|1|2
+86328621|fairfax, virginia|86328621|Tysons Corner, Virginia|12|2
+86328621|fairfax, virginia|63940347|Washington, DC|6|2
+86328621|fairfax, virginia|0|Error|4|2
+86328621|fairfax, virginia|17011345|Seattle|3|2
+86328621|fairfax, virginia|16473793|Is this Heaven?|3|2
+86328621|fairfax, virginia|21642458|Santa's Workshop|3|2
+86328621|fairfax, virginia|11435642|New York, NY|3|2
+86328621|fairfax, virginia|14238142|Washington, DC|2|2
+86328621|fairfax, virginia|19778177|Paris / London|2|2
+86328621|fairfax, virginia|24407244|Hollywood|2|2
+86328621|fairfax, virginia|21246050|Author.Strategist.Entrepreneur|2|2
+86328621|fairfax, virginia|74479672|California|1|2
+86328621|fairfax, virginia|0|Error|1|2
+86328621|fairfax, virginia|20932730|Bucharest, Romania|1|2
+86328621|fairfax, virginia|19750623|Royal Oak, MI|1|2
+86328621|fairfax, virginia|50620377|Paris, France|1|2
+86328621|fairfax, virginia|36412963|Amman, Jordan|1|2
+86328621|fairfax, virginia|143205253|Error|1|2
+86328621|fairfax, virginia|15679679|Fairfax, VA|1|2
+86328621|fairfax, virginia|21876065|Fort Lauderdale, FL|1|2
+86328621|fairfax, virginia|19505248|Michigan, USA|1|2
+86328621|fairfax, virginia|16101810|Fairfax County, VA|1|2
+86328621|fairfax, virginia|0|Error|1|2
+86328621|fairfax, virginia|0|Error|1|2
+86328621|fairfax, virginia|0|Error|1|2
+86328621|fairfax, virginia|86095321|DC Metropolitan Area|1|2
+86328621|fairfax, virginia|2883841|Los Angeles, CA|1|2
+86328621|fairfax, virginia|16246725|Washington, DC|1|2
+86328621|fairfax, virginia|15908028|Washington, DC|1|2
+86328621|fairfax, virginia|23832022|Worldwide |1|2
+86328621|fairfax, virginia|19739126|California|1|2
+756373|fairfax, virginia|2279040498|Error|2|2
+756373|fairfax, virginia|13348|Half Moon Bay, California, USA|1|2
+756373|fairfax, virginia|9867582|San Clemente, California|1|2
+756373|fairfax, virginia|14521617|JERSEY|1|2
+756373|fairfax, virginia|4898091|London, UK|1|2
+756373|fairfax, virginia|0|Error|1|2
+756373|fairfax, virginia|4119741|Error|1|2
+756373|fairfax, virginia|1734381|Australia|1|2
+756373|fairfax, virginia|0|Error|1|2
+756373|fairfax, virginia|34173748|San Francisco|1|2
+756373|fairfax, virginia|2384071|Oakland, CA|1|2
+756373|fairfax, virginia|17164824|01950|1|2
+756373|fairfax, virginia|17409240|Washington, D.C.|1|2
+14923820|fairfax, virginia|870450487|San Francisco|5|2
+14923820|fairfax, virginia|0|Error|4|2
+14923820|fairfax, virginia|15283165|Birmingham, AL|4|2
+14923820|fairfax, virginia|101348337|Error|3|2
+14923820|fairfax, virginia|1390951|Chicago|3|2
+14923820|fairfax, virginia|14067912|Silicon Valley|2|2
+14923820|fairfax, virginia|248768068|Arlington, VA|2|2
+14923820|fairfax, virginia|13944442|Error|1|2
+14923820|fairfax, virginia|12808502|Washington, DC|1|2
+14923820|fairfax, virginia|2646886861|Error|1|2
+14923820|fairfax, virginia|14749606|San Francisco, CA|1|2
+14923820|fairfax, virginia|2003741|Sydney|1|2
+14923820|fairfax, virginia|3308171|Charlottesville, VA, USA|1|2
+14923820|fairfax, virginia|22511868|Error|1|2
+14923820|fairfax, virginia|18555180|San Francisco, CA|1|2
+14923820|fairfax, virginia|78547719|Error|1|2
+14923820|fairfax, virginia|350042055|india, asia|1|2
+14923820|fairfax, virginia|19915096|Chicago|1|2
+14923820|fairfax, virginia|14079408|Austin, TX (!)|1|2
+14923820|fairfax, virginia|0|Error|1|2
+14923820|fairfax, virginia|0|Error|1|2
+14923820|fairfax, virginia|14576372|San Jose, CA|1|2
+14923820|fairfax, virginia|18089998|San Diego, CA|1|2
+14923820|fairfax, virginia|3080761|Bay Area, California|1|2
+14923820|fairfax, virginia|31627075|Scottsdale, AZ|1|2
+62868151|fairfax, virginia|36777560|Parkland County #yeg|1|2
+18754112|fairfax, virginia|0|Error|3|2
+18754112|fairfax, virginia|2574359744|Maryland (PG County)|3|2
+18754112|fairfax, virginia|22875913|Error|2|2
+18754112|fairfax, virginia|0|Error|2|2
+18754112|fairfax, virginia|0|Error|2|2
+18754112|fairfax, virginia|0|Error|2|2
+18754112|fairfax, virginia|0|Error|1|2
+18754112|fairfax, virginia|0|Error|1|2
+18754112|fairfax, virginia|0|Error|1|2
+18754112|fairfax, virginia|8320242|ubiquitous|1|2
+18754112|fairfax, virginia|546145301|Error|1|2
+18754112|fairfax, virginia|17740885|IG: 19IsHisNumber|1|2
+18754112|fairfax, virginia|0|Error|1|2
+31135129|fairfax, virginia|30468150|Kansas City, Missouri|4|2
+31135129|fairfax, virginia|0|Error|3|2
+31135129|fairfax, virginia|28594057|LOST|2|2
+31135129|fairfax, virginia|18660296|Los Angeles, CA|1|2
+31135129|fairfax, virginia|235403137|Error|1|2
+31135129|fairfax, virginia|403178771|805, CA|1|2
+31135129|fairfax, virginia|29545344|Error|1|2
+31135129|fairfax, virginia|0|Error|1|2
+31135129|fairfax, virginia|24111637|Los Angeles, CA|1|2
+31135129|fairfax, virginia|23859397|Error|1|2
+24477502|fairfax, virginia|16282245|hel(la)|2|2
+24477502|fairfax, virginia|18734884|Heart's in Baltimore|2|2
+24477502|fairfax, virginia|18378446|Baltimore, MD|2|2
+24477502|fairfax, virginia|2534137682|Oak View, CA|1|2
+24477502|fairfax, virginia|0|Error|1|2
+24477502|fairfax, virginia|0|Error|1|2
+24477502|fairfax, virginia|0|Error|1|2
+24477502|fairfax, virginia|2765629311|Error|1|2
+24477502|fairfax, virginia|69491538|Error|1|2
+24477502|fairfax, virginia|2972170649|Error|1|2
+24477502|fairfax, virginia|67657019|New York City|1|2
+24477502|fairfax, virginia|1286694072|Spring Hill, Fl|1|2
+24477502|fairfax, virginia|22978530|Sunny San Diego|1|2
+57266613|fairfax, virginia|1201830007|Error|3|2
+57266613|fairfax, virginia|21619519|Connecticut|3|2
+57266613|fairfax, virginia|15227650|Error|2|2
+57266613|fairfax, virginia|2557521|Bristol, CT|1|2
+57266613|fairfax, virginia|16280644|Southwest |1|2
+57266613|fairfax, virginia|18296549|Error|1|2
+57266613|fairfax, virginia|7429102|Virginia|1|2
+57266613|fairfax, virginia|18227519|New York, New York|1|2
+57266613|fairfax, virginia|18547171|Atlanta, GA, USA|1|2
+57266613|fairfax, virginia|538446646|washington dc|1|2
+57266613|fairfax, virginia|47801895|http://bit.ly/d3v0FL [NYC]|1|2
+38468011|fairfax, virginia|21566455|Los Angeles, CA|1|2
+38468011|fairfax, virginia|29756343|Northeast Florida|1|2

@@ -1,0 +1,3676 @@
+15860109|san jose, ca|32619948|Beverage Department/Bartender|3|2
+15860109|san jose, ca|9335002|London/Los Angeles|1|2
+43647454|san jose, ca|47534968|Nashville, TN|2|2
+43647454|san jose, ca|9856272|Lexington, KY|2|2
+43647454|san jose, ca|86616754|NYC|1|2
+43647454|san jose, ca|0|Error|1|2
+43647454|san jose, ca|308360245|Wifiland|1|2
+43647454|san jose, ca|32612273|Dallas, TX|1|2
+43647454|san jose, ca|47473077|Error|1|2
+43647454|san jose, ca|44740201|New York City|1|2
+43647454|san jose, ca|29730067|Error|1|2
+43647454|san jose, ca|329903035|brasil|1|2
+43647454|san jose, ca|45842893|California|1|2
+43647454|san jose, ca|0|Error|1|2
+43647454|san jose, ca|15258479|San Diego and South Lake Tahoe|1|2
+43647454|san jose, ca|0|Error|1|2
+43647454|san jose, ca|2534001|TX and FL|1|2
+43647454|san jose, ca|34690788|Texas|1|2
+2442|san jose, california|45639860|bay area|5|2
+2442|san jose, california|20|San Francisco, CA, US|4|2
+2442|san jose, california|936|San Jose, California|3|2
+2442|san jose, california|7793052|Campbell, CA|2|2
+2442|san jose, california|57758347|San Jose, California|1|2
+2442|san jose, california|53|Error|1|2
+2442|san jose, california|17902048|San Jose, CA |1|2
+2442|san jose, california|3682|Error|1|2
+2442|san jose, california|8521792|Santa Clara|1|2
+2442|san jose, california|15490400|Error|1|2
+2442|san jose, california|7839422|portland, oregon|1|2
+2442|san jose, california|30063272|Dogpatch, San Francisco|1|2
+2442|san jose, california|44216780|Error|1|2
+2442|san jose, california|23374816|Redondo Beach, Ca|1|2
+2442|san jose, california|2796101|My House|1|2
+2442|san jose, california|0|Error|1|2
+17542472|san jose, ca|18612496|Joliet, IL|2|2
+17542472|san jose, ca|17542472|San Jose, CA|2|2
+17542472|san jose, ca|13477092|Error|2|2
+17542472|san jose, ca|0|Error|1|2
+17542472|san jose, ca|14314075|Cleveland, OH|1|2
+17542472|san jose, ca|15300700|San Francisco|1|2
+17542472|san jose, ca|0|Error|1|2
+17542472|san jose, ca|19160108|Worcester, MA|1|2
+17542472|san jose, ca|0|Error|1|2
+17542472|san jose, ca|74888746|Campbell, CA|1|2
+17542472|san jose, ca|14075571|Bay Area, CA|1|2
+17542472|san jose, ca|0|Error|1|2
+17542472|san jose, ca|10920012|New York, NY|1|2
+17542472|san jose, ca|0|Error|1|2
+17542472|san jose, ca|10294462|Tolland, CT|1|2
+17542472|san jose, ca|41553|Oakland, CA|1|2
+17542472|san jose, ca|130584275|Denver, Colorado|1|2
+17542472|san jose, ca|0|Error|1|2
+17542472|san jose, ca|0|Error|1|2
+17542472|san jose, ca|0|Error|1|2
+17542472|san jose, ca|18889960|Santa Clara, CA|1|2
+17542472|san jose, ca|0|Error|1|2
+17542472|san jose, ca|16508301|NJ | NYC|1|2
+31592795|san jose, ca|49598489|Error|2|2
+31592795|san jose, ca|17349135|Tennessee|1|2
+31592795|san jose, ca|284745489|Error|1|2
+31592795|san jose, ca|15066271|New York, NY|1|2
+31592795|san jose, ca|69617165|NY,Chicago,Philly,Dallas,FW|1|2
+31592795|san jose, ca|71276301|Pittsburgh, Pennsylvania|1|2
+31592795|san jose, ca|0|Error|1|2
+31592795|san jose, ca|39763928|Silicon Valley, California|1|2
+31592795|san jose, ca|0|Error|1|2
+31592795|san jose, ca|0|Error|1|2
+31592795|san jose, ca|48463442|iPhone: 50.726181,-1.842720|1|2
+31592795|san jose, ca|16380473|iPhone: 47.645592,-122.521591|1|2
+23729415|san jose, ca|21575477|Error|1|2
+23729415|san jose, ca|0|Error|1|2
+18438362|san jose, ca|47667972|Error|3|2
+18438362|san jose, ca|5413042|Error|1|2
+18438362|san jose, ca|1465481|The 1980s|1|2
+18438362|san jose, ca|35768982|Brooklyn, NY|1|2
+18438362|san jose, ca|16181584|Error|1|2
+18438362|san jose, ca|42110634|San Francisco, CA|1|2
+18438362|san jose, ca|15741547|Long Beach, CA.|1|2
+18438362|san jose, ca|22225834|Omaha, NE, USA|1|2
+18438362|san jose, ca|13461662|Chicago, IL|1|2
+18438362|san jose, ca|17714858|San Francisco & Milan|1|2
+18438362|san jose, ca|24048220|Oakland, CA|1|2
+18438362|san jose, ca|39680464|Toronto|1|2
+18438362|san jose, ca|6689622|Meatspace|1|2
+4068781|san jose, ca|0|Error|1|2
+4068781|san jose, ca|13837292|Silicon Valley|1|2
+4068781|san jose, ca|14267706|Exeter, UK|1|2
+4068781|san jose, ca|0|Error|1|2
+4068781|san jose, ca|0|Error|1|2
+4068781|san jose, ca|0|Error|1|2
+18880635|san jose, ca|14355851|Error|3|2
+18880635|san jose, ca|0|Error|2|2
+18880635|san jose, ca|15620243|Global|2|2
+18880635|san jose, ca|19700399|Your neighborhood|2|2
+18880635|san jose, ca|296106909|Northamptonshire|2|2
+18880635|san jose, ca|8453452|Silicon Valley, California|1|2
+18880635|san jose, ca|14424031|All Over the World|1|2
+18880635|san jose, ca|0|Error|1|2
+18880635|san jose, ca|17551600|Richmond, VA|1|2
+18880635|san jose, ca|18653934|New York, NY|1|2
+18880635|san jose, ca|14074700|Error|1|2
+18880635|san jose, ca|19771162|Lansing, Michigan|1|2
+18880635|san jose, ca|22334514|PDX|1|2
+18880635|san jose, ca|71662916|Portland, OR|1|2
+18880635|san jose, ca|14118937|Berkshire, UK|1|2
+18880635|san jose, ca|0|Error|1|2
+18880635|san jose, ca|0|Error|1|2
+18880635|san jose, ca|6505892|SF | L.A via Laguna Beach|1|2
+18880635|san jose, ca|753718676|Error|1|2
+18880635|san jose, ca|130380375|Atlanta, GA|1|2
+18880635|san jose, ca|0|Error|1|2
+18880635|san jose, ca|21820770|Estevan|1|2
+18880635|san jose, ca|3345823138|Error|1|2
+18880635|san jose, ca|16262733|Cambridge, MA|1|2
+18880635|san jose, ca|16846554|Silicon Valley  |1|2
+14950452|san jose, ca|37227485|Arkansas, baby!|5|2
+14950452|san jose, ca|15476482|Colorado|4|2
+14950452|san jose, ca|17537567|Northern Virginia|3|2
+14950452|san jose, ca|45507588|New York, NY|3|2
+14950452|san jose, ca|62033128|Tallahassee, FL|2|2
+14950452|san jose, ca|140600292|Los Angeles|2|2
+14950452|san jose, ca|30031281|Kentucky|1|2
+14950452|san jose, ca|20485306|Indiana|1|2
+14950452|san jose, ca|59734872|Error|1|2
+14950452|san jose, ca|14381145|Australia|1|2
+14950452|san jose, ca|21871180|USA|1|2
+14950452|san jose, ca|17297074|Error|1|2
+14950452|san jose, ca|594846156|Error|1|2
+14950452|san jose, ca|16027532|Little Rock, AR|1|2
+14950452|san jose, ca|20204799|Pennsylvania|1|2
+14950452|san jose, ca|40872147|New York|1|2
+14950452|san jose, ca|40001530|An American in London|1|2
+14950452|san jose, ca|320078915|Error|1|2
+14950452|san jose, ca|14951777|Silicon Valley|1|2
+14950452|san jose, ca|31968180|Chicago|1|2
+14950452|san jose, ca|0|Error|1|2
+55772579|san jose, ca|57441020|Winston Salem, North Carolina|1|2
+55772579|san jose, ca|148573022|Error|1|2
+55772579|san jose, ca|37063049|Lewes England|1|2
+55772579|san jose, ca|0|Error|1|2
+55772579|san jose, ca|165281065|Error|1|2
+55772579|san jose, ca|53036323|Error|1|2
+55772579|san jose, ca|1332966181|? Everything ...|1|2
+55772579|san jose, ca|33066917|Scotland|1|2
+55772579|san jose, ca|293487624|Error|1|2
+55772579|san jose, ca|47663910|San Jose, CA, USA|1|2
+55772579|san jose, ca|0|Error|1|2
+55772579|san jose, ca|381008866|Error|1|2
+55772579|san jose, ca|70687295|UK|1|2
+55772579|san jose, ca|20416880|Error|1|2
+55772579|san jose, ca|23841113|Error|1|2
+55772579|san jose, ca|72348125|Carmel, California|1|2
+25699274|san jose, ca|6100782|san jose, ca|3|2
+25699274|san jose, ca|17642849|hobo|1|2
+25699274|san jose, ca|42889156|Error|1|2
+25699274|san jose, ca|0|Error|1|2
+25699274|san jose, ca|1908153631|New York City|1|2
+25699274|san jose, ca|21730838|Error|1|2
+25699274|san jose, ca|15222591|Brooklyn, NY|1|2
+25699274|san jose, ca|0|Error|1|2
+25699274|san jose, ca|53316290|Cape Town, RSA|1|2
+25699274|san jose, ca|11009852|San Francisco/Silicon Valley|1|2
+15737980|san jose, ca|20790338|US and Worldwide|3|2
+15737980|san jose, ca|2936811|Kennewick, WA|3|2
+15737980|san jose, ca|15737980|San Jose, CA|3|2
+15737980|san jose, ca|47686671|Birmingham, MI|2|2
+15737980|san jose, ca|2106161|New York|2|2
+15737980|san jose, ca|0|Error|1|2
+15737980|san jose, ca|411299748|Error|1|2
+15737980|san jose, ca|11883132|San Francisco|1|2
+15737980|san jose, ca|0|Error|1|2
+15737980|san jose, ca|0|Error|1|2
+15737980|san jose, ca|44654383|Cambridge, UK|1|2
+15737980|san jose, ca|0|Error|1|2
+15737980|san jose, ca|272037992|In an RV, on the road|1|2
+15737980|san jose, ca|3857391|Fort Worth, TX|1|2
+15737980|san jose, ca|38871826|Pacific Northwest|1|2
+15737980|san jose, ca|0|Error|1|2
+15737980|san jose, ca|12193402|Israel|1|2
+15737980|san jose, ca|22860457|USA|1|2
+15737980|san jose, ca|27898491|Houston, TX area|1|2
+15737980|san jose, ca|26035718|London|1|2
+15737980|san jose, ca|0|Error|1|2
+15737980|san jose, ca|5667502|Bastrop, TX|1|2
+15737980|san jose, ca|1294753250|Error|1|2
+15737980|san jose, ca|23567898|Frisco, TX|1|2
+15737980|san jose, ca|21949247|Seattle|1|2
+15737980|san jose, ca|14206519|Redwood City, CA|1|2
+15737980|san jose, ca|0|Error|1|2
+15737980|san jose, ca|18447306|London, England|1|2
+15737980|san jose, ca|46487487|Tampa, FL|1|2
+15737980|san jose, ca|55054386|Dallas/Fort Worth, TX|1|2
+15737980|san jose, ca|74804455|Minneapolis|1|2
+15737980|san jose, ca|25920154|Error|1|2
+15737980|san jose, ca|15942116|Dallas, TX|1|2
+15737980|san jose, ca|26304269|Palo Alto, CA USA|1|2
+15737980|san jose, ca|0|Error|1|2
+15737980|san jose, ca|0|Error|1|2
+15737980|san jose, ca|0|Error|1|2
+15737980|san jose, ca|16548463|Texas|1|2
+15737980|san jose, ca|14870804|Arlington, TX|1|2
+15737980|san jose, ca|16743328|D/FW area, TX|1|2
+15737980|san jose, ca|80066702|San Jose, CA|1|2
+15737980|san jose, ca|333385227|www.twitter.com/john_sileo|1|2
+14812736|san jose, ca|14253084|St. Simons & Jekyll Island, GA|3|2
+14812736|san jose, ca|0|Error|2|2
+14812736|san jose, ca|65383638|Toronto|2|2
+14812736|san jose, ca|87367009|North Carolina|1|2
+14812736|san jose, ca|9226312|evansville, indiana  |1|2
+14812736|san jose, ca|17334356|Error|1|2
+14812736|san jose, ca|0|Error|1|2
+14812736|san jose, ca|19873168|BC Canada|1|2
+14812736|san jose, ca|46688034|Worldwide|1|2
+14812736|san jose, ca|23505989|Error|1|2
+14812736|san jose, ca|12728672|Toronto|1|2
+14812736|san jose, ca|35652803|Washington, DC|1|2
+14812736|san jose, ca|0|Error|1|2
+14812736|san jose, ca|25111784|New York|1|2
+14812736|san jose, ca|0|Error|1|2
+14812736|san jose, ca|0|Error|1|2
+14812736|san jose, ca|7559042|a plane, probably|1|2
+14812736|san jose, ca|359412299|Memphis, TN|1|2
+14812736|san jose, ca|2169798571|Error|1|2
+14812736|san jose, ca|18839517|Northern California|1|2
+17609053|san jose, ca|57032621|Clifton, NJ|4|2
+17609053|san jose, ca|20017958|Aurora, IL|4|2
+17609053|san jose, ca|294602883|Houston, TX|2|2
+17609053|san jose, ca|0|Error|2|2
+17609053|san jose, ca|146695463|Los Angeles + |2|2
+17609053|san jose, ca|18096343|Louisville, Kentucky|2|2
+17609053|san jose, ca|0|Error|2|2
+17609053|san jose, ca|36214651|Error|2|2
+17609053|san jose, ca|280820657|Error|2|2
+17609053|san jose, ca|0|Error|2|2
+17609053|san jose, ca|0|Error|2|2
+17609053|san jose, ca|18380532|Error|1|2
+17609053|san jose, ca|2198395495|Error|1|2
+17609053|san jose, ca|0|Error|1|2
+17609053|san jose, ca|0|Error|1|2
+17609053|san jose, ca|0|Error|1|2
+17609053|san jose, ca|16661207|Error|1|2
+17609053|san jose, ca|164081726|Error|1|2
+17609053|san jose, ca|30809704| Louisiana/Ohio|1|2
+17609053|san jose, ca|3345364007|Error|1|2
+17609053|san jose, ca|18213083|NEW YORK/NEW PHILLY|1|2
+17609053|san jose, ca|18085638|Hobbit Holes Holed Up, NYC|1|2
+17609053|san jose, ca|0|Error|1|2
+17609053|san jose, ca|17915107|PHL / LA / NYC|1|2
+17609053|san jose, ca|19501835|Koreatown, Los Angeles|1|2
+26135125|san jose, ca|0|Error|3|2
+26135125|san jose, ca|26908744|Error|3|2
+26135125|san jose, ca|20409921|Los Angeles, CA|2|2
+26135125|san jose, ca|0|Error|1|2
+26135125|san jose, ca|38597550|San Jose, CA|1|2
+26135125|san jose, ca|37847568|bay area|1|2
+26135125|san jose, ca|469448559|Error|1|2
+26135125|san jose, ca|0|Error|1|2
+26135125|san jose, ca|0|Error|1|2
+26135125|san jose, ca|381281703|Error|1|2
+26135125|san jose, ca|66594178|Pallet Town|1|2
+26135125|san jose, ca|15771995|Boston|1|2
+26135125|san jose, ca|18272771|I DONT KNOW|1|2
+26135125|san jose, ca|0|Error|1|2
+26135125|san jose, ca|21415041|ATL-LAX-SFO-SIN-TPE|1|2
+26135125|san jose, ca|767456030|Error|1|2
+26135125|san jose, ca|18888283|In your girls Twizzy|1|2
+26135125|san jose, ca|190175016|jinjiang fujian China|1|2
+26135125|san jose, ca|314183289|Error|1|2
+26135125|san jose, ca|39215095|Error|1|2
+26135125|san jose, ca|0|Error|1|2
+26135125|san jose, ca|0|Error|1|2
+26135125|san jose, ca|14118265|Error|1|2
+26135125|san jose, ca|17903190|Bay Area|1|2
+26135125|san jose, ca|0|Error|1|2
+43396357|san jose, ca|39404894|Santa Barbara, CA|7|2
+43396357|san jose, ca|2188555428|Error|2|2
+43396357|san jose, ca|28948665|carmen sandy egos|2|2
+43396357|san jose, ca|26400689|Error|1|2
+43396357|san jose, ca|22742225|chino|1|2
+43396357|san jose, ca|0|Error|1|2
+35794613|san jose, ca|133483495|Error|16|2
+35794613|san jose, ca|0|Error|5|2
+35794613|san jose, ca|21057299|Chi-Town born; Bay Cali bred.|4|2
+35794613|san jose, ca|20504648|PLANET EARTH|2|2
+35794613|san jose, ca|0|Error|1|2
+35794613|san jose, ca|347002675|Tellus, Milky Way|1|2
+35794613|san jose, ca|19197110|Bay Area|1|2
+35794613|san jose, ca|30309979|New York, NY|1|2
+35794613|san jose, ca|27989078|Error|1|2
+22425339|san jose, ca|2165167567|Error|2|2
+22425339|san jose, ca|14735166|Anchorage, AK|1|2
+22425339|san jose, ca|43893714|Austin Texas|1|2
+22425339|san jose, ca|15780885|Iowa|1|2
+22425339|san jose, ca|42696744|Georgia|1|2
+22163953|san jose, ca|0|Error|2|2
+22163953|san jose, ca|264036590|Error|2|2
+22163953|san jose, ca|17846406|Error|2|2
+22163953|san jose, ca|0|Error|1|2
+22163953|san jose, ca|0|Error|1|2
+22163953|san jose, ca|15537451|Error|1|2
+22163953|san jose, ca|0|Error|1|2
+22163953|san jose, ca|48496987|Error|1|2
+22163953|san jose, ca|52820273|The Coliseum|1|2
+22163953|san jose, ca|25387545|Error|1|2
+22163953|san jose, ca|52179347|Tempe, AZ|1|2
+22163953|san jose, ca|243333479|SF|1|2
+22163953|san jose, ca|0|Error|1|2
+22163953|san jose, ca|0|Error|1|2
+22163953|san jose, ca|68822920|San Francisco Bay Area|1|2
+22163953|san jose, ca|17884196|New York|1|2
+22163953|san jose, ca|0|Error|1|2
+17970412|san jose, california|22573622|Albuquerque, NM, USA|8|2
+17970412|san jose, california|9306542|New York|3|2
+17970412|san jose, california|17569105|Ashland, Oregon|3|2
+17970412|san jose, california|10859812|Arlington, VA; Washington, DC|2|2
+17970412|san jose, california|362813744|NYC|2|2
+17970412|san jose, california|2307776510|Error|1|2
+17970412|san jose, california|18172350|Vancouver Washington|1|2
+17970412|san jose, california|1384531|Portland, OR|1|2
+17970412|san jose, california|2228734814|Washington, DC|1|2
+17970412|san jose, california|15054733|Dallas, TX|1|2
+17970412|san jose, california|18262412|Overland Park, KS|1|2
+17970412|san jose, california|15|San Francisco|1|2
+17970412|san jose, california|22435079|Boston. In the moment.|1|2
+17970412|san jose, california|0|Error|1|2
+17970412|san jose, california|0|Error|1|2
+17970412|san jose, california|14184764|Vienna, Austria|1|2
+17970412|san jose, california|0|Error|1|2
+67067481|san jose, ca|67067481|San Jose, CA|1|2
+67067481|san jose, ca|13544042|Redwood City, CA|1|2
+801347|san jose, ca|0|Error|6|2
+801347|san jose, ca|490511081|Error|3|2
+801347|san jose, ca|12708972|San Diego|3|2
+801347|san jose, ca|11789832|Boston, MA|3|2
+801347|san jose, ca|14551527|Denver, CO|3|2
+801347|san jose, ca|811111|Lansing, MI|2|2
+801347|san jose, ca|0|Error|2|2
+801347|san jose, ca|801347|San Jose, CA. May 2014|2|2
+801347|san jose, ca|789849|Earth v2|2|2
+801347|san jose, ca|14973425|Madison, AL|2|2
+801347|san jose, ca|7232752|bicoastal|2|2
+801347|san jose, ca|37162684|Denver, Colorado|2|2
+801347|san jose, ca|11929252|Everywhere|2|2
+801347|san jose, ca|0|Error|2|2
+801347|san jose, ca|692323|DownUnder|2|2
+801347|san jose, ca|6765752|Sydney Australia|2|2
+801347|san jose, ca|0|Error|1|2
+801347|san jose, ca|12525722|internet, sk8park, Denver|1|2
+801347|san jose, ca|17313104|Palo Alto, CA|1|2
+801347|san jose, ca|2941831|DC via South Dakota|1|2
+801347|san jose, ca|191508527|NYC|1|2
+801347|san jose, ca|16413757|Utah|1|2
+801347|san jose, ca|9845202|Washington, DC|1|2
+801347|san jose, ca|15914175|USA|1|2
+801347|san jose, ca|7313012|New York|1|2
+801347|san jose, ca|144678202|Error|1|2
+801347|san jose, ca|6773532|Boston, MA|1|2
+801347|san jose, ca|0|Error|1|2
+801347|san jose, ca|5907962|Seattle|1|2
+801347|san jose, ca|17175915|Fishers, IN|1|2
+801347|san jose, ca|18813905|Error|1|2
+801347|san jose, ca|15172837|SF / LA / Hamburg|1|2
+801347|san jose, ca|11414|Seattle, WA|1|2
+801347|san jose, ca|23085852|CT|1|2
+801347|san jose, ca|289633103|Newport Beach, CA|1|2
+801347|san jose, ca|16264836|New York, NY|1|2
+801347|san jose, ca|14675801|Error|1|2
+801347|san jose, ca|801157|Denver, CO 80205|1|2
+801347|san jose, ca|0|Error|1|2
+801347|san jose, ca|56517416|Worldwide|1|2
+801347|san jose, ca|15177057|Denver, CO|1|2
+801347|san jose, ca|8162622|Error|1|2
+801347|san jose, ca|1410108103|Error|1|2
+801347|san jose, ca|17342264|Cincinnati, OH|1|2
+801347|san jose, ca|14322901|Indianapolis, IN|1|2
+801347|san jose, ca|808904|on your server|1|2
+801347|san jose, ca|16263434|Denver, CO|1|2
+801347|san jose, ca|14242089|Error|1|2
+801347|san jose, ca|811146|Seattle, WA, USA|1|2
+17840894|san jose, ca|0|Error|6|2
+17840894|san jose, ca|545097479|d.c.|5|2
+17840894|san jose, ca|17840894|San Jose, CA|5|2
+17840894|san jose, ca|15497992|Fresno, California|4|2
+17840894|san jose, ca|15295503|Los Angeles, CA|4|2
+17840894|san jose, ca|17569574|LA, CA|4|2
+17840894|san jose, ca|86827741|SF Bay Area|4|2
+17840894|san jose, ca|18557961|SF Bay Area|3|2
+17840894|san jose, ca|0|Error|3|2
+17840894|san jose, ca|36247854|SoCal, CA|3|2
+17840894|san jose, ca|20421430|deep south|3|2
+17840894|san jose, ca|22225148|San Diego, CA|2|2
+17840894|san jose, ca|63180101|San Jose, CA|2|2
+17840894|san jose, ca|32784016|NYC|2|2
+17840894|san jose, ca|980611|West Coast|2|2
+17840894|san jose, ca|77003453|San Jose, CA|2|2
+17840894|san jose, ca|14214823|Orlando, FL, United States|2|2
+17840894|san jose, ca|11063312|San Jose, Ca|2|2
+17840894|san jose, ca|18643191|World citizen|2|2
+17840894|san jose, ca|19057701|Gwangju, South Korea|2|2
+17840894|san jose, ca|77062281|SoCal|2|2
+17840894|san jose, ca|14209651|Silicon Valley|2|2
+17840894|san jose, ca|2245726256|Denver, Colorado|2|2
+17840894|san jose, ca|76457707|iPhone: 0.000000,0.000000|2|2
+17840894|san jose, ca|14688377|Silicon Valley|2|2
+17840894|san jose, ca|188330051|Error|2|2
+17840894|san jose, ca|21065682|Orange County, CA|2|2
+17840894|san jose, ca|16257516|Studio City, CA|1|2
+17840894|san jose, ca|0|Error|1|2
+17840894|san jose, ca|57722810|Germany|1|2
+17840894|san jose, ca|16566808|The Triskelion|1|2
+17840894|san jose, ca|23276020|San Diego County, CA|1|2
+17840894|san jose, ca|36229876|SoCal, CA|1|2
+17840894|san jose, ca|1112792870|Error|1|2
+17840894|san jose, ca|14336472|Charleston, WV|1|2
+17840894|san jose, ca|46707560|San Francisco Bay Area|1|2
+17840894|san jose, ca|2390651|Silicon Valley|1|2
+17840894|san jose, ca|19397785|Error|1|2
+17840894|san jose, ca|18634085|Chicago, Illinois|1|2
+17840894|san jose, ca|69048032|Boise|1|2
+17840894|san jose, ca|15350894|Hercules, California|1|2
+17840894|san jose, ca|3725701|Salt Lake City, Utah|1|2
+17840894|san jose, ca|0|Error|1|2
+17840894|san jose, ca|3004226165|Chicago|1|2
+17840894|san jose, ca|0|Error|1|2
+17840894|san jose, ca|48109360|Los Angeles|1|2
+17840894|san jose, ca|4261981|Palo Alto, California|1|2
+17840894|san jose, ca|28139259|SFO/LAX/Internetz|1|2
+17840894|san jose, ca|8069572|Marin County, CA|1|2
+17840894|san jose, ca|0|Error|1|2
+17840894|san jose, ca|0|Error|1|2
+17840894|san jose, ca|20686934|New Jersey|1|2
+17840894|san jose, ca|9332542|San Francisco, CA|1|2
+17840894|san jose, ca|62581962|Error|1|2
+17840894|san jose, ca|26761113|Atlanta|1|2
+17840894|san jose, ca|17241517|just outside the Beltway|1|2
+17840894|san jose, ca|19463984|Upstate Nooo Yawk|1|2
+17840894|san jose, ca|0|Error|1|2
+17840894|san jose, ca|45471421|San Jose, CA|1|2
+17840894|san jose, ca|20057010|wouldn't you like to know|1|2
+17840894|san jose, ca|22851274|San Jose, CA|1|2
+17840894|san jose, ca|15075459|Bay Area, CA|1|2
+17840894|san jose, ca|10355|Bay Area, California|1|2
+17840894|san jose, ca|87531007|San Jose|1|2
+17840894|san jose, ca|21631775|Error|1|2
+17840894|san jose, ca|28008856|Error|1|2
+17840894|san jose, ca|0|Error|1|2
+17840894|san jose, ca|9056642|Bay Area, USA|1|2
+17840894|san jose, ca|24431892|Berkeley, California|1|2
+17641645|san jose, ca|69746094|the boonies|1|2
+17641645|san jose, ca|0|Error|1|2
+17641645|san jose, ca|18235800|Error|1|2
+17641645|san jose, ca|54364844|Omaha, NE|1|2
+17641645|san jose, ca|72871798|Error|1|2
+17641645|san jose, ca|3360961|San Francisco, CA|1|2
+17641645|san jose, ca|0|Error|1|2
+20201170|san jose, ca|20201170|San Jose, CA|7|2
+20201170|san jose, ca|12254582|Toronto|6|2
+20201170|san jose, ca|18047973|Massachusetts|5|2
+20201170|san jose, ca|232926310|Boston|3|2
+20201170|san jose, ca|39977572|San Sebastian, Spain|3|2
+20201170|san jose, ca|37962023|In the gym!|3|2
+20201170|san jose, ca|16061253|Error|3|2
+20201170|san jose, ca|3837411443|Error|3|2
+20201170|san jose, ca|0|Error|2|2
+20201170|san jose, ca|18675582|Santa Monica|2|2
+20201170|san jose, ca|0|Error|2|2
+20201170|san jose, ca|0|Error|2|2
+20201170|san jose, ca|20468339|Eugene, OR|2|2
+20201170|san jose, ca|17345647|Miami, Internet|2|2
+20201170|san jose, ca|0|Error|2|2
+20201170|san jose, ca|1711223240|Error|2|2
+20201170|san jose, ca|312472023|New York|2|2
+20201170|san jose, ca|2298699847|Error|2|2
+20201170|san jose, ca|80914715|Error|2|2
+20201170|san jose, ca|0|Error|2|2
+20201170|san jose, ca|1584191|Error|2|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|138524272|Error|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|38962924|Basketball World|1|2
+20201170|san jose, ca|23850184|SoCal|1|2
+20201170|san jose, ca|15859184|Houston/At A Ballpark|1|2
+20201170|san jose, ca|21458817|San Diego, California|1|2
+20201170|san jose, ca|2240416472|Portland, OR|1|2
+20201170|san jose, ca|20445840|Right Here|1|2
+20201170|san jose, ca|17157736|Livin' the dream|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|59037337|Dallas, TX|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|14763806|New Jersey, NY, Philly|1|2
+20201170|san jose, ca|164186342|Error|1|2
+20201170|san jose, ca|15514016|Michigan|1|2
+20201170|san jose, ca|2200667736|Error|1|2
+20201170|san jose, ca|25019638|New York City|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|117840084|Purgatory|1|2
+20201170|san jose, ca|2982192461|Error|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|20782318|NYC - USA, BOMBAY - INDIA|1|2
+20201170|san jose, ca|25801078|East Lansing|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|19224716|Northside, Queens, NY |1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|32020007|Error|1|2
+20201170|san jose, ca|20961581|Denver|1|2
+20201170|san jose, ca|83212017|Earth|1|2
+20201170|san jose, ca|806615|San Antonio/San Marcos|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|32143499|In My Own Lane.|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|14613071|Toronto, Canada|1|2
+20201170|san jose, ca|25598495|World Wide|1|2
+20201170|san jose, ca|85961526|Connecticut|1|2
+20201170|san jose, ca|44561295|California|1|2
+20201170|san jose, ca|17322852|Austin|1|2
+20201170|san jose, ca|27032703|Brooklyn/NJ|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|30954765|Superior, WI|1|2
+20201170|san jose, ca|29280942|MPLS...DENVER...MPLS...NYC/NJ...ATLANTA|1|2
+20201170|san jose, ca|1402147549|Error|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|1258507338|Detroit, MI|1|2
+20201170|san jose, ca|74712632|Error|1|2
+20201170|san jose, ca|28462824|Downey, CA, USA or Costa Rica|1|2
+20201170|san jose, ca|56580687|http://www.cosida.com|1|2
+20201170|san jose, ca|15321506|Atlanta|1|2
+20201170|san jose, ca|23599323|Israel, Haifa|1|2
+20201170|san jose, ca|3322456692|Minneapolis, MN|1|2
+20201170|san jose, ca|402463685|Error|1|2
+20201170|san jose, ca|14170130|78721|1|2
+20201170|san jose, ca|18371803|San Antonio, Texas|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|15637096|Eugene, Oregon|1|2
+20201170|san jose, ca|1143031|Melbourne, Australia|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|15764001|USA TODAY|1|2
+20201170|san jose, ca|15900167|Milwaukee, WI|1|2
+20201170|san jose, ca|29349448|PDX|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|5885732|Beaverton, Oregon|1|2
+20201170|san jose, ca|39829513|San Jose, CA|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|4081481|New Jersey|1|2
+20201170|san jose, ca|1294231|San Francisco, CA|1|2
+20201170|san jose, ca|31006036|Error|1|2
+20201170|san jose, ca|20864162|Error|1|2
+20201170|san jose, ca|21050178|Portland Oregon|1|2
+20201170|san jose, ca|1115162401|Error|1|2
+20201170|san jose, ca|0|Error|1|2
+20201170|san jose, ca|16941578|Chicago|1|2
+20201170|san jose, ca|17273717|Chicago|1|2
+20201170|san jose, ca|385624926|Error|1|2
+17973522|san jose, ca|29112093|A tornado of roaring ferocity.|4|2
+17973522|san jose, ca|15069194|Hell's Broom Closet|3|2
+17973522|san jose, ca|0|Error|3|2
+17973522|san jose, ca|0|Error|2|2
+17973522|san jose, ca|0|Error|2|2
+17973522|san jose, ca|29004601|North of San Francisco|2|2
+17973522|san jose, ca|967745534|Error|2|2
+17973522|san jose, ca|160601677|Grand Theatre Lumiere|1|2
+17973522|san jose, ca|1018494937|Los Angeles|1|2
+17973522|san jose, ca|20591513|on a chair. there is a table a|1|2
+17973522|san jose, ca|14185226|Seattle|1|2
+17973522|san jose, ca|20365555|Edinburgh|1|2
+17973522|san jose, ca|38721199|Brooklyn, New York|1|2
+17973522|san jose, ca|16108728|Oakland, CA|1|2
+17973522|san jose, ca|18700305|Lewiston, ME|1|2
+17973522|san jose, ca|14231299|Chico, California|1|2
+22955371|san jose, ca|10642622|San Francisco, CA|1|2
+53757940|san jose, ca|67574227|Chasing dreams |10|2
+53757940|san jose, ca|81693278|all of cali usa|2|2
+53757940|san jose, ca|0|Error|1|2
+53757940|san jose, ca|0|Error|1|2
+53757940|san jose, ca|19397785|Error|1|2
+53757940|san jose, ca|177045075|st.louis missouri|1|2
+53757940|san jose, ca|29768180|Error|1|2
+53757940|san jose, ca|0|Error|1|2
+53757940|san jose, ca|25365536|where I'm meant to be...|1|2
+53757940|san jose, ca|0|Error|1|2
+53757940|san jose, ca|1043424901|jackson tennessee|1|2
+53757940|san jose, ca|47457296|Error|1|2
+53757940|san jose, ca|40529444|Hollywood|1|2
+53757940|san jose, ca|52939106|Los Angeles|1|2
+53757940|san jose, ca|365066474|Error|1|2
+53757940|san jose, ca|6786202|Error|1|2
+53757940|san jose, ca|23524337|San Francisco, CA|1|2
+53757940|san jose, ca|53153263|Error|1|2
+22431800|san jose, ca|561310394|Error|1|2
+22431800|san jose, ca|43818567|Silicon Valley|1|2
+22431800|san jose, ca|556276120|Error|1|2
+22431800|san jose, ca|0|Error|1|2
+13388932|san jose, ca|8453452|Silicon Valley, California|7|2
+13388932|san jose, ca|0|Error|3|2
+13388932|san jose, ca|19506790|Silicon Valley|3|2
+13388932|san jose, ca|76922788|Mumbai|2|2
+13388932|san jose, ca|839321|San Francisco, California|2|2
+13388932|san jose, ca|15531582|Error|1|2
+13388932|san jose, ca|334653491|Georgetown, tx|1|2
+13388932|san jose, ca|15503880|San Francisco, CA|1|2
+13388932|san jose, ca|9271782|Palo Alto, CA|1|2
+13388932|san jose, ca|19057567|Portsmouth NH 03801|1|2
+13388932|san jose, ca|17583639|Silicon Valley|1|2
+13388932|san jose, ca|3108351|New York, NY|1|2
+13388932|san jose, ca|15178072|London|1|2
+13388932|san jose, ca|14364049|Los Angeles|1|2
+13388932|san jose, ca|0|Error|1|2
+13388932|san jose, ca|316226727|Error|1|2
+13388932|san jose, ca|16247045|New York|1|2
+13388932|san jose, ca|5277981|Silicon Valley|1|2
+13388932|san jose, ca|14329127|Silicon Valley|1|2
+56904848|san jose, ca|34797228|San Jose, CA |7|2
+56904848|san jose, ca|34761183|Morgan Hill, CA|6|2
+56904848|san jose, ca|28454994|Morgan Hill, CA|5|2
+56904848|san jose, ca|0|Error|5|2
+56904848|san jose, ca|0|Error|3|2
+56904848|san jose, ca|50436469|NY, NY|2|2
+56904848|san jose, ca|56904848||Ride simply, Simply ride||2|2
+56904848|san jose, ca|0|Error|2|2
+56904848|san jose, ca|20921352|San Jose | Daly City|2|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|74330856|San Francisco|1|2
+56904848|san jose, ca|15695976|Sacramento, CA|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|2242873760|Error|1|2
+56904848|san jose, ca|3223529695|Error|1|2
+56904848|san jose, ca|21276514|San Diego, CA|1|2
+56904848|san jose, ca|17937406|Seattle, Wa|1|2
+56904848|san jose, ca|257224657|Error|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|87492330|Seattle, WA.|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|18658739|iPhone: 44.212597,-69.058945|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|53576840|SeHattle|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|451757918|Error|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|15141980|WORLDWIDE|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|306451511|Error|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|16189043|San Jose, CA|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|0|Error|1|2
+56904848|san jose, ca|260182109|Error|1|2
+15486538|san jose, ca|0|Error|3|2
+15486538|san jose, ca|15486538|San Jose, CA|2|2
+15486538|san jose, ca|0|Error|1|2
+15486538|san jose, ca|0|Error|1|2
+15486538|san jose, ca|17946856|San Jose, CA|1|2
+15486538|san jose, ca|28596709|San Francisco, CA|1|2
+15486538|san jose, ca|0|Error|1|2
+15486538|san jose, ca|0|Error|1|2
+15486538|san jose, ca|0|Error|1|2
+15486538|san jose, ca|18028848|los angeles|1|2
+15486538|san jose, ca|18128219|Minneapolis, MN|1|2
+15486538|san jose, ca|3891|global|1|2
+15486538|san jose, ca|0|Error|1|2
+15486538|san jose, ca|22602475|Melbourne, Australia|1|2
+15486538|san jose, ca|15879414|Error|1|2
+15486538|san jose, ca|0|Error|1|2
+85216953|san jose, ca|17251567|Burnley|3|2
+85216953|san jose, ca|18280854|San Diego CA|1|2
+85216953|san jose, ca|842842705|Error|1|2
+85216953|san jose, ca|37166580|Silicon Vally CA|1|2
+85216953|san jose, ca|37364014|Mill Valley, CA|1|2
+85216953|san jose, ca|40316065|Mostly YYC, YVR, YYZ & Cabin!|1|2
+85216953|san jose, ca|9921932|Deep Cove, Vancouver, Canada|1|2
+85216953|san jose, ca|38454969|Corpus Christi,TX|1|2
+4607991|san jose, california|837664328|Ecuador|5|2
+4607991|san jose, california|32175916|-2.166136,-79.920356|4|2
+4607991|san jose, california|31969184|Guayaquil, Ecuador|2|2
+4607991|san jose, california|16559570|Los Angeles|2|2
+4607991|san jose, california|0|Error|1|2
+4607991|san jose, california|0|Error|1|2
+4607991|san jose, california|0|Error|1|2
+4607991|san jose, california|0|Error|1|2
+15316033|san jose, ca|31634587|Error|5|2
+15316033|san jose, ca|17886986|San Jose, CA|3|2
+15316033|san jose, ca|13943162|Menlo Park, CA|2|2
+15316033|san jose, ca|14629669|Cyberspace|2|2
+15316033|san jose, ca|972651|Error|1|2
+15316033|san jose, ca|134665872|Error|1|2
+15316033|san jose, ca|0|Error|1|2
+15316033|san jose, ca|0|Error|1|2
+15316033|san jose, ca|15283599|Global|1|2
+15316033|san jose, ca|17016558|San Francisco, CA|1|2
+15316033|san jose, ca|0|Error|1|2
+15316033|san jose, ca|14120151|Cities worldwide|1|2
+15316033|san jose, ca|1581585794|Error|1|2
+15316033|san jose, ca|20545040|San Luis Obispo, CA|1|2
+15316033|san jose, ca|14251494|bay area|1|2
+15316033|san jose, ca|21690931|Washington DC|1|2
+15316033|san jose, ca|816653|San Francisco, CA|1|2
+15316033|san jose, ca|813286|Washington, DC|1|2
+83256433|san jose, ca|972651|Error|5|2
+83256433|san jose, ca|17266725|USA|2|2
+83256433|san jose, ca|20536157|Mountain View, CA|1|2
+83256433|san jose, ca|65486037|Inside the Vault|1|2
+83256433|san jose, ca|15570868|Error|1|2
+83256433|san jose, ca|14542767|Austin, TX|1|2
+83256433|san jose, ca|0|Error|1|2
+83256433|san jose, ca|16879661|Colorado|1|2
+83256433|san jose, ca|10318542|San Francisco|1|2
+62154246|san jose, ca|60376848|Error|1|2
+24275144|san jose, california|0|Error|1|2
+24539846|san jose, ca|0|Error|4|2
+24539846|san jose, ca|18709570|Los Angeles|3|2
+24539846|san jose, ca|19897033|San Luis Obispo, CA|3|2
+24539846|san jose, ca|85612588|California|1|2
+24539846|san jose, ca|34274864|Error|1|2
+24539846|san jose, ca|17887536|Seattle, WA|1|2
+24539846|san jose, ca|14083456|Brooklyn|1|2
+24539846|san jose, ca|14803701|Everywhere|1|2
+24539846|san jose, ca|21720521|Error|1|2
+24539846|san jose, ca|40341246|Berkshire, UK|1|2
+24539846|san jose, ca|14696939|Error|1|2
+24539846|san jose, ca|14317413|San Jose, CA|1|2
+24539846|san jose, ca|16495855|Redondo Beach, CA|1|2
+24539846|san jose, ca|0|Error|1|2
+24539846|san jose, ca|5442012|Cary, NC|1|2
+24539846|san jose, ca|1072591|Error|1|2
+71334521|san jose, ca|0|Error|1|2
+87957823|san jose, ca|15447859|skype:jefffaldalen|4|2
+87957823|san jose, ca|32560041|Ottawa, ON & Worldwide|3|2
+87957823|san jose, ca|14104848|Silicon Valley|3|2
+87957823|san jose, ca|21586418|Las Vegas, NV|2|2
+87957823|san jose, ca|972651|Error|2|2
+87957823|san jose, ca|7696252|Vancouver, BC, Canada|2|2
+87957823|san jose, ca|0|Error|1|2
+87957823|san jose, ca|17483604|Ottawa, Canada|1|2
+87957823|san jose, ca|309490937|Error|1|2
+87957823|san jose, ca|0|Error|1|2
+87957823|san jose, ca|15246951|Stamford, Connecticut|1|2
+87957823|san jose, ca|0|Error|1|2
+87957823|san jose, ca|1414369656|Error|1|2
+87957823|san jose, ca|0|Error|1|2
+41189561|san jose, california|7377012|concrete jungle|3|2
+41189561|san jose, california|2074981|Los Angeles, United States|2|2
+41189561|san jose, california|24229787|Los Angeles, CA|2|2
+41189561|san jose, california|0|Error|2|2
+41189561|san jose, california|105948436|Error|1|2
+41189561|san jose, california|14777649|Ohio boy in NYC and LA|1|2
+41189561|san jose, california|0|Error|1|2
+41189561|san jose, california|14254499|Menlo Park, California|1|2
+41189561|san jose, california|171589637|Error|1|2
+41189561|san jose, california|711303|NYC | Long Island|1|2
+41189561|san jose, california|25521487|beach|1|2
+41189561|san jose, california|31438750|Colorado|1|2
+41189561|san jose, california|14962923|Lost in Cliff's beard|1|2
+41189561|san jose, california|39216348|London|1|2
+41189561|san jose, california|21757684|SF Bay Area|1|2
+17862534|san jose, ca|103183286|Error|4|2
+17862534|san jose, ca|56327555|Error|2|2
+17862534|san jose, ca|0|Error|2|2
+17862534|san jose, ca|56523594|New Jersey|1|2
+17862534|san jose, ca|143422990|PARTY|1|2
+17862534|san jose, ca|0|Error|1|2
+17862534|san jose, ca|0|Error|1|2
+19699022|san jose, california|16885839|Earth|4|2
+19699022|san jose, california|18264302|Los Angeles via New Jersey|3|2
+19699022|san jose, california|17246689|Providence, RI|2|2
+19699022|san jose, california|46774621|San Jose, CA|2|2
+19699022|san jose, california|15261709|Los Angeles, CA|2|2
+19699022|san jose, california|24832161|virginia beach~|2|2
+19699022|san jose, california|18326126|Error|2|2
+19699022|san jose, california|18588279|Error|2|2
+19699022|san jose, california|21044412|Bklyn, NY - St. Petersburg, FL|1|2
+19699022|san jose, california|19329393|New York City, New York|1|2
+19699022|san jose, california|22074613|Bristol, England|1|2
+19699022|san jose, california|0|Error|1|2
+19699022|san jose, california|15200682|LA / NAPA|1|2
+19699022|san jose, california|938945479|Error|1|2
+19699022|san jose, california|286288864|Error|1|2
+19699022|san jose, california|21380922|New York City|1|2
+19699022|san jose, california|0|Error|1|2
+19699022|san jose, california|62001461|Los Feliz|1|2
+19699022|san jose, california|0|Error|1|2
+19699022|san jose, california|17197759|Error|1|2
+19699022|san jose, california|0|Error|1|2
+19699022|san jose, california|18200904|San Francisco, CA|1|2
+19699022|san jose, california|14314214|Los Angeles|1|2
+19699022|san jose, california|84253600|Error|1|2
+19699022|san jose, california|19211989|iPhone: 37.356747,-121.819321|1|2
+19699022|san jose, california|19300149|San Francisco, CA|1|2
+19699022|san jose, california|54547145|BAY URRREA|1|2
+19699022|san jose, california|0|Error|1|2
+19699022|san jose, california|62152905|San Jose CA|1|2
+19699022|san jose, california|0|Error|1|2
+19699022|san jose, california|32320588|America|1|2
+19699022|san jose, california|0|Error|1|2
+19699022|san jose, california|20572429|Bay Area |1|2
+23239085|san jose, ca|7807302|San Jose, California|5|2
+23239085|san jose, ca|14138408|SFO or near you.|3|2
+23239085|san jose, ca|5961382|Sunnyvale, CA|3|2
+23239085|san jose, ca|7703052|San Lorenzo, California|2|2
+23239085|san jose, ca|14554832|Error|2|2
+23239085|san jose, ca|14486811|San Francisco Bay Area|1|2
+23239085|san jose, ca|13165832|Socialist Canuckistan|1|2
+23239085|san jose, ca|10363842|Error|1|2
+23239085|san jose, ca|14061445|New Bedford, MA, USA|1|2
+23239085|san jose, ca|24553792|Hayward, California|1|2
+23239085|san jose, ca|0|Error|1|2
+23239085|san jose, ca|9799222|Houston, TX USA|1|2
+23239085|san jose, ca|22834318|Oakland, CA|1|2
+23239085|san jose, ca|9345162|California|1|2
+23239085|san jose, ca|14460504|Error|1|2
+23239085|san jose, ca|24970713|California|1|2
+23239085|san jose, ca|83883736|Error|1|2
+16030730|san jose, ca|23732248|San Jose, CA|3|2
+16030730|san jose, ca|375458040|Error|2|2
+16030730|san jose, ca|0|Error|2|2
+16030730|san jose, ca|5134341|San Jose, CA|2|2
+16030730|san jose, ca|31068750|Near San Jose, CA|2|2
+16030730|san jose, ca|258243980|United States|1|2
+16030730|san jose, ca|0|Error|1|2
+16030730|san jose, ca|0|Error|1|2
+16030730|san jose, ca|734223|San Jose,CA|1|2
+16030730|san jose, ca|786748676|Error|1|2
+16030730|san jose, ca|15075362|Mount Juliet,TN|1|2
+16030730|san jose, ca|21588552|Bay Area, CA|1|2
+16030730|san jose, ca|0|Error|1|2
+16030730|san jose, ca|57379358|New Orleans|1|2
+16030730|san jose, ca|0|Error|1|2
+16030730|san jose, ca|14399361|Baltimore,  USA|1|2
+16030730|san jose, ca|44952810|Error|1|2
+16030730|san jose, ca|2603231964|Error|1|2
+16030730|san jose, ca|27820906|Error|1|2
+16030730|san jose, ca|31195072|west midlands, uk|1|2
+16030730|san jose, ca|13837502|San Jose - Willow Glen - 95125|1|2
+16030730|san jose, ca|14523938|San Jose, CA|1|2
+16030730|san jose, ca|37995661|Mountain View, CA|1|2
+16030730|san jose, ca|17879946|Chicago, IL|1|2
+93232991|san jose, ca|0|Error|1|2
+31499680|san jose, ca|18684374|Illinois|3|2
+31499680|san jose, ca|17067510|Atlanta, GA|2|2
+31499680|san jose, ca|18069094|Sub Tropics|2|2
+31499680|san jose, ca|11504382|Pittsburgh, PA |1|2
+31499680|san jose, ca|77057039|Error|1|2
+31499680|san jose, ca|16446860|New York|1|2
+31499680|san jose, ca|14654472|University Place, WA|1|2
+31499680|san jose, ca|1712831|Malaysia|1|2
+31499680|san jose, ca|168771078|Error|1|2
+31499680|san jose, ca|0|Error|1|2
+31499680|san jose, ca|486270896|United States|1|2
+31499680|san jose, ca|53814856|My Lay-Z-Boy|1|2
+31499680|san jose, ca|2413561|Bellingen, Belgium|1|2
+31499680|san jose, ca|17499507|Columbus Ohio|1|2
+31499680|san jose, ca|17922022|Phoenix, AZ|1|2
+31499680|san jose, ca|55700215|Error|1|2
+31499680|san jose, ca|19055291|Santa Rosa California|1|2
+31499680|san jose, ca|26803521|Global|1|2
+31499680|san jose, ca|77014193|Global|1|2
+31499680|san jose, ca|21859240|Error|1|2
+31499680|san jose, ca|816653|San Francisco, CA|1|2
+31499680|san jose, ca|15509433|Atlanta|1|2
+31499680|san jose, ca|21080244|Error|1|2
+31499680|san jose, ca|215297634|india|1|2
+31499680|san jose, ca|19429890|iPhone: 39.672718,-104.959351|1|2
+31499680|san jose, ca|0|Error|1|2
+31499680|san jose, ca|13436432|Las Vegas, NV|1|2
+22849751|san jose, ca|0|Error|1|2
+22849751|san jose, ca|0|Error|1|2
+22849751|san jose, ca|0|Error|1|2
+22849751|san jose, ca|8453452|Silicon Valley, California|1|2
+8825152|san jose, ca|132281243|Error|4|2
+8825152|san jose, ca|2272692152|Error|3|2
+8825152|san jose, ca|11680962|baltimore|2|2
+8825152|san jose, ca|0|Error|2|2
+8825152|san jose, ca|0|Error|2|2
+8825152|san jose, ca|0|Error|2|2
+8825152|san jose, ca|0|Error|1|2
+8825152|san jose, ca|0|Error|1|2
+8825152|san jose, ca|0|Error|1|2
+8825152|san jose, ca|0|Error|1|2
+8825152|san jose, ca|0|Error|1|2
+8825152|san jose, ca|19851357|Error|1|2
+8825152|san jose, ca|12426372|Twin Falls, ID|1|2
+8825152|san jose, ca|20551918|Hutchinson Ks|1|2
+8825152|san jose, ca|0|Error|1|2
+8825152|san jose, ca|18950645|Gainesville, Florida|1|2
+8825152|san jose, ca|16375096|Salinas, CA|1|2
+8825152|san jose, ca|7455152|Phoenix|1|2
+8825152|san jose, ca|83883736|Error|1|2
+8825152|san jose, ca|17093617|Vancouver, Canada|1|2
+8825152|san jose, ca|0|Error|1|2
+8825152|san jose, ca|16664681|Los Angeles, CA|1|2
+8825152|san jose, ca|1490767058|Error|1|2
+8825152|san jose, ca|16649243|San Jose, CA|1|2
+8825152|san jose, ca|14606079|New York, NY|1|2
+8825152|san jose, ca|12973572|mare pacificum|1|2
+8825152|san jose, ca|106643446|Error|1|2
+8825152|san jose, ca|0|Error|1|2
+8825152|san jose, ca|15643814|Bakersfield, CA|1|2
+8825152|san jose, ca|11814142|Vancouver, British Columbia|1|2
+8825152|san jose, ca|5911972|San Francisco|1|2
+8825152|san jose, ca|3829151|Petaluma, CA USA|1|2
+8825152|san jose, ca|16830875|San Francisco, CA|1|2
+8825152|san jose, ca|14070772|Clearwater, FL|1|2
+8825152|san jose, ca|14159148|New York, NY|1|2
+8825152|san jose, ca|17095546|London, England|1|2
+8825152|san jose, ca|7263682|San Diego, CA|1|2
+8825152|san jose, ca|0|Error|1|2
+42118391|san jose, ca|9629222|Worldwide|2|2
+42118391|san jose, ca|29958912|Chicago|1|2
+42118391|san jose, ca|27961547|#SharksTerritory|1|2
+42118391|san jose, ca|63256346|San Francisco, CA|1|2
+42118391|san jose, ca|0|Error|1|2
+42118391|san jose, ca|35553883|Portsmouth, Virginia|1|2
+42118391|san jose, ca|1068000326|Error|1|2
+5025281|san jose, ca|744463|San Francisco, CA|5|2
+5025281|san jose, ca|1186|San Francisco|4|2
+5025281|san jose, ca|18452856|Silicon Valley|3|2
+5025281|san jose, ca|1421521|Silicon Valley|3|2
+5025281|san jose, ca|5025281|Half Moon Bay, CA|2|2
+5025281|san jose, ca|7537892|Silicon Valley|2|2
+5025281|san jose, ca|7456262|San Francisco, CA|2|2
+5025281|san jose, ca|11747802|north portland _ oregon|1|2
+5025281|san jose, ca|4216361|Palo Alto, CA|1|2
+5025281|san jose, ca|570739993|Error|1|2
+5025281|san jose, ca|0|Error|1|2
+5025281|san jose, ca|4044361|Seattle, WA|1|2
+5025281|san jose, ca|16513061|San Francisco, CA|1|2
+5025281|san jose, ca|14335498|The Internet|1|2
+5025281|san jose, ca|14120151|Cities worldwide|1|2
+5025281|san jose, ca|0|Error|1|2
+5025281|san jose, ca|4653371|Palo Alto, CA|1|2
+5025281|san jose, ca|15989043|Palo Alto, California|1|2
+5025281|san jose, ca|68513658|Silicon Valley|1|2
+5025281|san jose, ca|6461462|Error|1|2
+5025281|san jose, ca|130584275|Denver, Colorado|1|2
+5025281|san jose, ca|17847002|UC Berkeley|1|2
+5025281|san jose, ca|0|Error|1|2
+5025281|san jose, ca|10795912|La Jolla, CA|1|2
+5025281|san jose, ca|2893971|Austin, TX|1|2
+5025281|san jose, ca|4234581|Portland, OR|1|2
+8565392|san jose, ca|28261377|Error|1|2
+8565392|san jose, ca|39623638|New York City|1|2
+8565392|san jose, ca|0|Error|1|2
+8565392|san jose, ca|162692924|Error|1|2
+8565392|san jose, ca|27323020|USA|1|2
+8565392|san jose, ca|52527735|Vancouver, BC|1|2
+8565392|san jose, ca|1507235672|Las Vegas, NV|1|2
+8565392|san jose, ca|25826877|Chicago|1|2
+8565392|san jose, ca|16553826|iPhone: 33.955437,-118.396156|1|2
+8565392|san jose, ca|0|Error|1|2
+24846118|san jose, ca|27795847|Error|15|2
+19709040|san jose, ca|41532525|Johnson City Tennessee|1|2
+19709040|san jose, ca|171332884|Error|1|2
+19709040|san jose, ca|150809917|Error|1|2
+19709040|san jose, ca|32653911|California|1|2
+19709040|san jose, ca|0|Error|1|2
+46452258|san jose, ca|22946368|Los Angeles, CA   |1|2
+21352090|san jose, ca|14732530|CA Central Coast- Santa Maria|2|2
+21352090|san jose, ca|0|Error|1|2
+14080244|san jose, ca|15334600|Error|5|2
+14080244|san jose, ca|0|Error|4|2
+14080244|san jose, ca|17539069|Houston|2|2
+14080244|san jose, ca|10407132|Bengaluru, Karnataka|2|2
+14080244|san jose, ca|0|Error|2|2
+14080244|san jose, ca|763781|Bogota, Colombia|1|2
+14080244|san jose, ca|6875652|Milpitas, CA|1|2
+14080244|san jose, ca|61893748|Colombia|1|2
+14080244|san jose, ca|16676932|Cali, Colombia|1|2
+14080244|san jose, ca|7315732|State of Pronoia|1|2
+14080244|san jose, ca|14071068|Stockholm, Sweden|1|2
+14080244|san jose, ca|3913671|Santa Cruz/San Francisco, CA|1|2
+14080244|san jose, ca|8038312|Oak Town CA|1|2
+14080244|san jose, ca|19350806|UK - South East|1|2
+14080244|san jose, ca|18180430|Lake Oswego, OR|1|2
+14080244|san jose, ca|15353297|Internet|1|2
+14080244|san jose, ca|21046818|Miami|1|2
+14080244|san jose, ca|19380829|Sunnyvale CA|1|2
+14080244|san jose, ca|6837002|San Diego|1|2
+14080244|san jose, ca|15695712|Colombia|1|2
+14080244|san jose, ca|3283901|San Francisco, CA|1|2
+14080244|san jose, ca|2622731|Runnymede Poultry Colony|1|2
+14080244|san jose, ca|20119483|San Diego CA|1|2
+14080244|san jose, ca|0|Error|1|2
+71099008|san jose, ca|38994802|San Jose, CA|3|2
+71099008|san jose, ca|0|Error|2|2
+71099008|san jose, ca|0|Error|2|2
+71099008|san jose, ca|0|Error|2|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|3343111|San Francisco, CA|1|2
+71099008|san jose, ca|391278224|Error|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|35066741|San Jose, CA|1|2
+71099008|san jose, ca|65685961|San Jose, CA|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|22207628|San Jose, CA|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|63256346|San Francisco, CA|1|2
+71099008|san jose, ca|23858298|San Jose, California|1|2
+71099008|san jose, ca|30805324|California|1|2
+71099008|san jose, ca|21245581|San Jose, CA|1|2
+71099008|san jose, ca|50679577|San Jose, CA|1|2
+71099008|san jose, ca|44221438|San Francisco, CA|1|2
+71099008|san jose, ca|38594388|SF Bay Area|1|2
+71099008|san jose, ca|0|Error|1|2
+71099008|san jose, ca|0|Error|1|2
+88828650|san jose, ca|45374259|New Jersey|1|2
+88828650|san jose, ca|0|Error|1|2
+88828650|san jose, ca|22888027|Error|1|2
+8136152|san jose, ca|47494539|Canada|3|2
+8136152|san jose, ca|17456255|Error|2|2
+8136152|san jose, ca|14423460|Los Angeles, CA|2|2
+8136152|san jose, ca|14597044|Los Angeles, CA|2|2
+8136152|san jose, ca|77816654|San Francisco & Silicon Valley|2|2
+8136152|san jose, ca|17325073|Charlotte, NC|1|2
+8136152|san jose, ca|14412143|Roseville, CA|1|2
+8136152|san jose, ca|22031430|San Francisco|1|2
+8136152|san jose, ca|8136152|Error|1|2
+8136152|san jose, ca|13546322|San Francisco, CA|1|2
+8136152|san jose, ca|917669334|sf|1|2
+8136152|san jose, ca|17437607|Washington, DC|1|2
+8136152|san jose, ca|14438306|Los Angeles|1|2
+8136152|san jose, ca|14333817|Isle of Hula near Lost Angeles|1|2
+8136152|san jose, ca|20861365|Oakland, CA|1|2
+18539350|san jose, ca|15093898|San Francisco|14|2
+18539350|san jose, ca|546513|Error|3|2
+18539350|san jose, ca|14600753|Western MA / Westfield, MA|3|2
+18539350|san jose, ca|20466813|San Francisco, CA|3|2
+18539350|san jose, ca|14237965|Milwaukee, WI|3|2
+18539350|san jose, ca|11590172|San Francisco, CA |3|2
+18539350|san jose, ca|14222176|citizen of the world|2|2
+18539350|san jose, ca|9215532|New York, NY|2|2
+18539350|san jose, ca|7676492|San Francisco, CA|2|2
+18539350|san jose, ca|14422706|Error|1|2
+18539350|san jose, ca|2003741|Sydney|1|2
+18539350|san jose, ca|13743532|Los Angeles, CA|1|2
+18539350|san jose, ca|0|Error|1|2
+18539350|san jose, ca|21417578|San Jose, CA|1|2
+18539350|san jose, ca|568422938|Phoenix Arizona|1|2
+18539350|san jose, ca|0|Error|1|2
+18539350|san jose, ca|0|Error|1|2
+18539350|san jose, ca|0|Error|1|2
+18539350|san jose, ca|0|Error|1|2
+18539350|san jose, ca|6950612|New England, USA|1|2
+18539350|san jose, ca|14648726|Park Slope, Brooklyn, NY|1|2
+18539350|san jose, ca|11911082|Los Angeles & Charlotte|1|2
+18539350|san jose, ca|18539350|Redwood City, CA|1|2
+14216082|san jose, ca|23597138|Cape May, New Jersey|7|2
+14216082|san jose, ca|24472526|Las Vegas, Nevada|4|2
+14216082|san jose, ca|249127653|Error|3|2
+14216082|san jose, ca|14222100|San Francisco|3|2
+14216082|san jose, ca|15136071|SF Bay Area, CA|2|2
+14216082|san jose, ca|0|Error|2|2
+14216082|san jose, ca|0|Error|2|2
+14216082|san jose, ca|14539464|Atlanta, Georgia|2|2
+14216082|san jose, ca|14261525|Okoboji, Iowa|2|2
+14216082|san jose, ca|749963|Honolulu, HI|1|2
+14216082|san jose, ca|16243030|Pre: 37.3982012,-122.04196|1|2
+14216082|san jose, ca|14262772|Los Angeles|1|2
+14216082|san jose, ca|16988093|Campbell, CA|1|2
+14216082|san jose, ca|14216082|Silicon Valley|1|2
+14216082|san jose, ca|6532|San Francisco, CA|1|2
+14216082|san jose, ca|3745781|Austin, TX|1|2
+14216082|san jose, ca|16230568|Florida|1|2
+14216082|san jose, ca|2152047523|Google|1|2
+14216082|san jose, ca|16283269|Birmingham, Michigan|1|2
+14216082|san jose, ca|8148242|Peoria, AZ|1|2
+14216082|san jose, ca|39197267|Error|1|2
+14216082|san jose, ca|17541722|arc4random();|1|2
+14216082|san jose, ca|772471|Reno, NV|1|2
+14216082|san jose, ca|22903121|Los Angeles, USA|1|2
+14216082|san jose, ca|0|Error|1|2
+14216082|san jose, ca|14277455|New Jersey|1|2
+14216082|san jose, ca|17236630|Fresno, California|1|2
+14216082|san jose, ca|15120464|Minneapolis|1|2
+14216082|san jose, ca|25382797|Gurgaon|1|2
+14216082|san jose, ca|27864170|Jewett City CT|1|2
+14216082|san jose, ca|16050923|3rd Rock|1|2
+16314194|san jose, california|0|Error|2|2
+16314194|san jose, california|16727535|Austin/Aspen|1|2
+16314194|san jose, california|24330989|Around the neighborhood|1|2
+16314194|san jose, california|19360626|San Jose, CA|1|2
+16314194|san jose, california|23939797|Bristol, UK|1|2
+16314194|san jose, california|16314194|San Jose, California|1|2
+16314194|san jose, california|20220663|Pacific Beach (San Diego) CA|1|2
+16314194|san jose, california|18124625|Error|1|2
+16918529|san jose, ca|0|Error|2|2
+16918529|san jose, ca|1487335368|SF|1|2
+16918529|san jose, ca|163741044|Error|1|2
+28504122|san jose, ca|25166595|Chicago, IL|3|2
+28504122|san jose, ca|14415941|Dripping Springs, TX|3|2
+28504122|san jose, ca|2498843707|Error|2|2
+28504122|san jose, ca|37763479|Silicon Valley, California|2|2
+28504122|san jose, ca|0|Error|2|2
+28504122|san jose, ca|0|Error|2|2
+28504122|san jose, ca|0|Error|1|2
+28504122|san jose, ca|0|Error|1|2
+28504122|san jose, ca|0|Error|1|2
+28504122|san jose, ca|49038014|California 11th District|1|2
+28504122|san jose, ca|0|Error|1|2
+46330865|san jose, california|0|Error|2|2
+46330865|san jose, california|0|Error|2|2
+46330865|san jose, california|0|Error|1|2
+12484632|san jose, california|7861312|Los Angeles, CA|1|2
+12484632|san jose, california|15913|Seattle via New England|1|2
+35059549|san jose, ca|0|Error|4|2
+35059549|san jose, ca|33879061|Error|2|2
+35059549|san jose, ca|21817647|Southwest seat 15A|2|2
+35059549|san jose, ca|0|Error|1|2
+35059549|san jose, ca|50804945|East Midlands, England|1|2
+35059549|san jose, ca|0|Error|1|2
+35059549|san jose, ca|70095804|Maidenhead, UK|1|2
+35059549|san jose, ca|21245403|St. Louis, Missouri USA|1|2
+35059549|san jose, ca|0|Error|1|2
+35059549|san jose, ca|345051671|Error|1|2
+35059549|san jose, ca|27872724|In the Clouds!|1|2
+35059549|san jose, ca|15010772|San Jose, CA|1|2
+35059549|san jose, ca|8660312|El Granada, CA|1|2
+35059549|san jose, ca|0|Error|1|2
+35059549|san jose, ca|38090783|San Francisco, CA|1|2
+35059549|san jose, ca|977422386|Reston, VA|1|2
+35059549|san jose, ca|16949993|iPhone: -29.639463,30.422096|1|2
+35059549|san jose, ca|3730446382|Error|1|2
+35059549|san jose, ca|13458062|Cary, NC|1|2
+38340071|san jose, ca|944140142|Error|4|2
+38340071|san jose, ca|0|Error|3|2
+38340071|san jose, ca|14133794|The Dollhouse|2|2
+38340071|san jose, ca|8005492|iPhone: 44.947103,-93.092956|1|2
+38340071|san jose, ca|29456021|Los Angeles, CA |1|2
+38340071|san jose, ca|22634945|Los Angeles, CA|1|2
+38340071|san jose, ca|106643446|Error|1|2
+38340071|san jose, ca|0|Error|1|2
+38340071|san jose, ca|813286|Washington, DC|1|2
+61143617|san jose, california|39204809|San Jose, CALIFORNIA!|10|2
+61143617|san jose, california|360629563|CA|6|2
+61143617|san jose, california|312274328|Miami Beach|5|2
+61143617|san jose, california|52922132|san jose ca|4|2
+61143617|san jose, california|0|Error|4|2
+61143617|san jose, california|33219362|Orlando,FL|4|2
+61143617|san jose, california|597376838|Error|4|2
+61143617|san jose, california|35066741|San Jose, CA|3|2
+61143617|san jose, california|0|Error|3|2
+61143617|san jose, california|14466080|Handa-shi, Aichi|3|2
+61143617|san jose, california|253118250|Error|3|2
+61143617|san jose, california|18202984|408 | Fresh Coast, CA|3|2
+61143617|san jose, california|1271265613|Error|2|2
+61143617|san jose, california|269601792|Error|2|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|16698503|New York City|1|2
+61143617|san jose, california|39187393|North Hollywood, CA|1|2
+61143617|san jose, california|23262114|Chicago to LA|1|2
+61143617|san jose, california|39688924|The Bay|1|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|727108982|Error|1|2
+61143617|san jose, california|208435405|philippines|1|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|19407480|San Jose, CA|1|2
+61143617|san jose, california|21971235|sky walkin' and fly talkin'|1|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|39636450|SJ/LA/LV|1|2
+61143617|san jose, california|59581043|Bay Area|1|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|142927771|Error|1|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|224094726|EAST SAN JOSE|1|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|19332537|Oakland USA |1|2
+61143617|san jose, california|603545565|Wabash|1|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|25746775|and if it wasn't for The Bronx|1|2
+61143617|san jose, california|227548016|The D|1|2
+61143617|san jose, california|92659831|Bay Area, CA|1|2
+61143617|san jose, california|40814042|Florida|1|2
+61143617|san jose, california|26936959|San Diego, CA|1|2
+61143617|san jose, california|0|Error|1|2
+61143617|san jose, california|21790066|Orlando, FL|1|2
+61143617|san jose, california|26840401|San Antonio,TX|1|2
+61143617|san jose, california|23832022|Worldwide |1|2
+28639022|san jose, california|18002007|Atlanta GA|1|2
+28639022|san jose, california|8248972|Error|1|2
+15139354|san jose, ca|15008449|Boston, MA|4|2
+15139354|san jose, ca|42332035|Brooklyn|3|2
+15139354|san jose, ca|14549384|San Jose, California|3|2
+15139354|san jose, ca|15189849|http://bit.ly/1yppKFC|2|2
+15139354|san jose, ca|14817600|Tamp, FL|2|2
+15139354|san jose, ca|113564219|International|1|2
+15139354|san jose, ca|61147601|London |1|2
+15139354|san jose, ca|8453452|Silicon Valley, California|1|2
+15139354|san jose, ca|712333|Arizona|1|2
+15139354|san jose, ca|8159652|Well duh. Seattle. (or TARDIS)|1|2
+15139354|san jose, ca|55394629|Wellsville, Pennsylvania|1|2
+15139354|san jose, ca|417154308|London|1|2
+15139354|san jose, ca|20915783|Breaux Bridge, Louisiana|1|2
+15139354|san jose, ca|15955129|Error|1|2
+15139354|san jose, ca|34168915|Austin, TX|1|2
+15139354|san jose, ca|41400039|Jacksonville, Florida|1|2
+15139354|san jose, ca|0|Error|1|2
+15139354|san jose, ca|15312626|Walnut Creek, CA|1|2
+15139354|san jose, ca|3289456424|Singapore|1|2
+15139354|san jose, ca|20512929|Sep 30 - Oct 2 | Las Vegas, NV|1|2
+15139354|san jose, ca|15290730|San Jose, CA|1|2
+15139354|san jose, ca|16533559|Rochester, NY|1|2
+15139354|san jose, ca|0|Error|1|2
+15139354|san jose, ca|45312055|Singapore|1|2
+15139354|san jose, ca|25524525|Error|1|2
+37669499|san jose, ca|79327336|CALI|7|2
+37669499|san jose, ca|37669499|San Jose, CA - Phuket Thailand|4|2
+37669499|san jose, ca|14744731|Las Vegas|2|2
+37669499|san jose, ca|40709222|Malibu, California|2|2
+37669499|san jose, ca|0|Error|2|2
+37669499|san jose, ca|36258407|Error|1|2
+37669499|san jose, ca|0|Error|1|2
+37669499|san jose, ca|30190163|Error|1|2
+37669499|san jose, ca|74840875|Error|1|2
+37669499|san jose, ca|3224852857|Error|1|2
+37669499|san jose, ca|20835765|Las Vegas|1|2
+37669499|san jose, ca|22007499|Error|1|2
+37669499|san jose, ca|36962276|Las Vegas, Nevada|1|2
+37669499|san jose, ca|0|Error|1|2
+37669499|san jose, ca|74497974|NYC|1|2
+37669499|san jose, ca|0|Error|1|2
+37669499|san jose, ca|18005290|Chicago, IL|1|2
+37669499|san jose, ca|45447214|Baltimore, MD|1|2
+37669499|san jose, ca|276435409|Error|1|2
+37669499|san jose, ca|0|Error|1|2
+37669499|san jose, ca|0|Error|1|2
+37669499|san jose, ca|32885891|NYC/WI|1|2
+37669499|san jose, ca|50523883|parts unknown|1|2
+37669499|san jose, ca|66883651|NJ |1|2
+37669499|san jose, ca|0|Error|1|2
+37669499|san jose, ca|0|Error|1|2
+37669499|san jose, ca|87095154|Northern California, USA|1|2
+37669499|san jose, ca|597211314|Sanbon, Korea|1|2
+37669499|san jose, ca|37515801|Los Angeles |1|2
+37669499|san jose, ca|0|Error|1|2
+37669499|san jose, ca|0|Error|1|2
+37669499|san jose, ca|0|Error|1|2
+37669499|san jose, ca|0|Error|1|2
+16508833|san jose, california|560001871|Error|2|2
+16508833|san jose, california|45197712|Sacramento, CA|2|2
+16508833|san jose, california|0|Error|2|2
+16508833|san jose, california|18529226|Leipzig, Germany|1|2
+16508833|san jose, california|15919469|New York|1|2
+16508833|san jose, california|19829889|Error|1|2
+16508833|san jose, california|16617024|Error|1|2
+16508833|san jose, california|14354410|San Francisco|1|2
+16508833|san jose, california|20713769|The Distance, CA|1|2
+16508833|san jose, california|14521926|Los Angeles, CA|1|2
+16508833|san jose, california|18395177|Error|1|2
+16508833|san jose, california|27189793|Recaliberating...|1|2
+16508833|san jose, california|1014570379|Error|1|2
+16508833|san jose, california|305086347|Dallas, Texas|1|2
+16508833|san jose, california|20750649|fLOSs Angeles: DTLA all day|1|2
+16189043|san jose, ca|0|Error|4|2
+16189043|san jose, ca|16058159|PDX-|3|2
+16189043|san jose, ca|36490575|London, UK|2|2
+16189043|san jose, ca|6448502|Oakland|2|2
+16189043|san jose, ca|20695881|London, UK|1|2
+16189043|san jose, ca|25525009|Portland, Oregon|1|2
+16189043|san jose, ca|18072841|California|1|2
+16189043|san jose, ca|0|Error|1|2
+16189043|san jose, ca|16189043|San Jose, CA|1|2
+16189043|san jose, ca|56904848||Ride simply, Simply ride||1|2
+16189043|san jose, ca|0|Error|1|2
+16189043|san jose, ca|26009050|Austin, TX|1|2
+16189043|san jose, ca|0|Error|1|2
+16189043|san jose, ca|14803076|Edmonton Alberta|1|2
+16189043|san jose, ca|0|Error|1|2
+16189043|san jose, ca|15322216|Error|1|2
+16189043|san jose, ca|0|Error|1|2
+16189043|san jose, ca|23223031|Melbourne Australia|1|2
+11341332|san jose, ca|37289151|Error|9|2
+11341332|san jose, ca|20762143|Dorchester, Dorset, UK|1|2
+11341332|san jose, ca|38352635|Error|1|2
+11341332|san jose, ca|0|Error|1|2
+11341332|san jose, ca|14610068|Portland, OR & Cambridge, UK|1|2
+11341332|san jose, ca|48224303|Los Angeles, CA|1|2
+11341332|san jose, ca|41869269|Error|1|2
+11341332|san jose, ca|36166018|San Jose, California USA|1|2
+11341332|san jose, ca|42668780|Avant Garden|1|2
+11341332|san jose, ca|185594203|iPhone: 0.000000,0.000000|1|2
+11341332|san jose, ca|0|Error|1|2
+11341332|san jose, ca|0|Error|1|2
+60217329|san jose, california|16936490|Tampa Bay area, Florida|1|2
+60217329|san jose, california|0|Error|1|2
+60217329|san jose, california|10407582|Error|1|2
+60217329|san jose, california|71956571|Chicago, IL|1|2
+60217329|san jose, california|24906998|Kansas City |1|2
+60217329|san jose, california|280154415|Toronto, Ontario|1|2
+60217329|san jose, california|26123949|Portland, OR|1|2
+60217329|san jose, california|46736700|Error|1|2
+60217329|san jose, california|12044602|Los Angeles, California|1|2
+24581890|san jose, ca|1312041|San Luis Obispo County, CA|4|2
+24581890|san jose, ca|15401290|San Luis Obispo|4|2
+24581890|san jose, ca|16135817|Oklahoma City|4|2
+24581890|san jose, ca|53995051|Error|3|2
+24581890|san jose, ca|3303500245|Minnesota, USA|2|2
+24581890|san jose, ca|428333|Everywhere|1|2
+24581890|san jose, ca|7263972|California, USA|1|2
+11343802|san jose, ca|353287231|missouri|4|2
+11343802|san jose, ca|0|Error|3|2
+11343802|san jose, ca|6837002|San Diego|3|2
+11343802|san jose, ca|14219928|California|2|2
+11343802|san jose, ca|0|Error|2|2
+11343802|san jose, ca|2382588338|California, USA|1|2
+11343802|san jose, ca|4519121|Seattle, Washington|1|2
+11343802|san jose, ca|18912898|Error|1|2
+11343802|san jose, ca|27384855|Union City, California|1|2
+11343802|san jose, ca|0|Error|1|2
+11343802|san jose, ca|14429864|somewhere near Yosemite, CA, U|1|2
+11343802|san jose, ca|22038802|Louisa County, VA USA|1|2
+11343802|san jose, ca|23064476|New Hampshire|1|2
+11343802|san jose, ca|9930742|Toronto, Ontario, Canada|1|2
+11343802|san jose, ca|0|Error|1|2
+11343802|san jose, ca|43138057|Germany|1|2
+11343802|san jose, ca|21970764|Error|1|2
+11343802|san jose, ca|203926032|Error|1|2
+37696594|san jose, ca|55255853|Error|2|2
+37696594|san jose, ca|52191046|Los Angeles, Calif.|1|2
+37696594|san jose, ca|0|Error|1|2
+14358707|san jose, ca|0|Error|2|2
+14358707|san jose, ca|0|Error|1|2
+14358707|san jose, ca|0|Error|1|2
+14358707|san jose, ca|0|Error|1|2
+14358707|san jose, ca|15473348|Brooklyn, NY|1|2
+14358707|san jose, ca|18720595|Earth's Core|1|2
+14358707|san jose, ca|0|Error|1|2
+14358707|san jose, ca|0|Error|1|2
+14358707|san jose, ca|0|Error|1|2
+14358707|san jose, ca|0|Error|1|2
+14358707|san jose, ca|15143065|Error|1|2
+14358707|san jose, ca|10760422|Error|1|2
+10295842|san jose, ca|2192269334|Error|2|2
+10295842|san jose, ca|809512|San Francisco, CA|2|2
+10295842|san jose, ca|2744581686|Denmark|2|2
+10295842|san jose, ca|12466622|iPhone: 52.108124,4.278564|2|2
+10295842|san jose, ca|14079705|a wrinkle in timespace|1|2
+10295842|san jose, ca|22223512|Seattle, WA|1|2
+10295842|san jose, ca|177483394|Italy|1|2
+10295842|san jose, ca|2290001|Evanston, IL|1|2
+10295842|san jose, ca|780886|Seattle|1|2
+10295842|san jose, ca|15428637|Copenhagen, Denmark|1|2
+10295842|san jose, ca|9580822|Error|1|2
+10295842|san jose, ca|527426525|Error|1|2
+10295842|san jose, ca|0|Error|1|2
+10295842|san jose, ca|25359564|Davie, Florida, USA|1|2
+10295842|san jose, ca|13895242|iPhone: 36.618122,-121.934219|1|2
+10295842|san jose, ca|0|Error|1|2
+10295842|san jose, ca|0|Error|1|2
+10295842|san jose, ca|0|Error|1|2
+10295842|san jose, ca|12898|San Francisco|1|2
+10295842|san jose, ca|15431118|Error|1|2
+10295842|san jose, ca|5379862|Seattle, WA|1|2
+10295842|san jose, ca|0|Error|1|2
+10295842|san jose, ca|22263814|Seattle, WA|1|2
+10295842|san jose, ca|6140|San Francisco, CA|1|2
+10295842|san jose, ca|18457047|Barcelone, Catalogne|1|2
+10295842|san jose, ca|15989493|iPhone: 37.389771,-122.015068|1|2
+10295842|san jose, ca|14143421|Northern California|1|2
+10295842|san jose, ca|2630121|San Francisco Bay Area, CA, US|1|2
+25239052|san jose, california|26788841|New York, NY|5|2
+25239052|san jose, california|2569918512|Error|3|2
+25239052|san jose, california|17164327|NYC|2|2
+25239052|san jose, california|9956632|Here and there|2|2
+25239052|san jose, california|24304268|Global|2|2
+25239052|san jose, california|1088411|Seat 2A|2|2
+25239052|san jose, california|56832016|OKLAHOMA|2|2
+25239052|san jose, california|24741160|Error|2|2
+25239052|san jose, california|52656110|902. 416.|2|2
+25239052|san jose, california|17577115|Framingham, MA|1|2
+25239052|san jose, california|14408956|Boston and Wellesley MA|1|2
+25239052|san jose, california|58936405|Orange County, CA|1|2
+25239052|san jose, california|0|Error|1|2
+25239052|san jose, california|0|Error|1|2
+25239052|san jose, california|16553826|iPhone: 33.955437,-118.396156|1|2
+25239052|san jose, california|0|Error|1|2
+25239052|san jose, california|833071|Palo Alto, California|1|2
+25239052|san jose, california|14464369|Error|1|2
+25239052|san jose, california|0|Error|1|2
+25239052|san jose, california|59188013|Bixby, OK|1|2
+25239052|san jose, california|55341605|Error|1|2
+25239052|san jose, california|65468720|Los Angeles|1|2
+25239052|san jose, california|70963525|Texas|1|2
+25239052|san jose, california|0|Error|1|2
+25239052|san jose, california|172371956|Round Rock, Texas|1|2
+55912117|san jose, ca|21421160|Atlanta|4|2
+55912117|san jose, ca|53101920|San Francisco Bay Area|3|2
+55912117|san jose, ca|2683963854|Error|2|2
+55912117|san jose, ca|36820396|San Diego|2|2
+55912117|san jose, ca|1653624434|Atlanta, GA|1|2
+55912117|san jose, ca|163247843|coatzacoalcos|1|2
+55912117|san jose, ca|0|Error|1|2
+55912117|san jose, ca|6193182|San Diego, CA|1|2
+55912117|san jose, ca|0|Error|1|2
+55912117|san jose, ca|0|Error|1|2
+55912117|san jose, ca|14436820|in God's hands|1|2
+55912117|san jose, ca|24733117|San Jose, CA|1|2
+55912117|san jose, ca|1278938754|Error|1|2
+55912117|san jose, ca|63352015|San Francisco|1|2
+55912117|san jose, ca|0|Error|1|2
+55912117|san jose, ca|43240741|Nashville, TN|1|2
+55912117|san jose, ca|14266757|Boulder, CO|1|2
+55912117|san jose, ca|113408223|Error|1|2
+55912117|san jose, ca|1316831|Mobile, AL|1|2
+55912117|san jose, ca|0|Error|1|2
+55912117|san jose, ca|21677853|Error|1|2
+55912117|san jose, ca|61559439|Santa Clara, CA|1|2
+17508476|san jose, california|25053585|New York, NY|5|2
+17508476|san jose, california|33051071|Vancouver, BC Canada|2|2
+17508476|san jose, california|36030006|Bay Area, CA|1|2
+17508476|san jose, california|49623093|Worldwide baby|1|2
+17508476|san jose, california|25732785|Error|1|2
+17508476|san jose, california|14386736|Washington D.C.|1|2
+43068071|san jose, ca|0|Error|2|2
+43068071|san jose, ca|993775368|Error|2|2
+43068071|san jose, ca|399743294|Montreal, Quebec|2|2
+43068071|san jose, ca|133387056|Error|1|2
+43068071|san jose, ca|43068071|San Jose, CA|1|2
+43068071|san jose, ca|0|Error|1|2
+43068071|san jose, ca|48496070|Belmont CA|1|2
+43068071|san jose, ca|50679577|San Jose, CA|1|2
+43068071|san jose, ca|18184459|San Jose, CA|1|2
+29830347|san jose, ca|0|Error|2|2
+29830347|san jose, ca|0|Error|1|2
+29830347|san jose, ca|0|Error|1|2
+29830347|san jose, ca|16854364|San Jose, California|1|2
+29830347|san jose, ca|0|Error|1|2
+29830347|san jose, ca|29446305|Error|1|2
+29830347|san jose, ca|0|Error|1|2
+19082997|san jose, ca|0|Error|7|2
+19082997|san jose, ca|2307776510|Error|5|2
+19082997|san jose, ca|0|Error|2|2
+19082997|san jose, ca|1242424454|Error|2|2
+19082997|san jose, ca|37477948|Buckinghamshire, UK|2|2
+19082997|san jose, ca|19640773|beautiful Mountain View CA|2|2
+19082997|san jose, ca|0|Error|1|2
+19082997|san jose, ca|39795071|San Diego, California|1|2
+19082997|san jose, ca|0|Error|1|2
+19082997|san jose, ca|16956020|Montreal, Quebec, Canada|1|2
+19082997|san jose, ca|8453452|Silicon Valley, California|1|2
+19082997|san jose, ca|17973137|Nicaragua|1|2
+19082997|san jose, ca|555144603|Error|1|2
+19082997|san jose, ca|14819061|Washington, D.C.|1|2
+19082997|san jose, ca|16392119|Fargo,ND|1|2
+19082997|san jose, ca|23106500|Northern California|1|2
+19082997|san jose, ca|42465046|Colorado, USA|1|2
+19082997|san jose, ca|45156017|Error|1|2
+19082997|san jose, ca|0|Error|1|2
+19082997|san jose, ca|18250194|Lincoln, Rhode Island|1|2
+19082997|san jose, ca|17238769|Colorado|1|2
+19082997|san jose, ca|0|Error|1|2
+19082997|san jose, ca|65579117|sf, los angeles, london, roma|1|2
+19082997|san jose, ca|17007095|San Diego, CA|1|2
+19082997|san jose, ca|30063657|Kansas, USA|1|2
+19082997|san jose, ca|26679448|North Carolina, USA|1|2
+19082997|san jose, ca|79215073|Milwaukee, WI|1|2
+19082997|san jose, ca|62890224|Colorado|1|2
+19082997|san jose, ca|23172966|Las Vegas, NV|1|2
+18821073|san jose, ca|71320197|Flight level 350, give or take|7|2
+18821073|san jose, ca|33439793|San Jose|1|2
+18821073|san jose, ca|0|Error|1|2
+18821073|san jose, ca|15235026|Oakland, CA, USA|1|2
+18821073|san jose, ca|34292686|Wilmington, DE|1|2
+18821073|san jose, ca|14732530|CA Central Coast- Santa Maria|1|2
+87765787|san jose, ca|87765787|San Jose, CA|2|2
+87765787|san jose, ca|10433782|Silicon Valley, CA|2|2
+87765787|san jose, ca|40967083|Error|1|2
+87765787|san jose, ca|759251|Error|1|2
+87765787|san jose, ca|363571014|Error|1|2
+87765787|san jose, ca|30313925|Washington, DC|1|2
+87765787|san jose, ca|12389962|Error|1|2
+15573911|san jose, ca|14647046|Toronto Software Lab, Canada|4|2
+15573911|san jose, ca|6879192|40.918555,-73.965206|2|2
+15573911|san jose, ca|17459392|Washington, DC|1|2
+15573911|san jose, ca|19401328|Error|1|2
+15573911|san jose, ca|73350317|London|1|2
+15573911|san jose, ca|0|Error|1|2
+15573911|san jose, ca|0|Error|1|2
+15573911|san jose, ca|16533343|Error|1|2
+15573911|san jose, ca|0|Error|1|2
+15573911|san jose, ca|0|Error|1|2
+15573911|san jose, ca|22641783|Los Gatos, CA|1|2
+15573911|san jose, ca|0|Error|1|2
+15573911|san jose, ca|806297|Raleigh / Las Vegas |1|2
+15573911|san jose, ca|11058372|Raleigh, NC|1|2
+15573911|san jose, ca|14746910|Sugar Land, TX|1|2
+15573911|san jose, ca|17535421|UK|1|2
+15573911|san jose, ca|5838092|Ottawa|1|2
+16135162|san jose, ca|7775012|Philadelphia, PA, USA|2|2
+16135162|san jose, ca|7832572|Downtown Las Vegas, NV|2|2
+16135162|san jose, ca|0|Error|2|2
+16135162|san jose, ca|20782081|Error|2|2
+16135162|san jose, ca|0|Error|1|2
+16135162|san jose, ca|50004938|30 cities across U.S. & Canada|1|2
+16135162|san jose, ca|18294737|Romeoville, IL|1|2
+16135162|san jose, ca|23803983|Error|1|2
+16135162|san jose, ca|0|Error|1|2
+16135162|san jose, ca|16111281|Florida, USA |1|2
+16135162|san jose, ca|13756112|Arizona|1|2
+16135162|san jose, ca|16369316|Rio Rancho, NM|1|2
+16135162|san jose, ca|0|Error|1|2
+16135162|san jose, ca|77258577|Error|1|2
+16135162|san jose, ca|16637812|Alberta, Canada|1|2
+16135162|san jose, ca|338601496|Las Vegas, Nevada|1|2
+16135162|san jose, ca|3355991|Boston, MA USA|1|2
+16135162|san jose, ca|0|Error|1|2
+16135162|san jose, ca|0|Error|1|2
+16135162|san jose, ca|0|Error|1|2
+16135162|san jose, ca|0|Error|1|2
+16135162|san jose, ca|0|Error|1|2
+16135162|san jose, ca|0|Error|1|2
+16135162|san jose, ca|17180534|Ottawa, Canada|1|2
+16135162|san jose, ca|0|Error|1|2
+16135162|san jose, ca|15900022|Error|1|2
+16135162|san jose, ca|38543618|San Francisco-Oakland, CA|1|2
+16135162|san jose, ca|972651|Error|1|2
+16135162|san jose, ca|80495631|New Zealand|1|2
+16135162|san jose, ca|3283784246|Error|1|2
+14104649|san jose, ca|16333971|Online since 2005|3|2
+14104649|san jose, ca|13285722|Denver, CO|2|2
+14104649|san jose, ca|75408084|Toronto, Canada|1|2
+14104649|san jose, ca|16084004|LA|1|2
+14104649|san jose, ca|12446012|Error|1|2
+14104649|san jose, ca|21776830|28.443357,-81.590955|1|2
+14104649|san jose, ca|16116251|Livermore, CA|1|2
+14104649|san jose, ca|33352220|North Carolina|1|2
+14104649|san jose, ca|80650367|London|1|2
+14104649|san jose, ca|14104649|San Jose, CA|1|2
+14104649|san jose, ca|53262203|New Jersey|1|2
+14104649|san jose, ca|0|Error|1|2
+14104649|san jose, ca|18097149|Mt. Airy, MD|1|2
+14104649|san jose, ca|0|Error|1|2
+23410791|san jose, ca|28507412|Rocklin, CA|3|2
+23410791|san jose, ca|436137323|Error|2|2
+23410791|san jose, ca|18198992|Error|1|2
+23410791|san jose, ca|0|Error|1|2
+23410791|san jose, ca|15462161|Bridgewater, MA|1|2
+23410791|san jose, ca|23663768|Las Vegas|1|2
+19478958|san jose, ca|38933553|Southern California|4|2
+19478958|san jose, ca|16366160|Palo Alto, CA|2|2
+19478958|san jose, ca|2387476633|united states |2|2
+19478958|san jose, ca|3364122791|Error|2|2
+19478958|san jose, ca|44855751|Southern California, USA|2|2
+19478958|san jose, ca|815088|Error|1|2
+19478958|san jose, ca|27706718|North Cincy, OH |1|2
+19478958|san jose, ca|27198877|Atlanta, GA|1|2
+19478958|san jose, ca|47100634|Milwaukee, WI|1|2
+19478958|san jose, ca|0|Error|1|2
+19478958|san jose, ca|29975236|S. FL |1|2
+19478958|san jose, ca|0|Error|1|2
+19478958|san jose, ca|29998149|Ft. Worth, TX|1|2
+19478958|san jose, ca|0|Error|1|2
+19478958|san jose, ca|18743464|Nationwide|1|2
+19478958|san jose, ca|0|Error|1|2
+19478958|san jose, ca|14988996|Error|1|2
+19478958|san jose, ca|7212562|Dallas, Texas|1|2
+11353012|san jose, california|18598795|Sacramento and San Jose, CA|4|2
+11353012|san jose, california|21717094|Space (mentally)|3|2
+11353012|san jose, california|17196344|Denmark - Copenhagen|3|2
+11353012|san jose, california|20288394|Somewhere in ChronoSpace|2|2
+11353012|san jose, california|84796630|Maldives/Hogwarts/Colombo|2|2
+11353012|san jose, california|22140628|Leura, NSW Australia|2|2
+11353012|san jose, california|14374404|Centennial, CO|2|2
+11353012|san jose, california|3332291|Greeley, CO|1|2
+11353012|san jose, california|254839546|Portland, OR|1|2
+11353012|san jose, california|15362244|Phoenix, AZ|1|2
+11353012|san jose, california|18557972|Laguna Niguel, California|1|2
+11353012|san jose, california|5559022|33.542233,-112.206551|1|2
+11353012|san jose, california|387827055|Error|1|2
+11353012|san jose, california|71615815|Philadelphia, PA|1|2
+11353012|san jose, california|14511951|Error|1|2
+11353012|san jose, california|0|Error|1|2
+11353012|san jose, california|0|Error|1|2
+11353012|san jose, california|112224965|Error|1|2
+11353012|san jose, california|5476162|Error|1|2
+11353012|san jose, california|0|Error|1|2
+11353012|san jose, california|246601433|Error|1|2
+11353012|san jose, california|7957772|Illogan, Cornwall, UK|1|2
+6897862|san jose, ca|55938930|Error|20|2
+6897862|san jose, ca|180203527|Error|4|2
+6897862|san jose, ca|5772422|Washington DC|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|804438031|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|18692771|Chicago, IL|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|0|Error|1|2
+6897862|san jose, ca|36221199|Fort Lauderdale, FL|1|2
+6897862|san jose, ca|0|Error|1|2
+15680596|san jose, ca|0|Error|3|2
+15680596|san jose, ca|7145752|San Francisco, CA|3|2
+15680596|san jose, ca|11768352|Bay Area CA|3|2
+15680596|san jose, ca|38178075|San Francisco, CA|2|2
+15680596|san jose, ca|0|Error|2|2
+15680596|san jose, ca|19329393|New York City, New York|1|2
+15680596|san jose, ca|16023134|San Diego|1|2
+15680596|san jose, ca|1344951|San Francisco/New York|1|2
+15680596|san jose, ca|16531735|Error|1|2
+15680596|san jose, ca|15773107|Houston and on your TV|1|2
+15680596|san jose, ca|10846482|Austin, Texas|1|2
+8211402|san jose, ca|90220942|Error|1|2
+63786611|san jose, california|15667409|San Francisco, CA|15|2
+63786611|san jose, california|15527111|Worldwide|4|2
+63786611|san jose, california|14532072|New York, NY|3|2
+63786611|san jose, california|63786611|Location: All over the world.|2|2
+63786611|san jose, california|972651|Error|2|2
+63786611|san jose, california|17383325|Seattle|1|2
+63786611|san jose, california|14973247|California|1|2
+63786611|san jose, california|0|Error|1|2
+63786611|san jose, california|324399189|Error|1|2
+63786611|san jose, california|15267201|Estero, FL|1|2
+63786611|san jose, california|15546166|York Pa|1|2
+63786611|san jose, california|17686036|Minneapolis|1|2
+63786611|san jose, california|15917510|In the Middle of it ALL!|1|2
+63786611|san jose, california|34645403|Madison WI|1|2
+63786611|san jose, california|11009852|San Francisco/Silicon Valley|1|2
+63786611|san jose, california|19088090|Minneapolis, MN|1|2
+63786611|san jose, california|40863320|Girona|1|2
+63786611|san jose, california|0|Error|1|2
+63786611|san jose, california|11504|Boulder/NYC/Dallas|1|2
+63786611|san jose, california|40916051|McLean, VA / San Francisco, CA|1|2
+63786611|san jose, california|19901757|Error|1|2
+63786611|san jose, california|687363|Garland, Texas|1|2
+63786611|san jose, california|16404741|Sign for The 5 Mistakes Report|1|2
+63786611|san jose, california|0|Error|1|2
+63786611|san jose, california|3032|New York, NY|1|2
+63786611|san jose, california|0|Error|1|2
+63786611|san jose, california|18934099|Glasgow, Scotland|1|2
+63786611|san jose, california|17233787|Edmond, OK|1|2
+63786611|san jose, california|11412|San Francisco|1|2
+63786611|san jose, california|4456091|Sydney, Australia|1|2
+63786611|san jose, california|18114762|Nederland|1|2
+63786611|san jose, california|13568992|Manchester UK|1|2
+63786611|san jose, california|7912462|San Francisco, CA, USA|1|2
+63786611|san jose, california|10839402|Den Haag|1|2
+63786611|san jose, california|14735516|iPhone: 35.133138,-90.058687|1|2
+14191945|san jose, california|14120151|Cities worldwide|6|2
+14191945|san jose, california|816653|San Francisco, CA|2|2
+14191945|san jose, california|14727207|Mountain View, CA|1|2
+14191945|san jose, california|21496651|SF Bay Area|1|2
+14191945|san jose, california|657863|New York, NY|1|2
+14191945|san jose, california|972651|Error|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|8479062|Brooklyn via Chicago|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|36183|Laguna Beach, CA|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|18002296|Error|1|2
+14191945|san jose, california|35996843|Vancouver, BC|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|27479039|Lost Angeles and New York  |1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|21879024|San Diego & world at large|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|72403|Palo Alto, CA|1|2
+14191945|san jose, california|12528|San Francisco, CA|1|2
+14191945|san jose, california|13348|Half Moon Bay, California, USA|1|2
+14191945|san jose, california|1344951|San Francisco/New York|1|2
+14191945|san jose, california|12|California, USA|1|2
+14191945|san jose, california|858201|New York, NY|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|586|Mountains and Oceans|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|19058681|Los Angeles, California|1|2
+14191945|san jose, california|317080661|Error|1|2
+14191945|san jose, california|0|Error|1|2
+14191945|san jose, california|5768872|NYC|1|2
+14191945|san jose, california|896061|Portland|1|2
+801173|san jose, ca|8710132|New Lemuria|4|2
+801173|san jose, ca|4382071|Northeastern US|2|2
+801173|san jose, ca|161043|iPhone: 46.999268,-122.908112|2|2
+801173|san jose, ca|801157|Denver, CO 80205|2|2
+801173|san jose, ca|41156126|Madison, WI, USA|2|2
+801173|san jose, ca|811111|Lansing, MI|1|2
+801173|san jose, ca|15914175|USA|1|2
+801173|san jose, ca|801347|San Jose, CA. May 2014|1|2
+801173|san jose, ca|14838138|NYC|1|2
+801173|san jose, ca|789849|Earth v2|1|2
+801173|san jose, ca|0|Error|1|2
+801173|san jose, ca|7232752|bicoastal|1|2
+801173|san jose, ca|13223982|Idaho Falls, ID|1|2
+801173|san jose, ca|119898847|Error|1|2
+801173|san jose, ca|16246065|Tel Aviv Israel|1|2
+801173|san jose, ca|808764|Herriman, UT, USA|1|2
+801173|san jose, ca|813205|Long Beach, CA|1|2
+801173|san jose, ca|14322901|Indianapolis, IN|1|2
+801173|san jose, ca|811146|Seattle, WA, USA|1|2
+801173|san jose, ca|40732698|Silicon Valley|1|2
+801173|san jose, ca|801173|Silicon Valley, CA & PHX,AZ|1|2
+71523292|san jose, ca|50816626|iphone:35.598487,-77.344641|3|2
+71523292|san jose, ca|38171776|Greenville, NC 27858|2|2
+71523292|san jose, ca|45302747|Here and there|2|2
+71523292|san jose, ca|0|Error|2|2
+71523292|san jose, ca|79012033|La Mesa, Ca|2|2
+71523292|san jose, ca|0|Error|2|2
+71523292|san jose, ca|72430649|Los Gatos, CA|1|2
+71523292|san jose, ca|19742312|Chicago|1|2
+71523292|san jose, ca|58738112|Derry NH |1|2
+71523292|san jose, ca|32722048|#UTAH!|1|2
+71523292|san jose, ca|63688583|Southern California|1|2
+71523292|san jose, ca|23072182|LOS ANGELES, CA|1|2
+71523292|san jose, ca|3192460063|Error|1|2
+71523292|san jose, ca|51836860|Error|1|2
+71523292|san jose, ca|67698949|Error|1|2
+71523292|san jose, ca|47849517|iPhone: 35.571404,-77.329384|1|2
+71523292|san jose, ca|15784253|iPhone: 45.519318,-122.653603|1|2
+71523292|san jose, ca|25488144|Taguig City|1|2
+71523292|san jose, ca|52144125|North Carolina |1|2
+71523292|san jose, ca|0|Error|1|2
+71523292|san jose, ca|14967840|Rochester, Minnesota|1|2
+71523292|san jose, ca|16222844|western NC|1|2
+71523292|san jose, ca|22174596|Detroit Mi|1|2
+47407501|san jose, ca|33858901|Davis, CA|3|2
+47407501|san jose, ca|10111762|SF Bay Area|2|2
+47407501|san jose, ca|11883132|San Francisco|1|2
+47407501|san jose, ca|37280660|Deep Space 9|1|2
+47407501|san jose, ca|74483822|Jamaica, NY|1|2
+58287789|san jose, ca|39458333|Error|1|2
+58287789|san jose, ca|20707831|Minneapolis, MN|1|2
+58287789|san jose, ca|31951181|Error|1|2
+58287789|san jose, ca|38060383|USA|1|2
+58287789|san jose, ca|14154259|Error|1|2
+58287789|san jose, ca|0|Error|1|2
+85157558|san jose, ca|0|Error|1|2
+85157558|san jose, ca|0|Error|1|2
+21064234|san jose, ca|66071089|United States|7|2
+21064234|san jose, ca|0|Error|1|2
+21064234|san jose, ca|9480732|Los Angeles, California|1|2
+21064234|san jose, ca|0|Error|1|2
+21064234|san jose, ca|0|Error|1|2
+18442894|san jose, ca|16995246|Error|5|2
+18442894|san jose, ca|49685582|Campbell, CA|5|2
+18442894|san jose, ca|0|Error|3|2
+18442894|san jose, ca|23094729|Error|3|2
+18442894|san jose, ca|17538767|Briarcliff Manor, NY|3|2
+18442894|san jose, ca|24415711|Portlandia|2|2
+18442894|san jose, ca|0|Error|2|2
+18442894|san jose, ca|27799407|Dallas, TX|2|2
+18442894|san jose, ca|0|Error|2|2
+18442894|san jose, ca|16185504|Apollo Beach, Florida|2|2
+18442894|san jose, ca|13399052|Victoria, Canada|1|2
+18442894|san jose, ca|68438975|Southern CA|1|2
+18442894|san jose, ca|33604954|Florida|1|2
+18442894|san jose, ca|0|Error|1|2
+18442894|san jose, ca|19671637|Phoenix, AZ|1|2
+18442894|san jose, ca|87715389|Error|1|2
+18442894|san jose, ca|0|Error|1|2
+18442894|san jose, ca|27910697|Quito, Ecuador|1|2
+18442894|san jose, ca|86646341|Error|1|2
+18442894|san jose, ca|2598521|Dallas|1|2
+18442894|san jose, ca|0|Error|1|2
+18442894|san jose, ca|217543789|Northern Virginia|1|2
+18442894|san jose, ca|0|Error|1|2
+18442894|san jose, ca|5258151|CA|1|2
+18442894|san jose, ca|20580968|London|1|2
+18442894|san jose, ca|42631508|Richmond, VA|1|2
+18442894|san jose, ca|0|Error|1|2
+18442894|san jose, ca|0|Error|1|2
+18442894|san jose, ca|19664871|Ohio|1|2
+18442894|san jose, ca|1941082171|Error|1|2
+18442894|san jose, ca|66874431|Eastern PA|1|2
+18442894|san jose, ca|80191173|New York State USA|1|2
+18442894|san jose, ca|65394826|Error|1|2
+18442894|san jose, ca|78665852|Austin, TX|1|2
+18442894|san jose, ca|57135698|Santa Clara, CA U.S.A|1|2
+18442894|san jose, ca|9553512|Durham, nc|1|2
+18442894|san jose, ca|14211941|Boston, via Detroit|1|2
+18442894|san jose, ca|0|Error|1|2
+18442894|san jose, ca|44568981|Taipei, Taiwan|1|2
+18442894|san jose, ca|7823282|Amherst, NH|1|2
+18442894|san jose, ca|90419946|Plainfield, IL|1|2
+18442894|san jose, ca|0|Error|1|2
+18442894|san jose, ca|27783769|Charleston, SC|1|2
+18442894|san jose, ca|772299|Boston, MA|1|2
+18442894|san jose, ca|20189768|Madison, Wisconsin|1|2
+18442894|san jose, ca|38218845|Milwaukee|1|2
+18442894|san jose, ca|12480582|New York and beyond...|1|2
+18442894|san jose, ca|15116869|Error|1|2
+18442894|san jose, ca|18442894|San Jose, CA|1|2
+18442894|san jose, ca|0|Error|1|2
+18442894|san jose, ca|29747537|Copenhagen, Denmark|1|2
+18442894|san jose, ca|17366090|Dallas and Mineola, TX|1|2
+14250105|san jose, california|18666797|San Francisco|6|2
+14250105|san jose, california|2208665459|Australia|6|2
+14250105|san jose, california|15032404|Palo Alto, CA|3|2
+14250105|san jose, california|0|Error|3|2
+14250105|san jose, california|11549612|38.427055,-81.768462|3|2
+14250105|san jose, california|9958752|North Hollywood, CA|2|2
+14250105|san jose, california|816653|San Francisco, CA|2|2
+14250105|san jose, california|14250105|San Francisco, California|2|2
+14250105|san jose, california|8886982|Collierville, Tennessee, USA|2|2
+14250105|san jose, california|10917372|St Louis|2|2
+14250105|san jose, california|295250783|Error|2|2
+14250105|san jose, california|36141215|Peterborough|1|2
+14250105|san jose, california|57075315|Philly, PA|1|2
+14250105|san jose, california|0|Error|1|2
+14250105|san jose, california|972651|Error|1|2
+14250105|san jose, california|26191233|San Antonio, TX|1|2
+14250105|san jose, california|0|Error|1|2
+14250105|san jose, california|3619421|Error|1|2
+14250105|san jose, california|15503880|San Francisco, CA|1|2
+14250105|san jose, california|14590880|Seattle, WA|1|2
+14250105|san jose, california|0|Error|1|2
+14250105|san jose, california|14372143|Chicago, IL|1|2
+14250105|san jose, california|0|Error|1|2
+14250105|san jose, california|19489016|Burnley |1|2
+14250105|san jose, california|130584275|Denver, Colorado|1|2
+14250105|san jose, california|11651502|San-Francisco|1|2
+14250105|san jose, california|14703882|jordan@lugg.com|1|2
+14250105|san jose, california|364812372|Error|1|2
+14250105|san jose, california|17727888|Berlin|1|2
+14250105|san jose, california|15802846|St. Lucia|1|2
+14250105|san jose, california|14258220|Berlin|1|2
+14250105|san jose, california|13348|Half Moon Bay, California, USA|1|2
+14250105|san jose, california|0|Error|1|2
+14250105|san jose, california|18080669|Quantico, VA|1|2
+14250105|san jose, california|15609200|Berlin|1|2
+14250105|san jose, california|15352688|Melbourne, Australia|1|2
+15430155|san jose, california|21373404|Satan Island NY|2|2
+15430155|san jose, california|8247952|UK|1|2
+15430155|san jose, california|0|Error|1|2
+15430155|san jose, california|20299504|Manchester, England|1|2
+15430155|san jose, california|15433228|NYC|1|2
+15430155|san jose, california|0|Error|1|2
+15430155|san jose, california|2927936869|Error|1|2
+15430155|san jose, california|15615425|Seattle, WA|1|2
+15430155|san jose, california|14182224|Albany, NY|1|2
+14455855|san jose, ca|2739319055|Error|4|2
+14455855|san jose, ca|305043252|Baltimore|4|2
+14455855|san jose, ca|19098745|Boston|3|2
+14455855|san jose, ca|15297030|Error|2|2
+14455855|san jose, ca|23810435|Phoenix, AZ|2|2
+14455855|san jose, ca|0|Error|2|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|11883132|San Francisco|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|110925208|Error|1|2
+14455855|san jose, ca|166626359|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|4312721|Error|1|2
+14455855|san jose, ca|15856164|New York, NY|1|2
+14455855|san jose, ca|28202829|Las Vegas, NV|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|452635253|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|18863894|Stockholm, Sweden|1|2
+14455855|san jose, ca|70412969|Research Triangle Park, NC|1|2
+14455855|san jose, ca|18185124|Sydney, Australia|1|2
+14455855|san jose, ca|23630766|San Francisco|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|17342619|Tulsa,OK|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|20609534|San Francisco / Silicon Valley|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|11335322|Wichita KS - Derby KS - USA|1|2
+14455855|san jose, ca|12611542|Germany|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|0|Error|1|2
+14455855|san jose, ca|18489678|Vancouver, Canada|1|2
+17136186|san jose, ca|3244801|North Carolina, USA|4|2
+17136186|san jose, ca|7618952|iPhone: 37.761204,-122.228493|3|2
+17136186|san jose, ca|36093693|San Francisco |3|2
+17136186|san jose, ca|26401759|Error|2|2
+17136186|san jose, ca|15828897|Error|2|2
+17136186|san jose, ca|26185961|San Jose, CA|1|2
+17136186|san jose, ca|14375294|Cornwall|1|2
+17136186|san jose, ca|15341378|Cleveland, Tennessee|1|2
+17136186|san jose, ca|60339361|Auckland, New Zealand|1|2
+17136186|san jose, ca|19192943|Palo Alto, CA|1|2
+17136186|san jose, ca|46250388|Surrey,  United Kingdom|1|2
+17136186|san jose, ca|9737032|Error|1|2
+17136186|san jose, ca|15100692|California|1|2
+17136186|san jose, ca|0|Error|1|2
+17136186|san jose, ca|833071|Palo Alto, California|1|2
+17136186|san jose, ca|7736942|Atlanta|1|2
+17136186|san jose, ca|14540593|Bay Area, CA|1|2
+17136186|san jose, ca|17136186|San Jose, CA|1|2
+17136186|san jose, ca|782502|Redmond aka Eastern Washington|1|2
+17136186|san jose, ca|15851563|Boulder, Colorado; The World|1|2
+17136186|san jose, ca|9549942|New York|1|2
+17136186|san jose, ca|18300322|San Jose, California|1|2
+17136186|san jose, ca|28917001|Hong Kong|1|2
+17136186|san jose, ca|317080661|Error|1|2
+17136186|san jose, ca|0|Error|1|2
+17136186|san jose, ca|8470272|Green Bay|1|2
+21331069|san jose, ca|8825152|Berkeley/Bay Area|2|2
+21331069|san jose, ca|15400778|iPhone: 37.533394,-122.001122|2|2
+21331069|san jose, ca|0|Error|2|2
+21331069|san jose, ca|15643814|Bakersfield, CA|1|2
+10846482|san jose, ca|9348562|San Francisco, CA|10|2
+10846482|san jose, ca|26117264|Vegas|6|2
+10846482|san jose, ca|14656192|Long Island, NY|4|2
+10846482|san jose, ca|56653|Everywhere|4|2
+10846482|san jose, ca|5556762|Peering over the edge. |3|2
+10846482|san jose, ca|14863163|Vancouver. BC|3|2
+10846482|san jose, ca|19223008|Error|2|2
+10846482|san jose, ca|496723|Birmingham, AL|2|2
+10846482|san jose, ca|13359972|SF Bay Area, California|2|2
+10846482|san jose, ca|9075622|San Francisco, CA, USA|2|2
+10846482|san jose, ca|99723|Seattle, WA|2|2
+10846482|san jose, ca|14120151|Cities worldwide|2|2
+10846482|san jose, ca|2168587050|Error|2|2
+10846482|san jose, ca|1088411|Seat 2A|2|2
+10846482|san jose, ca|0|Error|2|2
+10846482|san jose, ca|14064923|Leeds, UK|2|2
+10846482|san jose, ca|14713133|San Francisco, CA|2|2
+10846482|san jose, ca|221111726|Boston, MA|2|2
+10846482|san jose, ca|9543092|Boston (South Shore)|2|2
+10846482|san jose, ca|0|Error|2|2
+10846482|san jose, ca|393570689|Austin, TX|2|2
+10846482|san jose, ca|0|Error|2|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|16818880|Atlanta, GA|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|1934671|Boston, Paris, Vegas, NYC|1|2
+10846482|san jose, ca|662763|SFO, BOS, NYC|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|10180652|Boston|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|826951|Las Vegas, NV|1|2
+10846482|san jose, ca|46498656|Mountain View, CA|1|2
+10846482|san jose, ca|14519522|San Carlos, CA|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|10846482|Austin, Texas|1|2
+10846482|san jose, ca|11063312|San Jose, Ca|1|2
+10846482|san jose, ca|813697|UK|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|3916381|San Francisco, CA|1|2
+10846482|san jose, ca|18432332|Escondido, CA|1|2
+10846482|san jose, ca|78393|Austin, TX|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|14139527|Bay Area [and Atlanta :)]|1|2
+10846482|san jose, ca|10201332|Austin|1|2
+10846482|san jose, ca|8784552|New York|1|2
+10846482|san jose, ca|9831802|Silicon Valley, CA|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|16064380|Boise, Idaho|1|2
+10846482|san jose, ca|14821812|Silicon Valley|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|2787551|Gone to the dogs, USA|1|2
+10846482|san jose, ca|37570179|Palo Alto, CA|1|2
+10846482|san jose, ca|15134782|San Francisco|1|2
+10846482|san jose, ca|19417850|San Francisco|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|844631|Silicon Valley, Ca.|1|2
+10846482|san jose, ca|9981522|Los Angeles, CA|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|480713486|Error|1|2
+10846482|san jose, ca|22934588|Vienna, VA|1|2
+10846482|san jose, ca|15208271|San Jose, CA|1|2
+10846482|san jose, ca|19243796|Atlanta, GA|1|2
+10846482|san jose, ca|8298342|Brooklyn, NY|1|2
+10846482|san jose, ca|14644509|Austin, TX|1|2
+10846482|san jose, ca|15093898|San Francisco|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|783937|Vancouver, WA|1|2
+10846482|san jose, ca|2180427349|Error|1|2
+10846482|san jose, ca|820828|Las Vegas & D.C. (via Chicago)|1|2
+10846482|san jose, ca|16206570|Silicon Valley|1|2
+10846482|san jose, ca|3656031|Valley|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|10202|Boston, MA|1|2
+14325391|san jose, ca|17930748|Error|3|2
+14325391|san jose, ca|541918305|Barcelona|1|2
+14325391|san jose, ca|248685888|Error|1|2
+14325391|san jose, ca|29360093|Whittier, CA, USA|1|2
+14325391|san jose, ca|43392481|San Jose, CA|1|2
+7440462|san jose, ca|2911221|San Francisco, CA|3|2
+7440462|san jose, ca|12604932|Grand Rapids, MI, USA|3|2
+7440462|san jose, ca|14178728|telecosm|2|2
+7440462|san jose, ca|14237651|San Francisco, Ca|2|2
+7440462|san jose, ca|14873711|South Bay Area (usually)|1|2
+7440462|san jose, ca|14305022|Palo Alto, CA|1|2
+7440462|san jose, ca|0|Error|1|2
+7440462|san jose, ca|14366976|San Francisco, CA|1|2
+7440462|san jose, ca|14239331|Syracuse, NY|1|2
+7440462|san jose, ca|0|Error|1|2
+7440462|san jose, ca|15178823|Cupertino CA, USA|1|2
+7440462|san jose, ca|3562421|New to NYC|1|2
+7440462|san jose, ca|756317|Menlo Park, CA|1|2
+7440462|san jose, ca|2621291|San Francisco|1|2
+7440462|san jose, ca|0|Error|1|2
+7440462|san jose, ca|9715522|san francisco|1|2
+7440462|san jose, ca|4874091|Charlotte, NC|1|2
+7440462|san jose, ca|7640362|Error|1|2
+7440462|san jose, ca|28039165|St. Louis|1|2
+7440462|san jose, ca|6068692|NYC / SF|1|2
+7440462|san jose, ca|9393542|sfbay|1|2
+7440462|san jose, ca|20690398|Error|1|2
+7440462|san jose, ca|219383121|Error|1|2
+7440462|san jose, ca|929|Denver, CO|1|2
+7440462|san jose, ca|0|Error|1|2
+7440462|san jose, ca|822640|Brooklyn, NY|1|2
+16354103|san jose, ca|12931092|Tampa, FL|2|2
+16354103|san jose, ca|4549571|Portland|1|2
+16354103|san jose, ca|14369749|Mission Viejo, California|1|2
+16354103|san jose, ca|5727392|Palo Alto, CA|1|2
+16354103|san jose, ca|30495974|Seattle, WA|1|2
+16354103|san jose, ca|0|Error|1|2
+16354103|san jose, ca|740983|San Francisco|1|2
+16354103|san jose, ca|14335498|The Internet|1|2
+16354103|san jose, ca|279107364|Error|1|2
+16354103|san jose, ca|756278|Seattle, WA|1|2
+16354103|san jose, ca|2181426774|Redwood Shores|1|2
+16354103|san jose, ca|14457811|Silicon Valley, CA|1|2
+16354103|san jose, ca|14517320|Redwood Shores, CA (USA)|1|2
+16354103|san jose, ca|788673|Brooklyn|1|2
+16354103|san jose, ca|816653|San Francisco, CA|1|2
+16354103|san jose, ca|8921852|NY, NY|1|2
+16354103|san jose, ca|0|Error|1|2
+16354103|san jose, ca|7617702|Salt Lake City, Utah|1|2
+16354103|san jose, ca|15944436|Cupertino, California|1|2
+16354103|san jose, ca|23338037|Somewhere in the 21st century|1|2
+16354103|san jose, ca|11435642|New York, NY|1|2
+16354103|san jose, ca|14621598|Mountain View, California, USA|1|2
+16354103|san jose, ca|11204762|San Francisco|1|2
+16354103|san jose, ca|0|Error|1|2
+16354103|san jose, ca|2893971|Austin, TX|1|2
+16354247|san jose, ca|0|Error|8|2
+16354247|san jose, ca|0|Error|5|2
+16354247|san jose, ca|0|Error|1|2
+16354247|san jose, ca|463197922|Error|1|2
+33418476|san jose, ca|0|Error|2|2
+33418476|san jose, ca|0|Error|1|2
+33418476|san jose, ca|0|Error|1|2
+17802579|san jose, ca|61391334|Error|3|2
+17802579|san jose, ca|25758693|Austin, TX|3|2
+17802579|san jose, ca|4637391|Minneapolis or Las Vegas|3|2
+17802579|san jose, ca|972651|Error|2|2
+17802579|san jose, ca|36200469|San Jose, CA|1|2
+17802579|san jose, ca|192121158|Error|1|2
+17802579|san jose, ca|14983052|Billings, MT|1|2
+17802579|san jose, ca|0|Error|1|2
+17802579|san jose, ca|72463038|Silicon Valley|1|2
+17802579|san jose, ca|3332632888|Error|1|2
+17802579|san jose, ca|43479724|California|1|2
+17802579|san jose, ca|20|San Francisco, CA, US|1|2
+17802579|san jose, ca|0|Error|1|2
+69444678|san jose, ca|24831562|singapore|10|2
+69444678|san jose, ca|0|Error|7|2
+69444678|san jose, ca|251968215|Noblesville, IN|7|2
+69444678|san jose, ca|40891771|Los Angeles|6|2
+69444678|san jose, ca|350274017|Error|5|2
+69444678|san jose, ca|530971881|Portland, Oregon|4|2
+69444678|san jose, ca|941724637|Error|3|2
+69444678|san jose, ca|0|Error|3|2
+69444678|san jose, ca|980447125|Error|2|2
+69444678|san jose, ca|25365536|where I'm meant to be...|2|2
+69444678|san jose, ca|0|Error|2|2
+69444678|san jose, ca|22180845|Houston, Texas|1|2
+69444678|san jose, ca|705942061|Millerstown P.a|1|2
+69444678|san jose, ca|579497544|Error|1|2
+69444678|san jose, ca|0|Error|1|2
+69444678|san jose, ca|17518588|Los Angeles|1|2
+69444678|san jose, ca|1062869144|Error|1|2
+69444678|san jose, ca|0|Error|1|2
+69444678|san jose, ca|43736146|Venice, CA|1|2
+69444678|san jose, ca|27141420|Sunny West Midlands,England,UK|1|2
+69444678|san jose, ca|85221222|Web|1|2
+69444678|san jose, ca|32959253|Error|1|2
+69444678|san jose, ca|51307567|Planet Earth|1|2
+69444678|san jose, ca|0|Error|1|2
+69444678|san jose, ca|1382158226|Error|1|2
+69444678|san jose, ca|23887236|Big City Of Dreams|1|2
+69444678|san jose, ca|71876190|Los Angeles|1|2
+69444678|san jose, ca|246364182|Error|1|2
+69444678|san jose, ca|0|Error|1|2
+69444678|san jose, ca|0|Error|1|2
+69444678|san jose, ca|0|Error|1|2
+69444678|san jose, ca|0|Error|1|2
+69444678|san jose, ca|3638504180|Error|1|2
+69444678|san jose, ca|0|Error|1|2
+69444678|san jose, ca|0|Error|1|2
+69444678|san jose, ca|48474896|Davis Center - Villanova, PA|1|2
+69444678|san jose, ca|25971788|Lufkin tx|1|2
+6401362|san jose, ca|0|Error|2|2
+6401362|san jose, ca|17364688|Edmond, OK|2|2
+6401362|san jose, ca|28114363|Bournemouth, Earth, Milky Way|2|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|304544185|Error|1|2
+6401362|san jose, ca|2534844067|Error|1|2
+6401362|san jose, ca|49167476|Error|1|2
+6401362|san jose, ca|33759968|Montreal|1|2
+6401362|san jose, ca|2976278742|Error|1|2
+6401362|san jose, ca|14784266|Berlin, Germany|1|2
+6401362|san jose, ca|4533541|Baltimore | Oakland | Sub Bass|1|2
+6401362|san jose, ca|56705955|Stuttgart (Germany)|1|2
+6401362|san jose, ca|270106409|CyberRecht.com|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|29600506|Chennai, India|1|2
+6401362|san jose, ca|69088498|Chicago|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|11980472|Pune, Maharashtra, India|1|2
+6401362|san jose, ca|14933478|United Kingdom|1|2
+6401362|san jose, ca|40995707|Berlin|1|2
+6401362|san jose, ca|45091430|Ljubljana, Slovenia|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|56744551|Taiwan|1|2
+6401362|san jose, ca|268626001|countdown city|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|321545786|Error|1|2
+6401362|san jose, ca|21042383|Drumheller, Alberta, Canada|1|2
+6401362|san jose, ca|811530|Cali|1|2
+6401362|san jose, ca|70396802|Error|1|2
+6401362|san jose, ca|20781939|Brazil|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|16391659|Biot, France|1|2
+6401362|san jose, ca|22797632|Error|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|20428950|Error|1|2
+6401362|san jose, ca|5544082|Bandung|1|2
+6401362|san jose, ca|6208172|Error|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|15615649|Neenah, WI|1|2
+6401362|san jose, ca|57626463|Hyderabad|1|2
+6401362|san jose, ca|63505103|Error|1|2
+6401362|san jose, ca|24753436|Karlsruhe|1|2
+6401362|san jose, ca|45650253|Error|1|2
+6401362|san jose, ca|67685880|Error|1|2
+6401362|san jose, ca|74146901|Mumbai|1|2
+6401362|san jose, ca|297851139|Manchester|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|18821367|Dracena, SP|1|2
+6401362|san jose, ca|91506741|Error|1|2
+6401362|san jose, ca|14208395|Utrecht, NL|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|15687937|San Francisco|1|2
+6401362|san jose, ca|21205651|Berlin, Germany|1|2
+6401362|san jose, ca|7551182|Zirndorf|1|2
+6401362|san jose, ca|17468112|Error|1|2
+6401362|san jose, ca|28842979|Error|1|2
+6401362|san jose, ca|25283406|Error|1|2
+6401362|san jose, ca|20970144|Bonn, Germany|1|2
+6401362|san jose, ca|16534094|Error|1|2
+6401362|san jose, ca|69503405|Error|1|2
+6401362|san jose, ca|18424661|Malaysia|1|2
+6401362|san jose, ca|0|Error|1|2
+6401362|san jose, ca|9407902|Cleveland, Ohio|1|2
+6401362|san jose, ca|396608512|Error|1|2
+6401362|san jose, ca|16471324|Stockton, California|1|2
+6401362|san jose, ca|10293|erie, pa|1|2
+6401362|san jose, ca|26552398|Wien|1|2
+6401362|san jose, ca|15703424|36.089232,-79.889997|1|2
+6401362|san jose, ca|457020375|Error|1|2
+6401362|san jose, ca|75874128|Belgium|1|2
+14260862|san jose, ca|43937111|Bay Area, CA|4|2
+14260862|san jose, ca|5439702|San Francisco|3|2
+14260862|san jose, ca|14610529|Error|3|2
+14260862|san jose, ca|15359070|Error|2|2
+14260862|san jose, ca|788484|Kent|2|2
+14260862|san jose, ca|14607512|Error|2|2
+14260862|san jose, ca|15350768|37.622635,-122.416227|2|2
+14260862|san jose, ca|16973729|Sacramento, CA|2|2
+14260862|san jose, ca|14631239|Behind the door that needs the|1|2
+14260862|san jose, ca|15811359|San Mateo, CA|1|2
+14260862|san jose, ca|0|Error|1|2
+14260862|san jose, ca|58668876|Baltimore|1|2
+14260862|san jose, ca|14620646|Hannah, MT|1|2
+14260862|san jose, ca|16075862|Error|1|2
+14260862|san jose, ca|0|Error|1|2
+14260862|san jose, ca|0|Error|1|2
+15446308|san jose, california|0|Error|4|2
+15446308|san jose, california|0|Error|1|2
+15446308|san jose, california|21484256|Error|1|2
+15446308|san jose, california|4117038142|Error|1|2
+15446308|san jose, california|0|Error|1|2
+15446308|san jose, california|1643973835|GeniusParties@gmail.com|1|2
+15446308|san jose, california|15258949|Oakland, CA|1|2
+15446308|san jose, california|17470801|Error|1|2
+15446308|san jose, california|0|Error|1|2
+24733117|san jose, ca|91129287|Error|4|2
+24733117|san jose, ca|16129920|New York, NY USA|2|2
+24733117|san jose, ca|34376087|San Jose CA|2|2
+24733117|san jose, ca|16367986|SoCal|2|2
+24733117|san jose, ca|25704351|USA|1|2
+24733117|san jose, ca|16897198|Hartford, CT|1|2
+24733117|san jose, ca|820694|my radical ideas infecting you|1|2
+24733117|san jose, ca|0|Error|1|2
+24733117|san jose, ca|2562034951|bogota|1|2
+24733117|san jose, ca|19430190|Error|1|2
+24733117|san jose, ca|14924233|New York|1|2
+24733117|san jose, ca|39294154|Hawaii|1|2
+24733117|san jose, ca|16491133|iPhone: 45.548840,-122.677383|1|2
+24733117|san jose, ca|14957147|Los Angeles, CA|1|2
+24733117|san jose, ca|15109462|Levittown, PA, USA|1|2
+24733117|san jose, ca|15774048|New York NY (Forest Hills) USA|1|2
+24733117|san jose, ca|18548184|Minnesota|1|2
+24733117|san jose, ca|0|Error|1|2
+14923710|san jose, ca|972651|Error|5|2
+14923710|san jose, ca|14470037|Oakland/Melbourne/Berlin/Rio|3|2
+14923710|san jose, ca|0|Error|3|2
+14923710|san jose, ca|6193182|San Diego, CA|2|2
+14923710|san jose, ca|0|Error|1|2
+14923710|san jose, ca|56166348|PA|1|2
+14923710|san jose, ca|0|Error|1|2
+14923710|san jose, ca|11883132|San Francisco|1|2
+14923710|san jose, ca|0|Error|1|2
+14923710|san jose, ca|14803701|Everywhere|1|2
+14923710|san jose, ca|4641021|World Wide Web|1|2
+14923710|san jose, ca|16157558|San Jose, CA|1|2
+14923710|san jose, ca|20508477|New York|1|2
+14923710|san jose, ca|0|Error|1|2
+14923710|san jose, ca|816653|San Francisco, CA|1|2
+25053585|san jose, ca|81166900|Error|1|2
+25053585|san jose, ca|0|Error|1|2
+25053585|san jose, ca|0|Error|1|2
+25053585|san jose, ca|57926891|Philippines|1|2
+25053585|san jose, ca|16679912|Toronto, Canada|1|2
+25053585|san jose, ca|9473312|Subic/QC, Philippines|1|2
+25053585|san jose, ca|14632998|Writing Articles|1|2
+25053585|san jose, ca|0|Error|1|2
+25053585|san jose, ca|17508476|San Jose, California|1|2
+25053585|san jose, ca|21268095|Error|1|2
+25053585|san jose, ca|175680564|Error|1|2
+25053585|san jose, ca|0|Error|1|2
+12040902|san jose, california|12634292|Baia Mare, Romania|2|2
+12040902|san jose, california|22082073|Maui, Hawaii|2|2
+12040902|san jose, california|952651|Yorba Linda, CA|2|2
+12040902|san jose, california|0|Error|1|2
+12040902|san jose, california|22547143|Error|1|2
+12040902|san jose, california|14484850|Chicago, IL|1|2
+12040902|san jose, california|0|Error|1|2
+12040902|san jose, california|0|Error|1|2
+12040902|san jose, california|0|Error|1|2
+12040902|san jose, california|0|Error|1|2
+12040902|san jose, california|15093898|San Francisco|1|2
+12040902|san jose, california|0|Error|1|2
+12040902|san jose, california|0|Error|1|2
+12040902|san jose, california|0|Error|1|2
+12040902|san jose, california|0|Error|1|2
+12040902|san jose, california|15642015|San Francisco|1|2
+12040902|san jose, california|0|Error|1|2
+12040902|san jose, california|0|Error|1|2
+12040902|san jose, california|2003741|Sydney|1|2
+12040902|san jose, california|0|Error|1|2
+39829513|san jose, ca|0|Error|2|2
+39829513|san jose, ca|0|Error|1|2
+39829513|san jose, ca|0|Error|1|2
+39829513|san jose, ca|0|Error|1|2
+39829513|san jose, ca|2557521|Bristol, CT|1|2
+39829513|san jose, ca|0|Error|1|2
+39829513|san jose, ca|69753299|Miami Beach|1|2
+39829513|san jose, ca|0|Error|1|2
+39829513|san jose, ca|0|Error|1|2
+39829513|san jose, ca|0|Error|1|2
+39829513|san jose, ca|430722807|Wisconsin|1|2
+39829513|san jose, ca|42562446|Worldwide|1|2
+39829513|san jose, ca|45069201|Error|1|2
+39829513|san jose, ca|63331571|NYC|1|2
+39829513|san jose, ca|27746429|LA, beach & backyard w/ kiddos|1|2
+39829513|san jose, ca|57489671|East Bay|1|2
+39829513|san jose, ca|33950000|Hayward, California|1|2
+39829513|san jose, ca|36218148|Error|1|2
+39829513|san jose, ca|40308146|Land of Champions(Bay Area)|1|2
+39829513|san jose, ca|2220374492|Error|1|2
+39829513|san jose, ca|0|Error|1|2
+51757223|san jose, california|56463364|Los Angeles, CA|38|2
+51757223|san jose, california|3240342404|Syria|6|2
+51757223|san jose, california|24100737|New York |5|2
+51757223|san jose, california|240669367|Error|5|2
+51757223|san jose, california|0|Error|5|2
+51757223|san jose, california|0|Error|4|2
+51757223|san jose, california|1021199239|NYC|3|2
+51757223|san jose, california|0|Error|2|2
+51757223|san jose, california|0|Error|2|2
+51757223|san jose, california|25415558|cincinnati|2|2
+51757223|san jose, california|0|Error|2|2
+51757223|san jose, california|0|Error|2|2
+51757223|san jose, california|0|Error|2|2
+51757223|san jose, california|0|Error|2|2
+51757223|san jose, california|0|Error|2|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|551105793|Houston Texas|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|946918453|The T Dot!|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|59291136|Error|1|2
+51757223|san jose, california|119220335|Error|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|266872539|Error|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|14230524|Error|1|2
+51757223|san jose, california|70046014|CALIFORNIA!|1|2
+51757223|san jose, california|31002675|Error|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|29158064|Error|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|0|Error|1|2
+51757223|san jose, california|348810178|ON Set|1|2
+14402027|san jose, ca|72692279|Boulder, CO|2|2
+20400963|san jose, california|1934802841|San Francisco|4|2
+20400963|san jose, california|2803|Error|4|2
+20400963|san jose, california|15029970|Planet Earth|3|2
+20400963|san jose, california|65973559|Error|2|2
+20400963|san jose, california|19505248|Michigan, USA|2|2
+20400963|san jose, california|47735605|Bay Area, California USA|2|2
+20400963|san jose, california|6288762|Lehigh Valley, PA|1|2
+20400963|san jose, california|0|Error|1|2
+20400963|san jose, california|1143031|Melbourne, Australia|1|2
+20400963|san jose, california|0|Error|1|2
+20400963|san jose, california|972651|Error|1|2
+20400963|san jose, california|0|Error|1|2
+20400963|san jose, california|0|Error|1|2
+20400963|san jose, california|121654524|Error|1|2
+20400963|san jose, california|14066925|San Diego|1|2
+20400963|san jose, california|18863894|Stockholm, Sweden|1|2
+20400963|san jose, california|53925101|The Social Media Jungle|1|2
+20400963|san jose, california|12311122|Error|1|2
+20400963|san jose, california|16886925|South Florida|1|2
+20400963|san jose, california|0|Error|1|2
+20400963|san jose, california|0|Error|1|2
+20400963|san jose, california|8820652|San Diego, California |1|2
+20400963|san jose, california|711303|NYC | Long Island|1|2
+20400963|san jose, california|3533231|Boston, MA|1|2
+20400963|san jose, california|14056454|Sonoma, CA|1|2
+20400963|san jose, california|18086367|Washington, D.C.|1|2
+40617523|san jose, ca|0|Error|2|2
+40617523|san jose, ca|0|Error|1|2
+40617523|san jose, ca|29385939|around...|1|2
+40617523|san jose, ca|0|Error|1|2
+40617523|san jose, ca|225489051|SFO | OAK|1|2
+40617523|san jose, ca|0|Error|1|2
+40617523|san jose, ca|0|Error|1|2
+40617523|san jose, ca|144422077|Patillas, PR|1|2
+17467474|san jose, ca|0|Error|5|2
+17467474|san jose, ca|0|Error|5|2
+17467474|san jose, ca|185360060|Error|5|2
+17467474|san jose, ca|26204751|Error|2|2
+17467474|san jose, ca|3940101|Santa Fe, NM|2|2
+17467474|san jose, ca|0|Error|2|2
+17467474|san jose, ca|23117558|Los Angeles, CA|2|2
+17467474|san jose, ca|993481|Palo Alto, CA|2|2
+17467474|san jose, ca|11883132|San Francisco|1|2
+17467474|san jose, ca|38510562|Error|1|2
+17467474|san jose, ca|19734266|Seattle, WA|1|2
+17467474|san jose, ca|45645167|39.164694,-77.190059|1|2
+17467474|san jose, ca|14482799|Silicon Valley, Bay Area|1|2
+17467474|san jose, ca|0|Error|1|2
+17467474|san jose, ca|160789311|Error|1|2
+17467474|san jose, ca|48698771|Error|1|2
+17467474|san jose, ca|0|Error|1|2
+17467474|san jose, ca|0|Error|1|2
+17467474|san jose, ca|2788091|Arthur, IA|1|2
+17467474|san jose, ca|20161281|glasgow|1|2
+17467474|san jose, ca|25359377|St. Louis, MO|1|2
+17467474|san jose, ca|45483996|San Diego, CA|1|2
+17467474|san jose, ca|16708075|Beirut, Lebanon|1|2
+17467474|san jose, ca|1974301|Margaritaville, FL|1|2
+20523503|san jose, ca|134713446|Error|21|2
+20523503|san jose, ca|51243147|Over The Colorful Rainbow!|8|2
+20523503|san jose, ca|480603249|Error|6|2
+20523503|san jose, ca|19435705|Brussels, Belgium|5|2
+20523503|san jose, ca|0|Error|4|2
+20523503|san jose, ca|10894022|Melbourne, Australia|3|2
+20523503|san jose, ca|20426620|London, UK|3|2
+20523503|san jose, ca|17813433|Silicon Valley|2|2
+20523503|san jose, ca|26049732|Hertfordshire|2|2
+20523503|san jose, ca|50776354|somerset|2|2
+20523503|san jose, ca|28732357|Error|2|2
+20523503|san jose, ca|28109526|Kastoria - Greece|1|2
+20523503|san jose, ca|0|Error|1|2
+20523503|san jose, ca|21818383|Tigard Oregon|1|2
+20523503|san jose, ca|32813711|Tulsa, Oklahoma|1|2
+20523503|san jose, ca|30727676| the pacific wonderland|1|2
+18469760|san jose, ca|7861312|Los Angeles, CA|3|2
+18469760|san jose, ca|34573979|Error|3|2
+18469760|san jose, ca|0|Error|2|2
+18469760|san jose, ca|8008212|The world...of Warcraft!|1|2
+18469760|san jose, ca|14147915|Error|1|2
+18469760|san jose, ca|14832789|Error|1|2
+18469760|san jose, ca|8174142|Phoenix, AZ|1|2
+18469760|san jose, ca|5658692|South San Francisco, CA|1|2
+18469760|san jose, ca|16817883|New York, New York|1|2
+18469760|san jose, ca|20536157|Mountain View, CA|1|2
+18469760|san jose, ca|0|Error|1|2
+18469760|san jose, ca|0|Error|1|2
+18469760|san jose, ca|14748524|Irvine, CA|1|2
+18469760|san jose, ca|2999412805|Error|1|2
+18469760|san jose, ca|1574681|Error|1|2
+15637731|san jose, ca|14839225|SJ|1|2
+15637731|san jose, ca|0|Error|1|2
+15637731|san jose, ca|5803172|94560|1|2
+15637731|san jose, ca|0|Error|1|2
+15637731|san jose, ca|20493591|Brooklyn|1|2
+14670033|san jose, california|65542098|Boulder, Colorado|1|2
+14670033|san jose, california|21879024|San Diego & world at large|1|2
+14670033|san jose, california|766018896|Error|1|2
+14670033|san jose, california|15940077|Amesbury,MA|1|2
+14670033|san jose, california|0|Error|1|2
+14670033|san jose, california|20100217|Australia|1|2
+14670033|san jose, california|18379076|Portland, OR|1|2
+14670033|san jose, california|14349096|Error|1|2
+14670033|san jose, california|1969465698|Error|1|2
+14670033|san jose, california|130584275|Denver, Colorado|1|2
+14670033|san jose, california|19930265|West Sussex|1|2
+14670033|san jose, california|48141097|Error|1|2
+7855592|san jose, ca|55672014|Dol Amroth|6|2
+7855592|san jose, ca|19293977|Virginia|5|2
+7855592|san jose, ca|15264411|Roaming USA|5|2
+7855592|san jose, ca|33531486|Uncanny Valley|4|2
+7855592|san jose, ca|20538289|Atlanta, GA|4|2
+7855592|san jose, ca|18684547|Boca Raton, FL|2|2
+7855592|san jose, ca|5430762|Nashville, Tennessee|1|2
+7855592|san jose, ca|687413|New York, USA, Earth|1|2
+7855592|san jose, ca|2249935477|Spartax, Earth-616|1|2
+7855592|san jose, ca|1189915093|Error|1|2
+7855592|san jose, ca|0|Error|1|2
+20570628|san jose, ca|26109622|Error|1|2
+38381009|san jose, california|133985899|Error|3|2
+38381009|san jose, california|54365543|Los Angeles, CA|2|2
+38381009|san jose, california|27159498|Error|2|2
+38381009|san jose, california|287591112|jos,Nigeria|2|2
+38381009|san jose, california|14871174|Verona, NJ|1|2
+38381009|san jose, california|14080704|Whitefish, MT & the world!|1|2
+38381009|san jose, california|16159335|Error|1|2
+38381009|san jose, california|18083141|Vancouver, BC.|1|2
+38381009|san jose, california|36165060|Florida |1|2
+38381009|san jose, california|1143031|Melbourne, Australia|1|2
+38381009|san jose, california|749963|Honolulu, HI|1|2
+38381009|san jose, california|28043233|Australia|1|2
+38381009|san jose, california|55232733|Richmond, VA|1|2
+38381009|san jose, california|0|Error|1|2
+38381009|san jose, california|17640355|Suwanee, Georgia|1|2
+38381009|san jose, california|18204778|Portland, OR|1|2
+14935281|san jose, ca|0|Error|4|2
+14935281|san jose, ca|0|Error|4|2
+14935281|san jose, ca|0|Error|3|2
+14935281|san jose, ca|972651|Error|2|2
+14935281|san jose, ca|0|Error|2|2
+14935281|san jose, ca|0|Error|2|2
+14935281|san jose, ca|0|Error|2|2
+14935281|san jose, ca|0|Error|2|2
+14935281|san jose, ca|18656711|Rochester, MN|2|2
+14935281|san jose, ca|0|Error|2|2
+14935281|san jose, ca|11348282|Error|2|2
+14935281|san jose, ca|16947962|Boston, MA|1|2
+14935281|san jose, ca|0|Error|1|2
+14935281|san jose, ca|14089907|Hillsborough, NJ|1|2
+14935281|san jose, ca|11489|San Francisco, CA |1|2
+14935281|san jose, ca|23453176|St. Simons Island, GA|1|2
+14935281|san jose, ca|221111726|Boston, MA|1|2
+14935281|san jose, ca|22017602|San Diego / NYC|1|2
+14935281|san jose, ca|817268|Silicon Valley|1|2
+14935281|san jose, ca|14208571|North of Boston, MA|1|2
+14935281|san jose, ca|0|Error|1|2
+14935281|san jose, ca|369825792|Error|1|2
+14935281|san jose, ca|10685262|San Francisco|1|2
+14935281|san jose, ca|0|Error|1|2
+14935281|san jose, ca|0|Error|1|2
+14935281|san jose, ca|0|Error|1|2
+14935281|san jose, ca|0|Error|1|2
+14935281|san jose, ca|1586501|LA|1|2
+14935281|san jose, ca|174853|West of the swamps of Jersey|1|2
+14935281|san jose, ca|11911082|Los Angeles & Charlotte|1|2
+14935281|san jose, ca|11435642|New York, NY|1|2
+14935281|san jose, ca|711303|NYC | Long Island|1|2
+14935281|san jose, ca|24291042|Boston|1|2
+17295879|san jose, ca|16711025|San Jose, CA|3|2
+17295879|san jose, ca|14185226|Seattle|3|2
+17295879|san jose, ca|17093834|Silicon Valley|1|2
+17295879|san jose, ca|20343204|Seattle, WA|1|2
+17295879|san jose, ca|27457788|London - NYC - LA|1|2
+17295879|san jose, ca|46763344|Los Angeles, CA|1|2
+17295879|san jose, ca|2779128578|Nantes|1|2
+17295879|san jose, ca|18456078|Santa Clara, CA|1|2
+17295879|san jose, ca|0|Error|1|2
+17295879|san jose, ca|130584275|Denver, Colorado|1|2
+17820571|san jose, ca|15412985|McKinney, TX|2|2
+17820571|san jose, ca|314398035|Error|1|2
+17820571|san jose, ca|0|Error|1|2
+17820571|san jose, ca|13501922|Here & Now|1|2
+17820571|san jose, ca|0|Error|1|2
+17820571|san jose, ca|76217761|Dallas, TX|1|2
+17820571|san jose, ca|0|Error|1|2
+17820571|san jose, ca|67137035|Las Vegas, NV  USA|1|2
+17820571|san jose, ca|17820571|San Jose, CA|1|2
+17820571|san jose, ca|83189838|USA|1|2
+18869730|san jose, ca|15030098|Washington D.C. @|17|2
+18869730|san jose, ca|20084248|Los Angeles, CA|6|2
+18869730|san jose, ca|0|Error|3|2
+18869730|san jose, ca|19894838|Global|3|2
+18869730|san jose, ca|14601679|Atlanta GA #BeFirstOrFollow|2|2
+18869730|san jose, ca|18735276|Omaha, NE|2|2
+18869730|san jose, ca|0|Error|2|2
+18869730|san jose, ca|345088426|Error|2|2
+18869730|san jose, ca|14122498|Bethesda|2|2
+18869730|san jose, ca|0|Error|2|2
+18869730|san jose, ca|19478669|Huntsville, Nashville, Philly|2|2
+18869730|san jose, ca|1970524758|Toronto, Canada|2|2
+18869730|san jose, ca|0|Error|1|2
+18869730|san jose, ca|16261286|Montgomery, AL|1|2
+18869730|san jose, ca|0|Error|1|2
+18869730|san jose, ca|0|Error|1|2
+18869730|san jose, ca|15977854|South Florida|1|2
+18869730|san jose, ca|20942633|Washington D.C.|1|2
+18869730|san jose, ca|0|Error|1|2
+18869730|san jose, ca|17224082|Warren, MI (Detroit)|1|2
+18869730|san jose, ca|14612902|Error|1|2
+18869730|san jose, ca|19053661|Eastern US|1|2
+18869730|san jose, ca|45248161|Error|1|2
+18869730|san jose, ca|0|Error|1|2
+18869730|san jose, ca|2362032518|Error|1|2
+18869730|san jose, ca|14565509|Long Beach, CA|1|2
+18869730|san jose, ca|0|Error|1|2
+18869730|san jose, ca|58308017|Halifax|1|2
+18869730|san jose, ca|17999114|Washington D.C|1|2
+18869730|san jose, ca|14715628|Dallas, TX|1|2
+18869730|san jose, ca|19783513|Orange County, CA|1|2
+18869730|san jose, ca|17594530|...|1|2
+18869730|san jose, ca|0|Error|1|2
+18869730|san jose, ca|0|Error|1|2
+18869730|san jose, ca|0|Error|1|2
+32894508|san jose, ca|42492243|California|2|2
+32894508|san jose, ca|31411683|Lake Forest, CA|2|2
+32894508|san jose, ca|36976683|San Francisco Bay Area|2|2
+32894508|san jose, ca|0|Error|2|2
+32894508|san jose, ca|0|Error|2|2
+32894508|san jose, ca|28887814|palo alto|1|2
+32894508|san jose, ca|68021718|Monroe, NC|1|2
+32894508|san jose, ca|0|Error|1|2
+32894508|san jose, ca|12003102|San Jose, CA|1|2
+32894508|san jose, ca|31453914|Ocala-Horse Capital of USA|1|2
+32894508|san jose, ca|80263149|Melbourne Australia |1|2
+27961547|san jose, ca|3293314672|Worcester, MA|2|2
+27961547|san jose, ca|80676514|San Jose, CA|2|2
+27961547|san jose, ca|216105820|Error|1|2
+27961547|san jose, ca|0|Error|1|2
+27961547|san jose, ca|0|Error|1|2
+88079795|san jose, ca|19725058|Discovery Bay, CA|1|2
+88079795|san jose, ca|15590517|Error|1|2
+88079795|san jose, ca|16785187|Fresno, California|1|2
+88079795|san jose, ca|22007499|Error|1|2
+82050936|san jose, ca|0|Error|17|2
+82050936|san jose, ca|82287606|Error|2|2
+82050936|san jose, ca|29874810|Error|2|2
+82050936|san jose, ca|0|Error|1|2
+82050936|san jose, ca|42461677|San Diego/San Francisco|1|2
+82050936|san jose, ca|0|Error|1|2
+20971587|san jose, ca|25909206|Fort Walton Beach, Florida|1|2
+7673|san jose, ca|5813|Portland, OR|1|2
+7673|san jose, ca|15215365|San Francisco|1|2
+7673|san jose, ca|2266076373|Error|1|2
+7673|san jose, ca|19091935|bay area|1|2
+7673|san jose, ca|7543122|Brooklyn, NY|1|2
+7673|san jose, ca|7329972|san francisco|1|2
+7673|san jose, ca|16092377|Somewhere you're not.|1|2
+7673|san jose, ca|43291426|New York City/Chicago|1|2
+16954663|san jose, ca|4575681|Silicon Valley|3|2
+16954663|san jose, ca|19896854|Vancouver, Canada|2|2
+16954663|san jose, ca|18060430|Southern California|2|2
+16954663|san jose, ca|5274241|BOS, NYC, SEA|2|2
+16954663|san jose, ca|8096642|California|1|2
+16954663|san jose, ca|0|Error|1|2
+16954663|san jose, ca|0|Error|1|2
+16954663|san jose, ca|3080761|Bay Area, California|1|2
+16954663|san jose, ca|547383346|Error|1|2
+16954663|san jose, ca|0|Error|1|2
+56656991|san jose, california|0|Error|3|2
+56656991|san jose, california|2286647638|Error|1|2
+56656991|san jose, california|0|Error|1|2
+56656991|san jose, california|34652022|Arnhem, netherlands|1|2
+7376302|san jose, ca|20652441|Elk Grove, CA|4|2
+7376302|san jose, ca|0|Error|1|2
+7376302|san jose, ca|0|Error|1|2
+7376302|san jose, ca|4262221|Error|1|2
+7376302|san jose, ca|18755291|OAKLAND|1|2
+7376302|san jose, ca|20031242|Los Angeles, CA|1|2
+7376302|san jose, ca|0|Error|1|2
+7376302|san jose, ca|9506392|Hollywood, CA|1|2
+7376302|san jose, ca|0|Error|1|2
+16610468|san jose, ca|50692548|Nashville, TN|3|2
+16610468|san jose, ca|2184621|Edinburgh, Scotland|2|2
+16610468|san jose, ca|20709576|San Jose|2|2
+16610468|san jose, ca|27496154|Salem, OR|1|2
+16610468|san jose, ca|21316009|San Jose, CA|1|2
+16610468|san jose, ca|27961547|#SharksTerritory|1|2
+16610468|san jose, ca|0|Error|1|2
+16610468|san jose, ca|0|Error|1|2
+16610468|san jose, ca|0|Error|1|2
+16610468|san jose, ca|16610468|San Jose, CA|1|2
+16610468|san jose, ca|21374539|NorCal|1|2
+16832889|san jose, california|17636701|Up in your networks|2|2
+16832889|san jose, california|6123762|New York, NY|2|2
+16832889|san jose, california|15076390|California|2|2
+16832889|san jose, california|14129987|New York (sometimes)|1|2
+16832889|san jose, california|794545|Pittsburgh PA|1|2
+16832889|san jose, california|0|Error|1|2
+16832889|san jose, california|0|Error|1|2
+16832889|san jose, california|15023698|California|1|2
+16832889|san jose, california|16292333|San Jose, CA|1|2
+16832889|san jose, california|0|Error|1|2
+16832889|san jose, california|0|Error|1|2
+16832889|san jose, california|9904692|Boulder, CO and Boston, MA|1|2
+16832889|san jose, california|18306866|All around!|1|2
+16832889|san jose, california|22186751|San Jose, CA|1|2
+16832889|san jose, california|14291043|San Jose, CA|1|2
+71361987|san jose, ca|12388192|DFW|5|2
+71361987|san jose, ca|25242194|Texas|4|2
+71361987|san jose, ca|71361987|San Jose, CA|2|2
+71361987|san jose, ca|68798242|Brookings, SD|1|2
+71361987|san jose, ca|0|Error|1|2
+71361987|san jose, ca|521443158|UK
+|1|2
+71361987|san jose, ca|0|Error|1|2
+71361987|san jose, ca|51945131|At my laptop|1|2
+71361987|san jose, ca|0|Error|1|2
+71361987|san jose, ca|30331181|God Save the Queen|1|2
+71361987|san jose, ca|559634297|Error|1|2
+71361987|san jose, ca|19999206|All Over the World!|1|2
+71361987|san jose, ca|15587754|Bomb shelter, stocking up.|1|2
+28375195|san jose, ca|0|Error|5|2
+28375195|san jose, ca|18513815|Oakland, California|4|2
+28375195|san jose, ca|20731695|LA to Miami|3|2
+28375195|san jose, ca|66126905|Colorado, USA|3|2
+28375195|san jose, ca|23027648|Into The Sun|2|2
+28375195|san jose, ca|130069920|SF LA & Berlin|2|2
+28375195|san jose, ca|21543254|booking: gigs@thudrumble.com|2|2
+28375195|san jose, ca|0|Error|2|2
+28375195|san jose, ca|7989792|Los Angeles, CA / Worldwide|2|2
+28375195|san jose, ca|24233001|prolly sumwhere eatin lol|2|2
+28375195|san jose, ca|20883507|Never Never Land|1|2
+28375195|san jose, ca|10040062|Los Angeles, US|1|2
+28375195|san jose, ca|24119113|Oakland CA|1|2
+28375195|san jose, ca|0|Error|1|2
+28375195|san jose, ca|71544125|Asteroid B612 |1|2
+28375195|san jose, ca|18095759|North America|1|2
+28375195|san jose, ca|22412456|Oakland, CA / Boulder, CO |1|2
+28375195|san jose, ca|34232422|Portland OR|1|2
+28375195|san jose, ca|41158515|San Jose, CA|1|2
+28375195|san jose, ca|14780081|San Diego, CA|1|2
+28375195|san jose, ca|0|Error|1|2
+28375195|san jose, ca|19637934|Los Angeles-ish|1|2
+28375195|san jose, ca|52830510|Venice Beach|1|2
+28375195|san jose, ca|54811241|Error|1|2
+28375195|san jose, ca|0|Error|1|2
+28375195|san jose, ca|8006342|San Francisco|1|2
+28375195|san jose, ca|29344169|Behind a Disused Railway Line|1|2
+19988013|san jose, ca|14332682|Montreal, NYC, LA|2|2
+19988013|san jose, ca|17929027|The Ruff|1|2
+19988013|san jose, ca|509424689|Error|1|2
+19988013|san jose, ca|278536936|Error|1|2
+19988013|san jose, ca|0|Error|1|2
+19988013|san jose, ca|24653986|California|1|2
+19988013|san jose, ca|2253894446|NYC BORN.|1|2
+19988013|san jose, ca|23647652|San Jose, CA|1|2
+16892359|san jose, ca|403896064|Error|2|2
+16892359|san jose, ca|17695517|Error|2|2
+16892359|san jose, ca|0|Error|1|2
+16892359|san jose, ca|325752513|Error|1|2
+57516330|san jose, ca|1225028149|Error|1|2
+57516330|san jose, ca|17919972|Error|1|2
+35777053|san jose, ca|0|Error|6|2
+35777053|san jose, ca|0|Error|3|2
+35777053|san jose, ca|0|Error|2|2
+35777053|san jose, ca|110938666|Error|1|2
+35777053|san jose, ca|0|Error|1|2
+35777053|san jose, ca|240443268|Error|1|2
+35777053|san jose, ca|36973087|Error|1|2
+16918532|san jose, ca|14100972|Boston, MA|1|2
+16918532|san jose, ca|15294198|Boulder|1|2
+16918532|san jose, ca|31235936|Woodland Park, CO|1|2
+16918532|san jose, ca|14116554|Los Angeles|1|2
+24258771|san jose, ca|8171622|Error|4|2
+24258771|san jose, ca|0|Error|2|2
+24258771|san jose, ca|0|Error|2|2
+24258771|san jose, ca|28428194|san jose, CA|1|2
+24258771|san jose, ca|15002695|Error|1|2
+24258771|san jose, ca|31556038|California|1|2
+24258771|san jose, ca|0|Error|1|2
+24258771|san jose, ca|19743731|Error|1|2
+24258771|san jose, ca|0|Error|1|2
+15877403|san jose, ca|18704291|Edgewater Park, NJ|3|2
+15877403|san jose, ca|25294150|Louisiana|3|2
+15877403|san jose, ca|8071902|Minneapolis / Minnesota / MN|3|2
+15877403|san jose, ca|754576|Los Angeles, CA|3|2
+15877403|san jose, ca|17243913|Los Angeles, CA|3|2
+15877403|san jose, ca|17365683|Florida|2|2
+15877403|san jose, ca|0|Error|2|2
+15877403|san jose, ca|247401446|Error|2|2
+15877403|san jose, ca|15651878|Nashville, TN|2|2
+15877403|san jose, ca|14923512| Houston,Texas|2|2
+15877403|san jose, ca|18081597|Oregon and Washington|2|2
+15877403|san jose, ca|287885493|Error|2|2
+15877403|san jose, ca|14221588|Dallas, Texas|2|2
+15877403|san jose, ca|3837411443|Error|2|2
+15877403|san jose, ca|15091876|Chicago, IL|2|2
+15877403|san jose, ca|27520685|everywhere|2|2
+15877403|san jose, ca|15848165|Slums of Beverly Hills|2|2
+15877403|san jose, ca|10156532|Burbank, Calif.|2|2
+15877403|san jose, ca|30032601|Portland, Oregon|2|2
+15877403|san jose, ca|15821161|Balearic Islands, Spain|2|2
+15877403|san jose, ca|21842565|Republic of Texas|1|2
+15877403|san jose, ca|22940475|New York, NY|1|2
+15877403|san jose, ca|16135883|Long Beach|1|2
+15877403|san jose, ca|19711670|Illinois|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|16819278|Hawaii to Virginia |1|2
+15877403|san jose, ca|14752465|California|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|798410|ATX|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|20006454|Chicago|1|2
+15877403|san jose, ca|18222696|Silicon Valley|1|2
+15877403|san jose, ca|15869368|Rome & Tuscany|1|2
+15877403|san jose, ca|19030036|Error|1|2
+15877403|san jose, ca|17616007|Sydney, Australia|1|2
+15877403|san jose, ca|14807544|Error|1|2
+15877403|san jose, ca|15877756|Guam|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|16619227|ottawa, Ontario|1|2
+15877403|san jose, ca|26149716|Instagram: TheMarleeMatlin|1|2
+15877403|san jose, ca|20661527|Dallas, Texas|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|14390225|New York, NY|1|2
+15877403|san jose, ca|42960104|Kansas City metro|1|2
+15877403|san jose, ca|14349013|SoCal|1|2
+15877403|san jose, ca|5893|Hook, Hampshire, UK|1|2
+15877403|san jose, ca|19930567|San Francisco, CA|1|2
+15877403|san jose, ca|21840691|Lenexa, Kan.|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|1729737902|Error|1|2
+15877403|san jose, ca|21524947|Washington, DC|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|27688800| Phoenix, Arizona|1|2
+15877403|san jose, ca|14936971|Portland, OR|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|20189768|Madison, Wisconsin|1|2
+15877403|san jose, ca|16436551|New York|1|2
+15877403|san jose, ca|52569895|Monmouth Oregon|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|43384520|Portland, OR|1|2
+15877403|san jose, ca|23491763|Chicago, IL|1|2
+15877403|san jose, ca|1615134607|Error|1|2
+15877403|san jose, ca|21018755|Around|1|2
+15877403|san jose, ca|740983|San Francisco|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|1340521|Portland (PDX), OR|1|2
+15877403|san jose, ca|18818334|Nashville, TN|1|2
+15877403|san jose, ca|125707876|Error|1|2
+15877403|san jose, ca|95373654|Alexandria, Virginia|1|2
+15877403|san jose, ca|14944241|Jersey City, NJ|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|9348562|San Francisco, CA|1|2
+15877403|san jose, ca|14601631|Atlanta, GA|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|16732298|USA waiting on #FreePalestine|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|18792870|Everywhere|1|2
+15877403|san jose, ca|14984463|Portland, Oregon|1|2
+15877403|san jose, ca|15295503|Los Angeles, CA|1|2
+15877403|san jose, ca|18773339|iPhone: 33.003479,-96.992584|1|2
+15877403|san jose, ca|15276401|North Carolina|1|2
+15877403|san jose, ca|14090414|San Francisco|1|2
+15877403|san jose, ca|17710684|Tex-Ass|1|2
+15877403|san jose, ca|21779723|Silly Ville|1|2
+15877403|san jose, ca|16228398|Error|1|2
+15877403|san jose, ca|19290107|Buffalo, NY|1|2
+15877403|san jose, ca|14777850|Roanoke, VA|1|2
+15877403|san jose, ca|24591398|evanston, IL|1|2
+15877403|san jose, ca|587080443|Error|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|15111918|Portland, OR|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|14438417|Orlando, FL|1|2
+15877403|san jose, ca|21311073|Louisville, Ky.|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|16302064|Portland|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|15685147|SLC, UT|1|2
+15877403|san jose, ca|19088572|Fort Lauderdale|1|2
+15877403|san jose, ca|14476147|New York City|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|8073492|Portland, Oregon, USA|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|21955058|Stage Right|1|2
+15877403|san jose, ca|0|Error|1|2
+15877403|san jose, ca|27045738|Chicagoland|1|2
+15877403|san jose, ca|7809522|Tucson, Arizona|1|2
+15877403|san jose, ca|493500314|Error|1|2
+15877403|san jose, ca|18512632|Sacramento, California|1|2
+15877403|san jose, ca|17150450|New York|1|2
+15877403|san jose, ca|15868821|Portland, Oregon|1|2
+15877403|san jose, ca|1268887250|Error|1|2
+15877403|san jose, ca|19036576|Birmingham & Atlanta|1|2
+15877403|san jose, ca|36141161|Gresham, Or|1|2
+15877403|san jose, ca|20069662|Chicago|1|2
+15877403|san jose, ca|63186793|San Francisco, CA|1|2
+15877403|san jose, ca|429140008|Error|1|2
+30566581|san jose, ca|28068655|Vallejo|3|2
+30566581|san jose, ca|1068000326|Error|1|2
+17984746|san jose, ca|0|Error|7|2
+17984746|san jose, ca|30678204|Error|3|2
+17984746|san jose, ca|18824773|Bay Area, California|1|2
+17984746|san jose, ca|33033|iPhone: 37.329224,-121.889923|1|2
+17984746|san jose, ca|18695007|Error|1|2
+17984746|san jose, ca|0|Error|1|2
+14846260|san jose, ca|0|Error|2|2
+14846260|san jose, ca|0|Error|2|2
+14846260|san jose, ca|9020432|Austin, TX|1|2
+14846260|san jose, ca|0|Error|1|2
+14846260|san jose, ca|0|Error|1|2
+14846260|san jose, ca|3101637512|Error|1|2
+36881201|san jose, ca|0|Error|1|2
+36881201|san jose, ca|743763|Error|1|2
+36881201|san jose, ca|36881201|San Jose, CA|1|2
+76731531|san jose, ca|15767403|Tucson, AZ|2|2
+76731531|san jose, ca|11853952|YouTube|1|2
+76731531|san jose, ca|25183947|Laguna Hills, CA|1|2
+76731531|san jose, ca|0|Error|1|2
+15924289|san jose, ca|17483763|United States|2|2
+15924289|san jose, ca|28420827|THE HOOD|1|2
+15924289|san jose, ca|14539324|Boston area|1|2
+15924289|san jose, ca|8453452|Silicon Valley, California|1|2
+15924289|san jose, ca|16627727|Chicago IL|1|2
+15924289|san jose, ca|11174572|Fremont, CA|1|2
+15924289|san jose, ca|3747211|Hong Kong|1|2
+15924289|san jose, ca|0|Error|1|2
+15924289|san jose, ca|19154824|Florida, USA|1|2
+15924289|san jose, ca|0|Error|1|2
+15924289|san jose, ca|479752645|Worldwide |1|2
+15924289|san jose, ca|0|Error|1|2
+15924289|san jose, ca|333539068|Error|1|2
+15924289|san jose, ca|145611885|philippines|1|2
+15924289|san jose, ca|18536530|Florence, Alabama|1|2
+29564311|san jose, ca|28904753|Error|17|2
+19082997|san jose, ca|0|Error|4|2
+19082997|san jose, ca|18127935|San Jose, CA|2|2
+19082997|san jose, ca|14821812|Silicon Valley|2|2
+19082997|san jose, ca|377132325|Error|2|2
+19082997|san jose, ca|26758522|Oklahoma|1|2
+19082997|san jose, ca|9839922|Silicon Valley|1|2
+24334211|san jose, ca|11026472|San Francisco, CA|6|2
+24334211|san jose, ca|33815823|Sacramento, CA|1|2
+24334211|san jose, ca|19637934|Los Angeles-ish|1|2
+42163796|san jose, ca|8711612|Ft. Worth, TX|3|2
+42163796|san jose, ca|0|Error|2|2
+42163796|san jose, ca|16228197|urf|1|2
+42163796|san jose, ca|14313755|Portland, Oregon, USA|1|2
+42163796|san jose, ca|265738047|Error|1|2
+42163796|san jose, ca|15741971|Portland, Oregon|1|2
+24347620|san jose, ca|24452710|Yay Area!!!!!|2|2
+24347620|san jose, ca|25550095|Bay Area, Ca|1|2
+24347620|san jose, ca|34882786|Error|1|2
+24347620|san jose, ca|0|Error|1|2
+24347620|san jose, ca|769908283|Error|1|2
+24347620|san jose, ca|14328636|California|1|2
+24347620|san jose, ca|469448559|Error|1|2
+24347620|san jose, ca|615259348|Error|1|2
+24347620|san jose, ca|38044217|San Francisco, CA|1|2
+5476742|san jose, ca|16158692|Croydon, New Hampshire |3|2
+5476742|san jose, ca|5370402|Bethesda, MD, USA|3|2
+5476742|san jose, ca|7802772|Washington DC|2|2
+5476742|san jose, ca|9463402|San Francisco, CA|2|2
+5476742|san jose, ca|16594440|Central Market|2|2
+5476742|san jose, ca|16630266|Alaska|1|2
+5476742|san jose, ca|10846482|Austin, Texas|1|2
+5476742|san jose, ca|16480987|NY|1|2
+5476742|san jose, ca|25327688|Error|1|2
+5476742|san jose, ca|18698775|Error|1|2
+5476742|san jose, ca|15975573|Seattle, WA|1|2
+5476742|san jose, ca|7769702|Baltimore, MD|1|2
+5476742|san jose, ca|0|Error|1|2
+5476742|san jose, ca|18055540|Chicago, IL|1|2
+5476742|san jose, ca|6424562|Scottsdale, AZ|1|2
+33803655|san jose, ca|24608636|Error|7|2
+33803655|san jose, ca|33276309|Stockholm|2|2
+33803655|san jose, ca|14638635|Springfield, Illinois|1|2
+40109567|san jose, ca|452606957|Error|6|2
+40109567|san jose, ca|0|Error|1|2
+40109567|san jose, ca|17296027|Error|1|2
+40109567|san jose, ca|11778882|Edmonton, Alberta |1|2
+40109567|san jose, ca|32482507|California|1|2
+14959062|san jose, ca|816653|San Francisco, CA|1|2
+16030730|san jose, ca|767637|ferndale, mi|5|2
+16030730|san jose, ca|166965208|London|2|2
+16030730|san jose, ca|31068750|Near San Jose, CA|2|2
+16030730|san jose, ca|24965606|Santa Clara, CA|1|2
+16030730|san jose, ca|14656192|Long Island, NY|1|2
+16030730|san jose, ca|15148814|Oakland, CA|1|2
+16030730|san jose, ca|3354840689|Error|1|2
+16030730|san jose, ca|0|Error|1|2
+27572482|san jose, ca|15888142|Los Angeles|3|2
+27572482|san jose, ca|0|Error|3|2
+27572482|san jose, ca|23375688|Los Angeles |2|2
+27572482|san jose, ca|21111883|DALLAS/LA|2|2
+27572482|san jose, ca|998062950|Error|1|2
+27572482|san jose, ca|15460081|Error|1|2
+27572482|san jose, ca|14550861|Layton, Utah|1|2
+37017064|san jose, ca|23563916|Republic of the Philippines :)|4|2
+37017064|san jose, ca|631606639|Error|3|2
+37017064|san jose, ca|14130478|iPhone: 37.377266,-122.148918|2|2
+37017064|san jose, ca|0|Error|1|2
+37017064|san jose, ca|38815052|Philippines|1|2
+37017064|san jose, ca|362752870|r.d|1|2
+74772130|san jose, ca|139778720|Error|4|2
+74772130|san jose, ca|177987688|Error|2|2
+74772130|san jose, ca|23746213|california|1|2
+74772130|san jose, ca|16292646|Seven Trees, CA (Bay Area) |1|2
+74772130|san jose, ca|0|Error|1|2
+74772130|san jose, ca|2796462816|Error|1|2
+74772130|san jose, ca|18014941|bay area.|1|2
+74772130|san jose, ca|32816117|Bay Area|1|2
+74772130|san jose, ca|63294714|Error|1|2
+1382561|san jose, ca|16027653|Los Angeles, CA|2|2
+1382561|san jose, ca|0|Error|1|2
+1382561|san jose, ca|14222536|Los Angeles, CA|1|2
+1382561|san jose, ca|16400030|San Jose, CA|1|2
+1382561|san jose, ca|23924842|Sacramento|1|2
+1382561|san jose, ca|14985524|Salt Lake City |1|2
+1382561|san jose, ca|14506253|Tauntuan belly|1|2
+14561350|san jose, ca|24228314|los angeles|1|2
+14561350|san jose, ca|8935782|California|1|2
+17124166|san jose, ca|2933061|Portland OR|3|2
+17124166|san jose, ca|14081916|San Jose, California|1|2
+17124166|san jose, ca|807062|PDX|1|2
+13989712|san jose, ca|3119648841|Error|3|2
+13989712|san jose, ca|19684031|San Jose, California, USA|1|2
+13989712|san jose, ca|0|Error|1|2
+13989712|san jose, ca|39278076|Fremont, Ca USA|1|2
+13989712|san jose, ca|14885496|New York, NY|1|2
+13989712|san jose, ca|44570946|Error|1|2
+13989712|san jose, ca|7600892|Bend, Oregon|1|2
+13989712|san jose, ca|14280930|Kingsburg, CA USA|1|2
+10846482|san jose, ca|19223008|Error|2|2
+10846482|san jose, ca|95953970|Error|2|2
+10846482|san jose, ca|14015762|Silicon Valley & Seattle|1|2
+10846482|san jose, ca|4400681|Florida|1|2
+10846482|san jose, ca|14874772|Corpus Christi, Texas|1|2
+10846482|san jose, ca|418|nyc / kingston|1|2
+10846482|san jose, ca|18030603|San Leandro, California|1|2
+10846482|san jose, ca|2276111|North Carolina, USA|1|2
+10846482|san jose, ca|8166312|Kansas City|1|2
+10846482|san jose, ca|37570179|Palo Alto, CA|1|2
+10846482|san jose, ca|56653|Everywhere|1|2
+10846482|san jose, ca|0|Error|1|2
+10846482|san jose, ca|9075622|San Francisco, CA, USA|1|2
+10846482|san jose, ca|14191616|South Padre Island, & Chicago|1|2
+10846482|san jose, ca|8034552|iPhone: 37.775440,-122.220676|1|2
+21335680|san jose, ca|56753026|Portland|4|2
+21335680|san jose, ca|16452958|San Jose, CA|3|2
+21335680|san jose, ca|24292300|Los Angeles|3|2
+21335680|san jose, ca|36379153|Error|1|2
+21335680|san jose, ca|15685618|San Diego|1|2
+21335680|san jose, ca|167164759|Error|1|2
+18191359|san jose, ca|119073106|Prague|2|2
+18191359|san jose, ca|40125673|Bay Area|1|2
+18191359|san jose, ca|4249521|Bainbridge Island, WA|1|2
+18191359|san jose, ca|0|Error|1|2
+18191359|san jose, ca|15843330|Los Angeles, CA|1|2
+21366635|san jose, california|16503218|Los Angeles, CA|6|2
+21366635|san jose, california|17372853|A Tale of Risky Business...|5|2
+21366635|san jose, california|154637738|everywhere .|4|2
+21366635|san jose, california|22307857|Error|4|2
+21366635|san jose, california|16498230|Lost Angeles|4|2
+21366635|san jose, california|0|Error|2|2
+21366635|san jose, california|15843439|Up In The Stars|2|2
+21366635|san jose, california|406687162|On Your Computer|2|2
+21366635|san jose, california|2202014756|Error|1|2
+21366635|san jose, california|0|Error|1|2
+21366635|san jose, california|19892500|Los Angeles|1|2
+21366635|san jose, california|25884760|Everywhere|1|2
+21366635|san jose, california|19956347|Manhattan, New York|1|2
+21366635|san jose, california|16870672|Los Angeles, CA|1|2
+21366635|san jose, california|3316198396|Error|1|2
+21366635|san jose, california|1878214897|Error|1|2
+21366635|san jose, california|0|Error|1|2
+21366635|san jose, california|21323673|Error|1|2
+21366635|san jose, california|18951965|Error|1|2
+21366635|san jose, california|21702363|Worldwide|1|2
+21366635|san jose, california|68880536|internet|1|2
+21366635|san jose, california|19932418|YouTube: Wayfarers Rock|1|2
+49686025|san jose, ca|45519469|San Jose, CA|2|2
+49686025|san jose, ca|0|Error|1|2
+49686025|san jose, ca|0|Error|1|2
+16493868|san jose, ca|0|Error|1|2
+16493868|san jose, ca|14507917|Los Angeles, CA|1|2
+16493868|san jose, ca|19789294|Exectweets HQ|1|2
+16493868|san jose, ca|816653|San Francisco, CA|1|2
+16493868|san jose, ca|0|Error|1|2
+21376553|san jose, ca|0|Error|1|2
+21376553|san jose, ca|0|Error|1|2
+21376553|san jose, ca|16139639|Error|1|2
+21376553|san jose, ca|0|Error|1|2
+21376553|san jose, ca|0|Error|1|2
+21376553|san jose, ca|27284678|Error|1|2
+50744107|san jose, ca|74789576|Error|7|2
+50744107|san jose, ca|0|Error|4|2
+50744107|san jose, ca|18616847|Avengers Mansion|3|2
+50744107|san jose, ca|1623973921|Error|1|2
+17204240|san jose, ca|0|Error|2|2
+17204240|san jose, ca|0|Error|1|2
+17204240|san jose, ca|0|Error|1|2
+17204240|san jose, ca|0|Error|1|2
+17204240|san jose, ca|0|Error|1|2
+17204240|san jose, ca|0|Error|1|2
+17204240|san jose, ca|0|Error|1|2
+17204240|san jose, ca|0|Error|1|2
+17204240|san jose, ca|0|Error|1|2
+17204240|san jose, ca|0|Error|1|2
+15450332|san jose, ca|0|Error|2|2
+15450332|san jose, ca|0|Error|2|2
+15450332|san jose, ca|0|Error|1|2
+15450332|san jose, ca|21673993|Home = Riverview, FL|1|2
+15450332|san jose, ca|1502501|Ithaca, NY|1|2
+15450332|san jose, ca|13833982|SFO/MSY/WAS/LHR|1|2
+15450332|san jose, ca|36323|San Jose, California|1|2
+15450332|san jose, ca|14572585|Error|1|2
+18072600|san jose, ca|0|Error|4|2
+18072600|san jose, ca|33091671|Fayetteville, NC|1|2
+18072600|san jose, ca|0|Error|1|2
+18072600|san jose, ca|22673693|ALOHAfromHI.|1|2
+18072600|san jose, ca|0|Error|1|2
+18072600|san jose, ca|71957834|hawaii|1|2
+18072600|san jose, ca|24847682|Error|1|2
+18072600|san jose, ca|94436981|Error|1|2
+8825152|san jose, ca|3546397582|Washington, DC|2|2
+8825152|san jose, ca|22307478|Error|1|2
+8825152|san jose, ca|807095|New York City|1|2
+8825152|san jose, ca|0|Error|1|2
+8825152|san jose, ca|18029775|London from Shipley, Bradford|1|2
+8825152|san jose, ca|15164565|Error|1|2
+8825152|san jose, ca|0|Error|1|2
+8825152|san jose, ca|0|Error|1|2
+8825152|san jose, ca|15643814|Bakersfield, CA|1|2
+8825152|san jose, ca|17430292|Whittier, CA|1|2
+8825152|san jose, ca|12245632|Washington, DC |1|2
+18264085|san jose, ca|5577902|I live in the State of Grace|1|2
+18264085|san jose, ca|21546398|Tampa, FL|1|2
+18264085|san jose, ca|0|Error|1|2
+18264085|san jose, ca|155692841|American Fork, Utah|1|2
+18264085|san jose, ca|32279769|NYC|1|2
+18264085|san jose, ca|23978904|Renton, WA|1|2
+18264085|san jose, ca|37604873|illadelph|1|2
+18264085|san jose, ca|0|Error|1|2
+18264085|san jose, ca|36480774|Arkansas|1|2
+18264085|san jose, ca|0|Error|1|2
+18264085|san jose, ca|19052924|NYC / MIA / LA|1|2
+18264085|san jose, ca|0|Error|1|2
+18264085|san jose, ca|24932570|Blue Planet|1|2
+18264085|san jose, ca|0|Error|1|2
+15910649|san jose, ca|15505825|Milpitas|2|2
+15910649|san jose, ca|0|Error|1|2
+15910649|san jose, ca|20621067|Seattle, WA|1|2
+15910649|san jose, ca|14577305|iPhone: 34.046875,-118.433746|1|2
+60017916|san jose, ca|40979963|Portland, OR|4|2
+60017916|san jose, ca|19747782|Tacoma, WA|4|2
+60017916|san jose, ca|16541428|In your chimney.|3|2
+60017916|san jose, ca|21990702|San Jose|1|2
+60017916|san jose, ca|21111883|DALLAS/LA|1|2
+31183221|san jose, ca|8218442|Wherever Carmen Sandiego is.|2|2
+31183221|san jose, ca|18437590|Bay Area, CA|1|2
+31183221|san jose, ca|14379090|Bay Area|1|2
+31183221|san jose, ca|0|Error|1|2
+31183221|san jose, ca|18102423|Santa Clara, CA|1|2
+19824059|san jose, ca|11347122|California|1|2
+19824059|san jose, ca|0|Error|1|2
+21435771|san jose, ca|268598850|Error|3|2
+21435771|san jose, ca|0|Error|3|2
+21435771|san jose, ca|21901053|Union City|3|2
+21435771|san jose, ca|0|Error|1|2
+21435771|san jose, ca|37460746|Bay Area|1|2
+21435771|san jose, ca|69688016|Error|1|2
+21435771|san jose, ca|29522104|Killa Cali|1|2
+21435771|san jose, ca|22007499|Error|1|2
+27733608|san jose, ca|24949831|iPhone: 37.572021,-122.069778|3|2
+27733608|san jose, ca|25769976|San Jose, CA|3|2
+27733608|san jose, ca|57116975| CA, USA|2|2
+27733608|san jose, ca|7273812|Error|2|2
+27733608|san jose, ca|26888882|Planet Earth|1|2
+27733608|san jose, ca|75304215|Error|1|2
+27733608|san jose, ca|37338814| Hollywood, CA|1|2
+27733608|san jose, ca|63664038|Bay Area, CA|1|2
+27733608|san jose, ca|0|Error|1|2
+27733608|san jose, ca|112304659|Jordan... Game 6|1|2
+9908802|san jose, ca|21866508|Austin, TX|2|2
+9908802|san jose, ca|21088509|Error|2|2
+9908802|san jose, ca|14549852|Denton, Texas|2|2
+9908802|san jose, ca|14141802|Salt Lake City|1|2
+9908802|san jose, ca|143776676|Massachusetts|1|2
+9908802|san jose, ca|0|Error|1|2
+9908802|san jose, ca|17401855|Error|1|2
+9908802|san jose, ca|18743187|New York, NY|1|2
+9908802|san jose, ca|24210401|NJ/NY|1|2
+9908802|san jose, ca|7027222|Error|1|2
+9908802|san jose, ca|45024101|Error|1|2
+9908802|san jose, ca|15098690|Error|1|2
+9908802|san jose, ca|16426542|Los Angeles|1|2
+9908802|san jose, ca|22696846|South Carolina|1|2
+74004733|san jose, ca|5422052|London/New York|1|2
+74004733|san jose, ca|0|Error|1|2
+6783752|san jose, ca|17564313|dallas, texas|4|2
+6783752|san jose, ca|12464362|Austin, TX|3|2
+6783752|san jose, ca|19211078|Austin, TX|3|2
+6783752|san jose, ca|16753825|Los Angeles, CA|1|2
+6783752|san jose, ca|781786|San Francisco, CA|1|2
+6783752|san jose, ca|0|Error|1|2
+6783752|san jose, ca|17770928|Error|1|2
+6783752|san jose, ca|16135813|San Francisco, CA|1|2
+6783752|san jose, ca|1560021|Brooklyn, New York|1|2
+6783752|san jose, ca|40314719|SF Bay Area|1|2
+6783752|san jose, ca|197179688|Error|1|2
+6783752|san jose, ca|3469|Berlin, Germany|1|2
+6783752|san jose, ca|8819922|San Francisco|1|2
+6783752|san jose, ca|5943942|Berlin|1|2
+24612804|san jose, ca|12327862|Northern California|1|2
+24612804|san jose, ca|70022170|Error|1|2
+24612804|san jose, ca|0|Error|1|2
+24612804|san jose, ca|0|Error|1|2
+24612804|san jose, ca|0|Error|1|2
+36150151|san jose, ca|0|Error|11|2
+36150151|san jose, ca|2832058704|San Francisco Bay Area|2|2
+36150151|san jose, ca|1553226890|Bristow, VA|2|2
+36150151|san jose, ca|19169978|Error|2|2
+36150151|san jose, ca|15313645|Error|1|2
+36150151|san jose, ca|12195792|Austin|1|2
+30912137|san jose, ca|24453088|Holly Springs, GA|2|2
+30912137|san jose, ca|0|Error|1|2
+30912137|san jose, ca|16301927|Dunn Loring, VA|1|2
+30912137|san jose, ca|9324042|38.86260136475296, -77.3886823|1|2
+30912137|san jose, ca|0|Error|1|2
+30912137|san jose, ca|46687943|Error|1|2
+30912137|san jose, ca|0|Error|1|2
+30912137|san jose, ca|15320559|Texas|1|2
+30912137|san jose, ca|2482710715|New York, New York|1|2
+30912137|san jose, ca|14603244|Atlanta, GA|1|2
+30912137|san jose, ca|14760179|Palo Alto, CA via MA & NY|1|2
+30912137|san jose, ca|0|Error|1|2
+39318960|san jose, ca|76466980|Error|2|2
+39318960|san jose, ca|18479513|Error|1|2
+39318960|san jose, ca|2914837274|Error|1|2
+39318960|san jose, ca|15082587|CA|1|2
+39318960|san jose, ca|22193479|Error|1|2
+39318960|san jose, ca|0|Error|1|2
+39318960|san jose, ca|12012852|San Jose, CA|1|2
+39318960|san jose, ca|15485441|New York, New York|1|2
+39318960|san jose, ca|20263183|San Jose, CA|1|2
+39318960|san jose, ca|13320862|zanelamprey@gmail.com|1|2
+39318960|san jose, ca|179976160|Error|1|2
+44565652|san jose, ca|347002675|Tellus, Milky Way|1|2
+18364741|san jose, ca|43590098|San Jose, CA|3|2
+18364741|san jose, ca|24561868|Arizona|1|2
+18364741|san jose, ca|16185902|Sacramento CA|1|2
+18364741|san jose, ca|0|Error|1|2
+18364741|san jose, ca|15215365|San Francisco|1|2
+18364741|san jose, ca|21911087|Cornwall, UK|1|2
+18364741|san jose, ca|0|Error|1|2
+18364741|san jose, ca|36739089|a beach in delaware usa|1|2
+18364741|san jose, ca|1157891|New York, NY|1|2
+18364741|san jose, ca|24610988|Oregon|1|2
+18364741|san jose, ca|42149443|Halifax, NS, Canada|1|2
+18364741|san jose, ca|26127624|Havant|1|2
+18364741|san jose, ca|0|Error|1|2
+18364741|san jose, ca|0|Error|1|2
+17322998|san jose, ca|0|Error|4|2
+17322998|san jose, ca|23014481|San Rafael, CA|4|2
+17322998|san jose, ca|13837292|Silicon Valley|1|2
+17322998|san jose, ca|16534189|Greater Boston Area (US)|1|2
+17322998|san jose, ca|16026300|RDU|1|2
+17322998|san jose, ca|38267947|Error|1|2
+17322998|san jose, ca|10433782|Silicon Valley, CA|1|2
+17322998|san jose, ca|16890148|Pelham, AL, USA|1|2
+17322998|san jose, ca|0|Error|1|2
+17322998|san jose, ca|2786338674|Error|1|2
+17322998|san jose, ca|0|Error|1|2
+17322998|san jose, ca|816653|San Francisco, CA|1|2
+14188156|san jose, ca|0|Error|11|2
+14188156|san jose, ca|26459038|Oakland, CA|2|2
+14188156|san jose, ca|17659577|Campbell, CA|1|2
+14188156|san jose, ca|8331042|your heart|1|2
+14188156|san jose, ca|14423801|SF Bay Area|1|2
+14188156|san jose, ca|29528144|Error|1|2
+14188156|san jose, ca|15131310|Austin, TX|1|2
+14188156|san jose, ca|14075571|Bay Area, CA|1|2
+21533824|san jose, california|19522334|Error|3|2
+21533824|san jose, california|22750023|Newport Beach, CA|2|2
+21533824|san jose, california|0|Error|1|2
+21533824|san jose, california|0|Error|1|2
+21533824|san jose, california|24477173|Error|1|2
+21533824|san jose, california|22461732|$J|1|2
+21533824|san jose, california|0|Error|1|2
+21533824|san jose, california|27557998|$J|1|2
+21533824|san jose, california|28443196|Error|1|2
+21533824|san jose, california|0|Error|1|2
+16303450|san jose, ca|20484511|USA|1|2
+16303450|san jose, ca|16941646|West Los Angeles, CA|1|2
+14212987|san jose, ca|0|Error|1|2
+14212987|san jose, ca|729833|Whistler / Vancouver, BC|1|2
+14212987|san jose, ca|0|Error|1|2
+14212987|san jose, ca|24299080|Error|1|2
+22467029|san jose, ca|30090052|L.A.|1|2
+43590002|san jose, california|0|Error|11|2
+43590002|san jose, california|0|Error|3|2
+43590002|san jose, california|0|Error|3|2
+43590002|san jose, california|74017046|Oregon Woodland. Really.|1|2
+43590002|san jose, california|0|Error|1|2
+43590002|san jose, california|20757640|North Yorkshire, UK|1|2
+20523503|san jose, ca|134713446|Error|7|2
+20523503|san jose, ca|17813433|Silicon Valley|3|2
+20523503|san jose, ca|19806200|Error|2|2
+20523503|san jose, ca|101851330|Toronto, Canada |2|2
+20523503|san jose, ca|14396496|Possibility, In my head.|2|2
+20523503|san jose, ca|21818383|Tigard Oregon|2|2
+20523503|san jose, ca|15603234|NY/ NJ/ ATL/ the Shoeniverse|2|2
+20523503|san jose, ca|0|Error|1|2
+20523503|san jose, ca|1890097530|Error|1|2
+20523503|san jose, ca|21201843|Baltimore|1|2
+20523503|san jose, ca|20405853|Litchfield,CT./Montreal,Quebec|1|2
+20523503|san jose, ca|17991810|North Carolina|1|2
+20523503|san jose, ca|0|Error|1|2
+20523503|san jose, ca|26049732|Hertfordshire|1|2
+20523503|san jose, ca|0|Error|1|2
+20523503|san jose, ca|22435379|NYC/DC |1|2
+20523503|san jose, ca|32011415|Austin, Texas|1|2
+20523503|san jose, ca|0|Error|1|2
+20523503|san jose, ca|480603249|Error|1|2
+20523503|san jose, ca|0|Error|1|2
+20523503|san jose, ca|0|Error|1|2
+20523503|san jose, ca|17818959|Error|1|2
+20523503|san jose, ca|0|Error|1|2
+20523503|san jose, ca|0|Error|1|2
+20523503|san jose, ca|19052440|Hartford, CT|1|2
+21423430|san jose, ca|18624429|Error|1|2
+21423430|san jose, ca|19058681|Los Angeles, California|1|2
+21423430|san jose, ca|0|Error|1|2
+21423430|san jose, ca|28351980|LA|1|2
+21423430|san jose, ca|21053254|wherever you want me to be.|1|2
+21423430|san jose, ca|0|Error|1|2
+21423430|san jose, ca|21335680|San Jose, CA|1|2
+24733117|san jose, ca|0|Error|1|2
+18443359|san jose, california|0|Error|4|2
+18443359|san jose, california|16536776|OBX|3|2
+18443359|san jose, california|0|Error|2|2
+18443359|san jose, california|738762204|Error|2|2
+18443359|san jose, california|15846407|California|2|2
+18443359|san jose, california|16485630|In the arms of my sweet love!|1|2
+18443359|san jose, california|15085188|San Jose, CA|1|2
+18443359|san jose, california|16446058|IG: TwoSteppinAnt|1|2
+18443359|san jose, california|16497947|Where I am |1|2
+18443359|san jose, california|16381279|Faubourg Marigny, Louisiana|1|2
+18443359|san jose, california|0|Error|1|2
+22645379|san jose, ca|2753482364|Error|3|2
+22645379|san jose, ca|17927221|Seattle, WA|2|2
+22645379|san jose, ca|0|Error|2|2
+22645379|san jose, ca|20298945|Seattle, WA|1|2
+22645379|san jose, ca|0|Error|1|2
+22645379|san jose, ca|0|Error|1|2
+22645379|san jose, ca|119236324|Error|1|2
+22645379|san jose, ca|18610857|San Francisco|1|2
+22645379|san jose, ca|215484163|silicon valley|1|2
+23694739|san jose, ca|16896437|Bay Area, Cali|16|2
+23694739|san jose, ca|11422132|Trampa|1|2
+23694739|san jose, ca|24491935|Bay Area, CA|1|2
+14260862|san jose, ca|14607512|Error|6|2
+14260862|san jose, ca|963695640|Error|4|2
+14260862|san jose, ca|3023988142|Error|1|2
+14260862|san jose, ca|58668876|Baltimore|1|2
+635523|san jose, ca|90062509|Huntersville, NC, USA|4|2
+635523|san jose, ca|0|Error|2|2
+635523|san jose, ca|38652517|United Kingdom|1|2
+635523|san jose, ca|13379222|San Francisco, CA|1|2
+635523|san jose, ca|19293525|Oxfordshire|1|2
+635523|san jose, ca|0|Error|1|2
+635523|san jose, ca|30529751|Palo Alto, CA|1|2
+635523|san jose, ca|0|Error|1|2
+635523|san jose, ca|308065997|New York City|1|2
+15318975|san jose, ca|4510121|37.707878,-121.883382|4|2
+15318975|san jose, ca|17545331|Nashville, TN|3|2
+15318975|san jose, ca|18127935|San Jose, CA|2|2
+15318975|san jose, ca|1946770550|united kingdom|2|2
+15318975|san jose, ca|15608985|East of Phoenix, AZ|2|2
+15318975|san jose, ca|20471130|Tampa, FL|2|2
+15318975|san jose, ca|17503069|Palo Alto, CA|1|2
+15318975|san jose, ca|15283912|Cellphone Tower|1|2
+15318975|san jose, ca|17518283|San Jose|1|2
+15318975|san jose, ca|0|Error|1|2
+15318975|san jose, ca|42827033|Silicon Valley, CA|1|2
+15318975|san jose, ca|19201572|ukite: 37.32537,-121.947436|1|2
+15318975|san jose, ca|2253|34.1805853166667,-118.30838598|1|2
+53443382|san jose, ca|0|Error|1|2
+53443382|san jose, ca|374526891|Error|1|2
+53443382|san jose, ca|0|Error|1|2
+53443382|san jose, ca|21931363|Mumbai |1|2
+53443382|san jose, ca|0|Error|1|2
+53443382|san jose, ca|20886466|LA|1|2
+53443382|san jose, ca|22563769|Los Angeles|1|2
+53443382|san jose, ca|24935995|Error|1|2
+53443382|san jose, ca|24132770|City of Angels.|1|2
+53443382|san jose, ca|19418909|Vegas|1|2
+53443382|san jose, ca|40047688|Huntington Beach, Cali Baby|1|2
+53443382|san jose, ca|67870643|Error|1|2
+53443382|san jose, ca|0|Error|1|2
+53443382|san jose, ca|146396739|Playboy Manison|1|2
+53443382|san jose, ca|18171035|Error|1|2
+53443382|san jose, ca|17542901|dreamlover.com/nikkibenz|1|2
+53443382|san jose, ca|0|Error|1|2
+53443382|san jose, ca|283791756|Shawna Lenee land !|1|2
+53443382|san jose, ca|3346862055|Error|1|2
+53443382|san jose, ca|0|Error|1|2
+30014906|san jose, ca|0|Error|1|2
+30014906|san jose, ca|20952222|California|1|2
+30014906|san jose, ca|0|Error|1|2
+30014906|san jose, ca|246384792|Error|1|2
+30014906|san jose, ca|26185356|California|1|2
+30014906|san jose, ca|7744592|Studio 1A|1|2
+30014906|san jose, ca|15473413|San Francisco|1|2
+30014906|san jose, ca|19159227|San Jose, CA|1|2
+31068750|san jose, ca|20486573|Seoul, Korea|3|2
+31068750|san jose, ca|54995280|san jose, california|2|2
+31068750|san jose, ca|16872300|the bay area, california|2|2
+31068750|san jose, ca|29823868|San Jose, CA|1|2
+31068750|san jose, ca|49503309|San Jose, Ca|1|2
+31068750|san jose, ca|29825236|Error|1|2
+31068750|san jose, ca|19853615|Bay Area, CA|1|2
+31068750|san jose, ca|31068750|Near San Jose, CA|1|2
+31068750|san jose, ca|30278184|Hoodtown|1|2
+20906797|san jose, ca|5380672|Chicago, IL|3|2
+20906797|san jose, ca|0|Error|2|2
+20906797|san jose, ca|28309724|Bay Area, Cali|2|2
+20906797|san jose, ca|5698172|Bellingham, WA & Vancouver, BC|1|2
+20906797|san jose, ca|0|Error|1|2
+20906797|san jose, ca|0|Error|1|2
+20906797|san jose, ca|27891956|Bay Area, California|1|2
+63588534|san jose, ca|0|Error|6|2
+63588534|san jose, ca|0|Error|3|2
+63588534|san jose, ca|0|Error|1|2
+17225034|san jose, ca|63037248|Poopershnaggle, CA|1|2
+14307043|san jose, ca|14154640|Folsom, CA|6|2
+14307043|san jose, ca|13348|Half Moon Bay, California, USA|2|2
+14307043|san jose, ca|174853|West of the swamps of Jersey|2|2
+14307043|san jose, ca|0|Error|2|2
+14307043|san jose, ca|79543|Silicon Valley, CA|1|2
+14307043|san jose, ca|18134710|Canada|1|2
+14307043|san jose, ca|0|Error|1|2
+14307043|san jose, ca|19843622|San Jose, CA|1|2
+14307043|san jose, ca|5438512|Florence, KY|1|2
+26891142|san jose, california|0|Error|2|2
+26891142|san jose, california|0|Error|2|2
+26891142|san jose, california|438105002|Error|1|2
+26891142|san jose, california|0|Error|1|2
+34232080|san jose, ca|16404939|Rochester, New York|1|2
+15382820|san jose, california|14355544|San Francisco|5|2
+15382820|san jose, california|56819939|On A Farm In California|5|2
+15382820|san jose, california|0|Error|2|2
+15382820|san jose, california|0|Error|1|2
+15382820|san jose, california|27949750|iPhone: 36.972572,-122.036209|1|2
+15382820|san jose, california|0|Error|1|2
+15382820|san jose, california|16318235|San Francisco|1|2
+15382820|san jose, california|15207528|Austin, TX|1|2
+15382820|san jose, california|706743|San Francisco Bay Area|1|2
+15382820|san jose, california|18358861|San Francisco, CA|1|2
+15382820|san jose, california|0|Error|1|2
+6999402|san jose, ca|15238775|Wherever Carmen Sandiego is|3|2
+6999402|san jose, ca|6210762|Santa Clara, CA|2|2
+6999402|san jose, ca|6070272|Bay Area, CA|1|2
+6999402|san jose, ca|7867212|San Jose, CA, USA|1|2
+6999402|san jose, ca|2327917406|Pasig City|1|2
+17493468|san jose, ca|23135183|Ventura Bay|2|2
+17493468|san jose, ca|972651|Error|2|2
+17493468|san jose, ca|243750516|Error|1|2
+17493468|san jose, ca|22307129|Error|1|2
+17493468|san jose, ca|7846|Los Angeles, CA|1|2
+17493468|san jose, ca|15285305|Worldwide|1|2
+17493468|san jose, ca|8453452|Silicon Valley, California|1|2
+17493468|san jose, ca|15853073|Wherever there's a signal.|1|2
+17493468|san jose, ca|24415549|iPhone: 37.474495,-122.165329|1|2
+17493468|san jose, ca|17214479|The Shop.|1|2
+17493468|san jose, ca|26253|Calgary, Canada|1|2
+17493468|san jose, ca|18957524|New York, NY|1|2
+17493468|san jose, ca|5800582|Los Angeles|1|2
+17493468|san jose, ca|0|Error|1|2
+17493468|san jose, ca|43149244|Louisville, KY|1|2
+17493468|san jose, ca|0|Error|1|2
+17493468|san jose, ca|12615582|informationweek.com|1|2
+17493468|san jose, ca|8071902|Minneapolis / Minnesota / MN|1|2
+17493468|san jose, ca|21241886|So Cal|1|2
+17493468|san jose, ca|15397660|Hayward, CA|1|2
+17493468|san jose, ca|14246782|NYC expat in San Diego, CA|1|2
+21699835|san jose, ca|14587162|Error|2|2
+21699835|san jose, ca|37904535|South Korea|2|2
+21699835|san jose, ca|0|Error|1|2
+21699835|san jose, ca|0|Error|1|2
+15412623|san jose, ca|7894312|Bartlett, IL|3|2
+15412623|san jose, ca|10069292|Boulder, CO|1|2
+15412623|san jose, ca|0|Error|1|2
+15412623|san jose, ca|5562792|Ask Google|1|2
+15412623|san jose, ca|16602183|Elmhurst, IL|1|2
+15412623|san jose, ca|240443268|Error|1|2
+15412623|san jose, ca|33423|Philadelphia|1|2
+28002049|san jose, ca|17399772|Vancouver, BC, Canada|1|2
+28002049|san jose, ca|2896341|Near: 37.339336,-121.851146|1|2
+28002049|san jose, ca|7400782|Miami, FL|1|2
+28002049|san jose, ca|702773|San Jose, California|1|2
+28002049|san jose, ca|51496169|Salisbury, England|1|2
+28002049|san jose, ca|0|Error|1|2
+28002049|san jose, ca|18883|Corona, CA|1|2
+17517330|san jose, ca|2982721421|Error|1|2
+17517330|san jose, ca|78534404|Error|1|2
+18583777|san jose, ca|15029970|Planet Earth|1|2
+24880237|san jose, california|61012761|Error|2|2
+24880237|san jose, california|26376057|Mumbai|1|2
+24880237|san jose, california|22196723|Silicon Valley|1|2
+7057922|san jose, california|14058790|Birmingham, AL|3|2
+7057922|san jose, california|14389031|Toronto, Ontario, Canada|3|2
+7057922|san jose, california|15222393|Florida, USA|3|2
+7057922|san jose, california|2988105362|Error|2|2
+7057922|san jose, california|23989100|Toronto/Oakville|2|2
+7057922|san jose, california|14656192|Long Island, NY|1|2
+7057922|san jose, california|1192|Toronto, ON|1|2
+7057922|san jose, california|1938238626|Error|1|2
+7057922|san jose, california|7438042|Herts, UK|1|2
+7057922|san jose, california|0|Error|1|2
+7057922|san jose, california|15724011|St. Louis, MO|1|2
+7057922|san jose, california|14550264|Los Angeles|1|2
+7057922|san jose, california|0|Error|1|2
+7057922|san jose, california|0|Error|1|2
+7057922|san jose, california|844087730|London, United Kingdom.|1|2
+7057922|san jose, california|0|Error|1|2
+7057922|san jose, california|26657106|Anywhere hockey fans are!|1|2
+7057922|san jose, california|271109244|Error|1|2
+7057922|san jose, california|0|Error|1|2
+28037795|san jose, ca|0|Error|1|2
+28037795|san jose, ca|24612804|San Jose, CA|1|2
+13363112|san jose, california|14120151|Cities worldwide|8|2
+13363112|san jose, california|0|Error|5|2
+13363112|san jose, california|49116009|San Jose, CA, USA|1|2
+18616686|san jose, ca|14888573|Error|2|2
+18616686|san jose, ca|17014311|San Jose|1|2
+18616686|san jose, ca|40550544|Surrey/London|1|2
+18616686|san jose, ca|232794808|San Jose|1|2
+42734762|san jose, california|32987181|Toronto 43.7276408,-79.4240783|2|2
+42734762|san jose, california|74737812|Earth|1|2
+42734762|san jose, california|4085220021|Miami, FL|1|2
+37495157|san jose, ca|0|Error|6|2
+37495157|san jose, ca|0|Error|3|2
+37495157|san jose, ca|0|Error|1|2
+37495157|san jose, ca|35838030|California|1|2
+37495157|san jose, ca|270389840|Error|1|2
+68960266|san jose, ca|0|Error|3|2
+68960266|san jose, ca|996967536|Error|3|2
+68960266|san jose, ca|22750023|Newport Beach, CA|2|2
+68960266|san jose, ca|22463061|Golden State|1|2
+68960266|san jose, ca|336753797|Error|1|2
+25978620|san jose, ca|0|Error|2|2
+25978620|san jose, ca|319632477|Tyler Texas|1|2
+25978620|san jose, ca|0|Error|1|2
+25978620|san jose, ca|10945792|Aurora, IL|1|2
+25978620|san jose, ca|350429508|LBC|1|2
+25978620|san jose, ca|0|Error|1|2
+25978620|san jose, ca|0|Error|1|2
+25978620|san jose, ca|2305956722|houston|1|2
+25978620|san jose, ca|0|Error|1|2
+25980620|san jose, ca|0|Error|6|2
+25980620|san jose, ca|33650449|LA|4|2
+25980620|san jose, ca|0|Error|2|2
+25980620|san jose, ca|74659890|408|1|2
+25980620|san jose, ca|0|Error|1|2
+25980620|san jose, ca|0|Error|1|2
+25980620|san jose, ca|0|Error|1|2
+22837694|san jose, ca|0|Error|1|2
+22837694|san jose, ca|43455650|Earth|1|2
+22837694|san jose, ca|25470849|San Jose, California|1|2
+22837694|san jose, ca|75670694|Earth|1|2
+1249501|san jose, ca|1015991|Austin TX|2|2
+1249501|san jose, ca|0|Error|1|2
+1249501|san jose, ca|0|Error|1|2
+1249501|san jose, ca|0|Error|1|2
+1249501|san jose, ca|756927|San Francisco Bay Area|1|2
+1249501|san jose, ca|0|Error|1|2
+1249501|san jose, ca|14986841|Missouri|1|2
+1249501|san jose, ca|11250|Brighton, East Sussex, England|1|2
+1249501|san jose, ca|787716444|Error|1|2
+1249501|san jose, ca|14150648|Wake Forest, NC|1|2
+1249501|san jose, ca|5827|Tucson, Arizona|1|2
+1249501|san jose, ca|34575746|Pretty variable|1|2
+1249501|san jose, ca|10706|Brooklyn, NY|1|2
+15693822|san jose, ca|65834468|Seattle, WA|11|2
+15693822|san jose, ca|22007499|Error|1|2
+15523641|san jose, ca|0|Error|1|2
+15523641|san jose, ca|0|Error|1|2
+15523641|san jose, ca|3126983213|New York City|1|2
+14475383|san jose, ca|16933896|San Francisco|2|2
+14475383|san jose, ca|876451|San Jose|1|2
+14475383|san jose, ca|0|Error|1|2
+32302375|san jose, ca|0|Error|14|2
+32302375|san jose, ca|19029137|Malibu, CA|3|2
+32302375|san jose, ca|63017643|Error|2|2
+32302375|san jose, ca|28931959|Sacramento|1|2
+16574916|san jose, california|0|Error|4|2
+16574916|san jose, california|71069862|San Jose, CA|2|2
+16574916|san jose, california|13436432|Las Vegas, NV|2|2
+16574916|san jose, california|535683584|Silicon Valley|1|2
+16574916|san jose, california|1319141|Palo Alto|1|2
+48034316|san jose, ca|0|Error|2|2
+48034316|san jose, ca|7592392|Error|2|2
+48034316|san jose, ca|15591374|L.A, CA|2|2
+48034316|san jose, ca|39922782|San Francisco, CA|1|2
+48034316|san jose, ca|17821827|San Francisco, CA|1|2
+48034316|san jose, ca|26784790|East Bay|1|2
+48034316|san jose, ca|0|Error|1|2
+17094545|san jose, ca|30173301|Bay Area|2|2
+17094545|san jose, ca|17305364|California|1|2
+17094545|san jose, ca|21375218|Error|1|2
+17094545|san jose, ca|23816563|San Francisco|1|2
+11352362|san jose, california|0|Error|2|2
+11352362|san jose, california|26691049|Almaden, San Jose, CA USA|2|2
+11352362|san jose, california|10449602|In the wind|1|2
+11352362|san jose, california|14336303|Lansing, Michigan|1|2
+11352362|san jose, california|16195425|San Diego|1|2
+11352362|san jose, california|15469558|iPhone: 40.222721,-82.985390|1|2
+15573911|san jose, ca|0|Error|2|2
+15573911|san jose, ca|122490594|Error|1|2
+15573911|san jose, ca|14669339|Palatine, IL, USA|1|2
+15573911|san jose, ca|72476848|Silicon Valley, CA|1|2
+15573911|san jose, ca|0|Error|1|2
+15573911|san jose, ca|5315782|New York|1|2
+15573911|san jose, ca|61747648|Toronto, Canada|1|2
+15573911|san jose, ca|14647046|Toronto Software Lab, Canada|1|2
+24401538|san jose, ca|156759571|Seattle|1|2
+24401538|san jose, ca|0|Error|1|2
+24401538|san jose, ca|0|Error|1|2
+14538773|san jose, ca|0|Error|2|2
+14538773|san jose, ca|12844642|Washington DC|1|2
+14538773|san jose, ca|18223590|LA |1|2
+14538773|san jose, ca|18840445|NJ|1|2
+14538773|san jose, ca|19356110|In the Cloud|1|2
+14538773|san jose, ca|21896036|Bay Area, California|1|2
+14538773|san jose, ca|13837502|San Jose - Willow Glen - 95125|1|2
+14538773|san jose, ca|5988062|London|1|2
+14538773|san jose, ca|73282784|Mendocino, California|1|2
+22950348|san jose, ca|246364182|Error|1|2
+31358164|san jose, ca|5926282|CA|3|2
+55479324|san jose, ca|0|Error|2|2
+55479324|san jose, ca|0|Error|2|2
+55479324|san jose, ca|0|Error|2|2
+55479324|san jose, ca|58598091|Error|2|2
+55479324|san jose, ca|2758573843|Error|1|2
+55479324|san jose, ca|0|Error|1|2
+55479324|san jose, ca|209649859|ibi :)|1|2
+55479324|san jose, ca|282963321|Error|1|2
+55479324|san jose, ca|0|Error|1|2
+55479324|san jose, ca|23172075|Error|1|2
+38715181|san jose, ca|0|Error|2|2
+38715181|san jose, ca|26605043|United States & Canada|2|2
+38715181|san jose, ca|0|Error|1|2
+38715181|san jose, ca|38715181|San Jose City College |1|2
+63882523|san jose, ca|0|Error|1|2
+63882523|san jose, ca|1563604279|Error|1|2
+63882523|san jose, ca|0|Error|1|2
+63882523|san jose, ca|0|Error|1|2
+63882523|san jose, ca|0|Error|1|2
+63882523|san jose, ca|0|Error|1|2
+63882523|san jose, ca|18168742|Hell's Half Acre, TX|1|2
+63882523|san jose, ca|0|Error|1|2
+63882523|san jose, ca|0|Error|1|2
+28237548|san jose, ca|26145761|New England|4|2
+28237548|san jose, ca|58528137|Los Angeles, CA|2|2
+28237548|san jose, ca|0|Error|2|2
+28237548|san jose, ca|14844867|Washington, DC|2|2
+28237548|san jose, ca|20382565|Error|2|2
+28237548|san jose, ca|52123896|Error|1|2
+28237548|san jose, ca|34192959|I am here |1|2
+29291231|san jose, california|105612586|Switzerland|1|2
+29291231|san jose, california|0|Error|1|2
+29291231|san jose, california|31431024|UK|1|2
+29291231|san jose, california|19569168|San Jose California|1|2
+29291231|san jose, california|15989069|Error|1|2
+16711025|san jose, ca|49918831|Las Vegas, NV|4|2
+16711025|san jose, ca|17938976|Los Angeles|4|2
+16711025|san jose, ca|22526574|San Jose, CA|1|2
+45027748|san jose, california|38291957|California|1|2
+45027748|san jose, california|14297137|New York, NY|1|2
+45027748|san jose, california|17215802|Across 30+ countries|1|2
+45027748|san jose, california|45027748|San Jose, California|1|2
+45027748|san jose, california|445291040|Error|1|2
+14635048|san jose, ca|27602673|Mumbai, India|1|2
+14635048|san jose, ca|41552881|Error|1|2
+14104649|san jose, ca|44804040|Santa Fe, NM|3|2
+14104649|san jose, ca|14104649|San Jose, CA|1|2
+14104649|san jose, ca|20269826|Washington, DC|1|2
+45044323|san jose, ca|17173886|San Francisco,CA|13|2
+45044323|san jose, ca|0|Error|1|2
+45044323|san jose, ca|94070157|East Bay to SF & back.|1|2
+21991638|san jose, ca|14976809|San Francisco|5|2
+21991638|san jose, ca|20622572|London, UK|2|2
+21991638|san jose, ca|24068280|@peterchao on Instagram|1|2
+21991638|san jose, ca|0|Error|1|2
+21991638|san jose, ca|1898320260|Error|1|2
+21991638|san jose, ca|57474627|East Bay, CA|1|2
+18847641|san jose, california|0|Error|1|2
+18847641|san jose, california|0|Error|1|2
+17803303|san jose, ca|0|Error|6|2
+17803303|san jose, ca|40164851| 1511 Rte 23 Butler, NJ 07405|2|2
+17803303|san jose, ca|14147915|Error|2|2
+17803303|san jose, ca|0|Error|1|2
+17803303|san jose, ca|35181246|Currently: Everett, WA|1|2
+15706240|san jose, ca|124292047|KING GEORGE |8|2
+15706240|san jose, ca|7093352|San Francisco, CA|4|2
+15706240|san jose, ca|10038642|Bethlehem, PA|4|2
+15706240|san jose, ca|14414761|Alaska|2|2
+15706240|san jose, ca|0|Error|1|2
+15706240|san jose, ca|30614676|Error|1|2
+15706240|san jose, ca|5172041|NYC|1|2
+15706240|san jose, ca|15227650|Error|1|2
+17814556|san jose, ca|20978103|Direct2Dane@DaneCook.com|1|2
+17814556|san jose, ca|15485441|New York, New York|1|2
+32495004|san jose, ca|2279731459|Error|1|2
+14670033|san jose, california|25281585|Knoxville, Tennessee|4|2
+14670033|san jose, california|18089163|Boulder, CO|2|2
+14670033|san jose, california|10803212|Seattle|2|2
+14670033|san jose, california|46094248|Janesville, WI|2|2
+14670033|san jose, california|15201858|Atascadero, CA|1|2
+14670033|san jose, california|14284095|Ouseburn Valley, NCL|1|2
+14670033|san jose, california|18513221|Utah|1|2

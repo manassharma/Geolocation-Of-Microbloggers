@@ -1,0 +1,1264 @@
+23990483|burbank, ca|0|Error|2|2
+23990483|burbank, ca|0|Error|1|2
+20922781|burbank, ca|0|Error|2|2
+20922781|burbank, ca|0|Error|2|2
+20922781|burbank, ca|0|Error|1|2
+20922781|burbank, ca|0|Error|1|2
+20922781|burbank, ca|0|Error|1|2
+20922781|burbank, ca|0|Error|1|2
+20922781|burbank, ca|0|Error|1|2
+20922781|burbank, ca|0|Error|1|2
+20922781|burbank, ca|0|Error|1|2
+20922781|burbank, ca|0|Error|1|2
+35928335|burbank, ca|0|Error|2|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|2225753009|Error|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|6050932|Brooklyn, NY|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|18853689|the district of columbia|1|2
+35928335|burbank, ca|0|Error|1|2
+35928335|burbank, ca|22063830|southside|1|2
+36724724|burbank, california|0|Error|1|2
+49746303|burbank, ca|0|Error|1|2
+49746303|burbank, ca|18367019|Hollywood, CA|1|2
+49746303|burbank, ca|18845730|Pittsburgh, Pennsylvania|1|2
+49746303|burbank, ca|0|Error|1|2
+49746303|burbank, ca|25594874|Las Vegas Nevada, USA|1|2
+49746303|burbank, ca|0|Error|1|2
+49746303|burbank, ca|19127772|FL|1|2
+49746303|burbank, ca|16495538|Indianapolis|1|2
+49746303|burbank, ca|19351456|Charleston, West Virginia|1|2
+49746303|burbank, ca|0|Error|1|2
+49746303|burbank, ca|0|Error|1|2
+49746303|burbank, ca|1880670576|Error|1|2
+49746303|burbank, ca|0|Error|1|2
+49746303|burbank, ca|18951587|Texas |1|2
+49746303|burbank, ca|41528673|Rhode Island|1|2
+49746303|burbank, ca|0|Error|1|2
+49746303|burbank, ca|2234473022|Error|1|2
+49746303|burbank, ca|0|Error|1|2
+49746303|burbank, ca|0|Error|1|2
+49746303|burbank, ca|126766801|Error|1|2
+20255162|burbank, ca|20255162|Burbank, CA|9|2
+20255162|burbank, ca|48502553|Los Angeles|6|2
+20255162|burbank, ca|46475424|Hogwarts|4|2
+20255162|burbank, ca|1378241178|Error|3|2
+20255162|burbank, ca|21332196|Los Angeles|3|2
+20255162|burbank, ca|23703729|Los Angeles, CA|3|2
+20255162|burbank, ca|23990483|Burbank, CA|3|2
+20255162|burbank, ca|84353531|Left Coast|2|2
+20255162|burbank, ca|28165842|Illinois|2|2
+20255162|burbank, ca|2688729289|Error|2|2
+20255162|burbank, ca|0|Error|2|2
+20255162|burbank, ca|16079344|New York City|2|2
+20255162|burbank, ca|17837463|US|2|2
+20255162|burbank, ca|48377094|A Theater Near You|2|2
+20255162|burbank, ca|0|Error|2|2
+20255162|burbank, ca|1053111|lost angels|2|2
+20255162|burbank, ca|15485441|New York, New York|2|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|18199135|Detroit, MI|1|2
+20255162|burbank, ca|3203138201|usa|1|2
+20255162|burbank, ca|51174811|Anywhere, TX|1|2
+20255162|burbank, ca|2203139349|Error|1|2
+20255162|burbank, ca|435640919|Error|1|2
+20255162|burbank, ca|54832402|Thousand Oaks, California|1|2
+20255162|burbank, ca|45617737|Tennessee, US|1|2
+20255162|burbank, ca|141270977|New York|1|2
+20255162|burbank, ca|15803719|Los Angeles|1|2
+20255162|burbank, ca|17779378|Error|1|2
+20255162|burbank, ca|20708612|South Beach|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|552840261|Error|1|2
+20255162|burbank, ca|73143487|221b Baker St|1|2
+20255162|burbank, ca|27602673|Mumbai, India|1|2
+20255162|burbank, ca|24237897|Ohio|1|2
+20255162|burbank, ca|17825939|Wilmington, NC|1|2
+20255162|burbank, ca|23560015|Burbank, CA|1|2
+20255162|burbank, ca|82049904|Error|1|2
+20255162|burbank, ca|23529342|GA / FL / AL / SC / VA / MD|1|2
+20255162|burbank, ca|37680368|Los Angeles|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|15846407|California|1|2
+20255162|burbank, ca|1322597011|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|63907275|21.857875,-102.337342|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|17036397|Nashville, TN|1|2
+20255162|burbank, ca|72090420|Orange, CA|1|2
+20255162|burbank, ca|6001612|I'VE MOVED ACCOUNTS|1|2
+20255162|burbank, ca|64020020|Error|1|2
+20255162|burbank, ca|26357267|Hollywood|1|2
+20255162|burbank, ca|19337526|Ohio|1|2
+20255162|burbank, ca|88581107|NW Indiana|1|2
+20255162|burbank, ca|3621380777|Error|1|2
+20255162|burbank, ca|14372533|San Francisco, CA |1|2
+20255162|burbank, ca|35541948|Error|1|2
+20255162|burbank, ca|16409872|Error|1|2
+20255162|burbank, ca|6513942|Hatboro, PA|1|2
+20255162|burbank, ca|15396479|Los Angeles|1|2
+20255162|burbank, ca|28732756|New York|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|2927875728|Error|1|2
+20255162|burbank, ca|499708085|Error|1|2
+20255162|burbank, ca|15900277|New York, San Francisco|1|2
+20255162|burbank, ca|73145409|Fleet Street|1|2
+20255162|burbank, ca|16356717|nyc|1|2
+20255162|burbank, ca|70414249|Allen Park, Michigan|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|38711330|Seattle, Washington|1|2
+20255162|burbank, ca|25668422|Dublin City, Ireland|1|2
+20255162|burbank, ca|16118939|Basic Cable|1|2
+9728952|burbank, ca|20661527|Dallas, Texas|3|2
+9728952|burbank, ca|0|Error|2|2
+9728952|burbank, ca|21053524|Los Angeles|2|2
+9728952|burbank, ca|20037749|Burbank, CA|2|2
+9728952|burbank, ca|14575472|Error|2|2
+9728952|burbank, ca|78449827|Error|2|2
+9728952|burbank, ca|15746569|Austin, TX|1|2
+9728952|burbank, ca|23111545|CALIFORNIA|1|2
+9728952|burbank, ca|15858135|Los Angeles, CA|1|2
+9728952|burbank, ca|9930742|Toronto, Ontario, Canada|1|2
+9728952|burbank, ca|7583422|San Diego, CA|1|2
+9728952|burbank, ca|15657647|Error|1|2
+9728952|burbank, ca|18957524|New York, NY|1|2
+9728952|burbank, ca|14779327|San Francisco|1|2
+9728952|burbank, ca|15636742|Boston and everywhere|1|2
+9728952|burbank, ca|351217136|Los Angeles|1|2
+9728952|burbank, ca|17142897|San Diego, CA|1|2
+9728952|burbank, ca|0|Error|1|2
+9728952|burbank, ca|0|Error|1|2
+9728952|burbank, ca|83776235|Los Angeles|1|2
+9728952|burbank, ca|7729542|Hollywood, CA.|1|2
+9728952|burbank, ca|0|Error|1|2
+9728952|burbank, ca|0|Error|1|2
+9728952|burbank, ca|18492973|San Diego, CA|1|2
+9728952|burbank, ca|11913152|Westchester, Ny|1|2
+9728952|burbank, ca|16251528|Redondo Beach, CA|1|2
+9728952|burbank, ca|170894078|Tinseltown|1|2
+9728952|burbank, ca|14736097|International|1|2
+9728952|burbank, ca|23369525|Pittsburgh to San Jose|1|2
+9728952|burbank, ca|8247702|Chicago|1|2
+9728952|burbank, ca|19302525|Ubiquitous |1|2
+9728952|burbank, ca|16945783|San Diego, CA|1|2
+9728952|burbank, ca|0|Error|1|2
+9728952|burbank, ca|51996893|Los Angeles, CA|1|2
+23554821|burbank, ca|0|Error|4|2
+23554821|burbank, ca|23854743|the moment|4|2
+23554821|burbank, ca|329673305|Here,There, Everywhere|2|2
+23554821|burbank, ca|22465416|Burbank|2|2
+23554821|burbank, ca|44309762|Error|2|2
+23554821|burbank, ca|15438420|Franklin, TN|1|2
+23554821|burbank, ca|970928119|Error|1|2
+23554821|burbank, ca|0|Error|1|2
+23554821|burbank, ca|0|Error|1|2
+23554821|burbank, ca|0|Error|1|2
+19689143|burbank, ca|1014551172|i like halsey a lil bit |2|2
+19689143|burbank, ca|20620967|Where in the world are you?|2|2
+19689143|burbank, ca|0|Error|2|2
+19689143|burbank, ca|23228600|Error|2|2
+19689143|burbank, ca|73364938|nyc|1|2
+19689143|burbank, ca|0|Error|1|2
+19689143|burbank, ca|18831035|Hell-A|1|2
+19689143|burbank, ca|1713611041|@DebbyRyan|1|2
+19689143|burbank, ca|998062950|Error|1|2
+19689143|burbank, ca|0|Error|1|2
+19689143|burbank, ca|0|Error|1|2
+15372377|burbank, ca|19428768|Ohio|3|2
+15372377|burbank, ca|14528041|Knoxville, TN|3|2
+15372377|burbank, ca|15302361|Los Angeles|3|2
+15372377|burbank, ca|17892082|Londinium.|3|2
+15372377|burbank, ca|16411565|Seattle, WA|2|2
+15372377|burbank, ca|0|Error|2|2
+15372377|burbank, ca|15372377|Los Angeles + Salt Lake City|2|2
+15372377|burbank, ca|2217251|Error|2|2
+15372377|burbank, ca|20690398|Error|2|2
+15372377|burbank, ca|243474521|Error|2|2
+15372377|burbank, ca|14404090|Error|2|2
+15372377|burbank, ca|42870635|Los Angeles, CA|2|2
+15372377|burbank, ca|14633584|Los Angeles|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|25206588|alabama|1|2
+15372377|burbank, ca|22192363|Detroit, Michigan|1|2
+15372377|burbank, ca|33395760|Los Angeles|1|2
+15372377|burbank, ca|34389324|Redemption Island|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|23098301|Error|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|821193|West Hollywood, CA|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|24388792|Cali...WHOA|1|2
+15372377|burbank, ca|16640695|Error|1|2
+15372377|burbank, ca|17870415|Los Angeles|1|2
+15372377|burbank, ca|24988430|Error|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|44099950|Somewhere, over the rainbow.|1|2
+15372377|burbank, ca|34684258|Pacific Northwest |1|2
+15372377|burbank, ca|1081858524|Error|1|2
+15372377|burbank, ca|46984151|Providence, R.I./Boston MA|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|15221329|North Hollywood, CA|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|169907801| nsw|1|2
+15372377|burbank, ca|45886477|33.7664834,-117.8893941|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|20851056|CALIFORNIA|1|2
+15372377|burbank, ca|21260651|Milltown, Delaware|1|2
+15372377|burbank, ca|5854302|Singapore /  Newer Temasek|1|2
+15372377|burbank, ca|614476039|Ibadan|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|14862115|WisconSin|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|19960449|Royal Oak, Michigan|1|2
+15372377|burbank, ca|54551956|New London, Connecticut|1|2
+15372377|burbank, ca|42099904|Miami Beach, FL|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|34936494|Outer Space|1|2
+15372377|burbank, ca|913755360|Error|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|525885861|Error|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|14585007|Kuala Lumpur, Malaysia|1|2
+15372377|burbank, ca|23720465|St. Catharines, Ontario|1|2
+15372377|burbank, ca|22309611|Downtown LA|1|2
+15372377|burbank, ca|6280302|West Hollywood, CA|1|2
+14851034|burbank, ca|21314199|The Asylum|1|2
+14851034|burbank, ca|0|Error|1|2
+14851034|burbank, ca|14851034|Burbank, CA|1|2
+14851034|burbank, ca|0|Error|1|2
+14851034|burbank, ca|52549660|Silverscreen, Hollywood|1|2
+19177024|burbank, ca|0|Error|1|2
+20097100|burbank, ca|55462255|Error|5|2
+20097100|burbank, ca|29366280|Error|3|2
+20097100|burbank, ca|15479810|Dublin|2|2
+20097100|burbank, ca|282060444|Athens, Kalamaki|2|2
+20097100|burbank, ca|0|Error|2|2
+20097100|burbank, ca|20451675|SoCal|1|2
+20097100|burbank, ca|33666226|Rio de Janeiro, Brasil|1|2
+20097100|burbank, ca|45812403|The Fortress of Solitude |1|2
+20097100|burbank, ca|1541324060|Error|1|2
+20097100|burbank, ca|17950122|Long Island, New York, US|1|2
+20097100|burbank, ca|147796434|Error|1|2
+20097100|burbank, ca|398367582|Error|1|2
+20097100|burbank, ca|18460956|Error|1|2
+20097100|burbank, ca|58301087|Smallville, Kansas|1|2
+20097100|burbank, ca|46734212|Mission Viejo, CA|1|2
+20097100|burbank, ca|284421230|Error|1|2
+20097100|burbank, ca|2305498770|Sun Valley, Idaho|1|2
+20097100|burbank, ca|0|Error|1|2
+20097100|burbank, ca|0|Error|1|2
+26522413|burbank, ca|0|Error|1|2
+26522413|burbank, ca|34037521|Los Angeles|1|2
+26522413|burbank, ca|24560460|Brooklyn, NY|1|2
+26522413|burbank, ca|17884324|Error|1|2
+26522413|burbank, ca|57828172|bookings@sleepinggianmusic.com|1|2
+89047381|burbank, ca|4048299372|Error|1|2
+89047381|burbank, ca|183347718|National City - Planet Krypton|1|2
+89047381|burbank, ca|20658294|Australia|1|2
+89047381|burbank, ca|18485876|retirement town, usa|1|2
+89047381|burbank, ca|41208104|okc,ok|1|2
+89047381|burbank, ca|218809892|Error|1|2
+20890606|burbank, ca|0|Error|4|2
+20890606|burbank, ca|20890606|LV, NV|2|2
+20890606|burbank, ca|1253207796|Error|2|2
+20890606|burbank, ca|0|Error|2|2
+20890606|burbank, ca|29688506|New York, NY|2|2
+20890606|burbank, ca|0|Error|2|2
+20890606|burbank, ca|0|Error|2|2
+20890606|burbank, ca|15601166|somwhere on the westside|2|2
+20890606|burbank, ca|0|Error|1|2
+20890606|burbank, ca|15623481|los angeles, ca|1|2
+20890606|burbank, ca|21598819|THE BAY AREA, CALIFORNIA|1|2
+20890606|burbank, ca|0|Error|1|2
+20890606|burbank, ca|390438689|Southern Indiana|1|2
+20890606|burbank, ca|0|Error|1|2
+20890606|burbank, ca|15654267|Los Angeles|1|2
+20890606|burbank, ca|0|Error|1|2
+15257335|burbank, california|17296609|New Zealand|4|2
+15257335|burbank, california|1244327414|Los Angeles|2|2
+15257335|burbank, california|14329989|Yucaipa|2|2
+15257335|burbank, california|8637672|On The Road|2|2
+15257335|burbank, california|43149244|Louisville, KY|1|2
+15257335|burbank, california|14769388|Buena Park, CA|1|2
+15257335|burbank, california|179305620|Virginia|1|2
+15257335|burbank, california|27761633|California|1|2
+15257335|burbank, california|24598148|Beverly Hills, CA|1|2
+15257335|burbank, california|55328149|Los Angeles, California, USA|1|2
+15257335|burbank, california|18519661|Los Angeles, CA|1|2
+15257335|burbank, california|20479813|Michigan|1|2
+15257335|burbank, california|83137466|check @fishlips_sushi|1|2
+15257335|burbank, california|14749383|Las Vegas, NV, USA|1|2
+15257335|burbank, california|15939889|California & Washington, DC|1|2
+15257335|burbank, california|19637934|Los Angeles-ish|1|2
+15257335|burbank, california|39350249|Long Beach, CA|1|2
+15257335|burbank, california|17005368|United States of America|1|2
+25743154|burbank, ca|59878186|Error|4|2
+25743154|burbank, ca|1867534207|Error|4|2
+25743154|burbank, ca|65959110|I'm a New Englandah.|3|2
+25743154|burbank, ca|0|Error|2|2
+25743154|burbank, ca|1021036166|Error|2|2
+25743154|burbank, ca|17643416|Indianapolis, IN|2|2
+25743154|burbank, ca|168338317|Australia|2|2
+25743154|burbank, ca|16803946|Tardis|2|2
+25743154|burbank, ca|17501358|Los Angeles|2|2
+25743154|burbank, ca|2954451446|Error|1|2
+25743154|burbank, ca|0|Error|1|2
+25743154|burbank, ca|88777396|Error|1|2
+25743154|burbank, ca|54324025|Sweden|1|2
+25743154|burbank, ca|0|Error|1|2
+25743154|burbank, ca|17918132|Error|1|2
+25743154|burbank, ca|0|Error|1|2
+25743154|burbank, ca|20800012|Gilbert, AZ|1|2
+25743154|burbank, ca|0|Error|1|2
+25743154|burbank, ca|34870580|Brooklyn to LA|1|2
+72667695|burbank, ca|14388412|Rochester, New York|1|2
+72667695|burbank, ca|0|Error|1|2
+72667695|burbank, ca|2556456530|Error|1|2
+72667695|burbank, ca|82650069|Error|1|2
+72667695|burbank, ca|0|Error|1|2
+72667695|burbank, ca|3108425350|Error|1|2
+24827612|burbank, ca|0|Error|4|2
+24827612|burbank, ca|25963884|PA born LA raised.. LA LA Land|4|2
+24827612|burbank, ca|25969086|Tennessee|3|2
+24827612|burbank, ca|0|Error|2|2
+24827612|burbank, ca|0|Error|2|2
+24827612|burbank, ca|0|Error|1|2
+24827612|burbank, ca|0|Error|1|2
+24827612|burbank, ca|39893781|In God's hands...|1|2
+24827612|burbank, ca|0|Error|1|2
+24827612|burbank, ca|24827612|Rawstarrville,Ca.Rawstarria,FL|1|2
+19324146|burbank, ca|21741551|Error|3|2
+19324146|burbank, ca|14693790|Bay Area|1|2
+19324146|burbank, ca|62003216|headquarter Schwedt, Germany|1|2
+19324146|burbank, ca|15888142|Los Angeles|1|2
+19324146|burbank, ca|25210846|Sioux Falls, SD|1|2
+19324146|burbank, ca|15458168|Republic of California|1|2
+19324146|burbank, ca|14666907|Burbank, California|1|2
+19324146|burbank, ca|0|Error|1|2
+19324146|burbank, ca|0|Error|1|2
+19324146|burbank, ca|0|Error|1|2
+19324146|burbank, ca|31411683|Lake Forest, CA|1|2
+19324146|burbank, ca|11228322|Washington D.C.|1|2
+19324146|burbank, ca|19117954|Error|1|2
+19324146|burbank, ca|25395602|Error|1|2
+36626674|burbank, ca|14563103|Seattle, WA|2|2
+36626674|burbank, ca|0|Error|1|2
+36626674|burbank, ca|707591598|Error|1|2
+38728501|burbank, ca|0|Error|1|2
+22083910|burbank, ca|2178872376|Error|4|2
+22083910|burbank, ca|0|Error|4|2
+22083910|burbank, ca|39803395|Tree Hill, NC|3|2
+22083910|burbank, ca|33026860|New York, NY|3|2
+22083910|burbank, ca|20743939|Michigan|3|2
+22083910|burbank, ca|34312352|Instagram: itsmeleighton|3|2
+22083910|burbank, ca|269880247|Error|2|2
+22083910|burbank, ca|0|Error|2|2
+22083910|burbank, ca|18993601|Los Angeles, CA|2|2
+22083910|burbank, ca|14708951|Error|2|2
+22083910|burbank, ca|74169715|Cruising Altitude. |2|2
+22083910|burbank, ca|14222518|everywhere|2|2
+22083910|burbank, ca|89523939|Everywhere|2|2
+22083910|burbank, ca|291821235|Error|2|2
+22083910|burbank, ca|1012083462|USA|2|2
+22083910|burbank, ca|23546586|Mystic Falls/New Orleans|2|2
+22083910|burbank, ca|74566474|Error|2|2
+22083910|burbank, ca|48222215|LA|2|2
+22083910|burbank, ca|1941438282|Error|2|2
+22083910|burbank, ca|0|Error|1|2
+22083910|burbank, ca|183347718|National City - Planet Krypton|1|2
+22083910|burbank, ca|0|Error|1|2
+22083910|burbank, ca|92533551|2ndSTAR2theRITE&strateONtil...|1|2
+22083910|burbank, ca|14631385|Los Angeles, CA|1|2
+22083910|burbank, ca|0|Error|1|2
+22083910|burbank, ca|0|Error|1|2
+22083910|burbank, ca|20450568|Brooklyn, NY|1|2
+22083910|burbank, ca|14934818|New York, NY|1|2
+22083910|burbank, ca|73443014|Error|1|2
+22083910|burbank, ca|14780915|New York, New York|1|2
+22083910|burbank, ca|17980185|Los Angeles, CA|1|2
+22083910|burbank, ca|15633539|Error|1|2
+22083910|burbank, ca|20470814|outta this world.|1|2
+22083910|burbank, ca|25509502|Westbrook, Maine|1|2
+22083910|burbank, ca|58233603|The Universe|1|2
+22083910|burbank, ca|0|Error|1|2
+22083910|burbank, ca|10037332|Philadelphia, PA|1|2
+22083910|burbank, ca|18103875|New York City|1|2
+22083910|burbank, ca|0|Error|1|2
+22083910|burbank, ca|19852483|in an airplane |1|2
+22083910|burbank, ca|0|Error|1|2
+22083910|burbank, ca|2996528787|Error|1|2
+22083910|burbank, ca|0|Error|1|2
+22083910|burbank, ca|31224717|UES|1|2
+22083910|burbank, ca|17311942|Charleston, SC|1|2
+22083910|burbank, ca|21069294|Milwaukee, WI|1|2
+22083910|burbank, ca|2859807206|Error|1|2
+22083910|burbank, ca|1201439654|Error|1|2
+22083910|burbank, ca|14683691|Hollywood, CA|1|2
+22083910|burbank, ca|373853968|Error|1|2
+22083910|burbank, ca|0|Error|1|2
+22083910|burbank, ca|2167874022|Error|1|2
+22083910|burbank, ca|20094830|Los Angeles, CA|1|2
+22083910|burbank, ca|23690982|California|1|2
+22083910|burbank, ca|17150450|New York|1|2
+22083910|burbank, ca|0|Error|1|2
+22083910|burbank, ca|19040242|New York City|1|2
+22083910|burbank, ca|3226922827|Error|1|2
+22083910|burbank, ca|1850346037|Error|1|2
+22083910|burbank, ca|249343634|Error|1|2
+22083910|burbank, ca|93712307|New York, NY|1|2
+22083910|burbank, ca|25209206|Los Angeles|1|2
+22083910|burbank, ca|0|Error|1|2
+22083910|burbank, ca|0|Error|1|2
+17628068|burbank, ca|18334346|Southern California|5|2
+17628068|burbank, ca|26950835|Denver, Colorado|3|2
+17628068|burbank, ca|9720392|Vancouver, Washington|3|2
+17628068|burbank, ca|15694542|Error|3|2
+17628068|burbank, ca|10232352|texas & berlin|2|2
+17628068|burbank, ca|15181498|Houston, TX |2|2
+17628068|burbank, ca|15251890|Orange County|2|2
+17628068|burbank, ca|17825445|New York|1|2
+17628068|burbank, ca|0|Error|1|2
+17628068|burbank, ca|14914938|Nashville, TN|1|2
+17628068|burbank, ca|0|Error|1|2
+17628068|burbank, ca|25080845|iPhone: 42.690357,-71.140068|1|2
+17628068|burbank, ca|0|Error|1|2
+17628068|burbank, ca|18294927|Los Angeles|1|2
+17628068|burbank, ca|25080584|Springfield, MO|1|2
+17628068|burbank, ca|2436100584|Error|1|2
+17628068|burbank, ca|217520333|Error|1|2
+17628068|burbank, ca|2596737540|Bell Gardens, CA|1|2
+17628068|burbank, ca|803131|bellingham, wa|1|2
+17628068|burbank, ca|25687765|up on the mountain|1|2
+17628068|burbank, ca|0|Error|1|2
+17628068|burbank, ca|34854189|LA | SP|1|2
+17628068|burbank, ca|10989442|McKinney, TX|1|2
+17628068|burbank, ca|16131819|Irvine, CA|1|2
+68746611|burbank, ca|0|Error|4|2
+68746611|burbank, ca|1342219670|Error|3|2
+68746611|burbank, ca|0|Error|1|2
+68746611|burbank, ca|0|Error|1|2
+68746611|burbank, ca|0|Error|1|2
+68746611|burbank, ca|17173987|Calabasas, CA|1|2
+68746611|burbank, ca|0|Error|1|2
+68746611|burbank, ca|0|Error|1|2
+68746611|burbank, ca|0|Error|1|2
+17246795|burbank, california|22939740|The Cloud|10|2
+17246795|burbank, california|15325176|Stockholm, Sweden|3|2
+17246795|burbank, california|16919468|Tampa, FL|2|2
+17246795|burbank, california|0|Error|2|2
+17246795|burbank, california|22676577|Boston, MA|2|2
+17246795|burbank, california|8151222|Long Beach, CA|2|2
+17246795|burbank, california|759251|Error|2|2
+17246795|burbank, california|34247842|Error|2|2
+17246795|burbank, california|43278605|Ahmedabad, Gujarat, India|2|2
+17246795|burbank, california|20622724|Canada|2|2
+17246795|burbank, california|10375362|Inland Empire, California|2|2
+17246795|burbank, california|0|Error|2|2
+17246795|burbank, california|0|Error|2|2
+17246795|burbank, california|0|Error|1|2
+17246795|burbank, california|0|Error|1|2
+17246795|burbank, california|8453452|Silicon Valley, California|1|2
+17246795|burbank, california|8004322|Germany, Wiesbaden|1|2
+17246795|burbank, california|972651|Error|1|2
+17246795|burbank, california|0|Error|1|2
+17246795|burbank, california|45070836|Santiago, Chile|1|2
+17246795|burbank, california|0|Error|1|2
+17246795|burbank, california|5571322|Reston, VA|1|2
+17246795|burbank, california|0|Error|1|2
+17246795|burbank, california|1513216602|Error|1|2
+17246795|burbank, california|114122976|Error|1|2
+17246795|burbank, california|14277156|Atlanta, GA USA|1|2
+17246795|burbank, california|18239275|Alicante (Spain)|1|2
+17246795|burbank, california|13348|Half Moon Bay, California, USA|1|2
+17246795|burbank, california|0|Error|1|2
+17246795|burbank, california|67869909|London|1|2
+23398528|burbank, ca|0|Error|13|2
+23398528|burbank, ca|22288490|Van Nuys, CA & Encino, CA |2|2
+23398528|burbank, ca|46878551|NM/Calif|2|2
+23398528|burbank, ca|1713784946|Error|2|2
+23398528|burbank, ca|18812301|New York, NY|2|2
+23398528|burbank, ca|16988659|Error|2|2
+23398528|burbank, ca|70757387|Los Angeles, CA|2|2
+23398528|burbank, ca|26112336|Los Angeles, CA|2|2
+23398528|burbank, ca|20625933|Florida|1|2
+23398528|burbank, ca|26149716|Instagram: TheMarleeMatlin|1|2
+23398528|burbank, ca|33514869|New York, NY |1|2
+23398528|burbank, ca|22416043|Los Angeles|1|2
+23398528|burbank, ca|28597960|Error|1|2
+23398528|burbank, ca|120246988|Error|1|2
+23398528|burbank, ca|972651|Error|1|2
+23398528|burbank, ca|0|Error|1|2
+23398528|burbank, ca|19806063|Los Angeles |1|2
+23398528|burbank, ca|39079604|NY,NY|1|2
+23398528|burbank, ca|57457477|USA|1|2
+23398528|burbank, ca|18822640|Los Angeles|1|2
+23398528|burbank, ca|21681809|Los Angeles|1|2
+23398528|burbank, ca|64790822|Error|1|2
+23398528|burbank, ca|36220671|LA, CA|1|2
+23398528|burbank, ca|0|Error|1|2
+23398528|burbank, ca|32004130|New York, NY|1|2
+23398528|burbank, ca|0|Error|1|2
+23398528|burbank, ca|15423869|Los Angeles|1|2
+23398528|burbank, ca|50423990|Hollywood, CA|1|2
+23398528|burbank, ca|226411118|Error|1|2
+23398528|burbank, ca|0|Error|1|2
+23398528|burbank, ca|16374678|Error|1|2
+23398528|burbank, ca|2735591|New York, NY|1|2
+23398528|burbank, ca|0|Error|1|2
+23398528|burbank, ca|8820652|San Diego, California |1|2
+23398528|burbank, ca|41259253|here|1|2
+23398528|burbank, ca|20171251|Hollywood|1|2
+23398528|burbank, ca|38913318|Los Angeles|1|2
+23398528|burbank, ca|20408731|Los Angeles|1|2
+23398528|burbank, ca|14127481|Newport Beach, CA|1|2
+23398528|burbank, ca|2584455834|Error|1|2
+23398528|burbank, ca|21982720|Error|1|2
+23398528|burbank, ca|23331403|Error|1|2
+23398528|burbank, ca|15846407|California|1|2
+23398528|burbank, ca|36528126|Hollywood|1|2
+88017746|burbank, ca|0|Error|1|2
+88017746|burbank, ca|633214663|Error|1|2
+88017746|burbank, ca|15645639|Hogwarts|1|2
+88017746|burbank, ca|22150098|PA|1|2
+88017746|burbank, ca|19032806|Error|1|2
+88017746|burbank, ca|55735518|los angeles|1|2
+88017746|burbank, ca|0|Error|1|2
+88017746|burbank, ca|15372377|Los Angeles + Salt Lake City|1|2
+88017746|burbank, ca|37273770|A galaxy far, far away....|1|2
+88017746|burbank, ca|61524920|Kenosha, WI + world|1|2
+88017746|burbank, ca|14599470|Hogwarts|1|2
+80970876|burbank, california|20626030|Williamsport, PA|1|2
+80970876|burbank, california|76199606|Canada|1|2
+84484982|burbank, ca|24086418|Surrey...don't be baby|2|2
+84484982|burbank, ca|24083587|England|2|2
+84484982|burbank, ca|193115689|London, UK|1|2
+84484982|burbank, ca|30023709|iPhone: 38.751454,-90.608139|1|2
+84484982|burbank, ca|1116609643|Error|1|2
+23538170|burbank, ca|9728952|Burbank, CA|5|2
+23538170|burbank, ca|15273626|Los Angeles, CA|3|2
+23538170|burbank, ca|0|Error|3|2
+23538170|burbank, ca|166324873|Louisiana/Los Angeles|3|2
+23538170|burbank, ca|32220237|Error|2|2
+23538170|burbank, ca|156796064|Error|2|2
+23538170|burbank, ca|2290189736|Error|2|2
+23538170|burbank, ca|25959786|Denver, CO|2|2
+23538170|burbank, ca|16916194|Error|2|2
+23538170|burbank, ca|16374678|Error|2|2
+23538170|burbank, ca|16251528|Redondo Beach, CA|2|2
+23538170|burbank, ca|14712692|Error|2|2
+23538170|burbank, ca|21507883|New Delhi, India|2|2
+23538170|burbank, ca|31460633|OC baybee!|2|2
+23538170|burbank, ca|602983|Seattle, WA|2|2
+23538170|burbank, ca|21908338|Error|1|2
+23538170|burbank, ca|79797834|Chicago|1|2
+23538170|burbank, ca|19329393|New York City, New York|1|2
+23538170|burbank, ca|859221607|Near the water.|1|2
+23538170|burbank, ca|9480732|Los Angeles, California|1|2
+23538170|burbank, ca|16730005|Los Angeles|1|2
+23538170|burbank, ca|55942003|Los Angeles|1|2
+23538170|burbank, ca|22952245|Error|1|2
+23538170|burbank, ca|252857245|Los Angeles, CA|1|2
+23538170|burbank, ca|0|Error|1|2
+23538170|burbank, ca|3253747196|Error|1|2
+23538170|burbank, ca|148565481|Burbank, CA|1|2
+23538170|burbank, ca|15390684|OH|1|2
+23538170|burbank, ca|18474168|Lansing, Michigan|1|2
+23538170|burbank, ca|754576|Los Angeles, CA|1|2
+23538170|burbank, ca|0|Error|1|2
+23538170|burbank, ca|33978449|Error|1|2
+23538170|burbank, ca|20929072|LA. |1|2
+23538170|burbank, ca|85851840|Ether|1|2
+23538170|burbank, ca|83883736|Error|1|2
+23538170|burbank, ca|19523634|manchester|1|2
+23538170|burbank, ca|8464692|Bay Area, CA|1|2
+23538170|burbank, ca|0|Error|1|2
+23538170|burbank, ca|9584522|Denver|1|2
+23538170|burbank, ca|132658390|Error|1|2
+23538170|burbank, ca|13669|Galiano Island, BC, Canada|1|2
+23538170|burbank, ca|18720595|Earth's Core|1|2
+23538170|burbank, ca|14986811|Los Angeles, California|1|2
+23538170|burbank, ca|0|Error|1|2
+23538170|burbank, ca|27463408|Los Angeles|1|2
+23538170|burbank, ca|50077062|Greenwich Village|1|2
+23538170|burbank, ca|18812301|New York, NY|1|2
+23538170|burbank, ca|15021099|San Diego|1|2
+26293772|burbank, ca|0|Error|4|2
+26293772|burbank, ca|0|Error|2|2
+26293772|burbank, ca|26095096|Los Angeles, CA|2|2
+26293772|burbank, ca|19833465|Los Angeles CA|2|2
+26293772|burbank, ca|0|Error|1|2
+26293772|burbank, ca|302871821|Error|1|2
+26293772|burbank, ca|26868513|texas|1|2
+26293772|burbank, ca|0|Error|1|2
+26293772|burbank, ca|2252873210|Error|1|2
+26293772|burbank, ca|18657864|MOVAL/RIVERSIDE|1|2
+26293772|burbank, ca|0|Error|1|2
+26293772|burbank, ca|0|Error|1|2
+35076494|burbank, ca|14230524|Error|1|2
+35076494|burbank, ca|161006604|Error|1|2
+35076494|burbank, ca|26947777|Mar del Plata - Argentina|1|2
+35076494|burbank, ca|0|Error|1|2
+35076494|burbank, ca|34312352|Instagram: itsmeleighton|1|2
+35076494|burbank, ca|0|Error|1|2
+35076494|burbank, ca|75858760|California |1|2
+35076494|burbank, ca|17358768|Error|1|2
+35076494|burbank, ca|0|Error|1|2
+35076494|burbank, ca|0|Error|1|2
+35076494|burbank, ca|0|Error|1|2
+35076494|burbank, ca|0|Error|1|2
+48187029|burbank, ca|0|Error|1|2
+48187029|burbank, ca|621425769|Error|1|2
+48187029|burbank, ca|25286193|Bowling Green|1|2
+48187029|burbank, ca|0|Error|1|2
+48187029|burbank, ca|0|Error|1|2
+48187029|burbank, ca|44181512|Los Angeles|1|2
+48187029|burbank, ca|43364907|Worldwide / HQ In Miami, FL|1|2
+48187029|burbank, ca|0|Error|1|2
+48187029|burbank, ca|572727996|Chattanooga|1|2
+48187029|burbank, ca|54079626|SoCal! |1|2
+48187029|burbank, ca|0|Error|1|2
+48187029|burbank, ca|0|Error|1|2
+48187029|burbank, ca|521633371|quezon city|1|2
+48187029|burbank, ca|15911200|Error|1|2
+48187029|burbank, ca|0|Error|1|2
+48187029|burbank, ca|24975652|Los Angeles|1|2
+48187029|burbank, ca|0|Error|1|2
+48187029|burbank, ca|0|Error|1|2
+48187029|burbank, ca|1889042534|Error|1|2
+33377453|burbank, california|0|Error|11|2
+33377453|burbank, california|0|Error|9|2
+33377453|burbank, california|0|Error|7|2
+33377453|burbank, california|94884877|EveryWhere|6|2
+33377453|burbank, california|93738643|MileyWorld|2|2
+33377453|burbank, california|0|Error|2|2
+33377453|burbank, california|0|Error|1|2
+33377453|burbank, california|60760855|Los Angeles|1|2
+33377453|burbank, california|285273272|Error|1|2
+16338097|burbank, ca|0|Error|3|2
+16338097|burbank, ca|22598285|USA|3|2
+16338097|burbank, ca|0|Error|2|2
+16338097|burbank, ca|0|Error|2|2
+16338097|burbank, ca|14680132|Out of the Clouds, CA|2|2
+16338097|burbank, ca|0|Error|2|2
+16338097|burbank, ca|9265492|Virginia, USA|2|2
+16338097|burbank, ca|69105886|Studio City, CA|1|2
+16338097|burbank, ca|48250409|Caltroit|1|2
+16338097|burbank, ca|21985753|Las Vegas, NV|1|2
+16338097|burbank, ca|16338097|Burbank, CA|1|2
+16338097|burbank, ca|0|Error|1|2
+16338097|burbank, ca|0|Error|1|2
+16338097|burbank, ca|15174405|Edmonton, Canada|1|2
+16338097|burbank, ca|14453310|New York, NY|1|2
+16338097|burbank, ca|0|Error|1|2
+16338097|burbank, ca|32168892|Here I am|1|2
+16338097|burbank, ca|15254815|Manchester, New Jersey|1|2
+50158855|burbank, ca|0|Error|5|2
+50158855|burbank, ca|38577243|Los Angeles|5|2
+50158855|burbank, ca|29282980|Error|5|2
+50158855|burbank, ca|2840231780|Error|3|2
+50158855|burbank, ca|28940389|Error|2|2
+50158855|burbank, ca|7901402|LA|2|2
+50158855|burbank, ca|28989277|everywhere|2|2
+50158855|burbank, ca|39946655|Los Angeles|2|2
+50158855|burbank, ca|0|Error|1|2
+50158855|burbank, ca|18009781|LA/NYC|1|2
+50158855|burbank, ca|13540312|Los Angeles|1|2
+50158855|burbank, ca|39871001|Los Angeles|1|2
+50158855|burbank, ca|0|Error|1|2
+50158855|burbank, ca|33694840|Los Angeles|1|2
+50158855|burbank, ca|38864592|Los Angeles|1|2
+50158855|burbank, ca|14905646|Error|1|2
+50158855|burbank, ca|30183305|Burbank, CA|1|2
+50158855|burbank, ca|50158855|Burbank, CA|1|2
+21457382|burbank, ca|3080761|Bay Area, California|4|2
+21457382|burbank, ca|13532|Miami, FL|2|2
+21457382|burbank, ca|0|Error|2|2
+21457382|burbank, ca|84770696|Error|1|2
+21457382|burbank, ca|14313986|Chicago, IL|1|2
+21457382|burbank, ca|44071911|United Kingdom|1|2
+26177703|burbank, california|0|Error|11|2
+26177703|burbank, california|0|Error|2|2
+26177703|burbank, california|276129043|Error|1|2
+26177703|burbank, california|1071293474|Houston, TX|1|2
+42038152|burbank, california|22193630|LANd of LoSt ANgeleS (LA)|5|2
+42038152|burbank, california|0|Error|5|2
+42038152|burbank, california|44739507|On Air Studio!|5|2
+42038152|burbank, california|0|Error|5|2
+42038152|burbank, california|63386525|Your Radio Speakers|5|2
+42038152|burbank, california|19790402|Nashville, TN|4|2
+42038152|burbank, california|408922046|Error|3|2
+42038152|burbank, california|0|Error|3|2
+42038152|burbank, california|30080739|Toronto|2|2
+42038152|burbank, california|19689143|Los Angeles, CA|2|2
+42038152|burbank, california|0|Error|2|2
+42038152|burbank, california|27260086|Error|2|2
+42038152|burbank, california|8418652|Near Los Angeles|2|2
+42038152|burbank, california|2202014756|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|90638351|Error|1|2
+42038152|burbank, california|62152041|atlanta & d.c|1|2
+42038152|burbank, california|3002820271|Error|1|2
+42038152|burbank, california|30104231|FOX|1|2
+42038152|burbank, california|21126849|Chicago|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|19329393|New York City, New York|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|16870672|Los Angeles, CA|1|2
+42038152|burbank, california|43226491|My soul is in America!|1|2
+42038152|burbank, california|119954264|Error|1|2
+42038152|burbank, california|17580770|London|1|2
+42038152|burbank, california|28135839|Los Angeles, CA|1|2
+42038152|burbank, california|17919972|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|319319308|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|38250345|Look over your left shoulder.|1|2
+42038152|burbank, california|433673370|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|406687162|On Your Computer|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|23375688|Los Angeles |1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|0|Error|1|2
+42038152|burbank, california|277195146|PA|1|2
+23560015|burbank, ca|20255162|Burbank, CA|16|2
+23560015|burbank, ca|23990483|Burbank, CA|10|2
+23560015|burbank, ca|2178872376|Error|4|2
+23560015|burbank, ca|49717874|You Don't like me ? ... #TOMA |3|2
+23560015|burbank, ca|33927282|Atlanta|3|2
+23560015|burbank, ca|46475424|Hogwarts|3|2
+23560015|burbank, ca|15485441|New York, New York|2|2
+23560015|burbank, ca|68840036|Warner Bros. Studios|2|2
+23560015|burbank, ca|0|Error|2|2
+23560015|burbank, ca|0|Error|1|2
+23560015|burbank, ca|93712307|New York, NY|1|2
+23560015|burbank, ca|25025381|Burbank, California|1|2
+23560015|burbank, ca|17980185|Los Angeles, CA|1|2
+23560015|burbank, ca|35854783|Global|1|2
+23560015|burbank, ca|58233603|The Universe|1|2
+23560015|burbank, ca|33956270|New York, NY|1|2
+23560015|burbank, ca|0|Error|1|2
+23560015|burbank, ca|48502553|Los Angeles|1|2
+23560015|burbank, ca|17853760|LA|1|2
+23560015|burbank, ca|916933800|ATL, NY, LA|1|2
+23560015|burbank, ca|17852343|New York and LA|1|2
+23560015|burbank, ca|199379744|Error|1|2
+23560015|burbank, ca|0|Error|1|2
+23560015|burbank, ca|0|Error|1|2
+23560015|burbank, ca|22822407|mostly la and ny|1|2
+23560015|burbank, ca|15846407|California|1|2
+33402036|burbank, ca|39252334|Error|5|2
+33402036|burbank, ca|419582426|Error|3|2
+33402036|burbank, ca|399001177|Error|2|2
+33402036|burbank, ca|78636500|Middle US|1|2
+33402036|burbank, ca|16986912|Chicago|1|2
+33402036|burbank, ca|0|Error|1|2
+33402036|burbank, ca|305891536|Error|1|2
+33402036|burbank, ca|17095947|Los Angeles|1|2
+51491905|burbank, california|64010422|So.California|8|2
+51491905|burbank, california|155203267|Roma|3|2
+51491905|burbank, california|0|Error|2|2
+51491905|burbank, california|17214683|Washington, D.C.|2|2
+51491905|burbank, california|0|Error|2|2
+51491905|burbank, california|13673392|Lansing, MIchigan|2|2
+51491905|burbank, california|23216903|South Carolina|2|2
+51491905|burbank, california|20016382|NYC|1|2
+51491905|burbank, california|17454769|Dallas, TX. Rockies, NYC.|1|2
+51491905|burbank, california|46719826|Bethlehem, PA|1|2
+51491905|burbank, california|1367531|U.S.A.|1|2
+51491905|burbank, california|72478337|Ohio|1|2
+51491905|burbank, california|18222628|Error|1|2
+51491905|burbank, california|145827851|Philadelphia|1|2
+51491905|burbank, california|15533337|San Diego, California|1|2
+51491905|burbank, california|15146206|United States, France |1|2
+51491905|burbank, california|107027763|Error|1|2
+51491905|burbank, california|45040000|Mesa |1|2
+51491905|burbank, california|20913960|The Greatest Country on Earth|1|2
+51491905|burbank, california|28614262|Washington D.C.|1|2
+51491905|burbank, california|0|Error|1|2
+51491905|burbank, california|0|Error|1|2
+51491905|burbank, california|49224286|USA|1|2
+51491905|burbank, california|0|Error|1|2
+51491905|burbank, california|0|Error|1|2
+51491905|burbank, california|65485548|Marketing Floor|1|2
+51491905|burbank, california|18791763|Washington, D.C.|1|2
+51491905|burbank, california|19394188|Phoenix, AZ / Washington, DC|1|2
+51491905|burbank, california|0|Error|1|2
+51491905|burbank, california|70704621|Error|1|2
+51491905|burbank, california|0|Error|1|2
+51491905|burbank, california|0|Error|1|2
+51491905|burbank, california|0|Error|1|2
+51491905|burbank, california|14720411|So. Cal|1|2
+81899659|burbank, ca|59658695|Los Angeles|4|2
+81899659|burbank, ca|2155623913|San Diego, California|3|2
+81899659|burbank, ca|14295267|Washington DC|3|2
+81899659|burbank, ca|68260575|San Diego, CA|2|2
+81899659|burbank, ca|0|Error|2|2
+81899659|burbank, ca|0|Error|2|2
+81899659|burbank, ca|23542821|Los Angeles|2|2
+81899659|burbank, ca|18568663|Hawaii|2|2
+81899659|burbank, ca|14879938|westminster, co|1|2
+81899659|burbank, ca|59516462|Worldwide|1|2
+81899659|burbank, ca|0|Error|1|2
+81899659|burbank, ca|0|Error|1|2
+81899659|burbank, ca|0|Error|1|2
+81899659|burbank, ca|0|Error|1|2
+81899659|burbank, ca|0|Error|1|2
+81899659|burbank, ca|10546442|Salt Lake City, Utah|1|2
+81899659|burbank, ca|0|Error|1|2
+81899659|burbank, ca|70203223|North Hollywood|1|2
+45509315|burbank, ca|0|Error|6|2
+45509315|burbank, ca|58606715|New Music video click! |6|2
+45509315|burbank, ca|0|Error|3|2
+45509315|burbank, ca|199573171|Error|2|2
+45509315|burbank, ca|25040477|Los Angeles, CA|2|2
+45509315|burbank, ca|25784884|Sydney, Australia|2|2
+45509315|burbank, ca|281649038|Mars|1|2
+45509315|burbank, ca|622572326|Hollywood, CA|1|2
+45509315|burbank, ca|33876174|Error|1|2
+45509315|burbank, ca|15111389|the nothing|1|2
+45509315|burbank, ca|0|Error|1|2
+45509315|burbank, ca|30556312|Los Angeles|1|2
+45509315|burbank, ca|89880458|Saguenay(Qc,Canada)|1|2
+45509315|burbank, ca|1665130140|Error|1|2
+45509315|burbank, ca|0|Error|1|2
+45509315|burbank, ca|17125184|Santa Cruz, CA|1|2
+45509315|burbank, ca|17651024|Error|1|2
+45509315|burbank, ca|29405599|Santa Monica, California|1|2
+45509315|burbank, ca|0|Error|1|2
+45509315|burbank, ca|3067347433|Error|1|2
+12438752|burbank, ca|16572685|over the rainbow|2|2
+12438752|burbank, ca|23016547|california. |2|2
+12438752|burbank, ca|18698038|Texas|2|2
+12438752|burbank, ca|14752281|Under the Hollywood Sign|2|2
+12438752|burbank, ca|15933544|Windsor, Ontario|2|2
+12438752|burbank, ca|18211772|33.977425,-118.416367|2|2
+12438752|burbank, ca|78436978|in limbo|2|2
+12438752|burbank, ca|0|Error|1|2
+12438752|burbank, ca|14590496|Dublin / Ireland|1|2
+12438752|burbank, ca|27126360|Western United States|1|2
+12438752|burbank, ca|763591|I travel around.|1|2
+12438752|burbank, ca|3182546102|Error|1|2
+12438752|burbank, ca|0|Error|1|2
+12438752|burbank, ca|16192413|Detroit, MI|1|2
+12438752|burbank, ca|11736562|Birmingham, Alabama|1|2
+12438752|burbank, ca|1974560365|Error|1|2
+12438752|burbank, ca|14444418|Brizzle, UK|1|2
+12438752|burbank, ca|16110000|A place with hills. |1|2
+12438752|burbank, ca|1156320397|where eva da wind blows;)|1|2
+12438752|burbank, ca|282818094|San Francisco, CA|1|2
+12438752|burbank, ca|7948222|Error|1|2
+12438752|burbank, ca|12980842|Ft Worth|1|2
+40489301|burbank, california|15014405|Silicon Valley, CA|15|2
+40489301|burbank, california|15255418|Error|15|2
+40489301|burbank, california|6273552|Bay Area #GoldenState |9|2
+40489301|burbank, california|50125254|@RSTipton|6|2
+40489301|burbank, california|0|Error|4|2
+40489301|burbank, california|0|Error|4|2
+40489301|burbank, california|29905779|Always where I need to be;)|3|2
+40489301|burbank, california|0|Error|3|2
+40489301|burbank, california|0|Error|2|2
+40489301|burbank, california|0|Error|2|2
+40489301|burbank, california|410103390|401, Rhode Island|2|2
+40489301|burbank, california|30914854|Tulsa, OK/Fort Worth, TX|2|2
+40489301|burbank, california|23235056|The World|2|2
+40489301|burbank, california|57414710|NEWYORK  NEWYORK|2|2
+40489301|burbank, california|0|Error|2|2
+40489301|burbank, california|2328548755|Error|2|2
+40489301|burbank, california|2171713416|Barcelona |1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|37588067|Los Angeles, CA/Fort Wayne, IN|1|2
+40489301|burbank, california|25676346|Lynchburg, Virginia|1|2
+40489301|burbank, california|15524948|Los Angeles|1|2
+40489301|burbank, california|80603929|Hollywood|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|31705850|Error|1|2
+40489301|burbank, california|23396761|L.A.|1|2
+40489301|burbank, california|85119119|brasil-santacatarina-joinville|1|2
+40489301|burbank, california|558202706|Fresno CA|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|62554155|Montreal, Canada|1|2
+40489301|burbank, california|297299699|Cody, Wyoming|1|2
+40489301|burbank, california|16483349|In Orbit|1|2
+40489301|burbank, california|17008328|California|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|81206865|Atlanta, GA|1|2
+40489301|burbank, california|36061712|Error|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|592136954|Error|1|2
+40489301|burbank, california|3319906791|Error|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|17833400|Fort Payne, Alabama|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|21466859|Southern Girl|1|2
+40489301|burbank, california|339410886|Error|1|2
+40489301|burbank, california|300481034|Error|1|2
+40489301|burbank, california|14205847|California|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|31150491|Los Angeles, CA via D[M]V|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|188046177|Denmark|1|2
+40489301|burbank, california|24978064|some imaginary pedestal...|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|25026486|Inglewood Chick :) |1|2
+40489301|burbank, california|18567189|San Jose, CA|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|16795873|Los Angeles, CA|1|2
+40489301|burbank, california|198881093|Error|1|2
+20641995|burbank, california|15676578|Los Angeles|2|2
+20641995|burbank, california|20641995|Los Angeles, California|1|2
+20641995|burbank, california|0|Error|1|2
+20641995|burbank, california|0|Error|1|2
+20641995|burbank, california|25365536|where I'm meant to be...|1|2
+20641995|burbank, california|0|Error|1|2
+20641995|burbank, california|15846407|California|1|2
+14144817|burbank, ca|68877042|USA|7|2
+14144817|burbank, ca|617693112|Error|7|2
+14144817|burbank, ca|704307487|Error|5|2
+14144817|burbank, ca|0|Error|2|2
+14144817|burbank, ca|0|Error|2|2
+14144817|burbank, ca|0|Error|2|2
+14144817|burbank, ca|0|Error|2|2
+14144817|burbank, ca|38804038|Salt Lake City, Utah|1|2
+14144817|burbank, ca|85993623|GLOBAL|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|62533006|Queens, NY, USA|1|2
+14144817|burbank, ca|14681605|Body? L.A. Mind? N.J.|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|2189751937|Error|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|13255592|Chicago|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|476458258|Agentina|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|14084042|918, via the 405 and 909|1|2
+14144817|burbank, ca|45589799|The Chicken Coop|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|0|Error|1|2
+14144817|burbank, ca|0|Error|1|2
+47437249|burbank, california|14348594|Brooklyn|3|2
+47437249|burbank, california|17063712|Athens, GA|1|2
+47437249|burbank, california|352686321|Error|1|2
+47437249|burbank, california|0|Error|1|2
+69066995|burbank, ca|48141401|San Francisco|1|2
+25375098|burbank, california|0|Error|2|2
+25375098|burbank, california|0|Error|2|2
+25375098|burbank, california|0|Error|1|2
+25375098|burbank, california|0|Error|1|2
+14330504|burbank, ca|14678809|Kalamazoo, Michigan area|8|2
+14330504|burbank, ca|35066038|Michigan|6|2
+14330504|burbank, ca|28706024|los angeles|1|2
+14330504|burbank, ca|20344826|Hollywood|1|2
+14330504|burbank, ca|62581962|Error|1|2
+14330504|burbank, ca|1347020647|Error|1|2
+14330504|burbank, ca|17565514|shondaland|1|2
+37749828|burbank, california|29352303|LA|2|2
+37749828|burbank, california|31610977|Capital City (faison NC)|1|2
+14816956|burbank, ca|14816956|Burbank, CA|4|2
+14816956|burbank, ca|14816278|Moreno Valley, CA|3|2
+14816956|burbank, ca|15193232|Lake, Isle of Wight |3|2
+14816956|burbank, ca|16253454|Riverside, CA|2|2
+14816956|burbank, ca|1389441|Wisconsin|2|2
+14816956|burbank, ca|263037116|Error|2|2
+14816956|burbank, ca|62022431|Japan|1|2
+14816956|burbank, ca|360211305|SOCAL|1|2
+14816956|burbank, ca|0|Error|1|2
+14816956|burbank, ca|62581962|Error|1|2
+14816956|burbank, ca|20330824|Stockton-On-Tees|1|2
+14816956|burbank, ca|10241|Los Angeles, CA|1|2
+14816956|burbank, ca|14438306|Los Angeles|1|2
+16941814|burbank, california|741526927|Error|1|2
+16941814|burbank, california|41828516|Tyler, Texas|1|2
+16941814|burbank, california|43003845|Tennessee|1|2
+16941814|burbank, california|21369740|Dallas|1|2
+16941814|burbank, california|17888043|Yardley, PA|1|2
+16941814|burbank, california|23559586|Error|1|2
+16941814|burbank, california|15843910|Bellingham WA / Birmingham AL|1|2
+16941814|burbank, california|186388158|England|1|2
+16941814|burbank, california|15432803|Los Angeles|1|2
+19081949|burbank, ca|0|Error|3|2
+19081949|burbank, ca|7353822|Timbuktoo|1|2
+19081949|burbank, ca|19491438|the Netherlands|1|2
+19081949|burbank, ca|0|Error|1|2
+19081949|burbank, ca|0|Error|1|2
+21375816|burbank, california|10890552|Duluth, MN|13|2
+21375816|burbank, california|15301490|Miami|6|2
+21375816|burbank, california|15122648|Den Haag|5|2
+21375816|burbank, california|65466121|Adventurekateer HQ, Apex City |1|2
+21375816|burbank, california|72998640|Austin, TX|1|2
+21375816|burbank, california|17857839|Beaver Town, Beaver State|1|2
+2358511|burbank, california|2499091|Los Angeles, Ca|2|2
+2358511|burbank, california|0|Error|1|2
+2358511|burbank, california|20803216|Los Angeles|1|2
+2358511|burbank, california|0|Error|1|2
+2358511|burbank, california|18021318|New York, NY|1|2
+2358511|burbank, california|3935861602|Error|1|2
+2358511|burbank, california|0|Error|1|2
+2358511|burbank, california|10824212|Los Angeles, CA|1|2
+2358511|burbank, california|25166595|Chicago, IL|1|2
+2358511|burbank, california|15913|Seattle via New England|1|2
+2358511|burbank, california|1533411|Mos Angeles|1|2
+2358511|burbank, california|17600554|Greenville, SC|1|2
+19164008|burbank, ca|565303570|Error|1|2
+19164008|burbank, ca|0|Error|1|2
+19164008|burbank, ca|2586313194|Canada|1|2
+19164008|burbank, ca|18805648|Lake Wylie SC|1|2
+19164008|burbank, ca|547721592|Nairobi,Kenya-Kitale,Kenya|1|2
+23228894|burbank, ca|0|Error|1|2
+23228894|burbank, ca|52311589|Burbank, CA|1|2
+23228894|burbank, ca|52301987|Error|1|2
+20255162|burbank, ca|0|Error|2|2
+20255162|burbank, ca|20255162|Burbank, CA|1|2
+20255162|burbank, ca|43417628|Miami, FL|1|2
+20255162|burbank, ca|28903355|California|1|2
+20255162|burbank, ca|0|Error|1|2
+20255162|burbank, ca|21778452|Marion, Iowa|1|2
+20255162|burbank, ca|190773853|Error|1|2
+20255162|burbank, ca|32317381|Error|1|2
+20255162|burbank, ca|20321616|Northampton, UK|1|2
+20255162|burbank, ca|15515919|Philadelphia|1|2
+20255162|burbank, ca|23111224|Error|1|2
+20255162|burbank, ca|14506253|Tauntuan belly|1|2
+20255162|burbank, ca|17492560|california|1|2
+7743632|burbank, california|25209206|Los Angeles|5|2
+7743632|burbank, california|45485208|Toluca Lake |5|2
+7743632|burbank, california|60225560|Los Angeles|1|2
+7743632|burbank, california|12616|Los Angeles, CA|1|2
+21379365|burbank, ca|29714238|Error|1|2
+21379365|burbank, ca|21760322|iPhone: 39.093014,-84.496582|1|2
+21379365|burbank, ca|25931732|South Florida|1|2
+21379365|burbank, ca|23539346|My couch|1|2
+45509315|burbank, ca|0|Error|3|2
+45509315|burbank, ca|75671811|West Hollywood, CA|1|2
+45509315|burbank, ca|199573171|Error|1|2
+45509315|burbank, ca|0|Error|1|2
+45509315|burbank, ca|0|Error|1|2
+28747820|burbank, ca|54739276|Error|2|2
+28747820|burbank, ca|19397278|Error|2|2
+18265382|burbank, california|14630319|Hollywood, California|2|2
+18265382|burbank, california|41760838|Menifee, CA|1|2
+18265382|burbank, california|125707876|Error|1|2
+18265382|burbank, california|1073254694|Killeen, Tx|1|2
+18265382|burbank, california|38504831|LA, CA|1|2
+18265382|burbank, california|2654721504|Error|1|2
+18265382|burbank, california|59814196|Los Angeles|1|2
+18265382|burbank, california|62668863|Burbank, CA|1|2
+18265382|burbank, california|15528666|Las Vegas|1|2
+44818076|burbank, california|0|Error|2|2
+44818076|burbank, california|19201923|los angeles and Miami|2|2
+44818076|burbank, california|23395456|Error|1|2
+44818076|burbank, california|27531485|Los Angeles, California |1|2
+44818076|burbank, california|18002296|Error|1|2
+44818076|burbank, california|41379801|Malibu CA|1|2
+44818076|burbank, california|25365536|where I'm meant to be...|1|2
+44818076|burbank, california|32493883|iPhone: 0.000000,0.000000|1|2
+44818076|burbank, california|33912889|Los Angeles|1|2
+44818076|burbank, california|34703105|Los Angeles|1|2
+44818076|burbank, california|16374678|Error|1|2
+44818076|burbank, california|40756537|Error|1|2
+44818076|burbank, california|71091067|everywhere|1|2
+44818076|burbank, california|62493830|A trk near you for almost 30yr|1|2
+44818076|burbank, california|705431041|Error|1|2
+44818076|burbank, california|1072766695|Error|1|2
+44818076|burbank, california|0|Error|1|2
+17292938|burbank, ca|0|Error|4|2
+17292938|burbank, ca|16139980| Los Angeles, CA |3|2
+17292938|burbank, ca|16338290|The Shire|2|2
+17292938|burbank, ca|18654735|iPhone: 39.855343,-86.010086|1|2
+17292938|burbank, ca|0|Error|1|2
+17292938|burbank, ca|25364005|Orange County, California|1|2
+17292938|burbank, ca|52930908|Orlando, FL, USA|1|2
+17292938|burbank, ca|15600652|Error|1|2
+17292938|burbank, ca|14543034|Los Angeles, CA|1|2
+17292938|burbank, ca|777956|Utah|1|2
+14246038|burbank, ca|18400081|New York|1|2
+14246038|burbank, ca|43149244|Louisville, KY|1|2
+14246038|burbank, ca|18052864|Southwest Colorado|1|2
+14246038|burbank, ca|0|Error|1|2
+14246038|burbank, ca|0|Error|1|2
+14246038|burbank, ca|1187514542|Los Angeles|1|2
+14246038|burbank, ca|56948569|Kansas|1|2
+14246038|burbank, ca|44730989|Pittsburgh, PA, USA|1|2
+14246038|burbank, ca|40909656|New Jersey|1|2
+62668863|burbank, ca|0|Error|2|2
+62668863|burbank, ca|18265382|L.A.|2|2
+62668863|burbank, ca|40981798|get our deluxe album here! -|1|2
+62668863|burbank, ca|29213518|Los Angeles
+|1|2
+62668863|burbank, ca|60708421|Los Angeles, CA|1|2
+62668863|burbank, ca|1073254694|Killeen, Tx|1|2
+62668863|burbank, ca|0|Error|1|2
+62668863|burbank, ca|0|Error|1|2
+62548903|burbank, california|16230091| California|2|2
+62548903|burbank, california|16395716|Southern California|2|2
+62548903|burbank, california|33097680|iPhone: 36.129570,-115.166397|1|2
+62548903|burbank, california|0|Error|1|2
+62548903|burbank, california|47869696|Los Angeles|1|2
+62548903|burbank, california|64140943|Error|1|2
+62548903|burbank, california|719095201|Brasil|1|2
+62548903|burbank, california|17797448|Boston, Massachusetts|1|2
+62548903|burbank, california|15949405|Error|1|2
+62548903|burbank, california|0|Error|1|2
+62548903|burbank, california|0|Error|1|2
+62548903|burbank, california|50755159|California|1|2
+62548903|burbank, california|30072773|Pasadena, CA|1|2
+62548903|burbank, california|19950458|NYC, LA, MIA, CHI, DC, HOU|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|0|Error|1|2
+15372377|burbank, ca|190811927|Watching The Game|1|2
+15372377|burbank, ca|66660484|The Rebel County!!!|1|2
+15372377|burbank, ca|17857839|Beaver Town, Beaver State|1|2
+15372377|burbank, ca|24717145|Same Girl, Big Changes|1|2
+15372377|burbank, ca|16002804|Salem, Oregon|1|2
+40489301|burbank, california|55942003|Los Angeles|7|2
+40489301|burbank, california|17679900|Dallas, Texas|3|2
+40489301|burbank, california|28146379|Error|2|2
+40489301|burbank, california|0|Error|2|2
+40489301|burbank, california|32556343|O'ahu|2|2
+40489301|burbank, california|16651670|Burbank|1|2
+40489301|burbank, california|2864032170|Los Angeles, CA|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|23689201|London|1|2
+40489301|burbank, california|0|Error|1|2
+40489301|burbank, california|2328548755|Error|1|2
+40489301|burbank, california|0|Error|1|2
+18567934|burbank, ca|0|Error|4|2
+18567934|burbank, ca|62954157|iPhone: 34.029228,-118.431114|2|2
+18623433|burbank, ca|14567542|San Francisco / Slovenia|5|2
+18623433|burbank, ca|16331259|Escondido, CA|3|2
+18623433|burbank, ca|15681098|Los Angeles, CA|2|2
+18623433|burbank, ca|15101087|Error|1|2
+18623433|burbank, ca|0|Error|1|2
+18623433|burbank, ca|48022088|Orange County, CA|1|2
+18623433|burbank, ca|0|Error|1|2
+18623433|burbank, ca|0|Error|1|2
+18623433|burbank, ca|37038206|Error|1|2
+18623433|burbank, ca|0|Error|1|2
+62677705|burbank, ca|18568728|Error|1|2
+62677705|burbank, ca|24246359|Los Angeles|1|2
+62677705|burbank, ca|14143193|San Francisco, CA|1|2
+62677705|burbank, ca|16497947|Where I am |1|2
+62677705|burbank, ca|16381279|Faubourg Marigny, Louisiana|1|2
+62677705|burbank, ca|18265382|L.A.|1|2
+17628068|burbank, ca|0|Error|3|2
+17628068|burbank, ca|0|Error|2|2
+17628068|burbank, ca|0|Error|2|2
+17628068|burbank, ca|18174176|iPhone: 34.015439,-118.485133|2|2
+17628068|burbank, ca|19634279|the OC|1|2
+17628068|burbank, ca|0|Error|1|2
+17628068|burbank, ca|0|Error|1|2
+17628068|burbank, ca|15251890|Orange County|1|2
+17628068|burbank, ca|0|Error|1|2
+17628068|burbank, ca|16108535|Minneapolis|1|2
+17628068|burbank, ca|21897534|Hicksville, Long Island, NY|1|2
+17628068|burbank, ca|34750337|Error|1|2
+17628068|burbank, ca|0|Error|1|2
+17628068|burbank, ca|41763356|Los Angeles,CA|1|2
+17628068|burbank, ca|0|Error|1|2
+17628068|burbank, ca|34854189|LA | SP|1|2
+17628068|burbank, ca|70615913|Error|1|2
+17628068|burbank, ca|8262232|Nashville, TN|1|2
+17628068|burbank, ca|147850756|Los Angeles, California|1|2
+17628068|burbank, ca|38293241|Los Angeles, Ca.|1|2
+17628068|burbank, ca|16131819|Irvine, CA|1|2
+17628068|burbank, ca|8495182|Honolulu, HI|1|2
+33402036|burbank, ca|0|Error|2|2
+33402036|burbank, ca|39209049|Error|2|2
+33402036|burbank, ca|0|Error|1|2
+33402036|burbank, ca|221669352|Philippines|1|2
+33402036|burbank, ca|15198600|VermontLondonVermontLondon|1|2
+33402036|burbank, ca|17187635|Nebraska|1|2
+33402036|burbank, ca|14444464|Columbus, OH  -- Go BUCKEYES!|1|2
+33402036|burbank, ca|2639394325|Puyallup WA|1|2
+12438752|burbank, ca|0|Error|3|2
+12438752|burbank, ca|51851714|Error|3|2
+12438752|burbank, ca|2162106552|neverwhere|2|2
+12438752|burbank, ca|16110000|A place with hills. |2|2
+12438752|burbank, ca|783817962|probably at taco bell|2|2
+12438752|burbank, ca|0|Error|2|2
+12438752|burbank, ca|763591|I travel around.|1|2
+12438752|burbank, ca|6445982|Glendale, CA|1|2
+12438752|burbank, ca|9416752|Error|1|2
+12438752|burbank, ca|3182546102|Error|1|2
+12438752|burbank, ca|18902125|Shreveport, LA|1|2
+11861012|burbank, ca|0|Error|2|2
+11861012|burbank, ca|55468304|Seattle|1|2
+11861012|burbank, ca|12349382|LA|1|2
+11861012|burbank, ca|0|Error|1|2
+11861012|burbank, ca|19210865|Los Angeles, CA|1|2
+5135941|burbank, ca|15893115|North Hollywood, CA|3|2
+5135941|burbank, ca|14654075|Los Angeles, Ca|1|2
+5135941|burbank, ca|15458071|Los Angeles, California|1|2
+5135941|burbank, ca|17819770|Seattle, WA|1|2
+5135941|burbank, ca|1453481|Canada |1|2
+5135941|burbank, ca|14261459|Santa Clara, CA|1|2
+5135941|burbank, ca|426869077|Error|1|2
+5135941|burbank, ca|393940310|See @StefanieFlaxman|1|2
+25251069|burbank, ca|17457769|Los Angeles, CA|2|2
+25251069|burbank, ca|7861312|Los Angeles, CA|1|2
+25251069|burbank, ca|1589953152|Error|1|2
+25251069|burbank, ca|558878631|Error|1|2
+25251069|burbank, ca|21177855|Error|1|2
+25251069|burbank, ca|18794361|Seattle, Washington|1|2
+25251069|burbank, ca|16728529|Nantes|1|2
+25251069|burbank, ca|9537942|Los Angeles, CA|1|2
+15715610|burbank, ca|35248015|Amsterdam|1|2
+15715610|burbank, ca|38214526|Error|1|2
+15715610|burbank, ca|21450479|Los Angeles|1|2
+15715610|burbank, ca|0|Error|1|2
+15715610|burbank, ca|0|Error|1|2
+15715610|burbank, ca|45137643|Sonoma County, CA|1|2
+15715610|burbank, ca|0|Error|1|2
+15715610|burbank, ca|22582683|Los Angeles|1|2
+15715610|burbank, ca|14688577|mt washington, ca|1|2

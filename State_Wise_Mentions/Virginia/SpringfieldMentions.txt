@@ -1,0 +1,31 @@
+21109444|springfield, va|16593362|US & Canada|33|2
+21109444|springfield, va|14053048|Washington, DC|2|2
+21109444|springfield, va|25582283|Washington, DC|1|2
+21109444|springfield, va|2050921|22,223 miles above the earth|1|2
+21109444|springfield, va|16498112|Washington, D.C.|1|2
+21109444|springfield, va|19143584|New York City|1|2
+15458987|springfield, va|0|Error|17|2
+15458987|springfield, va|1953157578|VU|1|2
+15458987|springfield, va|15458987|Philadelphia, PA|1|2
+45337501|springfield, va|24577203|iPhone: 43.6867,-79.4206|6|2
+45337501|springfield, va|0|Error|2|2
+45337501|springfield, va|0|Error|2|2
+45337501|springfield, va|45337501|Burke, VA, USA|1|2
+45337501|springfield, va|63678444|Error|1|2
+45337501|springfield, va|0|Error|1|2
+45337501|springfield, va|0|Error|1|2
+45337501|springfield, va|44791539|Error|1|2
+45337501|springfield, va|0|Error|1|2
+45337501|springfield, va|0|Error|1|2
+45337501|springfield, va|0|Error|1|2
+45337501|springfield, va|0|Error|1|2
+45337501|springfield, va|0|Error|1|2
+24626267|springfield, va|28706024|los angeles|1|2
+24626267|springfield, va|53557354|Fayetteville, NC|1|2
+24626267|springfield, va|0|Error|1|2
+24626267|springfield, va|26384168|Ontario, Canada|1|2
+24626267|springfield, va|19268706|Instagram @secupp|1|2
+24626267|springfield, va|3800347634|Error|1|2
+24626267|springfield, va|0|Error|1|2
+55649992|springfield, virginia|0|Error|14|2
+55649992|springfield, virginia|0|Error|1|2

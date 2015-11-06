@@ -1,0 +1,1807 @@
+16729208|boston, massachusetts|18124790|NYC|4|2
+16729208|boston, massachusetts|0|Error|2|2
+16729208|boston, massachusetts|1059801|Everywhere search is.|1|2
+16729208|boston, massachusetts|0|Error|1|2
+16729208|boston, massachusetts|816653|San Francisco, CA|1|2
+16729208|boston, massachusetts|102190971|Error|1|2
+16729208|boston, massachusetts|17407373|Rat's Nest|1|2
+16729208|boston, massachusetts|0|Error|1|2
+16729208|boston, massachusetts|14349941|boston, ma|1|2
+68288966|boston, massachusetts|68212637|Boston, MA|2|2
+68288966|boston, massachusetts|53777968|Colorado|2|2
+68288966|boston, massachusetts|17844215|Newry, ME|2|2
+68288966|boston, massachusetts|17953904|Jackson Hole, WY|2|2
+68288966|boston, massachusetts|27922543|Error|1|2
+68288966|boston, massachusetts|28179681|Error|1|2
+68288966|boston, massachusetts|0|Error|1|2
+787595|cambridge, massachusetts|10293122|Boston|2|2
+787595|cambridge, massachusetts|23278552|Error|2|2
+787595|cambridge, massachusetts|14114392|United States + Sweden + UK|2|2
+787595|cambridge, massachusetts|6674162|Boston & SF|1|2
+787595|cambridge, massachusetts|0|Error|1|2
+787595|cambridge, massachusetts|3315632437|Error|1|2
+787595|cambridge, massachusetts|14238213|Error|1|2
+787595|cambridge, massachusetts|1566201|Portsmouth | Boston|1|2
+787595|cambridge, massachusetts|18080585|Error|1|2
+787595|cambridge, massachusetts|0|Error|1|2
+787595|cambridge, massachusetts|10852412|NYC|1|2
+787595|cambridge, massachusetts|16640845|Boulder, CO|1|2
+787595|cambridge, massachusetts|3928731|Error|1|2
+787595|cambridge, massachusetts|14114222|Brookline and Boston, MA|1|2
+787595|cambridge, massachusetts|10257182|San Francisco|1|2
+787595|cambridge, massachusetts|4678|Boston, MA|1|2
+787595|cambridge, massachusetts|15317640|Austin, TX|1|2
+787595|cambridge, massachusetts|1038271|Austin, TX|1|2
+787595|cambridge, massachusetts|118203|San Francisco|1|2
+787595|cambridge, massachusetts|0|Error|1|2
+24644242|boston, massachusetts|14511951|Error|4|2
+24644242|boston, massachusetts|57917441|The Lizzantine Empire|2|2
+24644242|boston, massachusetts|21035409|#firstclass |2|2
+24644242|boston, massachusetts|0|Error|2|2
+24644242|boston, massachusetts|18634085|Chicago, Illinois|2|2
+24644242|boston, massachusetts|14513666|Error|2|2
+24644242|boston, massachusetts|14813320|Error|2|2
+24644242|boston, massachusetts|14187323|London|2|2
+56888035|boston, massachusetts|0|Error|4|2
+56888035|boston, massachusetts|28176825|Error|2|2
+56888035|boston, massachusetts|49870918|Connecticut|1|2
+56888035|boston, massachusetts|66420026|Las Vegas|1|2
+56888035|boston, massachusetts|41429368|Costa Mesa, CA|1|2
+56888035|boston, massachusetts|62579252|An AUDL city near you|1|2
+56888035|boston, massachusetts|28442402|California|1|2
+56888035|boston, massachusetts|12733012|Boston, MA|1|2
+56888035|boston, massachusetts|27126583|Latham, NY|1|2
+56888035|boston, massachusetts|27126299|Latham, NY|1|2
+56888035|boston, massachusetts|17897164|Error|1|2
+56888035|boston, massachusetts|20620447|Lowell, MA|1|2
+56888035|boston, massachusetts|300637538|Washington,DC|1|2
+56888035|boston, massachusetts|19767735|Error|1|2
+56888035|boston, massachusetts|20012454|Frequent Flyer/ Los Angeles|1|2
+56888035|boston, massachusetts|36159517|Cinci|1|2
+56888035|boston, massachusetts|0|Error|1|2
+56888035|boston, massachusetts|58562140|Chicago|1|2
+56888035|boston, massachusetts|0|Error|1|2
+56888035|boston, massachusetts|46380792|Error|1|2
+56888035|boston, massachusetts|44597642|Howell, NJ|1|2
+15736517|salem, massachusetts|75067031|North America|4|2
+15736517|salem, massachusetts|102101014|Error|2|2
+15736517|salem, massachusetts|38337912|Chicago IL.|2|2
+15736517|salem, massachusetts|38053161|New York City|2|2
+15736517|salem, massachusetts|32946546|Slovakia|1|2
+15736517|salem, massachusetts|18398964|Marblehead, MA|1|2
+15736517|salem, massachusetts|14140420|Austin, TX|1|2
+15736517|salem, massachusetts|21343816|Current location|1|2
+31196465|boston, massachusetts|170912773|Error|2|2
+31196465|boston, massachusetts|386299123|Error|1|2
+31196465|boston, massachusetts|20351695|Katonah, NY|1|2
+31196465|boston, massachusetts|20489393|Milford, CT|1|2
+31196465|boston, massachusetts|21679147|south Georgia|1|2
+31196465|boston, massachusetts|27015701|Ontario, Canada|1|2
+31196465|boston, massachusetts|8539242|White Plains, NY|1|2
+31196465|boston, massachusetts|6433472|Canada|1|2
+31196465|boston, massachusetts|26697711|Error|1|2
+31196465|boston, massachusetts|180494056|Boston, MA|1|2
+31196465|boston, massachusetts|27993589|TTC to Baby & Beyond!|1|2
+31196465|boston, massachusetts|281860884|Error|1|2
+31196465|boston, massachusetts|384888740|Free* shipping in Canada|1|2
+31196465|boston, massachusetts|5421522|San Francisco Bay Area|1|2
+18229413|boston, massachusetts|17074378|Oregon|5|2
+18229413|boston, massachusetts|17908196|Quincy, MA|4|2
+18229413|boston, massachusetts|14666783|Palo Alto, CA|4|2
+18229413|boston, massachusetts|20929521|Oklahoma City, OK|3|2
+18229413|boston, massachusetts|29082715|Roxbury, NJ|3|2
+18229413|boston, massachusetts|41672221|Boston, MA|3|2
+18229413|boston, massachusetts|38494339|Chicago, IL|2|2
+18229413|boston, massachusetts|18609893|Boston|2|2
+18229413|boston, massachusetts|0|Error|2|2
+18229413|boston, massachusetts|0|Error|2|2
+18229413|boston, massachusetts|0|Error|2|2
+18229413|boston, massachusetts|36119920|San Diego, CA|2|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|16814180|Rockport, Mass.|1|2
+18229413|boston, massachusetts|273553190|Error|1|2
+18229413|boston, massachusetts|14868491|Toronto|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|14262515|Boston|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|53034624|Boston, Massachusetts|1|2
+18229413|boston, massachusetts|15482557|Error|1|2
+18229413|boston, massachusetts|29544159|State College, PA|1|2
+18229413|boston, massachusetts|19148249|Boston|1|2
+18229413|boston, massachusetts|10846412|Raleigh|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|16831933|Boston, MA|1|2
+18229413|boston, massachusetts|17028085|Newton, MA|1|2
+18229413|boston, massachusetts|18611233|Chicago, IL|1|2
+18229413|boston, massachusetts|786223|Dallas, Texas|1|2
+18229413|boston, massachusetts|18226951|Minneapolis, Minnesota|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|14950106|Error|1|2
+18229413|boston, massachusetts|17055574|Portland, Oregon|1|2
+18229413|boston, massachusetts|14326946|Florida|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18808413|somerville, massachusetts|15694182|Union Square, Somerville, MA|10|2
+18808413|somerville, massachusetts|16953422|Boston, Massachusetts|2|2
+18808413|somerville, massachusetts|888751|Boston, Massachusetts, USA|1|2
+18808413|somerville, massachusetts|20947956|san francisco (twin peaks)|1|2
+15870918|boston, massachusetts|2924434984|Illinois|4|2
+15870918|boston, massachusetts|14262798|In the clouds|3|2
+15870918|boston, massachusetts|1282330586|Error|2|2
+15870918|boston, massachusetts|6351572|Venice, California|2|2
+15870918|boston, massachusetts|129353218|USA |2|2
+15870918|boston, massachusetts|16505069|Arnold, Missouri|1|2
+15870918|boston, massachusetts|15216679|New Jersey|1|2
+15870918|boston, massachusetts|15692106|Error|1|2
+15870918|boston, massachusetts|216693179|989 | SVSU|1|2
+15870918|boston, massachusetts|18301939|Error|1|2
+15870918|boston, massachusetts|1379131206|Error|1|2
+15870918|boston, massachusetts|14277953|Terak Nor|1|2
+15870918|boston, massachusetts|573960551|Error|1|2
+15870918|boston, massachusetts|33165025|Error|1|2
+15870918|boston, massachusetts|16075408|California|1|2
+15870918|boston, massachusetts|0|Error|1|2
+15870918|boston, massachusetts|3359851|San Francisco & Los Angeles|1|2
+15870918|boston, massachusetts|16385639|Canada|1|2
+15870918|boston, massachusetts|17929499|Earth|1|2
+15870918|boston, massachusetts|18035664|Error|1|2
+15870918|boston, massachusetts|0|Error|1|2
+15870918|boston, massachusetts|15657636|Sacramento, CA, USA|1|2
+15870918|boston, massachusetts|15607419|Error|1|2
+15870918|boston, massachusetts|16489901|USA|1|2
+15870918|boston, massachusetts|15782073|NY, NY|1|2
+15870918|boston, massachusetts|26507079|Canada|1|2
+15870918|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|17472138|San Francisco, CA|9|2
+65529515|boston, massachusetts|0|Error|7|2
+65529515|boston, massachusetts|15769968|Error|5|2
+65529515|boston, massachusetts|78694047|Tewksbury, MA|3|2
+65529515|boston, massachusetts|2352508816|Error|3|2
+65529515|boston, massachusetts|30743420|South Boston, MA|2|2
+65529515|boston, massachusetts|0|Error|2|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|72418261|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|28204375|NBC|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|22563725|The best seat in the house|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|65208843|NOVA/Boston|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|31151575|Boston, MA|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+65529515|boston, massachusetts|0|Error|1|2
+54546446|watertown, massachusetts|0|Error|3|2
+54546446|watertown, massachusetts|61794220|Error|2|2
+54546446|watertown, massachusetts|20289970|Error|1|2
+54546446|watertown, massachusetts|300637538|Washington,DC|1|2
+29866163|danvers, massachusetts|0|Error|13|2
+29866163|danvers, massachusetts|0|Error|7|2
+29866163|danvers, massachusetts|2515595644|Muscat, Oman|6|2
+29866163|danvers, massachusetts|84684884|London, England|3|2
+29866163|danvers, massachusetts|19182136|Amherst, NY|3|2
+29866163|danvers, massachusetts|225422585|Canada |3|2
+29866163|danvers, massachusetts|0|Error|1|2
+29866163|danvers, massachusetts|10810102|London|1|2
+29866163|danvers, massachusetts|41073372|Los Angeles|1|2
+29866163|danvers, massachusetts|60280788|Canada / US / Everywhere|1|2
+29866163|danvers, massachusetts|0|Error|1|2
+29866163|danvers, massachusetts|34192959|I am here |1|2
+17326776|boston, massachusetts|14638514|Baltimore, Maryland|3|2
+17326776|boston, massachusetts|191515174|Error|2|2
+17326776|boston, massachusetts|20644492|Pacific Palisades, CA|2|2
+17326776|boston, massachusetts|22113|Santa Monica, CA|2|2
+17326776|boston, massachusetts|0|Error|2|2
+17326776|boston, massachusetts|19398946|Boston|2|2
+17326776|boston, massachusetts|14128528|Toronto, Miami, Airplanes|2|2
+17326776|boston, massachusetts|0|Error|1|2
+17326776|boston, massachusetts|0|Error|1|2
+17326776|boston, massachusetts|22797955|Seattle, WA|1|2
+17326776|boston, massachusetts|0|Error|1|2
+17326776|boston, massachusetts|2206131|New Zealand|1|2
+17326776|boston, massachusetts|0|Error|1|2
+17326776|boston, massachusetts|2565|Berkeley, CA|1|2
+17326776|boston, massachusetts|9670742|LDN stand up tall|1|2
+17326776|boston, massachusetts|0|Error|1|2
+17326776|boston, massachusetts|565806361|Error|1|2
+17326776|boston, massachusetts|19122975|Carmel, IN|1|2
+17326776|boston, massachusetts|2903111|St. Louis, MO|1|2
+17326776|boston, massachusetts|83521180|Littleton CO USA|1|2
+17326776|boston, massachusetts|84655254|Santa Fe, NM|1|2
+17326776|boston, massachusetts|17264029|Living in hope and faith|1|2
+17326776|boston, massachusetts|2384071|Oakland, CA|1|2
+17326776|boston, massachusetts|4406|Cambridge, MA|1|2
+17326776|boston, massachusetts|17844006|NYC|1|2
+17326776|boston, massachusetts|0|Error|1|2
+17326776|boston, massachusetts|16881650|New Orleans|1|2
+17326776|boston, massachusetts|0|Error|1|2
+17326776|boston, massachusetts|169892557|Error|1|2
+17326776|boston, massachusetts|73425459|Cambridge, MA|1|2
+21107225|newton, massachusetts|3368975819|Radnor, PA (HQ)|1|2
+21107225|newton, massachusetts|27279462|Los Angeles|1|2
+21107225|newton, massachusetts|15384781|Virginia, USA|1|2
+21107225|newton, massachusetts|16201510|Ontario, Canada|1|2
+1048501|cambridge, massachusetts|30867037|Boston, MA|4|2
+1048501|cambridge, massachusetts|22866518|Boston, MA|3|2
+1048501|cambridge, massachusetts|3947021121|Error|2|2
+1048501|cambridge, massachusetts|4385191|San Francisco, CA|2|2
+1048501|cambridge, massachusetts|19242450|Bay Area, CA|2|2
+1048501|cambridge, massachusetts|931799022|Follow us @CapitalOne360|2|2
+1048501|cambridge, massachusetts|15561397|Error|1|2
+1048501|cambridge, massachusetts|5380672|Chicago, IL|1|2
+1048501|cambridge, massachusetts|773124|Chicago, Illinois|1|2
+1048501|cambridge, massachusetts|756040|Behind the beard|1|2
+1048501|cambridge, massachusetts|0|Error|1|2
+1048501|cambridge, massachusetts|12144922|Error|1|2
+1048501|cambridge, massachusetts|23541016|175 Newbury Street, Boston, MA|1|2
+1048501|cambridge, massachusetts|24950316|Error|1|2
+1048501|cambridge, massachusetts|14098936|iPhone: 38.256874,-122.332397|1|2
+1048501|cambridge, massachusetts|615803|Chicago, IL|1|2
+1048501|cambridge, massachusetts|13796572|Mountain View, California|1|2
+33978384|boston, massachusetts|2307776510|Error|8|2
+33978384|boston, massachusetts|15195273|Hoboken, NJ|2|2
+33978384|boston, massachusetts|27642995|Boston, MA|2|2
+33978384|boston, massachusetts|7057922|SiliconValley & the wilderness|1|2
+33978384|boston, massachusetts|21321536|Mississauga |1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|1316872820|Error|1|2
+33978384|boston, massachusetts|17202870|Boston|1|2
+33978384|boston, massachusetts|65374234|London|1|2
+33978384|boston, massachusetts|68924812|Worldwide|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|9734372|Boston, MA|1|2
+33978384|boston, massachusetts|14076320|Orange County, California|1|2
+33978384|boston, massachusetts|844739886|Error|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|36715809|London, UK|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|14389132|Seaview WA|1|2
+33978384|boston, massachusetts|14315150|Nashville, TN|1|2
+33978384|boston, massachusetts|16413061|Boston|1|2
+33978384|boston, massachusetts|21425912|USA|1|2
+33978384|boston, massachusetts|12085222|Error|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|68580642|usa|1|2
+33978384|boston, massachusetts|95485569|Error|1|2
+33978384|boston, massachusetts|9853212|Boston|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|1395945708|Error|1|2
+33978384|boston, massachusetts|46932983|Dallas, TX|1|2
+33978384|boston, massachusetts|16006568|The Frozen Tundra|1|2
+33978384|boston, massachusetts|906504518|Error|1|2
+33978384|boston, massachusetts|0|Error|1|2
+33978384|boston, massachusetts|130154402|Bostonish|1|2
+33978384|boston, massachusetts|40971819|worldwide|1|2
+33978384|boston, massachusetts|65954522|Savannah, Ga|1|2
+33978384|boston, massachusetts|68084737|Everywhere all of the time.|1|2
+33978384|boston, massachusetts|15149894|Hopkinton MA|1|2
+33978384|boston, massachusetts|14376020|Portland, Oregon|1|2
+33978384|boston, massachusetts|14228300|Kansas City|1|2
+16520296|boston, massachusetts|16381279|Faubourg Marigny, Louisiana|6|2
+16520296|boston, massachusetts|0|Error|5|2
+16520296|boston, massachusetts|3054531838|Error|3|2
+16520296|boston, massachusetts|408145677|Error|1|2
+16520296|boston, massachusetts|16497947|Where I am |1|2
+29522613|boston, massachusetts|28239047|Albany NY|2|2
+29522613|boston, massachusetts|27829627|San Antonio, TX|1|2
+29522613|boston, massachusetts|40023936|Albany NY|1|2
+17825763|boston, massachusetts|14056893|Chicago, IL|1|2
+17825763|boston, massachusetts|46337767|Ocean|1|2
+17825763|boston, massachusetts|817977|Kansas City, MO|1|2
+17825763|boston, massachusetts|16558767|Boston|1|2
+17825763|boston, massachusetts|47029422|USA|1|2
+17825763|boston, massachusetts|0|Error|1|2
+17825763|boston, massachusetts|0|Error|1|2
+17825763|boston, massachusetts|972651|Error|1|2
+17825763|boston, massachusetts|39736969|Massachusetts|1|2
+17825763|boston, massachusetts|6108862|Northern Colorado|1|2
+17825763|boston, massachusetts|14413264|Franklin, MA|1|2
+17825763|boston, massachusetts|16929130|Concord, MA|1|2
+17825763|boston, massachusetts|1004061|Paris, France.|1|2
+17825763|boston, massachusetts|105538590|Error|1|2
+17825763|boston, massachusetts|0|Error|1|2
+6296992|springfield, massachusetts|30642052|Error|2|2
+6296992|springfield, massachusetts|14154581|Audubon PA|1|2
+6296992|springfield, massachusetts|13805642|Frisco TX|1|2
+6296992|springfield, massachusetts|18093649|Northampton, MA|1|2
+6296992|springfield, massachusetts|964641|Reading, PA USA|1|2
+6296992|springfield, massachusetts|0|Error|1|2
+6296992|springfield, massachusetts|0|Error|1|2
+6296992|springfield, massachusetts|13407|Ferndale, Washington|1|2
+6296992|springfield, massachusetts|0|Error|1|2
+6296992|springfield, massachusetts|6017542|Global|1|2
+6296992|springfield, massachusetts|19781200|Reston, VA|1|2
+6296992|springfield, massachusetts|9725482|Error|1|2
+6296992|springfield, massachusetts|28377117|Laguna Beach, CA|1|2
+6296992|springfield, massachusetts|14915641|Cape Town - South Africa|1|2
+6296992|springfield, massachusetts|14995035|Western MA|1|2
+6296992|springfield, massachusetts|18167618|Newark, NJ|1|2
+6296992|springfield, massachusetts|1286041|Is Boston, was Pittsburgh|1|2
+6296992|springfield, massachusetts|12415492|location: it varies|1|2
+6296992|springfield, massachusetts|5663052|Dallas, Texas USA|1|2
+6296992|springfield, massachusetts|597428432|Error|1|2
+16682424|easthampton, massachusetts|17187503|sorry, your princess isnt here|4|2
+16682424|easthampton, massachusetts|544504339|Johannesburg|2|2
+16682424|easthampton, massachusetts|19251912|Easthampton, MA|2|2
+16682424|easthampton, massachusetts|17582006|Williamsburg, MA|1|2
+16682424|easthampton, massachusetts|18461508|NorCal|1|2
+16682424|easthampton, massachusetts|22616720|Cummington, Western MA|1|2
+16682424|easthampton, massachusetts|14600753|Western MA / Westfield, MA|1|2
+16682424|easthampton, massachusetts|16427218|Western MA & Rochester, NY|1|2
+16682424|easthampton, massachusetts|0|Error|1|2
+16682424|easthampton, massachusetts|14408989|Springfield, MA|1|2
+16682424|easthampton, massachusetts|1593852499|Error|1|2
+16682424|easthampton, massachusetts|346786674|Error|1|2
+16682424|easthampton, massachusetts|14807886|Lynnwood WA|1|2
+16682424|easthampton, massachusetts|15422277|Bedford, New York|1|2
+16682424|easthampton, massachusetts|0|Error|1|2
+16682424|easthampton, massachusetts|15464159|Phoenix Arizona Gift Baskets|1|2
+16682424|easthampton, massachusetts|14995035|Western MA|1|2
+16682424|easthampton, massachusetts|21883404|Minneapolis, Minnesota|1|2
+16682424|easthampton, massachusetts|18311122|Dallas, Texas|1|2
+16682424|easthampton, massachusetts|0|Error|1|2
+16682424|easthampton, massachusetts|5448002|Northampton, MA|1|2
+40672298|new bedford, massachusetts|3288687807|Error|22|2
+40672298|new bedford, massachusetts|0|Error|7|2
+40672298|new bedford, massachusetts|25512395|Swamp, usually|6|2
+40672298|new bedford, massachusetts|287667461|Error|3|2
+40672298|new bedford, massachusetts|51274038|Bay Area, California|1|2
+40672298|new bedford, massachusetts|0|Error|1|2
+17997888|marblehead, massachusetts|14599117|Minneapolis, MN|3|2
+17997888|marblehead, massachusetts|15792511|Online|2|2
+17997888|marblehead, massachusetts|10305322|Austin, TX|2|2
+17997888|marblehead, massachusetts|0|Error|2|2
+17997888|marblehead, massachusetts|0|Error|2|2
+17997888|marblehead, massachusetts|19897004|Baltimore, MD|2|2
+17997888|marblehead, massachusetts|18057077|Brentwood, TN|1|2
+17997888|marblehead, massachusetts|0|Error|1|2
+17997888|marblehead, massachusetts|5658202|Atlanta, GA|1|2
+17997888|marblehead, massachusetts|29522683|Portland, Oregon|1|2
+17997888|marblehead, massachusetts|6852682|Chicago|1|2
+17997888|marblehead, massachusetts|17975430|Atlanta, GA|1|2
+17997888|marblehead, massachusetts|18356450|Miami, Fl|1|2
+17997888|marblehead, massachusetts|0|Error|1|2
+17997888|marblehead, massachusetts|33924827|St. Louis|1|2
+17997888|marblehead, massachusetts|15639821|Birmingham, AL|1|2
+17997888|marblehead, massachusetts|19859768|Coconut Creek, Florida|1|2
+17997888|marblehead, massachusetts|10274302|Ellicott City, Maryland|1|2
+17997888|marblehead, massachusetts|17315376|Iowa|1|2
+17997888|marblehead, massachusetts|0|Error|1|2
+17997888|marblehead, massachusetts|16030414|Elgin, Illinois|1|2
+17997888|marblehead, massachusetts|27978860|Birmingham, MI and Cary, NC|1|2
+17997888|marblehead, massachusetts|29065668|Philadelphia|1|2
+17997888|marblehead, massachusetts|83883736|Error|1|2
+17997888|marblehead, massachusetts|15907720|DC & NYC|1|2
+17997888|marblehead, massachusetts|12480582|New York and beyond...|1|2
+17997888|marblehead, massachusetts|12621692|Error|1|2
+17997888|marblehead, massachusetts|40369615|Portage, Michigan|1|2
+17997888|marblehead, massachusetts|0|Error|1|2
+17997888|marblehead, massachusetts|14260458|Derby, United Kingdom|1|2
+17997888|marblehead, massachusetts|18220635|Dallas, Texas|1|2
+17997888|marblehead, massachusetts|0|Error|1|2
+17997888|marblehead, massachusetts|15746084|Bangalore, India|1|2
+77033566|medford, massachusetts|23105731|Salem, New Hampshire|4|2
+77033566|medford, massachusetts|14625703|Boston, MA|3|2
+77033566|medford, massachusetts|18699060|Boston, MA|3|2
+77033566|medford, massachusetts|402824431|Error|2|2
+77033566|medford, massachusetts|29612403|Andover, MA|2|2
+77033566|medford, massachusetts|17846734|Boston, MA|2|2
+77033566|medford, massachusetts|1391049187|Error|1|2
+77033566|medford, massachusetts|21278412|Where the Cash At|1|2
+77033566|medford, massachusetts|0|Error|1|2
+77033566|medford, massachusetts|2919614985|Error|1|2
+77033566|medford, massachusetts|18220175|EVERYWHERE!!!|1|2
+77033566|medford, massachusetts|0|Error|1|2
+77033566|medford, massachusetts|6123762|New York, NY|1|2
+77033566|medford, massachusetts|79293791|ANTI|1|2
+77033566|medford, massachusetts|0|Error|1|2
+77033566|medford, massachusetts|138961219|Vzla territorio de cristo!   |1|2
+77033566|medford, massachusetts|476158046|Error|1|2
+77033566|medford, massachusetts|20262333|Error|1|2
+77033566|medford, massachusetts|20710809|Error|1|2
+77033566|medford, massachusetts|0|Error|1|2
+77033566|medford, massachusetts|0|Error|1|2
+77033566|medford, massachusetts|39682324|NYC, MIA, Chicago, LA, Houston|1|2
+77033566|medford, massachusetts|184102394|Error|1|2
+77033566|medford, massachusetts|272933383|Error|1|2
+77033566|medford, massachusetts|18744959|Error|1|2
+77033566|medford, massachusetts|3035530577|Error|1|2
+19538037|boston, massachusetts|22780353|Boston, Massachusetts|10|2
+19538037|boston, massachusetts|17896640|Austria|4|2
+19538037|boston, massachusetts|443238128|Error|2|2
+19538037|boston, massachusetts|14287191|Chicago, IL|2|2
+19538037|boston, massachusetts|14076231|The World|1|2
+19538037|boston, massachusetts|19707363|Planet Earth|1|2
+19538037|boston, massachusetts|7350962|Miami, Fl. USA|1|2
+19538037|boston, massachusetts|20086450|At sea or in ports worldwide|1|2
+19538037|boston, massachusetts|17375661|Portland, Oregon|1|2
+19538037|boston, massachusetts|17138756|Error|1|2
+19538037|boston, massachusetts|13900252|global RTW digital nomads|1|2
+19538037|boston, massachusetts|23096405|Error|1|2
+19538037|boston, massachusetts|2415675654|Error|1|2
+19538037|boston, massachusetts|20265782|Oregon |1|2
+19538037|boston, massachusetts|19398978|Error|1|2
+19538037|boston, massachusetts|17219108|New York, NY|1|2
+29019195|westfield, massachusetts|14647853|Stamford,Connecticut|2|2
+29019195|westfield, massachusetts|39215237|Error|1|2
+29019195|westfield, massachusetts|5440492|La Jolla, California|1|2
+29019195|westfield, massachusetts|14386736|Washington D.C.|1|2
+29019195|westfield, massachusetts|14689768|Orange County|1|2
+29019195|westfield, massachusetts|14131123|San Diego, CA|1|2
+29019195|westfield, massachusetts|0|Error|1|2
+66722962|boston, massachusetts|59593432|Brazil|2|2
+66722962|boston, massachusetts|19566658|Hollywood, FL|1|2
+66722962|boston, massachusetts|0|Error|1|2
+66722962|boston, massachusetts|19162467|Ann Arbor, MI|1|2
+66722962|boston, massachusetts|39435242|CA|1|2
+66722962|boston, massachusetts|15839517|Fort Lee, NJ USA|1|2
+78434490|cambridge, massachusetts|868232262|Error|1|2
+78434490|cambridge, massachusetts|7777302|Columbus, IN|1|2
+78434490|cambridge, massachusetts|22506783|Boston, MA|1|2
+78434490|cambridge, massachusetts|0|Error|1|2
+78434490|cambridge, massachusetts|0|Error|1|2
+78434490|cambridge, massachusetts|33208772|San Francisco, CA, USA|1|2
+78434490|cambridge, massachusetts|16505786|New York, NY|1|2
+78434490|cambridge, massachusetts|21718070|Cambridge, Massachusetts|1|2
+78434490|cambridge, massachusetts|57687666|Global|1|2
+22881643|boston, massachusetts|217953830|north lttle rock|3|2
+22881643|boston, massachusetts|18873480|Boston, MA|3|2
+22881643|boston, massachusetts|16050554|Houston, Texas|2|2
+22881643|boston, massachusetts|754576|Los Angeles, CA|2|2
+22881643|boston, massachusetts|48547871|boston|1|2
+22881643|boston, massachusetts|22461427|Los Angeles|1|2
+22881643|boston, massachusetts|19329393|New York City, New York|1|2
+22881643|boston, massachusetts|0|Error|1|2
+22881643|boston, massachusetts|80602426|Arlington, MA|1|2
+22881643|boston, massachusetts|0|Error|1|2
+22881643|boston, massachusetts|36156704|Boston, MA|1|2
+22881643|boston, massachusetts|14813320|Error|1|2
+22881643|boston, massachusetts|17826235|Queens|1|2
+22881643|boston, massachusetts|293155760|Error|1|2
+22881643|boston, massachusetts|16531097|California, USA|1|2
+22881643|boston, massachusetts|0|Error|1|2
+22881643|boston, massachusetts|0|Error|1|2
+22881643|boston, massachusetts|15754281|USA TODAY HQ, McLean, Va.|1|2
+22881643|boston, massachusetts|0|Error|1|2
+22881643|boston, massachusetts|0|Error|1|2
+19850283|boston, massachusetts|267515367|USA |1|2
+19850283|boston, massachusetts|17258492|Saint Charles MO|1|2
+19850283|boston, massachusetts|0|Error|1|2
+19850283|boston, massachusetts|26627719|With the dragons|1|2
+19850283|boston, massachusetts|148538671|Edmonton, AB|1|2
+19850283|boston, massachusetts|0|Error|1|2
+15394484|wellesley, massachusetts|20678329|Waltham, MA (USA)|5|2
+15394484|wellesley, massachusetts|14626496|Boston, MA|3|2
+15394484|wellesley, massachusetts|40381496|California|3|2
+15394484|wellesley, massachusetts|18988212|Error|2|2
+15394484|wellesley, massachusetts|0|Error|1|2
+15394484|wellesley, massachusetts|0|Error|1|2
+15394484|wellesley, massachusetts|0|Error|1|2
+15394484|wellesley, massachusetts|14577701|Boston|1|2
+15394484|wellesley, massachusetts|18049999|iPhone, Right Behind You|1|2
+15394484|wellesley, massachusetts|0|Error|1|2
+15394484|wellesley, massachusetts|0|Error|1|2
+15394484|wellesley, massachusetts|0|Error|1|2
+15394484|wellesley, massachusetts|0|Error|1|2
+15394484|wellesley, massachusetts|0|Error|1|2
+15394484|wellesley, massachusetts|0|Error|1|2
+15394484|wellesley, massachusetts|2239228183|Error|1|2
+15394484|wellesley, massachusetts|13|San Francisco, CA|1|2
+15394484|wellesley, massachusetts|12|California, USA|1|2
+15394484|wellesley, massachusetts|774675|Boston|1|2
+15394484|wellesley, massachusetts|0|Error|1|2
+15394484|wellesley, massachusetts|809760|Nebraska and NYC|1|2
+15394484|wellesley, massachusetts|17873614|stuck at home|1|2
+18776078|boston, massachusetts|20090928|Error|1|2
+20645586|beverly, massachusetts|0|Error|10|2
+20645586|beverly, massachusetts|13817822|bodybyzna.com/fastfatblast|6|2
+20645586|beverly, massachusetts|519597276|Error|4|2
+20645586|beverly, massachusetts|301388229|Error|4|2
+20645586|beverly, massachusetts|0|Error|4|2
+20645586|beverly, massachusetts|19864909|Ottawa - Canada|3|2
+20645586|beverly, massachusetts|31251832|San Diego, CA|3|2
+20645586|beverly, massachusetts|20947393|The Bay Area   ~ San Francisco|3|2
+20645586|beverly, massachusetts|22805201|Philadelphia, PA|3|2
+20645586|beverly, massachusetts|22041124|Error|3|2
+20645586|beverly, massachusetts|19086371|Error|3|2
+20645586|beverly, massachusetts|0|Error|3|2
+20645586|beverly, massachusetts|0|Error|3|2
+20645586|beverly, massachusetts|14216754|Pittsburgh, PA|3|2
+20645586|beverly, massachusetts|53435917|New Hampshire|2|2
+20645586|beverly, massachusetts|478010490|Error|2|2
+20645586|beverly, massachusetts|15230191|Palmyra|2|2
+20645586|beverly, massachusetts|23357740|Sydney|2|2
+20645586|beverly, massachusetts|30928974|Mexico, usually|2|2
+20645586|beverly, massachusetts|2816362646|Error|2|2
+20645586|beverly, massachusetts|30254807|Error|2|2
+20645586|beverly, massachusetts|22322280|Error|2|2
+20645586|beverly, massachusetts|14749508|Republic of India|2|2
+20645586|beverly, massachusetts|24551720|Lake Tahoe, NV|2|2
+20645586|beverly, massachusetts|24080989|Bradford, PA|2|2
+20645586|beverly, massachusetts|17094167|Pennsylvania |2|2
+20645586|beverly, massachusetts|16599983|Cambridge, Massachusetts, USA|2|2
+20645586|beverly, massachusetts|17838522|Greater Los Angeles Area|2|2
+20645586|beverly, massachusetts|29806892|Texas|2|2
+20645586|beverly, massachusetts|15228091|Killeen, Texas|2|2
+20645586|beverly, massachusetts|15211247|Error|2|2
+20645586|beverly, massachusetts|23266160|Arizona|2|2
+20645586|beverly, massachusetts|188573761|Error|2|2
+20645586|beverly, massachusetts|0|Error|2|2
+20645586|beverly, massachusetts|44916775|Northcentral Wisconsin|2|2
+20645586|beverly, massachusetts|296628480|Error|2|2
+20645586|beverly, massachusetts|26884389|The Lovers State VA|2|2
+20645586|beverly, massachusetts|0|Error|2|2
+20645586|beverly, massachusetts|28781820|Eastern USA/Caribbean Area|2|2
+20645586|beverly, massachusetts|65587134|Twitterverse|2|2
+20645586|beverly, massachusetts|21820489|Boise, ID|2|2
+20645586|beverly, massachusetts|8179822|Phoenix, AZ|2|2
+20645586|beverly, massachusetts|281590787|Above principalities, Notts|2|2
+20645586|beverly, massachusetts|20645586|Beverly, Massachusetts|2|2
+20645586|beverly, massachusetts|17484604|Peterborough, NH USA|2|2
+20645586|beverly, massachusetts|43540015| Northeastern Ohio USA|1|2
+20645586|beverly, massachusetts|113564219|International|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|1137524228|Error|1|2
+20645586|beverly, massachusetts|923557225|Error|1|2
+20645586|beverly, massachusetts|18806928|Huntsville by way of PC|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|18619708|Maryland|1|2
+20645586|beverly, massachusetts|69457698|26.15107206,-80.18162895|1|2
+20645586|beverly, massachusetts|19832980|Michigan|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|64647238|Mumbai|1|2
+20645586|beverly, massachusetts|20289079|Error|1|2
+20645586|beverly, massachusetts|25831318|Sacramento, CA.|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|400694802|Error|1|2
+20645586|beverly, massachusetts|14086158|21A|1|2
+20645586|beverly, massachusetts|52136875|Daphne, Alabama|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|16426698|Parker, CO USA|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|22533298|South Florida|1|2
+20645586|beverly, massachusetts|27943433|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|14893297|United States|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|1020160231|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|30871852|India|1|2
+20645586|beverly, massachusetts|20197455|Cotswolds, UK|1|2
+20645586|beverly, massachusetts|21027857|Great State of Mind - MD - USA|1|2
+20645586|beverly, massachusetts|37519217|Cleveland, Ohio|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|22025790|international|1|2
+20645586|beverly, massachusetts|2160605215|Error|1|2
+20645586|beverly, massachusetts|23368921|Union City,CA/White Plains,MD|1|2
+20645586|beverly, massachusetts|2432277589|New York City|1|2
+20645586|beverly, massachusetts|81306296|Error|1|2
+20645586|beverly, massachusetts|19624059|USA|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|29526959|Upstate of SC|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|69873222|Oregon|1|2
+20645586|beverly, massachusetts|33621470|Error|1|2
+20645586|beverly, massachusetts|25569400|USA|1|2
+20645586|beverly, massachusetts|54288505|Asbury Park, New Jersey|1|2
+20645586|beverly, massachusetts|18833982|NYC Area|1|2
+20645586|beverly, massachusetts|32729111|Concord, CA|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|26045142|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|21080122|Saratoga Springs, NY|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|44208598|USA|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|17901072|Global|1|2
+20645586|beverly, massachusetts|948051228|Error|1|2
+20645586|beverly, massachusetts|36403626|Atlanta, GA|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|16481011|Natick, Boston, MA and beyond|1|2
+20645586|beverly, massachusetts|40772764|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|14180272|Orlando,Florida|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|9617422|San Diego and La Mesa, CA|1|2
+20645586|beverly, massachusetts|14805088|Myrtle Beach, SC|1|2
+20645586|beverly, massachusetts|192491855|Washington, DC|1|2
+20645586|beverly, massachusetts|2315844073|Error|1|2
+20645586|beverly, massachusetts|25688058|Sweden|1|2
+20645586|beverly, massachusetts|50213066|Fate, Texas|1|2
+20645586|beverly, massachusetts|54328003|Tulsa, Oklahoma|1|2
+20645586|beverly, massachusetts|15597251|U.S. and 90+ Countries|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|19706088|USA|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|47942777|Roselle, NJ|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|3505182374|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|33063845|Dallas, TX |1|2
+20645586|beverly, massachusetts|2316626754|India|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|61678619|Bangkok,Thailnd|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|2511599888|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|17242231|Orlando, FL|1|2
+20645586|beverly, massachusetts|44955053|Midwest USA|1|2
+20645586|beverly, massachusetts|28887755|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|68173937|U.K.My favourite web site is|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|15878405|Auckland, New Zealand|1|2
+20645586|beverly, massachusetts|2474350842|Chicagoland|1|2
+20645586|beverly, massachusetts|2311046140|Error|1|2
+20645586|beverly, massachusetts|25887788|Chicago|1|2
+20645586|beverly, massachusetts|17238769|Colorado|1|2
+20645586|beverly, massachusetts|519656857|mexico|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|16266770|Washington DC |1|2
+20645586|beverly, massachusetts|39289991|Riverside, California |1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|24086519| USA & AUSTRIA|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+32180112|milford, massachusetts|21746672|Nordic Region|1|2
+32180112|milford, massachusetts|3415521152|Error|1|2
+32180112|milford, massachusetts|30096514|Error|1|2
+16190806|north adams, massachusetts|27937560|Ohio|2|2
+16190806|north adams, massachusetts|7062722|YoParts.com|2|2
+16190806|north adams, massachusetts|90733599|Error|1|2
+16190806|north adams, massachusetts|0|Error|1|2
+16190806|north adams, massachusetts|0|Error|1|2
+16190806|north adams, massachusetts|571341227|Error|1|2
+16190806|north adams, massachusetts|0|Error|1|2
+16190806|north adams, massachusetts|16190806|North Adams, Massachusetts|1|2
+16190806|north adams, massachusetts|0|Error|1|2
+16190806|north adams, massachusetts|14361342|Nashville, Tennessee|1|2
+16190806|north adams, massachusetts|279152791|Error|1|2
+16190806|north adams, massachusetts|6375322|New York, NY|1|2
+16190806|north adams, massachusetts|0|Error|1|2
+16190806|north adams, massachusetts|28577170|Ashland, MS|1|2
+16190806|north adams, massachusetts|2448962732|Error|1|2
+16190806|north adams, massachusetts|16808675|USA|1|2
+16190806|north adams, massachusetts|0|Error|1|2
+16190806|north adams, massachusetts|0|Error|1|2
+16190806|north adams, massachusetts|22161525|Error|1|2
+16190806|north adams, massachusetts|0|Error|1|2
+16190806|north adams, massachusetts|20475222|Chicago, IL|1|2
+15145010|boston, massachusetts|19917436|Baltimore, MD|1|2
+15145010|boston, massachusetts|14130387|Sandy, UT|1|2
+15145010|boston, massachusetts|15746011|Error|1|2
+15145010|boston, massachusetts|60642052|San Francisco + NYC|1|2
+15145010|boston, massachusetts|18066363|work|1|2
+8596022|boston, massachusetts|0|Error|8|2
+8596022|boston, massachusetts|8596022|Boston, Massachusetts|5|2
+8596022|boston, massachusetts|2171384906|Error|3|2
+8596022|boston, massachusetts|15011283|Houston, TX|3|2
+8596022|boston, massachusetts|10041162|Minneapolis, MN|2|2
+8596022|boston, massachusetts|3041201|Sweet Home Alabama|2|2
+8596022|boston, massachusetts|14245846|Boston, MA|2|2
+8596022|boston, massachusetts|193040525|Error|2|2
+8596022|boston, massachusetts|15637825|Leipzig, Germany|2|2
+8596022|boston, massachusetts|18393410|Johnson City, TN|2|2
+8596022|boston, massachusetts|16335699|Austin, TX|2|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|23885338|New York, NY|1|2
+8596022|boston, massachusetts|25289161|Wisconsin|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|14332186|Eastern Massachusetts|1|2
+8596022|boston, massachusetts|14685361|Minneapolis, MN|1|2
+8596022|boston, massachusetts|18328783|Atlanta, GA|1|2
+8596022|boston, massachusetts|17302684|Atlanta, GA USA|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|2491191|Kokomo, Indiana|1|2
+8596022|boston, massachusetts|22840784|Error|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|14234493|San Francisco Bay Area, CA|1|2
+8596022|boston, massachusetts|2677451|Natchez, MS|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|8771022|Canton, Mass.|1|2
+8596022|boston, massachusetts|2200519384|Error|1|2
+8596022|boston, massachusetts|23875970|Dallas/Ft. Worth, TX|1|2
+8596022|boston, massachusetts|20009125|Calgary, Alberta|1|2
+8596022|boston, massachusetts|18180696|Las Vegas|1|2
+8596022|boston, massachusetts|1476291|NYC|1|2
+8596022|boston, massachusetts|1934671|Boston, Paris, Vegas, NYC|1|2
+8596022|boston, massachusetts|15221511|Boston, MA|1|2
+8596022|boston, massachusetts|15078680|Minnesota|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|8771372|Philadelphia, PA|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|14115587|Bloomington, Indiana|1|2
+8596022|boston, massachusetts|8820652|San Diego, California |1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|86233598|Mesa, AZ|1|2
+8596022|boston, massachusetts|15342518|Burlington, Vermont|1|2
+8596022|boston, massachusetts|14344025|Nashville, TN |1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|4048344851|Error|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|23877960|US|1|2
+8596022|boston, massachusetts|14850719|San Jose, CA|1|2
+8596022|boston, massachusetts|20533581|Maryland|1|2
+8596022|boston, massachusetts|9650882|Sioux Falls, South Dakota|1|2
+8596022|boston, massachusetts|16456522|New York, NY|1|2
+8596022|boston, massachusetts|794111|Boston, MA|1|2
+8596022|boston, massachusetts|16350757|Richmond, VA|1|2
+8596022|boston, massachusetts|41458835|Houston, TX|1|2
+8596022|boston, massachusetts|18029520|Anniston, Alabama|1|2
+8596022|boston, massachusetts|28230113|seaside|1|2
+8596022|boston, massachusetts|12619132|Boston, MA|1|2
+8596022|boston, massachusetts|83857274|Global|1|2
+8596022|boston, massachusetts|16563246|Toronto|1|2
+8596022|boston, massachusetts|14238133|iPhone: 42.341919,-71.202744|1|2
+8596022|boston, massachusetts|21909648|New York|1|2
+8596022|boston, massachusetts|176549696|Here. There. Everywhere.|1|2
+8596022|boston, massachusetts|7948812|vacation|1|2
+8596022|boston, massachusetts|2446878439|Northern Ireland |1|2
+8596022|boston, massachusetts|14758805|Arlington, MA|1|2
+8596022|boston, massachusetts|17451060|Florida|1|2
+8596022|boston, massachusetts|14400948|Houghton, Michigan |1|2
+8596022|boston, massachusetts|14604660|Portland, Oregon, USA|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|0|Error|1|2
+8596022|boston, massachusetts|14170629|Oregon, USA|1|2
+8596022|boston, massachusetts|964641|Reading, PA USA|1|2
+8596022|boston, massachusetts|14056286|Nashville, Tennessee|1|2
+25374738|watertown, massachusetts|19348876|Quincy, MA|1|2
+25374738|watertown, massachusetts|7382042|Boston, MA|1|2
+25374738|watertown, massachusetts|22816548|Boston|1|2
+25374738|watertown, massachusetts|0|Error|1|2
+25374738|watertown, massachusetts|6267962|California, Arizona, etc.|1|2
+25374738|watertown, massachusetts|0|Error|1|2
+14102653|boston, massachusetts|15169397|St. Louis, MO|5|2
+14102653|boston, massachusetts|16010996|Nashville|3|2
+14102653|boston, massachusetts|36143229|StL|3|2
+14102653|boston, massachusetts|4180991|Austin, TX|2|2
+14102653|boston, massachusetts|15858041|Nashville, TN|2|2
+14102653|boston, massachusetts|17149601|Alhambra, CA|2|2
+14102653|boston, massachusetts|1934802841|San Francisco|2|2
+14102653|boston, massachusetts|1835411|Sector ZZ9 Plural Z Alpha|1|2
+14102653|boston, massachusetts|13662802|Portland, OR|1|2
+14102653|boston, massachusetts|14884068|NYC Baby!!!|1|2
+14102653|boston, massachusetts|0|Error|1|2
+14102653|boston, massachusetts|0|Error|1|2
+14102653|boston, massachusetts|16940141|Los Angeles|1|2
+14102653|boston, massachusetts|14412118|Plainfield, IL|1|2
+14102653|boston, massachusetts|972651|Error|1|2
+14102653|boston, massachusetts|0|Error|1|2
+14102653|boston, massachusetts|0|Error|1|2
+14102653|boston, massachusetts|159550442|Mostly in my own head|1|2
+32585384|andover, massachusetts|22960554|Boston Area|3|2
+32585384|andover, massachusetts|0|Error|3|2
+32585384|andover, massachusetts|0|Error|2|2
+32585384|andover, massachusetts|32585384|Massachusetts|2|2
+32585384|andover, massachusetts|26495219|Stellenbosch, South Africa|2|2
+32585384|andover, massachusetts|0|Error|2|2
+32585384|andover, massachusetts|109393400|SF Bay Area - El Granada, CA|2|2
+32585384|andover, massachusetts|110264113|Error|1|2
+32585384|andover, massachusetts|46551160|Philly-base Worldwide programs|1|2
+32585384|andover, massachusetts|51550779|Error|1|2
+32585384|andover, massachusetts|27261296|Atlanta, GA|1|2
+32585384|andover, massachusetts|32799607|New York,  California. |1|2
+32585384|andover, massachusetts|32011415|Austin, Texas|1|2
+32585384|andover, massachusetts|23515884|North Shore, MA|1|2
+32585384|andover, massachusetts|25812956|Tampa|1|2
+32585384|andover, massachusetts|23329001|Alberta, Canada|1|2
+32585384|andover, massachusetts|0|Error|1|2
+32585384|andover, massachusetts|295056327|Error|1|2
+32585384|andover, massachusetts|76817286|Error|1|2
+32585384|andover, massachusetts|46231056|Albany, NY|1|2
+32585384|andover, massachusetts|15917819|Nashville, TN|1|2
+32585384|andover, massachusetts|18134018|Traveling|1|2
+32585384|andover, massachusetts|0|Error|1|2
+32585384|andover, massachusetts|33656983|Minnesota|1|2
+32585384|andover, massachusetts|41385936|Beautiful Jackson Hole, WY|1|2
+32585384|andover, massachusetts|16503460|Charlotte, NC|1|2
+32585384|andover, massachusetts|0|Error|1|2
+32585384|andover, massachusetts|74930641|Caracas|1|2
+32585384|andover, massachusetts|17973137|Nicaragua|1|2
+32585384|andover, massachusetts|12521492|Albany, NY|1|2
+32585384|andover, massachusetts|97998276|New York City|1|2
+32585384|andover, massachusetts|0|Error|1|2
+32585384|andover, massachusetts|36407528|Heaven|1|2
+32585384|andover, massachusetts|36574390|Toronto, ON |1|2
+32585384|andover, massachusetts|82350307|North Carolina|1|2
+32585384|andover, massachusetts|14248818|Missoula, MT|1|2
+32585384|andover, massachusetts|0|Error|1|2
+32585384|andover, massachusetts|54395890|New Zealand|1|2
+32585384|andover, massachusetts|29379018|Virginia/Washington DC|1|2
+32585384|andover, massachusetts|466455894|Error|1|2
+32585384|andover, massachusetts|0|Error|1|2
+32585384|andover, massachusetts|21976889|California|1|2
+32585384|andover, massachusetts|26520531|Swansea, Mass|1|2
+32585384|andover, massachusetts|0|Error|1|2
+32585384|andover, massachusetts|0|Error|1|2
+32585384|andover, massachusetts|65707439|Error|1|2
+32585384|andover, massachusetts|62810990|Error|1|2
+32585384|andover, massachusetts|50541284|New Jersey|1|2
+32585384|andover, massachusetts|16388972|San Diego, CA & Cornwall, ON|1|2
+32585384|andover, massachusetts|63056588|Californ EYE A|1|2
+32585384|andover, massachusetts|18632395|New England (for now!)|1|2
+32585384|andover, massachusetts|53657495|Victoria, Australia|1|2
+32585384|andover, massachusetts|2577871830|Livingston TN |1|2
+32585384|andover, massachusetts|17980088|Chicago area|1|2
+32585384|andover, massachusetts|0|Error|1|2
+32585384|andover, massachusetts|84065122|South Lake Tahoe, CA|1|2
+32585384|andover, massachusetts|36549274|San Diego, CA|1|2
+32585384|andover, massachusetts|0|Error|1|2
+19740908|cambridge, massachusetts|14255057|Omaha, NE|4|2
+19740908|cambridge, massachusetts|19975425|UK my home; world my oyster|4|2
+19740908|cambridge, massachusetts|19513617|Boston, MA and Chapel Hill, NC|4|2
+19740908|cambridge, massachusetts|14972258|Denver, Colorado, USA|4|2
+19740908|cambridge, massachusetts|3873882612|Error|3|2
+19740908|cambridge, massachusetts|16818880|Atlanta, GA|2|2
+19740908|cambridge, massachusetts|15230696|Boston, MA|2|2
+19740908|cambridge, massachusetts|22634164|Cambridge, MA |2|2
+19740908|cambridge, massachusetts|232619338|Error|1|2
+19740908|cambridge, massachusetts|39757887|Bradford, England|1|2
+19740908|cambridge, massachusetts|749963|Honolulu, HI|1|2
+19740908|cambridge, massachusetts|0|Error|1|2
+19740908|cambridge, massachusetts|22987468|Winter Park, Florida, USA|1|2
+19740908|cambridge, massachusetts|17845789| Vancouver. Airplanes|1|2
+19740908|cambridge, massachusetts|0|Error|1|2
+19740908|cambridge, massachusetts|12274282|Boston|1|2
+19740908|cambridge, massachusetts|33338245|Error|1|2
+19740908|cambridge, massachusetts|385681053|Cincinnati, OH|1|2
+19740908|cambridge, massachusetts|0|Error|1|2
+19740908|cambridge, massachusetts|18045425|USA|1|2
+19740908|cambridge, massachusetts|1544011501|Error|1|2
+19740908|cambridge, massachusetts|61664972|Buffalo, NY|1|2
+19740908|cambridge, massachusetts|14497001|London, England|1|2
+19740908|cambridge, massachusetts|18106790|Boston, MA|1|2
+19740908|cambridge, massachusetts|0|Error|1|2
+19740908|cambridge, massachusetts|53365126|Toronto, Canada|1|2
+19740908|cambridge, massachusetts|18638821|New York metro |1|2
+53033334|boston, massachusetts|15359925|Fontana|4|2
+53033334|boston, massachusetts|376504929|Error|4|2
+53033334|boston, massachusetts|16276971|Michigan|4|2
+53033334|boston, massachusetts|14435124|Phoenix, AZ|4|2
+53033334|boston, massachusetts|3886965496|Error|4|2
+53033334|boston, massachusetts|61915253|New York City|3|2
+53033334|boston, massachusetts|81990290|In the refrigerator|2|2
+53033334|boston, massachusetts|83020302|Granville, IL. 61326|2|2
+53033334|boston, massachusetts|5490392|San Francisco, CA|2|2
+53033334|boston, massachusetts|10503302|Newark, CA|2|2
+53033334|boston, massachusetts|14935175| Vancouver, Canada|1|2
+53033334|boston, massachusetts|0|Error|1|2
+53033334|boston, massachusetts|16431844|San Diego, CA|1|2
+53033334|boston, massachusetts|3038526828|Error|1|2
+53033334|boston, massachusetts|1185971|Venice Beach, California |1|2
+53033334|boston, massachusetts|0|Error|1|2
+59661409|boston, massachusetts|30080739|Toronto|1|2
+59661409|boston, massachusetts|79225258|Marysville, Michigan|1|2
+53579161|boston, massachusetts|0|Error|3|2
+53579161|boston, massachusetts|53034624|Boston, Massachusetts|2|2
+53579161|boston, massachusetts|18787542|Fort Myers, Florida|1|2
+53579161|boston, massachusetts|59630821|USA|1|2
+53579161|boston, massachusetts|0|Error|1|2
+53579161|boston, massachusetts|0|Error|1|2
+53579161|boston, massachusetts|16342422|Phoenix, AZ|1|2
+53579161|boston, massachusetts|5916122|Austin, Texas|1|2
+53579161|boston, massachusetts|11883132|San Francisco|1|2
+53579161|boston, massachusetts|1198761|Boca Raton, Florida|1|2
+53579161|boston, massachusetts|0|Error|1|2
+53579161|boston, massachusetts|203194954|Error|1|2
+53579161|boston, massachusetts|14389031|Toronto, Ontario, Canada|1|2
+53579161|boston, massachusetts|10202|Boston, MA|1|2
+53579161|boston, massachusetts|24889448|Berkeley, CA|1|2
+53579161|boston, massachusetts|972651|Error|1|2
+53579161|boston, massachusetts|14186767|Los Angeles, CA|1|2
+53579161|boston, massachusetts|53579161|Boston, Massachusetts|1|2
+59593190|chicopee, massachusetts|0|Error|3|2
+59593190|chicopee, massachusetts|0|Error|3|2
+59593190|chicopee, massachusetts|0|Error|2|2
+59593190|chicopee, massachusetts|0|Error|2|2
+59593190|chicopee, massachusetts|15730056|JAX|2|2
+59593190|chicopee, massachusetts|0|Error|2|2
+59593190|chicopee, massachusetts|19172917|413, MA|2|2
+59593190|chicopee, massachusetts|0|Error|2|2
+59593190|chicopee, massachusetts|394095905|Southern Iowa|1|2
+59593190|chicopee, massachusetts|50536612|Error|1|2
+59593190|chicopee, massachusetts|469478941|luanda|1|2
+59593190|chicopee, massachusetts|59593190|Chicopee, Massachusetts|1|2
+59593190|chicopee, massachusetts|67360455|Error|1|2
+59593190|chicopee, massachusetts|94407079|Error|1|2
+59593190|chicopee, massachusetts|0|Error|1|2
+59593190|chicopee, massachusetts|0|Error|1|2
+59593190|chicopee, massachusetts|0|Error|1|2
+59593190|chicopee, massachusetts|0|Error|1|2
+59593190|chicopee, massachusetts|1061738166|Error|1|2
+59593190|chicopee, massachusetts|38133786|Atlanta|1|2
+59593190|chicopee, massachusetts|19474152|New Hampshire|1|2
+59593190|chicopee, massachusetts|0|Error|1|2
+59593190|chicopee, massachusetts|0|Error|1|2
+59593190|chicopee, massachusetts|0|Error|1|2
+59593190|chicopee, massachusetts|80761405|The Pioneer Valley|1|2
+59593190|chicopee, massachusetts|0|Error|1|2
+59593190|chicopee, massachusetts|0|Error|1|2
+59593190|chicopee, massachusetts|0|Error|1|2
+59593190|chicopee, massachusetts|3433898002|Error|1|2
+18809599|boston, massachusetts|972651|Error|8|2
+32236619|somerville, massachusetts|56133249|Error|2|2
+32236619|somerville, massachusetts|26359362|Error|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|61790753|vorlon home world|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|3058795974|Error|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|32236619|Salem, Massachusetts|1|2
+32236619|somerville, massachusetts|0|Error|1|2
+32236619|somerville, massachusetts|1338871|The Moon|1|2
+16997381|boston, massachusetts|21626346|Boston|2|2
+16997381|boston, massachusetts|26232376|Charlestown, MA|1|2
+16997381|boston, massachusetts|18521391|Boston, MA|1|2
+16997381|boston, massachusetts|18185124|Sydney, Australia|1|2
+16997381|boston, massachusetts|10419|iPhone: 38.897707,-77.037294|1|2
+16997381|boston, massachusetts|16422451|Western North Carolina|1|2
+16997381|boston, massachusetts|0|Error|1|2
+16997381|boston, massachusetts|15210316|Dallas, Texas|1|2
+16997381|boston, massachusetts|70401884|Washington D.C.|1|2
+16997381|boston, massachusetts|14389031|Toronto, Ontario, Canada|1|2
+16997381|boston, massachusetts|10202|Boston, MA|1|2
+16997381|boston, massachusetts|308503514|Error|1|2
+16997381|boston, massachusetts|191672740| Miami, Florida|1|2
+16997381|boston, massachusetts|10373972|Portland, OR and the World|1|2
+16997381|boston, massachusetts|14176585|Central Pennsylvania|1|2
+14379476|boston, massachusetts|64892324|Error|15|2
+14379476|boston, massachusetts|37238868|Chicago USA|9|2
+14379476|boston, massachusetts|72687367|CA/NY/bahammas|5|2
+14379476|boston, massachusetts|74593627|Boston MA|3|2
+14379476|boston, massachusetts|14813320|Error|2|2
+14379476|boston, massachusetts|888|Error|2|2
+14379476|boston, massachusetts|0|Error|1|2
+14379476|boston, massachusetts|0|Error|1|2
+14379476|boston, massachusetts|0|Error|1|2
+14379476|boston, massachusetts|2515232497|Error|1|2
+14379476|boston, massachusetts|0|Error|1|2
+14379476|boston, massachusetts|0|Error|1|2
+14379476|boston, massachusetts|89503894|Brooklyn|1|2
+14379476|boston, massachusetts|0|Error|1|2
+14379476|boston, massachusetts|0|Error|1|2
+10712602|boston, massachusetts|38227761|Where You Are|9|2
+10712602|boston, massachusetts|15208271|San Jose, CA|2|2
+10712602|boston, massachusetts|12705772|Boston, MA|2|2
+10712602|boston, massachusetts|16671570|Augusta, ME|2|2
+10712602|boston, massachusetts|10202|Boston, MA|2|2
+10712602|boston, massachusetts|17459392|Washington, DC|2|2
+10712602|boston, massachusetts|13988472|Raleigh, NC|1|2
+10712602|boston, massachusetts|14327564|Error|1|2
+10712602|boston, massachusetts|16616061|Atlanta, GA|1|2
+10712602|boston, massachusetts|1912641|Raleigh, NC|1|2
+10712602|boston, massachusetts|783214|San Francisco, CA|1|2
+10712602|boston, massachusetts|0|Error|1|2
+10712602|boston, massachusetts|10967452|Northeast USA|1|2
+10712602|boston, massachusetts|0|Error|1|2
+10712602|boston, massachusetts|150334831|Boston, MA|1|2
+10712602|boston, massachusetts|43158512|Error|1|2
+10712602|boston, massachusetts|71320197|Flight level 350, give or take|1|2
+10712602|boston, massachusetts|0|Error|1|2
+10712602|boston, massachusetts|817977|Kansas City, MO|1|2
+10712602|boston, massachusetts|17531205|Boston, MA|1|2
+14194740|boston, massachusetts|65339677|Frederick, MD|2|2
+14194740|boston, massachusetts|0|Error|1|2
+14194740|boston, massachusetts|23274451|Loudoun County, VA|1|2
+61809545|boston, massachusetts|0|Error|1|2
+61809545|boston, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|18533317|Hollywood/Miami/space|6|2
+68261150|leominster, massachusetts|0|Error|4|2
+68261150|leominster, massachusetts|0|Error|3|2
+68261150|leominster, massachusetts|15285490|AZ and CA|3|2
+68261150|leominster, massachusetts|24027558|Detroit Area|3|2
+68261150|leominster, massachusetts|19148712|Pietermaritzburg|3|2
+68261150|leominster, massachusetts|17243913|Los Angeles, CA|3|2
+68261150|leominster, massachusetts|17520649|Solana Beach,Ca|2|2
+68261150|leominster, massachusetts|14985156|Right behind you.|2|2
+68261150|leominster, massachusetts|28215264|India |2|2
+68261150|leominster, massachusetts|0|Error|2|2
+68261150|leominster, massachusetts|11101852|Sliema, Malta|2|2
+68261150|leominster, massachusetts|21249099|Greenacres, WA|2|2
+68261150|leominster, massachusetts|362432275|Error|2|2
+68261150|leominster, massachusetts|20968507|mumbai, india|2|2
+68261150|leominster, massachusetts|0|Error|2|2
+68261150|leominster, massachusetts|57348920|Error|2|2
+68261150|leominster, massachusetts|0|Error|2|2
+68261150|leominster, massachusetts|16277192|toronto,canada|2|2
+68261150|leominster, massachusetts|33332512|South Dakota|2|2
+68261150|leominster, massachusetts|24612656|NYC|2|2
+68261150|leominster, massachusetts|35968135|Sacramento, CA|2|2
+68261150|leominster, massachusetts|32966272|South Dakota, USA|2|2
+68261150|leominster, massachusetts|24866134|Perth, Australia|2|2
+68261150|leominster, massachusetts|0|Error|2|2
+68261150|leominster, massachusetts|4034631|Sydney, Australia|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|26551204|The World|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|27111862|Error|1|2
+68261150|leominster, massachusetts|67786835|East Stroudsburg, PA|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|20880228|Central California|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|14656042|Mumbai|1|2
+68261150|leominster, massachusetts|68402444|London|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|19529504|Iasi, Romania|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|312127818|Belgique|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|15265269|Detroit...Or...Costa Rica |1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|61622534|South Florida|1|2
+68261150|leominster, massachusetts|43922994|USA, Michigan|1|2
+68261150|leominster, massachusetts|17070787|Error|1|2
+68261150|leominster, massachusetts|39697202|Perth, Western Australia|1|2
+68261150|leominster, massachusetts|21610989|Australia|1|2
+68261150|leominster, massachusetts|19130934|Hawaii-Kohala Coast-Big Island|1|2
+68261150|leominster, massachusetts|54186362|Always in front of a computer|1|2
+68261150|leominster, massachusetts|27688800| Phoenix, Arizona|1|2
+68261150|leominster, massachusetts|48441185|Global|1|2
+68261150|leominster, massachusetts|32902662|Salinas|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|20118774|Asia |1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|41360955|Southern California|1|2
+68261150|leominster, massachusetts|36421300|Nebraska|1|2
+68261150|leominster, massachusetts|19406506|Santa Barbara |1|2
+68261150|leominster, massachusetts|14468043|Worldwide|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|17650426|Madurai|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|1008187380|Lagos|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+68261150|leominster, massachusetts|0|Error|1|2
+20617448|boston, massachusetts|348621982|Boston|5|2
+20617448|boston, massachusetts|20617448|Boston, Massachusetts|3|2
+20617448|boston, massachusetts|29199444|Boston|2|2
+20617448|boston, massachusetts|0|Error|1|2
+20617448|boston, massachusetts|0|Error|1|2
+58694096|boston, massachusetts|15911022|Boston, Massachusetts|7|2
+58694096|boston, massachusetts|15870289|Canada / US|4|2
+58694096|boston, massachusetts|0|Error|4|2
+58694096|boston, massachusetts|59630821|USA|2|2
+58694096|boston, massachusetts|16342422|Phoenix, AZ|2|2
+58694096|boston, massachusetts|0|Error|2|2
+58694096|boston, massachusetts|19785646|See also|2|2
+58694096|boston, massachusetts|0|Error|1|2
+58694096|boston, massachusetts|0|Error|1|2
+58694096|boston, massachusetts|0|Error|1|2
+58694096|boston, massachusetts|53034624|Boston, Massachusetts|1|2
+58694096|boston, massachusetts|23641956|New York, NY, USA|1|2
+58694096|boston, massachusetts|0|Error|1|2
+58694096|boston, massachusetts|0|Error|1|2
+58694096|boston, massachusetts|30122282|boston, ma|1|2
+15309753|worcester, massachusetts|17050431|Boston and Harlem |4|2
+15309753|worcester, massachusetts|14456888|Boston|4|2
+15309753|worcester, massachusetts|14266186|Williamsburg, VA|3|2
+15309753|worcester, massachusetts|17572219|Toronto, Canada|1|2
+15309753|worcester, massachusetts|68724931|Error|1|2
+15309753|worcester, massachusetts|19734025|Brisbane, Australia|1|2
+15309753|worcester, massachusetts|16090230|Tallahassee, FL|1|2
+15309753|worcester, massachusetts|15959560|Nashville, Tennessee, USA|1|2
+15309753|worcester, massachusetts|17303510|Worcester, Massachusetts, USA|1|2
+15309753|worcester, massachusetts|2864429891|Error|1|2
+15309753|worcester, massachusetts|473152858|Kingston, RI|1|2
+15309753|worcester, massachusetts|25169797|Error|1|2
+15309753|worcester, massachusetts|0|Error|1|2
+15309753|worcester, massachusetts|74432735|USA|1|2
+15309753|worcester, massachusetts|0|Error|1|2
+15309753|worcester, massachusetts|14959643|Massachusetts|1|2
+15309753|worcester, massachusetts|19505248|Michigan, USA|1|2
+15309753|worcester, massachusetts|18194990|Chicago|1|2
+15309753|worcester, massachusetts|24137191|Los Angeles|1|2
+19374017|woburn, massachusetts|38457808|Springfield, MO|2|2
+19374017|woburn, massachusetts|19026854|Boston, MA|1|2
+19374017|woburn, massachusetts|21933823|Massachusetts|1|2
+19374017|woburn, massachusetts|0|Error|1|2
+19374017|woburn, massachusetts|0|Error|1|2
+19374017|woburn, massachusetts|0|Error|1|2
+19374017|woburn, massachusetts|1577884358|Error|1|2
+19374017|woburn, massachusetts|18952281|Kansas City|1|2
+19374017|woburn, massachusetts|21352055|East Coast|1|2
+19374017|woburn, massachusetts|20223138|Error|1|2
+19374017|woburn, massachusetts|19000765|Texas|1|2
+19374017|woburn, massachusetts|0|Error|1|2
+19374017|woburn, massachusetts|31179766|NYC|1|2
+19374017|woburn, massachusetts|63501546|Error|1|2
+19374017|woburn, massachusetts|19862538|Everywhere|1|2
+19374017|woburn, massachusetts|18335710|Princeton, NJ|1|2
+19374017|woburn, massachusetts|736733180|Bursa-Osmangazi  |1|2
+19374017|woburn, massachusetts|20799290|Boston, MA|1|2
+19374017|woburn, massachusetts|51477428|Nationwide|1|2
+19374017|woburn, massachusetts|20601437|Alexandria, VA|1|2
+19374017|woburn, massachusetts|41821151|Error|1|2
+19374017|woburn, massachusetts|21541897|Surviving In Massachusetts|1|2
+19374017|woburn, massachusetts|43779062|Los Angeles, CA|1|2
+22715217|springfield, massachusetts|0|Error|2|2
+22715217|springfield, massachusetts|0|Error|1|2
+48361999|woburn, massachusetts|15113820|Silicon Valley Girl n DelaWha?|2|2
+48361999|woburn, massachusetts|17791371|#AralAmore #LaMonroe|1|2
+48361999|woburn, massachusetts|584050341|Error|1|2
+48361999|woburn, massachusetts|2999157399|Novosibirsk
+, Russia|1|2
+48361999|woburn, massachusetts|14862699|las vegas|1|2
+48361999|woburn, massachusetts|0|Error|1|2
+48361999|woburn, massachusetts|142927958|Error|1|2
+48361999|woburn, massachusetts|0|Error|1|2
+48361999|woburn, massachusetts|46466423|Oakland, CA|1|2
+48361999|woburn, massachusetts|0|Error|1|2
+48361999|woburn, massachusetts|12762882|London|1|2
+48361999|woburn, massachusetts|61794787|Error|1|2
+48361999|woburn, massachusetts|23569338|Dallas, Texas|1|2
+48361999|woburn, massachusetts|41876532|brown town!|1|2
+48361999|woburn, massachusetts|65621544|United States|1|2
+48361999|woburn, massachusetts|26788518|ch'town|1|2
+48361999|woburn, massachusetts|47705900|Arkansas|1|2
+48361999|woburn, massachusetts|22031628|Toronto, ON|1|2
+48361999|woburn, massachusetts|26273296|Error|1|2
+48361999|woburn, massachusetts|48766586|Earth|1|2
+48361999|woburn, massachusetts|2987194319|Error|1|2
+48361999|woburn, massachusetts|0|Error|1|2
+48361999|woburn, massachusetts|0|Error|1|2
+48361999|woburn, massachusetts|9295112|Error|1|2
+48361999|woburn, massachusetts|0|Error|1|2
+48361999|woburn, massachusetts|2635128775|Error|1|2
+48361999|woburn, massachusetts|21547905|Portsmouth, VA|1|2
+48361999|woburn, massachusetts|42293684|Edmonton|1|2
+48361999|woburn, massachusetts|29804950|Somewhere, busy being angry|1|2
+48361999|woburn, massachusetts|0|Error|1|2
+48361999|woburn, massachusetts|17803992|Australia|1|2
+48361999|woburn, massachusetts|18733385|ATX|1|2
+48361999|woburn, massachusetts|1595261|Kentucky|1|2
+48361999|woburn, massachusetts|921175609|Error|1|2
+48361999|woburn, massachusetts|299551655|Error|1|2
+48361999|woburn, massachusetts|0|Error|1|2
+48361999|woburn, massachusetts|41203492|Error|1|2
+48361999|woburn, massachusetts|32945910|Error|1|2
+29732630|boston, massachusetts|0|Error|2|2
+29732630|boston, massachusetts|840104598|Error|1|2
+29732630|boston, massachusetts|65522237|Virginia|1|2
+19641217|boston, massachusetts|19056253|Downtown Los Angeles|2|2
+19641217|boston, massachusetts|22995000|Error|1|2
+19641217|boston, massachusetts|0|Error|1|2
+19641217|boston, massachusetts|23273326|Hollywood CA/ Las Vegas NV|1|2
+19641217|boston, massachusetts|20418903|Error|1|2
+19641217|boston, massachusetts|0|Error|1|2
+19641217|boston, massachusetts|0|Error|1|2
+19641217|boston, massachusetts|0|Error|1|2
+19641217|boston, massachusetts|0|Error|1|2
+19641217|boston, massachusetts|20332814|Los Angeles|1|2
+19641217|boston, massachusetts|30286103|Orlando, FL, USA|1|2
+14792079|cambridge, massachusetts|16012783|Error|1|2
+14792079|cambridge, massachusetts|111250080|Vallejo, Cali;)|1|2
+14792079|cambridge, massachusetts|16626603|Cambridge, MA|1|2
+63501455|boston, massachusetts|0|Error|3|2
+63501455|boston, massachusetts|972651|Error|3|2
+63501455|boston, massachusetts|15441074|New York|2|2
+63501455|boston, massachusetts|14344481|Boston, MA|2|2
+63501455|boston, massachusetts|6534322|Boston, MA|2|2
+63501455|boston, massachusetts|15736190|Freiburg, Germany|1|2
+63501455|boston, massachusetts|467665171|Error|1|2
+63501455|boston, massachusetts|28076340|Los Angeles, CA|1|2
+63501455|boston, massachusetts|20721976|Boston, MA|1|2
+27770734|stoneham, massachusetts|0|Error|4|2
+27770734|stoneham, massachusetts|0|Error|3|2
+27770734|stoneham, massachusetts|19689423|Error|3|2
+27770734|stoneham, massachusetts|456217995|Philadelphia, PA|2|2
+27770734|stoneham, massachusetts|3251996978|Error|1|2
+27770734|stoneham, massachusetts|0|Error|1|2
+27770734|stoneham, massachusetts|47199497|Error|1|2
+27770734|stoneham, massachusetts|844439929|Error|1|2
+27770734|stoneham, massachusetts|25481322|Nashville, TN|1|2
+27770734|stoneham, massachusetts|274055450|Error|1|2
+27770734|stoneham, massachusetts|2823008671|Error|1|2
+8241152|fall river, massachusetts|0|Error|2|2
+8241152|fall river, massachusetts|14166346|Los Angeles, CA|1|2
+8241152|fall river, massachusetts|0|Error|1|2
+8241152|fall river, massachusetts|0|Error|1|2
+17023932|hingham, massachusetts|14290415|Boston|4|2
+17023932|hingham, massachusetts|0|Error|2|2
+17023932|hingham, massachusetts|0|Error|2|2
+17023932|hingham, massachusetts|30899115|New York City, USA|2|2
+17023932|hingham, massachusetts|0|Error|1|2
+17023932|hingham, massachusetts|54660496|Error|1|2
+17023932|hingham, massachusetts|15029970|Planet Earth|1|2
+17023932|hingham, massachusetts|0|Error|1|2
+17023932|hingham, massachusetts|18024546|Chicago, Illinois, USA|1|2
+17023932|hingham, massachusetts|7871702|Boston, Ma|1|2
+17023932|hingham, massachusetts|15445811|Boston, MA|1|2
+17023932|hingham, massachusetts|98133504|Error|1|2
+17023932|hingham, massachusetts|24275692|New Hampshire|1|2
+17023932|hingham, massachusetts|16330507|Error|1|2
+17023932|hingham, massachusetts|0|Error|1|2
+17023932|hingham, massachusetts|2164865564|Error|1|2
+17023932|hingham, massachusetts|41901716|Error|1|2
+17023932|hingham, massachusetts|25712530|Washington, DC|1|2
+17023932|hingham, massachusetts|19061995|London, UK|1|2
+17023932|hingham, massachusetts|15722730|Arlington, VA|1|2
+17023932|hingham, massachusetts|0|Error|1|2
+34719079|springfield, massachusetts|37834976|Error|4|2
+34719079|springfield, massachusetts|18548221|Los Angeles|1|2
+34719079|springfield, massachusetts|20196258|pineapple at bottom of sea|1|2
+34719079|springfield, massachusetts|14681605|Body? L.A. Mind? N.J.|1|2
+34719079|springfield, massachusetts|264036590|Error|1|2
+34719079|springfield, massachusetts|520440278|Virginia Beach, VA|1|2
+34719079|springfield, massachusetts|158191017|Error|1|2
+34719079|springfield, massachusetts|2290189736|Error|1|2
+56084299|boston, massachusetts|46576295|*WORLDWIDE*|1|2
+17029353|boston, massachusetts|19323697|Boston, MA|2|2
+17029353|boston, massachusetts|30080739|Toronto|1|2
+17029353|boston, massachusetts|1967795036|Error|1|2
+17029353|boston, massachusetts|120295425|Fenton, MI|1|2
+17029353|boston, massachusetts|20014592|Boston, MA|1|2
+17029353|boston, massachusetts|67360455|Error|1|2
+17029353|boston, massachusetts|39544809|KCMO |1|2
+17029353|boston, massachusetts|17583259|MVHC or on tour.|1|2
+17029353|boston, massachusetts|38222300|Manchester Forever.|1|2
+17029353|boston, massachusetts|43628651|Tampa, FL|1|2
+17029353|boston, massachusetts|20942084|DETROIT | MI|1|2
+17029353|boston, massachusetts|43470093|Boston, MA|1|2
+17029353|boston, massachusetts|28487038|Error|1|2
+17029353|boston, massachusetts|74626856|mass|1|2
+17029353|boston, massachusetts|221061139|Error|1|2
+17029353|boston, massachusetts|16264006|jet lag city.|1|2
+17029353|boston, massachusetts|20147984|Burlington, VT|1|2
+17029353|boston, massachusetts|18572329|Maine, USA|1|2
+17029353|boston, massachusetts|2794824360|Error|1|2
+17029353|boston, massachusetts|0|Error|1|2
+17029353|boston, massachusetts|14248848|Boston, MA / Burlington, VT|1|2
+17029353|boston, massachusetts|100863454|Error|1|2
+17029353|boston, massachusetts|35831627|Boston, MA|1|2
+17029353|boston, massachusetts|0|Error|1|2
+87287538|andover, massachusetts|28493037|Error|20|2
+87287538|andover, massachusetts|1161677588|Error|3|2
+87287538|andover, massachusetts|23831682|Make Gumbo or Die Trying|1|2
+87287538|andover, massachusetts|32959253|Error|1|2
+87287538|andover, massachusetts|0|Error|1|2
+87287538|andover, massachusetts|0|Error|1|2
+14935864|springfield, massachusetts|22444386|Australia|4|2
+14935864|springfield, massachusetts|11272022|iPhone: 37.685593,-121.869797|3|2
+14935864|springfield, massachusetts|858201|New York, NY|3|2
+14935864|springfield, massachusetts|14935864|Northampton, MA|3|2
+14935864|springfield, massachusetts|6411132|Midlands, UK|2|2
+14935864|springfield, massachusetts|609543|Alcaudete|2|2
+14935864|springfield, massachusetts|1585|Washington, D.C.|2|2
+14935864|springfield, massachusetts|16891669|Error|1|2
+14935864|springfield, massachusetts|16527332|Brussels Area, Belgium|1|2
+14935864|springfield, massachusetts|10091922|Salzburg Austria|1|2
+14935864|springfield, massachusetts|15430935|USA|1|2
+14935864|springfield, massachusetts|10312|Keene, NH, USA|1|2
+14935864|springfield, massachusetts|2216101|Teaneck, New Jersey USA|1|2
+14935864|springfield, massachusetts|10716072|Silicon Valley|1|2
+14935864|springfield, massachusetts|15167434|Palo Alto, CA|1|2
+14935864|springfield, massachusetts|61233|London|1|2
+14935864|springfield, massachusetts|17719090|Irvine, CA|1|2
+14935864|springfield, massachusetts|14899883|All over the world ;-) |1|2
+14935864|springfield, massachusetts|814281|Error|1|2
+14935864|springfield, massachusetts|10221|san francisco|1|2
+14935864|springfield, massachusetts|676653|Bangalore, India|1|2
+14935864|springfield, massachusetts|0|Error|1|2
+14935864|springfield, massachusetts|24533492|Error|1|2
+14935864|springfield, massachusetts|20227845|Error|1|2
+14935864|springfield, massachusetts|0|Error|1|2
+15460793|boston, massachusetts|18453229|Brick, NJ|7|2
+15460793|boston, massachusetts|291249127|Denver, CO|3|2
+15460793|boston, massachusetts|14101232|Boston, Massachusetts|2|2
+15460793|boston, massachusetts|66848269|New York|2|2
+15460793|boston, massachusetts|16248319|New York City|2|2
+15460793|boston, massachusetts|17531205|Boston, MA|2|2
+15460793|boston, massachusetts|19273104|Silicon Valley|2|2
+15460793|boston, massachusetts|8453452|Silicon Valley, California|1|2
+15460793|boston, massachusetts|902751308|Error|1|2
+15460793|boston, massachusetts|14436732|Dela-WHERE?|1|2
+15460793|boston, massachusetts|0|Error|1|2
+15460793|boston, massachusetts|63558196|McKinney Texas|1|2
+15460793|boston, massachusetts|18739596|United Kingdom|1|2
+15460793|boston, massachusetts|19246850|Highland Park, IL|1|2
+15460793|boston, massachusetts|816653|San Francisco, CA|1|2
+15460793|boston, massachusetts|60788707|London ON Canada|1|2
+15460793|boston, massachusetts|18456583|Greater Boston, MA|1|2
+15460793|boston, massachusetts|0|Error|1|2
+15460793|boston, massachusetts|62356491|Beacon Hill & South Boston|1|2
+15460793|boston, massachusetts|17853061|Louisville KY Area|1|2
+15460793|boston, massachusetts|0|Error|1|2
+15460793|boston, massachusetts|14086866|Lancaster, PA|1|2
+15460793|boston, massachusetts|47675741|Meriden, Connecticut|1|2
+15460793|boston, massachusetts|15612282|Happy Valley|1|2
+15460793|boston, massachusetts|35767916|Phoenix & Minneapolis, USA|1|2
+15460793|boston, massachusetts|23047932|Belgium/Spain/UK|1|2
+15460793|boston, massachusetts|18699060|Boston, MA|1|2
+82965355|boston, massachusetts|2901164378|Error|4|2
+82965355|boston, massachusetts|0|Error|1|2
+51401622|springfield, massachusetts|0|Error|1|2
+51401622|springfield, massachusetts|60669939|Schijndel,The Netherlands|1|2
+51401622|springfield, massachusetts|18220175|EVERYWHERE!!!|1|2
+73437080|cambridge, massachusetts|7823462|Boston, MA|1|2
+73437080|cambridge, massachusetts|11854052|Bangalore, India|1|2
+73437080|cambridge, massachusetts|0|Error|1|2
+23111175|cambridge, massachusetts|50134245|Bos|2|2
+23111175|cambridge, massachusetts|37745903|Braintree, Massachusetts|1|2
+23111175|cambridge, massachusetts|58804493|Error|1|2
+23111175|cambridge, massachusetts|0|Error|1|2
+18923115|somerville, massachusetts|16214646|New York, NY|2|2
+18923115|somerville, massachusetts|14120215|New York, NY|1|2
+18923115|somerville, massachusetts|17050443|New York|1|2
+18923115|somerville, massachusetts|14048901|Berlin|1|2
+18923115|somerville, massachusetts|18013821|Savannah, GA|1|2
+3212691|northampton, massachusetts|18939539|New England|3|2
+3212691|northampton, massachusetts|39003487|Fields Corner, Boston|2|2
+3212691|northampton, massachusetts|20282205|Error|2|2
+3212691|northampton, massachusetts|0|Error|1|2
+3212691|northampton, massachusetts|2557017690|Brooklyn|1|2
+3212691|northampton, massachusetts|17640581|Error|1|2
+3212691|northampton, massachusetts|2608735671|Error|1|2
+3212691|northampton, massachusetts|0|Error|1|2
+3212691|northampton, massachusetts|0|Error|1|2
+3212691|northampton, massachusetts|0|Error|1|2
+3212691|northampton, massachusetts|0|Error|1|2
+3212691|northampton, massachusetts|0|Error|1|2
+3212691|northampton, massachusetts|0|Error|1|2
+3212691|northampton, massachusetts|0|Error|1|2
+3212691|northampton, massachusetts|0|Error|1|2
+3212691|northampton, massachusetts|89773628|Error|1|2
+3212691|northampton, massachusetts|586|Mountains and Oceans|1|2
+28382177|boston, massachusetts|0|Error|2|2
+28382177|boston, massachusetts|0|Error|2|2
+28382177|boston, massachusetts|0|Error|2|2
+28382177|boston, massachusetts|1560866310|Error|1|2
+28382177|boston, massachusetts|27879531|Fairfax, va|1|2
+28382177|boston, massachusetts|0|Error|1|2
+28382177|boston, massachusetts|25331049|Kitchener, Ontario|1|2
+28382177|boston, massachusetts|27223449|North America|1|2
+28382177|boston, massachusetts|0|Error|1|2
+28382177|boston, massachusetts|16788428|New London, CT|1|2
+28382177|boston, massachusetts|39995869|Deep in the heart of...|1|2
+28382177|boston, massachusetts|57026067|Portland, OR (formerly NYC)|1|2
+28382177|boston, massachusetts|0|Error|1|2
+18977219|plymouth, massachusetts|0|Error|1|2
+14792079|cambridge, massachusetts|5917472|Portland, Maine|1|2
+14792079|cambridge, massachusetts|19692478|New York, NY|1|2
+14792079|cambridge, massachusetts|52796949|Error|1|2
+37869240|greenfield, massachusetts|757857068|A land of myth|5|2
+37869240|greenfield, massachusetts|174067634|Mex. |4|2
+37869240|greenfield, massachusetts|157786688|Error|4|2
+37869240|greenfield, massachusetts|0|Error|2|2
+37869240|greenfield, massachusetts|19417912|Minneapolis|1|2
+37869240|greenfield, massachusetts|22321485|Error|1|2
+37869240|greenfield, massachusetts|22370265|Raleigh, NC|1|2
+37869240|greenfield, massachusetts|28534454|Error|1|2
+37869240|greenfield, massachusetts|0|Error|1|2
+51507832|boston, massachusetts|21402261|Rhode Island|7|2
+51507832|boston, massachusetts|36751927|Here, There, and Everywhere|4|2
+51507832|boston, massachusetts|738945696|Error|3|2
+51507832|boston, massachusetts|35249600|Austin, Texas|1|2
+51507832|boston, massachusetts|15790588|New Hampshire|1|2
+51507832|boston, massachusetts|15830680|Ohio|1|2
+51507832|boston, massachusetts|0|Error|1|2
+15870918|boston, massachusetts|41239240|Error|5|2
+15870918|boston, massachusetts|2185154076|Worthing|4|2
+15870918|boston, massachusetts|15795285|Zanaris, Gielinor |1|2
+15870918|boston, massachusetts|17571328|Houston/Los Angeles|1|2
+15870918|boston, massachusetts|17929499|Earth|1|2
+15870918|boston, massachusetts|16971521|NYC|1|2
+15870918|boston, massachusetts|0|Error|1|2
+15870918|boston, massachusetts|17687664|Error|1|2
+15870918|boston, massachusetts|0|Error|1|2
+15870918|boston, massachusetts|19745450|Massachusetts|1|2
+19050566|boston, massachusetts|58026269|The Bae State|7|2
+19050566|boston, massachusetts|0|Error|6|2
+19050566|boston, massachusetts|14327961|Between Exits 7A and 16W.|1|2
+19050566|boston, massachusetts|12044602|Los Angeles, California|1|2
+19050566|boston, massachusetts|0|Error|1|2
+19050566|boston, massachusetts|51073549|Beverly, Mass.|1|2
+19050566|boston, massachusetts|30313925|Washington, DC|1|2
+10712602|boston, massachusetts|16671570|Augusta, ME|4|2
+10712602|boston, massachusetts|18519661|Los Angeles, CA|2|2
+10712602|boston, massachusetts|14966163|askpetercoffin at gmail|2|2
+10712602|boston, massachusetts|15836230|Naples, Florida|2|2
+10712602|boston, massachusetts|17459392|Washington, DC|2|2
+10712602|boston, massachusetts|8408622|New Orleans|1|2
+10712602|boston, massachusetts|0|Error|1|2
+10712602|boston, massachusetts|7786322|iPhone: 0.000000,0.000000|1|2
+10712602|boston, massachusetts|21816984|Los Angeles|1|2
+10712602|boston, massachusetts|11253262|Washington, DC|1|2
+10712602|boston, massachusetts|15314816|Error|1|2
+10712602|boston, massachusetts|12127252|Orange County|1|2
+10712602|boston, massachusetts|1530371|Westport, CT|1|2
+10712602|boston, massachusetts|38227761|Where You Are|1|2
+24344590|boston, massachusetts|0|Error|4|2
+24344590|boston, massachusetts|28928370|Williamstown, MA USA|3|2
+24344590|boston, massachusetts|20481171|Boston, MA|2|2
+24344590|boston, massachusetts|0|Error|2|2
+24344590|boston, massachusetts|14075928|Error|1|2
+24344590|boston, massachusetts|222210400|Error|1|2
+24344590|boston, massachusetts|20705303|Boston, MA|1|2
+24344590|boston, massachusetts|0|Error|1|2
+24344590|boston, massachusetts|0|Error|1|2
+24344590|boston, massachusetts|389947418|Maine|1|2
+24344590|boston, massachusetts|17531205|Boston, MA|1|2
+24344590|boston, massachusetts|0|Error|1|2
+30650328|lowell, massachusetts|15423139|Orange County, California|1|2
+30650328|lowell, massachusetts|0|Error|1|2
+17029353|boston, massachusetts|26958883|New York|2|2
+17029353|boston, massachusetts|54441555|London|2|2
+17029353|boston, massachusetts|0|Error|1|2
+17029353|boston, massachusetts|0|Error|1|2
+17029353|boston, massachusetts|2493368082|Wombourne, West Midlands|1|2
+17029353|boston, massachusetts|23122597|los angeles|1|2
+17029353|boston, massachusetts|14768707|Los Angeles, CA|1|2
+17029353|boston, massachusetts|41356825|Error|1|2
+17029353|boston, massachusetts|14964898|Error|1|2
+17029353|boston, massachusetts|0|Error|1|2
+17029353|boston, massachusetts|20604317|Error|1|2
+17029353|boston, massachusetts|490599812|Aberystwyth, Wales|1|2
+14935864|springfield, massachusetts|14659523|Casablanca / Paris|6|2
+14935864|springfield, massachusetts|6261232|Error|2|2
+14935864|springfield, massachusetts|16141166|Bangalore, India|1|2
+14935864|springfield, massachusetts|0|Error|1|2
+14935864|springfield, massachusetts|19921435|Southwest Florida|1|2
+14935864|springfield, massachusetts|11745002|Castro Valley, CA|1|2
+14935864|springfield, massachusetts|0|Error|1|2
+14947594|salem, massachusetts|101532737|lisboa|2|2
+14947594|salem, massachusetts|28490110|MA|2|2
+14947594|salem, massachusetts|0|Error|1|2
+14947594|salem, massachusetts|0|Error|1|2
+14947594|salem, massachusetts|1394875518|Chicago|1|2
+14947594|salem, massachusetts|14947594|Woburn, MA|1|2
+14203885|cambridge, massachusetts|14691372|Error|1|2
+14203885|cambridge, massachusetts|15991783|Error|1|2
+14203885|cambridge, massachusetts|745213|San Francisco, CA|1|2
+22381700|boston, massachusetts|280534976|Error|1|2
+22381700|boston, massachusetts|0|Error|1|2
+22381700|boston, massachusetts|18378446|Baltimore, MD|1|2
+22381700|boston, massachusetts|16190753|Nashville, TN|1|2
+22381700|boston, massachusetts|257906820|Error|1|2
+17179683|east falmouth, massachusetts|33954380|Error|2|2
+17179683|east falmouth, massachusetts|20802401|USA|2|2
+17179683|east falmouth, massachusetts|2414268126|Error|1|2
+17179683|east falmouth, massachusetts|49665702|Error|1|2
+17179683|east falmouth, massachusetts|2490602935|NYC|1|2
+18229413|boston, massachusetts|57422596|Commonwealth of Virginia|7|2
+18229413|boston, massachusetts|18490743|Fairfax, Virginia|3|2
+18229413|boston, massachusetts|20929521|Oklahoma City, OK|2|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|1028444514|Error|1|2
+18229413|boston, massachusetts|14326946|Florida|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|16831933|Boston, MA|1|2
+18229413|boston, massachusetts|15911022|Boston, Massachusetts|1|2
+18229413|boston, massachusetts|38494339|Chicago, IL|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|21950917|Santa Monica CA + Santa Fe NM|1|2
+18229413|boston, massachusetts|17446887|Springfield, IL|1|2
+18229413|boston, massachusetts|18028855|Austin, Texas|1|2
+18229413|boston, massachusetts|12|California, USA|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|18138767|USA|1|2
+18229413|boston, massachusetts|0|Error|1|2
+18229413|boston, massachusetts|35750871|USA|1|2
+18229413|boston, massachusetts|0|Error|1|2
+5647322|boston, massachusetts|759251|Error|1|2
+5647322|boston, massachusetts|0|Error|1|2
+5647322|boston, massachusetts|0|Error|1|2
+5647322|boston, massachusetts|0|Error|1|2
+19641217|boston, massachusetts|30286103|Orlando, FL, USA|2|2
+19641217|boston, massachusetts|15779850|San Francisco, CA|1|2
+19641217|boston, massachusetts|1740409692|Error|1|2
+19641217|boston, massachusetts|19693596|Los Angeles|1|2
+19641217|boston, massachusetts|0|Error|1|2
+19641217|boston, massachusetts|0|Error|1|2
+19641217|boston, massachusetts|20641832|iPhone: 28.547363,-81.321106|1|2
+19641217|boston, massachusetts|20332814|Los Angeles|1|2
+19641217|boston, massachusetts|99214936|Error|1|2
+19641217|boston, massachusetts|0|Error|1|2
+19316267|somerville, massachusetts|0|Error|11|2
+19316267|somerville, massachusetts|0|Error|3|2
+19316267|somerville, massachusetts|477118169|Error|2|2
+19316267|somerville, massachusetts|33719856|Boston|2|2
+19316267|somerville, massachusetts|15159315|Error|2|2
+19316267|somerville, massachusetts|43013901|Error|1|2
+19316267|somerville, massachusetts|0|Error|1|2
+19316267|somerville, massachusetts|22203|Boston|1|2
+19316267|somerville, massachusetts|0|Error|1|2
+19316267|somerville, massachusetts|0|Error|1|2
+19316267|somerville, massachusetts|45116401|NYC and Boston|1|2
+19316267|somerville, massachusetts|20611778|Washington, DC|1|2
+19316267|somerville, massachusetts|19316267|Somerville, Massachusetts|1|2
+29519602|boston, massachusetts|394453306|Error|2|2
+29519602|boston, massachusetts|24630715|Maine|2|2
+29519602|boston, massachusetts|19449622|Error|1|2
+29519602|boston, massachusetts|18572329|Maine, USA|1|2
+29519602|boston, massachusetts|28947268|Boston, MA|1|2
+29866163|danvers, massachusetts|84684884|London, England|3|2
+29866163|danvers, massachusetts|0|Error|3|2
+29866163|danvers, massachusetts|33823446|All over the place.|2|2
+29866163|danvers, massachusetts|19182136|Amherst, NY|2|2
+29866163|danvers, massachusetts|225422585|Canada |2|2
+29866163|danvers, massachusetts|21303819|Error|1|2
+29866163|danvers, massachusetts|0|Error|1|2
+29866163|danvers, massachusetts|16665435|NYC/London/Vancouver/DownSouth|1|2
+29866163|danvers, massachusetts|21212823|Error|1|2
+29866163|danvers, massachusetts|2515595644|Muscat, Oman|1|2
+29866163|danvers, massachusetts|1957245631|Error|1|2
+16251977|boston, massachusetts|15140284|Az|2|2
+16251977|boston, massachusetts|25321585|Boulder, CO|1|2
+16251977|boston, massachusetts|28273392|Error|1|2
+16251977|boston, massachusetts|20620967|Where in the world are you?|1|2
+16251977|boston, massachusetts|19164441|Error|1|2
+16251977|boston, massachusetts|15827434|Nashville, TN|1|2
+16251977|boston, massachusetts|19756313|Los Angeles, CA|1|2
+14198304|boston, massachusetts|0|Error|2|2
+14198304|boston, massachusetts|0|Error|2|2
+14198304|boston, massachusetts|57405911|United States of America|1|2
+14198304|boston, massachusetts|2279731459|Error|1|2
+14198304|boston, massachusetts|17612289|USA|1|2
+14198304|boston, massachusetts|119071513|Error|1|2
+14198304|boston, massachusetts|0|Error|1|2
+14198304|boston, massachusetts|12447532|Error|1|2
+14198304|boston, massachusetts|193683418|Error|1|2
+14198304|boston, massachusetts|297174038|Error|1|2
+14198304|boston, massachusetts|53122699|Brooklyn, NY|1|2
+14198304|boston, massachusetts|2245600149|Error|1|2
+14198304|boston, massachusetts|6751172|Brooklyn, NY|1|2
+14198304|boston, massachusetts|0|Error|1|2
+14198304|boston, massachusetts|41429149|Washington, DC, USA|1|2
+14198304|boston, massachusetts|16533513|Washington, DC|1|2
+43580563|boston, massachusetts|31582170|Error|8|2
+43580563|boston, massachusetts|14952097|Nashville, TN|5|2
+43580563|boston, massachusetts|27722951|Nashville, TN|2|2
+43580563|boston, massachusetts|11256622|Texan in Wyoming|2|2
+43580563|boston, massachusetts|22064080|Error|2|2
+43580563|boston, massachusetts|108114028|Error|1|2
+43580563|boston, massachusetts|15832211|Greensboro, NC|1|2
+43580563|boston, massachusetts|2432085954|Error|1|2
+43580563|boston, massachusetts|16383523|Kennesaw GA |1|2
+17371061|boston, massachusetts|16753568|Barrie, ON|6|2
+17371061|boston, massachusetts|16624692|San Diego|3|2
+17371061|boston, massachusetts|821845|Ottawa, Canada|3|2
+17371061|boston, massachusetts|15164442|Burlington, ON, Canada|1|2
+17371061|boston, massachusetts|14114393|USA|1|2
+17371061|boston, massachusetts|17371061|Boston|1|2
+17371061|boston, massachusetts|0|Error|1|2
+53033334|boston, massachusetts|0|Error|4|2
+53033334|boston, massachusetts|1574681|Error|2|2
+53033334|boston, massachusetts|28706024|los angeles|1|2
+53033334|boston, massachusetts|7861312|Los Angeles, CA|1|2
+53033334|boston, massachusetts|58244097|Arizona|1|2
+53033334|boston, massachusetts|0|Error|1|2
+53033334|boston, massachusetts|109037659|Error|1|2
+53033334|boston, massachusetts|0|Error|1|2
+14248002|boston, massachusetts|14164371|Encinitas, CA|2|2
+14248002|boston, massachusetts|0|Error|2|2
+14248002|boston, massachusetts|15448580|Brooklyn, NY|1|2
+14248002|boston, massachusetts|0|Error|1|2
+14248002|boston, massachusetts|0|Error|1|2
+14248002|boston, massachusetts|0|Error|1|2
+14248002|boston, massachusetts|21212823|Error|1|2
+14248002|boston, massachusetts|140826068|Error|1|2
+67776125|boston, massachusetts|529707324|Error|4|2
+67776125|boston, massachusetts|39689218|moron, mongolia|2|2
+67776125|boston, massachusetts|0|Error|2|2
+67776125|boston, massachusetts|2415073478|Error|1|2
+18530037|easthampton, massachusetts|17525568|Austin, TX|5|2
+18530037|easthampton, massachusetts|31111347|Northampton, MA |1|2
+18530037|easthampton, massachusetts|1928486736|Error|1|2
+18530037|easthampton, massachusetts|0|Error|1|2
+18530037|easthampton, massachusetts|364080651|Error|1|2
+18530037|easthampton, massachusetts|7744592|Studio 1A|1|2
+18530037|easthampton, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|3|2
+20645586|beverly, massachusetts|17973137|Nicaragua|3|2
+20645586|beverly, massachusetts|0|Error|3|2
+20645586|beverly, massachusetts|0|Error|3|2
+20645586|beverly, massachusetts|0|Error|2|2
+20645586|beverly, massachusetts|0|Error|2|2
+20645586|beverly, massachusetts|48706463|Error|2|2
+20645586|beverly, massachusetts|3222092639|Error|2|2
+20645586|beverly, massachusetts|0|Error|2|2
+20645586|beverly, massachusetts|0|Error|2|2
+20645586|beverly, massachusetts|0|Error|2|2
+20645586|beverly, massachusetts|0|Error|2|2
+20645586|beverly, massachusetts|1550761452|New York|1|2
+20645586|beverly, massachusetts|19110496|Alberta, Canada|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|22380908|Alabama|1|2
+20645586|beverly, massachusetts|11778|Mumbai, India|1|2
+20645586|beverly, massachusetts|39289991|Riverside, California |1|2
+20645586|beverly, massachusetts|39792248|Error|1|2
+20645586|beverly, massachusetts|15483026|Southern WI, USA|1|2
+20645586|beverly, massachusetts|26884389|The Lovers State VA|1|2
+20645586|beverly, massachusetts|20854085|TORONTO | canada|1|2
+20645586|beverly, massachusetts|2851141362|Av. Avila Camacho 1715 Conjunt|1|2
+20645586|beverly, massachusetts|28781820|Eastern USA/Caribbean Area|1|2
+20645586|beverly, massachusetts|249085703|Error|1|2
+20645586|beverly, massachusetts|21944745|Callahan/Jacksonville |1|2
+20645586|beverly, massachusetts|14597965|Liblar, near  Cologne, Germany|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|53547628|Clovis, New Mexico|1|2
+20645586|beverly, massachusetts|43639299|Chicago, IL|1|2
+20645586|beverly, massachusetts|454092195|Herts, Beds, London|1|2
+20645586|beverly, massachusetts|19959117|London, UK|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|29542343|Georgia|1|2
+20645586|beverly, massachusetts|17901072|Global|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|499338336|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|15681180|USA|1|2
+20645586|beverly, massachusetts|63148884|Digital nomad|1|2
+20645586|beverly, massachusetts|17465496|Charlotte, NC|1|2
+20645586|beverly, massachusetts|14892523|Valencia, CA|1|2
+20645586|beverly, massachusetts|14947018|North Carolina|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|4771051|Kawasaki Japan|1|2
+20645586|beverly, massachusetts|16388972|San Diego, CA & Cornwall, ON|1|2
+20645586|beverly, massachusetts|343132527|San Diego, CA|1|2
+20645586|beverly, massachusetts|23266160|Arizona|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|14296410|San Marino, Ca.|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|188573761|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|49242625|Arizona|1|2
+20645586|beverly, massachusetts|42988185|Boulder, Colorado|1|2
+20645586|beverly, massachusetts|2661558695|Error|1|2
+20645586|beverly, massachusetts|18702696|Xenia, Ohio|1|2
+20645586|beverly, massachusetts|718199906|Heart of Jesus|1|2
+20645586|beverly, massachusetts|23840343|San Francisco Bay Area|1|2
+20645586|beverly, massachusetts|29692115|Channel Islands|1|2
+20645586|beverly, massachusetts|17966250|U.S.|1|2
+20645586|beverly, massachusetts|455402699|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+20645586|beverly, massachusetts|37613811|Mangalore, India|1|2
+20645586|beverly, massachusetts|539382130|Error|1|2
+20645586|beverly, massachusetts|0|Error|1|2
+11223942|boston, massachusetts|187761182|Error|1|2
+11223942|boston, massachusetts|0|Error|1|2
+41652654|boston, massachusetts|0|Error|4|2
+41652654|boston, massachusetts|20540068|United States|2|2
+41652654|boston, massachusetts|41166316|Bloomington Indiana|1|2
+41652654|boston, massachusetts|54089765|Pittsburgh, Pennsylvania|1|2
+17537165|boston, massachusetts|16233560|Error|2|2
+17537165|boston, massachusetts|16992596|Error|2|2
+17537165|boston, massachusetts|0|Error|1|2
+17537165|boston, massachusetts|18216065|Iowa|1|2
+17537165|boston, massachusetts|0|Error|1|2
+32238152|boston, massachusetts|0|Error|3|2
+32238152|boston, massachusetts|0|Error|2|2
+32238152|boston, massachusetts|7861312|Los Angeles, CA|1|2
+32238152|boston, massachusetts|0|Error|1|2
+32238152|boston, massachusetts|643653|Easthampton, Pizzachussetts|1|2
+32238152|boston, massachusetts|0|Error|1|2
+32238152|boston, massachusetts|0|Error|1|2
+32238152|boston, massachusetts|0|Error|1|2
+32238152|boston, massachusetts|0|Error|1|2
+7078892|springfield, massachusetts|17266011|Connecticut|5|2
+7078892|springfield, massachusetts|33862865|CHi TwN|1|2
+7078892|springfield, massachusetts|46417885|Washington, DC|1|2
+7078892|springfield, massachusetts|11459372|The Constitution State|1|2
+7078892|springfield, massachusetts|2733716457|Error|1|2
+7078892|springfield, massachusetts|0|Error|1|2
+7078892|springfield, massachusetts|3839|New York, NY|1|2
+18647042|boston, massachusetts|14664467|Brooklyn, NY|2|2
+18647042|boston, massachusetts|18197957|USA|2|2
+18647042|boston, massachusetts|14513399|on top of the aggro crag|2|2
+18647042|boston, massachusetts|13034652|Greensboro, NC|1|2
+18647042|boston, massachusetts|17596152|San Francisco|1|2
+18647042|boston, massachusetts|18106790|Boston, MA|1|2
+18647042|boston, massachusetts|16538023|Palo Alto, CA|1|2
+18647042|boston, massachusetts|14362859|Dallas, Texas|1|2
+18647042|boston, massachusetts|16451077|Chicago, IL|1|2
+18647042|boston, massachusetts|0|Error|1|2
+18647042|boston, massachusetts|3244572769|Error|1|2
+15514692|holyoke, massachusetts|67915548|Standing right behind you...|5|2
+15514692|holyoke, massachusetts|15604222|JoCo, Kansas|4|2
+15514692|holyoke, massachusetts|26610413|New York|2|2
+15514692|holyoke, massachusetts|238215574|Southwest Missouri|2|2
+15514692|holyoke, massachusetts|27816413|South Bay Area, Nor Cal|1|2
+15514692|holyoke, massachusetts|156031342|Fort Worth, TX|1|2
+15514692|holyoke, massachusetts|23241258|Middle of Nowhere. Seriously.|1|2
+15514692|holyoke, massachusetts|26506353|South Hadley, Mass.|1|2
+19740908|cambridge, massachusetts|1544011501|Error|2|2
+19740908|cambridge, massachusetts|14497001|London, England|2|2
+19740908|cambridge, massachusetts|0|Error|2|2
+19740908|cambridge, massachusetts|0|Error|1|2
+19740908|cambridge, massachusetts|9810242|New York City|1|2
+19740908|cambridge, massachusetts|8431212|Error|1|2
+19740908|cambridge, massachusetts|16479281|San Francisco, CA, USA|1|2
+19740908|cambridge, massachusetts|0|Error|1|2
+19740908|cambridge, massachusetts|33672294|Spring Hill|1|2
+19740908|cambridge, massachusetts|0|Error|1|2
+19740908|cambridge, massachusetts|15230696|Boston, MA|1|2
+19740908|cambridge, massachusetts|0|Error|1|2
+19740908|cambridge, massachusetts|21616140|Los Angeles, California|1|2
+19740908|cambridge, massachusetts|0|Error|1|2
+8241152|fall river, massachusetts|2743922824|Error|2|2
+8241152|fall river, massachusetts|7846|Los Angeles, CA|1|2
+15689747|waltham, massachusetts|15489356|Sydney, NSW, Australia|2|2
+15689747|waltham, massachusetts|11327|Concord, MA|2|2
+15689747|waltham, massachusetts|14444709|Dublin|1|2
+15689747|waltham, massachusetts|8446902|Dublin, Ireland|1|2
+16946295|newburyport, massachusetts|15794821|Manchester, NH|4|2
+16946295|newburyport, massachusetts|34663|London|2|2
+16946295|newburyport, massachusetts|824211|Newburyport, MA|2|2
+16946295|newburyport, massachusetts|0|Error|1|2
+16946295|newburyport, massachusetts|0|Error|1|2
+16946295|newburyport, massachusetts|0|Error|1|2
+16946295|newburyport, massachusetts|760199|copenhagen|1|2
+16946295|newburyport, massachusetts|7882472|Boston, MA, USA|1|2
+16946295|newburyport, massachusetts|1468861|Beverly, Massachusetts|1|2
+16946295|newburyport, massachusetts|0|Error|1|2
+16946295|newburyport, massachusetts|15822993|Andalusia, Spain|1|2
+16946295|newburyport, massachusetts|51723|Epping, New Hampshire, NH|1|2
+16946295|newburyport, massachusetts|16332970|Virginia Beach, VA|1|2
+16946295|newburyport, massachusetts|0|Error|1|2
+16946295|newburyport, massachusetts|65193|Dallas, TX|1|2
+16946295|newburyport, massachusetts|2990621|Santa Cruz, CA|1|2
+16946295|newburyport, massachusetts|16252130|Southern California|1|2
+16946295|newburyport, massachusetts|259051299|Error|1|2
+57653510|boston, massachusetts|13393052|Washington, D.C. and NYC|2|2
+57653510|boston, massachusetts|21925979|Error|1|2
+57653510|boston, massachusetts|23497646|Oklahoma|1|2

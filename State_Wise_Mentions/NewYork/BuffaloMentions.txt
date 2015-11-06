@@ -1,0 +1,1762 @@
+71303208|buffalo, ny|71303208|Buffalo, NY|2|2
+71303208|buffalo, ny|9952152|Amherst, NY|2|2
+71303208|buffalo, ny|21905546|Buffalo, NY|1|2
+24249018|buffalo, ny|40315069|Everywhere|1|2
+24249018|buffalo, ny|0|Error|1|2
+24249018|buffalo, ny|25789119|Liverpool|1|2
+17830104|buffalo, ny|2541343648|Error|1|2
+17830104|buffalo, ny|15261472|iPhone: 28.639381,-81.406555|1|2
+17830104|buffalo, ny|2640093862|Error|1|2
+33642976|buffalo, ny|16017572|La Nova, NY|10|2
+33642976|buffalo, ny|19159304|Buffalo, NY|5|2
+33642976|buffalo, ny|63742719|Buffalo / New York City|2|2
+33642976|buffalo, ny|4131744313|Error|1|2
+33642976|buffalo, ny|0|Error|1|2
+33642976|buffalo, ny|19329393|New York City, New York|1|2
+33642976|buffalo, ny|16870682|A place to Love & Be Loved.|1|2
+33642976|buffalo, ny|25416320|Buffalo, New York|1|2
+33642976|buffalo, ny|0|Error|1|2
+14687182|buffalo, ny|8936082|Error|2|2
+14687182|buffalo, ny|7144422|Error|2|2
+14687182|buffalo, ny|15101175|Rochester, NY|2|2
+14687182|buffalo, ny|0|Error|2|2
+14687182|buffalo, ny|793238882|Error|2|2
+14687182|buffalo, ny|930061|Brooklyn, New York, USA|2|2
+14687182|buffalo, ny|2585986136|Error|2|2
+14687182|buffalo, ny|27870530|San Diego, CA|2|2
+14687182|buffalo, ny|20494642|Error|2|2
+14687182|buffalo, ny|15940499|Albany, NY|2|2
+14687182|buffalo, ny|118112062|Error|1|2
+14687182|buffalo, ny|3906793273|Error|1|2
+14687182|buffalo, ny|236858809|Error|1|2
+14687182|buffalo, ny|35607387|Error|1|2
+14687182|buffalo, ny|202003|nyc|1|2
+14687182|buffalo, ny|14120215|New York, NY|1|2
+14687182|buffalo, ny|14457527|Buffalo, NY|1|2
+14687182|buffalo, ny|56436449|San Francisco, CA|1|2
+14687182|buffalo, ny|16190278|Brooklyn, NY|1|2
+14687182|buffalo, ny|1648351|Los Angeles, New York, Detroit|1|2
+14687182|buffalo, ny|0|Error|1|2
+14687182|buffalo, ny|14637609|Clio MI|1|2
+14687182|buffalo, ny|5807432|Wichita, KS|1|2
+14687182|buffalo, ny|14975020|Greenwich, CT|1|2
+14687182|buffalo, ny|8131122|Seattle, WA|1|2
+14687182|buffalo, ny|7684302|Virginia, USA|1|2
+14687182|buffalo, ny|16120265|San Francisco|1|2
+14687182|buffalo, ny|1586501|LA|1|2
+14687182|buffalo, ny|14098497|Error|1|2
+14687182|buffalo, ny|14904704|Buffalo, NY, USA|1|2
+14687182|buffalo, ny|13029|10012|1|2
+14687182|buffalo, ny|11393322|Buffalo|1|2
+14687182|buffalo, ny|339229651|Error|1|2
+14687182|buffalo, ny|20612109|Buffalo, NY|1|2
+14687182|buffalo, ny|26426173|Seattle|1|2
+14687182|buffalo, ny|9499402|Rochester, NY|1|2
+14687182|buffalo, ny|49763|Rochester, New York|1|2
+14687182|buffalo, ny|72883|Ho Chi Minh City, Vietnam|1|2
+14687182|buffalo, ny|11774052|Yonkers, NY|1|2
+14687182|buffalo, ny|0|Error|1|2
+14687182|buffalo, ny|14971375|Here|1|2
+35412474|buffalo, ny|10403|Michigan|1|2
+35412474|buffalo, ny|15265990|Minnesota|1|2
+15868672|buffalo, ny|41937740|Buffalo/Boston|13|2
+15868672|buffalo, ny|2557521|Bristol, CT|2|2
+15868672|buffalo, ny|16050554|Houston, Texas|2|2
+15868672|buffalo, ny|96261889|Error|2|2
+15868672|buffalo, ny|35586563|Error|1|2
+15868672|buffalo, ny|0|Error|1|2
+15868672|buffalo, ny|3721461|Dallas|1|2
+15868672|buffalo, ny|65794066|Chicago, IL|1|2
+15868672|buffalo, ny|31563827|Raleigh, NC|1|2
+15868672|buffalo, ny|3359851|San Francisco & Los Angeles|1|2
+15868672|buffalo, ny|43139414|Bristol, Ct.|1|2
+16000632|buffalo, ny|38566771|syracuse ny |3|2
+16000632|buffalo, ny|122996079|Error|2|2
+16000632|buffalo, ny|0|Error|2|2
+16000632|buffalo, ny|14154098|Error|1|2
+16000632|buffalo, ny|0|Error|1|2
+16000632|buffalo, ny|0|Error|1|2
+16000632|buffalo, ny|17149748|Tampa, Florida, United States|1|2
+16000632|buffalo, ny|2894031399|Error|1|2
+16000632|buffalo, ny|0|Error|1|2
+16000632|buffalo, ny|16744854|Error|1|2
+16000632|buffalo, ny|25936504|SA, TX|1|2
+16000632|buffalo, ny|67040124|STL/LA|1|2
+16000632|buffalo, ny|54441555|London|1|2
+16000632|buffalo, ny|0|Error|1|2
+16000632|buffalo, ny|29657843|Arizona |1|2
+16000632|buffalo, ny|18052969|Savannah, Ga|1|2
+16000632|buffalo, ny|0|Error|1|2
+16000632|buffalo, ny|34115019|My Solitary Fortress|1|2
+16000632|buffalo, ny|19115415|Error|1|2
+73937081|buffalo, ny|73937081|Buffalo, NY|7|2
+73937081|buffalo, ny|25967150|ATLANTA,GA | NYC | MIAMI|6|2
+73937081|buffalo, ny|0|Error|5|2
+73937081|buffalo, ny|262182191|Error|4|2
+73937081|buffalo, ny|37036288|Orange County CA|3|2
+73937081|buffalo, ny|96835511|Error|3|2
+73937081|buffalo, ny|280683273|born #340 raised #869|3|2
+73937081|buffalo, ny|0|Error|3|2
+73937081|buffalo, ny|55178734|SAN DIEGO , PACIFIC BEACH|3|2
+73937081|buffalo, ny|0|Error|2|2
+73937081|buffalo, ny|0|Error|2|2
+73937081|buffalo, ny|0|Error|2|2
+73937081|buffalo, ny|501188472|Katy, Tx|2|2
+73937081|buffalo, ny|0|Error|2|2
+73937081|buffalo, ny|24400109|(I)n (O)utfield (W)ay (A)way|2|2
+73937081|buffalo, ny|1908341071|Error|2|2
+73937081|buffalo, ny|1428632150|The World|2|2
+73937081|buffalo, ny|0|Error|2|2
+73937081|buffalo, ny|462692354|Error|2|2
+73937081|buffalo, ny|0|Error|2|2
+73937081|buffalo, ny|26664021|Brooklyn, NY|2|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|46750113|Error|1|2
+73937081|buffalo, ny|21284675|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|255787091|Universal|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|37802286|(484)938-TKIK|1|2
+73937081|buffalo, ny|25149986|NY|1|2
+73937081|buffalo, ny|711275173|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|2983587353|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|14939981|Philly & Fi-Di NYC & 31Rock|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|2332737398|Error|1|2
+73937081|buffalo, ny|23937882|Stockholm|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|211403969|Error|1|2
+73937081|buffalo, ny|16285349|istanbul/bay area|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|42465046|Colorado, USA|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|600092225|Error|1|2
+73937081|buffalo, ny|29336025|everywhere u want 2 B !|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|473403676|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|18766079|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|18639239|Philadelphia, Pa|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|15669883|www.clubElke.com |1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|323428158|kitson town |1|2
+73937081|buffalo, ny|71740672|NYC/LA/WORLDWIDE|1|2
+73937081|buffalo, ny|21630687|Austin, Texas|1|2
+73937081|buffalo, ny|1117992019|now at -- @inf|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|24292285|Rita'Ri Photography|1|2
+73937081|buffalo, ny|22153538|Error|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|23832022|Worldwide |1|2
+5911122|buffalo, ny|0|Error|2|2
+5911122|buffalo, ny|14845555|DC via Buffalo|2|2
+5911122|buffalo, ny|65804986|Buffalo|1|2
+5911122|buffalo, ny|5436012|Buffalo, NY|1|2
+5911122|buffalo, ny|83490939|Buffalo, NY|1|2
+5911122|buffalo, ny|0|Error|1|2
+5911122|buffalo, ny|18791763|Washington, D.C.|1|2
+5911122|buffalo, ny|14951853|New York|1|2
+5911122|buffalo, ny|0|Error|1|2
+16583|buffalo, ny|0|Error|2|2
+16583|buffalo, ny|17233800|Cincinnati, OH|1|2
+16583|buffalo, ny|71428915|Error|1|2
+16583|buffalo, ny|14297292|Error|1|2
+16583|buffalo, ny|15414045|Inside the computer|1|2
+17842971|buffalo, ny|21677084|Toronto|1|2
+17842971|buffalo, ny|0|Error|1|2
+54283732|buffalo, ny|97363002|Error|2|2
+54283732|buffalo, ny|21233315|201 NW Loop 410, San Antonio|2|2
+54283732|buffalo, ny|61818410|Miami, Fl|2|2
+54283732|buffalo, ny|16180874|NYC|2|2
+54283732|buffalo, ny|394646016|Error|1|2
+54283732|buffalo, ny|0|Error|1|2
+54283732|buffalo, ny|18903930|Atlanta, GA|1|2
+54283732|buffalo, ny|2550850614|Error|1|2
+54283732|buffalo, ny|262270929|Error|1|2
+54283732|buffalo, ny|33860375|DE, Cologne|1|2
+54283732|buffalo, ny|19647172|London, UK|1|2
+54283732|buffalo, ny|0|Error|1|2
+54283732|buffalo, ny|21073251|Melbourne|1|2
+54283732|buffalo, ny|15579272|Chicago, IL|1|2
+54283732|buffalo, ny|0|Error|1|2
+54283732|buffalo, ny|144974334|Sin City  ( Las Vegas )|1|2
+54283732|buffalo, ny|25179577|Worldwide|1|2
+54283732|buffalo, ny|22539955|Cyberspace|1|2
+54283732|buffalo, ny|33908093|Error|1|2
+54283732|buffalo, ny|32507763|All over the world.|1|2
+54283732|buffalo, ny|0|Error|1|2
+54283732|buffalo, ny|24660192|Error|1|2
+19290107|buffalo, ny|19290107|Buffalo, NY|10|2
+19290107|buffalo, ny|17050431|Boston and Harlem |7|2
+19290107|buffalo, ny|14664725|Asheville, NC|6|2
+19290107|buffalo, ny|21425912|USA|4|2
+19290107|buffalo, ny|13455472|Boulder, CO|4|2
+19290107|buffalo, ny|16163790|Indianapolis|4|2
+19290107|buffalo, ny|38859709|Chicago|3|2
+19290107|buffalo, ny|12953812|Salt Lake City, UT|3|2
+19290107|buffalo, ny|14225711|Rochester, NY|3|2
+19290107|buffalo, ny|22082415|Washington, DC|3|2
+19290107|buffalo, ny|17925141|Chicago, IL |3|2
+19290107|buffalo, ny|34559468|Adelaide, SA|2|2
+19290107|buffalo, ny|12333902|Washington, DC|2|2
+19290107|buffalo, ny|0|Error|2|2
+19290107|buffalo, ny|16468365|#sanfrancisco|2|2
+19290107|buffalo, ny|86207427|Ottawa, Canada|2|2
+19290107|buffalo, ny|17390944|Error|2|2
+19290107|buffalo, ny|77009053|Richmond, VA|2|2
+19290107|buffalo, ny|8497082|Anguilla, B.W.I.|2|2
+19290107|buffalo, ny|18622889|San Francisco Bay Area|2|2
+19290107|buffalo, ny|77644880|Minneapolis, MN|2|2
+19290107|buffalo, ny|33644440|Dayton, Ohio|2|2
+19290107|buffalo, ny|15961434|Somewhere thinking|2|2
+19290107|buffalo, ny|63620705|Salt Lake City, UT|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|9637422|Washington, DC|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|52924454|Error|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|14212711|Washington, DC|1|2
+19290107|buffalo, ny|15338978|San Diego, California|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|15726782|Indianapolis|1|2
+19290107|buffalo, ny|277100664|East Meadow, Ny|1|2
+19290107|buffalo, ny|15358607|Phoenix|1|2
+19290107|buffalo, ny|7059772|NYC|1|2
+19290107|buffalo, ny|18262104|Western Massachusetts|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|22074624|Buffalo, NY|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|15488235|TN|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|22992918|New Jersey, USA|1|2
+19290107|buffalo, ny|28170382|North St. Paul, Minnesota|1|2
+19290107|buffalo, ny|14090262|New Jersey, USA|1|2
+19290107|buffalo, ny|19316225|Tacoma Wa.|1|2
+19290107|buffalo, ny|13672292|Error|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|17491102|@ home in my robe|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|54719663|iPhone: 42.960922,-78.903557|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|52472674|Buffalo, NY|1|2
+19290107|buffalo, ny|8918032|Louisville, Ky.|1|2
+19290107|buffalo, ny|11752272|NYC|1|2
+19290107|buffalo, ny|195077881|Error|1|2
+19290107|buffalo, ny|18353832|Boston MA|1|2
+19290107|buffalo, ny|6137192|Salt Lake City, Utah|1|2
+19290107|buffalo, ny|20155884|Chicago, IL|1|2
+19290107|buffalo, ny|17064079|Berkeley Heights, NJ|1|2
+19290107|buffalo, ny|16976485|Running shoes/bike seat/plane|1|2
+19290107|buffalo, ny|6944972|Marrakech/Istanbul/Montreal|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|53519741|Buffalo, NY|1|2
+19290107|buffalo, ny|16020182|Seattle|1|2
+19290107|buffalo, ny|16573363|Central Texas, USA|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|592616155|Error|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|42566902|Phoenix, AZ|1|2
+19290107|buffalo, ny|14669377|New York|1|2
+19290107|buffalo, ny|16006689|Right where I should be...|1|2
+19290107|buffalo, ny|16240106|Sugar Land, Texas|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|0|Error|1|2
+19290107|buffalo, ny|23158189|Los Angeles|1|2
+19290107|buffalo, ny|20659684|Chicago & Naperville, IL|1|2
+19290107|buffalo, ny|0|Error|1|2
+19752551|buffalo, ny|6017542|Global|1|2
+28147738|buffalo, ny|108788397|Error|3|2
+28147738|buffalo, ny|3041109617|Hamilton, Ontario|2|2
+28147738|buffalo, ny|28147738|Buffalo, NY|1|2
+28147738|buffalo, ny|14904704|Buffalo, NY, USA|1|2
+28147738|buffalo, ny|39147863|Pittsburgh, PA|1|2
+28147738|buffalo, ny|19373611|Dallas, TX|1|2
+28147738|buffalo, ny|15520253|Buffalo, NY|1|2
+28147738|buffalo, ny|217698782|Santa Cruz, CA|1|2
+28147738|buffalo, ny|0|Error|1|2
+28147738|buffalo, ny|0|Error|1|2
+28147738|buffalo, ny|0|Error|1|2
+28147738|buffalo, ny|0|Error|1|2
+28147738|buffalo, ny|24246978|Buffalo, NY|1|2
+28147738|buffalo, ny|0|Error|1|2
+30959996|buffalo, ny|0|Error|17|2
+30959996|buffalo, ny|0|Error|4|2
+30959996|buffalo, ny|13790282|Your Computer, USA|3|2
+30959996|buffalo, ny|0|Error|2|2
+30959996|buffalo, ny|0|Error|2|2
+30959996|buffalo, ny|17919972|Error|2|2
+30959996|buffalo, ny|19882775|Error|1|2
+30959996|buffalo, ny|0|Error|1|2
+30959996|buffalo, ny|21111883|DALLAS/LA|1|2
+30959996|buffalo, ny|0|Error|1|2
+33192262|buffalo, ny|33192262|Located Worldwide Like The Art of Graffiti|4|2
+33192262|buffalo, ny|18860840|Parts Unknown.|4|2
+33192262|buffalo, ny|26677179|The spot you outside of|3|2
+33192262|buffalo, ny|42986119|CT  by the way of  Yonkers NY|3|2
+33192262|buffalo, ny|24302398|Error|2|2
+33192262|buffalo, ny|0|Error|2|2
+33192262|buffalo, ny|18117780|Constantinople |2|2
+33192262|buffalo, ny|987981931|New York|2|2
+33192262|buffalo, ny|295308062|Error|2|2
+33192262|buffalo, ny|47514843|Pleasantville|2|2
+33192262|buffalo, ny|15717071|#partsunknown|1|2
+33192262|buffalo, ny|34720594|Where you want to be|1|2
+33192262|buffalo, ny|19264235|Buffalo, NY|1|2
+33192262|buffalo, ny|18931017|Buffalo, NY/ Toronto, Ont|1|2
+33192262|buffalo, ny|0|Error|1|2
+33192262|buffalo, ny|0|Error|1|2
+33192262|buffalo, ny|0|Error|1|2
+33192262|buffalo, ny|22471444|In a Booth at a Club near You|1|2
+33192262|buffalo, ny|0|Error|1|2
+33192262|buffalo, ny|0|Error|1|2
+33192262|buffalo, ny|23832022|Worldwide |1|2
+67404760|buffalo, ny|0|Error|2|2
+67404760|buffalo, ny|36902944|NC USA|1|2
+67404760|buffalo, ny|0|Error|1|2
+67404760|buffalo, ny|972651|Error|1|2
+67404760|buffalo, ny|37895093|Los Angeles|1|2
+67404760|buffalo, ny|15878890|Readington, NJ|1|2
+4359601|buffalo, ny|8625112|Buffalo, NY|3|2
+4359601|buffalo, ny|3094316548|Error|2|2
+4359601|buffalo, ny|6212782|Long Island, New York|2|2
+4359601|buffalo, ny|32560041|Ottawa, ON & Worldwide|1|2
+4359601|buffalo, ny|5912232|Wilmington, NC|1|2
+4359601|buffalo, ny|19715694|Buffalo, New York USA|1|2
+4359601|buffalo, ny|16071008|New York City|1|2
+4359601|buffalo, ny|12165362|Raleigh NC|1|2
+4359601|buffalo, ny|5912972|O hi O|1|2
+4359601|buffalo, ny|0|Error|1|2
+4359601|buffalo, ny|5896952|Buffalo, New York|1|2
+4359601|buffalo, ny|27019786|Buffalo, New York|1|2
+4359601|buffalo, ny|1415431|Taxachusetts|1|2
+4359601|buffalo, ny|0|Error|1|2
+4359601|buffalo, ny|9116582|Bend, OR|1|2
+4359601|buffalo, ny|13914462|Error|1|2
+4359601|buffalo, ny|82393545|Buffalo, NY|1|2
+4359601|buffalo, ny|15076324|Buffalo, NY|1|2
+4359601|buffalo, ny|17497626|Stockholm, Sweden|1|2
+4359601|buffalo, ny|2764191516|Error|1|2
+22580377|buffalo, ny|0|Error|2|2
+22580377|buffalo, ny|33324875|San Francisco, CA|2|2
+22580377|buffalo, ny|866361|Error|1|2
+22580377|buffalo, ny|26662186|Florida|1|2
+22580377|buffalo, ny|16672159|Error|1|2
+22580377|buffalo, ny|0|Error|1|2
+22580377|buffalo, ny|21554757|Florida|1|2
+22580377|buffalo, ny|105211981|Tampa, FL|1|2
+22580377|buffalo, ny|0|Error|1|2
+18781641|buffalo, ny|40244176|CC|1|2
+18781641|buffalo, ny|86979262|Error|1|2
+18781641|buffalo, ny|14125132|Error|1|2
+63595295|buffalo, ny|0|Error|4|2
+63595295|buffalo, ny|165490920|Error|4|2
+63595295|buffalo, ny|27883308|Buffalo, NY|4|2
+63595295|buffalo, ny|76055533|Orlando|3|2
+63595295|buffalo, ny|0|Error|2|2
+63595295|buffalo, ny|43736146|Venice, CA|2|2
+63595295|buffalo, ny|5896952|Buffalo, New York|2|2
+63595295|buffalo, ny|23967578|It all depends on the day...|2|2
+63595295|buffalo, ny|0|Error|1|2
+63595295|buffalo, ny|24779883|Dallas, Tx|1|2
+63595295|buffalo, ny|46186720|Error|1|2
+63595295|buffalo, ny|15650061|Error|1|2
+63595295|buffalo, ny|25158003|Error|1|2
+63595295|buffalo, ny|65804986|Buffalo|1|2
+63595295|buffalo, ny|0|Error|1|2
+63595295|buffalo, ny|0|Error|1|2
+63595295|buffalo, ny|0|Error|1|2
+63595295|buffalo, ny|0|Error|1|2
+38346040|buffalo, ny|345079147|Error|2|2
+38346040|buffalo, ny|19111192|U.S.A & Canadian News|2|2
+38346040|buffalo, ny|125223209|Error|1|2
+38346040|buffalo, ny|8729502|Error|1|2
+38346040|buffalo, ny|16490391|Error|1|2
+38346040|buffalo, ny|16567575|Miami, FL|1|2
+38346040|buffalo, ny|0|Error|1|2
+38346040|buffalo, ny|595822719|Error|1|2
+38346040|buffalo, ny|0|Error|1|2
+17769478|buffalo, ny|21035409|#firstclass |1|2
+17769478|buffalo, ny|6480732|Los Angeles|1|2
+42717128|buffalo, ny|0|Error|4|2
+42717128|buffalo, ny|15118418|Tempe, Az Salt Lake City, Utah|3|2
+42717128|buffalo, ny|0|Error|1|2
+42717128|buffalo, ny|0|Error|1|2
+42717128|buffalo, ny|17123073|Error|1|2
+42717128|buffalo, ny|2384071|Oakland, CA|1|2
+42717128|buffalo, ny|28562298|Paris, Lyon, Europe...|1|2
+58243257|buffalo, ny|35787166|The Pinkprint in stores NOW|5|2
+58243257|buffalo, ny|437238463|Error|2|2
+58243257|buffalo, ny|22087980|NYC|1|2
+58243257|buffalo, ny|0|Error|1|2
+58243257|buffalo, ny|166690050|Worldwide|1|2
+24690838|buffalo, ny|0|Error|2|2
+24690838|buffalo, ny|19397785|Error|1|2
+24690838|buffalo, ny|20301060|Broadstairs|1|2
+24690838|buffalo, ny|23348503|Error|1|2
+24690838|buffalo, ny|40237506|Error|1|2
+24690838|buffalo, ny|34192959|I am here |1|2
+77644880|buffalo, ny|19290107|Buffalo, NY|3|2
+77644880|buffalo, ny|77644880|Minneapolis, MN|2|2
+77644880|buffalo, ny|0|Error|1|2
+77644880|buffalo, ny|0|Error|1|2
+77644880|buffalo, ny|80949338|Error|1|2
+77644880|buffalo, ny|0|Error|1|2
+77644880|buffalo, ny|8320702|Kansas|1|2
+77644880|buffalo, ny|0|Error|1|2
+77644880|buffalo, ny|972651|Error|1|2
+77644880|buffalo, ny|16240106|Sugar Land, Texas|1|2
+77644880|buffalo, ny|2188196288|Error|1|2
+77644880|buffalo, ny|41671232|New York|1|2
+16303213|buffalo, ny|72883|Ho Chi Minh City, Vietnam|5|2
+16303213|buffalo, ny|759251|Error|2|2
+16303213|buffalo, ny|3375331|Buffalo NY|1|2
+16303213|buffalo, ny|12953672|Buffalo or Boston|1|2
+16303213|buffalo, ny|9411482|Atlanta, Georgia, USA|1|2
+16303213|buffalo, ny|14519457|Buffalo, NY|1|2
+50315925|buffalo, ny|17136315|Error|1|2
+16567925|buffalo, ny|18152325|Buffalo, NY|5|2
+16567925|buffalo, ny|16567925|Buffalo, NY|2|2
+16567925|buffalo, ny|21907142|Worldwide|1|2
+16567925|buffalo, ny|7888952|Amsterdam (Diep Zuid)|1|2
+16567925|buffalo, ny|15494962|London, UK|1|2
+16567925|buffalo, ny|1585915184|Error|1|2
+16567925|buffalo, ny|2478356274|Error|1|2
+16567925|buffalo, ny|17373011|NYC|1|2
+16567925|buffalo, ny|36130287|Error|1|2
+17883125|buffalo, ny|33045593|Munich, Germany|7|2
+17883125|buffalo, ny|53294736|www.tomsdesignport.com|5|2
+17883125|buffalo, ny|44514396|Los Angeles, CA|4|2
+17883125|buffalo, ny|6582782|Burlington, Vermont|2|2
+17883125|buffalo, ny|15754281|USA TODAY HQ, McLean, Va.|1|2
+17883125|buffalo, ny|51263711|Most places|1|2
+17883125|buffalo, ny|26573231|Buffalo, NY|1|2
+17883125|buffalo, ny|77888423|Chicago, Illinois|1|2
+17883125|buffalo, ny|33276774|718/Milan/ATL|1|2
+17883125|buffalo, ny|0|Error|1|2
+17883125|buffalo, ny|0|Error|1|2
+17883125|buffalo, ny|14420689|Vermont|1|2
+17883125|buffalo, ny|9534522|USA|1|2
+17883125|buffalo, ny|1380260274|Error|1|2
+17883125|buffalo, ny|27987646|Los Angeles, CA|1|2
+17883125|buffalo, ny|0|Error|1|2
+17883125|buffalo, ny|0|Error|1|2
+17883125|buffalo, ny|55366570|Buffalo, NY|1|2
+17883125|buffalo, ny|16467676|Boston, MA|1|2
+17883125|buffalo, ny|9288452|enjoy's partys|1|2
+14344332|buffalo, ny|41262250|WI|9|2
+14344332|buffalo, ny|40598490|Buffalo, NY|5|2
+14344332|buffalo, ny|1526583222|Error|3|2
+14344332|buffalo, ny|14519984|Getting to da choppah|1|2
+14344332|buffalo, ny|14237995|Fort Wayne, IN|1|2
+14344332|buffalo, ny|14681605|Body? L.A. Mind? N.J.|1|2
+14344332|buffalo, ny|18393773|a bit all over the place|1|2
+14344332|buffalo, ny|22125811|Australia|1|2
+58648687|buffalo, ny|0|Error|4|2
+58648687|buffalo, ny|41472834|Boulder CO|4|2
+58648687|buffalo, ny|0|Error|3|2
+58648687|buffalo, ny|139466382|LaRue, Texas|2|2
+58648687|buffalo, ny|73212036|VA|2|2
+58648687|buffalo, ny|23831682|Make Gumbo or Die Trying|1|2
+58648687|buffalo, ny|0|Error|1|2
+58648687|buffalo, ny|0|Error|1|2
+58648687|buffalo, ny|76407798|Away from yo ass.....|1|2
+58648687|buffalo, ny|73272301|TORONTO|1|2
+58648687|buffalo, ny|227149507|Error|1|2
+58648687|buffalo, ny|259035591|Error|1|2
+58648687|buffalo, ny|0|Error|1|2
+58648687|buffalo, ny|184756833|Plump N Prettyville, NJ|1|2
+9106882|buffalo, ny|14836438|Buffalo, NY USA|2|2
+9106882|buffalo, ny|16100683|Depew, NY|1|2
+9106882|buffalo, ny|0|Error|1|2
+9106882|buffalo, ny|719339851|Error|1|2
+9106882|buffalo, ny|0|Error|1|2
+9106882|buffalo, ny|39925753|New Haven|1|2
+9106882|buffalo, ny|22052036|New Haven, CT|1|2
+9106882|buffalo, ny|15520253|Buffalo, NY|1|2
+9106882|buffalo, ny|9416562|Stamford, CT|1|2
+9106882|buffalo, ny|9106882|Buffalo, NY|1|2
+9106882|buffalo, ny|39545383|Buffalo, NY|1|2
+67172004|buffalo, ny|0|Error|1|2
+34264535|buffalo, ny|9636292|Nashville, TN|4|2
+34264535|buffalo, ny|14790817|Nashville, TN|3|2
+34264535|buffalo, ny|46986175|Summerside, PEI|3|2
+34264535|buffalo, ny|44659603|Error|2|2
+34264535|buffalo, ny|44375380|Arizona|2|2
+34264535|buffalo, ny|18335041|Nashville|2|2
+34264535|buffalo, ny|0|Error|2|2
+34264535|buffalo, ny|25335271|USA|1|2
+34264535|buffalo, ny|17074822|Charleston, SC|1|2
+34264535|buffalo, ny|16912328|Nashville|1|2
+34264535|buffalo, ny|19565573|Buffalo, NY|1|2
+34264535|buffalo, ny|15651878|Nashville, TN|1|2
+34264535|buffalo, ny|0|Error|1|2
+34264535|buffalo, ny|0|Error|1|2
+34264535|buffalo, ny|17312518|Nashville, TN|1|2
+34264535|buffalo, ny|17196684|Atlanta, GA|1|2
+34264535|buffalo, ny|36456425|Error|1|2
+34264535|buffalo, ny|7163532|Nashville, TN|1|2
+34264535|buffalo, ny|14920785|Tishomingo, Ok|1|2
+7934212|buffalo, ny|45739055|iPhone: New Bedford, MA|4|2
+7934212|buffalo, ny|14351978|Austin|4|2
+7934212|buffalo, ny|31256349|bflo|4|2
+7934212|buffalo, ny|16079559|Wandsworth, London|2|2
+7934212|buffalo, ny|0|Error|2|2
+7934212|buffalo, ny|14264446|Error|2|2
+7934212|buffalo, ny|36443100|tour|2|2
+7934212|buffalo, ny|22238829|Kitchener, Ontario|2|2
+7934212|buffalo, ny|16017572|La Nova, NY|2|2
+7934212|buffalo, ny|14807622|Massachusetts, USA|2|2
+7934212|buffalo, ny|24041929|Error|2|2
+7934212|buffalo, ny|16050306|Pittsburgh, PA USA|2|2
+7934212|buffalo, ny|7934212|Long Beach, CA|2|2
+7934212|buffalo, ny|20286044|Pennsylvania|2|2
+7934212|buffalo, ny|34115019|My Solitary Fortress|2|2
+18230960|buffalo, ny|8094902|Charleston, SC|1|2
+18230960|buffalo, ny|6895752|London|1|2
+18230960|buffalo, ny|21440621|Jedi Temple: Worcester, UK |1|2
+18230960|buffalo, ny|394371749|Error|1|2
+18230960|buffalo, ny|283796045|belladonna land|1|2
+18230960|buffalo, ny|16558963|Cataract City Slums|1|2
+18230960|buffalo, ny|17788931|Greenville,SC|1|2
+18230960|buffalo, ny|14591786|buffalo, ny|1|2
+18755371|buffalo, ny|0|Error|10|2
+18755371|buffalo, ny|34780595|Westland, MI|4|2
+18755371|buffalo, ny|75659983|Georgia, US|1|2
+18755371|buffalo, ny|0|Error|1|2
+18755371|buffalo, ny|71433184|Hollywood, California|1|2
+18755371|buffalo, ny|24753189|Austin, TX|1|2
+18755371|buffalo, ny|40885516|Tampa Bay|1|2
+18755371|buffalo, ny|20012204|Error|1|2
+18755371|buffalo, ny|45911235|United States|1|2
+14883887|buffalo, ny|17932641|Error|3|2
+14883887|buffalo, ny|18739068|Tampa, Florida|2|2
+14883887|buffalo, ny|16209098|Buffalo, NY|2|2
+14883887|buffalo, ny|3305542107|Buffalo, NY|2|2
+14883887|buffalo, ny|3060631|Error|2|2
+14883887|buffalo, ny|15029296|San Francisco, CA|2|2
+14883887|buffalo, ny|1877211|North Tonawanda, NY|2|2
+14883887|buffalo, ny|30823624|Bangladesh|1|2
+14883887|buffalo, ny|18055540|Chicago, IL|1|2
+14883887|buffalo, ny|15740583|New England|1|2
+14883887|buffalo, ny|14883887|Buffalo, NY|1|2
+14883887|buffalo, ny|63053907|Error|1|2
+14883887|buffalo, ny|68018736|Error|1|2
+14883887|buffalo, ny|3044283614|Error|1|2
+14883887|buffalo, ny|12675272|Error|1|2
+18029839|buffalo, ny|0|Error|7|2
+18029839|buffalo, ny|19246280|Dover, Ohio|2|2
+18029839|buffalo, ny|17622160|Traverse City, MI|2|2
+18029839|buffalo, ny|22682945|Arizona and New York|2|2
+18029839|buffalo, ny|2676261|Lancaster, NY|1|2
+18029839|buffalo, ny|2935376468|Error|1|2
+18029839|buffalo, ny|14389031|Toronto, Ontario, Canada|1|2
+18029839|buffalo, ny|0|Error|1|2
+18029839|buffalo, ny|13639422|New Zealand|1|2
+30746237|buffalo, ny|0|Error|3|2
+30746237|buffalo, ny|814523521|Error|2|2
+30746237|buffalo, ny|24100116|Newport News VA|2|2
+30746237|buffalo, ny|417657424|Buffalo, NY|1|2
+30746237|buffalo, ny|14133436|Beverly Hills, CA 90210|1|2
+30746237|buffalo, ny|0|Error|1|2
+30746237|buffalo, ny|14864233|Dallas, TX|1|2
+30746237|buffalo, ny|16416015|Fort Collins, CO|1|2
+30746237|buffalo, ny|0|Error|1|2
+30746237|buffalo, ny|0|Error|1|2
+30746237|buffalo, ny|0|Error|1|2
+30746237|buffalo, ny|0|Error|1|2
+30746237|buffalo, ny|0|Error|1|2
+30746237|buffalo, ny|0|Error|1|2
+30746237|buffalo, ny|0|Error|1|2
+30746237|buffalo, ny|0|Error|1|2
+30746237|buffalo, ny|14085655|Boston|1|2
+18032857|buffalo, ny|6213192|the sincerest pumpkin patch |4|2
+18032857|buffalo, ny|14493531|Arizona|3|2
+18032857|buffalo, ny|2177197798|Error|3|2
+18032857|buffalo, ny|17272364|Buffalo, NY|2|2
+18032857|buffalo, ny|6414382|Error|1|2
+18032857|buffalo, ny|14501432|Phoenix, AZ -ish|1|2
+19344274|buffalo, ny|2225654597|Pittsburgh, PA|3|2
+19344274|buffalo, ny|5896952|Buffalo, New York|2|2
+19344274|buffalo, ny|526158142|Error|1|2
+19344274|buffalo, ny|25547332|Buffalo, NY|1|2
+19344274|buffalo, ny|17818271|Buffalo, NY|1|2
+19344274|buffalo, ny|38786575|Wherever drinks are sold|1|2
+19344274|buffalo, ny|21110924|Buffalo, NY|1|2
+19344274|buffalo, ny|0|Error|1|2
+16986690|buffalo, ny|24656929|Body in LA, heart in Chicago|7|2
+16986690|buffalo, ny|79820094|Error|7|2
+16986690|buffalo, ny|1308136146|Error|6|2
+16986690|buffalo, ny|289145508|Error|5|2
+16986690|buffalo, ny|16330504|WNY|4|2
+16986690|buffalo, ny|18438022|Brooklyn, NY|4|2
+16986690|buffalo, ny|21942075|iPhone: 42.918549,-78.880318|3|2
+16986690|buffalo, ny|245114140|Toronto, Ontario|3|2
+16986690|buffalo, ny|286288864|Error|2|2
+16986690|buffalo, ny|21879024|San Diego & world at large|2|2
+16986690|buffalo, ny|24929621|Error|2|2
+16986690|buffalo, ny|17929027|The Ruff|1|2
+16986690|buffalo, ny|0|Error|1|2
+16986690|buffalo, ny|428333|Everywhere|1|2
+16986690|buffalo, ny|18457213|Newport Beach, CA|1|2
+16986690|buffalo, ny|16986690|Buffalo, New York|1|2
+16986690|buffalo, ny|0|Error|1|2
+16986690|buffalo, ny|6297852|orbital operations / Southend|1|2
+16986690|buffalo, ny|0|Error|1|2
+16986690|buffalo, ny|809760|Nebraska and NYC|1|2
+16986690|buffalo, ny|19663572|Jersey|1|2
+16986690|buffalo, ny|1436461|Washington, DC|1|2
+16986690|buffalo, ny|0|Error|1|2
+16986690|buffalo, ny|15318882|Orange County|1|2
+16986690|buffalo, ny|47569242|San Francisco|1|2
+16986690|buffalo, ny|33015892|Buffalo|1|2
+37438606|buffalo, ny|414312644|Error|10|2
+37438606|buffalo, ny|0|Error|4|2
+37438606|buffalo, ny|41678714|Florida|3|2
+37438606|buffalo, ny|28534252|Poulterland|3|2
+37438606|buffalo, ny|22312245|Glasgow, Scotland|2|2
+37438606|buffalo, ny|1249425925|Error|2|2
+37438606|buffalo, ny|3326593209|Error|2|2
+37438606|buffalo, ny|24929621|Error|2|2
+37438606|buffalo, ny|7861312|Los Angeles, CA|1|2
+37438606|buffalo, ny|17343795|Tampa, Florida|1|2
+37438606|buffalo, ny|57645879|Error|1|2
+37438606|buffalo, ny|30364057|state of Palestine |1|2
+37438606|buffalo, ny|42706602|Taiwan |1|2
+37438606|buffalo, ny|24083587|England|1|2
+37438606|buffalo, ny|8984572|Orlando, Florida|1|2
+37438606|buffalo, ny|37531241|Orlando |1|2
+37438606|buffalo, ny|20248699|Southern England UK|1|2
+36916887|buffalo, ny|0|Error|5|2
+36916887|buffalo, ny|2539686492|Error|4|2
+36916887|buffalo, ny|445941460|WORLDWIDE|3|2
+36916887|buffalo, ny|17878322|Under Your Skin|2|2
+36916887|buffalo, ny|35067473|In your ear|2|2
+36916887|buffalo, ny|18408253|Brooklyn, NY|2|2
+36916887|buffalo, ny|0|Error|2|2
+36916887|buffalo, ny|0|Error|2|2
+36916887|buffalo, ny|55352607|Western New York|2|2
+36916887|buffalo, ny|27865764|TORONTO MONTREAL DMV PA |2|2
+36916887|buffalo, ny|18088038|New York|2|2
+36916887|buffalo, ny|1489158620|Arizona, USA|1|2
+36916887|buffalo, ny|18069121|New York, NY|1|2
+36916887|buffalo, ny|0|Error|1|2
+36916887|buffalo, ny|19747076|Gulf Coast |1|2
+36916887|buffalo, ny|25110374|Error|1|2
+36916887|buffalo, ny|0|Error|1|2
+36916887|buffalo, ny|14728116|Buffalo, NY|1|2
+36916887|buffalo, ny|15962180|Somewhere *Writing* |1|2
+36916887|buffalo, ny|17741758|Dreieich, Germany|1|2
+36916887|buffalo, ny|30967461|Boston|1|2
+36916887|buffalo, ny|0|Error|1|2
+36916887|buffalo, ny|18234623|Atlanta|1|2
+36916887|buffalo, ny|0|Error|1|2
+36916887|buffalo, ny|76739740|Treated Crew 20/3|1|2
+36916887|buffalo, ny|16567925|Buffalo, NY|1|2
+36916887|buffalo, ny|66573185|Error|1|2
+36916887|buffalo, ny|0|Error|1|2
+36916887|buffalo, ny|17913122|New York|1|2
+36916887|buffalo, ny|0|Error|1|2
+36916887|buffalo, ny|22471444|In a Booth at a Club near You|1|2
+36916887|buffalo, ny|0|Error|1|2
+36916887|buffalo, ny|0|Error|1|2
+36916887|buffalo, ny|944123270|Error|1|2
+36916887|buffalo, ny|1266396133|Canada|1|2
+36916887|buffalo, ny|0|Error|1|2
+36916887|buffalo, ny|38020886|Error|1|2
+36916887|buffalo, ny|45916491|queens new york city|1|2
+36916887|buffalo, ny|43443047|Error|1|2
+36916887|buffalo, ny|19310109|Error|1|2
+36916887|buffalo, ny|0|Error|1|2
+36916887|buffalo, ny|14090017|Los Angeles, CA|1|2
+36916887|buffalo, ny|64620299|New York City|1|2
+36916887|buffalo, ny|17401691|Bronx,NY|1|2
+36916887|buffalo, ny|1205501142|Error|1|2
+36916887|buffalo, ny|0|Error|1|2
+36916887|buffalo, ny|23832022|Worldwide |1|2
+22345896|buffalo, ny|22617559|Brooklyn/Houston|4|2
+22345896|buffalo, ny|1154191734|Error|1|2
+22345896|buffalo, ny|22345896|Error|1|2
+22345896|buffalo, ny|18931017|Buffalo, NY/ Toronto, Ont|1|2
+22345896|buffalo, ny|17117825|Los Angeles|1|2
+22345896|buffalo, ny|0|Error|1|2
+22345896|buffalo, ny|4319961|Error|1|2
+22345896|buffalo, ny|40066461|Global|1|2
+22345896|buffalo, ny|20481358|Brooklyn, New York|1|2
+22345896|buffalo, ny|12807582|New York, NY|1|2
+22345896|buffalo, ny|16567925|Buffalo, NY|1|2
+22345896|buffalo, ny|0|Error|1|2
+22345896|buffalo, ny|609715298|Error|1|2
+22345896|buffalo, ny|0|Error|1|2
+22345896|buffalo, ny|19942991|Cleveland, OH|1|2
+22345896|buffalo, ny|22471444|In a Booth at a Club near You|1|2
+22345896|buffalo, ny|17721952|CHICAGO|1|2
+22345896|buffalo, ny|0|Error|1|2
+22345896|buffalo, ny|0|Error|1|2
+22345896|buffalo, ny|0|Error|1|2
+22345896|buffalo, ny|0|Error|1|2
+22345896|buffalo, ny|39430970|Buffalo|1|2
+22345896|buffalo, ny|33260189|Upstate, New York|1|2
+22345896|buffalo, ny|27271249|Harlem World, USA |1|2
+22345896|buffalo, ny|84145659|Biggest Parties|1|2
+22345896|buffalo, ny|0|Error|1|2
+22345896|buffalo, ny|16289241|Cleveland,Ohio |1|2
+19616211|buffalo, ny|293155760|Error|12|2
+19616211|buffalo, ny|16149180|In the heart of Europe ~_^|2|2
+19616211|buffalo, ny|0|Error|2|2
+19616211|buffalo, ny|62456757|Error|2|2
+19616211|buffalo, ny|126560511|on the wall @ ya hubby house|2|2
+19616211|buffalo, ny|110909073|Error|2|2
+19616211|buffalo, ny|55055875|Manchester |2|2
+19616211|buffalo, ny|35094637|New York City|2|2
+19616211|buffalo, ny|0|Error|1|2
+19616211|buffalo, ny|28364092|Toronto/Nashville|1|2
+19616211|buffalo, ny|19616211|Buffalo, NY|1|2
+19616211|buffalo, ny|0|Error|1|2
+19616211|buffalo, ny|2712594804|Error|1|2
+19616211|buffalo, ny|21281317|NEW EP - Masterpiece Theater Act 1id here! Hit that link :)|1|2
+19616211|buffalo, ny|16235006|Error|1|2
+19616211|buffalo, ny|0|Error|1|2
+19616211|buffalo, ny|0|Error|1|2
+19616211|buffalo, ny|27189793|Recaliberating...|1|2
+19616211|buffalo, ny|26061730|Error|1|2
+19616211|buffalo, ny|25506150|New York|1|2
+19616211|buffalo, ny|0|Error|1|2
+19616211|buffalo, ny|0|Error|1|2
+61690399|buffalo, ny|21618308|Error|1|2
+32985873|buffalo, ny|0|Error|9|2
+32985873|buffalo, ny|22676390|New York, NY|4|2
+32985873|buffalo, ny|23967578|It all depends on the day...|2|2
+32985873|buffalo, ny|78184379|Santa Monica/Chicago |1|2
+32985873|buffalo, ny|14070799|Philadelphia|1|2
+32985873|buffalo, ny|15116570|Error|1|2
+32985873|buffalo, ny|27625739|Rattlesnake Speedway|1|2
+54744778|buffalo, ny|25176453|near charlotte, nc...|15|2
+54744778|buffalo, ny|27652350|Tampa, FL|5|2
+54744778|buffalo, ny|20228064|Error|5|2
+54744778|buffalo, ny|23911778|Los Angeles|3|2
+54744778|buffalo, ny|0|Error|2|2
+54744778|buffalo, ny|44263193|Buffalo|2|2
+54744778|buffalo, ny|28103642|central iowa|1|2
+54744778|buffalo, ny|25372652|Fuse TV|1|2
+54744778|buffalo, ny|266981062|Error|1|2
+54744778|buffalo, ny|0|Error|1|2
+54744778|buffalo, ny|0|Error|1|2
+41512163|buffalo, ny|0|Error|5|2
+41512163|buffalo, ny|302391868|Error|4|2
+41512163|buffalo, ny|0|Error|3|2
+41512163|buffalo, ny|15089431|Harbinger, NC, U.S.A.|3|2
+41512163|buffalo, ny|16447060|Lefrak City 97-30 57th ave|2|2
+41512163|buffalo, ny|20541338|New York City|2|2
+41512163|buffalo, ny|18429902|NYC|2|2
+41512163|buffalo, ny|390539441|Error|2|2
+41512163|buffalo, ny|1008621056|Error|1|2
+41512163|buffalo, ny|0|Error|1|2
+41775795|buffalo, ny|369134084|Error|2|2
+41775795|buffalo, ny|35586563|Error|1|2
+41775795|buffalo, ny|49311668|Boston|1|2
+41775795|buffalo, ny|8729502|Error|1|2
+41775795|buffalo, ny|51263592|New York|1|2
+41775795|buffalo, ny|941724637|Error|1|2
+41775795|buffalo, ny|21254264|Los Angeles, CA|1|2
+41775795|buffalo, ny|27048403|Where I Stand|1|2
+41775795|buffalo, ny|1382832414|Error|1|2
+17994817|buffalo, ny|17517444|World Wide|23|2
+17994817|buffalo, ny|42106148|USA|6|2
+17994817|buffalo, ny|2859105082|Error|4|2
+17994817|buffalo, ny|756323826|Worldwide|4|2
+17994817|buffalo, ny|526628253|Error|4|2
+17994817|buffalo, ny|17918575|FLORIDA|3|2
+17994817|buffalo, ny|0|Error|3|2
+17994817|buffalo, ny|25967150|ATLANTA,GA | NYC | MIAMI|3|2
+17994817|buffalo, ny|41889880|St. Louis / MO|3|2
+17994817|buffalo, ny|0|Error|3|2
+17994817|buffalo, ny|0|Error|3|2
+17994817|buffalo, ny|24696870|New York/New Jersey |2|2
+17994817|buffalo, ny|18126991|Los Angeles, California|2|2
+17994817|buffalo, ny|18893703|VA |2|2
+17994817|buffalo, ny|31802290|Midwest|2|2
+17994817|buffalo, ny|15205909|Baltimore, MD|1|2
+17994817|buffalo, ny|64547859|GLOBAL|1|2
+17994817|buffalo, ny|15459270|SC |1|2
+17994817|buffalo, ny|14781072|wichita ks|1|2
+17994817|buffalo, ny|2859415636|Error|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|262992114|Error|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|28581873|BRONX/HARLEM, NEW YORK CITY|1|2
+17994817|buffalo, ny|89381680|Error|1|2
+17994817|buffalo, ny|16637245|Error|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|42055361|Memphis and All Points  |1|2
+17994817|buffalo, ny|64044069|Error|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|35787166|The Pinkprint in stores NOW|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|35041392|THE ONLY D DETROIT MI |1|2
+17994817|buffalo, ny|4651761|New York, NY|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|22114345|D-boyville aka Detroit|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|300048417|Barcelona, Spain|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|39784232|In my head... In their hearts|1|2
+17994817|buffalo, ny|67577692|WORLD-WIDE|1|2
+17994817|buffalo, ny|17994817|Tampa, FL|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|18359268|Taking it to the next level|1|2
+17994817|buffalo, ny|172711898|Error|1|2
+17994817|buffalo, ny|27647694|NEW YORK CITY|1|2
+32865052|buffalo, ny|16206267|Nashville, TN|1|2
+60390176|buffalo, ny|27625739|Rattlesnake Speedway|4|2
+60390176|buffalo, ny|0|Error|2|2
+60390176|buffalo, ny|0|Error|1|2
+60390176|buffalo, ny|22880205|Miami Beach FL via Buffalo NY|1|2
+60390176|buffalo, ny|437787002|Error|1|2
+60390176|buffalo, ny|27032850|Error|1|2
+60390176|buffalo, ny|17642856|Boston, MA|1|2
+60390176|buffalo, ny|19768193|LA, CA|1|2
+60390176|buffalo, ny|21035409|#firstclass |1|2
+60390176|buffalo, ny|77608185|Brooklyn|1|2
+60390176|buffalo, ny|0|Error|1|2
+60390176|buffalo, ny|813286|Washington, DC|1|2
+60390176|buffalo, ny|51597791|LA/Philly/Everywhere|1|2
+17531042|buffalo, ny|21637764|iPhone: 29.547136,-98.324538|9|2
+17531042|buffalo, ny|14115199|Right here|6|2
+17531042|buffalo, ny|29821672|iPhone: 40.965370,-72.372917|3|2
+17531042|buffalo, ny|7565572|Snapchat, thatchman1|2|2
+17531042|buffalo, ny|0|Error|2|2
+17531042|buffalo, ny|14661873|iPhone: 39.981949,-83.004814|1|2
+17531042|buffalo, ny|19957924|New Jersey/ NYC|1|2
+17531042|buffalo, ny|1510793690|Error|1|2
+17531042|buffalo, ny|0|Error|1|2
+17531042|buffalo, ny|18156714|Indianapolis|1|2
+17531042|buffalo, ny|0|Error|1|2
+17531042|buffalo, ny|19233509|Chicago, IL|1|2
+15305338|buffalo, ny|19843116|Columbus, OH|3|2
+15305338|buffalo, ny|14472314|New York|3|2
+15305338|buffalo, ny|21966352|Error|2|2
+15305338|buffalo, ny|4359601|Buffalo, NY|1|2
+15305338|buffalo, ny|14444995|Shuffle off to Buffalo|1|2
+15305338|buffalo, ny|20973475|The Internetz|1|2
+15305338|buffalo, ny|10155282|Toronto, ON|1|2
+15305338|buffalo, ny|66885687|Error|1|2
+15305338|buffalo, ny|15963877|Buffalo, NY|1|2
+15305338|buffalo, ny|417657424|Buffalo, NY|1|2
+15305338|buffalo, ny|72883|Ho Chi Minh City, Vietnam|1|2
+15305338|buffalo, ny|78924337|Manassas, VA|1|2
+15650314|buffalo, ny|16130242|Buffalo, New York|2|2
+15650314|buffalo, ny|0|Error|2|2
+15650314|buffalo, ny|14935672|Mount Sinai, NY|1|2
+15650314|buffalo, ny|0|Error|1|2
+15650314|buffalo, ny|14445850|Buffalo, NY|1|2
+15650314|buffalo, ny|0|Error|1|2
+15650314|buffalo, ny|8308622|San Francisco|1|2
+15650314|buffalo, ny|16974697|NYC|1|2
+15650314|buffalo, ny|0|Error|1|2
+56598570|buffalo, ny|56598570|Buffalo, NY|5|2
+56598570|buffalo, ny|30063187|Nashville, TN|2|2
+56598570|buffalo, ny|0|Error|1|2
+56598570|buffalo, ny|0|Error|1|2
+56598570|buffalo, ny|36443100|tour|1|2
+56598570|buffalo, ny|16364793|Boston + Los Angeles + MV|1|2
+56598570|buffalo, ny|59380408|OR|1|2
+56598570|buffalo, ny|245458935|Error|1|2
+56598570|buffalo, ny|17897496|Buffalo, New York, USA|1|2
+56598570|buffalo, ny|0|Error|1|2
+56598570|buffalo, ny|0|Error|1|2
+56598570|buffalo, ny|458590533|Error|1|2
+56598570|buffalo, ny|0|Error|1|2
+56598570|buffalo, ny|68765901|Buffalo, New York|1|2
+56598570|buffalo, ny|0|Error|1|2
+56598570|buffalo, ny|47956276|here and there|1|2
+56598570|buffalo, ny|0|Error|1|2
+17146919|buffalo, ny|15706749|Lyndhurst, NJ|3|2
+17146919|buffalo, ny|71428915|Error|3|2
+17146919|buffalo, ny|0|Error|1|2
+17146919|buffalo, ny|16531478|Phoenix, AZ|1|2
+17146919|buffalo, ny|21348939|Austin, Texas|1|2
+17146919|buffalo, ny|4953271|Earth|1|2
+17146919|buffalo, ny|972651|Error|1|2
+19771956|buffalo, ny|7065032|Brisbane, QLD, Australia|2|2
+19771956|buffalo, ny|19052615|Phoenix, AZ|2|2
+19771956|buffalo, ny|972651|Error|2|2
+19771956|buffalo, ny|19006934|Global|1|2
+19771956|buffalo, ny|0|Error|1|2
+19771956|buffalo, ny|21116178|Las Vegas|1|2
+19771956|buffalo, ny|215700800|Galt's Gulch|1|2
+19771956|buffalo, ny|22307857|Error|1|2
+19771956|buffalo, ny|54060173|iPhone: 34.078935,-118.323917|1|2
+19771956|buffalo, ny|0|Error|1|2
+19771956|buffalo, ny|48169946|Hollywood South|1|2
+19771956|buffalo, ny|0|Error|1|2
+19771956|buffalo, ny|7799412|Prague, Czech Republic|1|2
+19771956|buffalo, ny|16974352|USA|1|2
+27245547|buffalo, ny|31256349|bflo|3|2
+25282084|buffalo, ny|28814582|instagram patticakes34|3|2
+25282084|buffalo, ny|42903172|Buffalo, NY|2|2
+25282084|buffalo, ny|65804986|Buffalo|2|2
+25282084|buffalo, ny|16619508|Buffalo, NY|1|2
+25282084|buffalo, ny|76055533|Orlando|1|2
+25282084|buffalo, ny|0|Error|1|2
+25282084|buffalo, ny|15846407|California|1|2
+25282084|buffalo, ny|0|Error|1|2
+38127568|buffalo, ny|0|Error|1|2
+38127568|buffalo, ny|25301103|The Valley Of Doom, NY|1|2
+38127568|buffalo, ny|20978103|Direct2Dane@DaneCook.com|1|2
+38127568|buffalo, ny|504056711|Error|1|2
+38127568|buffalo, ny|38127568|Buffalo, NY|1|2
+38127568|buffalo, ny|13632|Error|1|2
+22668923|buffalo, ny|27913200|Error|1|2
+22668923|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|232619338|Error|2|2
+22914240|buffalo, ny|0|Error|2|2
+22914240|buffalo, ny|19495715|New York City|2|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|19273104|Silicon Valley|1|2
+22914240|buffalo, ny|17790726|Missouri|1|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|891242042|Silver Spring, MD|1|2
+22914240|buffalo, ny|19734025|Brisbane, Australia|1|2
+22914240|buffalo, ny|55678018|New York|1|2
+22914240|buffalo, ny|88425861|Error|1|2
+22914240|buffalo, ny|20216489|Error|1|2
+22914240|buffalo, ny|44765757|Moorpark, California|1|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|17448943|Washington, D.C.|1|2
+22914240|buffalo, ny|14118706|Fort Lauderdale, FL|1|2
+22914240|buffalo, ny|83186400|Error|1|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|15195171|Washington DC|1|2
+22914240|buffalo, ny|19181549|919USA  www brain mindmap tv|1|2
+22914240|buffalo, ny|38201319|world|1|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|72190937|Philadelphia, PA|1|2
+22914240|buffalo, ny|50586654|Pearl City, Hawaii|1|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|16603134|New Jersey|1|2
+22914240|buffalo, ny|69270288|UK|1|2
+22914240|buffalo, ny|28608455|Washington, DC |1|2
+22914240|buffalo, ny|33905620|Baltimore, MD|1|2
+22914240|buffalo, ny|16633016|Washington, DC|1|2
+22914240|buffalo, ny|1858463196|Error|1|2
+22914240|buffalo, ny|757492741|403 5th Ave Campbell River BC|1|2
+22914240|buffalo, ny|30202451|Selinsgrove, Pennsylvania|1|2
+22914240|buffalo, ny|18679867|Atlanta GA|1|2
+22914240|buffalo, ny|12505022|Toronto, Ontario|1|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|16044589|Buffalo, NY|1|2
+22914240|buffalo, ny|83149258|Error|1|2
+22914240|buffalo, ny|21938868|Minneapolis, MN|1|2
+22914240|buffalo, ny|2693928486|Error|1|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|1268611723|Las Vegas|1|2
+22914240|buffalo, ny|1113541|USA -- Europe|1|2
+22914240|buffalo, ny|22854065|Error|1|2
+22914240|buffalo, ny|18960161|Canada|1|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|76402442|Global|1|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|9295102|Bryant Pond, Maine|1|2
+22914240|buffalo, ny|18787613|Baltimore, MD|1|2
+22914240|buffalo, ny|0|Error|1|2
+22914240|buffalo, ny|24899874|Charleston, SC to the world|1|2
+22914240|buffalo, ny|67457864|Buffalo, NY|1|2
+22914240|buffalo, ny|52522863|Spokane, WA|1|2
+22914240|buffalo, ny|55857405|Little Rock, Arkansas|1|2
+22914240|buffalo, ny|18208763|Washington, D.C.|1|2
+22914240|buffalo, ny|15483296|Washington, DC|1|2
+22914240|buffalo, ny|70435417|Orlando, FL|1|2
+22914240|buffalo, ny|29657072|US|1|2
+22914240|buffalo, ny|616173|Hong Kong|1|2
+22914240|buffalo, ny|26525213|Buffalo, New York|1|2
+22914240|buffalo, ny|14287094|New York, NY|1|2
+22914240|buffalo, ny|75399977|Error|1|2
+22536395|buffalo, ny|401409664|Error|1|2
+22536395|buffalo, ny|2208373367|Western New York|1|2
+14672651|buffalo, ny|11104482|buffalo|2|2
+14672651|buffalo, ny|19658011|Cambridgeshire, UK|2|2
+14672651|buffalo, ny|86331433|Morgantown, WV|2|2
+14672651|buffalo, ny|814641|Boston|1|2
+14672651|buffalo, ny|0|Error|1|2
+14672651|buffalo, ny|0|Error|1|2
+14672651|buffalo, ny|740983|San Francisco|1|2
+14672651|buffalo, ny|23285938|Seattle, Washington|1|2
+14672651|buffalo, ny|22661535|tamworth|1|2
+14672651|buffalo, ny|18510860|Error|1|2
+14672651|buffalo, ny|0|Error|1|2
+14672651|buffalo, ny|1311321182|DC, NY, SF|1|2
+14672651|buffalo, ny|0|Error|1|2
+14672651|buffalo, ny|5689762|Raleigh, North Carolina|1|2
+14672651|buffalo, ny|0|Error|1|2
+14672651|buffalo, ny|14365789|NY NY baby|1|2
+14672651|buffalo, ny|14130714|New York|1|2
+14672651|buffalo, ny|0|Error|1|2
+14672651|buffalo, ny|0|Error|1|2
+14672651|buffalo, ny|16915572|Melbourne, Australia|1|2
+14672651|buffalo, ny|0|Error|1|2
+14672651|buffalo, ny|0|Error|1|2
+55961514|buffalo, ny|0|Error|1|2
+21096538|buffalo, ny|78400403|Buffalo, NY|4|2
+21096538|buffalo, ny|47996349|Berkeley|2|2
+21096538|buffalo, ny|19394550|Bozeman, MT|2|2
+21096538|buffalo, ny|17642856|Boston, MA|2|2
+21096538|buffalo, ny|1616987257|Error|2|2
+21096538|buffalo, ny|0|Error|1|2
+21096538|buffalo, ny|41606204|Error|1|2
+21096538|buffalo, ny|289024724|Error|1|2
+21096538|buffalo, ny|14066971|San Francisco|1|2
+21096538|buffalo, ny|280597089|Error|1|2
+21096538|buffalo, ny|0|Error|1|2
+21096538|buffalo, ny|46147543|Charlotte, Michigan|1|2
+21096538|buffalo, ny|16973902|Nashville, Tennessee|1|2
+21096538|buffalo, ny|40123097|Error|1|2
+21096538|buffalo, ny|0|Error|1|2
+21096538|buffalo, ny|19799276|France|1|2
+21096538|buffalo, ny|56445405|Everywhere!|1|2
+21096538|buffalo, ny|43689684|54.6448,-1.2391|1|2
+21096538|buffalo, ny|0|Error|1|2
+21096538|buffalo, ny|3375331|Buffalo NY|1|2
+21096538|buffalo, ny|2491451479|Milton Keynes|1|2
+21096538|buffalo, ny|0|Error|1|2
+21096538|buffalo, ny|14695066|Everywhere via the web|1|2
+21096538|buffalo, ny|18620441|Tampa Bay|1|2
+21096538|buffalo, ny|33616056|Alberta|1|2
+21096538|buffalo, ny|2897927006|Error|1|2
+21096538|buffalo, ny|18231339|Mercer County, New Jersey|1|2
+21096538|buffalo, ny|19910740|NJ @sweetsoaps on Periscope|1|2
+17952768|buffalo, ny|0|Error|7|2
+17952768|buffalo, ny|49858193|between the moon & stars|4|2
+17952768|buffalo, ny|2971579258|Error|3|2
+17952768|buffalo, ny|0|Error|1|2
+17952768|buffalo, ny|1713611041|@DebbyRyan|1|2
+17952768|buffalo, ny|14218234|Error|1|2
+17952768|buffalo, ny|0|Error|1|2
+17952768|buffalo, ny|1063678375|Error|1|2
+17952768|buffalo, ny|0|Error|1|2
+17952768|buffalo, ny|16541085|pale blue dot |1|2
+19002894|buffalo, ny|66482863|Rochester, New York|4|2
+19002894|buffalo, ny|49695881|East Aurora, NY|3|2
+19002894|buffalo, ny|982725576|Error|3|2
+19002894|buffalo, ny|209861674|SoFlo|3|2
+19002894|buffalo, ny|21278412|Where the Cash At|2|2
+19002894|buffalo, ny|0|Error|2|2
+19002894|buffalo, ny|22437611|New York, NY|1|2
+19002894|buffalo, ny|0|Error|1|2
+19002894|buffalo, ny|11081432|Buffalo, NY|1|2
+19002894|buffalo, ny|2762067813|Error|1|2
+19002894|buffalo, ny|16567925|Buffalo, NY|1|2
+19002894|buffalo, ny|609715298|Error|1|2
+19002894|buffalo, ny|71303208|Buffalo, NY|1|2
+19002894|buffalo, ny|166690050|Worldwide|1|2
+19002894|buffalo, ny|19575977|THE WORLD|1|2
+29751916|buffalo, ny|18108977|Places Unknown|6|2
+29751916|buffalo, ny|347434600|Slippery Rock, PA|4|2
+29751916|buffalo, ny|39430970|Buffalo|2|2
+29751916|buffalo, ny|0|Error|2|2
+29751916|buffalo, ny|0|Error|2|2
+29751916|buffalo, ny|295308062|Error|1|2
+29751916|buffalo, ny|18152325|Buffalo, NY|1|2
+29751916|buffalo, ny|0|Error|1|2
+29751916|buffalo, ny|98324747|@TREALCITY #GLVT231-49442|1|2
+29751916|buffalo, ny|160465552|Error|1|2
+29751916|buffalo, ny|0|Error|1|2
+29751916|buffalo, ny|16567925|Buffalo, NY|1|2
+29751916|buffalo, ny|0|Error|1|2
+44739865|buffalo, ny|28669612|Error|5|2
+44739865|buffalo, ny|0|Error|3|2
+44739865|buffalo, ny|0|Error|3|2
+44739865|buffalo, ny|264036590|Error|2|2
+44739865|buffalo, ny|63791435|Error|2|2
+44739865|buffalo, ny|0|Error|2|2
+44739865|buffalo, ny|326859892|Error|1|2
+44739865|buffalo, ny|0|Error|1|2
+44739865|buffalo, ny|47817812|NY|1|2
+44739865|buffalo, ny|27432900|Buffalo, NY|1|2
+44739865|buffalo, ny|43404609|Atlanta, NYC|1|2
+44739865|buffalo, ny|0|Error|1|2
+44739865|buffalo, ny|201504729|Error|1|2
+44739865|buffalo, ny|0|Error|1|2
+44739865|buffalo, ny|0|Error|1|2
+44739865|buffalo, ny|18943685|Cleveland Ohio Miami Fl|1|2
+44739865|buffalo, ny|23967578|It all depends on the day...|1|2
+44739865|buffalo, ny|0|Error|1|2
+44739865|buffalo, ny|0|Error|1|2
+44739865|buffalo, ny|3232721538|Error|1|2
+44739865|buffalo, ny|0|Error|1|2
+64004148|buffalo, ny|0|Error|1|2
+64004148|buffalo, ny|0|Error|1|2
+64004148|buffalo, ny|0|Error|1|2
+64004148|buffalo, ny|23967578|It all depends on the day...|1|2
+64004148|buffalo, ny|28814582|instagram patticakes34|1|2
+64004148|buffalo, ny|227309953|Error|1|2
+21049537|buffalo, ny|21673393|Error|5|2
+21049537|buffalo, ny|380723926|Error|2|2
+21049537|buffalo, ny|0|Error|1|2
+21049537|buffalo, ny|0|Error|1|2
+21049537|buffalo, ny|0|Error|1|2
+21049537|buffalo, ny|0|Error|1|2
+21049537|buffalo, ny|49197111|Atlanta, GA|1|2
+21049537|buffalo, ny|21049537|Buffalo, NY|1|2
+21049537|buffalo, ny|173377549|Error|1|2
+23149271|buffalo, ny|0|Error|2|2
+23149271|buffalo, ny|325869372|Error|2|2
+23149271|buffalo, ny|484294680|Error|2|2
+23149271|buffalo, ny|27987657|Brooklynnn|2|2
+23149271|buffalo, ny|0|Error|2|2
+23149271|buffalo, ny|0|Error|1|2
+23149271|buffalo, ny|0|Error|1|2
+23149271|buffalo, ny|0|Error|1|2
+23149271|buffalo, ny|2206660936|Error|1|2
+23149271|buffalo, ny|0|Error|1|2
+23149271|buffalo, ny|0|Error|1|2
+23149271|buffalo, ny|0|Error|1|2
+23149271|buffalo, ny|0|Error|1|2
+23149271|buffalo, ny|0|Error|1|2
+23149271|buffalo, ny|56509132|(716)BUFFALO (301)DC (718)NYC|1|2
+23149271|buffalo, ny|0|Error|1|2
+23149271|buffalo, ny|0|Error|1|2
+17916134|buffalo, ny|47245076|Buffalo, NY|3|2
+17916134|buffalo, ny|20622851|Buffalo, NY|1|2
+17916134|buffalo, ny|20090917|Whitehaven, Cumbria |1|2
+17916134|buffalo, ny|0|Error|1|2
+17916134|buffalo, ny|18189641|Error|1|2
+17916134|buffalo, ny|18619195|Buffalo|1|2
+17916134|buffalo, ny|1617080010|Error|1|2
+22112361|buffalo, ny|5795572|Buffalo, NY|3|2
+22112361|buffalo, ny|58581743|Gasport, NY|1|2
+22112361|buffalo, ny|14904704|Buffalo, NY, USA|1|2
+22112361|buffalo, ny|29236848|San Diego; Portland|1|2
+22112361|buffalo, ny|15509236|Buffalo, NY|1|2
+22112361|buffalo, ny|0|Error|1|2
+22112361|buffalo, ny|0|Error|1|2
+22112361|buffalo, ny|26525213|Buffalo, New York|1|2
+21067829|buffalo, ny|2167874022|Error|6|2
+21067829|buffalo, ny|26703045|Manchester|1|2
+13097022|buffalo, ny|13530732|Error|3|2
+13097022|buffalo, ny|1186911|London, UK|2|2
+13097022|buffalo, ny|0|Error|1|2
+13097022|buffalo, ny|20439062|Austin, Texas|1|2
+13097022|buffalo, ny|20739270|Calgary, Alberta, Canada|1|2
+13097022|buffalo, ny|20269408|Amherst, Massachusetts|1|2
+13097022|buffalo, ny|49411615|(917)|1|2
+13097022|buffalo, ny|19329393|New York City, New York|1|2
+53145455|buffalo, ny|16962599|Error|2|2
+53145455|buffalo, ny|3345833007|Error|1|2
+53145455|buffalo, ny|15151123|Error|1|2
+41010051|buffalo, ny|600314777|Error|2|2
+41010051|buffalo, ny|71876190|Los Angeles|1|2
+41010051|buffalo, ny|36608305|utah|1|2
+41010051|buffalo, ny|316940682|Error|1|2
+34801394|buffalo, ny|46837603|Error|1|2
+40004696|buffalo, ny|29714768|Error|2|2
+40004696|buffalo, ny|22184271|New York|1|2
+40004696|buffalo, ny|208680587|Error|1|2
+40004696|buffalo, ny|43687630|Dietenheim/Bruneck - Italy|1|2
+40004696|buffalo, ny|0|Error|1|2
+40004696|buffalo, ny|0|Error|1|2
+40004696|buffalo, ny|64934416|Rochester NY - Washington DC|1|2
+40004696|buffalo, ny|0|Error|1|2
+26382415|buffalo, ny|0|Error|3|2
+26382415|buffalo, ny|28729425|Earth|3|2
+26382415|buffalo, ny|741526927|Error|2|2
+26382415|buffalo, ny|0|Error|1|2
+26382415|buffalo, ny|16323833|New York, NY|1|2
+26382415|buffalo, ny|8193532|Error|1|2
+17994817|buffalo, ny|17517444|World Wide|4|2
+17994817|buffalo, ny|15205909|Baltimore, MD|2|2
+17994817|buffalo, ny|18126991|Los Angeles, California|2|2
+17994817|buffalo, ny|42106148|USA|2|2
+17994817|buffalo, ny|0|Error|2|2
+17994817|buffalo, ny|0|Error|2|2
+17994817|buffalo, ny|24696870|New York/New Jersey |2|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|17272834|MEMPHIS TN|1|2
+17994817|buffalo, ny|17918575|FLORIDA|1|2
+17994817|buffalo, ny|25199473|Error|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|0|Error|1|2
+17994817|buffalo, ny|63997288|Error|1|2
+27659596|buffalo, ny|0|Error|5|2
+27659596|buffalo, ny|0|Error|4|2
+27659596|buffalo, ny|0|Error|2|2
+27659596|buffalo, ny|0|Error|2|2
+27659596|buffalo, ny|0|Error|2|2
+27659596|buffalo, ny|25944911|Error|1|2
+27659596|buffalo, ny|19332073|In the moment (by way of Wisconsin)|1|2
+27659596|buffalo, ny|18891078|Israel|1|2
+27659596|buffalo, ny|0|Error|1|2
+27659596|buffalo, ny|299860564|On da grind|1|2
+22203863|buffalo, ny|0|Error|2|2
+22203863|buffalo, ny|21955058|Stage Right|1|2
+22203863|buffalo, ny|151976616|Error|1|2
+22203863|buffalo, ny|0|Error|1|2
+22203863|buffalo, ny|16959495|Nashville + Pittsburgh|1|2
+22203863|buffalo, ny|17145906|iPhone: 40.178497,-79.848907|1|2
+18029839|buffalo, ny|0|Error|3|2
+18029839|buffalo, ny|19246280|Dover, Ohio|2|2
+15415814|buffalo, ny|0|Error|3|2
+15415814|buffalo, ny|815545|Buffalo, NY|3|2
+15415814|buffalo, ny|41472834|Boulder CO|1|2
+15415814|buffalo, ny|432933671|Error|1|2
+75736114|buffalo, ny|2258437350|Buffalo, NY|3|2
+75736114|buffalo, ny|0|Error|2|2
+75736114|buffalo, ny|0|Error|1|2
+75736114|buffalo, ny|2308696811|Error|1|2
+75736114|buffalo, ny|69768063|Error|1|2
+75736114|buffalo, ny|0|Error|1|2
+75736114|buffalo, ny|0|Error|1|2
+75736114|buffalo, ny|15450916|Error|1|2
+75736114|buffalo, ny|75843156|Lackawanna, NY|1|2
+75736114|buffalo, ny|71533339|Buffalo, NY|1|2
+75736114|buffalo, ny|75736114|Buffalo, NY|1|2
+43234277|buffalo, ny|1272845527|Error|2|2
+43234277|buffalo, ny|16591114|Solon IA|1|2
+43234277|buffalo, ny|1201468008|In a galaxy far, far away . . |1|2
+32892442|buffalo, ny|33570850|Error|4|2
+32892442|buffalo, ny|47212594|Buffalo,NY|3|2
+32892442|buffalo, ny|58094421|Buffalo, NY|2|2
+54778430|buffalo, ny|0|Error|3|2
+54778430|buffalo, ny|814228585|Error|2|2
+54778430|buffalo, ny|0|Error|2|2
+54778430|buffalo, ny|0|Error|1|2
+54778430|buffalo, ny|0|Error|1|2
+54778430|buffalo, ny|1851994363|Error|1|2
+54778430|buffalo, ny|63357807|BuffaloNY|FredoniaNY|1|2
+54778430|buffalo, ny|0|Error|1|2
+43245399|buffalo, ny|0|Error|3|2
+43245399|buffalo, ny|43245399|Buffalo, NY|1|2
+16000632|buffalo, ny|7404612|Error|2|2
+16000632|buffalo, ny|0|Error|1|2
+16000632|buffalo, ny|0|Error|1|2
+16000632|buffalo, ny|9952152|Amherst, NY|1|2
+16000632|buffalo, ny|51473896|carenage|1|2
+16000632|buffalo, ny|2824011199|Error|1|2
+16000632|buffalo, ny|25203621|Buffalo, NY, USA|1|2
+16000632|buffalo, ny|0|Error|1|2
+20320466|buffalo, ny|12222792|Rochester NY|3|2
+20320466|buffalo, ny|20221222|Error|2|2
+20320466|buffalo, ny|0|Error|1|2
+20320466|buffalo, ny|19397785|Error|1|2
+20320466|buffalo, ny|20201427|Santa Monica, CA|1|2
+20320466|buffalo, ny|0|Error|1|2
+20320466|buffalo, ny|14545211|Michigan|1|2
+20320466|buffalo, ny|35406850|Stamford, CT|1|2
+20320466|buffalo, ny|142057458|Osage, IA|1|2
+39545383|buffalo, ny|27174089|Buffalo NY|2|2
+39545383|buffalo, ny|12725|Chicago, IL|1|2
+39545383|buffalo, ny|5795572|Buffalo, NY|1|2
+39545383|buffalo, ny|23967578|It all depends on the day...|1|2
+39545383|buffalo, ny|2387878206|Detroit,Mi|1|2
+39545383|buffalo, ny|0|Error|1|2
+38055659|buffalo, ny|0|Error|4|2
+38055659|buffalo, ny|22170004|Chicago, IL|1|2
+21283898|buffalo, ny|45499837|Partridge, KS|1|2
+21283898|buffalo, ny|27625739|Rattlesnake Speedway|1|2
+21283898|buffalo, ny|0|Error|1|2
+21283898|buffalo, ny|0|Error|1|2
+47514843|buffalo, ny|0|Error|6|2
+47514843|buffalo, ny|34545033|Seven 1 Six|4|2
+47514843|buffalo, ny|47514843|Pleasantville|3|2
+47514843|buffalo, ny|0|Error|2|2
+47514843|buffalo, ny|0|Error|2|2
+47514843|buffalo, ny|34345364|NY Beauty|2|2
+47514843|buffalo, ny|375885645|Error|1|2
+47514843|buffalo, ny|18152325|Buffalo, NY|1|2
+47514843|buffalo, ny|30109319|Traveling all over the world|1|2
+47514843|buffalo, ny|23151437|Philly/LA|1|2
+9774632|buffalo, ny|19615438|North Dakota |5|2
+9774632|buffalo, ny|16486686|Bonney Lake, WA|2|2
+9774632|buffalo, ny|12165362|Raleigh NC|1|2
+9774632|buffalo, ny|0|Error|1|2
+9774632|buffalo, ny|12979522|Minot, ND|1|2
+9774632|buffalo, ny|10796242|Metropolitan Detroit, Michigan|1|2
+9774632|buffalo, ny|0|Error|1|2
+9774632|buffalo, ny|25357355|Iowa's Creative Corridor|1|2
+9774632|buffalo, ny|0|Error|1|2
+9774632|buffalo, ny|16463452|Missoula, Montana|1|2
+47534142|buffalo, ny|30156916|Syracuse, NY|4|2
+47534142|buffalo, ny|2190607548|Error|4|2
+47534142|buffalo, ny|27807474|Error|3|2
+47534142|buffalo, ny|65804986|Buffalo|2|2
+47534142|buffalo, ny|76055533|Orlando|1|2
+47534142|buffalo, ny|0|Error|1|2
+47534142|buffalo, ny|64933096|Error|1|2
+47534142|buffalo, ny|43139414|Bristol, Ct.|1|2
+29717556|buffalo, ny|0|Error|2|2
+17142155|buffalo, ny|18410636|Error|2|2
+17142155|buffalo, ny|27869939|The passenger side seat|1|2
+17142155|buffalo, ny|3553565365|Error|1|2
+17142155|buffalo, ny|21966352|Error|1|2
+17142155|buffalo, ny|26055393|Buffalo, NY|1|2
+8757652|buffalo, ny|8749372|Error|8|2
+8757652|buffalo, ny|0|Error|6|2
+8757652|buffalo, ny|0|Error|6|2
+8757652|buffalo, ny|533467868|Error|2|2
+29751916|buffalo, ny|0|Error|4|2
+29751916|buffalo, ny|18108977|Places Unknown|3|2
+29751916|buffalo, ny|118776076|Inglewood|2|2
+29751916|buffalo, ny|55613014|YONKERS,NY|2|2
+29751916|buffalo, ny|0|Error|1|2
+29751916|buffalo, ny|18931017|Buffalo, NY/ Toronto, Ont|1|2
+29751916|buffalo, ny|41291492|BUFFALO,NY|1|2
+29751916|buffalo, ny|180622633|Error|1|2
+29751916|buffalo, ny|35771612|A time machine|1|2
+18230424|buffalo, ny|0|Error|5|2
+18230424|buffalo, ny|0|Error|2|2
+18230424|buffalo, ny|22471444|In a Booth at a Club near You|2|2
+18230424|buffalo, ny|25783736|LA | NY | FL | DET|2|2
+18230424|buffalo, ny|16678828|St.Louis even when im gone|1|2
+18230424|buffalo, ny|17183964|New York City USA  |1|2
+18230424|buffalo, ny|0|Error|1|2
+18230424|buffalo, ny|0|Error|1|2
+18230424|buffalo, ny|22143745|Everywhere|1|2
+18230424|buffalo, ny|0|Error|1|2
+18230424|buffalo, ny|0|Error|1|2
+18230424|buffalo, ny|34458678|Error|1|2
+18230424|buffalo, ny|0|Error|1|2
+18230424|buffalo, ny|0|Error|1|2
+18230424|buffalo, ny|0|Error|1|2
+18230424|buffalo, ny|18962445|Error|1|2
+18230424|buffalo, ny|46507531|Hoodlife,Buffalo|1|2
+18230424|buffalo, ny|127368859|iTunes Radio & Windows Media|1|2
+22437611|buffalo, ny|19002894|Buffalo|1|2
+22437611|buffalo, ny|25154893|iPhone: 38.593742,-121.435707|1|2
+22437611|buffalo, ny|0|Error|1|2
+22437611|buffalo, ny|61961121|407 Colorado Austin, TX 78701|1|2
+22437611|buffalo, ny|0|Error|1|2
+22437611|buffalo, ny|6449282|1-800-JETBLUE|1|2
+27682017|buffalo, ny|74587857|Washington DC Metro Area|2|2
+27682017|buffalo, ny|19182136|Amherst, NY|2|2
+27682017|buffalo, ny|14855303|NOLA & SC, USA|1|2
+27682017|buffalo, ny|5032331|Sonoma, CA|1|2
+27682017|buffalo, ny|34322946|Buffalo, NY, Erie County, USA|1|2
+27682017|buffalo, ny|0|Error|1|2
+27682017|buffalo, ny|5896952|Buffalo, New York|1|2
+27682017|buffalo, ny|20694232|Washington, DC|1|2
+27682017|buffalo, ny|4359601|Buffalo, NY|1|2
+74872635|buffalo, ny|0|Error|4|2
+74872635|buffalo, ny|523834868|Error|3|2
+74872635|buffalo, ny|170417880|Tennessee|2|2
+74872635|buffalo, ny|0|Error|2|2
+74872635|buffalo, ny|2206660936|Error|2|2
+74872635|buffalo, ny|0|Error|2|2
+74872635|buffalo, ny|0|Error|2|2
+74872635|buffalo, ny|0|Error|1|2
+74872635|buffalo, ny|393500521|Error|1|2
+74872635|buffalo, ny|0|Error|1|2
+74872635|buffalo, ny|44003993|NY|1|2
+74872635|buffalo, ny|66573185|Error|1|2
+74872635|buffalo, ny|0|Error|1|2
+44473996|buffalo, ny|5254261|Buffalo, NY|3|2
+44473996|buffalo, ny|0|Error|2|2
+44473996|buffalo, ny|17662125|Buffalo|2|2
+44473996|buffalo, ny|0|Error|2|2
+44473996|buffalo, ny|437787002|Error|1|2
+44473996|buffalo, ny|56743033|Error|1|2
+44473996|buffalo, ny|23085968|Buffalo|1|2
+44473996|buffalo, ny|0|Error|1|2
+44473996|buffalo, ny|29998809|Buffalo, NY|1|2
+44473996|buffalo, ny|17487277|Toronto, Ontario|1|2
+19333721|buffalo, ny|0|Error|2|2
+19333721|buffalo, ny|45409752|Santa Clara, CA|1|2
+19333721|buffalo, ny|17268437|New York, NY|1|2
+19333721|buffalo, ny|0|Error|1|2
+42450371|buffalo, ny|156650401|Error|1|2
+20437289|buffalo, ny|0|Error|9|2
+20437289|buffalo, ny|18747589|Buffalo, NY|1|2
+20437289|buffalo, ny|20484680|A van down by the river|1|2
+30928482|buffalo, ny|55289537|Buffalo, NY|2|2
+30928482|buffalo, ny|23945915|Error|2|2
+30928482|buffalo, ny|20003148|Rochester, NY|1|2
+30928482|buffalo, ny|16481788|NYC|1|2
+30928482|buffalo, ny|23967578|It all depends on the day...|1|2
+30928482|buffalo, ny|1577478895|Error|1|2
+30928482|buffalo, ny|23388058|iPhone: 42.838188,-78.818718|1|2
+24388844|buffalo, ny|0|Error|4|2
+24388844|buffalo, ny|0|Error|3|2
+24388844|buffalo, ny|38985421|Error|1|2
+24388844|buffalo, ny|252723704|Error|1|2
+24388844|buffalo, ny|702511087|Error|1|2
+24388844|buffalo, ny|26685634|out there, somewhere!|1|2
+24388844|buffalo, ny|34017653|USA|1|2
+24388844|buffalo, ny|26401178|West Michigan|1|2
+24388844|buffalo, ny|772471|Reno, NV|1|2
+24388844|buffalo, ny|0|Error|1|2
+24388844|buffalo, ny|18250194|Lincoln, Rhode Island|1|2
+24388844|buffalo, ny|55881233|Cloverdale BC Canada|1|2
+24388844|buffalo, ny|17329654|Charlottetown PEI|1|2
+22546383|buffalo, ny|814182|Error|3|2
+22546383|buffalo, ny|281277397|Baltimore, Maryland|2|2
+22546383|buffalo, ny|30015500|NYC|2|2
+22546383|buffalo, ny|0|Error|2|2
+22546383|buffalo, ny|0|Error|2|2
+22546383|buffalo, ny|370321385|Error|2|2
+22546383|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|25110374|Error|4|2
+73937081|buffalo, ny|0|Error|3|2
+73937081|buffalo, ny|0|Error|2|2
+73937081|buffalo, ny|0|Error|2|2
+73937081|buffalo, ny|73937081|Buffalo, NY|2|2
+73937081|buffalo, ny|31091236|Atlanta, GA|1|2
+73937081|buffalo, ny|22997645|Between Reality St & Dream Rd|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|29717372|International|1|2
+73937081|buffalo, ny|489758150|Error|1|2
+73937081|buffalo, ny|16159463|BROOKLYN|1|2
+73937081|buffalo, ny|18842370|Peacefully in the Present|1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|21112580|Error|1|2
+73937081|buffalo, ny|29148493|Orlando|1|2
+73937081|buffalo, ny|16174912|[MD] | [DC] |1|2
+73937081|buffalo, ny|0|Error|1|2
+73937081|buffalo, ny|15819300|broom|1|2
+19423681|buffalo, ny|0|Error|1|2
+19423681|buffalo, ny|89848183|Error|1|2
+19423681|buffalo, ny|0|Error|1|2
+19423681|buffalo, ny|468315483|Boston, MA|1|2
+19423681|buffalo, ny|0|Error|1|2
+21522378|buffalo, ny|41354189|Minnesota|1|2
+21522378|buffalo, ny|42434053|Missouri, USA|1|2
+69760306|buffalo, ny|74648032|Error|6|2
+69760306|buffalo, ny|23386477|Albany, NY|2|2
+69760306|buffalo, ny|0|Error|1|2
+69760306|buffalo, ny|0|Error|1|2
+69760306|buffalo, ny|0|Error|1|2
+69760306|buffalo, ny|243442402|Error|1|2
+69760306|buffalo, ny|17868671|Error|1|2
+69760306|buffalo, ny|287485390|Missouri|1|2
+42498515|buffalo, ny|18713254|Earth|3|2
+42498515|buffalo, ny|15600378|BKNY|3|2
+42498515|buffalo, ny|252043890|Error|1|2
+42498515|buffalo, ny|1649835217|Error|1|2
+42498515|buffalo, ny|2982721421|Error|1|2
+42498515|buffalo, ny|17553095|TorontoMTLBerlinGlasgow|1|2
+42498515|buffalo, ny|18046534|Loveland, CO|1|2
+42498515|buffalo, ny|0|Error|1|2
+42498515|buffalo, ny|360336320|California|1|2
+42498515|buffalo, ny|54385869|Woodstock IL USA|1|2
+42498515|buffalo, ny|0|Error|1|2
+42498515|buffalo, ny|3373461|Brooklyn, NY|1|2
+18402199|buffalo, ny|93666429|Error|9|2
+18402199|buffalo, ny|14202764|in my pants|3|2
+18402199|buffalo, ny|57729132|Chicago|2|2
+18402199|buffalo, ny|15626814|Chicago|2|2
+18402199|buffalo, ny|41212949|Langholm, Scotland|2|2
+18402199|buffalo, ny|17079570|The Ocean of Nailz
+|2|2
+18402199|buffalo, ny|13964542|Des Moines, Iowa|1|2
+21571601|buffalo, ny|11417132|Western NY State|1|2
+27869199|buffalo, ny|0|Error|1|2
+27869199|buffalo, ny|606782499|Error|1|2
+27869199|buffalo, ny|0|Error|1|2
+27869199|buffalo, ny|0|Error|1|2
+27869199|buffalo, ny|88047938|FORMERLY CHICHI GLACIERZ|1|2
+27869199|buffalo, ny|1321377895|Watsonville , Ca .|1|2
+27869199|buffalo, ny|18230424|Buffalo new york usA [14215]|1|2
+22679175|buffalo, ny|0|Error|2|2
+22679175|buffalo, ny|62643377|100% ChiCaqO|2|2
+22679175|buffalo, ny|0|Error|1|2
+22679175|buffalo, ny|2156542319|Error|1|2
+22679175|buffalo, ny|0|Error|1|2
+22679175|buffalo, ny|0|Error|1|2
+22679175|buffalo, ny|0|Error|1|2
+52042123|buffalo, ny|37370622|California|2|2
+52042123|buffalo, ny|19417850|San Francisco|2|2
+52042123|buffalo, ny|0|Error|2|2
+52042123|buffalo, ny|40981798|get our deluxe album here! -|1|2
+52042123|buffalo, ny|24694983|Ontario, Canada|1|2
+52042123|buffalo, ny|26149716|Instagram: TheMarleeMatlin|1|2
+52042123|buffalo, ny|0|Error|1|2
+52042123|buffalo, ny|14472683|Brisbane, Australia|1|2
+52042123|buffalo, ny|279444988|Florida|1|2
+52042123|buffalo, ny|17594789|Northern CA (& NY via tech)|1|2
+52042123|buffalo, ny|7846|Los Angeles, CA|1|2
+52042123|buffalo, ny|0|Error|1|2
+52042123|buffalo, ny|16334824|Los Angeles|1|2
+52042123|buffalo, ny|18139619|Error|1|2
+52042123|buffalo, ny|19570445|Austin, TX|1|2
+52042123|buffalo, ny|18545627|Colorado|1|2
+52042123|buffalo, ny|66677044|USA|1|2
+52042123|buffalo, ny|0|Error|1|2
+21642685|buffalo, ny|294260612|Error|3|2
+21642685|buffalo, ny|0|Error|3|2
+21642685|buffalo, ny|49791421|new york|1|2
+21642685|buffalo, ny|18230930|Brooklyn|1|2
+21642685|buffalo, ny|21642685|Westchestah|1|2
+21642685|buffalo, ny|639133|USA|1|2
+21642685|buffalo, ny|20889839|Chicago, IL|1|2
+21642685|buffalo, ny|35624172|Brooklyn|1|2
+21642685|buffalo, ny|0|Error|1|2
+25855364|buffalo, ny|45353868|Livin The Life In New York|2|2
+25855364|buffalo, ny|25789724|Depew, New York|1|2
+25855364|buffalo, ny|39214571|clifton springs|1|2
+25855364|buffalo, ny|0|Error|1|2
+47652268|buffalo, ny|1267811666|Error|6|2
+47652268|buffalo, ny|2513271122|Error|4|2
+47652268|buffalo, ny|0|Error|4|2
+47652268|buffalo, ny|43714006|ATL|2|2
+47652268|buffalo, ny|71428459|Los Angeles, CA|1|2
+47652268|buffalo, ny|0|Error|1|2
+47652268|buffalo, ny|324922218|Error|1|2
+20631510|buffalo, ny|16561169|The Smart Place to Start|3|2
+20631510|buffalo, ny|16422886|Indiana, PA|2|2
+20631510|buffalo, ny|0|Error|2|2
+20631510|buffalo, ny|0|Error|1|2
+20631510|buffalo, ny|15427422| San Francisco|1|2
+20631510|buffalo, ny|493210371|Work!|1|2
+20631510|buffalo, ny|0|Error|1|2
+20631510|buffalo, ny|16183908|Philadelphia, PA|1|2
+20631510|buffalo, ny|18288362|New Delhi, India|1|2
+20631510|buffalo, ny|15377897|Houston, Texas|1|2
+20631510|buffalo, ny|19992535|Baltimore, MD|1|2
+35245542|buffalo, ny|35535701|Virginia|6|2
+35245542|buffalo, ny|25971152|Anchorage, Alaska|4|2
+35245542|buffalo, ny|0|Error|4|2
+35245542|buffalo, ny|16436108|Utah|1|2
+35245542|buffalo, ny|24742957|Kind of Utah...|1|2
+35245542|buffalo, ny|0|Error|1|2
+35245542|buffalo, ny|0|Error|1|2
+34264535|buffalo, ny|15651878|Nashville, TN|3|2
+34264535|buffalo, ny|16577884|Nashville|2|2
+34264535|buffalo, ny|14790817|Nashville, TN|1|2
+34264535|buffalo, ny|14575511|Error|1|2
+34264535|buffalo, ny|9106882|Buffalo, NY|1|2
+69918377|buffalo, ny|0|Error|2|2
+69918377|buffalo, ny|0|Error|1|2
+69918377|buffalo, ny|0|Error|1|2
+69918377|buffalo, ny|39634561|Dallas, TX|1|2
+69918377|buffalo, ny|0|Error|1|2
+77261013|buffalo, ny|76055533|Orlando|1|2
+77261013|buffalo, ny|23967578|It all depends on the day...|1|2
+77261013|buffalo, ny|63522846|Error|1|2
+77261013|buffalo, ny|19143584|New York City|1|2
+77261013|buffalo, ny|67697350|New York|1|2
+16445497|buffalo, ny|23967578|It all depends on the day...|5|2
+16445497|buffalo, ny|18943685|Cleveland Ohio Miami Fl|4|2
+16445497|buffalo, ny|19617590|Batavia, NY & Pegulaville|1|2
+16445497|buffalo, ny|0|Error|1|2
+16445497|buffalo, ny|0|Error|1|2
+10155282|buffalo, ny|0|Error|3|2
+10155282|buffalo, ny|15334097|Buffalo, NY|1|2
+22738337|buffalo, ny|259410146|nashville, tn|3|2
+22738337|buffalo, ny|28922581|Error|1|2
+22738337|buffalo, ny|28581494|Error|1|2
+9106882|buffalo, ny|0|Error|1|2
+9106882|buffalo, ny|16129920|New York, NY USA|1|2
+9106882|buffalo, ny|26600508|14 Allen St. Buffalo, NY|1|2
+26947961|buffalo, ny|0|Error|1|2
+26947961|buffalo, ny|26946692|Error|1|2
+26947961|buffalo, ny|308708304|New Life|1|2
+26947961|buffalo, ny|25365536|where I'm meant to be...|1|2
+26947961|buffalo, ny|3375656833|Error|1|2
+26947961|buffalo, ny|18395177|Error|1|2
+26947961|buffalo, ny|0|Error|1|2
+26947961|buffalo, ny|0|Error|1|2
+26947961|buffalo, ny|53153263|Error|1|2
+19616211|buffalo, ny|0|Error|3|2
+19616211|buffalo, ny|24332709|www.TheRealClaudiaJordan.com|2|2
+19616211|buffalo, ny|28706024|los angeles|1|2
+19616211|buffalo, ny|0|Error|1|2
+19616211|buffalo, ny|332031163|Error|1|2
+19616211|buffalo, ny|37011729|new york|1|2
+19616211|buffalo, ny|18230424|Buffalo new york usA [14215]|1|2
+19616211|buffalo, ny|0|Error|1|2
+19616211|buffalo, ny|0|Error|1|2
+19616211|buffalo, ny|0|Error|1|2
+19616211|buffalo, ny|38532460|AMONGST THE GREATS|1|2
+19616211|buffalo, ny|293155760|Error|1|2
+19616211|buffalo, ny|19616211|Buffalo, NY|1|2
+19616211|buffalo, ny|0|Error|1|2
+19616211|buffalo, ny|32738894|Washington, DC|1|2
+21717031|buffalo, ny|283205826|Error|3|2
+21717031|buffalo, ny|72114700|Buffalo, NY|1|2
+21717031|buffalo, ny|0|Error|1|2
+21717031|buffalo, ny|14681605|Body? L.A. Mind? N.J.|1|2
+21717031|buffalo, ny|42288257|Buffalo|1|2
+21758029|buffalo, ny|0|Error|3|2
+21758029|buffalo, ny|5896952|Buffalo, New York|1|2
+21758029|buffalo, ny|159844919|Error|1|2
+21758029|buffalo, ny|0|Error|1|2
+21758029|buffalo, ny|71303208|Buffalo, NY|1|2
+21758029|buffalo, ny|5254261|Buffalo, NY|1|2
+18662832|buffalo, ny|18040433|Los Angeles, CA|12|2
+18662832|buffalo, ny|15270559|Spoiler Land|3|2
+18662832|buffalo, ny|807487|Dimensional Axis (O)^n|1|2
+18662832|buffalo, ny|46300052|Bay Area, California|1|2
+18662832|buffalo, ny|16102671|ATX|1|2
+18662832|buffalo, ny|5380672|Chicago, IL|1|2
+18662832|buffalo, ny|0|Error|1|2
+18662832|buffalo, ny|0|Error|1|2
+18662832|buffalo, ny|22881102|England|1|2
+67952766|buffalo, ny|19931663|London|11|2
+67952766|buffalo, ny|21618308|Error|3|2
+67952766|buffalo, ny|15825852|South Florida|1|2
+67952766|buffalo, ny|0|Error|1|2
+67952766|buffalo, ny|8200352|Florida, Georgia, Amsterdam|1|2
+67952766|buffalo, ny|2180069573|Error|1|2
+67952766|buffalo, ny|16952953|Dallas, TX|1|2
+67952766|buffalo, ny|13325552|Taranna, Kanada!|1|2
+71101833|buffalo, ny|1112661|Canada|2|2
+71101833|buffalo, ny|72403448|San Francisco|2|2
+71101833|buffalo, ny|0|Error|1|2
+71101833|buffalo, ny|0|Error|1|2
+71101833|buffalo, ny|18721927|Error|1|2
+71101833|buffalo, ny|8008212|The world...of Warcraft!|1|2
+42791554|buffalo, ny|0|Error|1|2
+17643109|buffalo, ny|44473996|Buffalo, NY|2|2
+17643109|buffalo, ny|15161442|Buffalo, NY|2|2
+17643109|buffalo, ny|28035990|NYC|1|2
+17643109|buffalo, ny|0|Error|1|2
+17643109|buffalo, ny|17071845|Toronto|1|2
+17643109|buffalo, ny|16164520|Austin|1|2
+17643109|buffalo, ny|16044589|Buffalo, NY|1|2
+17643109|buffalo, ny|30746237|Buffalo, NY|1|2
+17643109|buffalo, ny|14551839|Holland, NY|1|2
+17643109|buffalo, ny|18460285|Buffalo, NY|1|2
+17643109|buffalo, ny|216105820|Error|1|2
+17643109|buffalo, ny|816513|Williamsville, New York|1|2
+17643109|buffalo, ny|16439635|Virginia Beach, VA|1|2
+17643109|buffalo, ny|32647718|Buffalo, NY|1|2
+17643109|buffalo, ny|19379266|Urbs in horto|1|2
+17643109|buffalo, ny|0|Error|1|2
+17643109|buffalo, ny|0|Error|1|2
+17643109|buffalo, ny|28606346|Pittsburgh|1|2
+17643109|buffalo, ny|806584411|Error|1|2
+17643109|buffalo, ny|5254261|Buffalo, NY|1|2
+17643109|buffalo, ny|16727535|Austin/Aspen|1|2
+17643109|buffalo, ny|17058018|Saskatchewan, Canada|1|2
+17643109|buffalo, ny|0|Error|1|2
+17643109|buffalo, ny|17059046|Buffalo, NY|1|2
+17643109|buffalo, ny|23349709|Buffalo, NY|1|2
+17643109|buffalo, ny|23085968|Buffalo|1|2
+17643109|buffalo, ny|33237421|Edmond, OK|1|2
+17643109|buffalo, ny|20005394|Worldwide|1|2
+17643109|buffalo, ny|16515870|Buffalo, NY|1|2
+17643109|buffalo, ny|19247955|Pittsburgh, PA|1|2
+17643109|buffalo, ny|21283898|Niagara Falls, New York|1|2
+17643109|buffalo, ny|25582283|Washington, DC|1|2
+17643109|buffalo, ny|12953672|Buffalo or Boston|1|2
+17643109|buffalo, ny|0|Error|1|2
+17643109|buffalo, ny|18813484|Montreal, Quebec, Canada|1|2
+17643109|buffalo, ny|15515213|Buffalo, NY|1|2
+17643109|buffalo, ny|14362988|Buffalo, NY|1|2
+17643109|buffalo, ny|211440915|50.386671,30.460415|1|2
+39663585|buffalo, ny|46184556|Detroit, Michigan |5|2
+39663585|buffalo, ny|0|Error|4|2
+39663585|buffalo, ny|3042983315|NYC/LA/FL/UK|3|2
+39663585|buffalo, ny|0|Error|2|2
+32334975|buffalo, ny|21758029|Buffalo, NY|2|2
+32334975|buffalo, ny|17919972|Error|2|2
+32334975|buffalo, ny|18640853|Nashville|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|17547594|Across the Globe|1|2
+32334975|buffalo, ny|17332561|270-384-8100|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|16539403|Texas|1|2
+32334975|buffalo, ny|65684648|Amherst, NY|1|2
+32334975|buffalo, ny|17339790|Error|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|807095|New York City|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|19715694|Buffalo, New York USA|1|2
+32334975|buffalo, ny|17088570|Error|1|2
+32334975|buffalo, ny|30068655|Columbia, KY|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|0|Error|1|2
+32334975|buffalo, ny|58784418|Amherst, NY|1|2
+14519457|buffalo, ny|32987038|Buffalo, NY |1|2
+26055393|buffalo, ny|0|Error|1|2
+26055393|buffalo, ny|0|Error|1|2
+26055393|buffalo, ny|26055393|Buffalo, NY|1|2
+26055393|buffalo, ny|0|Error|1|2
+26055393|buffalo, ny|21665458|nyc|1|2
+26055393|buffalo, ny|0|Error|1|2
+26055393|buffalo, ny|0|Error|1|2
+26055393|buffalo, ny|21576300|under the umbrella tree|1|2
+26055393|buffalo, ny|18208702|Harlem, NYC|1|2
+26055393|buffalo, ny|0|Error|1|2
+56598570|buffalo, ny|0|Error|1|2
+29220624|buffalo, ny|16899921|Buffalo N.Y.|2|2
+29220624|buffalo, ny|2202014756|Error|1|2
+29220624|buffalo, ny|40706726|Buffalo, N.Y.|1|2
+29220624|buffalo, ny|0|Error|1|2
+53387193|buffalo, ny|0|Error|2|2
+53387193|buffalo, ny|22823|1.318104,103.775196|1|2
+14592606|buffalo, ny|0|Error|7|2
+14592606|buffalo, ny|26794257|Error|5|2
+14592606|buffalo, ny|15041603|Wellingborough, Northants, UK|2|2
+14592606|buffalo, ny|28839259|Las Vegas, NV|1|2
+14592606|buffalo, ny|1121713226|Griffith, NSW Australia|1|2
+30220326|buffalo, ny|31463904|Brooklyn|2|2
+30220326|buffalo, ny|47752725|Worcester, MA|1|2
+30220326|buffalo, ny|221061139|Error|1|2
+30220326|buffalo, ny|0|Error|1|2
+30220326|buffalo, ny|19432203|Melbourne Bch, FL / The Road|1|2
+28240506|buffalo, ny|14282159|Error|4|2
+28240506|buffalo, ny|45581504|Martinsburg, WV|1|2
+28240506|buffalo, ny|24526628|IHB Florida|1|2
+28240506|buffalo, ny|0|Error|1|2
+28240506|buffalo, ny|0|Error|1|2
+28240506|buffalo, ny|10950582|Error|1|2
+28240506|buffalo, ny|15916406|Hobbs, NM|1|2
+28240506|buffalo, ny|60137087|Error|1|2
+28240506|buffalo, ny|20484680|A van down by the river|1|2
+28240506|buffalo, ny|0|Error|1|2
+24074248|buffalo, ny|0|Error|2|2
+24074248|buffalo, ny|39855004|Error|2|2
+24074248|buffalo, ny|0|Error|1|2
+24074248|buffalo, ny|14166346|Los Angeles, CA|1|2
+24074248|buffalo, ny|0|Error|1|2
+18190582|buffalo, ny|15334097|Buffalo, NY|1|2
+15707100|buffalo, ny|26617982|Buffalo, NY|2|2
+15707100|buffalo, ny|300977923|Worldwide|1|2
+15707100|buffalo, ny|0|Error|1|2
+15707100|buffalo, ny|0|Error|1|2
+15707100|buffalo, ny|19608470|We are everywhere.|1|2
+15707100|buffalo, ny|64361275|Paris|1|2
+24102455|buffalo, ny|0|Error|3|2
+24102455|buffalo, ny|29115001|Error|2|2
+24102455|buffalo, ny|23918078|San German, Puerto Rico|2|2
+24102455|buffalo, ny|0|Error|1|2
+24102455|buffalo, ny|0|Error|1|2
+24102455|buffalo, ny|66573185|Error|1|2
+24102455|buffalo, ny|1377909342|Error|1|2
+24102455|buffalo, ny|20719501|Bronx, NY|1|2

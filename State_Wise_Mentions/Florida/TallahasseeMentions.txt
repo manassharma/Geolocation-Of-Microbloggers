@@ -1,0 +1,2743 @@
+19136693|tallahassee, fl|0|Error|2|2
+19136693|tallahassee, fl|13436432|Las Vegas, NV|2|2
+19136693|tallahassee, fl|7067102|Error|2|2
+19136693|tallahassee, fl|10072282|Everywhere|1|2
+19136693|tallahassee, fl|21128685|Tallahassee, Florida|1|2
+19136693|tallahassee, fl|12413032|Washington, DC|1|2
+19136693|tallahassee, fl|2214720847|Brazil.|1|2
+19136693|tallahassee, fl|6604072|Decatur, GA (U.S.)|1|2
+19136693|tallahassee, fl|0|Error|1|2
+19136693|tallahassee, fl|0|Error|1|2
+19136693|tallahassee, fl|17517138|Washington, D.C.|1|2
+19136693|tallahassee, fl|21799699|Chicago, IL|1|2
+19136693|tallahassee, fl|778057|Washington, DC|1|2
+19136693|tallahassee, fl|16812515|Durham, NC|1|2
+19136693|tallahassee, fl|0|Error|1|2
+19136693|tallahassee, fl|14927297|Worldwide|1|2
+19136693|tallahassee, fl|15305179|Australia|1|2
+19136693|tallahassee, fl|14902853|Canberra|1|2
+19136693|tallahassee, fl|78634426|Apollo Beach, Fla.|1|2
+19136693|tallahassee, fl|0|Error|1|2
+19136693|tallahassee, fl|6361722|Blacksburg, VA|1|2
+55575836|tallahassee, fl|46097823|Richmond, VA|4|2
+55575836|tallahassee, fl|15021827|Florida|3|2
+55575836|tallahassee, fl|14146528|Saint Louis, MO|3|2
+55575836|tallahassee, fl|14144238|Anywhere there is internet|2|2
+55575836|tallahassee, fl|119400191|United States|2|2
+55575836|tallahassee, fl|14726990|Dublin, Ohio|2|2
+55575836|tallahassee, fl|868651|No matter where I go...|1|2
+55575836|tallahassee, fl|293791298|Error|1|2
+55575836|tallahassee, fl|0|Error|1|2
+55575836|tallahassee, fl|0|Error|1|2
+55575836|tallahassee, fl|17136124|40.159876,-83.001611|1|2
+55575836|tallahassee, fl|25293746|Tallahassee, FLA|1|2
+55575836|tallahassee, fl|14019082|SF / NYC / ATX / ETC|1|2
+55575836|tallahassee, fl|44654936|Richmond, VA|1|2
+18482509|tallahassee, fl|228895403|Error|8|2
+18482509|tallahassee, fl|25203129|Thomasville, GA|3|2
+18482509|tallahassee, fl|12184042|London|3|2
+18482509|tallahassee, fl|16895549|Santa Fe,  NM|3|2
+18482509|tallahassee, fl|2875935929|NYC|2|2
+18482509|tallahassee, fl|24453425|Greater Princeton NJ Area|2|2
+18482509|tallahassee, fl|15139005|Florida Tallahassee Gulf Coast|2|2
+18482509|tallahassee, fl|17555236|London, UK|2|2
+18482509|tallahassee, fl|43969788|Switzerland|2|2
+18482509|tallahassee, fl|0|Error|2|2
+18482509|tallahassee, fl|16186346|Error|2|2
+18482509|tallahassee, fl|20050733|United Kingdom|2|2
+18482509|tallahassee, fl|29369271|Fairfield, Iowa|1|2
+18482509|tallahassee, fl|17399640|Central Coast, California, USA|1|2
+18482509|tallahassee, fl|35741196|British Columbia, Canada|1|2
+18482509|tallahassee, fl|0|Error|1|2
+18482509|tallahassee, fl|18374442|Washington, DC|1|2
+18482509|tallahassee, fl|0|Error|1|2
+18482509|tallahassee, fl|29600506|Chennai, India|1|2
+18482509|tallahassee, fl|17973137|Nicaragua|1|2
+18482509|tallahassee, fl|19174660|MD|1|2
+18482509|tallahassee, fl|15488145|Aventura, Florida|1|2
+18482509|tallahassee, fl|18868704|South Burlington, Vermont|1|2
+18482509|tallahassee, fl|24466500|Planet Earth (for now)|1|2
+18482509|tallahassee, fl|1879168682|Indonesia|1|2
+18482509|tallahassee, fl|15702508|Error|1|2
+18482509|tallahassee, fl|205032434|Error|1|2
+18482509|tallahassee, fl|0|Error|1|2
+18482509|tallahassee, fl|0|Error|1|2
+18482509|tallahassee, fl|63067126|Western MA.|1|2
+18482509|tallahassee, fl|215883046|Whitby, ON|1|2
+18482509|tallahassee, fl|2531780878|Oklahoma City, Oklahoma |1|2
+18482509|tallahassee, fl|0|Error|1|2
+18482509|tallahassee, fl|43237308|California|1|2
+18482509|tallahassee, fl|18463079|Santa Cruz & NorCal|1|2
+18482509|tallahassee, fl|0|Error|1|2
+18482509|tallahassee, fl|0|Error|1|2
+18482509|tallahassee, fl|18510067|Vermont|1|2
+18482509|tallahassee, fl|383404175|Error|1|2
+23073581|tallahassee, florida|25726276|Atl x Fl x Ca x Nc x Dc|2|2
+23073581|tallahassee, florida|27616145|Tampa, FL & Lincoln, RI|2|2
+23073581|tallahassee, florida|2351776128|Error|1|2
+23073581|tallahassee, florida|138194966|Error|1|2
+23073581|tallahassee, florida|63359169|Los Angeles, CA|1|2
+23073581|tallahassee, florida|116908839|Zaytown | A-town | Bay Area|1|2
+23073581|tallahassee, florida|24651770|US: 33.736454,-84.410652|1|2
+23073581|tallahassee, florida|23073581|TALLAHASSEE, SUNNY FLORIDA|1|2
+23073581|tallahassee, florida|0|Error|1|2
+23073581|tallahassee, florida|18352889|South Suburban Chicago|1|2
+23073581|tallahassee, florida|24892450|EVERYWHERE|1|2
+23073581|tallahassee, florida|0|Error|1|2
+14319081|tallahassee, fl|50702694|Tallahassee, FL|6|2
+14319081|tallahassee, fl|15745368|United States|2|2
+14319081|tallahassee, fl|25324110|Tampa, Fla.|1|2
+14319081|tallahassee, fl|20616741|Tallahassee, FL|1|2
+14319081|tallahassee, fl|12300432|Error|1|2
+14319081|tallahassee, fl|88028078|NY, NY|1|2
+14319081|tallahassee, fl|15429511|Tampa, Florida|1|2
+14319081|tallahassee, fl|32460151|iPhone: 30.461969,-84.284813|1|2
+14319081|tallahassee, fl|11883132|San Francisco|1|2
+14319081|tallahassee, fl|29715285|Tallahassee, Fla. |1|2
+14319081|tallahassee, fl|145870996|Error|1|2
+14319081|tallahassee, fl|0|Error|1|2
+14319081|tallahassee, fl|175656193|Kentucky|1|2
+14319081|tallahassee, fl|0|Error|1|2
+14319081|tallahassee, fl|29637741|St. Augustine, FL|1|2
+14319081|tallahassee, fl|0|Error|1|2
+14319081|tallahassee, fl|23226127|Ann Arbor|1|2
+14319081|tallahassee, fl|0|Error|1|2
+14319081|tallahassee, fl|0|Error|1|2
+14319081|tallahassee, fl|0|Error|1|2
+24650128|tallahassee, florida|25876071|Birmingham, Al|6|2
+24650128|tallahassee, florida|18150182|EARTH IZ MY TURF!!!|6|2
+24650128|tallahassee, florida|37786155|Alabama|4|2
+24650128|tallahassee, florida|19877692|Atlanta, GA|2|2
+24650128|tallahassee, florida|24839582|Atlanta, USA|2|2
+24650128|tallahassee, florida|17581754|Atlanta|2|2
+24650128|tallahassee, florida|30309979|New York, NY|2|2
+24650128|tallahassee, florida|11738562|Tallahassee, Florida|2|2
+24650128|tallahassee, florida|201272452|Atlanta, GA.|2|2
+24650128|tallahassee, florida|0|Error|2|2
+24650128|tallahassee, florida|17358182|The O|2|2
+24650128|tallahassee, florida|35535459|Heart Of Dixie (Tha Styx)|1|2
+24650128|tallahassee, florida|27497615|Huntsville, AL|1|2
+24650128|tallahassee, florida|17975518|Atlanta, GA|1|2
+24650128|tallahassee, florida|0|Error|1|2
+24650128|tallahassee, florida|0|Error|1|2
+24650128|tallahassee, florida|88112656|ALABAMA|1|2
+24650128|tallahassee, florida|17355779|Atlanta|1|2
+24650128|tallahassee, florida|0|Error|1|2
+24650128|tallahassee, florida|0|Error|1|2
+24650128|tallahassee, florida|0|Error|1|2
+24650128|tallahassee, florida|28119249|florida 850, 407 ,321|1|2
+24650128|tallahassee, florida|0|Error|1|2
+24781626|tallahassee, florida|0|Error|2|2
+24781626|tallahassee, florida|27945209|Kentland, IN|2|2
+24781626|tallahassee, florida|33134446|@Art_Tee|2|2
+24781626|tallahassee, florida|15748908|Error|2|2
+24781626|tallahassee, florida|0|Error|1|2
+24781626|tallahassee, florida|24574478|In your Mind|1|2
+24781626|tallahassee, florida|43546683|East Coast USA|1|2
+24781626|tallahassee, florida|58633|PST|1|2
+24781626|tallahassee, florida|0|Error|1|2
+24781626|tallahassee, florida|14683187|Austin, TX USA|1|2
+24781626|tallahassee, florida|143184320|Error|1|2
+24781626|tallahassee, florida|23976537|North America|1|2
+24781626|tallahassee, florida|66927493|on red carpets everywhere!|1|2
+24781626|tallahassee, florida|18533317|Hollywood/Miami/space|1|2
+24781626|tallahassee, florida|20815916|Arizona|1|2
+24781626|tallahassee, florida|12669752|California|1|2
+24781626|tallahassee, florida|145364790|Error|1|2
+24781626|tallahassee, florida|24781626|Tallahassee, Florida|1|2
+24781626|tallahassee, florida|980728884|Starkville, MS|1|2
+24781626|tallahassee, florida|0|Error|1|2
+24781626|tallahassee, florida|51235159|Reading, PA|1|2
+24781626|tallahassee, florida|22031072|Houston, TX|1|2
+24781626|tallahassee, florida|68232283|Georgia|1|2
+16262866|tallahassee, fl|20453986|Leicester|3|2
+16262866|tallahassee, fl|0|Error|1|2
+16262866|tallahassee, fl|0|Error|1|2
+16262866|tallahassee, fl|0|Error|1|2
+16262866|tallahassee, fl|0|Error|1|2
+16262866|tallahassee, fl|0|Error|1|2
+16262866|tallahassee, fl|16447325|Philadelphia, PA|1|2
+16262866|tallahassee, fl|7119392|Cranston, Rhode Island|1|2
+16262866|tallahassee, fl|0|Error|1|2
+16262866|tallahassee, fl|16262866|Tallahassee, FL|1|2
+16262866|tallahassee, fl|26642048|Tallahassee, FL|1|2
+16262866|tallahassee, fl|47653052|Los Angeles|1|2
+16262866|tallahassee, fl|50818659|Error|1|2
+16262866|tallahassee, fl|298922992|Error|1|2
+16262866|tallahassee, fl|19328984|Orlando FL|1|2
+16262866|tallahassee, fl|1054711254|Error|1|2
+16262866|tallahassee, fl|16434027|BK  2 LA |1|2
+16262866|tallahassee, fl|36793266|Orlando, FL  |1|2
+16262866|tallahassee, fl|0|Error|1|2
+16262866|tallahassee, fl|0|Error|1|2
+16262866|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|23206653|Kissimmee, FL|3|2
+44706959|tallahassee, fl|74204395|Florida|3|2
+44706959|tallahassee, fl|15054698|Central Florida|2|2
+44706959|tallahassee, fl|32478407|New Port Richey, Florida|2|2
+44706959|tallahassee, fl|23335901|Tallahassee, FL|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|59012899|Tallahassee, FL |1|2
+44706959|tallahassee, fl|16024738|Seattle, Wa|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|45368376|Portland, OR|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|52108952|Greenville, SC|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|27161215|Los Angeles|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|44915776|Central Florida|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|28196990|every where|1|2
+44706959|tallahassee, fl|1181547944|Error|1|2
+44706959|tallahassee, fl|0|Error|1|2
+44706959|tallahassee, fl|19291517|Utah|1|2
+44706959|tallahassee, fl|69443442|Gainesville, Fl|1|2
+44706959|tallahassee, fl|50017917|St Louis, MO, USA|1|2
+21115686|tallahassee, fl|0|Error|3|2
+21115686|tallahassee, fl|0|Error|2|2
+21115686|tallahassee, fl|0|Error|2|2
+21115686|tallahassee, fl|0|Error|1|2
+21115686|tallahassee, fl|335673680|Tuba, Benguet,Philippines|1|2
+21115686|tallahassee, fl|0|Error|1|2
+21115686|tallahassee, fl|0|Error|1|2
+21115686|tallahassee, fl|0|Error|1|2
+21115686|tallahassee, fl|17412940|Evanston, Illinois|1|2
+21115686|tallahassee, fl|27020177|NYC|1|2
+47461519|tallahassee, fl|38611949|Dallas, TX|5|2
+47461519|tallahassee, fl|58362567|Chicago, IL|4|2
+47461519|tallahassee, fl|47374019|GU|1|2
+47461519|tallahassee, fl|286434772|Error|1|2
+47461519|tallahassee, fl|27386416|iPhone: 41.499233,-87.929871|1|2
+47461519|tallahassee, fl|43267963|Tim Ferry's attic|1|2
+47461519|tallahassee, fl|233830075|Belton, MO|1|2
+47461519|tallahassee, fl|418941802|Error|1|2
+47461519|tallahassee, fl|0|Error|1|2
+56905625|tallahassee, fl|0|Error|4|2
+56905625|tallahassee, fl|0|Error|2|2
+56905625|tallahassee, fl|19632690|City Of Sin|2|2
+56905625|tallahassee, fl|146208911|Orlando, FL|1|2
+56905625|tallahassee, fl|25641112|Floriduh|1|2
+56905625|tallahassee, fl|56905625|Logan Square, Chicago, IL|1|2
+56905625|tallahassee, fl|0|Error|1|2
+56905625|tallahassee, fl|36704328|L.A./Manitou|1|2
+56905625|tallahassee, fl|1066340186|Error|1|2
+56905625|tallahassee, fl|0|Error|1|2
+56905625|tallahassee, fl|18766726|New york, New york|1|2
+56905625|tallahassee, fl|0|Error|1|2
+56905625|tallahassee, fl|0|Error|1|2
+56905625|tallahassee, fl|0|Error|1|2
+56905625|tallahassee, fl|15174948|philadelphia|1|2
+56905625|tallahassee, fl|20733906|hell on earth|1|2
+56905625|tallahassee, fl|0|Error|1|2
+50090927|tallahassee, florida|2191370166|Error|14|2
+50090927|tallahassee, florida|50090343|Tallahassee, Florida|10|2
+50090927|tallahassee, florida|50091436|Tallahassee, Florida|4|2
+50090927|tallahassee, florida|50092701|Tallahassee, Florida|2|2
+50090927|tallahassee, florida|50089699|Tallahassee, Florida|2|2
+50090927|tallahassee, florida|50093251|Tallahassee, Florida|1|2
+50090927|tallahassee, florida|50090927|Tallahassee, Florida|1|2
+90330394|tallahassee, florida|76085488|Kirkland, WA|1|2
+90330394|tallahassee, florida|0|Error|1|2
+90330394|tallahassee, florida|91008042|Error|1|2
+6576142|tallahassee, fl|13643592|Lawrenceville, GA|8|2
+6576142|tallahassee, fl|29393264|Coast City, Iowa|7|2
+6576142|tallahassee, fl|22407399|Germany|4|2
+6576142|tallahassee, fl|19334304|Dublin, Ireland|2|2
+6576142|tallahassee, fl|1531315208|Error|2|2
+6576142|tallahassee, fl|1087641109|Error|2|2
+6576142|tallahassee, fl|0|Error|1|2
+6576142|tallahassee, fl|1245061142|Error|1|2
+6576142|tallahassee, fl|9191422|near a martini-always, forever|1|2
+6576142|tallahassee, fl|18035762|RAP Land Historical Neighborho|1|2
+6576142|tallahassee, fl|5380672|Chicago, IL|1|2
+6576142|tallahassee, fl|0|Error|1|2
+6576142|tallahassee, fl|25600376|Cincinnati|1|2
+6576142|tallahassee, fl|13685832|Los Angeles, CA|1|2
+6576142|tallahassee, fl|7319642|Norcross, GA|1|2
+6576142|tallahassee, fl|48174129|Error|1|2
+6576142|tallahassee, fl|17111359|Toronto, Canada|1|2
+6576142|tallahassee, fl|6572452|Coast City, IA|1|2
+6576142|tallahassee, fl|28028204|New York, NY, USA|1|2
+16406712|tallahassee, fl|14066024|Washington, DC|14|2
+16406712|tallahassee, fl|21626771|Beautiful Nebraska|13|2
+16406712|tallahassee, fl|15593412|Detroit|12|2
+16406712|tallahassee, fl|20345315|Metro Jackson, MS|10|2
+16406712|tallahassee, fl|16831827|Georgia|9|2
+16406712|tallahassee, fl|16281874|Napa Valley, California|6|2
+16406712|tallahassee, fl|11771512|Washington, DC|5|2
+16406712|tallahassee, fl|2319684774|Error|5|2
+16406712|tallahassee, fl|11640472|Minneapolis, MN|5|2
+16406712|tallahassee, fl|24002724|Washington, DC USA|5|2
+16406712|tallahassee, fl|15150560|Atlanta, GA|5|2
+16406712|tallahassee, fl|0|Error|4|2
+16406712|tallahassee, fl|14402269|Fort Worth TX|4|2
+16406712|tallahassee, fl|23823418|Error|3|2
+16406712|tallahassee, fl|0|Error|3|2
+16406712|tallahassee, fl|16129920|New York, NY USA|3|2
+16406712|tallahassee, fl|19687497|ohio|3|2
+16406712|tallahassee, fl|13843082|Atlanta, GA|3|2
+16406712|tallahassee, fl|22281684|BeYourOwnHero|3|2
+16406712|tallahassee, fl|24943077|left of the dial, MN|3|2
+16406712|tallahassee, fl|9956892|Los Angeles|3|2
+16406712|tallahassee, fl|569796299|Error|3|2
+16406712|tallahassee, fl|83883736|Error|3|2
+16406712|tallahassee, fl|0|Error|3|2
+16406712|tallahassee, fl|17105374|Los Angeles|2|2
+16406712|tallahassee, fl|188637639|Error|2|2
+16406712|tallahassee, fl|778057|Washington, DC|2|2
+16406712|tallahassee, fl|26295094|Cambridge, MA|2|2
+16406712|tallahassee, fl|20091303|Austin, TX|2|2
+16406712|tallahassee, fl|15292813|State of Confusion|2|2
+16406712|tallahassee, fl|12211422|Boulder, Colorado|2|2
+16406712|tallahassee, fl|14075928|Error|2|2
+16406712|tallahassee, fl|55123635|Tehran|2|2
+16406712|tallahassee, fl|14389102|Tampa, FL|2|2
+16406712|tallahassee, fl|22349804|Hobart|2|2
+16406712|tallahassee, fl|16672695|Georgia|2|2
+16406712|tallahassee, fl|15742046|Fort Lauderdale, FL|2|2
+16406712|tallahassee, fl|1646418289|Error|2|2
+16406712|tallahassee, fl|10252962|Los Angeles, CA|2|2
+16406712|tallahassee, fl|0|Error|2|2
+16406712|tallahassee, fl|40585382|United States|2|2
+16406712|tallahassee, fl|2209247742|Error|2|2
+16406712|tallahassee, fl|807095|New York City|2|2
+16406712|tallahassee, fl|15248462|Tallahassee, FL|2|2
+16406712|tallahassee, fl|38694500|California|2|2
+16406712|tallahassee, fl|36401728|Durham, NC|1|2
+16406712|tallahassee, fl|26706833|Pasadena, CA|1|2
+16406712|tallahassee, fl|6604072|Decatur, GA (U.S.)|1|2
+16406712|tallahassee, fl|14823212|The Absolution, deep space|1|2
+16406712|tallahassee, fl|17240750|SEATTLE, WA|1|2
+16406712|tallahassee, fl|21354459|Los Angeles CA|1|2
+16406712|tallahassee, fl|17004618|Everywhere|1|2
+16406712|tallahassee, fl|21690874|Wichita KS|1|2
+16406712|tallahassee, fl|1578627494|Error|1|2
+16406712|tallahassee, fl|38402895|Boston|1|2
+16406712|tallahassee, fl|38611183|Encino, CA and the world|1|2
+16406712|tallahassee, fl|26038606|Florida|1|2
+16406712|tallahassee, fl|30973|Seattle, WA|1|2
+16406712|tallahassee, fl|0|Error|1|2
+16406712|tallahassee, fl|22154398|Toronto|1|2
+16406712|tallahassee, fl|54343977|Error|1|2
+16406712|tallahassee, fl|14423460|Los Angeles, CA|1|2
+16406712|tallahassee, fl|14982315|Los Angeles|1|2
+16406712|tallahassee, fl|0|Error|1|2
+16406712|tallahassee, fl|16434554|Atlanta|1|2
+16406712|tallahassee, fl|21600144|New York|1|2
+16406712|tallahassee, fl|875808246|Sydney|1|2
+16406712|tallahassee, fl|344447823|Error|1|2
+16406712|tallahassee, fl|24729040|St. Petersburg, FL|1|2
+16406712|tallahassee, fl|656013|Fayetteville, GA|1|2
+16406712|tallahassee, fl|1947301|Error|1|2
+16406712|tallahassee, fl|12134692|Washington, D.C.|1|2
+16406712|tallahassee, fl|16906137|Error|1|2
+16406712|tallahassee, fl|314120871|At your service|1|2
+16406712|tallahassee, fl|22310282|Wouldn't you like to know|1|2
+16406712|tallahassee, fl|8936082|Error|1|2
+16406712|tallahassee, fl|0|Error|1|2
+16406712|tallahassee, fl|0|Error|1|2
+16406712|tallahassee, fl|90420314|Manhattanland|1|2
+16406712|tallahassee, fl|17979024|boston-ish|1|2
+16406712|tallahassee, fl|52839239|LA | MI | NYC|1|2
+16406712|tallahassee, fl|0|Error|1|2
+16406712|tallahassee, fl|23888081|Hollyweird|1|2
+16406712|tallahassee, fl|59493184|Boston, Ma|1|2
+16406712|tallahassee, fl|15982094|Atlanta|1|2
+16406712|tallahassee, fl|3234683635|Error|1|2
+16406712|tallahassee, fl|14939981|Philly & Fi-Di NYC & 31Rock|1|2
+16406712|tallahassee, fl|0|Error|1|2
+16406712|tallahassee, fl|18634085|Chicago, Illinois|1|2
+16406712|tallahassee, fl|820585|Brooklyn, NY|1|2
+16406712|tallahassee, fl|29580202|Richmond, VA USA|1|2
+16406712|tallahassee, fl|16478273|Broad Ripple USA|1|2
+16406712|tallahassee, fl|11384102|Washington D.C., mostly|1|2
+16406712|tallahassee, fl|0|Error|1|2
+16406712|tallahassee, fl|0|Error|1|2
+16406712|tallahassee, fl|0|Error|1|2
+16406712|tallahassee, fl|0|Error|1|2
+50092701|tallahassee, florida|2191370166|Error|12|2
+50092701|tallahassee, florida|50090927|Tallahassee, Florida|7|2
+50092701|tallahassee, florida|50091976|Tallahassee, Florida|5|2
+50092701|tallahassee, florida|50090343|Tallahassee, Florida|3|2
+50092701|tallahassee, florida|23335901|Tallahassee, FL|2|2
+50092701|tallahassee, florida|50091436|Tallahassee, Florida|2|2
+50092701|tallahassee, florida|50089699|Tallahassee, Florida|2|2
+50092701|tallahassee, florida|0|Error|1|2
+50092701|tallahassee, florida|50093251|Tallahassee, Florida|1|2
+50092701|tallahassee, florida|0|Error|1|2
+50092701|tallahassee, florida|0|Error|1|2
+28466076|tallahassee, fl|15146558|Delaware|4|2
+28466076|tallahassee, fl|0|Error|2|2
+28466076|tallahassee, fl|36686040|Los Angeles/Washington, D.C.|1|2
+28466076|tallahassee, fl|0|Error|1|2
+28466076|tallahassee, fl|16023029|Charlotte, NC|1|2
+28466076|tallahassee, fl|27583805|Error|1|2
+28466076|tallahassee, fl|45499837|Partridge, KS|1|2
+28466076|tallahassee, fl|29247941|Denver, CO|1|2
+28466076|tallahassee, fl|14765585|earth|1|2
+35151322|tallahassee, fl|20442272|The Darkside|4|2
+35151322|tallahassee, fl|64388786|Jacksonville, Florida|2|2
+35151322|tallahassee, fl|0|Error|1|2
+35151322|tallahassee, fl|18755291|OAKLAND|1|2
+35151322|tallahassee, fl|0|Error|1|2
+35151322|tallahassee, fl|123158500|Grand Rapids|1|2
+21128685|tallahassee, florida|15379375|Tallahassee, Florida|4|2
+21128685|tallahassee, florida|21128685|Tallahassee, Florida|4|2
+21128685|tallahassee, florida|46687417|Tallahassee, FL/Valdosta, GA|3|2
+21128685|tallahassee, florida|28569510|New York City|2|2
+21128685|tallahassee, florida|0|Error|2|2
+21128685|tallahassee, florida|17064079|Berkeley Heights, NJ|2|2
+21128685|tallahassee, florida|13574592|Error|2|2
+21128685|tallahassee, florida|65914790|Tallahassee|2|2
+21128685|tallahassee, florida|19032050|Tallahassee, Florida|1|2
+21128685|tallahassee, florida|26399477|Baltimore, MD|1|2
+21128685|tallahassee, florida|25293746|Tallahassee, FLA|1|2
+21128685|tallahassee, florida|19325053|Tallahassee, FL|1|2
+21128685|tallahassee, florida|15377897|Houston, Texas|1|2
+21128685|tallahassee, florida|17993342|New York, Cincinnati, Planes|1|2
+21128685|tallahassee, florida|24280831|Tallahassee, Florida|1|2
+21128685|tallahassee, florida|11489|San Francisco, CA |1|2
+21128685|tallahassee, florida|19314845|Greater Philly/Lehigh Valley|1|2
+21128685|tallahassee, florida|10753742|Glendale, California|1|2
+21128685|tallahassee, florida|15427422| San Francisco|1|2
+21128685|tallahassee, florida|24677596|Tallahassee, FL|1|2
+21128685|tallahassee, florida|0|Error|1|2
+21128685|tallahassee, florida|17799367|Miami / New York City |1|2
+21128685|tallahassee, florida|8884642|Central, NJ|1|2
+21128685|tallahassee, florida|0|Error|1|2
+21128685|tallahassee, florida|17543272|SE Missouri Ozarks via STL|1|2
+21128685|tallahassee, florida|16834572|Error|1|2
+21128685|tallahassee, florida|71084983|Tallahassee, FL |1|2
+46687417|tallahassee, fl|46687417|Tallahassee, FL/Valdosta, GA|4|2
+46687417|tallahassee, fl|920183016|Error|4|2
+46687417|tallahassee, fl|0|Error|3|2
+46687417|tallahassee, fl|7773852|Error|3|2
+46687417|tallahassee, fl|24280831|Tallahassee, Florida|2|2
+46687417|tallahassee, fl|17517138|Washington, D.C.|2|2
+46687417|tallahassee, fl|14323784|Oakland, CA|1|2
+46687417|tallahassee, fl|0|Error|1|2
+24012913|tallahassee, fl|24125760|ATL Shawty|4|2
+24012913|tallahassee, fl|0|Error|4|2
+24012913|tallahassee, fl|22450947|Charlotte,NC|3|2
+24012913|tallahassee, fl|15896559|St. Louis|2|2
+24012913|tallahassee, fl|0|Error|2|2
+24012913|tallahassee, fl|27972759|Las Vegas, NV|2|2
+24012913|tallahassee, fl|0|Error|1|2
+24012913|tallahassee, fl|0|Error|1|2
+24012913|tallahassee, fl|0|Error|1|2
+24012913|tallahassee, fl|0|Error|1|2
+24012913|tallahassee, fl|26139074|LIONS ROCK|1|2
+24012913|tallahassee, fl|22652492|Bro Cal aka, armpit of America|1|2
+24012913|tallahassee, fl|51550006|Error|1|2
+24012913|tallahassee, fl|222611830|Houston|1|2
+24012913|tallahassee, fl|1553868738|Rye, NH|1|2
+24012913|tallahassee, fl|160652337|Stalkersville|1|2
+24012913|tallahassee, fl|15069555|Error|1|2
+24012913|tallahassee, fl|63253045|Monster Energy|1|2
+24012913|tallahassee, fl|0|Error|1|2
+24012913|tallahassee, fl|29117800|Las Vegas, NV|1|2
+24012913|tallahassee, fl|36733813|San Diego|1|2
+24012913|tallahassee, fl|0|Error|1|2
+24012913|tallahassee, fl|3171850966|Error|1|2
+24012913|tallahassee, fl|21772352|Error|1|2
+24012913|tallahassee, fl|39706556|SoFlo|1|2
+24012913|tallahassee, fl|22777734|Error|1|2
+24012913|tallahassee, fl|25841271|duncanville, tx|1|2
+27158217|tallahassee, fl|0|Error|8|2
+27158217|tallahassee, fl|2254866121|Error|3|2
+27158217|tallahassee, fl|0|Error|3|2
+27158217|tallahassee, fl|44172517|Somewhere in Brooklyn....|2|2
+27158217|tallahassee, fl|258801707|Praising God To The Fullest|1|2
+27158217|tallahassee, fl|103165887|Error|1|2
+27158217|tallahassee, fl|38669584|Error|1|2
+27158217|tallahassee, fl|0|Error|1|2
+27158217|tallahassee, fl|1067189809|Error|1|2
+27158217|tallahassee, fl|183295340|Error|1|2
+27158217|tallahassee, fl|0|Error|1|2
+27158217|tallahassee, fl|0|Error|1|2
+27158217|tallahassee, fl|0|Error|1|2
+27158217|tallahassee, fl|0|Error|1|2
+27158217|tallahassee, fl|0|Error|1|2
+27158217|tallahassee, fl|19959545|Florida|1|2
+76704731|tallahassee, fl|79743352|Over the rainbow|2|2
+76704731|tallahassee, fl|619097168|Error|1|2
+76704731|tallahassee, fl|0|Error|1|2
+20999287|tallahassee, florida|24725944|Columbus, OH|2|2
+20999287|tallahassee, florida|0|Error|1|2
+20999287|tallahassee, florida|0|Error|1|2
+20999287|tallahassee, florida|0|Error|1|2
+20999287|tallahassee, florida|0|Error|1|2
+20999287|tallahassee, florida|68484068|here and there|1|2
+20999287|tallahassee, florida|0|Error|1|2
+20999287|tallahassee, florida|0|Error|1|2
+20999287|tallahassee, florida|21349535|Tallahassee, Florida|1|2
+20999287|tallahassee, florida|20999287|Tallahassee, Florida|1|2
+20999287|tallahassee, florida|0|Error|1|2
+20999287|tallahassee, florida|7630292|Error|1|2
+20999287|tallahassee, florida|22750343|Bakersfield, Ca.|1|2
+20999287|tallahassee, florida|19727381|Somewhere|1|2
+15233159|tallahassee, florida|79144398|Bangkok, Thailand|6|2
+15233159|tallahassee, florida|2665381|Huntington Beach, CA|6|2
+15233159|tallahassee, florida|0|Error|4|2
+15233159|tallahassee, florida|12626962|Global|2|2
+15233159|tallahassee, florida|955221|China|2|2
+15233159|tallahassee, florida|20536157|Mountain View, CA|2|2
+15233159|tallahassee, florida|36078187|New York, NY, USA|2|2
+15233159|tallahassee, florida|24749144|Error|1|2
+15233159|tallahassee, florida|14687193|NYC|1|2
+15233159|tallahassee, florida|662763|SFO, BOS, NYC|1|2
+15233159|tallahassee, florida|36265276|Error|1|2
+15233159|tallahassee, florida|2875091|Sydney, Australia|1|2
+15233159|tallahassee, florida|13201312|Global|1|2
+15233159|tallahassee, florida|19752773|Error|1|2
+15233159|tallahassee, florida|15769327|Washington, DC|1|2
+15233159|tallahassee, florida|14800270|Boston, MA|1|2
+15233159|tallahassee, florida|82383532|Berlin|1|2
+15233159|tallahassee, florida|0|Error|1|2
+15233159|tallahassee, florida|0|Error|1|2
+15233159|tallahassee, florida|11018442|United States|1|2
+15233159|tallahassee, florida|0|Error|1|2
+15233159|tallahassee, florida|44185213|Panama City Beach, FL|1|2
+15233159|tallahassee, florida|22503733|Error|1|2
+15233159|tallahassee, florida|22819411|Tallahassee, FL|1|2
+15233159|tallahassee, florida|0|Error|1|2
+15233159|tallahassee, florida|0|Error|1|2
+15233159|tallahassee, florida|8820652|San Diego, California |1|2
+15233159|tallahassee, florida|12480582|New York and beyond...|1|2
+15233159|tallahassee, florida|0|Error|1|2
+15233159|tallahassee, florida|0|Error|1|2
+15233159|tallahassee, florida|0|Error|1|2
+15233159|tallahassee, florida|13436432|Las Vegas, NV|1|2
+15233159|tallahassee, florida|28837859|on the go|1|2
+70284681|tallahassee, florida|15379375|Tallahassee, Florida|2|2
+70284681|tallahassee, florida|23236422|Tallahassee, FL|2|2
+70284681|tallahassee, florida|0|Error|1|2
+70284681|tallahassee, florida|17517138|Washington, D.C.|1|2
+70284681|tallahassee, florida|50099781|Tallahassee, FL|1|2
+70284681|tallahassee, florida|70284681|Tallahassee, Florida|1|2
+70284681|tallahassee, florida|0|Error|1|2
+9206312|tallahassee, florida|23528011|Tallahassee, Fl |13|2
+9206312|tallahassee, florida|37853|Error|9|2
+9206312|tallahassee, florida|17236619|DC/AZ|6|2
+9206312|tallahassee, florida|31033919|South Florida|4|2
+9206312|tallahassee, florida|18286448|Surrounded by Inspiration|3|2
+9206312|tallahassee, florida|0|Error|2|2
+9206312|tallahassee, florida|25233616|Florida|2|2
+9206312|tallahassee, florida|16603524|upstream kayak thru blood|2|2
+9206312|tallahassee, florida|633960880|Tallahassee, Capital City|2|2
+9206312|tallahassee, florida|24953312|Everywhere the flow goes|2|2
+9206312|tallahassee, florida|8509322|At work|2|2
+9206312|tallahassee, florida|27923878|Florida|2|2
+9206312|tallahassee, florida|9206312|Tallahassee, United States|2|2
+9206312|tallahassee, florida|2324093415|Error|1|2
+9206312|tallahassee, florida|0|Error|1|2
+9206312|tallahassee, florida|0|Error|1|2
+9206312|tallahassee, florida|2574035315|Error|1|2
+9206312|tallahassee, florida|16354305|London, Inkland|1|2
+9206312|tallahassee, florida|8857522|New York, NY|1|2
+9206312|tallahassee, florida|0|Error|1|2
+9206312|tallahassee, florida|0|Error|1|2
+15498983|tallahassee, fl|2819833293|Ireland! |2|2
+15498983|tallahassee, fl|14949009|Midwest & Beyond.|2|2
+15498983|tallahassee, fl|15464883|Austin, TX|2|2
+15498983|tallahassee, fl|49067513|Atlanta|1|2
+15498983|tallahassee, fl|414682230|Error|1|2
+15498983|tallahassee, fl|19980136|FFX VA/Hong Kong|1|2
+15498983|tallahassee, fl|428333|Everywhere|1|2
+15498983|tallahassee, fl|657863|New York, NY|1|2
+15498983|tallahassee, fl|32429566|midwest is best|1|2
+15498983|tallahassee, fl|1799511|Chicago, IL|1|2
+15498983|tallahassee, fl|33423|Philadelphia|1|2
+15498983|tallahassee, fl|16727535|Austin/Aspen|1|2
+15498983|tallahassee, fl|0|Error|1|2
+15498983|tallahassee, fl|26432068|San Francisco|1|2
+15498983|tallahassee, fl|615803|Chicago, IL|1|2
+15498983|tallahassee, fl|60580314|Error|1|2
+15498983|tallahassee, fl|26146578|the Voyde|1|2
+15498983|tallahassee, fl|338601496|Las Vegas, Nevada|1|2
+15498983|tallahassee, fl|752736691|Brighton|1|2
+15498983|tallahassee, fl|363188411|IG  @babyfists|1|2
+15498983|tallahassee, fl|1497|Chicago, IL|1|2
+15498983|tallahassee, fl|15300405|Chicago, IL|1|2
+24280831|tallahassee, florida|24280831|Tallahassee, Florida|7|2
+24280831|tallahassee, florida|52652700|Tallahassee, Florida|6|2
+24280831|tallahassee, florida|16097977|Wilmington, NC|5|2
+24280831|tallahassee, florida|0|Error|4|2
+24280831|tallahassee, florida|14689601|Tallahassee, FL|2|2
+24280831|tallahassee, florida|15395239|Lakeland, FL|2|2
+24280831|tallahassee, florida|14901639|Brooklyn NY|2|2
+24280831|tallahassee, florida|8383592|St. Petersburg, Fla.|1|2
+24280831|tallahassee, florida|14084098|Tallahassee, FL|1|2
+24280831|tallahassee, florida|21607764|Atlanta, GA|1|2
+24280831|tallahassee, florida|0|Error|1|2
+24280831|tallahassee, florida|0|Error|1|2
+24280831|tallahassee, florida|0|Error|1|2
+24280831|tallahassee, florida|24582248|Tallahassee/Florida|1|2
+24280831|tallahassee, florida|15958265|Frisco, TX|1|2
+24280831|tallahassee, florida|0|Error|1|2
+24280831|tallahassee, florida|17159134|Tallahassee, FL|1|2
+24280831|tallahassee, florida|8646742|Tallahassee, Florida|1|2
+24280831|tallahassee, florida|13725112|IOWA|1|2
+24280831|tallahassee, florida|1226395248|Error|1|2
+24280831|tallahassee, florida|14146279|Tallahassee|1|2
+24280831|tallahassee, florida|22657815|Tallahassee, FL|1|2
+24280831|tallahassee, florida|825500988|Lyon |1|2
+24280831|tallahassee, florida|89872526|Error|1|2
+24280831|tallahassee, florida|76801467|Online|1|2
+24280831|tallahassee, florida|40142757|Tallahassee, FL|1|2
+24280831|tallahassee, florida|14983161|Tallahassee, FL|1|2
+24280831|tallahassee, florida|0|Error|1|2
+69633095|tallahassee, fl|17007608|Manhattan Beach, CA|5|2
+69633095|tallahassee, fl|0|Error|4|2
+69633095|tallahassee, fl|17049255|United States|4|2
+69633095|tallahassee, fl|14323863|New York, NY|3|2
+69633095|tallahassee, fl|23794763|Alexandria, VA|3|2
+69633095|tallahassee, fl|7558582|New York|3|2
+69633095|tallahassee, fl|34812001|Florida|3|2
+69633095|tallahassee, fl|14266331|New York City|2|2
+69633095|tallahassee, fl|9624042|Memphis, TN|2|2
+69633095|tallahassee, fl|16616061|Atlanta, GA|1|2
+69633095|tallahassee, fl|24052323|Alexandria, VA|1|2
+69633095|tallahassee, fl|0|Error|1|2
+69633095|tallahassee, fl|0|Error|1|2
+69633095|tallahassee, fl|0|Error|1|2
+69633095|tallahassee, fl|23147574|Error|1|2
+69633095|tallahassee, fl|0|Error|1|2
+69633095|tallahassee, fl|0|Error|1|2
+69633095|tallahassee, fl|1528384508|Error|1|2
+69633095|tallahassee, fl|0|Error|1|2
+69633095|tallahassee, fl|0|Error|1|2
+69633095|tallahassee, fl|19658936|Atlanta, GA|1|2
+69633095|tallahassee, fl|8539242|White Plains, NY|1|2
+69633095|tallahassee, fl|256347030|Chicago, IL|1|2
+16024738|tallahassee, florida|32987362|The Garden State|3|2
+16024738|tallahassee, florida|16030036|Orlando, FL|3|2
+16024738|tallahassee, florida|31453667|Amarillo, Texas|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|17129344|Maine, United States|1|2
+16024738|tallahassee, florida|22316882|iPhone: 42.377087,-71.579781|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|18945484|Washington D.C.|1|2
+16024738|tallahassee, florida|52546649|DeKalb, Illinois|1|2
+16024738|tallahassee, florida|24638045|Bryce Canyon National Park, UT|1|2
+16024738|tallahassee, florida|16024738|Seattle, Wa|1|2
+16024738|tallahassee, florida|1040391|San Francisco, CA|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|17707118|Error|1|2
+16024738|tallahassee, florida|809760|Nebraska and NYC|1|2
+16024738|tallahassee, florida|22776159|Florida, USA|1|2
+16024738|tallahassee, florida|29460627|Sunrise, FL|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|20882220|Bath, Maine USA|1|2
+16024738|tallahassee, florida|28526953|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|25927998|Indianapolis, IN|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|12088232|Blacksburg, VA|1|2
+16024738|tallahassee, florida|21507883|New Delhi, India|1|2
+16024738|tallahassee, florida|15510821|Colorado, USA|1|2
+16024738|tallahassee, florida|18607667|LA+Hollyshould|1|2
+16024738|tallahassee, florida|14996807|Laramie, WY|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|36203209|Calgary, Alberta, Canada|1|2
+16024738|tallahassee, florida|16164564|Commerce Twp., Michigan|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|7322542|IL|1|2
+16024738|tallahassee, florida|21847368|London|1|2
+18384086|tallahassee, fl|25112117|iPhone: 30.488434,-84.001068|5|2
+18384086|tallahassee, fl|11738562|Tallahassee, Florida|4|2
+18384086|tallahassee, fl|30906062|Tallahassee, Fl|3|2
+18384086|tallahassee, fl|20652820|Brooklyn|2|2
+18384086|tallahassee, fl|3240539515|alexunmuted.com|2|2
+18384086|tallahassee, fl|21642231|Planet Earph|2|2
+18384086|tallahassee, fl|560688472|Error|2|2
+18384086|tallahassee, fl|25187153|South Beach, Miami|2|2
+18384086|tallahassee, fl|23841533|{NY LA CHI ATL DET  WORLDWIDE}|1|2
+18384086|tallahassee, fl|0|Error|1|2
+18384086|tallahassee, fl|18384086|Tallahassee, FL|1|2
+18384086|tallahassee, fl|455035103|posted|1|2
+18384086|tallahassee, fl|30773200|The Bible Belt|1|2
+18384086|tallahassee, fl|40066461|Global|1|2
+18384086|tallahassee, fl|0|Error|1|2
+18384086|tallahassee, fl|0|Error|1|2
+18384086|tallahassee, fl|16878549|Cleveland, OH. / Atlanta, GA |1|2
+18384086|tallahassee, fl|16603763|Cleveland|1|2
+18384086|tallahassee, fl|0|Error|1|2
+18384086|tallahassee, fl|17355779|Atlanta|1|2
+18384086|tallahassee, fl|473458845|Error|1|2
+18384086|tallahassee, fl|0|Error|1|2
+18384086|tallahassee, fl|0|Error|1|2
+18384086|tallahassee, fl|39218234|Earth|1|2
+18384086|tallahassee, fl|15429786|Error|1|2
+18384086|tallahassee, fl|47107785|FLA/ATL|1|2
+18384086|tallahassee, fl|19765364|The Carolinas (CLT/CHS)|1|2
+18384086|tallahassee, fl|0|Error|1|2
+18384086|tallahassee, fl|16988279|Error|1|2
+18384086|tallahassee, fl|0|Error|1|2
+18384086|tallahassee, fl|20353761|Los Angeles, CA|1|2
+18384086|tallahassee, fl|18444655|A Studio or Stage Near You|1|2
+18384086|tallahassee, fl|0|Error|1|2
+18384086|tallahassee, fl|30304649|TampAtlanta|1|2
+18384086|tallahassee, fl|16331990|I'm a mile high now!|1|2
+18384086|tallahassee, fl|0|Error|1|2
+18384086|tallahassee, fl|24782413|Florida/Georgia|1|2
+18384086|tallahassee, fl|0|Error|1|2
+18384086|tallahassee, fl|101889487|Error|1|2
+18384086|tallahassee, fl|24435666|US, Canada and Brazil|1|2
+59541439|tallahassee, fl|0|Error|4|2
+59541439|tallahassee, fl|287835535|New York, NY|2|2
+59541439|tallahassee, fl|0|Error|1|2
+59541439|tallahassee, fl|41508431|The OC|1|2
+59541439|tallahassee, fl|59541439|ATL/MIAMI/FT LAUDERDALE|1|2
+59541439|tallahassee, fl|61521908|Houston, TX|1|2
+59541439|tallahassee, fl|0|Error|1|2
+59541439|tallahassee, fl|458422175|P_P Town|1|2
+59541439|tallahassee, fl|0|Error|1|2
+59541439|tallahassee, fl|49079990|toronto, CA |1|2
+59541439|tallahassee, fl|547172407|Error|1|2
+26643500|tallahassee, fl|52058864|Tallahassee, Florida|6|2
+26643500|tallahassee, fl|371050589|Error|6|2
+26643500|tallahassee, fl|0|Error|4|2
+26643500|tallahassee, fl|17866414|Florida, USA|2|2
+26643500|tallahassee, fl|0|Error|1|2
+26643500|tallahassee, fl|0|Error|1|2
+26643500|tallahassee, fl|14573914|New York, NY|1|2
+26643500|tallahassee, fl|21580719|Error|1|2
+26643500|tallahassee, fl|6833302|Nashville, TN|1|2
+19551961|tallahassee, fl|27968381|Tallahassee, Fla.|2|2
+19551961|tallahassee, fl|15822299|Tallahassee, Florida|2|2
+19551961|tallahassee, fl|15814111|Florida|2|2
+19551961|tallahassee, fl|23335901|Tallahassee, FL|1|2
+19551961|tallahassee, fl|11244472|Louisville, KY|1|2
+19551961|tallahassee, fl|829537364|West Palm Beach, FL|1|2
+19551961|tallahassee, fl|17753426|Error|1|2
+19551961|tallahassee, fl|16537394|Las Vegas, NV|1|2
+80112983|tallahassee, fl|9324442|New York|1|2
+25203129|tallahassee, fl|0|Error|3|2
+25203129|tallahassee, fl|0|Error|3|2
+25203129|tallahassee, fl|1939409192|Error|2|2
+25203129|tallahassee, fl|93393643|Amsterdam|2|2
+25203129|tallahassee, fl|13946352|Error|2|2
+25203129|tallahassee, fl|15816246|Columbia, SC|2|2
+25203129|tallahassee, fl|22516489|Atlanta|2|2
+25203129|tallahassee, fl|15176400|Garland TX|1|2
+25203129|tallahassee, fl|6564562|Error|1|2
+25203129|tallahassee, fl|16525791|Pune (INDIA)|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|18040321|US east coast|1|2
+25203129|tallahassee, fl|47103804|North West, England|1|2
+25203129|tallahassee, fl|7888722|Error|1|2
+25203129|tallahassee, fl|15011623|New Jersey|1|2
+25203129|tallahassee, fl|16214407|I am, where you are not|1|2
+25203129|tallahassee, fl|18933832|Dubai UAE|1|2
+25203129|tallahassee, fl|21781793|Baltimore, MD USA|1|2
+25203129|tallahassee, fl|18839022|NYC|1|2
+25203129|tallahassee, fl|1187734086|Fantasy Account|1|2
+25203129|tallahassee, fl|274738397|Error|1|2
+25203129|tallahassee, fl|89116243|Houston Texas|1|2
+25203129|tallahassee, fl|23618784|Dubai UAE|1|2
+25203129|tallahassee, fl|479566160|Error|1|2
+25203129|tallahassee, fl|15723345|Texas|1|2
+25203129|tallahassee, fl|14951992|Connecticut, USA|1|2
+25203129|tallahassee, fl|156376476|Error|1|2
+25203129|tallahassee, fl|17478821|Houston, Texas|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|67412604|Louisville, KY|1|2
+25203129|tallahassee, fl|5482582|USA|1|2
+25203129|tallahassee, fl|14886572|Louisville, KY|1|2
+25203129|tallahassee, fl|9051342|Maroubra, Sydney|1|2
+25203129|tallahassee, fl|14216754|Pittsburgh, PA|1|2
+25203129|tallahassee, fl|43564982|NJ|1|2
+25203129|tallahassee, fl|16720789|India|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|41664879|Atlanta, GA.|1|2
+25203129|tallahassee, fl|14102146|Sydney, Australia|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|16616494|Ploiesti, Romania|1|2
+25203129|tallahassee, fl|18921808|To the Left...to the left|1|2
+25203129|tallahassee, fl|14906520|Milan & Sassari, Italy|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|24692498|Atlanta, GA|1|2
+25203129|tallahassee, fl|3974551|Alexandria, VA|1|2
+25203129|tallahassee, fl|14742479|Up Holland, England|1|2
+25203129|tallahassee, fl|6312822|Augusta, GA|1|2
+25203129|tallahassee, fl|2583502860|Error|1|2
+25203129|tallahassee, fl|27070586|Cotswolds, England|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|15050370|Houston|1|2
+25203129|tallahassee, fl|17493145|Sterling, VA|1|2
+25203129|tallahassee, fl|15276401|North Carolina|1|2
+25203129|tallahassee, fl|9911672|Melbourne AU|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|41791338|Bangalore,India|1|2
+25203129|tallahassee, fl|88286372|Bucharest, Romania|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|30114774|Plymouth, MA|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|38434137|Myrtle Beach S.C|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|12313592|Manchester, UK|1|2
+25203129|tallahassee, fl|22793615|Atlanta, GA|1|2
+25203129|tallahassee, fl|27938756|Buenos Aires - Argentina|1|2
+25203129|tallahassee, fl|39808315|Dubai UAE|1|2
+25203129|tallahassee, fl|15823171|South Africa/Ireland/Gibraltar|1|2
+25203129|tallahassee, fl|18018651|Ipswich, UK|1|2
+25203129|tallahassee, fl|16392119|Fargo,ND|1|2
+25203129|tallahassee, fl|35849288|Atlanta, GA|1|2
+25203129|tallahassee, fl|17111803|Error|1|2
+24276409|tallahassee, florida|29460209|30.26N/84.16W|3|2
+24276409|tallahassee, florida|26703714|Florida.|1|2
+24276409|tallahassee, florida|1771971|Tallahasee, Florida|1|2
+18126337|tallahassee, fl|30126900|Madison, WI,  USA|4|2
+18126337|tallahassee, fl|0|Error|4|2
+18126337|tallahassee, fl|0|Error|2|2
+18126337|tallahassee, fl|0|Error|2|2
+18126337|tallahassee, fl|0|Error|1|2
+18126337|tallahassee, fl|0|Error|1|2
+18126337|tallahassee, fl|0|Error|1|2
+18126337|tallahassee, fl|30973|Seattle, WA|1|2
+18126337|tallahassee, fl|0|Error|1|2
+18126337|tallahassee, fl|0|Error|1|2
+18126337|tallahassee, fl|0|Error|1|2
+26779195|tallahassee, fl|20260015|Tallahassee, FL|2|2
+26779195|tallahassee, fl|0|Error|2|2
+26779195|tallahassee, fl|173221033|Error|2|2
+26779195|tallahassee, fl|68801366|Error|2|2
+26779195|tallahassee, fl|51776376|Palm Beach Gardens, Fl|2|2
+26779195|tallahassee, fl|0|Error|1|2
+26779195|tallahassee, fl|37756508|DUVAL|1|2
+26779195|tallahassee, fl|3254895910|Error|1|2
+26779195|tallahassee, fl|0|Error|1|2
+26779195|tallahassee, fl|0|Error|1|2
+26779195|tallahassee, fl|0|Error|1|2
+26779195|tallahassee, fl|1209207764|Gotham Snack Shop|1|2
+26779195|tallahassee, fl|0|Error|1|2
+26779195|tallahassee, fl|998554423|Error|1|2
+26779195|tallahassee, fl|0|Error|1|2
+26779195|tallahassee, fl|271455079|Hell'z Basement|1|2
+26779195|tallahassee, fl|0|Error|1|2
+15771027|tallahassee, fl|1001717040|Error|3|2
+15771027|tallahassee, fl|34679895|Winter Park, Florida|3|2
+15771027|tallahassee, fl|0|Error|3|2
+15771027|tallahassee, fl|24280831|Tallahassee, Florida|2|2
+15771027|tallahassee, fl|0|Error|2|2
+15771027|tallahassee, fl|15699835|Tallahassee|2|2
+15771027|tallahassee, fl|16024738|Seattle, Wa|1|2
+15771027|tallahassee, fl|31196202|Error|1|2
+15771027|tallahassee, fl|46687417|Tallahassee, FL/Valdosta, GA|1|2
+15771027|tallahassee, fl|12954812|Tampa, Florida|1|2
+15771027|tallahassee, fl|14945607|Being, Writing, Everywhere|1|2
+15771027|tallahassee, fl|0|Error|1|2
+15771027|tallahassee, fl|23851396|Tallahassee, Florida|1|2
+15771027|tallahassee, fl|0|Error|1|2
+15771027|tallahassee, fl|0|Error|1|2
+15771027|tallahassee, fl|15169893|Chicago, IL USA|1|2
+15771027|tallahassee, fl|0|Error|1|2
+15771027|tallahassee, fl|13725112|IOWA|1|2
+15771027|tallahassee, fl|0|Error|1|2
+15771027|tallahassee, fl|0|Error|1|2
+15771027|tallahassee, fl|0|Error|1|2
+15771027|tallahassee, fl|41681345|Tallahassee, FL|1|2
+15771027|tallahassee, fl|0|Error|1|2
+15771027|tallahassee, fl|44777959|Washington D.C.|1|2
+15771027|tallahassee, fl|23636841|Orlando, Florida|1|2
+15771027|tallahassee, fl|6017542|Global|1|2
+15771027|tallahassee, fl|498738748|Error|1|2
+15771027|tallahassee, fl|78988816|Tallahassee, FL|1|2
+15771027|tallahassee, fl|56085397|Error|1|2
+15771027|tallahassee, fl|36354295|Error|1|2
+15771027|tallahassee, fl|1444584751|Mid-Florida|1|2
+15771027|tallahassee, fl|17815836|New York City|1|2
+15771027|tallahassee, fl|3316184055|Error|1|2
+15771027|tallahassee, fl|59525600|New York|1|2
+15771027|tallahassee, fl|0|Error|1|2
+15771027|tallahassee, fl|16648079|Florida|1|2
+15771027|tallahassee, fl|14897792|Toronto|1|2
+15771027|tallahassee, fl|0|Error|1|2
+15771027|tallahassee, fl|0|Error|1|2
+15379375|tallahassee, florida|14385055|Florida|2|2
+15379375|tallahassee, florida|0|Error|2|2
+15379375|tallahassee, florida|0|Error|1|2
+15379375|tallahassee, florida|71253268|Tallahassee, FL|1|2
+15379375|tallahassee, florida|14076231|The World|1|2
+15379375|tallahassee, florida|9684712|Orlando, FL|1|2
+15379375|tallahassee, florida|697873|Dallas, TX|1|2
+15379375|tallahassee, florida|340442081|Error|1|2
+15379375|tallahassee, florida|15040500|Seattle, WA|1|2
+15379375|tallahassee, florida|0|Error|1|2
+15379375|tallahassee, florida|15379375|Tallahassee, Florida|1|2
+15379375|tallahassee, florida|36753757|Florida|1|2
+15379375|tallahassee, florida|256771909|semarang,Indonesia|1|2
+15379375|tallahassee, florida|23318962|New York, NY|1|2
+15379375|tallahassee, florida|16650518|Tallahassee, FL|1|2
+15379375|tallahassee, florida|21128685|Tallahassee, Florida|1|2
+15379375|tallahassee, florida|60597411|Tallahassee, Florida|1|2
+15379375|tallahassee, florida|17045772|Orlando|1|2
+33600372|tallahassee, fl|16090230|Tallahassee, FL|13|2
+33600372|tallahassee, fl|43572103|Tallahassee, FL|8|2
+22460917|tallahassee, fl|148628039|Error|6|2
+22460917|tallahassee, fl|865648231|Error|3|2
+22460917|tallahassee, fl|0|Error|3|2
+22460917|tallahassee, fl|19502992|Worldwide|3|2
+22460917|tallahassee, fl|0|Error|3|2
+22460917|tallahassee, fl|18889493|484/302|3|2
+22460917|tallahassee, fl|0|Error|3|2
+22460917|tallahassee, fl|47438126|MiYaYo/CaliLife|3|2
+22460917|tallahassee, fl|41988757|At your bitch crib|2|2
+22460917|tallahassee, fl|78798978|Error|2|2
+22460917|tallahassee, fl|0|Error|2|2
+22460917|tallahassee, fl|23028868|Heaven on Earth|2|2
+22460917|tallahassee, fl|0|Error|2|2
+22460917|tallahassee, fl|18191794|Top of the World|2|2
+22460917|tallahassee, fl|0|Error|2|2
+22460917|tallahassee, fl|18369062|SOUTH BEACH MIAMI HOE!|2|2
+22460917|tallahassee, fl|0|Error|2|2
+22460917|tallahassee, fl|16291464|Error|2|2
+22460917|tallahassee, fl|81742998|World Wide|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|18909358|In My Skin. . .Happy in NYC|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|19521747|Atlanta, Ga|1|2
+22460917|tallahassee, fl|18118234|Los Angeles/ Atl  -Tokers Club|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|15906933|Brooklyn | California|1|2
+22460917|tallahassee, fl|67391896|Error|1|2
+22460917|tallahassee, fl|473458845|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|377497560|Error|1|2
+22460917|tallahassee, fl|20484629|DeRidder, La / Texas|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|47107785|FLA/ATL|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|2386096166|London|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|20834879|Kissing Satan's Mistress |1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|145029036|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|0|Error|1|2
+22460917|tallahassee, fl|28747319|everywhere|1|2
+22460917|tallahassee, fl|0|Error|1|2
+63224974|tallahassee, fl|34165390|Ithaca, NY via Atlanta, GA|1|2
+15515670|tallahassee, fl|15336902|Tampa |2|2
+15515670|tallahassee, fl|16102446|Error|1|2
+15515670|tallahassee, fl|17517138|Washington, D.C.|1|2
+15515670|tallahassee, fl|10221882|Global|1|2
+15515670|tallahassee, fl|58860235|iPhone: 30.435408,-84.289787|1|2
+15515670|tallahassee, fl|16302886|Chicago|1|2
+15515670|tallahassee, fl|17672148|atlanta, ga|1|2
+80658638|tallahassee, florida|21128685|Tallahassee, Florida|5|2
+80658638|tallahassee, florida|0|Error|4|2
+80658638|tallahassee, florida|0|Error|3|2
+80658638|tallahassee, florida|972651|Error|2|2
+80658638|tallahassee, florida|22516489|Atlanta|2|2
+80658638|tallahassee, florida|0|Error|2|2
+80658638|tallahassee, florida|0|Error|2|2
+80658638|tallahassee, florida|80658638|Tallahassee, Florida|1|2
+80658638|tallahassee, florida|46687417|Tallahassee, FL/Valdosta, GA|1|2
+80658638|tallahassee, florida|0|Error|1|2
+80658638|tallahassee, florida|923295210|La Pampa - Argentina |1|2
+80658638|tallahassee, florida|226245250|Error|1|2
+80658638|tallahassee, florida|24280831|Tallahassee, Florida|1|2
+80658638|tallahassee, florida|44352821|PhiladelphiaPA/StPeteFL|1|2
+80658638|tallahassee, florida|83852646|Tallahassee, FL|1|2
+80658638|tallahassee, florida|15841341|Tallahassee, Fla. |1|2
+80658638|tallahassee, florida|0|Error|1|2
+80658638|tallahassee, florida|455059002|Error|1|2
+80658638|tallahassee, florida|0|Error|1|2
+80658638|tallahassee, florida|16650518|Tallahassee, FL|1|2
+80658638|tallahassee, florida|15893319|Philadelphia, PA|1|2
+80658638|tallahassee, florida|13574592|Error|1|2
+80658638|tallahassee, florida|0|Error|1|2
+80658638|tallahassee, florida|33987107|Tallahassee,Fl|1|2
+80658638|tallahassee, florida|15379375|Tallahassee, Florida|1|2
+80658638|tallahassee, florida|0|Error|1|2
+80658638|tallahassee, florida|19273104|Silicon Valley|1|2
+80658638|tallahassee, florida|16366990|Alhambra, CA|1|2
+80658638|tallahassee, florida|85884546|Tallahassee, FL|1|2
+51565230|tallahassee, fl|0|Error|6|2
+48422734|tallahassee, florida|18910940|Tallahassee, FL|1|2
+48422734|tallahassee, florida|34058139|Tallahassee, FL.|1|2
+24913224|tallahassee, fl|43887041|Tallahassee, Florida|2|2
+24913224|tallahassee, fl|50303031|Voorhees College|1|2
+24913224|tallahassee, fl|0|Error|1|2
+24913224|tallahassee, fl|44363165|Tallahassee, FL|1|2
+24913224|tallahassee, fl|0|Error|1|2
+56811835|tallahassee, fl|2614496370|Error|1|2
+77784206|tallahassee, fl|765212906|Error|12|2
+77784206|tallahassee, fl|0|Error|6|2
+77784206|tallahassee, fl|77782477|Gainesville|4|2
+77784206|tallahassee, fl|0|Error|4|2
+77784206|tallahassee, fl|0|Error|1|2
+77784206|tallahassee, fl|23180008|Orlando to Atlanta|1|2
+77784206|tallahassee, fl|0|Error|1|2
+77784206|tallahassee, fl|17977701|ATL, GA|1|2
+60483286|tallahassee, fl|0|Error|3|2
+60483286|tallahassee, fl|21136656|San Francisco, CA|3|2
+60483286|tallahassee, fl|14433045|//TryToRememberBeforeYouWere//|3|2
+60483286|tallahassee, fl|15031279|Tampa-ish, FL|2|2
+60483286|tallahassee, fl|39102561|Chicago, IL|2|2
+60483286|tallahassee, fl|0|Error|1|2
+60483286|tallahassee, fl|14218704|West Palm Beach, FL|1|2
+60483286|tallahassee, fl|43145301|Columbus, Ohio|1|2
+60483286|tallahassee, fl|22692599|florida, USA|1|2
+60483286|tallahassee, fl|0|Error|1|2
+60483286|tallahassee, fl|47118595|Orlando, FL|1|2
+60483286|tallahassee, fl|24364767|lakeland|1|2
+60483286|tallahassee, fl|0|Error|1|2
+60483286|tallahassee, fl|112333312|Error|1|2
+60483286|tallahassee, fl|14506253|Tauntuan belly|1|2
+60483286|tallahassee, fl|14287094|New York, NY|1|2
+60483286|tallahassee, fl|0|Error|1|2
+14323784|tallahassee, fl|15590561|San Francisco Bay Area|5|2
+14323784|tallahassee, fl|46687417|Tallahassee, FL/Valdosta, GA|4|2
+14323784|tallahassee, fl|0|Error|3|2
+14323784|tallahassee, fl|15940769|Tallahassee, FL|3|2
+14323784|tallahassee, fl|207812052|Publik House, York Towne|3|2
+14323784|tallahassee, fl|16256412|Planet Funk|2|2
+14323784|tallahassee, fl|14398833|Florida|2|2
+14323784|tallahassee, fl|16081847|New Jersey|2|2
+14323784|tallahassee, fl|15699835|Tallahassee|1|2
+14323784|tallahassee, fl|0|Error|1|2
+14323784|tallahassee, fl|14983161|Tallahassee, FL|1|2
+14323784|tallahassee, fl|63789003|New York, New York|1|2
+14323784|tallahassee, fl|26083499|San Francisco|1|2
+14323784|tallahassee, fl|14591723|A Friendly Desert Community|1|2
+46198856|tallahassee, fl|26112577|Temperance, Michigan|2|2
+46198856|tallahassee, fl|190192673|Error|2|2
+46198856|tallahassee, fl|0|Error|2|2
+46198856|tallahassee, fl|3335255693|Error|2|2
+46198856|tallahassee, fl|0|Error|2|2
+46198856|tallahassee, fl|38674502|In God's Creations|2|2
+46198856|tallahassee, fl|82734046|Florida|2|2
+46198856|tallahassee, fl|0|Error|2|2
+46198856|tallahassee, fl|151871823|Mexico|1|2
+46198856|tallahassee, fl|30126900|Madison, WI,  USA|1|2
+46198856|tallahassee, fl|347763030|Error|1|2
+46198856|tallahassee, fl|48488682|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|2574687249|Error|1|2
+46198856|tallahassee, fl|469659488|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|144630345|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|30656932|Canada, Ont. |1|2
+46198856|tallahassee, fl|21365796|NY.|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|346464085|Error|1|2
+46198856|tallahassee, fl|24253658|Oklahoma City, OK, USA|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|37927044|Fort Worth, TX|1|2
+46198856|tallahassee, fl|77592879|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|349097442|Muy cerca de ti.|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|30973|Seattle, WA|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|2818239418|Error|1|2
+46198856|tallahassee, fl|0|Error|1|2
+46198856|tallahassee, fl|836743195|Error|1|2
+46198856|tallahassee, fl|175135187|Fortaleza|1|2
+46198856|tallahassee, fl|410298179|Error|1|2
+28518519|tallahassee, florida|24543109|Tallahassee, FL, USA|1|2
+28518519|tallahassee, florida|15336902|Tampa |1|2
+28518519|tallahassee, florida|33047584|Sunshine State|1|2
+44103586|tallahassee, fl|16090230|Tallahassee, FL|13|2
+44103586|tallahassee, fl|15151811|Error|1|2
+44103586|tallahassee, fl|43572103|Tallahassee, FL|1|2
+44103586|tallahassee, fl|0|Error|1|2
+44103586|tallahassee, fl|0|Error|1|2
+44103586|tallahassee, fl|75952756|Orange County, CA|1|2
+41482234|tallahassee, fl|0|Error|2|2
+41482234|tallahassee, fl|15429511|Tampa, Florida|2|2
+41482234|tallahassee, fl|25086658|Rockledge, FL|2|2
+41482234|tallahassee, fl|34976385|Florida|1|2
+41482234|tallahassee, fl|35249792|Florida|1|2
+41482234|tallahassee, fl|0|Error|1|2
+41482234|tallahassee, fl|255088225|Error|1|2
+41482234|tallahassee, fl|2503708705|Error|1|2
+41482234|tallahassee, fl|0|Error|1|2
+41482234|tallahassee, fl|71128860|Error|1|2
+41482234|tallahassee, fl|78428872|Florida|1|2
+41482234|tallahassee, fl|54113975|Error|1|2
+41482234|tallahassee, fl|1249697346|Error|1|2
+15663152|tallahassee, fl|15676492|Dearborn, MI|5|2
+15663152|tallahassee, fl|8453452|Silicon Valley, California|2|2
+15663152|tallahassee, fl|972651|Error|2|2
+15663152|tallahassee, fl|15111202|Florida|2|2
+15663152|tallahassee, fl|1934802841|San Francisco|2|2
+15663152|tallahassee, fl|0|Error|1|2
+15663152|tallahassee, fl|15822299|Tallahassee, Florida|1|2
+15663152|tallahassee, fl|25293746|Tallahassee, FLA|1|2
+15663152|tallahassee, fl|24608583|United States|1|2
+15663152|tallahassee, fl|8206602|Boston|1|2
+15663152|tallahassee, fl|24725380|Error|1|2
+15663152|tallahassee, fl|16001789|Tallahassee, FL|1|2
+15663152|tallahassee, fl|18907621|Tallahassee, Florida|1|2
+15663152|tallahassee, fl|28628584|Error|1|2
+15663152|tallahassee, fl|17159134|Tallahassee, FL|1|2
+15663152|tallahassee, fl|16424884|Dearborn, MI|1|2
+15663152|tallahassee, fl|15976584|Pennsylvania|1|2
+15663152|tallahassee, fl|476158046|Error|1|2
+15663152|tallahassee, fl|0|Error|1|2
+15663152|tallahassee, fl|12480582|New York and beyond...|1|2
+15663152|tallahassee, fl|7528292|Error|1|2
+15663152|tallahassee, fl|15021827|Florida|1|2
+15663152|tallahassee, fl|10771662|Jacksonville, NC and Global|1|2
+15663152|tallahassee, fl|0|Error|1|2
+15663152|tallahassee, fl|65914790|Tallahassee|1|2
+15663152|tallahassee, fl|0|Error|1|2
+15663152|tallahassee, fl|3108351|New York, NY|1|2
+15663152|tallahassee, fl|21878762|New York, NY|1|2
+15663152|tallahassee, fl|15467215|Error|1|2
+32309502|tallahassee, florida|0|Error|3|2
+32309502|tallahassee, florida|65914790|Tallahassee|3|2
+32309502|tallahassee, florida|3397984491|Error|2|2
+32309502|tallahassee, florida|14760590|Tallahassee, Florida|2|2
+32309502|tallahassee, florida|0|Error|2|2
+32309502|tallahassee, florida|21952592|Error|2|2
+32309502|tallahassee, florida|435778776|Poland|2|2
+32309502|tallahassee, florida|0|Error|1|2
+32309502|tallahassee, florida|38786575|Wherever drinks are sold|1|2
+32309502|tallahassee, florida|1518364627|Error|1|2
+32309502|tallahassee, florida|14935079|Planet Earth|1|2
+32309502|tallahassee, florida|46687417|Tallahassee, FL/Valdosta, GA|1|2
+32309502|tallahassee, florida|1242056172|Error|1|2
+32309502|tallahassee, florida|25293746|Tallahassee, FLA|1|2
+32309502|tallahassee, florida|6852682|Chicago|1|2
+32309502|tallahassee, florida|60597411|Tallahassee, Florida|1|2
+32309502|tallahassee, florida|226245250|Error|1|2
+32309502|tallahassee, florida|0|Error|1|2
+32309502|tallahassee, florida|24599889|Florida State University|1|2
+32309502|tallahassee, florida|52652700|Tallahassee, Florida|1|2
+32309502|tallahassee, florida|22640927|Tallahassee|1|2
+32309502|tallahassee, florida|0|Error|1|2
+32309502|tallahassee, florida|0|Error|1|2
+32309502|tallahassee, florida|17195769|Tallahassee, Florida|1|2
+32309502|tallahassee, florida|172010590|Error|1|2
+32309502|tallahassee, florida|0|Error|1|2
+32309502|tallahassee, florida|15429511|Tampa, Florida|1|2
+32309502|tallahassee, florida|15699835|Tallahassee|1|2
+32309502|tallahassee, florida|14390225|New York, NY|1|2
+32309502|tallahassee, florida|21206245|Tallahassee, FL|1|2
+32309502|tallahassee, florida|2503722373|Error|1|2
+32309502|tallahassee, florida|77462462|Sunshine State|1|2
+32309502|tallahassee, florida|0|Error|1|2
+32309502|tallahassee, florida|21128685|Tallahassee, Florida|1|2
+32309502|tallahassee, florida|85884546|Tallahassee, FL|1|2
+33916217|tallahassee, fl|24276409|Tallahassee, Florida|1|2
+33916217|tallahassee, fl|55658274|Tallahasse, FL |1|2
+43572103|tallahassee, fl|16090230|Tallahassee, FL|19|2
+26946098|tallahassee, fl|0|Error|5|2
+26946098|tallahassee, fl|0|Error|1|2
+26946098|tallahassee, fl|2925246254|Error|1|2
+22819411|tallahassee, fl|0|Error|2|2
+22819411|tallahassee, fl|8206602|Boston|2|2
+22819411|tallahassee, fl|68426782|Tallahassee, FL|2|2
+22819411|tallahassee, fl|14084098|Tallahassee, FL|1|2
+22819411|tallahassee, fl|0|Error|1|2
+22819411|tallahassee, fl|2993713838|Orlamdo , Florida|1|2
+22819411|tallahassee, fl|4432431|Evanston, IL USA|1|2
+22819411|tallahassee, fl|68700076|Tallahassee, Florida|1|2
+22819411|tallahassee, fl|17241895|Seattle|1|2
+22819411|tallahassee, fl|29715285|Tallahassee, Fla. |1|2
+22819411|tallahassee, fl|57700175|Statewide presence|1|2
+22819411|tallahassee, fl|15822299|Tallahassee, Florida|1|2
+22819411|tallahassee, fl|43887041|Tallahassee, Florida|1|2
+22819411|tallahassee, fl|0|Error|1|2
+22819411|tallahassee, fl|0|Error|1|2
+22819411|tallahassee, fl|15569726|Tallahassee|1|2
+22819411|tallahassee, fl|22819411|Tallahassee, FL|1|2
+22819411|tallahassee, fl|0|Error|1|2
+29788647|tallahassee, fl|59272290|TallyHally|4|2
+29788647|tallahassee, fl|19653764|Planet of Xemulon|4|2
+29788647|tallahassee, fl|2766164996|Error|3|2
+29788647|tallahassee, fl|0|Error|3|2
+29788647|tallahassee, fl|33130575|Error|3|2
+29788647|tallahassee, fl|0|Error|2|2
+29788647|tallahassee, fl|26554022|Error|2|2
+29788647|tallahassee, fl|0|Error|2|2
+29788647|tallahassee, fl|23133950|NOT LOCATED|2|2
+29788647|tallahassee, fl|26703714|Florida.|1|2
+29788647|tallahassee, fl|16990483|North Carolina, USA|1|2
+29788647|tallahassee, fl|0|Error|1|2
+29788647|tallahassee, fl|579063189|Error|1|2
+29788647|tallahassee, fl|21615412|Vegas, ATL, MIA, Orlando|1|2
+29788647|tallahassee, fl|39100841|Tallanasty and Jacksonville|1|2
+19084896|tallahassee, florida|253728554|London|3|2
+19084896|tallahassee, florida|1050111|Washington, DC|2|2
+19084896|tallahassee, florida|25542877|South Carolina|1|2
+19084896|tallahassee, florida|0|Error|1|2
+19084896|tallahassee, florida|83883736|Error|1|2
+19084896|tallahassee, florida|15965143|Greater New York City metro|1|2
+19084896|tallahassee, florida|46782705|Error|1|2
+19084896|tallahassee, florida|434310764|Error|1|2
+19084896|tallahassee, florida|0|Error|1|2
+19084896|tallahassee, florida|6141832|Shanghai|1|2
+19084896|tallahassee, florida|15896464|Error|1|2
+19084896|tallahassee, florida|55329156|Washington, DC|1|2
+19084896|tallahassee, florida|600632233|Error|1|2
+19084896|tallahassee, florida|14915412|Tallahassee, Florida|1|2
+19084896|tallahassee, florida|15745368|United States|1|2
+19084896|tallahassee, florida|18906561|Texas|1|2
+19084896|tallahassee, florida|792881088|Error|1|2
+19084896|tallahassee, florida|813286|Washington, DC|1|2
+17516275|tallahassee, florida|15429511|Tampa, Florida|8|2
+17516275|tallahassee, florida|1452374576|Rosslyn|3|2
+17516275|tallahassee, florida|21326030|Florida | Virginia |2|2
+17516275|tallahassee, florida|19084896|Tallahassee, FL|2|2
+17516275|tallahassee, florida|18847525|Tallahassee, FL|2|2
+17516275|tallahassee, florida|20449956|Trenton, NJ|2|2
+17516275|tallahassee, florida|0|Error|1|2
+17516275|tallahassee, florida|50325797|Washington, DC|1|2
+17516275|tallahassee, florida|22686277|Pensacola, FL|1|2
+17516275|tallahassee, florida|47423703|Error|1|2
+17516275|tallahassee, florida|42481696|Fairhope, Alabama|1|2
+17516275|tallahassee, florida|15896464|Error|1|2
+17516275|tallahassee, florida|30063865|Florida|1|2
+17516275|tallahassee, florida|158848627|nyc|1|2
+17516275|tallahassee, florida|38970940|St. Petersburg, Florida|1|2
+17516275|tallahassee, florida|26639635|Error|1|2
+17516275|tallahassee, florida|14915412|Tallahassee, Florida|1|2
+17516275|tallahassee, florida|5484532|Washington, DC|1|2
+17516275|tallahassee, florida|15745368|United States|1|2
+42421802|tallahassee, fl|38654275|Florida|3|2
+42421802|tallahassee, fl|0|Error|2|2
+42421802|tallahassee, fl|85700955|Los Angeles | Nashville|2|2
+42421802|tallahassee, fl|46561217|Amongst the Stars|2|2
+42421802|tallahassee, fl|0|Error|2|2
+42421802|tallahassee, fl|0|Error|2|2
+42421802|tallahassee, fl|0|Error|2|2
+42421802|tallahassee, fl|17929027|The Ruff|1|2
+42421802|tallahassee, fl|41810775|Milano|1|2
+42421802|tallahassee, fl|122208388|*poof*|1|2
+42421802|tallahassee, fl|25393058|Tallahassee, Florida|1|2
+42421802|tallahassee, fl|0|Error|1|2
+42421802|tallahassee, fl|24952908|Error|1|2
+42421802|tallahassee, fl|0|Error|1|2
+42421802|tallahassee, fl|14691200|In your soul|1|2
+42421802|tallahassee, fl|16638685|UP THRU DERE!|1|2
+42421802|tallahassee, fl|210862827|Def Jam|1|2
+42421802|tallahassee, fl|260007795|Error|1|2
+42421802|tallahassee, fl|0|Error|1|2
+42421802|tallahassee, fl|0|Error|1|2
+42421802|tallahassee, fl|300595038|Buffalo New York|1|2
+42421802|tallahassee, fl|25112117|iPhone: 30.488434,-84.001068|1|2
+26170776|tallahassee, fl|18579386|407/718/412|7|2
+26170776|tallahassee, fl|1469908344|Riverview, NB|5|2
+26170776|tallahassee, fl|0|Error|5|2
+26170776|tallahassee, fl|166045842|Error|4|2
+26170776|tallahassee, fl|15276401|North Carolina|4|2
+26170776|tallahassee, fl|21760682|THE UNIVERSE BABY|3|2
+26170776|tallahassee, fl|18180777|Denver, CO|3|2
+26170776|tallahassee, fl|0|Error|2|2
+26170776|tallahassee, fl|33816471|Pre: 42.7498197,-87.807401|2|2
+26170776|tallahassee, fl|171747466|Error|2|2
+26170776|tallahassee, fl|18460854|Kansas City, MO|2|2
+26170776|tallahassee, fl|25203129|Thomasville, GA|1|2
+26170776|tallahassee, fl|57532530|Los Angeles, CA|1|2
+26170776|tallahassee, fl|2215329121|Error|1|2
+26170776|tallahassee, fl|80555472|I'm in Sexy Town!|1|2
+26170776|tallahassee, fl|164437196|Error|1|2
+26170776|tallahassee, fl|17584695|New York|1|2
+26170776|tallahassee, fl|7846|Los Angeles, CA|1|2
+26170776|tallahassee, fl|23321692|POA, Brazil|1|2
+26170776|tallahassee, fl|9927682|DC metro area|1|2
+26170776|tallahassee, fl|972651|Error|1|2
+26170776|tallahassee, fl|28420827|THE HOOD|1|2
+26170776|tallahassee, fl|18664838|In front of my screen|1|2
+26170776|tallahassee, fl|23323505|the nuthouse -- where else?|1|2
+26170776|tallahassee, fl|897996944|@TheLoudSteve|1|2
+26170776|tallahassee, fl|15135447|San Francisco Bay Area, CA|1|2
+26170776|tallahassee, fl|60919670|Tallahassee, FL|1|2
+26170776|tallahassee, fl|0|Error|1|2
+26170776|tallahassee, fl|287011945|Error|1|2
+26170776|tallahassee, fl|0|Error|1|2
+26170776|tallahassee, fl|15523008|Westchester, NY|1|2
+26170776|tallahassee, fl|0|Error|1|2
+26170776|tallahassee, fl|0|Error|1|2
+26170776|tallahassee, fl|0|Error|1|2
+26170776|tallahassee, fl|16790456|NY,LA WORLD WIDE.... |1|2
+26170776|tallahassee, fl|15173724|Denver, CO|1|2
+26170776|tallahassee, fl|16727069|Error|1|2
+26170776|tallahassee, fl|24062738|Ontario, Canada|1|2
+26170776|tallahassee, fl|0|Error|1|2
+26170776|tallahassee, fl|0|Error|1|2
+26170776|tallahassee, fl|3458671|Toronto, Ontario, Canada|1|2
+26170776|tallahassee, fl|15894834|Hollywood, CA|1|2
+26170776|tallahassee, fl|15260162|Swansea|1|2
+26170776|tallahassee, fl|30252697|MIA / LA / NY|1|2
+8206602|tallahassee, fl|318781916|Error|4|2
+8206602|tallahassee, fl|534806818|Error|3|2
+8206602|tallahassee, fl|8908302|Kingston, WA|3|2
+8206602|tallahassee, fl|0|Error|2|2
+8206602|tallahassee, fl|755452|Chicago & the World |2|2
+8206602|tallahassee, fl|10178|Beacon, NY|1|2
+8206602|tallahassee, fl|18258178|Error|1|2
+8206602|tallahassee, fl|270379820|Error|1|2
+8206602|tallahassee, fl|14935079|Planet Earth|1|2
+8206602|tallahassee, fl|10202|Boston, MA|1|2
+8206602|tallahassee, fl|18308449|Grand Rapids|1|2
+8206602|tallahassee, fl|14073095|Error|1|2
+8206602|tallahassee, fl|16182427|Spain|1|2
+8206602|tallahassee, fl|52652700|Tallahassee, Florida|1|2
+8206602|tallahassee, fl|746923|Leicester, London, Bristol, UK|1|2
+8206602|tallahassee, fl|8206602|Boston|1|2
+8206602|tallahassee, fl|797835|Sevilla, Spain|1|2
+8206602|tallahassee, fl|25521487|beach|1|2
+8206602|tallahassee, fl|1802181|SoCal |1|2
+8206602|tallahassee, fl|16171863|The Mitten|1|2
+8206602|tallahassee, fl|33971675|Atlanta, GA|1|2
+8206602|tallahassee, fl|7350962|Miami, Fl. USA|1|2
+8206602|tallahassee, fl|0|Error|1|2
+8206602|tallahassee, fl|777560|Louisville, KY|1|2
+8206602|tallahassee, fl|16667193|Nashville, TN|1|2
+20786787|tallahassee, fl|23373988|Boston, MA|12|2
+20786787|tallahassee, fl|9447312|Austin, TX|5|2
+20786787|tallahassee, fl|21432427|Error|5|2
+20786787|tallahassee, fl|42366919|Error|5|2
+20786787|tallahassee, fl|9655762|Jacksonville, FL|2|2
+20786787|tallahassee, fl|0|Error|1|2
+20786787|tallahassee, fl|297746830|Error|1|2
+20786787|tallahassee, fl|0|Error|1|2
+20786787|tallahassee, fl|255824723|Boston|1|2
+20786787|tallahassee, fl|2458551828|Error|1|2
+20786787|tallahassee, fl|83883736|Error|1|2
+20786787|tallahassee, fl|711303|NYC | Long Island|1|2
+20786787|tallahassee, fl|0|Error|1|2
+20786787|tallahassee, fl|6091632|Tallahassee|1|2
+20786787|tallahassee, fl|656933|Error|1|2
+20786787|tallahassee, fl|12960412|San Francisco|1|2
+20786787|tallahassee, fl|30973|Seattle, WA|1|2
+20786787|tallahassee, fl|0|Error|1|2
+20786787|tallahassee, fl|0|Error|1|2
+20786787|tallahassee, fl|0|Error|1|2
+16079424|tallahassee, florida|0|Error|25|2
+16079424|tallahassee, florida|0|Error|18|2
+16079424|tallahassee, florida|28119249|florida 850, 407 ,321|11|2
+16079424|tallahassee, florida|28384022|Wakulla & Tallahassee, FLORIDA|7|2
+16079424|tallahassee, florida|0|Error|6|2
+16079424|tallahassee, florida|0|Error|5|2
+16079424|tallahassee, florida|17499108|Error|4|2
+16079424|tallahassee, florida|19653764|Planet of Xemulon|4|2
+16079424|tallahassee, florida|0|Error|4|2
+16079424|tallahassee, florida|435778776|Poland|3|2
+16079424|tallahassee, florida|201272452|Atlanta, GA.|3|2
+16079424|tallahassee, florida|0|Error|3|2
+16079424|tallahassee, florida|35434023|Atlanta|3|2
+16079424|tallahassee, florida|0|Error|3|2
+16079424|tallahassee, florida|46615944|Orem, Utah|2|2
+16079424|tallahassee, florida|35274647|on the road|2|2
+16079424|tallahassee, florida|174059609|Error|2|2
+16079424|tallahassee, florida|24179525|US|2|2
+16079424|tallahassee, florida|0|Error|2|2
+16079424|tallahassee, florida|0|Error|2|2
+16079424|tallahassee, florida|17926625|For Business or Bookings|2|2
+16079424|tallahassee, florida|0|Error|2|2
+16079424|tallahassee, florida|332607408|Error|2|2
+16079424|tallahassee, florida|24394386|Florida|2|2
+16079424|tallahassee, florida|11738562|Tallahassee, Florida|2|2
+16079424|tallahassee, florida|0|Error|2|2
+16079424|tallahassee, florida|0|Error|2|2
+16079424|tallahassee, florida|0|Error|2|2
+16079424|tallahassee, florida|0|Error|2|2
+16079424|tallahassee, florida|473458845|Error|2|2
+16079424|tallahassee, florida|0|Error|2|2
+16079424|tallahassee, florida|437945426|Lowkey|2|2
+16079424|tallahassee, florida|88681609|Nawfside ATL|2|2
+16079424|tallahassee, florida|0|Error|2|2
+16079424|tallahassee, florida|813286|Washington, DC|2|2
+16079424|tallahassee, florida|0|Error|2|2
+16079424|tallahassee, florida|0|Error|2|2
+16079424|tallahassee, florida|56943199|WORLDWIDE|1|2
+16079424|tallahassee, florida|1518364627|Error|1|2
+16079424|tallahassee, florida|28187412|New York (Mother Fuckin) City |1|2
+16079424|tallahassee, florida|55617066|In Transit|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|27783402|IF I BUILD IT, THEY WILL COME!|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|21928006|Error|1|2
+16079424|tallahassee, florida|287599960|Paris|1|2
+16079424|tallahassee, florida|29626616|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|558897226|Error|1|2
+16079424|tallahassee, florida|74081576|San Francisco, CA|1|2
+16079424|tallahassee, florida|56137617|ON THE RADIO AND IN DA CLUBS|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|22657815|Tallahassee, FL|1|2
+16079424|tallahassee, florida|24953312|Everywhere the flow goes|1|2
+16079424|tallahassee, florida|365995303|Cornwall: 26-28 April, 2013|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|348629366|Tallahassee, FL|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|21655507|on a beach...|1|2
+16079424|tallahassee, florida|2513903294|Error|1|2
+16079424|tallahassee, florida|455035103|posted|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|1102306818|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|21245650|INTERNATIONAL|1|2
+16079424|tallahassee, florida|15309624|Norfolk, VA|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|18759626|DENVER CO|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|84496441|EveryWhere|1|2
+16079424|tallahassee, florida|18292491|NY, FL, ATL, NC ,CA|1|2
+16079424|tallahassee, florida|334950068|Error|1|2
+16079424|tallahassee, florida|2592407329|Error|1|2
+16079424|tallahassee, florida|30340990|www.facebook.com/djtabworldwide|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|56879856|South Jamaica Queens, NYC|1|2
+16079424|tallahassee, florida|86594708|Florida|1|2
+16079424|tallahassee, florida|34812211|Louisiana/Texas|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|42233478|ATL/BEVERLY HILLS/VEGAS/NYC|1|2
+16079424|tallahassee, florida|632525204|Error|1|2
+16079424|tallahassee, florida|30906062|Tallahassee, Fl|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|23400844|The Winner Circle|1|2
+16079424|tallahassee, florida|414281401|Error|1|2
+16079424|tallahassee, florida|31446446|Tallahassee|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|274634011|Error|1|2
+16079424|tallahassee, florida|31022832|DETROIT, MICHIGAN|1|2
+16079424|tallahassee, florida|519739516|Error|1|2
+16079424|tallahassee, florida|25948063|JACKSONVILLE, FL|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|24275419|memphis 10|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|40984469|Tallahassee, Florida|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|18004538|On the Moon|1|2
+16079424|tallahassee, florida|23908984|Monroe, LA|1|2
+16079424|tallahassee, florida|339936599|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|19647672|Tallahassee, Florida|1|2
+16079424|tallahassee, florida|22400920|Las Vegas, NV|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|258801707|Praising God To The Fullest|1|2
+16079424|tallahassee, florida|25160312|New Orleans|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|25967150|ATLANTA,GA | NYC | MIAMI|1|2
+16079424|tallahassee, florida|89100308|Atlanta, Ga|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|966635792|CA HK BJ |1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|184905107|Money'$ World|1|2
+16079424|tallahassee, florida|25450265|STL / ATL / K.C. |1|2
+16079424|tallahassee, florida|37010745|Eight Fifty baby!|1|2
+16079424|tallahassee, florida|183730207|Washington DC|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|30266878|FORT LAUDERDALE , FL|1|2
+16079424|tallahassee, florida|17306310|Gods Playground|1|2
+16079424|tallahassee, florida|2561597109|Error|1|2
+16079424|tallahassee, florida|19058032|Uzbekistan|1|2
+16079424|tallahassee, florida|0|Error|1|2
+16079424|tallahassee, florida|34571787|ALL OVER I-20|1|2
+16079424|tallahassee, florida|23656721|Atlanta, GA|1|2
+69164189|tallahassee, fl|24280831|Tallahassee, Florida|3|2
+69164189|tallahassee, fl|46687417|Tallahassee, FL/Valdosta, GA|2|2
+69164189|tallahassee, fl|23851396|Tallahassee, Florida|2|2
+69164189|tallahassee, fl|75935953|Tallahassee, FL|2|2
+69164189|tallahassee, fl|17517138|Washington, D.C.|2|2
+69164189|tallahassee, fl|26019011|Tallahassee, Florida 32301|2|2
+69164189|tallahassee, fl|0|Error|2|2
+69164189|tallahassee, fl|15822299|Tallahassee, Florida|1|2
+69164189|tallahassee, fl|972651|Error|1|2
+69164189|tallahassee, fl|0|Error|1|2
+69164189|tallahassee, fl|0|Error|1|2
+69164189|tallahassee, fl|52652700|Tallahassee, Florida|1|2
+69164189|tallahassee, fl|0|Error|1|2
+69164189|tallahassee, fl|19087497|Every Friday on Twitter|1|2
+69164189|tallahassee, fl|17195769|Tallahassee, Florida|1|2
+69164189|tallahassee, fl|816653|San Francisco, CA|1|2
+69164189|tallahassee, fl|82420845|Tallahassee, FL and the World|1|2
+69164189|tallahassee, fl|10437802|New York, NY|1|2
+69164189|tallahassee, fl|39190511|San Francisco|1|2
+69164189|tallahassee, fl|46465591|Tallahassee|1|2
+69164189|tallahassee, fl|32309502|Charlotte, NC|1|2
+69164189|tallahassee, fl|0|Error|1|2
+69164189|tallahassee, fl|58644068|Tallahassee, FL|1|2
+69164189|tallahassee, fl|15139005|Florida Tallahassee Gulf Coast|1|2
+69164189|tallahassee, fl|19334971|Tallahassee, FL|1|2
+69164189|tallahassee, fl|435778776|Poland|1|2
+20798645|tallahassee, fl|54052039|Universal|1|2
+15822126|tallahassee, florida|15712367|Error|8|2
+15822126|tallahassee, florida|25293746|Tallahassee, FLA|2|2
+15822126|tallahassee, florida|16000257|Error|1|2
+15822126|tallahassee, florida|18252398|Tallahassee, Fl|1|2
+15822126|tallahassee, florida|1434251|New York, NY|1|2
+15822126|tallahassee, florida|920183016|Error|1|2
+15822126|tallahassee, florida|634347804|Tallahassee|1|2
+15822126|tallahassee, florida|36118377|Tallahassee, FL|1|2
+18315667|tallahassee, florida|30956341|Florida|3|2
+18315667|tallahassee, florida|18414338|Florida|3|2
+18315667|tallahassee, florida|18640853|Nashville|1|2
+18315667|tallahassee, florida|16873241|Los Angeles, CA|1|2
+18315667|tallahassee, florida|18741363|Nashville, TN|1|2
+18315667|tallahassee, florida|22075727|Sydney|1|2
+18315667|tallahassee, florida|16944073|Fort Lauderdale, FL|1|2
+18315667|tallahassee, florida|42800855|Tallahassee, FL|1|2
+18315667|tallahassee, florida|41493078|Error|1|2
+18315667|tallahassee, florida|0|Error|1|2
+41253398|tallahassee, fl|41253398|Asheville, NC|7|2
+41253398|tallahassee, fl|1568874481|Error|3|2
+41253398|tallahassee, fl|1870223167|Burbank CA|3|2
+41253398|tallahassee, fl|272687632|Error|3|2
+41253398|tallahassee, fl|38378130|Maine, USA|2|2
+41253398|tallahassee, fl|0|Error|2|2
+41253398|tallahassee, fl|7343492|Rome|2|2
+41253398|tallahassee, fl|15603466|Santa Monica|2|2
+41253398|tallahassee, fl|310330420|Error|1|2
+41253398|tallahassee, fl|9857532|Error|1|2
+41253398|tallahassee, fl|0|Error|1|2
+41253398|tallahassee, fl|26560989|Error|1|2
+41253398|tallahassee, fl|5475012|La Crosse, Wisconsin|1|2
+41253398|tallahassee, fl|34696874|Error|1|2
+41253398|tallahassee, fl|25606406|mid-pacific isles|1|2
+41253398|tallahassee, fl|14365775|Error|1|2
+41253398|tallahassee, fl|241186597|Error|1|2
+41253398|tallahassee, fl|26956833|Error|1|2
+41253398|tallahassee, fl|38559772|Beautiful East Coast of Canada|1|2
+41253398|tallahassee, fl|14480146|san francisco|1|2
+41253398|tallahassee, fl|8829092|22763 Hamburg, Germany|1|2
+41253398|tallahassee, fl|23875442|The Redwood forest|1|2
+41253398|tallahassee, fl|21818383|Tigard Oregon|1|2
+41253398|tallahassee, fl|0|Error|1|2
+41253398|tallahassee, fl|21845817|iPhone: 39.972889,-75.186943|1|2
+41253398|tallahassee, fl|1146434226|Error|1|2
+41253398|tallahassee, fl|16591622|let x = x|1|2
+41253398|tallahassee, fl|23851991|Eifel|1|2
+41253398|tallahassee, fl|0|Error|1|2
+41253398|tallahassee, fl|13568272|Error|1|2
+41253398|tallahassee, fl|29791144|Ohio|1|2
+41253398|tallahassee, fl|31913324|Kansas City, MO|1|2
+41253398|tallahassee, fl|16480947|Metro Atlanta, GA|1|2
+41253398|tallahassee, fl|35894587|Indiana|1|2
+41253398|tallahassee, fl|13450972|Brazil - SP|1|2
+41253398|tallahassee, fl|1473429799|Nigeria|1|2
+41253398|tallahassee, fl|8530372|Error|1|2
+41253398|tallahassee, fl|74868052|Error|1|2
+41253398|tallahassee, fl|7074082|In the blogosphere|1|2
+41253398|tallahassee, fl|29768723|Error|1|2
+41253398|tallahassee, fl|25092305|Pisa, Italy|1|2
+41253398|tallahassee, fl|279265985|Error|1|2
+41253398|tallahassee, fl|14579594|Alameda, CA|1|2
+41253398|tallahassee, fl|15821404|Louisville, KY|1|2
+41253398|tallahassee, fl|14659997|Southern Maine -  USA |1|2
+41253398|tallahassee, fl|14953740|London|1|2
+41253398|tallahassee, fl|83305646|Error|1|2
+41253398|tallahassee, fl|0|Error|1|2
+41253398|tallahassee, fl|236154493|London|1|2
+41253398|tallahassee, fl|2647912320|Error|1|2
+41253398|tallahassee, fl|622283|Oristano|1|2
+41253398|tallahassee, fl|2453962094|Error|1|2
+41253398|tallahassee, fl|21030369|36.778419,-119.793854|1|2
+41253398|tallahassee, fl|15957456|Berlin|1|2
+41253398|tallahassee, fl|19814373|Error|1|2
+41253398|tallahassee, fl|326098580|Error|1|2
+41253398|tallahassee, fl|38958427|Error|1|2
+41253398|tallahassee, fl|0|Error|1|2
+41253398|tallahassee, fl|21121997|Error|1|2
+41253398|tallahassee, fl|496407814|Here I jolly well am|1|2
+41253398|tallahassee, fl|154359676|Error|1|2
+41253398|tallahassee, fl|0|Error|1|2
+41253398|tallahassee, fl|11266532|United States|1|2
+41253398|tallahassee, fl|105218056|Error|1|2
+41253398|tallahassee, fl|52783497|38.031708, 23.774361|1|2
+41253398|tallahassee, fl|14253770|Lalaland, California|1|2
+41253398|tallahassee, fl|1510061269|Error|1|2
+41253398|tallahassee, fl|36092353|Oklahoma City metro area|1|2
+41253398|tallahassee, fl|300282024|Error|1|2
+41253398|tallahassee, fl|0|Error|1|2
+41253398|tallahassee, fl|107798107|Error|1|2
+41253398|tallahassee, fl|29465273|Error|1|2
+41253398|tallahassee, fl|0|Error|1|2
+41253398|tallahassee, fl|257711234|Error|1|2
+41253398|tallahassee, fl|262842554|Error|1|2
+41253398|tallahassee, fl|14846536|New York, NY, USA|1|2
+41253398|tallahassee, fl|46432635|Madison, WI, USA|1|2
+41253398|tallahassee, fl|16709036|embedded deep in your ear|1|2
+41253398|tallahassee, fl|68139352|azabu east|1|2
+41253398|tallahassee, fl|20242830|Den Haag/The Hague Holland|1|2
+41253398|tallahassee, fl|29849500|Canada|1|2
+41253398|tallahassee, fl|14968766|Oakland, California, USA|1|2
+41253398|tallahassee, fl|91641232|Error|1|2
+41253398|tallahassee, fl|337188374|London on Thames|1|2
+41253398|tallahassee, fl|6980552|Sydney, Australia|1|2
+41253398|tallahassee, fl|0|Error|1|2
+41253398|tallahassee, fl|26307703|Toronto|1|2
+41253398|tallahassee, fl|0|Error|1|2
+17006948|tallahassee, fl|14948299|Philadelphia, PA|3|2
+17006948|tallahassee, fl|14530764|tallahassee, fl|3|2
+17006948|tallahassee, fl|8820652|San Diego, California |3|2
+17006948|tallahassee, fl|15756383|San Francisco, CA|3|2
+17006948|tallahassee, fl|0|Error|2|2
+17006948|tallahassee, fl|8206602|Boston|2|2
+17006948|tallahassee, fl|14832191|Tallahassee, FL |2|2
+17006948|tallahassee, fl|43572103|Tallahassee, FL|2|2
+17006948|tallahassee, fl|0|Error|1|2
+17006948|tallahassee, fl|25839827|Tallahassee, FL|1|2
+17006948|tallahassee, fl|783214|San Francisco, CA|1|2
+17006948|tallahassee, fl|14220147|Doggerland|1|2
+17006948|tallahassee, fl|15822299|Tallahassee, Florida|1|2
+17006948|tallahassee, fl|17006948|Tallahassee, FL|1|2
+17006948|tallahassee, fl|18861460|Error|1|2
+17006948|tallahassee, fl|22007499|Error|1|2
+17006948|tallahassee, fl|24280831|Tallahassee, Florida|1|2
+17006948|tallahassee, fl|18954742|Tallahassee|1|2
+17006948|tallahassee, fl|2780234515|On the road!|1|2
+17006948|tallahassee, fl|19476913|Tallahassee|1|2
+17006948|tallahassee, fl|14323784|Oakland, CA|1|2
+17006948|tallahassee, fl|17787804|New Orleans and Lafayette, LA|1|2
+17006948|tallahassee, fl|0|Error|1|2
+17006948|tallahassee, fl|0|Error|1|2
+17006948|tallahassee, fl|0|Error|1|2
+17006948|tallahassee, fl|0|Error|1|2
+17006948|tallahassee, fl|0|Error|1|2
+17006948|tallahassee, fl|0|Error|1|2
+17006948|tallahassee, fl|0|Error|1|2
+17006948|tallahassee, fl|0|Error|1|2
+16090230|tallahassee, fl|0|Error|33|2
+16090230|tallahassee, fl|0|Error|11|2
+16090230|tallahassee, fl|0|Error|3|2
+16090230|tallahassee, fl|0|Error|1|2
+16090230|tallahassee, fl|22525358|Connecticut / New York City|1|2
+16090230|tallahassee, fl|26501839|Vancouver, BC|1|2
+16750855|tallahassee, fl|11883132|San Francisco|5|2
+16750855|tallahassee, fl|2307776510|Error|3|2
+16750855|tallahassee, fl|0|Error|2|2
+16750855|tallahassee, fl|0|Error|2|2
+16750855|tallahassee, fl|0|Error|1|2
+16750855|tallahassee, fl|17995566|Vista, CA|1|2
+16750855|tallahassee, fl|293791298|Error|1|2
+16750855|tallahassee, fl|0|Error|1|2
+16750855|tallahassee, fl|17195769|Tallahassee, Florida|1|2
+11738562|tallahassee, florida|11738562|Tallahassee, Florida|13|2
+11738562|tallahassee, florida|24782413|Florida/Georgia|4|2
+11738562|tallahassee, florida|17581754|Atlanta|4|2
+11738562|tallahassee, florida|17355779|Atlanta|4|2
+11738562|tallahassee, florida|32451214|Error|4|2
+11738562|tallahassee, florida|0|Error|3|2
+11738562|tallahassee, florida|17358182|The O|3|2
+11738562|tallahassee, florida|0|Error|3|2
+11738562|tallahassee, florida|2327550776|ATL|3|2
+11738562|tallahassee, florida|0|Error|3|2
+11738562|tallahassee, florida|27596615|NEW ORLEANS BAYBEEEE|3|2
+11738562|tallahassee, florida|26785289|Frequent Flier Miles|3|2
+11738562|tallahassee, florida|20834879|Kissing Satan's Mistress |3|2
+11738562|tallahassee, florida|23539358|Atlanta|3|2
+11738562|tallahassee, florida|43488487|DECATUR GA|2|2
+11738562|tallahassee, florida|0|Error|2|2
+11738562|tallahassee, florida|3015752537|Cordele, GA|2|2
+11738562|tallahassee, florida|12970062|Atlanta Zip Code Bmore Raised|2|2
+11738562|tallahassee, florida|328230655|Lake Charles, LA|2|2
+11738562|tallahassee, florida|2513903294|Error|2|2
+11738562|tallahassee, florida|0|Error|2|2
+11738562|tallahassee, florida|18112598|Tallahassee, FL and Worldwide|2|2
+11738562|tallahassee, florida|37289924|orlando|2|2
+11738562|tallahassee, florida|492370230|Error|2|2
+11738562|tallahassee, florida|18539748|Michigan|2|2
+11738562|tallahassee, florida|17499108|Error|2|2
+11738562|tallahassee, florida|17769388|Brooklyn, circa 1981|2|2
+11738562|tallahassee, florida|0|Error|2|2
+11738562|tallahassee, florida|272119512|Error|2|2
+11738562|tallahassee, florida|47107785|FLA/ATL|2|2
+11738562|tallahassee, florida|2874233379|Error|2|2
+11738562|tallahassee, florida|63941419|ATLANTA, GA|2|2
+11738562|tallahassee, florida|111819828|MIDWEST REGION |2|2
+11738562|tallahassee, florida|18296950|The Main Event|2|2
+11738562|tallahassee, florida|0|Error|2|2
+11738562|tallahassee, florida|15102436|Los Angeles and London|2|2
+11738562|tallahassee, florida|0|Error|2|2
+11738562|tallahassee, florida|0|Error|2|2
+11738562|tallahassee, florida|0|Error|2|2
+11738562|tallahassee, florida|17306310|Gods Playground|2|2
+11738562|tallahassee, florida|0|Error|2|2
+11738562|tallahassee, florida|59532773|Error|1|2
+11738562|tallahassee, florida|8453452|Silicon Valley, California|1|2
+11738562|tallahassee, florida|24208263|Miami, FL|1|2
+11738562|tallahassee, florida|39731695|In The Club|1|2
+11738562|tallahassee, florida|19877692|Atlanta, GA|1|2
+11738562|tallahassee, florida|17822055|Nearest Turntables|1|2
+11738562|tallahassee, florida|17959961|{NY LA CHI ATL DET WORLDWIDE}|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|6278952|New Orleans|1|2
+11738562|tallahassee, florida|24095990|Fort Lauderdale|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|25924748|Bronxville, NY|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|38054001|Error|1|2
+11738562|tallahassee, florida|390082571|Error|1|2
+11738562|tallahassee, florida|89652732|behind two technic 1200s|1|2
+11738562|tallahassee, florida|16815404|World Wide|1|2
+11738562|tallahassee, florida|128199480|Miami, FL|1|2
+11738562|tallahassee, florida|19765364|The Carolinas (CLT/CHS)|1|2
+11738562|tallahassee, florida|17796207|Earth was my place of birth|1|2
+11738562|tallahassee, florida|73697267|Error|1|2
+11738562|tallahassee, florida|1618519764|Error|1|2
+11738562|tallahassee, florida|15494962|London, UK|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|16744854|Error|1|2
+11738562|tallahassee, florida|26504905|Running The A!|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|17840705|A-MUU-RA-KA |1|2
+11738562|tallahassee, florida|17926625|For Business or Bookings|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|43135456|MIAMI,FL|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|39563873|504,985,214,404,281,832|1|2
+11738562|tallahassee, florida|33563550|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|17983928|MIAMI, FL wedr/99 Jamz|1|2
+11738562|tallahassee, florida|1449122618|Error|1|2
+11738562|tallahassee, florida|24394386|Florida|1|2
+11738562|tallahassee, florida|31360279|Order my single Marry Me|1|2
+11738562|tallahassee, florida|17884468|Im Awake |1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|42944743|St.Louis M.O.|1|2
+11738562|tallahassee, florida|44064762|Error|1|2
+11738562|tallahassee, florida|18851330|Miami, FL|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|22764853|Orlando|1|2
+11738562|tallahassee, florida|24821116|Louisville, KY|1|2
+11738562|tallahassee, florida|51344693|FLORIDA|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|24262119|Error|1|2
+11738562|tallahassee, florida|30906062|Tallahassee, Fl|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|20566864|NEW YORK, NY|1|2
+11738562|tallahassee, florida|28597308|#BoKnowz|1|2
+11738562|tallahassee, florida|22820251|Los Angeles, CA|1|2
+11738562|tallahassee, florida|18751334|Wilderness of North America |1|2
+11738562|tallahassee, florida|16603763|Cleveland|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|455035103|posted|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|16991290|KY |1|2
+11738562|tallahassee, florida|17746110|Atlanta, GA|1|2
+11738562|tallahassee, florida|24032104|Dallas, TX |1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|16621413|Brooklyn, NY|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|24359888|South Africa|1|2
+11738562|tallahassee, florida|65845929|World Wide|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|45281285|ATL & MIA|1|2
+11738562|tallahassee, florida|27075676|HOUSTON (SW)|1|2
+11738562|tallahassee, florida|18573397|Los Angeles|Worldwide Traveler|1|2
+11738562|tallahassee, florida|13049362|New York|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|17415276|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|28480240|Atlanta,GA|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|18095600|naptown|1|2
+11738562|tallahassee, florida|3938645597|Error|1|2
+11738562|tallahassee, florida|30773200|The Bible Belt|1|2
+11738562|tallahassee, florida|23801096|Saint Joseph MO.|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|30080860|uptown baby |1|2
+11738562|tallahassee, florida|0|Error|1|2
+11738562|tallahassee, florida|29538715|between capacity and tenacity|1|2
+11738562|tallahassee, florida|29239846|FREEDOM TOWN, USA|1|2
+11738562|tallahassee, florida|18626783|At the record store|1|2
+11738562|tallahassee, florida|18572405|Tallahassee/Panama City, FLA|1|2
+46504299|tallahassee, fl|80416635|Tallahassee, FL|7|2
+46504299|tallahassee, fl|28639864|Tomahawk Nation|6|2
+46504299|tallahassee, fl|19617272|Charlotte, NC|4|2
+46504299|tallahassee, fl|45241945|New York, NY|3|2
+46504299|tallahassee, fl|15146558|Delaware|3|2
+46504299|tallahassee, fl|2297826050|Tallahassee, FL|2|2
+46504299|tallahassee, fl|16918664|Error|2|2
+46504299|tallahassee, fl|0|Error|1|2
+46504299|tallahassee, fl|45499837|Partridge, KS|1|2
+46504299|tallahassee, fl|365021057|LA!!!|1|2
+46504299|tallahassee, fl|34313063|The great state of Florida|1|2
+46504299|tallahassee, fl|83883736|Error|1|2
+17275759|tallahassee, fl|15191572|Error|4|2
+17275759|tallahassee, fl|158457378|Error|1|2
+17275759|tallahassee, fl|27553403|Error|1|2
+17275759|tallahassee, fl|17329654|Charlottetown PEI|1|2
+31038640|tallahassee, florida|14941874|South Florida|1|2
+26582920|tallahassee, fl|0|Error|9|2
+26582920|tallahassee, fl|19464682|Detroit, MI|5|2
+26582920|tallahassee, fl|21142831|Las Vegas, Nevada|3|2
+26582920|tallahassee, fl|101095517|Error|2|2
+26582920|tallahassee, fl|21633641|Error|2|2
+26582920|tallahassee, fl|28383742|AZ/CA/CO/DC/NV/TX/UT/MEX|2|2
+26582920|tallahassee, fl|18918698|Las Vegas, NV 89109|1|2
+26582920|tallahassee, fl|15897528|Tampa, FL|1|2
+26582920|tallahassee, fl|23373122|Los Angeles, CA|1|2
+26582920|tallahassee, fl|972651|Error|1|2
+26582920|tallahassee, fl|17256976|Las Vegas, Nevada|1|2
+26582920|tallahassee, fl|31346330|Las Vegas, NV|1|2
+26582920|tallahassee, fl|19637934|Los Angeles-ish|1|2
+15179671|tallahassee, fl|2385372056|Panama City Beach, FL|2|2
+15179671|tallahassee, fl|26585095|Across the globe|2|2
+15179671|tallahassee, fl|11971692|iPhone: 30.318139,-86.134374|2|2
+15179671|tallahassee, fl|0|Error|1|2
+15179671|tallahassee, fl|16090230|Tallahassee, FL|1|2
+15179671|tallahassee, fl|0|Error|1|2
+15179671|tallahassee, fl|22369133|Tallahassee,Fl.32308|1|2
+15179671|tallahassee, fl|293791298|Error|1|2
+15179671|tallahassee, fl|16228398|Error|1|2
+15179671|tallahassee, fl|40142757|Tallahassee, FL|1|2
+15179671|tallahassee, fl|19032050|Tallahassee, Florida|1|2
+15179671|tallahassee, fl|2596987868|Error|1|2
+15179671|tallahassee, fl|0|Error|1|2
+15179671|tallahassee, fl|109037659|Error|1|2
+15179671|tallahassee, fl|28218217|NBC|1|2
+15179671|tallahassee, fl|28222419|Error|1|2
+15179671|tallahassee, fl|28204769|NBC|1|2
+15179671|tallahassee, fl|43572103|Tallahassee, FL|1|2
+14109677|tallahassee, fl|52652700|Tallahassee, Florida|3|2
+14109677|tallahassee, fl|5692542|Austin, Texas|2|2
+14109677|tallahassee, fl|17433998|Austin, TX|2|2
+14109677|tallahassee, fl|634347804|Tallahassee|2|2
+14109677|tallahassee, fl|14871463|Wichita, KS|2|2
+14109677|tallahassee, fl|15545683|Austin, Tx|1|2
+14109677|tallahassee, fl|87777131|Fort Hood, Texas|1|2
+14109677|tallahassee, fl|8206602|Boston|1|2
+14109677|tallahassee, fl|49141071|Tallahassee, Florida|1|2
+14109677|tallahassee, fl|0|Error|1|2
+14109677|tallahassee, fl|259333720|Error|1|2
+14109677|tallahassee, fl|16229130|Austin, Texas|1|2
+14109677|tallahassee, fl|20012204|Error|1|2
+14109677|tallahassee, fl|7212562|Dallas, Texas|1|2
+82420036|tallahassee, florida|0|Error|2|2
+82420036|tallahassee, florida|18256977|San Diego, California, USA|2|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|141244074|Shirley, MA|1|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|33202219|Cape Town, South Africa|1|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|22668381|California|1|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|23664028|central mountains, idaho|1|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|26019011|Tallahassee, Florida 32301|1|2
+82420036|tallahassee, florida|0|Error|1|2
+82420036|tallahassee, florida|75259915|Error|1|2
+82420036|tallahassee, florida|26061766|High Point, North Carolina|1|2
+82420036|tallahassee, florida|0|Error|1|2
+25535699|tallahassee, fl|54060157|Error|2|2
+25535699|tallahassee, fl|160652337|Stalkersville|2|2
+25535699|tallahassee, fl|18557599|California|2|2
+25535699|tallahassee, fl|0|Error|2|2
+25535699|tallahassee, fl|24125760|ATL Shawty|2|2
+25535699|tallahassee, fl|52688979|Error|2|2
+25535699|tallahassee, fl|23465098|London|2|2
+25535699|tallahassee, fl|0|Error|2|2
+25535699|tallahassee, fl|0|Error|1|2
+25535699|tallahassee, fl|79521484|Error|1|2
+25535699|tallahassee, fl|0|Error|1|2
+25535699|tallahassee, fl|14622632|Hollywood|1|2
+25535699|tallahassee, fl|36166584|Not sleeping|1|2
+25535699|tallahassee, fl|28560257|Error|1|2
+25535699|tallahassee, fl|0|Error|1|2
+25535699|tallahassee, fl|31298555|TEXAS|1|2
+25535699|tallahassee, fl|15069555|Error|1|2
+25535699|tallahassee, fl|62493830|A trk near you for almost 30yr|1|2
+25535699|tallahassee, fl|42134462|Error|1|2
+25535699|tallahassee, fl|22450947|Charlotte,NC|1|2
+25535699|tallahassee, fl|590873387|Error|1|2
+25535699|tallahassee, fl|43125078|Driving|1|2
+25535699|tallahassee, fl|73233217|CA, USA|1|2
+25535699|tallahassee, fl|42340287|LaPorte , In  USA|1|2
+25535699|tallahassee, fl|63727888|C-Town FL|1|2
+25535699|tallahassee, fl|51284538|Utah & California|1|2
+25535699|tallahassee, fl|0|Error|1|2
+25535699|tallahassee, fl|22777734|Error|1|2
+25535699|tallahassee, fl|20727359|Panama City, FL|1|2
+25535699|tallahassee, fl|74589632|The Quah, WA|1|2
+25535699|tallahassee, fl|0|Error|1|2
+25535699|tallahassee, fl|0|Error|1|2
+25535699|tallahassee, fl|59558264|Dallas, Texas|1|2
+25535699|tallahassee, fl|25841271|duncanville, tx|1|2
+47636550|tallahassee, fl|0|Error|1|2
+47636550|tallahassee, fl|8206602|Boston|1|2
+47636550|tallahassee, fl|14800270|Boston, MA|1|2
+47636550|tallahassee, fl|19311802|Orlando, Florida|1|2
+47636550|tallahassee, fl|25674816|Tallahassee, FL|1|2
+47636550|tallahassee, fl|15379375|Tallahassee, Florida|1|2
+47636550|tallahassee, fl|50702694|Tallahassee, FL|1|2
+47636550|tallahassee, fl|0|Error|1|2
+47636550|tallahassee, fl|0|Error|1|2
+47636550|tallahassee, fl|0|Error|1|2
+47636550|tallahassee, fl|16047728|San Jose, CA / World Wide|1|2
+47636550|tallahassee, fl|38191144|Florida, U.S.A.|1|2
+47636550|tallahassee, fl|349739964|Error|1|2
+82790489|tallahassee, fl|15754281|USA TODAY HQ, McLean, Va.|1|2
+82790489|tallahassee, fl|0|Error|1|2
+82790489|tallahassee, fl|0|Error|1|2
+21083557|tallahassee, fl|2621577807|Marion County, FL|4|2
+21083557|tallahassee, fl|130948821|Error|2|2
+21083557|tallahassee, fl|23277654|Virginia/National|2|2
+21083557|tallahassee, fl|10314482|Noel, MO|2|2
+21083557|tallahassee, fl|21083557|Tallahassee, FL|2|2
+21083557|tallahassee, fl|18066875|Belleville, NJ |2|2
+21083557|tallahassee, fl|2279262582|Error|2|2
+21083557|tallahassee, fl|20291259|rockledge, fl|2|2
+21083557|tallahassee, fl|33196252|Fort Lauderdale, Florida|1|2
+21083557|tallahassee, fl|0|Error|1|2
+21083557|tallahassee, fl|22137066|Cold Lake, Alberta|1|2
+21083557|tallahassee, fl|0|Error|1|2
+21083557|tallahassee, fl|14335741|UK|1|2
+21083557|tallahassee, fl|16203072|North Carolina|1|2
+21083557|tallahassee, fl|0|Error|1|2
+21083557|tallahassee, fl|0|Error|1|2
+21083557|tallahassee, fl|17293897|New York|1|2
+21083557|tallahassee, fl|19143166|Barcelona|1|2
+21083557|tallahassee, fl|9228612|Round Rock, TX|1|2
+21083557|tallahassee, fl|0|Error|1|2
+21083557|tallahassee, fl|0|Error|1|2
+21083557|tallahassee, fl|17762060|Long Island, New York|1|2
+21083557|tallahassee, fl|28450164|USA|1|2
+21083557|tallahassee, fl|14143403|Oundle UK|1|2
+21083557|tallahassee, fl|0|Error|1|2
+21083557|tallahassee, fl|16545315|Chicago|1|2
+21083557|tallahassee, fl|17004618|Everywhere|1|2
+21083557|tallahassee, fl|16890148|Pelham, AL, USA|1|2
+21083557|tallahassee, fl|3016171207|Error|1|2
+21083557|tallahassee, fl|1349941|Flemington, New Jersey|1|2
+21083557|tallahassee, fl|0|Error|1|2
+21083557|tallahassee, fl|807095|New York City|1|2
+21083557|tallahassee, fl|15734378|London, UK|1|2
+21083557|tallahassee, fl|0|Error|1|2
+21083557|tallahassee, fl|20374904|Eastsound, WA|1|2
+21083557|tallahassee, fl|0|Error|1|2
+21083557|tallahassee, fl|15743206|Alexandria, VA (D.C. area)|1|2
+21083557|tallahassee, fl|171823438|Error|1|2
+21083557|tallahassee, fl|54625677|Error|1|2
+21083557|tallahassee, fl|19897497|Chicagoland, for now. |1|2
+21083557|tallahassee, fl|21418287|Smyrna, DE|1|2
+21083557|tallahassee, fl|23494518|Princeton Jct., NJ|1|2
+47430727|tallahassee, florida|25203129|Thomasville, GA|3|2
+47430727|tallahassee, florida|5971922|Directory of Wonderful Things|2|2
+47430727|tallahassee, florida|8884642|Central, NJ|2|2
+47430727|tallahassee, florida|0|Error|2|2
+47430727|tallahassee, florida|0|Error|1|2
+47430727|tallahassee, florida|15396961|Philadelphia, PA|1|2
+47430727|tallahassee, florida|52652700|Tallahassee, Florida|1|2
+47430727|tallahassee, florida|16365636|Error|1|2
+47430727|tallahassee, florida|15208271|San Jose, CA|1|2
+47430727|tallahassee, florida|15379375|Tallahassee, Florida|1|2
+47430727|tallahassee, florida|52429665|Tallahassee, FL|1|2
+47430727|tallahassee, florida|0|Error|1|2
+47430727|tallahassee, florida|22819411|Tallahassee, FL|1|2
+47430727|tallahassee, florida|34373064|Charlottesville, VA|1|2
+47430727|tallahassee, florida|0|Error|1|2
+47430727|tallahassee, florida|0|Error|1|2
+47430727|tallahassee, florida|16043308|Error|1|2
+47430727|tallahassee, florida|7087112|London|1|2
+17548333|tallahassee, fl|18766726|New york, New york|4|2
+17548333|tallahassee, fl|0|Error|3|2
+17548333|tallahassee, fl|0|Error|3|2
+17548333|tallahassee, fl|15194135|Delray Beach, FL|2|2
+17548333|tallahassee, fl|29803778|orlando, fla|2|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|55148491|Pensacola, FL|1|2
+17548333|tallahassee, fl|20543158|Chicago, IL|1|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|16604950|Pensacola Florida |1|2
+17548333|tallahassee, fl|17578385|Philadelphia, PA|1|2
+17548333|tallahassee, fl|340432059|New York, New York|1|2
+17548333|tallahassee, fl|3264516465|Error|1|2
+17548333|tallahassee, fl|15066059|Orlando, Florida|1|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|31331740|Los Angeles|1|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|24343348|Seattle, WA|1|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|24186241|Error|1|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|0|Error|1|2
+21349535|tallahassee, florida|19727381|Somewhere|7|2
+21349535|tallahassee, florida|0|Error|2|2
+21349535|tallahassee, florida|21349535|Tallahassee, Florida|2|2
+21349535|tallahassee, florida|16977601|New York|1|2
+21349535|tallahassee, florida|0|Error|1|2
+21349535|tallahassee, florida|0|Error|1|2
+21349535|tallahassee, florida|0|Error|1|2
+21349535|tallahassee, florida|0|Error|1|2
+21349535|tallahassee, florida|5545332|Southern California|1|2
+21349535|tallahassee, florida|50147070|Nashville,TN/Tallahassee, FL|1|2
+21349535|tallahassee, florida|20359867|Tallahassee|1|2
+21349535|tallahassee, florida|22750343|Bakersfield, Ca.|1|2
+21349535|tallahassee, florida|36395803|Massachusetts|1|2
+21349535|tallahassee, florida|2929166435|Error|1|2
+21349535|tallahassee, florida|20732623|Tallahassee, Fl|1|2
+21349535|tallahassee, florida|0|Error|1|2
+21349535|tallahassee, florida|20340648|Error|1|2
+21349535|tallahassee, florida|20999287|Tallahassee, Florida|1|2
+21349535|tallahassee, florida|17797579|Los Angeles, California|1|2
+21349535|tallahassee, florida|0|Error|1|2
+21349535|tallahassee, florida|0|Error|1|2
+16097977|tallahassee, fl|19136693|Tallahassee, FL|3|2
+16097977|tallahassee, fl|15395239|Lakeland, FL|3|2
+16097977|tallahassee, fl|21139511|Orlando San Antonio San Diego|2|2
+16097977|tallahassee, fl|614513|Edinburgh, Scotland|2|2
+16097977|tallahassee, fl|408878189|Error|1|2
+16097977|tallahassee, fl|14689601|Tallahassee, FL|1|2
+16097977|tallahassee, fl|244246662|The Cosmere|1|2
+16097977|tallahassee, fl|0|Error|1|2
+16097977|tallahassee, fl|24280831|Tallahassee, Florida|1|2
+16097977|tallahassee, fl|0|Error|1|2
+16097977|tallahassee, fl|15293616|Error|1|2
+16097977|tallahassee, fl|18957524|New York, NY|1|2
+16097977|tallahassee, fl|475157692|Error|1|2
+16097977|tallahassee, fl|15520209|West Palm Beach, FL|1|2
+16097977|tallahassee, fl|17782228|Error|1|2
+16097977|tallahassee, fl|89203198|Tallahassee|1|2
+16097977|tallahassee, fl|62581962|Error|1|2
+16097977|tallahassee, fl|15311462|Chapel Hill, NC|1|2
+16097977|tallahassee, fl|87777131|Fort Hood, Texas|1|2
+16097977|tallahassee, fl|6533462|Chesapeake, VA|1|2
+16097977|tallahassee, fl|15811188|Jacksonville, FL|1|2
+16097977|tallahassee, fl|11064332|Error|1|2
+16097977|tallahassee, fl|852981|Peterborough, NH|1|2
+16097977|tallahassee, fl|85884546|Tallahassee, FL|1|2
+16097977|tallahassee, fl|435778776|Poland|1|2
+15194993|tallahassee, florida|37405821|www.twitter.com/GatorJSchool|2|2
+15194993|tallahassee, florida|30870308|Gainesville, FL|1|2
+15194993|tallahassee, florida|48501228|Lakeland, FL|1|2
+15194993|tallahassee, florida|1090561|NYC|1|2
+15194993|tallahassee, florida|15429511|Tampa, Florida|1|2
+15194993|tallahassee, florida|0|Error|1|2
+15194993|tallahassee, florida|15822299|Tallahassee, Florida|1|2
+15194993|tallahassee, florida|0|Error|1|2
+15194993|tallahassee, florida|15842935|Melbourne, Florida|1|2
+85450135|tallahassee, fl|0|Error|10|2
+85450135|tallahassee, fl|62713048|Goldie Sound Productions |8|2
+85450135|tallahassee, fl|0|Error|2|2
+85450135|tallahassee, fl|0|Error|1|2
+85450135|tallahassee, fl|0|Error|1|2
+85450135|tallahassee, fl|83036444|Error|1|2
+50090343|tallahassee, florida|2191370166|Error|10|2
+50090343|tallahassee, florida|50090927|Tallahassee, Florida|7|2
+50090343|tallahassee, florida|50092701|Tallahassee, Florida|4|2
+50090343|tallahassee, florida|50093251|Tallahassee, Florida|4|2
+50090343|tallahassee, florida|23335901|Tallahassee, FL|2|2
+50090343|tallahassee, florida|50091436|Tallahassee, Florida|2|2
+50090343|tallahassee, florida|50089699|Tallahassee, Florida|1|2
+50090343|tallahassee, florida|15822299|Tallahassee, Florida|1|2
+50090343|tallahassee, florida|0|Error|1|2
+19261700|tallahassee, fl|54419772|Tallahassee, Fl|4|2
+19261700|tallahassee, fl|0|Error|3|2
+19261700|tallahassee, fl|0|Error|1|2
+20572981|tallahassee, fl|0|Error|2|2
+20572981|tallahassee, fl|27283890|TX & MT|1|2
+20572981|tallahassee, fl|2146281|Hovel, Dune Sea|1|2
+20572981|tallahassee, fl|10615232|Iowa|1|2
+20572981|tallahassee, fl|0|Error|1|2
+20572981|tallahassee, fl|11925682|Tucson, AZ|1|2
+57278169|tallahassee, fl|6105962|Tokyo|4|2
+57278169|tallahassee, fl|136792384|Error|2|2
+57278169|tallahassee, fl|0|Error|2|2
+57278169|tallahassee, fl|171317482|Error|1|2
+57278169|tallahassee, fl|49730372|Error|1|2
+57278169|tallahassee, fl|23702397|HARLEM WORLD|1|2
+54262143|tallahassee, fl|65914790|Tallahassee|3|2
+54262143|tallahassee, fl|60786902|Tallahassee, FL|1|2
+54262143|tallahassee, fl|16936532|Everywhere|1|2
+54262143|tallahassee, fl|0|Error|1|2
+20709185|tallahassee, florida|66983025|Des Moines, Iowa, US|6|2
+20709185|tallahassee, florida|75390313|Manitoba, Canada|5|2
+20709185|tallahassee, florida|134251784|Evrywhere|4|2
+20709185|tallahassee, florida|16282252|The great state of Virginia!|3|2
+20709185|tallahassee, florida|0|Error|2|2
+20709185|tallahassee, florida|0|Error|1|2
+20709185|tallahassee, florida|15726619|Error|1|2
+20709185|tallahassee, florida|250240445|Error|1|2
+20709185|tallahassee, florida|26843685|c:\11.png|1|2
+20709185|tallahassee, florida|0|Error|1|2
+20709185|tallahassee, florida|55982841|Error|1|2
+20709185|tallahassee, florida|0|Error|1|2
+20709185|tallahassee, florida|428333|Everywhere|1|2
+20709185|tallahassee, florida|14641556|Metropolitan Los Angeles|1|2
+20709185|tallahassee, florida|793238882|Error|1|2
+20709185|tallahassee, florida|76991334|ca|1|2
+20709185|tallahassee, florida|19077897|America|1|2
+20709185|tallahassee, florida|21527796|Chattanooga Tennessee|1|2
+20709185|tallahassee, florida|20718121|Tallahassee, Fl|1|2
+20709185|tallahassee, florida|23172966|Las Vegas, NV|1|2
+27653726|tallahassee, florida|0|Error|2|2
+27653726|tallahassee, florida|1603612454|Error|2|2
+27653726|tallahassee, florida|0|Error|1|2
+27653726|tallahassee, florida|0|Error|1|2
+27653726|tallahassee, florida|0|Error|1|2
+27653726|tallahassee, florida|0|Error|1|2
+27653726|tallahassee, florida|0|Error|1|2
+27653726|tallahassee, florida|0|Error|1|2
+27653726|tallahassee, florida|0|Error|1|2
+27653726|tallahassee, florida|0|Error|1|2
+9447312|tallahassee, fl|6091632|Tallahassee|3|2
+9447312|tallahassee, fl|10108152|Tallahassee, FL|3|2
+9447312|tallahassee, fl|749719790|Error|1|2
+9447312|tallahassee, fl|0|Error|1|2
+9447312|tallahassee, fl|21136656|San Francisco, CA|1|2
+9447312|tallahassee, fl|13987302|San Francisco, CA|1|2
+9447312|tallahassee, fl|6604072|Decatur, GA (U.S.)|1|2
+9447312|tallahassee, fl|9333762|Tallahassee, Florida|1|2
+9447312|tallahassee, fl|42920736|Error|1|2
+9447312|tallahassee, fl|656933|Error|1|2
+9447312|tallahassee, fl|9655762|Jacksonville, FL|1|2
+9447312|tallahassee, fl|11971692|iPhone: 30.318139,-86.134374|1|2
+24147866|tallahassee, florida|21174256|Boston, MA|9|2
+24147866|tallahassee, florida|3384426255|Error|1|2
+25198118|tallahassee, fl|0|Error|1|2
+15909561|tallahassee, fl|18500777|nashville, tn|2|2
+15909561|tallahassee, fl|0|Error|2|2
+15909561|tallahassee, fl|0|Error|1|2
+15909561|tallahassee, fl|6640272|Pasadena, CA|1|2
+15909561|tallahassee, fl|0|Error|1|2
+15909561|tallahassee, fl|0|Error|1|2
+15909561|tallahassee, fl|16191110|Naples, FL|1|2
+25203129|tallahassee, fl|0|Error|4|2
+25203129|tallahassee, fl|15687937|San Francisco|2|2
+25203129|tallahassee, fl|24572641|Trinidad and Tobago|2|2
+25203129|tallahassee, fl|0|Error|2|2
+25203129|tallahassee, fl|22964078|Essex|2|2
+25203129|tallahassee, fl|11900502|Pembroke Pines, Florida |2|2
+25203129|tallahassee, fl|850728128|Error|1|2
+25203129|tallahassee, fl|37906191|UK, Bristol|1|2
+25203129|tallahassee, fl|16525791|Pune (INDIA)|1|2
+25203129|tallahassee, fl|14991392|Bangalore, India|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|21201372|Dahab, Egypt|1|2
+25203129|tallahassee, fl|15942182|Kochi, Helsinki|1|2
+25203129|tallahassee, fl|13757422|iPhone: -33.873039,151.207870|1|2
+25203129|tallahassee, fl|935021|Bengaluru, Karnataka|1|2
+25203129|tallahassee, fl|15011623|New Jersey|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|21885610|Sun Prairie, WI |1|2
+25203129|tallahassee, fl|31261715|TN|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|1060167127|Error|1|2
+25203129|tallahassee, fl|84074295|The Web|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|15061360|Lehigh Valley, PA|1|2
+25203129|tallahassee, fl|24322417|Error|1|2
+25203129|tallahassee, fl|20340782|Jakarta|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|17251205|Moscow|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|14574588|San Francisco, California|1|2
+25203129|tallahassee, fl|18687755|NY - NC|1|2
+25203129|tallahassee, fl|219337891|Error|1|2
+25203129|tallahassee, fl|0|Error|1|2
+25203129|tallahassee, fl|18775473|New York, NY|1|2
+25203129|tallahassee, fl|17743415|Estonia|1|2
+25203129|tallahassee, fl|38434137|Myrtle Beach S.C|1|2
+25203129|tallahassee, fl|15230370|London & Preston, UK|1|2
+25203129|tallahassee, fl|702443251|Error|1|2
+25203129|tallahassee, fl|0|Error|1|2
+37799652|tallahassee, fl|33257704|lovely place called earth.|2|2
+37799652|tallahassee, fl|0|Error|1|2
+37799652|tallahassee, fl|0|Error|1|2
+37799652|tallahassee, fl|20386695|Error|1|2
+37799652|tallahassee, fl|69409314|Los Angeles, California|1|2
+37799652|tallahassee, fl|179107907|Error|1|2
+37799652|tallahassee, fl|196283918|Error|1|2
+37799652|tallahassee, fl|99556973|Error|1|2
+61930482|tallahassee, florida|0|Error|7|2
+61930482|tallahassee, florida|0|Error|2|2
+61930482|tallahassee, florida|0|Error|2|2
+61930482|tallahassee, florida|21411321|Cincinnati, OH|1|2
+61930482|tallahassee, florida|12391082|Error|1|2
+61930482|tallahassee, florida|17263943|Virginia, USA|1|2
+61930482|tallahassee, florida|23967578|It all depends on the day...|1|2
+61930482|tallahassee, florida|11628|Pacific Time Zone|1|2
+61930482|tallahassee, florida|8824902|Irving, TX|1|2
+20007886|tallahassee, florida|0|Error|2|2
+20007886|tallahassee, florida|35876822|Atlanta, GA|1|2
+20007886|tallahassee, florida|0|Error|1|2
+20007886|tallahassee, florida|44363165|Tallahassee, FL|1|2
+44129172|tallahassee, fl|21237269|Raleigh, N.C.|2|2
+44129172|tallahassee, fl|0|Error|2|2
+44129172|tallahassee, fl|39628590|Chestnut Hill, MA|2|2
+44129172|tallahassee, fl|29460209|30.26N/84.16W|1|2
+44129172|tallahassee, fl|2297826050|Tallahassee, FL|1|2
+44129172|tallahassee, fl|28639864|Tomahawk Nation|1|2
+41066429|tallahassee, florida|0|Error|4|2
+41066429|tallahassee, florida|0|Error|1|2
+26390995|tallahassee, fl|0|Error|5|2
+26390995|tallahassee, fl|0|Error|5|2
+26390995|tallahassee, fl|0|Error|4|2
+26390995|tallahassee, fl|0|Error|3|2
+26390995|tallahassee, fl|0|Error|1|2
+26390995|tallahassee, fl|524593739|Error|1|2
+26390995|tallahassee, fl|47863855|where we go hard|1|2
+72566237|tallahassee, fl|61930482|Tallahassee, Florida|6|2
+72566237|tallahassee, fl|25293746|Tallahassee, FLA|3|2
+72566237|tallahassee, fl|28358842|Florida|1|2
+72566237|tallahassee, fl|0|Error|1|2
+72566237|tallahassee, fl|15678339|Florida|1|2
+72566237|tallahassee, fl|0|Error|1|2
+25442364|tallahassee, fl|3689738115|Miami, FL|4|2
+25442364|tallahassee, fl|19840155|Gaming |1|2
+25442364|tallahassee, fl|554733224|Error|1|2
+25442364|tallahassee, fl|3292311790|Error|1|2
+1327871|tallahassee, fl|16339134|New York|3|2
+1327871|tallahassee, fl|9401682|Tallahassee, Florida|1|2
+1327871|tallahassee, fl|1183038558|Error|1|2
+1327871|tallahassee, fl|9002492|Emeryville (near San Francisco|1|2
+1327871|tallahassee, fl|170949624|Brooklyn, NY|1|2
+1327871|tallahassee, fl|16091517|Des Moines, IA|1|2
+1327871|tallahassee, fl|1413801|Edmond|1|2
+1327871|tallahassee, fl|15524875|NJ -- NYC -- BK|1|2
+1327871|tallahassee, fl|14454642|Error|1|2
+1327871|tallahassee, fl|13796572|Mountain View, California|1|2
+1327871|tallahassee, fl|0|Error|1|2
+16024738|tallahassee, florida|853182786|Error|2|2
+16024738|tallahassee, florida|9401682|Tallahassee, Florida|1|2
+16024738|tallahassee, florida|47526117|Miami, Fl|1|2
+16024738|tallahassee, florida|18945917|Chicago IL|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|27884629|near Albuquerque, New Mexico|1|2
+16024738|tallahassee, florida|26780344|West Palm Beach, Florida|1|2
+16024738|tallahassee, florida|44616049|Yosemite National Park, CA|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|55468579|Orlando Florida|1|2
+16024738|tallahassee, florida|2506058797|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|18634843|That City of Angels|1|2
+16024738|tallahassee, florida|17355848|Chicago, IL|1|2
+16024738|tallahassee, florida|43672433|Error|1|2
+16024738|tallahassee, florida|12295962|Pensacola, Florida|1|2
+16024738|tallahassee, florida|70983749|Sarasota Florida|1|2
+16024738|tallahassee, florida|761604852|new yuck|1|2
+16024738|tallahassee, florida|22748938|Error|1|2
+16024738|tallahassee, florida|24280831|Tallahassee, Florida|1|2
+16024738|tallahassee, florida|343515920|Error|1|2
+16024738|tallahassee, florida|3307699475|Error|1|2
+16024738|tallahassee, florida|9270922|Flying from Latin America. |1|2
+16024738|tallahassee, florida|19120258|Canada coast-to-coast|1|2
+16024738|tallahassee, florida|1183307916|Error|1|2
+16024738|tallahassee, florida|22615053|Tallahassee, FL|1|2
+16024738|tallahassee, florida|460296120|Error|1|2
+16024738|tallahassee, florida|17553103|Philadelphia|1|2
+16024738|tallahassee, florida|1260555692|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|43853552|Spokane, WA|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|61286285|Orlando Florida|1|2
+16024738|tallahassee, florida|15258726|St. Marys, GA|1|2
+16024738|tallahassee, florida|17558127|Alvin, Texas|1|2
+16024738|tallahassee, florida|17441508|Atlanta|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|17259640|Pennsylvania|1|2
+16024738|tallahassee, florida|30644425|Texas|1|2
+16024738|tallahassee, florida|2661731|Bangor, ME|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|30227588|Staffordshire|1|2
+16024738|tallahassee, florida|20882220|Bath, Maine USA|1|2
+16024738|tallahassee, florida|16030036|Orlando, FL|1|2
+16024738|tallahassee, florida|13955672|Bucks County, PA | Raleigh, NC|1|2
+16024738|tallahassee, florida|15054698|Central Florida|1|2
+16024738|tallahassee, florida|1257389412|Error|1|2
+16024738|tallahassee, florida|15105099|Germany|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|658293|Southbury, CT|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|25927998|Indianapolis, IN|1|2
+16024738|tallahassee, florida|37971731|The World Wide Web|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|18212687|UK|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|12088232|Blacksburg, VA|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|2160206527|Error|1|2
+16024738|tallahassee, florida|31657740|Phoenix, AZ, USA|1|2
+16024738|tallahassee, florida|29931401|Montana|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|2587501575|Error|1|2
+16024738|tallahassee, florida|24087579|Tallahassee, FL |1|2
+16024738|tallahassee, florida|20880228|Central California|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|17248634|Somerset|1|2
+16024738|tallahassee, florida|15394259|Rochester, NY USA|1|2
+16024738|tallahassee, florida|8566422|Phoenix, AZ|1|2
+16024738|tallahassee, florida|65786216|Tallahassee, FL, USA|1|2
+16024738|tallahassee, florida|59471221|New York, NY|1|2
+16024738|tallahassee, florida|14867567|Conway, Arkansas, Earth|1|2
+16024738|tallahassee, florida|16927634|Lake Worth, FL|1|2
+16024738|tallahassee, florida|67025098|Error|1|2
+16024738|tallahassee, florida|15506146|iPhone: 29.986425,-95.333740|1|2
+16024738|tallahassee, florida|17447919|Philadelphia|1|2
+16024738|tallahassee, florida|0|Error|1|2
+16024738|tallahassee, florida|20200362|Error|1|2
+16024738|tallahassee, florida|0|Error|1|2
+18489098|tallahassee, florida|0|Error|2|2
+18489098|tallahassee, florida|23157242|Weeki Wachee Florida|1|2
+18489098|tallahassee, florida|2299761360|Toronto|1|2
+18489098|tallahassee, florida|0|Error|1|2
+8714402|tallahassee, fl|0|Error|3|2
+8714402|tallahassee, fl|14874772|Corpus Christi, Texas|2|2
+8714402|tallahassee, fl|14588771|L.A. (Lower Alabama)|2|2
+8714402|tallahassee, fl|21794105|Orlando|1|2
+8714402|tallahassee, fl|7311932|Philly 'burbs, PA|1|2
+8714402|tallahassee, fl|0|Error|1|2
+8714402|tallahassee, fl|1143031|Melbourne, Australia|1|2
+8714402|tallahassee, fl|0|Error|1|2
+8714402|tallahassee, fl|21787101|Tallahassee, FL|1|2
+8714402|tallahassee, fl|816653|San Francisco, CA|1|2
+8714402|tallahassee, fl|10202|Boston, MA|1|2
+8714402|tallahassee, fl|15139005|Florida Tallahassee Gulf Coast|1|2
+8714402|tallahassee, fl|0|Error|1|2
+8714402|tallahassee, fl|17242480|Tampa, FL|1|2
+8714402|tallahassee, fl|15742514|Cleveland/ Akron Area - Ohio|1|2
+8714402|tallahassee, fl|135224610|Error|1|2
+8714402|tallahassee, fl|511283|Portland, Oregon|1|2
+10819242|tallahassee, fl|33811109|Sydney|5|2
+10819242|tallahassee, fl|16179201|Error|1|2
+10819242|tallahassee, fl|6228822|In a saltmine|1|2
+10819242|tallahassee, fl|0|Error|1|2
+10819242|tallahassee, fl|622219929|Error|1|2
+10819242|tallahassee, fl|21386751|Australia|1|2
+25527922|tallahassee, fl|0|Error|4|2
+25527922|tallahassee, fl|13593922|Tallahassee, FL|2|2
+25527922|tallahassee, fl|0|Error|1|2
+25527922|tallahassee, fl|65651571|Tallahassee|1|2
+25527922|tallahassee, fl|0|Error|1|2
+25527922|tallahassee, fl|817751930|AR|1|2
+25527922|tallahassee, fl|21619519|Connecticut|1|2
+25527922|tallahassee, fl|15736836|West Palm Beach, FL|1|2
+45470985|tallahassee, fl|202645039|Error|2|2
+45470985|tallahassee, fl|30165537|Little Rock, Arkansas |1|2
+28694817|tallahassee, florida|0|Error|10|2
+28694817|tallahassee, florida|24776235|US|9|2
+28694817|tallahassee, florida|86387787|Error|2|2
+28694817|tallahassee, florida|0|Error|2|2
+28694817|tallahassee, florida|31002036|Boston Boy living in Miami!|1|2
+28694817|tallahassee, florida|402306204|Columbus, Ohio|1|2
+28694817|tallahassee, florida|0|Error|1|2
+28694817|tallahassee, florida|24107628|Philly area girl|1|2
+28694817|tallahassee, florida|74721353|Right behind DONNIE!!!|1|2
+28694817|tallahassee, florida|0|Error|1|2
+28694817|tallahassee, florida|28456384|Error|1|2
+29788647|tallahassee, fl|0|Error|2|2
+29788647|tallahassee, fl|2480617453|Error|2|2
+29788647|tallahassee, fl|18485036|Tallahassee, United States|1|2
+29788647|tallahassee, fl|0|Error|1|2
+29788647|tallahassee, fl|28493089|Philadelphia|1|2
+29788647|tallahassee, fl|515666214|Error|1|2
+29788647|tallahassee, fl|39100841|Tallanasty and Jacksonville|1|2
+17548333|tallahassee, fl|0|Error|2|2
+17548333|tallahassee, fl|15194135|Delray Beach, FL|1|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|3264516465|Error|1|2
+17548333|tallahassee, fl|15239406|Florida|1|2
+17548333|tallahassee, fl|143937679|Error|1|2
+17548333|tallahassee, fl|246578038|Detroit|1|2
+17548333|tallahassee, fl|0|Error|1|2
+17548333|tallahassee, fl|18350954|Florida|1|2
+17548333|tallahassee, fl|20359867|Tallahassee|1|2
+30843322|tallahassee, florida|0|Error|1|2
+30843322|tallahassee, florida|26797315|Error|1|2
+14084098|tallahassee, fl|20551700|Error|5|2
+14084098|tallahassee, fl|16339845|Pick an airport, any airport|5|2
+14084098|tallahassee, fl|14084098|Tallahassee, FL|4|2
+14084098|tallahassee, fl|355553694|USA |4|2
+14084098|tallahassee, fl|0|Error|4|2
+14084098|tallahassee, fl|21626346|Boston|3|2
+14084098|tallahassee, fl|14282825|Tulsa/Dallas|3|2
+14084098|tallahassee, fl|17401289|Sydney, Tonga, New Zealand|3|2
+14084098|tallahassee, fl|16275014|Cleveland, Ohio|3|2
+14084098|tallahassee, fl|14777850|Roanoke, VA|3|2
+14084098|tallahassee, fl|16630502|NC|2|2
+14084098|tallahassee, fl|14454721|Global|2|2
+14084098|tallahassee, fl|8786792|San Francisco, USA|2|2
+14084098|tallahassee, fl|0|Error|1|2
+14084098|tallahassee, fl|14048944|Akron, Ohio|1|2
+14084098|tallahassee, fl|0|Error|1|2
+14084098|tallahassee, fl|14578544|Houston, TX|1|2
+14084098|tallahassee, fl|14128512|02025|1|2
+14084098|tallahassee, fl|15580026|Pixel Earth|1|2
+14084098|tallahassee, fl|18228494|Cambridge, England|1|2
+14084098|tallahassee, fl|7350962|Miami, Fl. USA|1|2
+14084098|tallahassee, fl|0|Error|1|2
+14084098|tallahassee, fl|8206602|Boston|1|2
+14084098|tallahassee, fl|14237254|Wilmington, NC |1|2
+14084098|tallahassee, fl|49734051|Midwest|1|2
+14084098|tallahassee, fl|0|Error|1|2
+14084098|tallahassee, fl|16377331|Malaysia|1|2
+14084098|tallahassee, fl|9838062|Gisborne, New Zealand|1|2
+14084098|tallahassee, fl|95431706|Error|1|2
+14084098|tallahassee, fl|14231452|Tallahassee, FL|1|2
+14084098|tallahassee, fl|14100972|Boston, MA|1|2
+15186722|tallahassee, florida|0|Error|2|2
+15186722|tallahassee, florida|24725380|Error|2|2
+15186722|tallahassee, florida|15021827|Florida|2|2
+15186722|tallahassee, florida|37332393|Error|1|2
+15186722|tallahassee, florida|18622312|Error|1|2
+15186722|tallahassee, florida|611072010|Error|1|2
+15186722|tallahassee, florida|47842703|Orlando, Florida|1|2
+15186722|tallahassee, florida|0|Error|1|2
+15186722|tallahassee, florida|972651|Error|1|2
+15186722|tallahassee, florida|15368491|Edison, NJ|1|2
+15186722|tallahassee, florida|23452263|Error|1|2
+15186722|tallahassee, florida|15591903|Twin Cities, Minnesota|1|2
+38258053|tallahassee, fl|17062264|Chicago IL|4|2
+38258053|tallahassee, fl|29464860|iPhone: 30.205568,-97.933395|3|2
+38258053|tallahassee, fl|3135241|Washington, D.C.|1|2
+38258053|tallahassee, fl|0|Error|1|2
+38258053|tallahassee, fl|300581394|Error|1|2
+38258053|tallahassee, fl|23599461|New Orleans, LA|1|2
+38258053|tallahassee, fl|1626991|Test City, U.S.A.|1|2
+38258053|tallahassee, fl|0|Error|1|2
+23589899|tallahassee, fl|14348350|Error|3|2
+23589899|tallahassee, fl|14572722|Error|3|2
+23589899|tallahassee, fl|0|Error|2|2
+23589899|tallahassee, fl|61033129|Irvine, California|2|2
+23589899|tallahassee, fl|544368574|Error|1|2
+23589899|tallahassee, fl|0|Error|1|2
+23589899|tallahassee, fl|15165865|San Francisco Bay Area|1|2
+23589899|tallahassee, fl|15350768|37.622635,-122.416227|1|2
+23589899|tallahassee, fl|24523641|Error|1|2
+23589899|tallahassee, fl|17786601|Error|1|2
+70796232|tallahassee, florida|23086016|Jacksonville, FL|2|2
+70796232|tallahassee, florida|557448434|Error|2|2
+70796232|tallahassee, florida|74920411|Khemet|1|2
+22565447|tallahassee, fl|11801112|Tallahassee, FL|1|2
+22565447|tallahassee, fl|0|Error|1|2
+22565447|tallahassee, fl|293791298|Error|1|2
+22565447|tallahassee, fl|1771971|Tallahasee, Florida|1|2
+22565447|tallahassee, fl|22565447|Atlanta, GA|1|2
+22565447|tallahassee, fl|18726856|Jacksonville Beach, FL|1|2
+22565447|tallahassee, fl|14084098|Tallahassee, FL|1|2
+22565447|tallahassee, fl|2993713838|Orlamdo , Florida|1|2
+22565447|tallahassee, fl|62581962|Error|1|2
+22565447|tallahassee, fl|34313063|The great state of Florida|1|2
+22565447|tallahassee, fl|16346354|New York, NY|1|2
+22565447|tallahassee, fl|14363162|Tallahassee|1|2
+22565447|tallahassee, fl|14085040|Miami, FL|1|2
+22565447|tallahassee, fl|36702060|Denver, CO|1|2
+22565447|tallahassee, fl|0|Error|1|2
+19666735|tallahassee, fl|335673680|Tuba, Benguet,Philippines|4|2
+19666735|tallahassee, fl|15678339|Florida|3|2
+19666735|tallahassee, fl|22332350|PA - FL - CO|1|2
+19666735|tallahassee, fl|32394355|Treasure Island, FL|1|2
+19666735|tallahassee, fl|14894471|Waco, TX|1|2
+19666735|tallahassee, fl|16346354|New York, NY|1|2
+20549834|tallahassee, fl|0|Error|1|2
+20549834|tallahassee, fl|0|Error|1|2
+20549834|tallahassee, fl|16102446|Error|1|2
+20549834|tallahassee, fl|6539592|About to perform near you|1|2
+20549834|tallahassee, fl|0|Error|1|2
+20549834|tallahassee, fl|0|Error|1|2
+20549834|tallahassee, fl|35622844|Florida|1|2
+20549834|tallahassee, fl|19637934|Los Angeles-ish|1|2
+31038713|tallahassee, fl|0|Error|4|2
+31038713|tallahassee, fl|0|Error|3|2
+31038713|tallahassee, fl|340410068|Error|1|2
+31038713|tallahassee, fl|16674308|South Florida|1|2
+31038713|tallahassee, fl|44452312|NJ/FL/Bahamas|1|2
+20552970|tallahassee, fl|27934142|Mountain View, CA|3|2
+20552970|tallahassee, fl|0|Error|2|2
+20552970|tallahassee, fl|2535314816|Error|2|2
+20552970|tallahassee, fl|1031720840|Error|2|2
+20552970|tallahassee, fl|16725276|Somewhere in the BoortzBus|1|2
+29995215|tallahassee, fl|0|Error|4|2
+29995215|tallahassee, fl|0|Error|4|2
+29995215|tallahassee, fl|0|Error|2|2
+29995215|tallahassee, fl|30309979|New York, NY|1|2
+18482509|tallahassee, fl|15013572|Orange County, CA|3|2
+18482509|tallahassee, fl|18463079|Santa Cruz & NorCal|2|2
+18482509|tallahassee, fl|12184042|London|2|2
+18482509|tallahassee, fl|15976477|Error|2|2
+18482509|tallahassee, fl|25203129|Thomasville, GA|2|2
+18482509|tallahassee, fl|228895403|Error|2|2
+18482509|tallahassee, fl|17569105|Ashland, Oregon|2|2
+18482509|tallahassee, fl|29600506|Chennai, India|1|2
+18482509|tallahassee, fl|108876486|San Francisco|1|2
+18482509|tallahassee, fl|16266770|Washington DC |1|2
+18482509|tallahassee, fl|205032434|Error|1|2
+18482509|tallahassee, fl|0|Error|1|2
+18482509|tallahassee, fl|15139005|Florida Tallahassee Gulf Coast|1|2
+18482509|tallahassee, fl|14803701|Everywhere|1|2
+18482509|tallahassee, fl|15743866|Is your leadership showing?|1|2
+18482509|tallahassee, fl|25058557|Hollywood, FL|1|2
+656933|tallahassee, florida|2686761426|Error|2|2
+656933|tallahassee, florida|15853073|Wherever there's a signal.|2|2
+656933|tallahassee, florida|8005492|iPhone: 44.947103,-93.092956|1|2
+656933|tallahassee, florida|2279731459|Error|1|2
+656933|tallahassee, florida|14303014|Lawrence, Kansas|1|2
+656933|tallahassee, florida|24106949|New York, NY|1|2
+656933|tallahassee, florida|10108152|Tallahassee, FL|1|2
+15139398|tallahassee, fl|10134302|Internet\Verified (cough)|3|2
+15139398|tallahassee, fl|0|Error|1|2
+15139398|tallahassee, fl|1586147557|Error|1|2
+15139398|tallahassee, fl|14132329|GSW Worldwide|1|2
+15139398|tallahassee, fl|8131122|Seattle, WA|1|2
+15139398|tallahassee, fl|21829371|Tallahassee, FL|1|2
+24778122|tallahassee, florida|65786216|Tallahassee, FL, USA|4|2
+24778122|tallahassee, florida|7383412|Tallahassee, FL CYL Fish Camp|2|2
+24778122|tallahassee, florida|22540123|new york|1|2
+24778122|tallahassee, florida|32505443|Tallahassee, FL|1|2
+24778122|tallahassee, florida|428333|Everywhere|1|2
+24778122|tallahassee, florida|26784273|New York, NY|1|2
+24778122|tallahassee, florida|37280676|California and East Africa|1|2
+24778122|tallahassee, florida|0|Error|1|2
+24778122|tallahassee, florida|813286|Washington, DC|1|2
+68270436|tallahassee, fl|598884992|Error|4|2
+68270436|tallahassee, fl|29329941|Error|1|2
+68270436|tallahassee, fl|85345434|Naperville, IL|1|2
+16406712|tallahassee, fl|17979024|boston-ish|9|2
+16406712|tallahassee, fl|0|Error|2|2
+16406712|tallahassee, fl|46852285|Bethesda, MD|2|2
+16406712|tallahassee, fl|16831827|Georgia|2|2
+16406712|tallahassee, fl|16281874|Napa Valley, California|2|2
+16406712|tallahassee, fl|15593412|Detroit|2|2
+16406712|tallahassee, fl|0|Error|1|2
+16406712|tallahassee, fl|1716581|Oakland, CA|1|2
+16406712|tallahassee, fl|17024478|Error|1|2
+16406712|tallahassee, fl|16406712|Error|1|2
+16406712|tallahassee, fl|515666214|Error|1|2
+16406712|tallahassee, fl|14453556|Wimberley, TX|1|2
+16406712|tallahassee, fl|14347931|Inside the Beltway|1|2
+29998575|tallahassee, florida|26929750|Orlando, FL|2|2
+29998575|tallahassee, florida|15822299|Tallahassee, Florida|1|2
+16895840|tallahassee, fl|0|Error|2|2
+16895840|tallahassee, fl|67325855|Error|2|2
+16895840|tallahassee, fl|16592827|Tallahassee|2|2
+16895840|tallahassee, fl|28607289|tallahassee, fl|1|2
+16895840|tallahassee, fl|17290948|New York, NY|1|2
+16895840|tallahassee, fl|46200051|Tallahassee, Florida|1|2
+16895840|tallahassee, fl|46780690|Florida|1|2
+16895840|tallahassee, fl|17217890|Everywhere|1|2
+16895840|tallahassee, fl|14282533|Tallahassee, Florida|1|2
+16895840|tallahassee, fl|0|Error|1|2
+69933538|tallahassee, fl|24952908|Error|5|2
+69933538|tallahassee, fl|0|Error|5|2
+69933538|tallahassee, fl|278396560|Error|4|2
+69933538|tallahassee, fl|0|Error|4|2
+69933538|tallahassee, fl|1379843046|Error|3|2
+69933538|tallahassee, fl|32060934|West Palm Beach/Miami, FL|3|2
+69933538|tallahassee, fl|0|Error|2|2
+69933538|tallahassee, fl|46341586|Florida|2|2
+69933538|tallahassee, fl|53153263|Error|2|2
+69933538|tallahassee, fl|0|Error|1|2
+69933538|tallahassee, fl|2277137671|Error|1|2
+69933538|tallahassee, fl|30127096|Atlanta, GA|1|2
+69933538|tallahassee, fl|0|Error|1|2
+69933538|tallahassee, fl|0|Error|1|2
+17516275|tallahassee, florida|132544643|Error|3|2
+17516275|tallahassee, florida|14915412|Tallahassee, Florida|3|2
+17516275|tallahassee, florida|21326030|Florida | Virginia |2|2
+17516275|tallahassee, florida|0|Error|2|2
+17516275|tallahassee, florida|814402368|Here and There|1|2
+17516275|tallahassee, florida|16564850|Washington, D.C. |1|2
+17516275|tallahassee, florida|12134692|Washington, D.C.|1|2
+17516275|tallahassee, florida|65914790|Tallahassee|1|2
+17516275|tallahassee, florida|17022627|sunny california|1|2
+17516275|tallahassee, florida|88854106|Error|1|2
+17516275|tallahassee, florida|25674816|Tallahassee, FL|1|2
+17516275|tallahassee, florida|5781452|North East Coast|1|2
+17516275|tallahassee, florida|634391142|Error|1|2
+17516275|tallahassee, florida|18943135|Montgomery, Alabama|1|2
+17516275|tallahassee, florida|16911915|Chesterfield|1|2
+17516275|tallahassee, florida|0|Error|1|2
+17516275|tallahassee, florida|15896464|Error|1|2
+17516275|tallahassee, florida|19193301|Washington, DC|1|2
+17516275|tallahassee, florida|42481696|Fairhope, Alabama|1|2
+17516275|tallahassee, florida|22686277|Pensacola, FL|1|2
+41634587|tallahassee, florida|16001789|Tallahassee, FL|3|2
+41634587|tallahassee, florida|38258053|Tallahassee, FL|3|2
+41634587|tallahassee, florida|21326030|Florida | Virginia |2|2
+41634587|tallahassee, florida|15896464|Error|2|2
+41634587|tallahassee, florida|28583679|Florida|1|2
+41634587|tallahassee, florida|0|Error|1|2
+41634587|tallahassee, florida|0|Error|1|2
+41634587|tallahassee, florida|300581394|Error|1|2
+41634587|tallahassee, florida|38495835|Underground Bunker|1|2
+41634587|tallahassee, florida|17139674|Washington, DC|1|2
+41634587|tallahassee, florida|0|Error|1|2
+41634587|tallahassee, florida|9508922|Error|1|2
+41634587|tallahassee, florida|15745551|Tallahassee, Florida|1|2
+20922726|tallahassee, fl|547025679|Error|6|2
+20922726|tallahassee, fl|15315461|Earth|3|2
+20922726|tallahassee, fl|19636959|NewAngeles, TexFrancisco|1|2
+20922726|tallahassee, fl|41651800|Error|1|2
+20922726|tallahassee, fl|32306015|Shit, I have no clue!|1|2
+20922726|tallahassee, fl|51263592|New York|1|2
+20922726|tallahassee, fl|618593|Empire, CO|1|2
+20922726|tallahassee, fl|22458168|Worldwide|1|2
+20922726|tallahassee, fl|391070059|Error|1|2
+20922726|tallahassee, fl|38878553|Hardly Home But ALWAYS Reppin |1|2
+20922726|tallahassee, fl|0|Error|1|2
+20922726|tallahassee, fl|44060695|Error|1|2
+28034587|tallahassee, fl|23657936|Los Angeles, CA|9|2
+28034587|tallahassee, fl|24953312|Everywhere the flow goes|3|2
+28034587|tallahassee, fl|42102119|Tallahassee, Fl|3|2
+28034587|tallahassee, fl|32504111|Pensacola, FL|3|2
+28034587|tallahassee, fl|21928006|Error|2|2
+28034587|tallahassee, fl|24394386|Florida|2|2
+28034587|tallahassee, fl|25233616|Florida|1|2
+28034587|tallahassee, fl|17530277|everywhere doing everything |1|2
+28034587|tallahassee, fl|28034587|Tallahassee, FL|1|2
+20709185|tallahassee, florida|47137503|Error|12|2
+20709185|tallahassee, florida|2946005693|Error|1|2
+20709185|tallahassee, florida|14903132|Coatesville, PA|1|2
+20709185|tallahassee, florida|0|Error|1|2
+20709185|tallahassee, florida|9094322|Ohio|1|2
+20709185|tallahassee, florida|19523173|Springfield, OH|1|2
+60573108|tallahassee, fl|1324288651|Error|8|2
+60573108|tallahassee, fl|75471544|Error|1|2
+60573108|tallahassee, fl|60573108|Tallahassee, FL|1|2
+22833637|tallahassee, florida|277421239|Karachi , Pakistan|5|2
+22833637|tallahassee, florida|0|Error|2|2
+22833637|tallahassee, florida|0|Error|1|2
+22833637|tallahassee, florida|0|Error|1|2
+22833637|tallahassee, florida|0|Error|1|2
+22833637|tallahassee, florida|25894447|Tallahassee|1|2
+22833637|tallahassee, florida|2481402139|Error|1|2
+22833637|tallahassee, florida|67466774|Brooklyn, NY, USA|1|2
+22833637|tallahassee, florida|87105890|Error|1|2
+9206312|tallahassee, florida|94400912|Error|17|2
+9206312|tallahassee, florida|0|Error|3|2
+9206312|tallahassee, florida|23528011|Tallahassee, Fl |2|2
+9206312|tallahassee, florida|8509322|At work|1|2
+44873551|tallahassee, fl|0|Error|1|2
+44873551|tallahassee, fl|17454769|Dallas, TX. Rockies, NYC.|1|2
+22855380|tallahassee, florida|22855380|Tallahassee, Florida|3|2
+22855380|tallahassee, florida|15147042|Bethesda, MD|2|2
+22855380|tallahassee, florida|0|Error|1|2
+22855380|tallahassee, florida|0|Error|1|2
+22855380|tallahassee, florida|0|Error|1|2
+22855380|tallahassee, florida|0|Error|1|2
+22855380|tallahassee, florida|0|Error|1|2
+22855380|tallahassee, florida|0|Error|1|2
+22855380|tallahassee, florida|0|Error|1|2
+22855380|tallahassee, florida|61294955|Bethesda, MD|1|2
+26703714|tallahassee, fl|0|Error|5|2
+26703714|tallahassee, fl|0|Error|2|2
+26703714|tallahassee, fl|0|Error|2|2
+26703714|tallahassee, fl|0|Error|2|2
+26703714|tallahassee, fl|0|Error|1|2
+26703714|tallahassee, fl|3200663475|Lagos|1|2
+26703714|tallahassee, fl|20018057|NORTH PHILLY|1|2
+26703714|tallahassee, fl|0|Error|1|2
+26703714|tallahassee, fl|0|Error|1|2
+26703714|tallahassee, fl|466355919|Error|1|2
+14477907|tallahassee, florida|20324038|Portland, OR|2|2
+14477907|tallahassee, florida|17162791|Vallejo, CA|1|2
+6091632|tallahassee, fl|21693051|Tallahassee, FL|1|2
+6091632|tallahassee, fl|9447312|Austin, TX|1|2
+6091632|tallahassee, fl|9079802|Tallahassee, FL|1|2
+6091632|tallahassee, fl|16298758|philly|1|2
+6091632|tallahassee, fl|10108152|Tallahassee, FL|1|2
+6091632|tallahassee, fl|19476913|Tallahassee|1|2
+6091632|tallahassee, fl|656933|Error|1|2
+6091632|tallahassee, fl|6640272|Pasadena, CA|1|2
+6091632|tallahassee, fl|23797083|Error|1|2
+6091632|tallahassee, fl|9655762|Jacksonville, FL|1|2
+6091632|tallahassee, fl|14749606|San Francisco, CA|1|2
+55413720|tallahassee, florida|12201342|tallahassee, fl|1|2
+55413720|tallahassee, florida|20441508|Error|1|2
+55413720|tallahassee, florida|18536099|NYC - DC- ATL- LA|1|2
+19772618|tallahassee, fl|52836330|Error|2|2
+19772618|tallahassee, fl|19670468|Orlando , Florida|1|2
+48155096|tallahassee, florida|12184042|London|2|2
+48155096|tallahassee, florida|8879602|Error|1|2
+48155096|tallahassee, florida|15588657|Global|1|2
+48155096|tallahassee, florida|14344022|New York, NY|1|2
+48155096|tallahassee, florida|40744725|Maui|1|2
+9365892|tallahassee, fl|21029786|Error|3|2
+9365892|tallahassee, fl|17238457|Albany, NY, USA|3|2
+9365892|tallahassee, fl|57466738|Peterborough, UK|2|2
+9365892|tallahassee, fl|20095364|Vancouver (not BC) WA (not DC)|1|2
+9365892|tallahassee, fl|0|Error|1|2
+9365892|tallahassee, fl|6242992|Thomasville, GA|1|2
+9365892|tallahassee, fl|130732245|Error|1|2
+14641396|tallahassee, fl|18950618|Washington, DC|2|2
+14641396|tallahassee, fl|2393781|Nueva Jor|2|2
+14641396|tallahassee, fl|0|Error|1|2
+14641396|tallahassee, fl|0|Error|1|2
+14641396|tallahassee, fl|14165999|Los Angeles|1|2
+14641396|tallahassee, fl|15010357|Error|1|2
+14641396|tallahassee, fl|970274425|St Andrews, United Kingdom|1|2
+13593922|tallahassee, fl|15570213|Washington, D.C.|2|2
+13593922|tallahassee, fl|65651571|Tallahassee|2|2
+13593922|tallahassee, fl|22188089|Schatt & Hesser, Ocala, FL|1|2
+13593922|tallahassee, fl|807095|New York City|1|2
+13593922|tallahassee, fl|8825152|Berkeley/Bay Area|1|2
+13593922|tallahassee, fl|394205724|Washington, D.C.|1|2

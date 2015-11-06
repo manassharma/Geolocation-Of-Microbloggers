@@ -1,0 +1,2305 @@
+22939513|frederick, maryland|14772101|Boston / Sudbury|3|2
+22939513|frederick, maryland|15711900|Hagerstown, Maryland|3|2
+22939513|frederick, maryland|323200999|Everywhere|2|2
+22939513|frederick, maryland|29763724|Frederick, MD & Washington DC|2|2
+22939513|frederick, maryland|18035275|Frederick, Maryland|1|2
+22939513|frederick, maryland|14095519|Frederick, Maryland|1|2
+22939513|frederick, maryland|9756352|Everywhere....|1|2
+22939513|frederick, maryland|9468812|Frederick, MD|1|2
+22939513|frederick, maryland|75278507|Frederick, MD|1|2
+22939513|frederick, maryland|24420499|Walkersville, MD|1|2
+22939513|frederick, maryland|19911610|Frederick, MD|1|2
+22939513|frederick, maryland|0|Error|1|2
+22939513|frederick, maryland|75353601|Mount Airy, MD|1|2
+22939513|frederick, maryland|15981549|Metro Balto/DC|1|2
+22939513|frederick, maryland|31308731|iPhone: 40.769371,-73.983177|1|2
+22939513|frederick, maryland|16720181|Frederick, MD|1|2
+22939513|frederick, maryland|0|Error|1|2
+61867990|baltimore, maryland|19478277|Baltimore, MD|2|2
+61867990|baltimore, maryland|20441598|Apokolips|1|2
+61867990|baltimore, maryland|62167162|Balimore MD|1|2
+61867990|baltimore, maryland|0|Error|1|2
+22022305|baltimore, maryland|2359872993|Error|5|2
+22022305|baltimore, maryland|42887554|Lake Jackson/Houston, Texas|4|2
+22022305|baltimore, maryland|333608862|Error|2|2
+22022305|baltimore, maryland|166690050|Worldwide|1|2
+22022305|baltimore, maryland|201116903|Error|1|2
+22022305|baltimore, maryland|25728940|Error|1|2
+23334642|bethesda, maryland|15080982|Mississauga, Ontario|4|2
+23334642|bethesda, maryland|25582793|Error|4|2
+23334642|bethesda, maryland|21629937|one of the 51 states|3|2
+23334642|bethesda, maryland|0|Error|3|2
+23334642|bethesda, maryland|301945367|Under JB's pants|2|2
+23334642|bethesda, maryland|70824053|Toronto | LA|1|2
+23334642|bethesda, maryland|588210304|Error|1|2
+23334642|bethesda, maryland|86374144|Florida|1|2
+23334642|bethesda, maryland|39855004|Error|1|2
+23334642|bethesda, maryland|0|Error|1|2
+23334642|bethesda, maryland|63582539|Ohio|1|2
+23334642|bethesda, maryland|0|Error|1|2
+23334642|bethesda, maryland|7846|Los Angeles, CA|1|2
+23334642|bethesda, maryland|233767059|London|1|2
+23334642|bethesda, maryland|130283049|Error|1|2
+23334642|bethesda, maryland|0|Error|1|2
+23860080|baltimore, maryland|0|Error|4|2
+23860080|baltimore, maryland|92002943|Phoenix Az|2|2
+23860080|baltimore, maryland|23831682|Make Gumbo or Die Trying|1|2
+23860080|baltimore, maryland|0|Error|1|2
+23860080|baltimore, maryland|2904488422|Error|1|2
+23860080|baltimore, maryland|0|Error|1|2
+23860080|baltimore, maryland|0|Error|1|2
+16389950|baltimore, maryland|0|Error|6|2
+16389950|baltimore, maryland|18302594|Pittsburgh|3|2
+16389950|baltimore, maryland|2298619357|Yay Area|3|2
+16389950|baltimore, maryland|175638475|planet melbourne|2|2
+16389950|baltimore, maryland|0|Error|2|2
+16389950|baltimore, maryland|0|Error|1|2
+16389950|baltimore, maryland|78405008|Error|1|2
+16389950|baltimore, maryland|29896316|Error|1|2
+16389950|baltimore, maryland|22536121|Brooklyn|1|2
+23725144|baltimore, maryland|0|Error|3|2
+23725144|baltimore, maryland|18367283|Currently visting your planet|3|2
+23725144|baltimore, maryland|26262190|Boston, Massachusetts|2|2
+22534294|bel air, maryland|16803018|West Coast|5|2
+22534294|bel air, maryland|24048071|Ohio|4|2
+22534294|bel air, maryland|44777775|chicago|4|2
+22534294|bel air, maryland|32670379|San Diego,CA|3|2
+22534294|bel air, maryland|33358477|Ozark Mts in MO|2|2
+22534294|bel air, maryland|11335532|Fairhope, AL|1|2
+29370659|fort washington, maryland|21705616|Harlem|1|2
+37104387|waldorf, maryland|14955908|New York|3|2
+37104387|waldorf, maryland|634391235|Error|2|2
+37104387|waldorf, maryland|0|Error|1|2
+37104387|waldorf, maryland|0|Error|1|2
+37104387|waldorf, maryland|34775648|North America|1|2
+37104387|waldorf, maryland|19565779|Error|1|2
+37104387|waldorf, maryland|0|Error|1|2
+37104387|waldorf, maryland|0|Error|1|2
+37104387|waldorf, maryland|300974581|Global|1|2
+37104387|waldorf, maryland|55611495|Error|1|2
+37104387|waldorf, maryland|0|Error|1|2
+37104387|waldorf, maryland|15774048|New York NY (Forest Hills) USA|1|2
+37104387|waldorf, maryland|37104387|Waldorf, Maryland|1|2
+37104387|waldorf, maryland|16667193|Nashville, TN|1|2
+18886477|parkville, maryland|19875981|Gaithersburg MD | Paris FR|6|2
+18886477|parkville, maryland|16658021|Washington, DC|2|2
+18886477|parkville, maryland|48085214|South Side Raleigh|1|2
+18886477|parkville, maryland|18014834|Pre: 39.2803502,-76.534951|1|2
+18886477|parkville, maryland|0|Error|1|2
+26358258|baltimore, maryland|16101862|Washington, DC|5|2
+26358258|baltimore, maryland|185670903|NYC -- Los Angeles|2|2
+26358258|baltimore, maryland|0|Error|1|2
+26358258|baltimore, maryland|0|Error|1|2
+26358258|baltimore, maryland|0|Error|1|2
+16408474|silver spring, maryland|21212828|Maryland, USA|7|2
+16408474|silver spring, maryland|40675093|Error|6|2
+16408474|silver spring, maryland|25479353|Bout to pass u twice!|4|2
+16408474|silver spring, maryland|16450505|Error|3|2
+16408474|silver spring, maryland|127217321|Error|3|2
+16408474|silver spring, maryland|0|Error|3|2
+16408474|silver spring, maryland|25708163|DMV - DC MD VA|3|2
+16408474|silver spring, maryland|280424299|Error|3|2
+16408474|silver spring, maryland|0|Error|3|2
+16408474|silver spring, maryland|0|Error|2|2
+16408474|silver spring, maryland|17929027|The Ruff|2|2
+16408474|silver spring, maryland|71671667|Upon the moon and the stars|2|2
+16408474|silver spring, maryland|3932221045|Whittier, CA|2|2
+16408474|silver spring, maryland|141110728|Taiwan|2|2
+16408474|silver spring, maryland|0|Error|2|2
+16408474|silver spring, maryland|2557521|Bristol, CT|1|2
+16408474|silver spring, maryland|0|Error|1|2
+16408474|silver spring, maryland|264036590|Error|1|2
+16408474|silver spring, maryland|0|Error|1|2
+16408474|silver spring, maryland|19690929|All in the video |1|2
+16408474|silver spring, maryland|17742846|Los Angeles, CA from Maryland|1|2
+16408474|silver spring, maryland|0|Error|1|2
+16408474|silver spring, maryland|1683450661|Washington D.C|1|2
+16408474|silver spring, maryland|2691184292|Error|1|2
+16408474|silver spring, maryland|0|Error|1|2
+16408474|silver spring, maryland|6017542|Global|1|2
+16408474|silver spring, maryland|0|Error|1|2
+16408474|silver spring, maryland|17236619|DC/AZ|1|2
+16408474|silver spring, maryland|133426641|Jakarta|1|2
+16408474|silver spring, maryland|399831016|North Carolina|1|2
+16408474|silver spring, maryland|89731861|Error|1|2
+16408474|silver spring, maryland|1229193499|Somewhere in space|1|2
+16408474|silver spring, maryland|3510572115|Brooklyn |1|2
+16408474|silver spring, maryland|28341005|Error|1|2
+16408474|silver spring, maryland|248261556|Error|1|2
+16408474|silver spring, maryland|0|Error|1|2
+16408474|silver spring, maryland|0|Error|1|2
+16408474|silver spring, maryland|0|Error|1|2
+16408474|silver spring, maryland|18083924|Washington, DC|1|2
+16408474|silver spring, maryland|25695695|PA to the DMV|1|2
+55591203|salisbury, maryland|7025662|Error|1|2
+73417273|largo, maryland|0|Error|4|2
+73417273|largo, maryland|66902501|Washington, DC|3|2
+73417273|largo, maryland|18305283|Error|2|2
+73417273|largo, maryland|34678707|New York|1|2
+73417273|largo, maryland|25972757|USA|1|2
+73417273|largo, maryland|46124019|USA|1|2
+73417273|largo, maryland|913222814|Error|1|2
+73417273|largo, maryland|21894161|Washington DC|1|2
+73417273|largo, maryland|28193911|Washington D.C.|1|2
+73417273|largo, maryland|16743204|Error|1|2
+73417273|largo, maryland|56425243|Sierra Vista AZ.|1|2
+73417273|largo, maryland|0|Error|1|2
+73417273|largo, maryland|0|Error|1|2
+73417273|largo, maryland|0|Error|1|2
+73417273|largo, maryland|84713765|Portland Fucking Oregon|1|2
+73417273|largo, maryland|0|Error|1|2
+73417273|largo, maryland|0|Error|1|2
+38397169|annapolis, maryland|14632998|Writing Articles|1|2
+804204|annapolis, maryland|0|Error|1|2
+804204|annapolis, maryland|20239846|Washington, DC|1|2
+804204|annapolis, maryland|0|Error|1|2
+804204|annapolis, maryland|4848301|Baltimore, MD|1|2
+804204|annapolis, maryland|0|Error|1|2
+804204|annapolis, maryland|0|Error|1|2
+804204|annapolis, maryland|13213782|Fogo, Cape Verde|1|2
+804204|annapolis, maryland|0|Error|1|2
+804204|annapolis, maryland|778057|Washington, DC|1|2
+804204|annapolis, maryland|804204|Annapolis, Maryland|1|2
+89673043|baltimore, maryland|36400850|Allentown, PA|3|2
+89673043|baltimore, maryland|15601944|Minnesota|3|2
+15093338|baltimore, maryland|942671|Hudson, NY|4|2
+15093338|baltimore, maryland|15200768|Wash DC Metro, USA|1|2
+15093338|baltimore, maryland|15926950|Chicago|1|2
+15093338|baltimore, maryland|16692771|Atlanta, GA, USA|1|2
+15093338|baltimore, maryland|0|Error|1|2
+15093338|baltimore, maryland|0|Error|1|2
+15093338|baltimore, maryland|14652452|Los Angeles|1|2
+15093338|baltimore, maryland|0|Error|1|2
+15093338|baltimore, maryland|15899062|Minnesota|1|2
+15093338|baltimore, maryland|15900638|Error|1|2
+15093338|baltimore, maryland|10202|Boston, MA|1|2
+15093338|baltimore, maryland|0|Error|1|2
+15093338|baltimore, maryland|5768872|NYC|1|2
+15093338|baltimore, maryland|0|Error|1|2
+15093338|baltimore, maryland|15439395|London, England|1|2
+82203514|annapolis, maryland|0|Error|18|2
+82203514|annapolis, maryland|89025572|Indiana|6|2
+82203514|annapolis, maryland|0|Error|6|2
+82203514|annapolis, maryland|79847341|Stratford, Ontario, Canada|2|2
+82203514|annapolis, maryland|64046423|Southern Ontario, Canada |2|2
+82203514|annapolis, maryland|165143202|Stratty|1|2
+82203514|annapolis, maryland|413430625|Error|1|2
+82203514|annapolis, maryland|23967578|It all depends on the day...|1|2
+82203514|annapolis, maryland|98812422|canadaa! |1|2
+82203514|annapolis, maryland|80199586|maryland|1|2
+23433825|baltimore, maryland|4069391133|Error|1|2
+18310063|westminster, maryland|0|Error|3|2
+18310063|westminster, maryland|21324267|Sykesville, MD 21784|3|2
+18310063|westminster, maryland|18310063|Westminster, Maryland|2|2
+18310063|westminster, maryland|22784942|Frederick, MD.|2|2
+18310063|westminster, maryland|26000876|Frederick, Maryland|2|2
+18310063|westminster, maryland|487817650|land of the free|2|2
+18310063|westminster, maryland|2467791|Washington, DC|1|2
+18310063|westminster, maryland|66485304|Westminster, Maryland|1|2
+18310063|westminster, maryland|0|Error|1|2
+18310063|westminster, maryland|1681048290|Columbia, Md.|1|2
+18310063|westminster, maryland|0|Error|1|2
+18310063|westminster, maryland|28576680|Petworth|1|2
+18310063|westminster, maryland|55447353|Rockville, Maryland|1|2
+18310063|westminster, maryland|15675138|Washington, D.C.|1|2
+18310063|westminster, maryland|19793861|Fargo, North Dakota|1|2
+18310063|westminster, maryland|35004994|Error|1|2
+28203790|baltimore, maryland|89808071|Park Heights21215|10|2
+28203790|baltimore, maryland|28203790|Your Side Of The Bed|8|2
+28203790|baltimore, maryland|28837258|Error|4|2
+28203790|baltimore, maryland|24786076|Baltimore, MD|4|2
+28203790|baltimore, maryland|0|Error|3|2
+28203790|baltimore, maryland|105060075|Error|3|2
+28203790|baltimore, maryland|26416976|Baltimore |3|2
+28203790|baltimore, maryland|0|Error|3|2
+28203790|baltimore, maryland|345567649|Error|3|2
+28203790|baltimore, maryland|198901091|Baltimore, MD / Global|2|2
+28203790|baltimore, maryland|19263183|Error|2|2
+28203790|baltimore, maryland|451896121|Error|2|2
+28203790|baltimore, maryland|0|Error|1|2
+28203790|baltimore, maryland|477273365|Error|1|2
+28203790|baltimore, maryland|31642706|Baltimore, MD, USA|1|2
+28203790|baltimore, maryland|28384385|EVERY WERE YOU WANT TO BE !!!|1|2
+28203790|baltimore, maryland|0|Error|1|2
+28203790|baltimore, maryland|23362718|I ain't hard to find|1|2
+28203790|baltimore, maryland|26207684|New Mixtape Why Not Us below|1|2
+28203790|baltimore, maryland|25944064|Error|1|2
+25451513|baltimore, maryland|41495592|Error|5|2
+25451513|baltimore, maryland|231289700|NYC|1|2
+25451513|baltimore, maryland|0|Error|1|2
+25451513|baltimore, maryland|25724060|Error|1|2
+15601720|baltimore, maryland|16910946|Error|4|2
+15601720|baltimore, maryland|7413702|Seoul, South Korea|3|2
+15601720|baltimore, maryland|14467906|San Francisco Bay Area, USA|3|2
+15601720|baltimore, maryland|1815651|Arlington, VA|2|2
+15601720|baltimore, maryland|29894762|somewhere on the internet|2|2
+15601720|baltimore, maryland|18945484|Washington D.C.|2|2
+15601720|baltimore, maryland|12402852|Baltimore, MD|2|2
+15601720|baltimore, maryland|15634938|Nashville, TN|2|2
+15601720|baltimore, maryland|15345111|Lynchburg, VA|2|2
+15601720|baltimore, maryland|14109439|Swimming in this real thing...|1|2
+15601720|baltimore, maryland|10271182|Baltimore, Maryland|1|2
+15601720|baltimore, maryland|2874907671|Error|1|2
+15601720|baltimore, maryland|14652452|Los Angeles|1|2
+15601720|baltimore, maryland|19247787|Wichita, KS|1|2
+15601720|baltimore, maryland|17601922|Corpus Christi, Texas|1|2
+15601720|baltimore, maryland|17263462|Error|1|2
+15601720|baltimore, maryland|7839172|Silicon Valley, California|1|2
+15601720|baltimore, maryland|22198675|Baltimore|1|2
+15601720|baltimore, maryland|0|Error|1|2
+15601720|baltimore, maryland|7044852|Error|1|2
+15601720|baltimore, maryland|18845303|Austin, TX|1|2
+15601720|baltimore, maryland|15601720|Baltimore, Maryland|1|2
+15601720|baltimore, maryland|15588372|Error|1|2
+15601720|baltimore, maryland|29969376|Amsterdam|1|2
+15601720|baltimore, maryland|25058041|Earth|1|2
+15601720|baltimore, maryland|27599865|Los Angeles, CA|1|2
+15601720|baltimore, maryland|5166511|San Francisco, CA|1|2
+15601720|baltimore, maryland|17953197|Fresno, CA|1|2
+20734600|baltimore, maryland|0|Error|4|2
+20734600|baltimore, maryland|37942962|Error|1|2
+20734600|baltimore, maryland|48155843|Error|1|2
+21260923|damascus, maryland|0|Error|1|2
+21260923|damascus, maryland|239450998|Error|1|2
+21260923|damascus, maryland|15581040|Chicago to Toronto to Atlanta|1|2
+21260923|damascus, maryland|0|Error|1|2
+21260923|damascus, maryland|19915481|Error|1|2
+21260923|damascus, maryland|5391882|Salt Lake City|1|2
+21260923|damascus, maryland|21496049|DeeeCeee|1|2
+21260923|damascus, maryland|19893410|http://www.momtv.com|1|2
+22051241|salisbury, maryland|22051241|Salisbury, Maryland|1|2
+22051241|salisbury, maryland|93165454|Error|1|2
+22051241|salisbury, maryland|0|Error|1|2
+22051241|salisbury, maryland|0|Error|1|2
+54881026|annapolis, maryland|17843307|Maryland|4|2
+54881026|annapolis, maryland|45083495|Los Angeles|4|2
+54881026|annapolis, maryland|22115543|Error|3|2
+54881026|annapolis, maryland|35925171|Error|2|2
+54881026|annapolis, maryland|17338675|Baltimore, Maryland|2|2
+54881026|annapolis, maryland|19661554|Kenosha County, WI|2|2
+54881026|annapolis, maryland|19661020|East Coast USA|1|2
+54881026|annapolis, maryland|23125989|Los Angeles|1|2
+54881026|annapolis, maryland|20661527|Dallas, Texas|1|2
+54881026|annapolis, maryland|2779128578|Nantes|1|2
+54881026|annapolis, maryland|37300008|LA|1|2
+54881026|annapolis, maryland|0|Error|1|2
+54881026|annapolis, maryland|18476403|Santa Monica, CA|1|2
+54881026|annapolis, maryland|17365632|Annapolis, Maryland|1|2
+54881026|annapolis, maryland|0|Error|1|2
+54881026|annapolis, maryland|0|Error|1|2
+54881026|annapolis, maryland|0|Error|1|2
+54881026|annapolis, maryland|27659431|Arizona|1|2
+54881026|annapolis, maryland|23494381|Error|1|2
+19658914|baltimore, maryland|38071901|DADE-COUNTY|7|2
+19658914|baltimore, maryland|0|Error|6|2
+19658914|baltimore, maryland|59972686|DC|4|2
+19658914|baltimore, maryland|891065071|twitter.com/herugin|4|2
+19658914|baltimore, maryland|17719694|New York, NY|4|2
+19658914|baltimore, maryland|387187240|Vegas x Brooklyn|3|2
+19658914|baltimore, maryland|738774499|Error|3|2
+19658914|baltimore, maryland|0|Error|3|2
+19658914|baltimore, maryland|18327321|And you say Chi-City?|2|2
+19658914|baltimore, maryland|1081146115|Error|2|2
+19658914|baltimore, maryland|16372116|Doing Curls In The Squat Rack|1|2
+19658914|baltimore, maryland|150860197|Houma, LA|1|2
+19658914|baltimore, maryland|243787542|Error|1|2
+19658914|baltimore, maryland|26028035|OFF - Fuck tryna find me just |1|2
+19658914|baltimore, maryland|49744032|London|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|23911607|Seattle, WA|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|157817818|Good*Gone*Gobal|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|291394040|Freeport, NY|1|2
+19658914|baltimore, maryland|244227884|Error|1|2
+19658914|baltimore, maryland|22151189|Los Angeles, CA|1|2
+19658914|baltimore, maryland|23561949|Seattle, WA|1|2
+19658914|baltimore, maryland|16540330|FLTB$H BKLYN NY|1|2
+19658914|baltimore, maryland|29088002|JFK -- CCU -- NRT|1|2
+19658914|baltimore, maryland|19198169|Seattle, WA|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|30807438|Raised and bred in The Fed|1|2
+19658914|baltimore, maryland|15704442|London|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|18816465|nyc + mia|1|2
+19658914|baltimore, maryland|26600053|Oxford, London|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|18844644|Medusaville. |1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|18870740|Yupstate, NY|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|17909465|COV626|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|82912102|LONDON, UK|1|2
+19658914|baltimore, maryland|23598384|Los Angeles, CA|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19956853|baltimore, maryland|17300462|Virginia Beach, VA|2|2
+19956853|baltimore, maryland|13348|Half Moon Bay, California, USA|1|2
+19956853|baltimore, maryland|0|Error|1|2
+19956853|baltimore, maryland|0|Error|1|2
+19956853|baltimore, maryland|27704113|Error|1|2
+19956853|baltimore, maryland|11903332|iPhone: 32.919030,-79.716325|1|2
+19565215|baltimore, maryland|28023326|Baltimore, MD to the World !!|6|2
+19565215|baltimore, maryland|20107174|Washington, DC|5|2
+19565215|baltimore, maryland|0|Error|2|2
+19565215|baltimore, maryland|16922661|**DC MD VA**|2|2
+19565215|baltimore, maryland|29952750|Baltimore City/DMV|2|2
+19565215|baltimore, maryland|27815537|sleepin wit my money |1|2
+19565215|baltimore, maryland|112600958|Everywhere|1|2
+19565215|baltimore, maryland|27558050|Error|1|2
+19565215|baltimore, maryland|0|Error|1|2
+19565215|baltimore, maryland|20642095|Baltimore, MD|1|2
+19565215|baltimore, maryland|0|Error|1|2
+19565215|baltimore, maryland|210311808|Athens/Greater Atlanta|1|2
+19565215|baltimore, maryland|29663163|Your Moms house every morning |1|2
+19565215|baltimore, maryland|31652181|IN ORBIT|1|2
+19565215|baltimore, maryland|35787166|The Pinkprint in stores NOW|1|2
+32672810|baltimore, maryland|58710739|Error|4|2
+32672810|baltimore, maryland|25593421|I'm everywhere|1|2
+32672810|baltimore, maryland|0|Error|1|2
+32672810|baltimore, maryland|19397785|Error|1|2
+32672810|baltimore, maryland|8729502|Error|1|2
+32672810|baltimore, maryland|0|Error|1|2
+32672810|baltimore, maryland|18220175|EVERYWHERE!!!|1|2
+32672810|baltimore, maryland|0|Error|1|2
+32672810|baltimore, maryland|30270476|Above the Clouds & In Ur Ear! |1|2
+32672810|baltimore, maryland|166690050|Worldwide|1|2
+43159928|potomac, maryland|0|Error|1|2
+39361684|greenbelt, maryland|0|Error|1|2
+39361684|greenbelt, maryland|951932857|Error|1|2
+19569939|columbia, maryland|20575584|Charm City|7|2
+19569939|columbia, maryland|0|Error|5|2
+19569939|columbia, maryland|0|Error|4|2
+19569939|columbia, maryland|3223763840|Error|3|2
+19569939|columbia, maryland|59692852|California.|3|2
+19569939|columbia, maryland|0|Error|2|2
+19569939|columbia, maryland|29412051|Amsterdam|2|2
+19569939|columbia, maryland|14240295|Charm  City|2|2
+19569939|columbia, maryland|18964885|United States|2|2
+19569939|columbia, maryland|64011983|Baltimore, MD|2|2
+19569939|columbia, maryland|0|Error|1|2
+19569939|columbia, maryland|0|Error|1|2
+19569939|columbia, maryland|22854118|Utica/Brooklyn, NY|1|2
+19569939|columbia, maryland|22699542|Baltimore, MD 21218|1|2
+19569939|columbia, maryland|0|Error|1|2
+19569939|columbia, maryland|19811648|New York and Maryland|1|2
+19569939|columbia, maryland|21700331|Error|1|2
+19569939|columbia, maryland|17237540|College Station, TX|1|2
+19569939|columbia, maryland|2955174893|Washington, DC|1|2
+19569939|columbia, maryland|224796883|Wichita, KS|1|2
+19569939|columbia, maryland|0|Error|1|2
+19569939|columbia, maryland|0|Error|1|2
+19569939|columbia, maryland|74293557|smallbany, NY|1|2
+19569939|columbia, maryland|19569939|Baltimore, MD|1|2
+19569939|columbia, maryland|27127090|Toronto, ON|1|2
+19569939|columbia, maryland|0|Error|1|2
+19569939|columbia, maryland|166600404|Chicago, Indiana, Las Vegas |1|2
+19569939|columbia, maryland|11573692|#thouse of balloons.|1|2
+19569939|columbia, maryland|0|Error|1|2
+24157980|silver spring, maryland|0|Error|1|2
+24157980|silver spring, maryland|0|Error|1|2
+24157980|silver spring, maryland|0|Error|1|2
+24157980|silver spring, maryland|0|Error|1|2
+24157980|silver spring, maryland|0|Error|1|2
+24157980|silver spring, maryland|0|Error|1|2
+24157980|silver spring, maryland|0|Error|1|2
+33596944|baltimore, maryland|264036590|Error|15|2
+33596944|baltimore, maryland|2980245041|Error|5|2
+33596944|baltimore, maryland|0|Error|4|2
+33596944|baltimore, maryland|16409683|Los Angeles, CA|4|2
+33596944|baltimore, maryland|16291464|Error|3|2
+33596944|baltimore, maryland|0|Error|2|2
+33596944|baltimore, maryland|17929027|The Ruff|2|2
+33596944|baltimore, maryland|0|Error|2|2
+33596944|baltimore, maryland|0|Error|1|2
+33596944|baltimore, maryland|901117680|Error|1|2
+33596944|baltimore, maryland|0|Error|1|2
+33596944|baltimore, maryland|0|Error|1|2
+33596944|baltimore, maryland|33596944|Baltimore, MD|1|2
+33596944|baltimore, maryland|23832022|Worldwide |1|2
+8695052|baltimore, maryland|8861752|Baltimore, Maryland|4|2
+8695052|baltimore, maryland|15072437|Silver Spring, MD|4|2
+8695052|baltimore, maryland|16579810|Baltimore, Md.|3|2
+8695052|baltimore, maryland|14463104|right here|3|2
+8695052|baltimore, maryland|21312794|Baltimore|3|2
+8695052|baltimore, maryland|14815096|Chicago & Phnom Penh|3|2
+8695052|baltimore, maryland|0|Error|2|2
+8695052|baltimore, maryland|14846101|Baltimore, MD, USA|2|2
+8695052|baltimore, maryland|11623272|Portland, ME|2|2
+8695052|baltimore, maryland|0|Error|2|2
+8695052|baltimore, maryland|14120151|Cities worldwide|2|2
+8695052|baltimore, maryland|14491975|Baltimore|2|2
+8695052|baltimore, maryland|552599318|Error|2|2
+8695052|baltimore, maryland|128881500|Behind 7 proxies|2|2
+8695052|baltimore, maryland|634231362|Error|2|2
+8695052|baltimore, maryland|5603662|Baltimore, MD|2|2
+8695052|baltimore, maryland|37325920|Baltimore, MD|2|2
+8695052|baltimore, maryland|16452140|Baltimore, MD|2|2
+8695052|baltimore, maryland|15365439|Error|1|2
+8695052|baltimore, maryland|20245775|Washington, DC|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|14332565|Baltimore, MD|1|2
+8695052|baltimore, maryland|47307465|Baltimore|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|7071082|DC|1|2
+8695052|baltimore, maryland|14140075|Baltimore, MD|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|20333669|iPhone: 37.798008,-122.407066|1|2
+8695052|baltimore, maryland|16923269|Error|1|2
+8695052|baltimore, maryland|14193157|Saint Paul, MN|1|2
+8695052|baltimore, maryland|14420542|Baltimore, MD|1|2
+8695052|baltimore, maryland|19244373|SEVa, Crystal City, and I-95|1|2
+8695052|baltimore, maryland|4848301|Baltimore, MD|1|2
+8695052|baltimore, maryland|17659329|Astoria, New York|1|2
+8695052|baltimore, maryland|16553896|washington, dc|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|9659862|Maryland|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|13579882|Miami, FL|1|2
+8695052|baltimore, maryland|83883736|Error|1|2
+8695052|baltimore, maryland|15566123|Baltimore, MD.|1|2
+8695052|baltimore, maryland|770550|San Francisco, CA|1|2
+8695052|baltimore, maryland|1294231|San Francisco, CA|1|2
+8695052|baltimore, maryland|22377544|Baltimore|1|2
+8695052|baltimore, maryland|14574682|Midwest US|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|14333012|Baltimore, MD|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|16580189|Baltimore, Md.|1|2
+8695052|baltimore, maryland|14603040|New York, NY|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|14745819|San Francisco|1|2
+8695052|baltimore, maryland|11808982|Baltimore, MD|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|29753823|Baltimore, MD|1|2
+8695052|baltimore, maryland|22668155|New York, NY|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|0|Error|1|2
+8695052|baltimore, maryland|5810752|Oklahoma City, OK|1|2
+8695052|baltimore, maryland|19029046|Baltimore, MD|1|2
+8695052|baltimore, maryland|15441561|Error|1|2
+8695052|baltimore, maryland|16530928|Baltimore|1|2
+8695052|baltimore, maryland|15451796|Nottingham|1|2
+8695052|baltimore, maryland|215928773|Error|1|2
+15510945|annapolis, maryland|30227658|Annapolis, MD|2|2
+15510945|annapolis, maryland|20250828|Pasadena/NYC|2|2
+15510945|annapolis, maryland|275263551|Your Mom|2|2
+15510945|annapolis, maryland|13492492|Scottsdale Arizona|1|2
+15510945|annapolis, maryland|8248972|Error|1|2
+15510945|annapolis, maryland|15285305|Worldwide|1|2
+15510945|annapolis, maryland|8861752|Baltimore, Maryland|1|2
+15510945|annapolis, maryland|343203808|Error|1|2
+15510945|annapolis, maryland|16222244|Lindenwold NJ|1|2
+15510945|annapolis, maryland|16294267|Sydney, NSW, Australia (OZ)|1|2
+15510945|annapolis, maryland|17105374|Los Angeles|1|2
+15510945|annapolis, maryland|17752368|USA |1|2
+15510945|annapolis, maryland|3834971|Yorkshire|1|2
+15510945|annapolis, maryland|17388817|I'm a traveler|1|2
+15510945|annapolis, maryland|30513919|Michigan|1|2
+15510945|annapolis, maryland|0|Error|1|2
+15510945|annapolis, maryland|0|Error|1|2
+15905147|damascus, maryland|5402662|Mobile, Alabama 36606|9|2
+15905147|damascus, maryland|17078364|33.65,-84.35|6|2
+15905147|damascus, maryland|16658951|iPhone: 35.142502,-90.045074|6|2
+15905147|damascus, maryland|0|Error|4|2
+15905147|damascus, maryland|23535386|The Land Of Oz|4|2
+15905147|damascus, maryland|0|Error|4|2
+15905147|damascus, maryland|304233271|Lewisville, TX.|4|2
+15905147|damascus, maryland|0|Error|4|2
+15905147|damascus, maryland|394174199|Error|4|2
+15905147|damascus, maryland|0|Error|3|2
+15905147|damascus, maryland|0|Error|2|2
+15905147|damascus, maryland|16376247|Error|2|2
+15905147|damascus, maryland|14272120|Glendale, Ca.|2|2
+15905147|damascus, maryland|138809328|Error|2|2
+15905147|damascus, maryland|2391311118|Austin, TX|2|2
+15905147|damascus, maryland|18728608|Corpus Christi, TX|2|2
+15905147|damascus, maryland|18125201|San Francisco Bay Area|2|2
+15905147|damascus, maryland|26360439|Detroit, Michigan|2|2
+15905147|damascus, maryland|0|Error|1|2
+15905147|damascus, maryland|0|Error|1|2
+15905147|damascus, maryland|48053969|iPhone: 52.217447,-1.501695|1|2
+15905147|damascus, maryland|8357192|Tampa, Florida|1|2
+15905147|damascus, maryland|0|Error|1|2
+15905147|damascus, maryland|15475066|Tampa, FL|1|2
+15905147|damascus, maryland|13632|Error|1|2
+15905147|damascus, maryland|0|Error|1|2
+15905147|damascus, maryland|1459771|UK|1|2
+15905147|damascus, maryland|14372486|Global|1|2
+15905147|damascus, maryland|14593458|Denver|1|2
+15905147|damascus, maryland|15666980|Fort Collins, CO |1|2
+15905147|damascus, maryland|14120151|Cities worldwide|1|2
+15905147|damascus, maryland|18450253|Washington, DC|1|2
+15905147|damascus, maryland|22015020|South Alabama|1|2
+15905147|damascus, maryland|7194242|Glastonbury, CT|1|2
+15905147|damascus, maryland|10194392|Montreal|1|2
+15905147|damascus, maryland|12232092| Newcastle Upon Tyne, England|1|2
+15905147|damascus, maryland|0|Error|1|2
+15905147|damascus, maryland|30138120|Worldwide|1|2
+15905147|damascus, maryland|19126314|Olney, Maryland|1|2
+15905147|damascus, maryland|17230928|Damascus, MD|1|2
+15905147|damascus, maryland|0|Error|1|2
+40863897|baltimore, maryland|819948|Lancaster, PA|2|2
+40863897|baltimore, maryland|19471843|Boston, MA|1|2
+40863897|baltimore, maryland|19397785|Error|1|2
+40863897|baltimore, maryland|26301139|Washington, DC|1|2
+40863897|baltimore, maryland|0|Error|1|2
+40863897|baltimore, maryland|17625859|Austin, TX|1|2
+40863897|baltimore, maryland|18913827|New York, NY|1|2
+40863897|baltimore, maryland|0|Error|1|2
+40863897|baltimore, maryland|27299946|Baltimore|1|2
+40863897|baltimore, maryland|23089953|United States|1|2
+21415216|ocean city, maryland|13128772|Some where, out there|3|2
+21415216|ocean city, maryland|22829472|charm city, md|2|2
+21415216|ocean city, maryland|0|Error|2|2
+21415216|ocean city, maryland|16359289|Harrisburg, PA|1|2
+21415216|ocean city, maryland|0|Error|1|2
+21415216|ocean city, maryland|303029289|Error|1|2
+21415216|ocean city, maryland|28510914|New Jersey|1|2
+10274302|ellicott city, maryland|15498461|Bella Vista, AR|8|2
+10274302|ellicott city, maryland|78792100|Newburyport, Mass.|5|2
+10274302|ellicott city, maryland|1127651|Austin, MN USA|2|2
+10274302|ellicott city, maryland|14156927|Washington D.C.|2|2
+10274302|ellicott city, maryland|15815569|Santa Monica, CA|2|2
+10274302|ellicott city, maryland|16561861|International|2|2
+10274302|ellicott city, maryland|16733030|Baltimore, MD|2|2
+10274302|ellicott city, maryland|0|Error|1|2
+10274302|ellicott city, maryland|15551260|Cleveland, Ohio, USA|1|2
+10274302|ellicott city, maryland|5757562|Vancouver, WA|1|2
+10274302|ellicott city, maryland|36281810|Toronto|1|2
+10274302|ellicott city, maryland|857141|Redwood City, CA, USA|1|2
+10274302|ellicott city, maryland|17142019|Baltimore, Maryland|1|2
+10274302|ellicott city, maryland|15848096|Gibson Desert|1|2
+10274302|ellicott city, maryland|19299292|Winston-Salem, NC from Atlanta|1|2
+10274302|ellicott city, maryland|0|Error|1|2
+10274302|ellicott city, maryland|20945942|Portland, Oregon|1|2
+10274302|ellicott city, maryland|14543855|New York, USA|1|2
+10274302|ellicott city, maryland|10274302|Ellicott City, Maryland|1|2
+30722280|baltimore, maryland|0|Error|6|2
+30722280|baltimore, maryland|0|Error|1|2
+16697784|bowie, maryland|18239795|Jupiter, Florida|1|2
+16697784|bowie, maryland|4048344851|Error|1|2
+16697784|bowie, maryland|16508430|mumbai|1|2
+7392512|baltimore, maryland|7392512|Error|7|2
+7392512|baltimore, maryland|313176304|Error|5|2
+7392512|baltimore, maryland|15711906|Pre: 38.5798162,-121.49363|3|2
+7392512|baltimore, maryland|14268164|Oakland, CA|3|2
+7392512|baltimore, maryland|17221819|Southern California|3|2
+7392512|baltimore, maryland|1221471|Washington DC, MD, VA, USA|3|2
+7392512|baltimore, maryland|14423603|Error|3|2
+7392512|baltimore, maryland|6150002|Severna Park, MD|2|2
+7392512|baltimore, maryland|30365259|Error|2|2
+7392512|baltimore, maryland|407250501|Error|2|2
+7392512|baltimore, maryland|2142731|All over the world|2|2
+7392512|baltimore, maryland|17871262|Baltimore|2|2
+7392512|baltimore, maryland|0|Error|2|2
+7392512|baltimore, maryland|0|Error|2|2
+7392512|baltimore, maryland|0|Error|2|2
+7392512|baltimore, maryland|0|Error|2|2
+7392512|baltimore, maryland|0|Error|2|2
+7392512|baltimore, maryland|16234099|Baltimore, MD|2|2
+7392512|baltimore, maryland|14801954|Brooklyn, NY|1|2
+7392512|baltimore, maryland|4796901|Baltimore, MD|1|2
+7392512|baltimore, maryland|13557782|Where ever I need to be.|1|2
+7392512|baltimore, maryland|4893501|Raleigh-Durham|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|8297532|New York, NY|1|2
+7392512|baltimore, maryland|20727653|Columbia, MD|1|2
+7392512|baltimore, maryland|2436394458|Error|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|15131310|Austin, TX|1|2
+7392512|baltimore, maryland|813421|Atlanta, GA|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|17544638|Oakland, CA - USA|1|2
+7392512|baltimore, maryland|14498193|Baltimore, MD|1|2
+7392512|baltimore, maryland|14419321|Error|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|318677604|@SonyStore|1|2
+7392512|baltimore, maryland|23885338|New York, NY|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|3266961|Pennsauken, NJ|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|19273090|Towson, Maryland|1|2
+7392512|baltimore, maryland|13217112|New York, NY|1|2
+7392512|baltimore, maryland|39355948|Lutherville, Maryland|1|2
+7392512|baltimore, maryland|789158|Mt. Vernon, Baltimore, MD|1|2
+7392512|baltimore, maryland|29732063|Atlanta, GA|1|2
+7392512|baltimore, maryland|274696812|Newburyport, Massachusetts|1|2
+7392512|baltimore, maryland|16500451|Washington DC Metro Area|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|55619836|Foster City, CA|1|2
+7392512|baltimore, maryland|220070789|Error|1|2
+7392512|baltimore, maryland|59224868|Florida|1|2
+7392512|baltimore, maryland|1543561|DC|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|545944334|kigali|1|2
+7392512|baltimore, maryland|46270311|Northern Virginia|1|2
+7392512|baltimore, maryland|13797692|New York City|1|2
+7392512|baltimore, maryland|15960268|Waltham, MA|1|2
+7392512|baltimore, maryland|19416010|Baltimore, MD|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|17368555|San Francisco|1|2
+7392512|baltimore, maryland|39685392|Rheinland-Pfalz, Germany|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|46758449|Baltimore's Inner Harbor|1|2
+7392512|baltimore, maryland|7121812|Suwanee, GA|1|2
+7392512|baltimore, maryland|820828|Las Vegas & D.C. (via Chicago)|1|2
+7392512|baltimore, maryland|31115275|In Your City|1|2
+7392512|baltimore, maryland|85231581|Error|1|2
+7392512|baltimore, maryland|17136795|New York|1|2
+7392512|baltimore, maryland|1042131|Error|1|2
+7392512|baltimore, maryland|36145653|Minneapolis, MN|1|2
+7392512|baltimore, maryland|68784501|Caribbean Islands|1|2
+7392512|baltimore, maryland|7973512|iPhone: 39.277046,-76.619057|1|2
+7392512|baltimore, maryland|10202|Boston, MA|1|2
+7392512|baltimore, maryland|2382588338|California, USA|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|16961262|Everywhere|1|2
+7392512|baltimore, maryland|17425907|Error|1|2
+7392512|baltimore, maryland|39344546|Long Beach, CA|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|233922089|Error|1|2
+7392512|baltimore, maryland|14870962|Baltimore|1|2
+7392512|baltimore, maryland|991381|Error|1|2
+7392512|baltimore, maryland|2243291|Beloit, WI|1|2
+7392512|baltimore, maryland|12703242|Maryland|1|2
+7392512|baltimore, maryland|14345088|Baltimore, MD|1|2
+7392512|baltimore, maryland|5879112|Baltimore & Washington DC|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|388334467|Error|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|44777959|Washington D.C.|1|2
+7392512|baltimore, maryland|55610519|Baltimore|1|2
+7392512|baltimore, maryland|74735290|New York & Los Angeles|1|2
+7392512|baltimore, maryland|18079379|Westminster, MD|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|24753139|Error|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|16368756|Baltimore, MD|1|2
+15628274|olney, maryland|35904361|The greatest country on earth!|3|2
+15628274|olney, maryland|15843059|Tucson, AZ|2|2
+15628274|olney, maryland|16812359|Boston area|2|2
+15628274|olney, maryland|19454416|Chicago|2|2
+15628274|olney, maryland|25849665|New Jersey, U.S.A.|2|2
+15628274|olney, maryland|15029041|Error|2|2
+15628274|olney, maryland|18943884|Clyde, Kansas|1|2
+15628274|olney, maryland|33175976|NE Alabama|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|745297824|Error|1|2
+15628274|olney, maryland|75858565|Error|1|2
+15628274|olney, maryland|1378170170|Error|1|2
+15628274|olney, maryland|34948034|Reno, NV|1|2
+15628274|olney, maryland|19786336|Olive Branch, MS|1|2
+15628274|olney, maryland|18698973|Phoenix, AZ|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|60088831|Error|1|2
+15628274|olney, maryland|17198288|Atlanta, GA|1|2
+15628274|olney, maryland|80884719|New Jersey|1|2
+15628274|olney, maryland|77012544|Texas|1|2
+15628274|olney, maryland|15371780|United States of America|1|2
+15628274|olney, maryland|817127|orange county, california|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|18526388|Error|1|2
+15628274|olney, maryland|351329265|Error|1|2
+15628274|olney, maryland|21487419|On the Seacoast of New Hampshi|1|2
+15628274|olney, maryland|30306955|St. Louis, MO|1|2
+15628274|olney, maryland|33794104| Painville |1|2
+15628274|olney, maryland|12524522|Chicago, IL|1|2
+15628274|olney, maryland|19072057|Error|1|2
+15628274|olney, maryland|17071011|Richmond, VA|1|2
+15628274|olney, maryland|10615232|Iowa|1|2
+15628274|olney, maryland|39253757|Paris, Ile-de-France FR|1|2
+15628274|olney, maryland|3128101|Northwest Indiana|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|2160368744|Error|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|41294304|Error|1|2
+15628274|olney, maryland|29716801|Puget Sound, Washington, USA|1|2
+15628274|olney, maryland|15116570|Error|1|2
+15628274|olney, maryland|14772789|Udaipur, India|1|2
+15628274|olney, maryland|35013035|Cleveland, Ohio|1|2
+15628274|olney, maryland|17461226|Error|1|2
+15628274|olney, maryland|23798980|Miami, Fl|1|2
+15628274|olney, maryland|21150134|Suffolk, UK|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|0|Error|1|2
+15628274|olney, maryland|41162271|Vancouver Island Hotspot.  |1|2
+15628274|olney, maryland|65756256|New York|1|2
+45621996|montgomery village, maryland|0|Error|1|2
+45621996|montgomery village, maryland|258085781|Error|1|2
+45621996|montgomery village, maryland|87821349|Error|1|2
+13032212|silver spring, maryland|14194833|Washington, D.C.|2|2
+13032212|silver spring, maryland|78176606|DC Metro|2|2
+13032212|silver spring, maryland|19212469|Washington, DC Metro|2|2
+13032212|silver spring, maryland|4872281|Washington, DC|2|2
+13032212|silver spring, maryland|14739913|Pittsburgh|1|2
+13032212|silver spring, maryland|240179245|Error|1|2
+13032212|silver spring, maryland|18041057|Nation's Capital|1|2
+13032212|silver spring, maryland|19250751|USA|1|2
+13032212|silver spring, maryland|2321151188|Error|1|2
+13032212|silver spring, maryland|877531|Error|1|2
+13032212|silver spring, maryland|19080760|Error|1|2
+13032212|silver spring, maryland|14345566|Texas Hill Country|1|2
+13032212|silver spring, maryland|3845208497|Error|1|2
+13032212|silver spring, maryland|13129862|Silver Spring, MD|1|2
+13032212|silver spring, maryland|634784697|Error|1|2
+13032212|silver spring, maryland|0|Error|1|2
+13032212|silver spring, maryland|25714530|Baltimore|1|2
+13032212|silver spring, maryland|14252402|outside of Washington, DC|1|2
+13032212|silver spring, maryland|2697446598|ATX|1|2
+13032212|silver spring, maryland|14484634|Maryland|1|2
+13032212|silver spring, maryland|14411901|DC Metro|1|2
+13032212|silver spring, maryland|15567106|South Orange, NJ|1|2
+13032212|silver spring, maryland|0|Error|1|2
+13032212|silver spring, maryland|2142991|39.20599,-76.74989;58|1|2
+13032212|silver spring, maryland|1045287589|this is my old account |1|2
+13032212|silver spring, maryland|15085260|somewhere btwn Baltimore + DC|1|2
+6479402|baltimore, maryland|17076876|San Francisco, CA|3|2
+6479402|baltimore, maryland|18069047|Baltimore, MD|3|2
+6479402|baltimore, maryland|5683952|appleton, wi|2|2
+6479402|baltimore, maryland|2646886861|Error|1|2
+6479402|baltimore, maryland|4969501|Paris, France|1|2
+6479402|baltimore, maryland|6103162|Baltimore, MD|1|2
+6479402|baltimore, maryland|14246382|Sinking Spring, PA|1|2
+6479402|baltimore, maryland|18863894|Stockholm, Sweden|1|2
+6479402|baltimore, maryland|16557863|iPhone: -33.831326,151.191071|1|2
+6479402|baltimore, maryland|14173649|Belfast, Northern Ireland|1|2
+6479402|baltimore, maryland|9453872|Nashville, TN|1|2
+6479402|baltimore, maryland|16241255|Kissimmee FL|1|2
+6479402|baltimore, maryland|14744664|Charles Town, WV|1|2
+6479402|baltimore, maryland|0|Error|1|2
+6479402|baltimore, maryland|0|Error|1|2
+6479402|baltimore, maryland|0|Error|1|2
+6479402|baltimore, maryland|0|Error|1|2
+6479402|baltimore, maryland|0|Error|1|2
+6479402|baltimore, maryland|18525497|London|1|2
+6479402|baltimore, maryland|0|Error|1|2
+6479402|baltimore, maryland|2291028476|Error|1|2
+21160744|baltimore, maryland|74178752|Baltimore, MD|4|2
+21160744|baltimore, maryland|28652197|Colorado Springs, CO|3|2
+21160744|baltimore, maryland|17969601|MD, DC, VA|2|2
+21160744|baltimore, maryland|23316498|Baltimore, MD|2|2
+21160744|baltimore, maryland|91189153|Error|2|2
+21160744|baltimore, maryland|17483462|Error|2|2
+21160744|baltimore, maryland|1567829564|Celebrating 39 years|1|2
+21160744|baltimore, maryland|17683439|Baltimore, MD USA|1|2
+21160744|baltimore, maryland|1007441198|Error|1|2
+21160744|baltimore, maryland|49153854|Error|1|2
+21160744|baltimore, maryland|0|Error|1|2
+21160744|baltimore, maryland|38172552|Error|1|2
+21160744|baltimore, maryland|71373681|Germantown, MD|1|2
+21160744|baltimore, maryland|15111215|Baltimore, MD|1|2
+21160744|baltimore, maryland|66457303|Baltimore, MD|1|2
+21160744|baltimore, maryland|1661091122|Error|1|2
+21160744|baltimore, maryland|61189533|Chestertown, Md.|1|2
+21160744|baltimore, maryland|26567800|Maryland|1|2
+21160744|baltimore, maryland|3061782654|Error|1|2
+21160744|baltimore, maryland|57822183|Rockville, MD|1|2
+21160744|baltimore, maryland|26747046|Error|1|2
+21160744|baltimore, maryland|22815199|Colorado Springs, Colo.|1|2
+21160744|baltimore, maryland|66361998|Montgomery County, MD|1|2
+79244172|baltimore, maryland|26522792|Error|11|2
+79244172|baltimore, maryland|60535623|Opal City, Maryland|8|2
+79244172|baltimore, maryland|11390722|Arvada, Colorado|5|2
+79244172|baltimore, maryland|0|Error|4|2
+79244172|baltimore, maryland|16246114|Gatham City, USA|3|2
+79244172|baltimore, maryland|3017051|Yorkshire, England|3|2
+79244172|baltimore, maryland|0|Error|3|2
+79244172|baltimore, maryland|0|Error|3|2
+79244172|baltimore, maryland|114442569|UK|3|2
+79244172|baltimore, maryland|7165012|Error|3|2
+79244172|baltimore, maryland|49825896|Baltimore, MD|3|2
+79244172|baltimore, maryland|796050|#impropio #mdMT|3|2
+79244172|baltimore, maryland|14904123|Baltimore, Maryland|2|2
+79244172|baltimore, maryland|961201|Mexico City, Mexico|2|2
+79244172|baltimore, maryland|19078462|Sunderland, UK|2|2
+79244172|baltimore, maryland|1684201|Manhattan, NY|2|2
+79244172|baltimore, maryland|14259641|Orlando, FL burbs|2|2
+79244172|baltimore, maryland|928960940|Error|1|2
+79244172|baltimore, maryland|0|Error|1|2
+79244172|baltimore, maryland|79944868|Error|1|2
+79244172|baltimore, maryland|464355320|Error|1|2
+79244172|baltimore, maryland|85902441|Canton, OH|1|2
+79244172|baltimore, maryland|14168998|London|1|2
+79244172|baltimore, maryland|20914143|Northern Italy|1|2
+79244172|baltimore, maryland|30468673|Sussex, UK|1|2
+79244172|baltimore, maryland|60637468|Edmonton|1|2
+79244172|baltimore, maryland|292284769|Error|1|2
+79244172|baltimore, maryland|19879761|On a spec in the Universe|1|2
+79244172|baltimore, maryland|16256672|Baltimore, MD|1|2
+79244172|baltimore, maryland|25311498|Farmington, Missouri|1|2
+79244172|baltimore, maryland|36064193|Wyandotte, MI|1|2
+79244172|baltimore, maryland|343065403|Error|1|2
+79244172|baltimore, maryland|16867563|Somewhere Out There...|1|2
+79244172|baltimore, maryland|797210|I'm about|1|2
+79244172|baltimore, maryland|285045575|Error|1|2
+79244172|baltimore, maryland|15437707|Error|1|2
+79244172|baltimore, maryland|19127403|Vancouver, Canada|1|2
+79244172|baltimore, maryland|20609969|Arkadelphia, AR|1|2
+79244172|baltimore, maryland|28135772|TEXAS|1|2
+79244172|baltimore, maryland|0|Error|1|2
+79244172|baltimore, maryland|78952555|Error|1|2
+79244172|baltimore, maryland|0|Error|1|2
+79244172|baltimore, maryland|4296301|Roswell, Georgia|1|2
+79244172|baltimore, maryland|78757927|Chicagoland|1|2
+79244172|baltimore, maryland|22803740|Maryland|1|2
+79244172|baltimore, maryland|1573241|yo mama's  @ fullerton, ca|1|2
+16051756|baltimore, maryland|0|Error|4|2
+16051756|baltimore, maryland|15830573|Baltimore, MD|2|2
+16051756|baltimore, maryland|0|Error|2|2
+16051756|baltimore, maryland|30965315|Error|2|2
+16051756|baltimore, maryland|18613338|Doylestown, PA|2|2
+16051756|baltimore, maryland|16364966|Manhattan|1|2
+16051756|baltimore, maryland|15294801|Los Angeles, CA|1|2
+16051756|baltimore, maryland|16086244|iPhone: 44.518395,-122.903581|1|2
+16051756|baltimore, maryland|19491987|Sacramento, CA|1|2
+16051756|baltimore, maryland|21160077|Error|1|2
+16051756|baltimore, maryland|15616442|Los Angeles|1|2
+16051756|baltimore, maryland|6995942|Baltimore, MD (39.281509,-76.5|1|2
+16051756|baltimore, maryland|16385639|Canada|1|2
+16051756|baltimore, maryland|3107971|Error|1|2
+16051756|baltimore, maryland|0|Error|1|2
+16051756|baltimore, maryland|14813088|Los Angeles|1|2
+16051756|baltimore, maryland|15885866|Marietta, GA|1|2
+16051756|baltimore, maryland|9295102|Bryant Pond, Maine|1|2
+16051756|baltimore, maryland|15232697|New Jersey|1|2
+16051756|baltimore, maryland|38116898|Error|1|2
+16051756|baltimore, maryland|13215842|Error|1|2
+16051756|baltimore, maryland|34458373|East Coast|1|2
+16051756|baltimore, maryland|14985524|Salt Lake City |1|2
+16051756|baltimore, maryland|15922604|Toronto, Ontario|1|2
+16051756|baltimore, maryland|147782236|Error|1|2
+18678410|rockville, maryland|25933079|Hogwarts,Scotland|3|2
+23451114|odenton, maryland|3069076495|Error|4|2
+23451114|odenton, maryland|941724637|Error|2|2
+23451114|odenton, maryland|14593356|frederick, md|2|2
+23451114|odenton, maryland|326859892|Error|1|2
+23451114|odenton, maryland|29863027|Kingston Falls|1|2
+23451114|odenton, maryland|2563828880|Error|1|2
+23451114|odenton, maryland|271464344|Error|1|2
+23451114|odenton, maryland|283938169|Error|1|2
+23451114|odenton, maryland|19422401|Raleigh, NC|1|2
+23451114|odenton, maryland|17382414|Miami, London, Mallorca, South|1|2
+23451114|odenton, maryland|157093253|nelson|1|2
+23451114|odenton, maryland|123930213|Error|1|2
+23451114|odenton, maryland|76712458|Error|1|2
+23451114|odenton, maryland|15325142|Washington, D.C. |1|2
+23451114|odenton, maryland|18943685|Cleveland Ohio Miami Fl|1|2
+23451114|odenton, maryland|755431|Seattle, Wa|1|2
+23451114|odenton, maryland|0|Error|1|2
+23451114|odenton, maryland|14267652|Error|1|2
+23451114|odenton, maryland|25150917|Denver, CO|1|2
+23451114|odenton, maryland|7301572|Next door to Washington, DC|1|2
+26808712|baltimore, maryland|531695069|Granite State|16|2
+26808712|baltimore, maryland|25294011|Error|10|2
+26808712|baltimore, maryland|278287500|Error|6|2
+26808712|baltimore, maryland|120229689|Brazil .|4|2
+26808712|baltimore, maryland|0|Error|4|2
+26808712|baltimore, maryland|0|Error|2|2
+26808712|baltimore, maryland|32417346|Error|2|2
+26808712|baltimore, maryland|20375484|Topp Dogg Hill, California |2|2
+26808712|baltimore, maryland|44527648|I'm from Winnipeg you idiot! |2|2
+26808712|baltimore, maryland|0|Error|2|2
+26808712|baltimore, maryland|18825639|201. New Jersey|2|2
+28644864|baltimore, maryland|0|Error|5|2
+28644864|baltimore, maryland|36471524|Baltimore|4|2
+28644864|baltimore, maryland|41966069|Baltimore, MD|3|2
+28644864|baltimore, maryland|0|Error|2|2
+28644864|baltimore, maryland|19544895|Baltimore Region, MD|2|2
+28644864|baltimore, maryland|17992644|Chicago|2|2
+28644864|baltimore, maryland|0|Error|2|2
+28644864|baltimore, maryland|0|Error|1|2
+28644864|baltimore, maryland|0|Error|1|2
+28644864|baltimore, maryland|49472763|Washington, DC|1|2
+28644864|baltimore, maryland|71546979|Baltimore, MD|1|2
+28644864|baltimore, maryland|325967214|Error|1|2
+28644864|baltimore, maryland|0|Error|1|2
+28644864|baltimore, maryland|28644864|Baltimore, Maryland|1|2
+28644864|baltimore, maryland|36664368|Howard County, MD|1|2
+28644864|baltimore, maryland|4088071|Baltimore, MD|1|2
+28644864|baltimore, maryland|14747998|Baltimore, MD|1|2
+28644864|baltimore, maryland|17469221|Baltimore, Maryland|1|2
+28644864|baltimore, maryland|3601261635|Error|1|2
+28644864|baltimore, maryland|16045488|Florida|1|2
+28644864|baltimore, maryland|0|Error|1|2
+28644864|baltimore, maryland|73735280|West Palm Beach, FL |1|2
+28644864|baltimore, maryland|0|Error|1|2
+28644864|baltimore, maryland|16045981|Washington, D.C.|1|2
+28644864|baltimore, maryland|16729309|about.me/lucybernholz|1|2
+28644864|baltimore, maryland|59863421|Baltimore, MD|1|2
+28644864|baltimore, maryland|0|Error|1|2
+28644864|baltimore, maryland|8861752|Baltimore, Maryland|1|2
+28644864|baltimore, maryland|21103448|Baltimore, MD|1|2
+28644864|baltimore, maryland|0|Error|1|2
+28644864|baltimore, maryland|0|Error|1|2
+28644864|baltimore, maryland|26814127|Error|1|2
+28644864|baltimore, maryland|0|Error|1|2
+28644864|baltimore, maryland|0|Error|1|2
+28644864|baltimore, maryland|16653788|Washington, DC Area|1|2
+28644864|baltimore, maryland|14420542|Baltimore, MD|1|2
+28644864|baltimore, maryland|16530928|Baltimore|1|2
+28644864|baltimore, maryland|84129093|Baltimore, MD|1|2
+28644864|baltimore, maryland|0|Error|1|2
+28644864|baltimore, maryland|19918047|United States|1|2
+28644864|baltimore, maryland|3256766402|Error|1|2
+86186063|odenton, maryland|83463486|Indianapolis|1|2
+86186063|odenton, maryland|0|Error|1|2
+86186063|odenton, maryland|0|Error|1|2
+86186063|odenton, maryland|15070299|Laguna Beach, CA|1|2
+86186063|odenton, maryland|86300057|Rio de Janeiro|1|2
+86186063|odenton, maryland|0|Error|1|2
+86186063|odenton, maryland|41373123|Ilu awon aje! |1|2
+22485399|baltimore, maryland|22120854|Error|3|2
+22485399|baltimore, maryland|0|Error|1|2
+22485399|baltimore, maryland|21269494|East Coast USA|1|2
+22485399|baltimore, maryland|0|Error|1|2
+22485399|baltimore, maryland|0|Error|1|2
+22485399|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|0|Error|5|2
+23011322|baltimore, maryland|0|Error|5|2
+23011322|baltimore, maryland|0|Error|4|2
+23011322|baltimore, maryland|0|Error|3|2
+23011322|baltimore, maryland|0|Error|3|2
+23011322|baltimore, maryland|0|Error|3|2
+23011322|baltimore, maryland|107979344|Error|3|2
+23011322|baltimore, maryland|23011322|Baltimore, Maryland|3|2
+23011322|baltimore, maryland|28018672|Hartford, Connecticut|3|2
+23011322|baltimore, maryland|47942777|Roselle, NJ|3|2
+23011322|baltimore, maryland|52192029|Tracy.CA|3|2
+23011322|baltimore, maryland|47745320|Los Angeles, CA|2|2
+23011322|baltimore, maryland|14874772|Corpus Christi, Texas|2|2
+23011322|baltimore, maryland|33327241|San Diego, CA, USA|2|2
+23011322|baltimore, maryland|35275095|Long Island, NY #Shaklee|2|2
+23011322|baltimore, maryland|18179554|Canada|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|26045102|Error|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|8453452|Silicon Valley, California|1|2
+23011322|baltimore, maryland|1008187380|Lagos|1|2
+23011322|baltimore, maryland|19321908|Colorado|1|2
+23011322|baltimore, maryland|22708140|winnipeg,canada|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|37420236|Brasilia|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|3008601824|#BeBlessed |1|2
+23011322|baltimore, maryland|21904136|Stankonia, Georgia|1|2
+23011322|baltimore, maryland|52801508|Error|1|2
+23011322|baltimore, maryland|53188638|Central PA|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|53202020|Error|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|22929998|Philadelphia suburbs|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|36133535|West Palm Beach, FL|1|2
+23011322|baltimore, maryland|20090888|Error|1|2
+23011322|baltimore, maryland|252723704|Error|1|2
+23011322|baltimore, maryland|21990874|New Orleans, LA|1|2
+23011322|baltimore, maryland|21249099|Greenacres, WA|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|188573761|Error|1|2
+23011322|baltimore, maryland|70419617|Boca Raton- FL - /USA|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|17359146|Charlottesville, VA|1|2
+23011322|baltimore, maryland|39086265|Europe, World|1|2
+23011322|baltimore, maryland|2237568469|Error|1|2
+23011322|baltimore, maryland|36421300|Nebraska|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|23437415|Dallas|1|2
+23011322|baltimore, maryland|30063657|Kansas, USA|1|2
+23011322|baltimore, maryland|22977590|Baltimore, MD|1|2
+23011322|baltimore, maryland|40668957|Mesa, AZ|1|2
+23011322|baltimore, maryland|0|Error|1|2
+23011322|baltimore, maryland|72760344|PalladioMall.com Folsom C.A.|1|2
+23011322|baltimore, maryland|15811110|USA|1|2
+23011322|baltimore, maryland|41821950|Cape Town, South Africa|1|2
+23011322|baltimore, maryland|0|Error|1|2
+16720742|hyattsville, maryland|0|Error|3|2
+16720742|hyattsville, maryland|95295412|Error|2|2
+16720742|hyattsville, maryland|57968052|On My Way|1|2
+16720742|hyattsville, maryland|43497859|Union City, CA|1|2
+39266300|baltimore, maryland|30689940|metro Detroit, Michigan|10|2
+39266300|baltimore, maryland|0|Error|5|2
+39266300|baltimore, maryland|27590793|Baltimore, MD|2|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|48801373|BFE, Arkansas|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|76026193|Dallas|1|2
+39266300|baltimore, maryland|20484629|DeRidder, La / Texas|1|2
+39266300|baltimore, maryland|16666797|#Maryland|1|2
+39266300|baltimore, maryland|67073819|Fort Washington, MD|1|2
+39266300|baltimore, maryland|56823983|Amsterdam|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|150706686|Bogota, La Floresta - Andes|1|2
+39266300|baltimore, maryland|3278960850|Error|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|21103612|Camp 8 near the Gun Line|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|23738767|Error|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|473339847|Error|1|2
+39266300|baltimore, maryland|328230655|Lake Charles, LA|1|2
+39266300|baltimore, maryland|0|Error|1|2
+78591200|annapolis, maryland|0|Error|1|2
+8861752|baltimore, maryland|70794696|Los Angeles|1|2
+8861752|baltimore, maryland|22813359|Baltimore, MD|1|2
+8861752|baltimore, maryland|14332565|Baltimore, MD|1|2
+8861752|baltimore, maryland|16055951|San Francisco|1|2
+8861752|baltimore, maryland|26015012|Hyattsville, MD|1|2
+8861752|baltimore, maryland|0|Error|1|2
+8861752|baltimore, maryland|16923269|Error|1|2
+8861752|baltimore, maryland|6068202|Baltimore, MD|1|2
+8861752|baltimore, maryland|14105347|Crown Heights, Brooklyn|1|2
+8861752|baltimore, maryland|14515799|New York City|1|2
+8861752|baltimore, maryland|0|Error|1|2
+8861752|baltimore, maryland|14491975|Baltimore|1|2
+8861752|baltimore, maryland|0|Error|1|2
+8861752|baltimore, maryland|0|Error|1|2
+8861752|baltimore, maryland|49472763|Washington, DC|1|2
+8861752|baltimore, maryland|0|Error|1|2
+8861752|baltimore, maryland|87777131|Fort Hood, Texas|1|2
+8861752|baltimore, maryland|0|Error|1|2
+8861752|baltimore, maryland|17467066|Baltimore|1|2
+8861752|baltimore, maryland|0|Error|1|2
+8861752|baltimore, maryland|22977590|Baltimore, MD|1|2
+8861752|baltimore, maryland|17203652|Baltimore, MD|1|2
+29985806|laurel, maryland|36243919|Error|1|2
+29985806|laurel, maryland|24960076|Error|1|2
+65986947|baltimore, maryland|21226738|Error|5|2
+65986947|baltimore, maryland|37142882|Atlanta|Baltimore|3|2
+65986947|baltimore, maryland|0|Error|3|2
+65986947|baltimore, maryland|0|Error|2|2
+65986947|baltimore, maryland|12281832|Maryland|2|2
+65986947|baltimore, maryland|0|Error|2|2
+65986947|baltimore, maryland|46408095|Somewhere Luxuriously Living..|2|2
+65986947|baltimore, maryland|0|Error|2|2
+65986947|baltimore, maryland|128199480|Miami, FL|1|2
+65986947|baltimore, maryland|422359796|Error|1|2
+65986947|baltimore, maryland|99422239|En un mundo lejano al tuyo ~|1|2
+65986947|baltimore, maryland|29952857|In My Skin. Out My Mind. |1|2
+65986947|baltimore, maryland|0|Error|1|2
+65986947|baltimore, maryland|347438465|Error|1|2
+32476340|baltimore, maryland|0|Error|2|2
+32476340|baltimore, maryland|29083710|Sacramento, CA|2|2
+32476340|baltimore, maryland|40981798|get our deluxe album here! -|1|2
+32476340|baltimore, maryland|0|Error|1|2
+17124930|silver spring, maryland|759251|Error|2|2
+17124930|silver spring, maryland|23832022|Worldwide |2|2
+17124930|silver spring, maryland|24027953|Global|1|2
+17124930|silver spring, maryland|6017542|Global|1|2
+17124930|silver spring, maryland|16392556|South Jersey|1|2
+17124930|silver spring, maryland|0|Error|1|2
+17124930|silver spring, maryland|0|Error|1|2
+17124930|silver spring, maryland|0|Error|1|2
+17124930|silver spring, maryland|783214|San Francisco, CA|1|2
+22078098|bethesda, maryland|16413061|Boston|4|2
+22078098|bethesda, maryland|36338371|Berlin|4|2
+22078098|bethesda, maryland|0|Error|2|2
+22078098|bethesda, maryland|0|Error|2|2
+22078098|bethesda, maryland|0|Error|2|2
+22078098|bethesda, maryland|0|Error|1|2
+22078098|bethesda, maryland|15840712|Error|1|2
+22078098|bethesda, maryland|2059051|St. Paul, Minnesota|1|2
+22078098|bethesda, maryland|32157255|Error|1|2
+22078098|bethesda, maryland|28690464|Error|1|2
+22078098|bethesda, maryland|0|Error|1|2
+22078098|bethesda, maryland|531851314|Error|1|2
+22078098|bethesda, maryland|36937919|Error|1|2
+22078098|bethesda, maryland|16446761|Tampa, FL|1|2
+22078098|bethesda, maryland|107781789|Flint, MI, USA|1|2
+22078098|bethesda, maryland|14089382|king's lynn, uk|1|2
+22078098|bethesda, maryland|34667881|Chicago, IL|1|2
+22078098|bethesda, maryland|30240666|Error|1|2
+22078098|bethesda, maryland|0|Error|1|2
+22078098|bethesda, maryland|20974095|FLORIDA|1|2
+22078098|bethesda, maryland|19590747|Long Beach, CA|1|2
+22078098|bethesda, maryland|0|Error|1|2
+64704761|bowie, maryland|2180042250|Error|10|2
+64704761|bowie, maryland|192149569|Error|8|2
+64704761|bowie, maryland|41044856|Error|6|2
+64704761|bowie, maryland|223319058|Error|3|2
+64704761|bowie, maryland|28041272|DMV|3|2
+64704761|bowie, maryland|0|Error|3|2
+64704761|bowie, maryland|0|Error|3|2
+64704761|bowie, maryland|249484180|Error|2|2
+64704761|bowie, maryland|0|Error|2|2
+64704761|bowie, maryland|231553448|Washington DC|2|2
+64704761|bowie, maryland|0|Error|2|2
+64704761|bowie, maryland|222671919|Error|2|2
+64704761|bowie, maryland|17929027|The Ruff|1|2
+64704761|bowie, maryland|3272003611|Error|1|2
+64704761|bowie, maryland|38568078|MD, DC, VA|1|2
+64704761|bowie, maryland|0|Error|1|2
+64704761|bowie, maryland|22505761|bowie, md|1|2
+64704761|bowie, maryland|26057344|in my shell|1|2
+64704761|bowie, maryland|35094637|New York City|1|2
+64704761|bowie, maryland|0|Error|1|2
+64704761|bowie, maryland|62911484|DMV|1|2
+64704761|bowie, maryland|0|Error|1|2
+17389116|baltimore, maryland|1830691|Baltimore, MD|1|2
+17389116|baltimore, maryland|6995942|Baltimore, MD (39.281509,-76.5|1|2
+17389116|baltimore, maryland|0|Error|1|2
+36394743|baltimore, maryland|0|Error|1|2
+36394743|baltimore, maryland|0|Error|1|2
+36394743|baltimore, maryland|0|Error|1|2
+36394743|baltimore, maryland|0|Error|1|2
+36394743|baltimore, maryland|0|Error|1|2
+36394743|baltimore, maryland|0|Error|1|2
+36394743|baltimore, maryland|0|Error|1|2
+36394743|baltimore, maryland|0|Error|1|2
+36394743|baltimore, maryland|0|Error|1|2
+42162217|laurel, maryland|17929027|The Ruff|1|2
+42162217|laurel, maryland|0|Error|1|2
+42162217|laurel, maryland|18369265|Virginia|1|2
+16080112|annapolis, maryland|13082862|Atlanta, GA|1|2
+16080112|annapolis, maryland|0|Error|1|2
+16080112|annapolis, maryland|38742156|Alabama|1|2
+28705858|bowie, maryland|188190705|Tuc-Town|11|2
+28705858|bowie, maryland|0|Error|7|2
+28705858|bowie, maryland|0|Error|3|2
+28705858|bowie, maryland|0|Error|3|2
+28705858|bowie, maryland|14211616|Washington DC Area|2|2
+28705858|bowie, maryland|57445535|Error|2|2
+28705858|bowie, maryland|304798721|NJ|1|2
+28705858|bowie, maryland|1462096280|Error|1|2
+28705858|bowie, maryland|44885772|Error|1|2
+28705858|bowie, maryland|455163792|Error|1|2
+28705858|bowie, maryland|77556602|Error|1|2
+28705858|bowie, maryland|308551910|Error|1|2
+28705858|bowie, maryland|237506755|Error|1|2
+14638514|baltimore, maryland|9988152|Toronto, Ontario|4|2
+14638514|baltimore, maryland|15342719|The Sprawl, USA|4|2
+14638514|baltimore, maryland|7019062|Brooklyn, NY|2|2
+14638514|baltimore, maryland|23223266|Empire & Garden State|2|2
+14638514|baltimore, maryland|2901164378|Error|2|2
+14638514|baltimore, maryland|18522686|http://www.WendyDay.com|2|2
+14638514|baltimore, maryland|29056091|Miami , Broward & Palm Beach|2|2
+14638514|baltimore, maryland|17556493|Error|1|2
+14638514|baltimore, maryland|86113237|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|84731945|behind the bar|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|19749614|Australia|1|2
+14638514|baltimore, maryland|16818880|Atlanta, GA|1|2
+14638514|baltimore, maryland|326549578|Error|1|2
+14638514|baltimore, maryland|78392293|Living a Dream|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|15140295|Dj Hollywood|1|2
+14638514|baltimore, maryland|165502026|NYC|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|17326776|Click here|1|2
+14638514|baltimore, maryland|18672822|Liverpool, UK|1|2
+14638514|baltimore, maryland|5172361|Oxford|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+14638514|baltimore, maryland|0|Error|1|2
+48063379|baltimore, maryland|1908341071|Error|3|2
+48063379|baltimore, maryland|19278842|New Cali|2|2
+48063379|baltimore, maryland|23151437|Philly/LA|2|2
+48063379|baltimore, maryland|171709278|Error|1|2
+48063379|baltimore, maryland|40607946|Error|1|2
+48063379|baltimore, maryland|24795163|snapchat marlonLwayans|1|2
+48063379|baltimore, maryland|23487110|In Your Speakers|1|2
+48063379|baltimore, maryland|25196361|Upstate, NY|1|2
+20800764|baltimore, maryland|60459270|Error|1|2
+66807182|baltimore, maryland|2367911|NYC|3|2
+66807182|baltimore, maryland|3170843401|Error|1|2
+14379617|baltimore, maryland|16212065|Dublin|4|2
+14379617|baltimore, maryland|15939540|Palos Park,IL|3|2
+14379617|baltimore, maryland|6151932|Portland, Oregon|3|2
+14379617|baltimore, maryland|19055125|Toronto|2|2
+14379617|baltimore, maryland|14293400|Portland, OR|2|2
+14379617|baltimore, maryland|0|Error|2|2
+14379617|baltimore, maryland|21272105|Santa Barbara, CA|1|2
+14379617|baltimore, maryland|2910971|Glasgow, Scotland|1|2
+14379617|baltimore, maryland|14807886|Lynnwood WA|1|2
+14379617|baltimore, maryland|14580261|Wilmington, DE|1|2
+26962931|baltimore, maryland|0|Error|17|2
+26962931|baltimore, maryland|33596944|Baltimore, MD|11|2
+26962931|baltimore, maryland|74355621|Orlando |4|2
+26962931|baltimore, maryland|537981798|Tucson Arizona|4|2
+26962931|baltimore, maryland|347588896|Error|4|2
+26962931|baltimore, maryland|0|Error|3|2
+26962931|baltimore, maryland|30763051|San Antonio, TX|3|2
+26962931|baltimore, maryland|24902967|Baltimore, MD|3|2
+26962931|baltimore, maryland|0|Error|3|2
+26962931|baltimore, maryland|0|Error|3|2
+26962931|baltimore, maryland|855987661|Error|2|2
+26962931|baltimore, maryland|18525929|412 to 724 to 304|2|2
+26962931|baltimore, maryland|0|Error|2|2
+26962931|baltimore, maryland|184559077|Baltimore, MD (#DMV)|2|2
+26962931|baltimore, maryland|0|Error|2|2
+26962931|baltimore, maryland|0|Error|2|2
+26962931|baltimore, maryland|229169463|milledgeville,ga|2|2
+26962931|baltimore, maryland|23009747|Error|2|2
+26962931|baltimore, maryland|21482152|Error|1|2
+26962931|baltimore, maryland|0|Error|1|2
+26962931|baltimore, maryland|0|Error|1|2
+26962931|baltimore, maryland|0|Error|1|2
+26962931|baltimore, maryland|0|Error|1|2
+26962931|baltimore, maryland|0|Error|1|2
+26962931|baltimore, maryland|29128229|Baltimore|1|2
+26962931|baltimore, maryland|28023326|Baltimore, MD to the World !!|1|2
+26962931|baltimore, maryland|0|Error|1|2
+26962931|baltimore, maryland|262985433|Error|1|2
+26962931|baltimore, maryland|44923384|Baltimore, MD|1|2
+26962931|baltimore, maryland|29117138|Baltimore, MD|1|2
+26962931|baltimore, maryland|0|Error|1|2
+26962931|baltimore, maryland|40752983|Baltimore,MD|1|2
+26962931|baltimore, maryland|24552985|Baltimore, MD|1|2
+26962931|baltimore, maryland|92420623|Error|1|2
+26962931|baltimore, maryland|0|Error|1|2
+26962931|baltimore, maryland|1406888060|Philly|1|2
+26962931|baltimore, maryland|455537847|flint,michigan|1|2
+26962931|baltimore, maryland|0|Error|1|2
+26962931|baltimore, maryland|0|Error|1|2
+36405095|baltimore, maryland|17929027|The Ruff|2|2
+36405095|baltimore, maryland|26947243|39.29063,-76.627441|2|2
+36405095|baltimore, maryland|0|Error|2|2
+36405095|baltimore, maryland|32552188|Betseyville, Maryland|2|2
+36405095|baltimore, maryland|17878322|Under Your Skin|1|2
+36405095|baltimore, maryland|18078386|DC, Virginia |1|2
+36405095|baltimore, maryland|26895879|Error|1|2
+36405095|baltimore, maryland|25365536|where I'm meant to be...|1|2
+36405095|baltimore, maryland|288557258|Error|1|2
+36405095|baltimore, maryland|428333|Everywhere|1|2
+36405095|baltimore, maryland|0|Error|1|2
+36405095|baltimore, maryland|26255553|TierraGoesGreen.com|1|2
+36405095|baltimore, maryland|0|Error|1|2
+36405095|baltimore, maryland|0|Error|1|2
+36405095|baltimore, maryland|23831682|Make Gumbo or Die Trying|1|2
+36405095|baltimore, maryland|29304771|Baltimore|1|2
+36405095|baltimore, maryland|0|Error|1|2
+36405095|baltimore, maryland|0|Error|1|2
+36405095|baltimore, maryland|254500577|Error|1|2
+36405095|baltimore, maryland|17149454|Atlanta, GA|1|2
+36405095|baltimore, maryland|33724602|Charlotte, NC|1|2
+36405095|baltimore, maryland|100554060|NY/LA|1|2
+36405095|baltimore, maryland|3235209590|lil haiti, miami|1|2
+36405095|baltimore, maryland|0|Error|1|2
+36405095|baltimore, maryland|184782582|Johannesburg|1|2
+36405095|baltimore, maryland|27700381|Maryland, USA, Earth|1|2
+36405095|baltimore, maryland|0|Error|1|2
+36405095|baltimore, maryland|25620815|DMV|1|2
+36405095|baltimore, maryland|0|Error|1|2
+36405095|baltimore, maryland|0|Error|1|2
+36405095|baltimore, maryland|56463364|Los Angeles, CA|1|2
+36405095|baltimore, maryland|0|Error|1|2
+36405095|baltimore, maryland|0|Error|1|2
+14778534|bel air, maryland|2168870780|Error|3|2
+14778534|bel air, maryland|2391380955|Error|3|2
+14778534|bel air, maryland|2781056849|Error|2|2
+14778534|bel air, maryland|4071621|Breastfeeding |1|2
+14778534|bel air, maryland|0|Error|1|2
+14778534|bel air, maryland|16006568|The Frozen Tundra|1|2
+14778534|bel air, maryland|630652145|Error|1|2
+14778534|bel air, maryland|42956808|Sunny California|1|2
+14778534|bel air, maryland|50123|Error|1|2
+30510170|baltimore, maryland|0|Error|3|2
+30510170|baltimore, maryland|293124717|Over at @NathanKress|2|2
+30510170|baltimore, maryland|19136331|NYC | Englewood Cliffs, NJ|1|2
+30510170|baltimore, maryland|53153263|Error|1|2
+65244467|bel air, maryland|20025650|Mo-Town, MN|6|2
+65244467|bel air, maryland|60515934|Earth|5|2
+65244467|bel air, maryland|0|Error|5|2
+65244467|bel air, maryland|0|Error|3|2
+65244467|bel air, maryland|0|Error|2|2
+65244467|bel air, maryland|176255234|Error|2|2
+65244467|bel air, maryland|0|Error|2|2
+65244467|bel air, maryland|101263406|Error|2|2
+65244467|bel air, maryland|209904797|Demi World|1|2
+65244467|bel air, maryland|0|Error|1|2
+65244467|bel air, maryland|56783491|Error|1|2
+65244467|bel air, maryland|0|Error|1|2
+65244467|bel air, maryland|0|Error|1|2
+65244467|bel air, maryland|55955180|Jobros RTed 9Jan13|1|2
+65244467|bel air, maryland|18588279|Error|1|2
+65244467|bel air, maryland|28011180|Los Angeles, CA |1|2
+65244467|bel air, maryland|0|Error|1|2
+83247801|baltimore, maryland|36743910|Princeton, NJ|3|2
+83247801|baltimore, maryland|54682125|BillCosby.com/Concerts|2|2
+74354172|baltimore, maryland|19438795|Chicago, IL|6|2
+74354172|baltimore, maryland|16302561|Stevensville, MD|4|2
+74354172|baltimore, maryland|14441010|Baltimore, MD|4|2
+74354172|baltimore, maryland|15234705|BALTIMORE|1|2
+74354172|baltimore, maryland|0|Error|1|2
+74354172|baltimore, maryland|0|Error|1|2
+41784363|rockville, maryland|41784363|Rockville, Maryland|1|2
+52795586|baltimore, maryland|0|Error|1|2
+52795586|baltimore, maryland|3454673597|Error|1|2
+41915775|montgomery village, maryland|29094275|Maryland |4|2
+41915775|montgomery village, maryland|0|Error|3|2
+41915775|montgomery village, maryland|0|Error|1|2
+41915775|montgomery village, maryland|35321795|PHILLY |1|2
+41915775|montgomery village, maryland|0|Error|1|2
+41915775|montgomery village, maryland|0|Error|1|2
+41915775|montgomery village, maryland|14724649|Error|1|2
+41915775|montgomery village, maryland|23636531|1/3|1|2
+41915775|montgomery village, maryland|0|Error|1|2
+41915775|montgomery village, maryland|19345678|Error|1|2
+41915775|montgomery village, maryland|22450947|Charlotte,NC|1|2
+19766494|potomac, maryland|15896522|global|5|2
+19766494|potomac, maryland|275463606|Error|4|2
+19766494|potomac, maryland|2537341838|Error|3|2
+19766494|potomac, maryland|25067875|Claymont, DE|2|2
+19766494|potomac, maryland|17745701|NJ + beyond!|2|2
+19766494|potomac, maryland|27949750|iPhone: 36.972572,-122.036209|1|2
+19766494|potomac, maryland|34343682|Amador County, CA|1|2
+19766494|potomac, maryland|146462322|Error|1|2
+19766494|potomac, maryland|14176345|Columbia, SC|1|2
+19766494|potomac, maryland|3301867678|Error|1|2
+19766494|potomac, maryland|87263312|Drytown,CA- Amador County|1|2
+19766494|potomac, maryland|0|Error|1|2
+19766494|potomac, maryland|610709877|Frankston,Melbourne.Aus|1|2
+19766494|potomac, maryland|23630526|Tempe, Arizona|1|2
+19766494|potomac, maryland|0|Error|1|2
+19766494|potomac, maryland|0|Error|1|2
+19766494|potomac, maryland|17471616|Error|1|2
+19766494|potomac, maryland|16265656|DC Metro area|1|2
+19766494|potomac, maryland|10756282|Wellesley, MA|1|2
+19766494|potomac, maryland|14193787|West Palm Beach, FL|1|2
+19766494|potomac, maryland|14115093|Orlando, Florida|1|2
+19766494|potomac, maryland|0|Error|1|2
+19766494|potomac, maryland|7718682|Boston, MA|1|2
+19766494|potomac, maryland|0|Error|1|2
+19766494|potomac, maryland|34166616|South Florida|1|2
+19766494|potomac, maryland|19766494|Error|1|2
+19766494|potomac, maryland|347261360|Las Vegas|1|2
+19766494|potomac, maryland|0|Error|1|2
+19766494|potomac, maryland|18147910|Manhattan|1|2
+19766494|potomac, maryland|15688041|St. Paul, MN|1|2
+17407710|laurel, maryland|0|Error|1|2
+17407710|laurel, maryland|43432321|Detroit, MI|1|2
+17407710|laurel, maryland|0|Error|1|2
+29466393|mitchellville, maryland|37637826|International|1|2
+29466393|mitchellville, maryland|392837164|Error|1|2
+29466393|mitchellville, maryland|0|Error|1|2
+29466393|mitchellville, maryland|18479228|Calgary|1|2
+29466393|mitchellville, maryland|34465845|DMV|1|2
+29466393|mitchellville, maryland|26110687|Human Resources Manager /Payroll |1|2
+29466393|mitchellville, maryland|16266663|Dallas, TX|1|2
+18460114|baltimore, maryland|76858729|Error|5|2
+18460114|baltimore, maryland|0|Error|4|2
+18460114|baltimore, maryland|0|Error|4|2
+18460114|baltimore, maryland|0|Error|3|2
+18460114|baltimore, maryland|80190596|#TeamCleveland |2|2
+18460114|baltimore, maryland|2567668996|Error|1|2
+18460114|baltimore, maryland|2796133681|Los Angeles, California|1|2
+18460114|baltimore, maryland|2191468517|Error|1|2
+18460114|baltimore, maryland|123313906|Error|1|2
+18460114|baltimore, maryland|558777055|Error|1|2
+18460114|baltimore, maryland|0|Error|1|2
+18460114|baltimore, maryland|32509448|LandovaLandova|1|2
+18460114|baltimore, maryland|0|Error|1|2
+18460114|baltimore, maryland|19950886|Georgia|1|2
+18460114|baltimore, maryland|0|Error|1|2
+18460114|baltimore, maryland|32882428|Where Fitness meets Fabulous|1|2
+18460114|baltimore, maryland|0|Error|1|2
+15839702|frederick, maryland|0|Error|1|2
+15839702|frederick, maryland|18112970|CA, but reporting everywhere|1|2
+15839702|frederick, maryland|7702812|DC area|1|2
+15839702|frederick, maryland|21242484|Battleground Baltimore|1|2
+15839702|frederick, maryland|0|Error|1|2
+15839702|frederick, maryland|16957038|Maryland, USA|1|2
+15839702|frederick, maryland|602851020|Frederick, MD|1|2
+623473|baltimore, maryland|10201332|Austin|3|2
+623473|baltimore, maryland|16818600|Error|2|2
+623473|baltimore, maryland|789158|Mt. Vernon, Baltimore, MD|2|2
+623473|baltimore, maryland|17035064|Stamford, CT|2|2
+623473|baltimore, maryland|14246782|NYC expat in San Diego, CA|2|2
+623473|baltimore, maryland|0|Error|2|2
+623473|baltimore, maryland|7234682|Los Angeles |1|2
+623473|baltimore, maryland|0|Error|1|2
+623473|baltimore, maryland|0|Error|1|2
+623473|baltimore, maryland|7392512|Error|1|2
+623473|baltimore, maryland|12816192|NYC|1|2
+623473|baltimore, maryland|7042812|Kansas City|1|2
+623473|baltimore, maryland|18024222|Baltimore, MD|1|2
+623473|baltimore, maryland|41578641|Error|1|2
+623473|baltimore, maryland|88999643|Error|1|2
+623473|baltimore, maryland|14125252|Maryland|1|2
+623473|baltimore, maryland|119993400|Error|1|2
+623473|baltimore, maryland|2782883516|Error|1|2
+623473|baltimore, maryland|17499323|Baltimore, MD|1|2
+623473|baltimore, maryland|1878001|iPhone: 39.477158,-76.264664|1|2
+15186655|cumberland, maryland|0|Error|2|2
+15186655|cumberland, maryland|17301222|Denver, mostly |1|2
+15186655|cumberland, maryland|0|Error|1|2
+17808925|frederick, maryland|32934795|ABC|1|2
+17808925|frederick, maryland|17941492|San Diego|1|2
+17808925|frederick, maryland|0|Error|1|2
+17808925|frederick, maryland|20638192|Error|1|2
+17808925|frederick, maryland|15513604|New York City|1|2
+36290542|college park, maryland|96825619|National|1|2
+36290542|college park, maryland|0|Error|1|2
+40092662|clinton, maryland|11883132|San Francisco|1|2
+40092662|clinton, maryland|64059377|Stockton, CA 95207|1|2
+40092662|clinton, maryland|9856272|Lexington, KY|1|2
+40092662|clinton, maryland|14511951|Error|1|2
+40092662|clinton, maryland|17488225|Minneapolis MN Minnesota|1|2
+40092662|clinton, maryland|1694043781|SA|1|2
+40092662|clinton, maryland|0|Error|1|2
+40092662|clinton, maryland|23463215|Living life in the dash 1984 -|1|2
+24627913|baltimore, maryland|18539636|Baggage Claim|2|2
+24627913|baltimore, maryland|182040715|Error|1|2
+24627913|baltimore, maryland|19990431|Las Vegas |1|2
+17157736|rockville, maryland|344423435|Error|4|2
+17157736|rockville, maryland|48480162|Mouth of Wilson, VA|1|2
+17157736|rockville, maryland|41536618|Tampa, FL|1|2
+17157736|rockville, maryland|0|Error|1|2
+17157736|rockville, maryland|16857936|Error|1|2
+31040090|waldorf, maryland|2576434449|Error|24|2
+31040090|waldorf, maryland|17929027|The Ruff|1|2
+31040090|waldorf, maryland|3447207382|Error|1|2
+29086980|silver spring, maryland|7122552|Columbus Ohio|7|2
+29086980|silver spring, maryland|14375110|DCA, IAD|5|2
+29086980|silver spring, maryland|36153601|San Francisco|3|2
+29086980|silver spring, maryland|1540071|Error|2|2
+29086980|silver spring, maryland|6108572|iPhone: 37.578986,-122.353782|2|2
+29086980|silver spring, maryland|14184390|Chapel Hill, NC, USA|1|2
+29086980|silver spring, maryland|27302287|pee dee eks|1|2
+29086980|silver spring, maryland|0|Error|1|2
+29086980|silver spring, maryland|46311328|Error|1|2
+29086980|silver spring, maryland|6264792|Mae Sot, Thailand|1|2
+29086980|silver spring, maryland|6270652|Montreal / Toronto / San Fran|1|2
+29086980|silver spring, maryland|5417872|Salt Lake City|1|2
+29086980|silver spring, maryland|84417872|Europe|1|2
+29086980|silver spring, maryland|0|Error|1|2
+18995389|baltimore, maryland|17169095|Spartanburg, SC, USA|1|2
+25549480|baltimore, maryland|21719677|Maryland|3|2
+25549480|baltimore, maryland|62888916|Mission Viejo, CA|2|2
+25549480|baltimore, maryland|14634720|New York, Everywhere|2|2
+25549480|baltimore, maryland|0|Error|2|2
+25549480|baltimore, maryland|80920349|denver, co|2|2
+25549480|baltimore, maryland|18909554|Phoenix|2|2
+25549480|baltimore, maryland|15639642|Global|2|2
+25549480|baltimore, maryland|14078180|Error|1|2
+25549480|baltimore, maryland|1366401|iPhone: 37.785873,-122.401604|1|2
+25549480|baltimore, maryland|22158031|LA|1|2
+25549480|baltimore, maryland|15667726|Palo Alto|1|2
+25549480|baltimore, maryland|51924041|CA|1|2
+25549480|baltimore, maryland|16407834|San Francisco|1|2
+25549480|baltimore, maryland|0|Error|1|2
+25549480|baltimore, maryland|0|Error|1|2
+25549480|baltimore, maryland|0|Error|1|2
+25549480|baltimore, maryland|0|Error|1|2
+25549480|baltimore, maryland|0|Error|1|2
+25549480|baltimore, maryland|475104256|Error|1|2
+25549480|baltimore, maryland|0|Error|1|2
+25549480|baltimore, maryland|0|Error|1|2
+25549480|baltimore, maryland|19557433|Error|1|2
+25549480|baltimore, maryland|14616784|White River Junction, Vermont|1|2
+25549480|baltimore, maryland|0|Error|1|2
+25549480|baltimore, maryland|8820652|San Diego, California |1|2
+25549480|baltimore, maryland|3765883452|Oklahoma City, OK|1|2
+25549480|baltimore, maryland|14327518|San Diego, CA|1|2
+25549480|baltimore, maryland|36110955|Tulsa OK|1|2
+25549480|baltimore, maryland|17454612|Error|1|2
+25549480|baltimore, maryland|66521429|Planet Earth - WWW|1|2
+25549480|baltimore, maryland|26688553|San Jose, Ca|1|2
+25549480|baltimore, maryland|13190282|Prescott, AZ|1|2
+25549480|baltimore, maryland|17144971|Groton, MA|1|2
+61595948|rockville, maryland|19126314|Olney, Maryland|1|2
+61595948|rockville, maryland|0|Error|1|2
+61595948|rockville, maryland|59265291|Urbana, IL|1|2
+61595948|rockville, maryland|28096596|Bethesda, Maryland|1|2
+15458789|baltimore, maryland|2633711|Portland, OR|2|2
+15458789|baltimore, maryland|11595422|Mammoth Lakes, CA|1|2
+15458789|baltimore, maryland|15150276|Baltimore, MD|1|2
+15458789|baltimore, maryland|13217072|Washington DC|1|2
+15458789|baltimore, maryland|11348282|Error|1|2
+15458789|baltimore, maryland|16826656|Detroit, Michigan|1|2
+27651218|frederick, maryland|27121286|Frederick Maryland|9|2
+27651218|frederick, maryland|15223777|Vancouver|4|2
+27651218|frederick, maryland|46186400|Error|3|2
+27651218|frederick, maryland|209543057|Frederick MD|1|2
+27651218|frederick, maryland|0|Error|1|2
+27651218|frederick, maryland|2497398571|Error|1|2
+27651218|frederick, maryland|1183041|Los Angeles|1|2
+27651218|frederick, maryland|657863|New York, NY|1|2
+27651218|frederick, maryland|12611642|Fairfax, VA|1|2
+27651218|frederick, maryland|14924051|Vancouver|1|2
+40539987|baltimore, maryland|3590219537|Error|2|2
+40539987|baltimore, maryland|0|Error|1|2
+40539987|baltimore, maryland|17929027|The Ruff|1|2
+40539987|baltimore, maryland|79885359|Error|1|2
+40539987|baltimore, maryland|36956449|Error|1|2
+40539987|baltimore, maryland|21278412|Where the Cash At|1|2
+40539987|baltimore, maryland|0|Error|1|2
+40539987|baltimore, maryland|0|Error|1|2
+40539987|baltimore, maryland|31212366|Cali|1|2
+40539987|baltimore, maryland|325288320|Error|1|2
+17296676|bethesda, maryland|21969745|Los Angeles, CA|8|2
+17296676|bethesda, maryland|25570524|Chicago, IL|2|2
+17296676|bethesda, maryland|999663708|Error|2|2
+17296676|bethesda, maryland|17296676|Bethesda, Maryland|2|2
+17296676|bethesda, maryland|790422|Santa Cruz, CA|1|2
+17296676|bethesda, maryland|0|Error|1|2
+17296676|bethesda, maryland|15245706|Everywhere|1|2
+17296676|bethesda, maryland|0|Error|1|2
+17296676|bethesda, maryland|28543744|Costa Rica|1|2
+17296676|bethesda, maryland|0|Error|1|2
+17296676|bethesda, maryland|0|Error|1|2
+17296676|bethesda, maryland|32568104|New York City|1|2
+17296676|bethesda, maryland|0|Error|1|2
+17296676|bethesda, maryland|15984241|Chicago|1|2
+17296676|bethesda, maryland|17447919|Philadelphia|1|2
+17296676|bethesda, maryland|1491557814|Error|1|2
+14140913|bethesda, maryland|41890754|Bethesda, MD|3|2
+14140913|bethesda, maryland|15221282|Bethesda, MD|2|2
+14140913|bethesda, maryland|18431301|San Antonio Texas|2|2
+14140913|bethesda, maryland|14140913|Bethesda, Maryland|2|2
+14140913|bethesda, maryland|99572066|Mexico|1|2
+14140913|bethesda, maryland|16442512|Phoenix, Arizona |1|2
+14140913|bethesda, maryland|16948159| Groom, TX 79039|1|2
+14140913|bethesda, maryland|7692442|Oakton, VA|1|2
+14140913|bethesda, maryland|20857192|New Jersey|1|2
+14140913|bethesda, maryland|21792943|Washington, D.C.|1|2
+14140913|bethesda, maryland|46912874|Portsmouth, VA|1|2
+14140913|bethesda, maryland|86717190|Error|1|2
+14140913|bethesda, maryland|0|Error|1|2
+14140913|bethesda, maryland|393140358|Spokane Valley|1|2
+14140913|bethesda, maryland|0|Error|1|2
+14140913|bethesda, maryland|0|Error|1|2
+14140913|bethesda, maryland|0|Error|1|2
+14140913|bethesda, maryland|71884527|san diego, CA|1|2
+14140913|bethesda, maryland|0|Error|1|2
+14140913|bethesda, maryland|807095|New York City|1|2
+14140913|bethesda, maryland|70383788|Error|1|2
+14140913|bethesda, maryland|29493065|160+ Locations Worldwide|1|2
+14140913|bethesda, maryland|21445694|Hawaii|1|2
+14140913|bethesda, maryland|15001045|New York|1|2
+14140913|bethesda, maryland|16195983|Tampa, FL|1|2
+14140913|bethesda, maryland|16283596|New York, NY|1|2
+14140913|bethesda, maryland|14108893|iPhone: 33.975751,-118.428144|1|2
+14140913|bethesda, maryland|24790369|Error|1|2
+14140913|bethesda, maryland|0|Error|1|2
+14140913|bethesda, maryland|26094549|Error|1|2
+33158416|baltimore, maryland|0|Error|3|2
+33158416|baltimore, maryland|542525756|Error|2|2
+33158416|baltimore, maryland|27682405|Baltimore, MD|1|2
+33158416|baltimore, maryland|1201439654|Error|1|2
+33158416|baltimore, maryland|12701412|NYC|1|2
+33158416|baltimore, maryland|32959253|Error|1|2
+33158416|baltimore, maryland|0|Error|1|2
+33158416|baltimore, maryland|15637594|New York City|1|2
+33158416|baltimore, maryland|22891518|LA USA|1|2
+29312090|baltimore, maryland|35463596|in the ether|5|2
+29312090|baltimore, maryland|0|Error|3|2
+29312090|baltimore, maryland|0|Error|3|2
+29312090|baltimore, maryland|87788980|Baltimore, MD|3|2
+29312090|baltimore, maryland|0|Error|2|2
+29312090|baltimore, maryland|0|Error|2|2
+29312090|baltimore, maryland|60282659|Error|2|2
+29312090|baltimore, maryland|30619869|North Carolina, USA|2|2
+29312090|baltimore, maryland|23797073|Los Angeles, CA|2|2
+29312090|baltimore, maryland|0|Error|1|2
+29312090|baltimore, maryland|282821324|New Orleans|1|2
+29312090|baltimore, maryland|18485036|Tallahassee, United States|1|2
+29312090|baltimore, maryland|45075503|Center of the Earth |1|2
+29312090|baltimore, maryland|408387560|Error|1|2
+29312090|baltimore, maryland|0|Error|1|2
+30429183|columbia, maryland|0|Error|3|2
+30429183|columbia, maryland|0|Error|1|2
+30429183|columbia, maryland|0|Error|1|2
+30429183|columbia, maryland|67873363|Ohio|1|2
+30429183|columbia, maryland|17496987|Ponte Vedra Beach, FL|1|2
+7392512|baltimore, maryland|15836367|Baltimore|2|2
+7392512|baltimore, maryland|14332565|Baltimore, MD|2|2
+7392512|baltimore, maryland|16234099|Baltimore, MD|2|2
+7392512|baltimore, maryland|10259202|Baltimore, Maryland|1|2
+7392512|baltimore, maryland|16296057|New York | Philadelphia|1|2
+7392512|baltimore, maryland|18168557|iPhone: 38.915428,-77.229813|1|2
+7392512|baltimore, maryland|19544895|Baltimore Region, MD|1|2
+7392512|baltimore, maryland|14268957|Washington, DC|1|2
+7392512|baltimore, maryland|25690412|Baltimore, MD|1|2
+7392512|baltimore, maryland|19273332|Washington, DC|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|0|Error|1|2
+7392512|baltimore, maryland|18079379|Westminster, MD|1|2
+7392512|baltimore, maryland|14458280|Cambridge, MA|1|2
+7392512|baltimore, maryland|16282252|The great state of Virginia!|1|2
+16837993|silver spring, maryland|15199325|Washington, DC|2|2
+16837993|silver spring, maryland|67014989|Washington DC Metro Area|1|2
+16837993|silver spring, maryland|0|Error|1|2
+16837993|silver spring, maryland|71650123|Washington, DC|1|2
+16837993|silver spring, maryland|15753937|D.C.|1|2
+16837993|silver spring, maryland|12788212|DC Metro|1|2
+16837993|silver spring, maryland|0|Error|1|2
+16837993|silver spring, maryland|14570010|Bristol|1|2
+51447929|columbia, maryland|2155149667|Error|1|2
+51447929|columbia, maryland|304768495|Drunk, Chicago|1|2
+51447929|columbia, maryland|25521487|beach|1|2
+51447929|columbia, maryland|0|Error|1|2
+51447929|columbia, maryland|268414482|@happyhippiefdn|1|2
+51447929|columbia, maryland|68263928|Pennsylvania|1|2
+51447929|columbia, maryland|405659885|tagum city|1|2
+44109822|baltimore, maryland|15603642|Boca Raton, FL|5|2
+44109822|baltimore, maryland|0|Error|4|2
+44109822|baltimore, maryland|47945550|Texas|4|2
+44109822|baltimore, maryland|138106350|Error|4|2
+44109822|baltimore, maryland|73433769|Error|3|2
+44109822|baltimore, maryland|0|Error|3|2
+44109822|baltimore, maryland|39579137|The Garden State, NJ, USA|3|2
+44109822|baltimore, maryland|278525211|Error|3|2
+44109822|baltimore, maryland|67384692|Paradise|3|2
+44109822|baltimore, maryland|114442569|UK|3|2
+44109822|baltimore, maryland|6211972|hear.|3|2
+44109822|baltimore, maryland|4396|El Cerrito|2|2
+44109822|baltimore, maryland|6351572|Venice, California|2|2
+44109822|baltimore, maryland|48629937|Hamilton, Ontario, Canada|2|2
+44109822|baltimore, maryland|7229592|San Antonio, Texas|2|2
+44109822|baltimore, maryland|19541939|New York|2|2
+44109822|baltimore, maryland|17073492|Brookline, MA, USA|2|2
+44109822|baltimore, maryland|13024522|Darwin|2|2
+44109822|baltimore, maryland|1515028081|Cold Tundra of Rural NY|2|2
+44109822|baltimore, maryland|43544155|Error|2|2
+44109822|baltimore, maryland|0|Error|2|2
+44109822|baltimore, maryland|428434234|Error|2|2
+44109822|baltimore, maryland|2599461|San Francisco, CA|2|2
+44109822|baltimore, maryland|0|Error|2|2
+44109822|baltimore, maryland|0|Error|2|2
+44109822|baltimore, maryland|817141|Seattle = San Jose = Seattle|2|2
+44109822|baltimore, maryland|20107681|Los Angeles|2|2
+44109822|baltimore, maryland|37971731|The World Wide Web|2|2
+44109822|baltimore, maryland|14413529|San Francisco|2|2
+44109822|baltimore, maryland|0|Error|2|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|32474420|U.S.A|1|2
+44109822|baltimore, maryland|29640381|Error|1|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|28855979|Everywhere|1|2
+44109822|baltimore, maryland|23937947|CT/SBosch/Taipei/Bangkok|1|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|50109787|Worcester, MA|1|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|16652360|Northern Ireland|1|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|43237308|California|1|2
+44109822|baltimore, maryland|0|Error|1|2
+44109822|baltimore, maryland|0|Error|1|2
+23145139|salisbury, maryland|138778433|Everywhere|1|2
+23145139|salisbury, maryland|15917118|Atlanta, GA|1|2
+23145139|salisbury, maryland|32914051|Error|1|2
+23145139|salisbury, maryland|2367911|NYC|1|2
+23145139|salisbury, maryland|259972460|Error|1|2
+23145139|salisbury, maryland|22165716|Abingdon, MD|1|2
+74546143|baltimore, maryland|0|Error|2|2
+74546143|baltimore, maryland|0|Error|1|2
+17951238|catonsville, maryland|0|Error|3|2
+17951238|catonsville, maryland|11514912|Sweden|2|2
+17951238|catonsville, maryland|0|Error|2|2
+17951238|catonsville, maryland|112729602|London, UK|1|2
+17951238|catonsville, maryland|24227767|England|1|2
+25536512|baltimore, maryland|148533803|Error|1|2
+25536512|baltimore, maryland|32917215|Around|1|2
+25536512|baltimore, maryland|41243427|Inglewood,Ca|1|2
+25536512|baltimore, maryland|0|Error|1|2
+25536512|baltimore, maryland|0|Error|1|2
+25536512|baltimore, maryland|174303728|mumbai|1|2
+25536512|baltimore, maryland|29418349|Vacationing From Myself!|1|2
+25536512|baltimore, maryland|37868827|NIGGA, NEW YORK|1|2
+25536512|baltimore, maryland|0|Error|1|2
+51509726|towson, maryland|133732514|Pune,Maharashtra, India|2|2
+51509726|towson, maryland|32516433|Old New Mexico|2|2
+51509726|towson, maryland|0|Error|2|2
+51509726|towson, maryland|0|Error|1|2
+51509726|towson, maryland|25335635|DOWNTOWN MIAMI|1|2
+51509726|towson, maryland|0|Error|1|2
+51509726|towson, maryland|52504085|Headquarters California|1|2
+51509726|towson, maryland|15599873|Towson, Maryland|1|2
+51509726|towson, maryland|35094637|New York City|1|2
+27393422|largo, maryland|0|Error|4|2
+27393422|largo, maryland|66006400|My own lil world...|2|2
+27393422|largo, maryland|346501547|Botswana|2|2
+27393422|largo, maryland|3595260615|Error|1|2
+26358258|baltimore, maryland|52126499|Error|5|2
+26358258|baltimore, maryland|0|Error|2|2
+26358258|baltimore, maryland|0|Error|1|2
+26358258|baltimore, maryland|16101862|Washington, DC|1|2
+26358258|baltimore, maryland|185670903|NYC -- Los Angeles|1|2
+30761904|hyattsville, maryland|29979204|Md.|1|2
+19023981|baltimore, maryland|1112122502|dhaka, bangladesh|3|2
+19023981|baltimore, maryland|38358778|Baltimore, MD|2|2
+19023981|baltimore, maryland|35221515|East Coast, USA|2|2
+19023981|baltimore, maryland|308904209|Error|1|2
+19023981|baltimore, maryland|40188603|Error|1|2
+19023981|baltimore, maryland|274321481|Error|1|2
+19023981|baltimore, maryland|20815685|Error|1|2
+19023981|baltimore, maryland|4958911|By the beach|1|2
+19023981|baltimore, maryland|51426733|Atlanta|1|2
+19023981|baltimore, maryland|14123209|Baltimore, Maryland|1|2
+19023981|baltimore, maryland|325967214|Error|1|2
+19023981|baltimore, maryland|14125252|Maryland|1|2
+19023981|baltimore, maryland|2850633535|kentucky.|1|2
+19023981|baltimore, maryland|19121601|Forest Hill, MD|1|2
+19023981|baltimore, maryland|52593744|Baltimore|1|2
+15905147|damascus, maryland|0|Error|3|2
+15905147|damascus, maryland|16376247|Error|3|2
+15905147|damascus, maryland|19126314|Olney, Maryland|2|2
+15905147|damascus, maryland|0|Error|1|2
+15905147|damascus, maryland|14306043|Atlanta, GA|1|2
+15905147|damascus, maryland|394174199|Error|1|2
+15905147|damascus, maryland|11843312|NoVA | DC|1|2
+15905147|damascus, maryland|17078364|33.65,-84.35|1|2
+15905147|damascus, maryland|24630963|WV|1|2
+15905147|damascus, maryland|8775672|Washington, D.C.|1|2
+15905147|damascus, maryland|15475066|Tampa, FL|1|2
+15905147|damascus, maryland|12232092| Newcastle Upon Tyne, England|1|2
+15905147|damascus, maryland|14372486|Global|1|2
+15905147|damascus, maryland|502360006|Error|1|2
+15905147|damascus, maryland|17110732|Northern Virginia|1|2
+15905147|damascus, maryland|26787673|Atlanta, GA|1|2
+15905147|damascus, maryland|6204132|Alabama|1|2
+15905147|damascus, maryland|138809328|Error|1|2
+23249092|baltimore, maryland|10705942|towson md|4|2
+23249092|baltimore, maryland|265683870|Error|2|2
+23249092|baltimore, maryland|0|Error|1|2
+23249092|baltimore, maryland|0|Error|1|2
+23249092|baltimore, maryland|0|Error|1|2
+23249092|baltimore, maryland|0|Error|1|2
+11724792|lexington park, maryland|13030112|Quad Cities|3|2
+11724792|lexington park, maryland|3383972031|Lake Forest, IL|2|2
+11724792|lexington park, maryland|8263402|Error|1|2
+11724792|lexington park, maryland|14146716|iPhone: 37.732467,-88.557539|1|2
+11724792|lexington park, maryland|19640059|Ark|1|2
+11724792|lexington park, maryland|21937155|Jacksonville, FL|1|2
+11724792|lexington park, maryland|10446882|Error|1|2
+44232215|jessup, maryland|0|Error|6|2
+44232215|jessup, maryland|22709407|Rio de Janeiro, Brazil - FTFW!|5|2
+44232215|jessup, maryland|288308424|Amsterdam|4|2
+44232215|jessup, maryland|2869537913|Error|2|2
+44232215|jessup, maryland|24752173|The Bay|1|2
+44232215|jessup, maryland|0|Error|1|2
+21169501|waldorf, maryland|0|Error|1|2
+25377560|arbutus, maryland|0|Error|1|2
+14904123|baltimore, maryland|154901715|Denton, County; USA|4|2
+14904123|baltimore, maryland|14539341|Baltimore, MD|2|2
+14904123|baltimore, maryland|2162502096|Error|2|2
+14904123|baltimore, maryland|16544931|Uranus|2|2
+14904123|baltimore, maryland|15470403|DC Metro|1|2
+14904123|baltimore, maryland|18773339|iPhone: 33.003479,-96.992584|1|2
+14904123|baltimore, maryland|146636193|Anywhere there's a rainbow|1|2
+14904123|baltimore, maryland|0|Error|1|2
+14904123|baltimore, maryland|21984516|Los Angeles, CA|1|2
+14904123|baltimore, maryland|16177296|NY|1|2
+19126314|olney, maryland|0|Error|4|2
+19126314|olney, maryland|16015755|OutsideyourhouseOpenUp|2|2
+19126314|olney, maryland|19196555|Baltimore, MD|1|2
+19126314|olney, maryland|73842052|HELL! READY TO BE SUMMONED!|1|2
+19126314|olney, maryland|15391102|Washington, DC|1|2
+19126314|olney, maryland|0|Error|1|2
+19126314|olney, maryland|63489503|Boulder, CO|1|2
+19126314|olney, maryland|0|Error|1|2
+19126314|olney, maryland|45880233|Tokyo, Japan|1|2
+19126314|olney, maryland|46299239|Bay Area, California|1|2
+19126314|olney, maryland|0|Error|1|2
+19126314|olney, maryland|0|Error|1|2
+19126314|olney, maryland|0|Error|1|2
+23334642|bethesda, maryland|0|Error|8|2
+23334642|bethesda, maryland|21955933|Jersey|4|2
+23334642|bethesda, maryland|19748674|California|1|2
+23334642|bethesda, maryland|15265990|Minnesota|1|2
+17142019|baltimore, maryland|45569233|Baltimore, Maryland|1|2
+16095774|arbutus, maryland|14449337|St Petersburg, FL|3|2
+16095774|arbutus, maryland|76018607|Error|2|2
+16095774|arbutus, maryland|7564222|Error|1|2
+16095774|arbutus, maryland|7861312|Los Angeles, CA|1|2
+16095774|arbutus, maryland|21132588|NJ|1|2
+19248430|baltimore, maryland|15504971|713-435-4818|1|2
+16103606|largo, maryland|27741485|Ravenclaw Tower|1|2
+16103606|largo, maryland|0|Error|1|2
+16103606|largo, maryland|1319521574|Error|1|2
+16103606|largo, maryland|0|Error|1|2
+16103606|largo, maryland|0|Error|1|2
+16103606|largo, maryland|16103606|USA|1|2
+16103606|largo, maryland|51151270|Dallas, TX|1|2
+16103606|largo, maryland|35872776|the Fabulous Twin Cities, MN|1|2
+16103606|largo, maryland|19894501|'roun chea|1|2
+16103606|largo, maryland|0|Error|1|2
+19254696|baltimore, maryland|398463710|Error|3|2
+19254696|baltimore, maryland|49788328|New York / California |2|2
+19254696|baltimore, maryland|0|Error|1|2
+19254696|baltimore, maryland|0|Error|1|2
+19254696|baltimore, maryland|21149499|Error|1|2
+19254696|baltimore, maryland|0|Error|1|2
+61203165|baltimore, maryland|21171626|NYC|1|2
+29753506|adelphi, maryland|777140238|Error|1|2
+29753506|adelphi, maryland|17929027|The Ruff|1|2
+29753506|adelphi, maryland|0|Error|1|2
+29753506|adelphi, maryland|392401751|Los Angeles, CA|1|2
+29753506|adelphi, maryland|0|Error|1|2
+29753506|adelphi, maryland|27127800|Error|1|2
+29753506|adelphi, maryland|17298250|NY Born DC Raised LA Gypsy |1|2
+29753506|adelphi, maryland|70275573|D.C.|1|2
+29753506|adelphi, maryland|429634700|Error|1|2
+29753506|adelphi, maryland|58029908|Lucifer Has Risen|1|2
+29753506|adelphi, maryland|31019173|Harrisburg, Pa|1|2
+29753506|adelphi, maryland|19523062|Cud Life|1|2
+29753506|adelphi, maryland|285703822|Error|1|2
+29753506|adelphi, maryland|0|Error|1|2
+28705858|bowie, maryland|14211616|Washington DC Area|5|2
+28705858|bowie, maryland|44885772|Error|1|2
+19273090|towson, maryland|0|Error|4|2
+19273090|towson, maryland|325967214|Error|2|2
+19273090|towson, maryland|15113820|Silicon Valley Girl n DelaWha?|2|2
+19273090|towson, maryland|28156064|Lawrenceville, GA|2|2
+19273090|towson, maryland|14940336|Boston, MA|2|2
+19273090|towson, maryland|14089112|Charm City, USA |1|2
+19273090|towson, maryland|2399653761|McDonough, GA  - USA|1|2
+19273090|towson, maryland|14493560|Baltimore, MD|1|2
+19273090|towson, maryland|20949677|Wiscasset, Maine|1|2
+19273090|towson, maryland|15726194|Maryland|1|2
+19273090|towson, maryland|108684622|Error|1|2
+19273090|towson, maryland|0|Error|1|2
+19273090|towson, maryland|19273090|Towson, Maryland|1|2
+19273090|towson, maryland|14076060|Benedict, MD|1|2
+24562451|baltimore, maryland|24502450|LA X DMV X NYC X SYD|11|2
+24562451|baltimore, maryland|0|Error|3|2
+24562451|baltimore, maryland|24495548|Shepherdsville Ky|1|2
+24562451|baltimore, maryland|17785441|la|1|2
+24562451|baltimore, maryland|456155130|Error|1|2
+24562451|baltimore, maryland|0|Error|1|2
+24562451|baltimore, maryland|25611344|Tauranga, New Zealand|1|2
+15137647|gaithersburg, maryland|38961112|In my heart|5|2
+15137647|gaithersburg, maryland|0|Error|3|2
+15137647|gaithersburg, maryland|972651|Error|1|2
+15137647|gaithersburg, maryland|10274|Austin, TX|1|2
+15137647|gaithersburg, maryland|48843835|Error|1|2
+15137647|gaithersburg, maryland|9519832|Melbourne Australia|1|2
+15137647|gaithersburg, maryland|1209971|Hertford, UK|1|2
+15137647|gaithersburg, maryland|20292942|Error|1|2
+15137647|gaithersburg, maryland|7410032|Error|1|2
+15137647|gaithersburg, maryland|69366841|Error|1|2
+15137647|gaithersburg, maryland|14803701|Everywhere|1|2
+15137647|gaithersburg, maryland|0|Error|1|2
+39266300|baltimore, maryland|19850691|Bmore to Atlanta|4|2
+39266300|baltimore, maryland|20484629|DeRidder, La / Texas|3|2
+39266300|baltimore, maryland|72216503|Baltimore md|2|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|50249678|Smile Big!|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|0|Error|1|2
+39266300|baltimore, maryland|22733444|KINGIN|1|2
+39266300|baltimore, maryland|76026193|Dallas|1|2
+15149783|bowie, maryland|14743453|Mega-City One|2|2
+35083521|crofton, maryland|35083521|Crofton, Maryland/DMV|3|2
+35083521|crofton, maryland|16259485|Metro Denver, CO|2|2
+35083521|crofton, maryland|0|Error|1|2
+35083521|crofton, maryland|33403290|Evolving|1|2
+35083521|crofton, maryland|3326953836|Southern California|1|2
+35083521|crofton, maryland|26872554|In My Element|1|2
+35083521|crofton, maryland|64461771|On Your Mind !!|1|2
+35083521|crofton, maryland|0|Error|1|2
+35083521|crofton, maryland|2806682105|Error|1|2
+35083521|crofton, maryland|168016341|Error|1|2
+35083521|crofton, maryland|23831682|Make Gumbo or Die Trying|1|2
+35083521|crofton, maryland|32587080|VA|1|2
+35083521|crofton, maryland|21198992|London,England|1|2
+35083521|crofton, maryland|14580171|Error|1|2
+35083521|crofton, maryland|454363114|Error|1|2
+35083521|crofton, maryland|0|Error|1|2
+35083521|crofton, maryland|16116288|Washington, D.C.|1|2
+35083521|crofton, maryland|16304357|New York City Area|1|2
+35083521|crofton, maryland|24425083|Error|1|2
+35083521|crofton, maryland|23619359|NYC|1|2
+35083521|crofton, maryland|17977701|ATL, GA|1|2
+35083521|crofton, maryland|0|Error|1|2
+35083521|crofton, maryland|0|Error|1|2
+35083521|crofton, maryland|0|Error|1|2
+35083521|crofton, maryland|0|Error|1|2
+35083521|crofton, maryland|144491635|Error|1|2
+35083521|crofton, maryland|22789722|Chicago|1|2
+35083521|crofton, maryland|33873713|Canada|1|2
+35083521|crofton, maryland|0|Error|1|2
+51866050|baltimore, maryland|23831682|Make Gumbo or Die Trying|8|2
+51866050|baltimore, maryland|59283767|LA|3|2
+43047848|baltimore, maryland|0|Error|2|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|21369908|Baltimore, MD|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+43047848|baltimore, maryland|0|Error|1|2
+26472704|silver spring, maryland|19678053|Albany, NY|3|2
+26472704|silver spring, maryland|7102532|Brooklyn, NY|1|2
+26472704|silver spring, maryland|0|Error|1|2
+26472704|silver spring, maryland|289300941|Error|1|2
+26472704|silver spring, maryland|0|Error|1|2
+26472704|silver spring, maryland|64256563|Error|1|2
+26472704|silver spring, maryland|304182230|Error|1|2
+26472704|silver spring, maryland|26294874|your heart3|1|2
+25869090|shady side, maryland|30971751|Error|19|2
+25869090|shady side, maryland|264036590|Error|1|2
+23725144|baltimore, maryland|370429174|Japan|1|2
+23725144|baltimore, maryland|0|Error|1|2
+23725144|baltimore, maryland|65733282|Error|1|2
+23725144|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|38071901|DADE-COUNTY|4|2
+19658914|baltimore, maryland|17719694|New York, NY|3|2
+19658914|baltimore, maryland|0|Error|2|2
+19658914|baltimore, maryland|0|Error|2|2
+19658914|baltimore, maryland|18816465|nyc + mia|2|2
+19658914|baltimore, maryland|36842527|Ripley, Tn|1|2
+19658914|baltimore, maryland|0|Error|1|2
+19658914|baltimore, maryland|891065071|twitter.com/herugin|1|2
+58885920|elkton, maryland|137843224|Error|1|2
+58885920|elkton, maryland|0|Error|1|2
+58885920|elkton, maryland|16190898|Los Angeles, CA|1|2
+58885920|elkton, maryland|0|Error|1|2
+58885920|elkton, maryland|21681809|Los Angeles|1|2
+41420063|lexington park, maryland|0|Error|6|2
+41420063|lexington park, maryland|0|Error|2|2
+41420063|lexington park, maryland|0|Error|2|2
+41420063|lexington park, maryland|0|Error|1|2
+39333264|frostburg, maryland|223597298|Error|1|2
+14209299|bowie, maryland|73393513|In the woodlands|2|2
+14209299|bowie, maryland|11348282|Error|2|2
+14209299|bowie, maryland|15179525|London, UK|1|2
+14209299|bowie, maryland|14865058|Kent, UK|1|2
+14209299|bowie, maryland|40904148|Silicon Valley|1|2
+14209299|bowie, maryland|18644011|Philly (at present)|1|2
+14209299|bowie, maryland|148318525|Error|1|2
+14209299|bowie, maryland|8764042|Toronto, Canada|1|2
+14209299|bowie, maryland|14313021|Mountain View, CA|1|2
+14209299|bowie, maryland|16400030|San Jose, CA|1|2
+14209299|bowie, maryland|11672082|Davenport, IA, USA|1|2
+14209299|bowie, maryland|2690969390|Error|1|2
+14209299|bowie, maryland|0|Error|1|2
+14209299|bowie, maryland|33802045|Error|1|2
+14209299|bowie, maryland|34442404|New York, NY|1|2
+14209299|bowie, maryland|11250652|Mountain View, CA|1|2
+14233007|greenbelt, maryland|19321908|Colorado|1|2
+14233007|greenbelt, maryland|66911323|Maryland, USA|1|2
+20544907|salisbury, maryland|54273358|Los Angeles|2|2
+20544907|salisbury, maryland|0|Error|1|2
+20544907|salisbury, maryland|20300086|Error|1|2
+20544907|salisbury, maryland|18022491|New Bern, NC|1|2
+20544907|salisbury, maryland|190688782|Lebanon|1|2
+20544907|salisbury, maryland|0|Error|1|2
+20544907|salisbury, maryland|36479025|Cleveland, OH|1|2
+20544907|salisbury, maryland|44141677|Hitchin, Herts|1|2
+20544907|salisbury, maryland|2799156973|Error|1|2
+20544907|salisbury, maryland|0|Error|1|2
+17407710|laurel, maryland|17407710|Laurel, Maryland|1|2
+17407710|laurel, maryland|38453730|Error|1|2
+17413716|baltimore, maryland|46880875|On Mars (:|2|2
+17413716|baltimore, maryland|48125750|Error|1|2
+17413716|baltimore, maryland|33438109|Error|1|2
+30014084|baltimore, maryland|1973133770|Error|6|2
+30014084|baltimore, maryland|0|Error|4|2
+30014084|baltimore, maryland|0|Error|2|2
+30014084|baltimore, maryland|242570845|Error|2|2
+30014084|baltimore, maryland|16860391|39.317538,-76.56328|2|2
+30014084|baltimore, maryland|0|Error|1|2
+30014084|baltimore, maryland|37802286|(484)938-TKIK|1|2
+30014084|baltimore, maryland|0|Error|1|2
+30014084|baltimore, maryland|442863611|Error|1|2
+30014084|baltimore, maryland|2450491459|2205 RICHMOND |1|2
+24771382|baltimore, maryland|25428094|New Jersey, USA|7|2
+24771382|baltimore, maryland|586071254|Error|6|2
+24771382|baltimore, maryland|0|Error|2|2
+24771382|baltimore, maryland|0|Error|1|2
+15355909|westminster, maryland|17275295|Error|2|2
+16408474|silver spring, maryland|3510572115|Brooklyn |1|2
+16408474|silver spring, maryland|0|Error|1|2
+16408474|silver spring, maryland|0|Error|1|2
+19562117|baltimore, maryland|327268308|Error|5|2
+19562117|baltimore, maryland|1278604470|Kingsland, Ga|3|2
+19562117|baltimore, maryland|131540752|Error|1|2
+19569939|columbia, maryland|20575584|Charm City|3|2
+19569939|columbia, maryland|21716508|portland, ore.|2|2
+19569939|columbia, maryland|14713188|Baltimore, Md|2|2
+19569939|columbia, maryland|0|Error|2|2
+19569939|columbia, maryland|0|Error|2|2
+19569939|columbia, maryland|19609161|iPhone: 39.109543,-76.789505|1|2
+19569939|columbia, maryland|0|Error|1|2
+19569939|columbia, maryland|458280064|Panem|1|2
+19569939|columbia, maryland|22854118|Utica/Brooklyn, NY|1|2
+19569939|columbia, maryland|0|Error|1|2
+19569939|columbia, maryland|14240295|Charm  City|1|2
+19569939|columbia, maryland|18129224|Dallas, TX|1|2
+19573833|baltimore, maryland|0|Error|6|2
+19573833|baltimore, maryland|26427061|Baltimore, MD|2|2
+19573833|baltimore, maryland|17208488|Boston|1|2
+43694451|ocean city, maryland|0|Error|2|2
+11829842|elkton, maryland|727547101|Hollister, Cali|2|2
+11829842|elkton, maryland|15928421|Austin, Texas |1|2
+11829842|elkton, maryland|15138818|New England|1|2
+11829842|elkton, maryland|10810102|London|1|2
+11829842|elkton, maryland|14307648|Error|1|2
+11829842|elkton, maryland|39684502|San Francisco|1|2
+11829842|elkton, maryland|41695105|Error|1|2
+11829842|elkton, maryland|27706099|Baltimore, MD|1|2
+11829842|elkton, maryland|50205873|Los Angeles, CA|1|2
+11829842|elkton, maryland|38271817|Tennessee|1|2
+11829842|elkton, maryland|45319733|Error|1|2
+11829842|elkton, maryland|0|Error|1|2
+11829842|elkton, maryland|10798802|boston/upstate NY/oz/the road|1|2
+11829842|elkton, maryland|25781485|Chesapeake Bay Area|1|2
+11829842|elkton, maryland|18345890|Australia|1|2
+11829842|elkton, maryland|37750131|Hawaii|1|2
+11829842|elkton, maryland|19397785|Error|1|2
+11829842|elkton, maryland|0|Error|1|2
+11829842|elkton, maryland|18686161|Error|1|2
+11829842|elkton, maryland|11439162|Atlanta by way of KCMO|1|2
+11829842|elkton, maryland|0|Error|1|2
+11829842|elkton, maryland|2210417892|Error|1|2
+11829842|elkton, maryland|48320157|Error|1|2
+11829842|elkton, maryland|275135704|Error|1|2
+11829842|elkton, maryland|1398392834|Error|1|2
+11829842|elkton, maryland|57391897|Literature|1|2
+11829842|elkton, maryland|1239671|Hollywood, CA|1|2
+11829842|elkton, maryland|550930326|Error|1|2
+11829842|elkton, maryland|0|Error|1|2
+11829842|elkton, maryland|0|Error|1|2
+11829842|elkton, maryland|710236089|Error|1|2
+11829842|elkton, maryland|0|Error|1|2
+11829842|elkton, maryland|0|Error|1|2
+11829842|elkton, maryland|21685887|USA|1|2
+11829842|elkton, maryland|52525702|Error|1|2
+11829842|elkton, maryland|18393773|a bit all over the place|1|2
+11829842|elkton, maryland|36528126|Hollywood|1|2
+11829842|elkton, maryland|15227791|Los Angeles, CA|1|2
+11829842|elkton, maryland|46886999|Oklahoma City|1|2
+11829842|elkton, maryland|759003|Shepherdstown, West Virginia|1|2
+11829842|elkton, maryland|14886641|Atlanta, Georgia|1|2
+11829842|elkton, maryland|23567569|Error|1|2
+11829842|elkton, maryland|24447643|Earth|1|2
+11829842|elkton, maryland|5557042|new mexico, usa|1|2
+11829842|elkton, maryland|0|Error|1|2
+11829842|elkton, maryland|22461427|Los Angeles|1|2
+11829842|elkton, maryland|17620362|38.33 n 82.93 w|1|2
+11829842|elkton, maryland|0|Error|1|2
+11829842|elkton, maryland|29863027|Kingston Falls|1|2
+11829842|elkton, maryland|21930244|Las Vegas|1|2
+11829842|elkton, maryland|19058681|Los Angeles, California|1|2
+11829842|elkton, maryland|14335262|Minnesota|1|2
+11829842|elkton, maryland|43153070|England|1|2
+11829842|elkton, maryland|82505838|Corvallis, Oregon, USA|1|2
+11829842|elkton, maryland|17708581|Error|1|2
+11829842|elkton, maryland|15846407|California|1|2
+11829842|elkton, maryland|1171774116|Error|1|2
+11829842|elkton, maryland|29849413|South Carolina, USA|1|2
+11829842|elkton, maryland|16636209|Error|1|2
+11829842|elkton, maryland|34192959|I am here |1|2
+11829842|elkton, maryland|0|Error|1|2
+20647853|baltimore, maryland|431715962|Milwaukee|3|2
+20647853|baltimore, maryland|25944064|Error|2|2
+20647853|baltimore, maryland|28020350|in ur dreams |1|2
+20647853|baltimore, maryland|16508127|On The Radio|1|2
+20647853|baltimore, maryland|0|Error|1|2
+20647853|baltimore, maryland|0|Error|1|2
+20647853|baltimore, maryland|0|Error|1|2
+20647853|baltimore, maryland|0|Error|1|2
+20647853|baltimore, maryland|25533940|Atlanta, GA 30344|1|2
+16453614|baltimore, maryland|17492541|Ellicott City, MD |2|2
+16453614|baltimore, maryland|0|Error|2|2
+16453614|baltimore, maryland|21336428|Baltimore|2|2
+16453614|baltimore, maryland|19116043|Washington, DC|1|2
+16453614|baltimore, maryland|21171222|DC/MD|1|2
+16453614|baltimore, maryland|0|Error|1|2
+17502915|baltimore, maryland|0|Error|10|2
+17502915|baltimore, maryland|0|Error|1|2
+17502915|baltimore, maryland|13790282|Your Computer, USA|1|2
+17502915|baltimore, maryland|0|Error|1|2
+17502915|baltimore, maryland|0|Error|1|2
+17502915|baltimore, maryland|18378446|Baltimore, MD|1|2
+17502915|baltimore, maryland|0|Error|1|2
+23795508|waldorf, maryland|171317482|Error|5|2
+23795508|waldorf, maryland|22485157|Error|2|2
+23795508|waldorf, maryland|181851585|San Francisco|1|2
+23795508|waldorf, maryland|0|Error|1|2
+23795508|waldorf, maryland|112600958|Everywhere|1|2
+23795508|waldorf, maryland|19397785|Error|1|2
+23795508|waldorf, maryland|19571299|Error|1|2
+23795508|waldorf, maryland|22064080|Error|1|2
+23795508|waldorf, maryland|0|Error|1|2
+23795508|waldorf, maryland|23502877|houston,tx|1|2
+23795508|waldorf, maryland|775866464|Error|1|2
+23795508|waldorf, maryland|21324258|Katonah, NY|1|2
+31152367|baltimore, maryland|0|Error|4|2
+31152367|baltimore, maryland|0|Error|3|2
+31152367|baltimore, maryland|2453391038|Error|2|2
+31152367|baltimore, maryland|0|Error|2|2
+31152367|baltimore, maryland|0|Error|1|2
+31152367|baltimore, maryland|0|Error|1|2
+31152367|baltimore, maryland|14527106|Washington, DC|1|2
+31152367|baltimore, maryland|23033641|Baltimore, Maryland|1|2
+16526591|annapolis, maryland|17058969|North Bethesda, MD |2|2
+16526591|annapolis, maryland|35828235|Maryland|1|2
+16526591|annapolis, maryland|20261503|San Francisco|1|2
+16526591|annapolis, maryland|35263439|Annapolis MD|1|2
+21286600|baltimore, maryland|24906998|Kansas City |4|2
+21286600|baltimore, maryland|5988062|London|2|2
+21286600|baltimore, maryland|49226992|USA|1|2
+21286600|baltimore, maryland|0|Error|1|2
+21286600|baltimore, maryland|41648873|46 Locations Worldwide|1|2
+21286600|baltimore, maryland|0|Error|1|2
+21286600|baltimore, maryland|67941146|Baltimore, MD|1|2
+21286600|baltimore, maryland|22921969|UK|1|2
+21286600|baltimore, maryland|0|Error|1|2
+21286600|baltimore, maryland|0|Error|1|2
+21286600|baltimore, maryland|12711122|Orlando, Florida USA|1|2
+21286600|baltimore, maryland|73404902|East Coast, USA |1|2
+21286600|baltimore, maryland|0|Error|1|2
+76346570|salisbury, maryland|15012486|New York, NY|2|2
+76346570|salisbury, maryland|819800|San Francisco, CA|1|2
+76346570|salisbury, maryland|0|Error|1|2
+76346570|salisbury, maryland|18995389|Baltimore, Maryland|1|2
+76346570|salisbury, maryland|8861752|Baltimore, Maryland|1|2
+76346570|salisbury, maryland|16129880|College Park, MD|1|2
+76346570|salisbury, maryland|0|Error|1|2
+76346570|salisbury, maryland|727310731|College Park, MD|1|2
+76346570|salisbury, maryland|21415216|Ocean City, Maryland|1|2
+76346570|salisbury, maryland|20480396|Southern Delaware|1|2
+76346570|salisbury, maryland|16369343|Las Vegas|1|2
+21832927|baltimore, maryland|347579249|Error|3|2
+21832927|baltimore, maryland|30610453|NY, NY|2|2
+21832927|baltimore, maryland|288308424|Amsterdam|1|2
+21832927|baltimore, maryland|0|Error|1|2
+21832927|baltimore, maryland|0|Error|1|2
+21832927|baltimore, maryland|0|Error|1|2
+21832927|baltimore, maryland|25747410|Maryland|1|2
+21832927|baltimore, maryland|21559431|Finland|1|2
+14500735|bel air, maryland|21169406|Brooklyn, NY|3|2
+14500735|bel air, maryland|2202014756|Error|1|2
+14500735|bel air, maryland|0|Error|1|2
+14500735|bel air, maryland|268414482|@happyhippiefdn|1|2
+14500735|bel air, maryland|950341560|Error|1|2
+14500735|bel air, maryland|0|Error|1|2
+14500735|bel air, maryland|2998545969|Tula
+, Russia|1|2
+14500735|bel air, maryland|21519204|your worst nightmares |1|2
+17667594|frederick, maryland|61005232|Frederick, MD, USA|1|2
+36543524|columbia, maryland|251336793|Error|2|2
+36543524|columbia, maryland|54394721|Germany |2|2
+36543524|columbia, maryland|333918727|Error|2|2
+36543524|columbia, maryland|3330614326|Error|1|2
+36543524|columbia, maryland|0|Error|1|2
+36543524|columbia, maryland|0|Error|1|2
+19781045|baltimore, maryland|21044126|Los Angeles|4|2
+19781045|baltimore, maryland|29344169|Behind a Disused Railway Line|2|2
+19781045|baltimore, maryland|0|Error|2|2
+19781045|baltimore, maryland|3343986753|Error|1|2
+22932921|baltimore, maryland|3028523573|Error|1|2
+55442876|baltimore, maryland|45085003|Oklahoma City |9|2
+55442876|baltimore, maryland|0|Error|3|2
+55442876|baltimore, maryland|17476141|Error|2|2
+55442876|baltimore, maryland|285024449|Error|2|2
+55442876|baltimore, maryland|0|Error|1|2
+55442876|baltimore, maryland|0|Error|1|2
+55442876|baltimore, maryland|22987636|East Coast|1|2
+24001170|baltimore, maryland|19032706|Los Angeles, CA|3|2
+24001170|baltimore, maryland|14590880|Seattle, WA|2|2
+24001170|baltimore, maryland|21507883|New Delhi, India|2|2
+24001170|baltimore, maryland|546061333|Error|2|2
+24001170|baltimore, maryland|11922692|New York, New York|1|2
+24001170|baltimore, maryland|15985159|NYC|1|2
+24001170|baltimore, maryland|0|Error|1|2
+24001170|baltimore, maryland|34045094|New York City|1|2
+24001170|baltimore, maryland|8855492|Elberton, GA|1|2
+24001170|baltimore, maryland|0|Error|1|2
+24001170|baltimore, maryland|0|Error|1|2
+24001170|baltimore, maryland|83434920|Error|1|2
+24001170|baltimore, maryland|19088365|Nationwide|1|2
+24001170|baltimore, maryland|1243574504|Error|1|2
+24001170|baltimore, maryland|516428597|ANGAMALY |1|2
+24001170|baltimore, maryland|21124839|Facebook: https://www.facebook|1|2
+24001170|baltimore, maryland|15839517|Fort Lee, NJ USA|1|2
+56429949|baltimore, maryland|19410179|Everywhere, Now|2|2
+56429949|baltimore, maryland|0|Error|2|2
+56429949|baltimore, maryland|21035409|#firstclass |1|2
+56429949|baltimore, maryland|37338814| Hollywood, CA|1|2
+16697784|bowie, maryland|4048344851|Error|2|2
+16697784|bowie, maryland|0|Error|2|2
+16697784|bowie, maryland|0|Error|1|2
+16697784|bowie, maryland|16734249|California|1|2
+16697784|bowie, maryland|18162006|Gulf Coast Texas|1|2
+16697784|bowie, maryland|8453452|Silicon Valley, California|1|2
+16697784|bowie, maryland|22064080|Error|1|2
+16697784|bowie, maryland|0|Error|1|2
+16697784|bowie, maryland|0|Error|1|2
+26135291|baltimore, maryland|146578540|Brasil campinas |3|2
+26135291|baltimore, maryland|1252735842|san pedro, CA|1|2
+26135291|baltimore, maryland|0|Error|1|2
+14601453|laurel, maryland|20498604|Error|3|2
+14601453|laurel, maryland|17781599|Maryland|3|2
+14601453|laurel, maryland|0|Error|2|2
+14601453|laurel, maryland|634217272|Error|2|2
+14601453|laurel, maryland|16536358|Live: GON - Work: SYR|1|2
+74400205|baltimore, maryland|14230524|Error|1|2
+29312090|baltimore, maryland|1010486588|Error|6|2
+29312090|baltimore, maryland|0|Error|2|2
+29312090|baltimore, maryland|408387560|Error|2|2
+29312090|baltimore, maryland|1589228210|Art |1|2
+29312090|baltimore, maryland|47103423|ON A G6...HIGH IN THE SKY|1|2
+29312090|baltimore, maryland|2371812552|Error|1|2
+29312090|baltimore, maryland|0|Error|1|2
+29312090|baltimore, maryland|0|Error|1|2
+23033641|baltimore, maryland|25546213|Baltimore, MD|7|2
+23033641|baltimore, maryland|26278936|My world|4|2
+23033641|baltimore, maryland|14527106|Washington, DC|4|2
+23033641|baltimore, maryland|23033641|Baltimore, Maryland|3|2
+23033641|baltimore, maryland|0|Error|2|2
+23033641|baltimore, maryland|3188348463|Error|2|2
+23033641|baltimore, maryland|45287677|~City Filled Wit Animals~|2|2
+23033641|baltimore, maryland|23071819|Imported From Baltimore |2|2
+23033641|baltimore, maryland|23031923|Daydreaming about the shore|2|2
+23033641|baltimore, maryland|25950600|DMV|2|2
+23033641|baltimore, maryland|2453391038|Error|1|2
+23033641|baltimore, maryland|0|Error|1|2
+23033641|baltimore, maryland|0|Error|1|2
+23033641|baltimore, maryland|0|Error|1|2

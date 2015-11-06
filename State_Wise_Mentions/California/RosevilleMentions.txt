@@ -1,0 +1,443 @@
+15732369|roseville, ca|19793647|Henryetta, Oklahoma|1|2
+15732369|roseville, ca|16091723|Memphis, TN|1|2
+59904611|roseville, california|0|Error|1|2
+59904611|roseville, california|0|Error|1|2
+13261092|roseville, ca|1401991|Error|5|2
+13261092|roseville, ca|55117397|Providence, RI|5|2
+13261092|roseville, ca|18338433|Silicon Valley, CA|3|2
+13261092|roseville, ca|9766612|Error|2|2
+13261092|roseville, ca|816653|San Francisco, CA|2|2
+13261092|roseville, ca|0|Error|2|2
+13261092|roseville, ca|3350440571|Error|2|2
+13261092|roseville, ca|19273104|Silicon Valley|2|2
+13261092|roseville, ca|0|Error|1|2
+13261092|roseville, ca|1167637344|USA | Europe | Australia|1|2
+13261092|roseville, ca|0|Error|1|2
+13261092|roseville, ca|13261092|Las Vegas, NV|1|2
+13261092|roseville, ca|45416025|Sacramento, CA|1|2
+13261092|roseville, ca|18044341|Twitter HQ|1|2
+13261092|roseville, ca|35665447|Sacramento, CA|1|2
+13261092|roseville, ca|0|Error|1|2
+13261092|roseville, ca|804844|jakarta, indonesia|1|2
+13261092|roseville, ca|740983|San Francisco|1|2
+13261092|roseville, ca|0|Error|1|2
+13261092|roseville, ca|833071|Palo Alto, California|1|2
+13261092|roseville, ca|1081|Silicon Valley, CA|1|2
+13261092|roseville, ca|0|Error|1|2
+13261092|roseville, ca|14399471|Berkeley, CA|1|2
+13261092|roseville, ca|5029791|sf|1|2
+13261092|roseville, ca|8093542|Sydney, Australia|1|2
+13261092|roseville, ca|0|Error|1|2
+43005293|roseville, ca|0|Error|2|2
+43005293|roseville, ca|0|Error|2|2
+43005293|roseville, ca|27111862|Error|2|2
+43005293|roseville, ca|0|Error|2|2
+43005293|roseville, ca|0|Error|2|2
+43005293|roseville, ca|0|Error|2|2
+43005293|roseville, ca|0|Error|1|2
+43005293|roseville, ca|0|Error|1|2
+43005293|roseville, ca|0|Error|1|2
+43005293|roseville, ca|0|Error|1|2
+43005293|roseville, ca|14789031|Canada|1|2
+43005293|roseville, ca|0|Error|1|2
+43005293|roseville, ca|0|Error|1|2
+43005293|roseville, ca|0|Error|1|2
+43005293|roseville, ca|0|Error|1|2
+43005293|roseville, ca|36902944|NC USA|1|2
+43005293|roseville, ca|65487550|In the Basement|1|2
+43005293|roseville, ca|0|Error|1|2
+43005293|roseville, ca|22234257|Dallas Texas|1|2
+43005293|roseville, ca|0|Error|1|2
+43005293|roseville, ca|0|Error|1|2
+43005293|roseville, ca|14497001|London, England|1|2
+43005293|roseville, ca|2537372496|Error|1|2
+19022446|roseville, ca|16467958|Sacramento, CA|2|2
+19022446|roseville, ca|17359146|Charlottesville, VA|2|2
+19022446|roseville, ca|17429831|Sacramento|1|2
+19022446|roseville, ca|18304406|Global|1|2
+19022446|roseville, ca|12256102|iPhone: 33.960392,-118.378544|1|2
+19022446|roseville, ca|0|Error|1|2
+19022446|roseville, ca|0|Error|1|2
+19022446|roseville, ca|19884695|Florida-Illinois|1|2
+19022446|roseville, ca|119236324|Error|1|2
+19022446|roseville, ca|17672362|Singapore|1|2
+19022446|roseville, ca|64455536|Sacramento, CA|1|2
+19022446|roseville, ca|0|Error|1|2
+19022446|roseville, ca|62643154|Anywhere. Everywhere. Here.|1|2
+19022446|roseville, ca|43850788|Error|1|2
+19022446|roseville, ca|40630907|Error|1|2
+19022446|roseville, ca|18339068|Denver, CO|1|2
+19022446|roseville, ca|53105913|Sacramento to the Sierra|1|2
+15992295|roseville, ca|3853723342|Error|2|2
+15992295|roseville, ca|0|Error|2|2
+15992295|roseville, ca|14663496|New York|2|2
+15992295|roseville, ca|15291293|Capitol Region, NY|2|2
+15992295|roseville, ca|11407882|Cary, NC|1|2
+15992295|roseville, ca|15829696|San Marcos|1|2
+15992295|roseville, ca|0|Error|1|2
+15992295|roseville, ca|2955757063|Error|1|2
+15992295|roseville, ca|86091486|Singapore|1|2
+15992295|roseville, ca|47734583|Los Angeles, CA|1|2
+15992295|roseville, ca|1328941|Salt Lake City, Utah|1|2
+15992295|roseville, ca|0|Error|1|2
+15992295|roseville, ca|15678933|San Francisco, CA, USA|1|2
+15992295|roseville, ca|12699852|Error|1|2
+15992295|roseville, ca|18744787|West Midlands, UK|1|2
+15992295|roseville, ca|0|Error|1|2
+15992295|roseville, ca|29837144|Error|1|2
+15992295|roseville, ca|18136234|UK |1|2
+15992295|roseville, ca|94564706|Littleborough|1|2
+15992295|roseville, ca|33575373|New York #NY|1|2
+15992295|roseville, ca|67357652|New York|1|2
+15992295|roseville, ca|0|Error|1|2
+15992295|roseville, ca|0|Error|1|2
+15992295|roseville, ca|0|Error|1|2
+15992295|roseville, ca|0|Error|1|2
+15992295|roseville, ca|51222696|Bonn, Germany|1|2
+15992295|roseville, ca|15912926|Pittsburgh, PA|1|2
+15992295|roseville, ca|0|Error|1|2
+15992295|roseville, ca|0|Error|1|2
+15992295|roseville, ca|15992295|Roseville, CA|1|2
+15992295|roseville, ca|0|Error|1|2
+15992295|roseville, ca|23832022|Worldwide |1|2
+26899396|roseville, ca|1621934078|Error|1|2
+16551746|roseville, ca|0|Error|3|2
+16551746|roseville, ca|705767282|Error|3|2
+16551746|roseville, ca|0|Error|2|2
+16551746|roseville, ca|2166029491|Error|2|2
+16551746|roseville, ca|0|Error|1|2
+16551746|roseville, ca|30742835|Lake Wales,FL|1|2
+16551746|roseville, ca|18232204|Vancouver, BC|1|2
+16551746|roseville, ca|46092274|Error|1|2
+16551746|roseville, ca|29856819|Scottsdale, Arizona, USA|1|2
+16551746|roseville, ca|76146295|New Haven, Ct.|1|2
+16551746|roseville, ca|0|Error|1|2
+16551746|roseville, ca|14994796|Southern California|1|2
+16551746|roseville, ca|0|Error|1|2
+16551746|roseville, ca|79718796|Error|1|2
+16551746|roseville, ca|173356564|Texas|1|2
+16551746|roseville, ca|37120339|Westport, MA|1|2
+16551746|roseville, ca|394927894|Bristol|1|2
+16551746|roseville, ca|0|Error|1|2
+16551746|roseville, ca|0|Error|1|2
+16551746|roseville, ca|0|Error|1|2
+16551746|roseville, ca|0|Error|1|2
+16551746|roseville, ca|0|Error|1|2
+16551746|roseville, ca|0|Error|1|2
+16551746|roseville, ca|339936599|Error|1|2
+16551746|roseville, ca|15063178|Tamil Nadu, India|1|2
+16551746|roseville, ca|0|Error|1|2
+16551746|roseville, ca|41290911|Oak Ridge NC|1|2
+37009711|roseville, ca|2307776510|Error|3|2
+37009711|roseville, ca|25262272|Uetze / Germany|3|2
+37009711|roseville, ca|139020260|ROmania |2|2
+37009711|roseville, ca|16723757|Bay Area, California|1|2
+37009711|roseville, ca|16616494|Ploiesti, Romania|1|2
+37009711|roseville, ca|0|Error|1|2
+37009711|roseville, ca|7144422|Error|1|2
+37009711|roseville, ca|0|Error|1|2
+37009711|roseville, ca|62800151|Tampa Bay|1|2
+37009711|roseville, ca|20664195|London|1|2
+37009711|roseville, ca|0|Error|1|2
+37009711|roseville, ca|7457322|London|1|2
+37009711|roseville, ca|46649937|norfolk UK|1|2
+15476306|roseville, ca|521313214|harrogate|7|2
+15476306|roseville, ca|17003604|Los Angeles, California|1|2
+15476306|roseville, ca|15811454|Las Vegas, NV|1|2
+15476306|roseville, ca|0|Error|1|2
+15476306|roseville, ca|96474229|Error|1|2
+15476306|roseville, ca|29509446|New York|1|2
+15476306|roseville, ca|14960857|Toronto |1|2
+15476306|roseville, ca|2194806312|Error|1|2
+15476306|roseville, ca|28247908|Las Vegas, NV|1|2
+15476306|roseville, ca|0|Error|1|2
+15476306|roseville, ca|22200496|USA|1|2
+15476306|roseville, ca|17176054|York, PA|1|2
+15476306|roseville, ca|14046730|Culver City, CA. 310-202-1610|1|2
+17765626|roseville, ca|0|Error|6|2
+17765626|roseville, ca|40422385|Sacramento|4|2
+17765626|roseville, ca|14151318|Hell-A ok?|4|2
+17765626|roseville, ca|20745104|Oregon, United States|2|2
+17765626|roseville, ca|0|Error|2|2
+17765626|roseville, ca|17687383|Error|1|2
+17765626|roseville, ca|14389658|8123|1|2
+17765626|roseville, ca|30202898|Error|1|2
+19203332|roseville, california|26255541|Folsom / Sacramento, CA|5|2
+19203332|roseville, california|15588657|Global|2|2
+19203332|roseville, california|18512632|Sacramento, California|1|2
+16846221|roseville, california|408651200|she/her|9|2
+16846221|roseville, california|66797868|Error|4|2
+16846221|roseville, california|17682305|New York|3|2
+16846221|roseville, california|15987188|Davis, CA|2|2
+16846221|roseville, california|14749084|Vancouver|1|2
+16846221|roseville, california|0|Error|1|2
+16846221|roseville, california|91445576|Colorado|1|2
+16846221|roseville, california|77244043|St. Louis, MO|1|2
+16846221|roseville, california|5778852|NYC|1|2
+16846221|roseville, california|55373009|Davis, CA|1|2
+16846221|roseville, california|8856442|California|1|2
+16846221|roseville, california|0|Error|1|2
+16846221|roseville, california|0|Error|1|2
+16846221|roseville, california|0|Error|1|2
+11349972|roseville, ca|14080265|#Seattle - #Snohomish WA State|2|2
+11349972|roseville, ca|2557521|Bristol, CT|1|2
+11349972|roseville, ca|0|Error|1|2
+11349972|roseville, ca|14873524|SLC UT (Don't judge me)|1|2
+11349972|roseville, ca|33626956|Sacramento, CA|1|2
+11349972|roseville, ca|39439294|Sacramento, CA|1|2
+11349972|roseville, ca|620738514|Los Angeles |1|2
+11349972|roseville, ca|286336678|Canada|1|2
+11349972|roseville, ca|27328460|Sacramento|1|2
+11349972|roseville, ca|0|Error|1|2
+11349972|roseville, ca|9690012|iPhone: 39.518032,-119.813146|1|2
+11349972|roseville, ca|26264058|Error|1|2
+11349972|roseville, ca|22708540|Sacramento, CA|1|2
+11349972|roseville, ca|0|Error|1|2
+11349972|roseville, ca|40756537|Error|1|2
+11349972|roseville, ca|0|Error|1|2
+11349972|roseville, ca|11349972|Roseville, CA|1|2
+11349972|roseville, ca|1018229635|Amsterdam|1|2
+11349972|roseville, ca|69753299|Miami Beach|1|2
+11349972|roseville, ca|0|Error|1|2
+11349972|roseville, ca|20412795|Sacramento, California |1|2
+11349972|roseville, ca|26830440|Sacramento, CA|1|2
+20603448|roseville, ca|43815905|Los |6|2
+20603448|roseville, ca|0|Error|5|2
+20603448|roseville, ca|24354391|Error|4|2
+20603448|roseville, ca|264036590|Error|3|2
+20603448|roseville, ca|183127601|Error|2|2
+20603448|roseville, ca|82028799|Error|2|2
+20603448|roseville, ca|2542752633|Error|1|2
+20603448|roseville, ca|12391082|Error|1|2
+20603448|roseville, ca|26575052|The City|1|2
+20603448|roseville, ca|21254264|Los Angeles, CA|1|2
+20603448|roseville, ca|16050554|Houston, Texas|1|2
+20603448|roseville, ca|2193455557|Error|1|2
+20603448|roseville, ca|19303056|Miss Universe Guam|1|2
+20603448|roseville, ca|51263592|New York|1|2
+18193270|roseville, ca|18193270|Roseville, CA|9|2
+18193270|roseville, ca|19047388|San Francisco, CA|5|2
+18193270|roseville, ca|2800160078|Error|3|2
+18193270|roseville, ca|27473244|Error|1|2
+18193270|roseville, ca|0|Error|1|2
+18193270|roseville, ca|15483612|Tampa|1|2
+18193270|roseville, ca|3221916294|Error|1|2
+18193270|roseville, ca|48773649|Error|1|2
+18193270|roseville, ca|28432534|Southern California|1|2
+18193270|roseville, ca|18588431|Sacramento, CA|1|2
+18193270|roseville, ca|32536688|St. Pete Beach, FL|1|2
+18193270|roseville, ca|14411493|everywhere, all at once|1|2
+18193270|roseville, ca|972651|Error|1|2
+18193270|roseville, ca|56453223|New Haven, CT|1|2
+18193270|roseville, ca|58585797|Error|1|2
+18193270|roseville, ca|661703|Minneapolis, MN|1|2
+18193270|roseville, ca|31342578|Dinuba/Oakland|1|2
+18193270|roseville, ca|0|Error|1|2
+18193270|roseville, ca|43383664|St. Louis, Missouri|1|2
+18193270|roseville, ca|35238627|Austin|1|2
+18193270|roseville, ca|23458265|Tampa, FL|1|2
+16554602|roseville, ca|32885516|Error|1|2
+48887913|roseville, ca|18512632|Sacramento, California|5|2
+48887913|roseville, ca|17314138|Washington, USA|4|2
+48887913|roseville, ca|557245626|Error|1|2
+48887913|roseville, ca|0|Error|1|2
+48887913|roseville, ca|0|Error|1|2
+29470884|roseville, ca|13097772|Roseville, CA|13|2
+29470884|roseville, ca|30037412|Sacramento, CA|8|2
+29470884|roseville, ca|37226273|Sacramento, CA|6|2
+29470884|roseville, ca|1125071|Mostly Mountain View, CA|1|2
+36381965|roseville, ca|18345112|Auburn, California|2|2
+36381965|roseville, ca|16014883|Sacramento|1|2
+36381965|roseville, ca|37763479|Silicon Valley, California|1|2
+36381965|roseville, ca|29476669|Roseville, CA|1|2
+36381965|roseville, ca|0|Error|1|2
+15841258|roseville, ca|0|Error|3|2
+15841258|roseville, ca|15227943|Bronx, New York / NY|3|2
+15841258|roseville, ca|31251832|San Diego, CA|2|2
+15841258|roseville, ca|8406512|San Diego|2|2
+15841258|roseville, ca|375285353|Error|2|2
+15841258|roseville, ca|15184487|Zephyr Cove, Nevada|1|2
+15841258|roseville, ca|85927183|#Motivation #Clarity|1|2
+15841258|roseville, ca|16115127|Orange County, CA|1|2
+15841258|roseville, ca|14465139|Minnesota, USA|1|2
+15841258|roseville, ca|41922343|iPhone: 41.040460,28.997598|1|2
+15841258|roseville, ca|14635419|LI, NY|1|2
+15841258|roseville, ca|17919248|Los Angeles CA|1|2
+15841258|roseville, ca|14212711|Washington, DC|1|2
+15841258|roseville, ca|15635858|Southern California|1|2
+15841258|roseville, ca|525719881|Error|1|2
+15841258|roseville, ca|79872803|San Diego, CA|1|2
+15841258|roseville, ca|18775376|Atlanta, GA|1|2
+15841258|roseville, ca|13879762|New York, NY|1|2
+13097772|roseville, ca|18061832|Austin, TX|5|2
+13097772|roseville, ca|29470884|Roseville, CA|2|2
+13097772|roseville, ca|30037412|Sacramento, CA|2|2
+13097772|roseville, ca|15902067|Palo Alto|2|2
+13097772|roseville, ca|37226273|Sacramento, CA|2|2
+13097772|roseville, ca|11883132|San Francisco|2|2
+13097772|roseville, ca|14998285|Nashville, TN|1|2
+13097772|roseville, ca|72845274|Miami, FL |1|2
+13097772|roseville, ca|17564512|Plano, Texas|1|2
+13097772|roseville, ca|87756295|New York|1|2
+13097772|roseville, ca|36101281|Los Angeles, CA|1|2
+13097772|roseville, ca|0|Error|1|2
+13097772|roseville, ca|84350355|Chile|1|2
+13097772|roseville, ca|22021200|United States|1|2
+13097772|roseville, ca|19808320|Error|1|2
+13097772|roseville, ca|46466812|NYC|1|2
+13097772|roseville, ca|82739664|Singapore|1|2
+48882644|roseville, ca|0|Error|3|2
+48882644|roseville, ca|0|Error|3|2
+48882644|roseville, ca|0|Error|3|2
+48882644|roseville, ca|0|Error|2|2
+48882644|roseville, ca|0|Error|2|2
+48882644|roseville, ca|0|Error|2|2
+48882644|roseville, ca|0|Error|2|2
+48882644|roseville, ca|0|Error|1|2
+48882644|roseville, ca|591994412|Topeka, KS|1|2
+48882644|roseville, ca|0|Error|1|2
+48882644|roseville, ca|71389099|North Carolina|1|2
+48882644|roseville, ca|23724062|Error|1|2
+48882644|roseville, ca|0|Error|1|2
+48882644|roseville, ca|1364630323|Orlando, FL|1|2
+48882644|roseville, ca|88034374|Sacramento|1|2
+48882644|roseville, ca|832448845|Error|1|2
+48882644|roseville, ca|22450947|Charlotte,NC|1|2
+22275789|roseville, ca|18040544|Alberta, Canada|1|2
+22275789|roseville, ca|130631220|Ojai, California USA|1|2
+22275789|roseville, ca|46952049|San Diego, CA, USA|1|2
+22275789|roseville, ca|33313784|Texas|1|2
+22275789|roseville, ca|1713682386|Error|1|2
+22275789|roseville, ca|20945812|New York|1|2
+22275789|roseville, ca|0|Error|1|2
+22275789|roseville, ca|80293586|Error|1|2
+22275789|roseville, ca|0|Error|1|2
+31605246|roseville, ca|20188930|Los Angeles, CA|3|2
+31605246|roseville, ca|19604744|California|2|2
+31605246|roseville, ca|19748674|California|2|2
+31605246|roseville, ca|295040065|Sunnyvale, CA|1|2
+31605246|roseville, ca|378157562|Error|1|2
+31605246|roseville, ca|0|Error|1|2
+24291065|roseville, california|0|Error|1|2
+24291065|roseville, california|15790762|Washington, DC | San Salvador |1|2
+74662254|roseville, california|2375727792|Error|1|2
+74662254|roseville, california|2538732676|Scotland|1|2
+15942549|roseville, ca|0|Error|3|2
+15942549|roseville, ca|0|Error|2|2
+15942549|roseville, ca|34655751|Sacramento, CA|2|2
+15942549|roseville, ca|53206319|Sacramento, CA|2|2
+15942549|roseville, ca|14390463|California|1|2
+15942549|roseville, ca|0|Error|1|2
+15942549|roseville, ca|0|Error|1|2
+15942549|roseville, ca|15312744|Granite Bay, CA|1|2
+15942549|roseville, ca|35005192|Error|1|2
+15942549|roseville, ca|0|Error|1|2
+15942549|roseville, ca|138555051|Error|1|2
+15942549|roseville, ca|29476669|Roseville, CA|1|2
+17028230|roseville, ca|17029467|Portland, OR|2|2
+27978249|roseville, california|61022104|Sacramento CA|1|2
+16063238|roseville, ca|0|Error|3|2
+16063238|roseville, ca|16008020|Sacramento, CA (Roseville)|2|2
+16063238|roseville, ca|14152361|indianapolis, in|1|2
+16063238|roseville, ca|15712406|Probably doing Laundry|1|2
+16063238|roseville, ca|0|Error|1|2
+16063238|roseville, ca|14661729|dfw|1|2
+16063238|roseville, ca|15357815|((somewhere in america))|1|2
+16063238|roseville, ca|21056271|Cupertino, CA|1|2
+14234689|roseville, ca|16295357|Orlando, Florida|3|2
+14234689|roseville, ca|257763905|Error|2|2
+14234689|roseville, ca|17215802|Across 30+ countries|2|2
+14234689|roseville, ca|18993161|Dallas TX|2|2
+14234689|roseville, ca|18460854|Kansas City, MO|2|2
+14234689|roseville, ca|18570358|Dallas, TX|2|2
+14234689|roseville, ca|1469908344|Riverview, NB|1|2
+14234689|roseville, ca|14911286|Broomfield, Colorado|1|2
+14234689|roseville, ca|0|Error|1|2
+14234689|roseville, ca|0|Error|1|2
+14234689|roseville, ca|18861102|Ponet Drive|1|2
+14234689|roseville, ca|16002563|Denver, Colorado|1|2
+14234689|roseville, ca|17401289|Sydney, Tonga, New Zealand|1|2
+14234689|roseville, ca|14675012|San Francisco, California, USA|1|2
+14234689|roseville, ca|2798360503|Error|1|2
+14234689|roseville, ca|0|Error|1|2
+14234689|roseville, ca|15663833|Sacramento, CA|1|2
+14234689|roseville, ca|19915481|Error|1|2
+14234689|roseville, ca|0|Error|1|2
+14234689|roseville, ca|14420238|Alaska and Arizona|1|2
+14234689|roseville, ca|3107997991|Error|1|2
+14234689|roseville, ca|14056454|Sonoma, CA|1|2
+14234689|roseville, ca|41261875|Roseville, CA|1|2
+16008020|roseville, ca|16063238|Roseville, CA|3|2
+16008020|roseville, ca|14234689|Roseville, CA|2|2
+16008020|roseville, ca|14152361|indianapolis, in|2|2
+16008020|roseville, ca|9136512|idyllwild, ca|1|2
+16008020|roseville, ca|11861062|Sacramento|1|2
+16008020|roseville, ca|14401760|Error|1|2
+16008020|roseville, ca|8740642|Austin, Texas!|1|2
+16008020|roseville, ca|0|Error|1|2
+16008020|roseville, ca|16425668|Sacramento|1|2
+16008020|roseville, ca|32934795|ABC|1|2
+16008020|roseville, ca|537933471|Error|1|2
+16008020|roseville, ca|23832022|Worldwide |1|2
+16478316|roseville, ca|129653637|Error|3|2
+16478316|roseville, ca|22282089|Dublin, CA|2|2
+16478316|roseville, ca|16355571|Far from perfect|2|2
+16478316|roseville, ca|17383087|Monrovia , CA|2|2
+16478316|roseville, ca|14355436|Los Angeles, CA|1|2
+16478316|roseville, ca|0|Error|1|2
+16478316|roseville, ca|1300592480|Error|1|2
+16478316|roseville, ca|10355|Bay Area, California|1|2
+16478316|roseville, ca|31555294|Sacramento|1|2
+16478316|roseville, ca|4103736434|Error|1|2
+16478316|roseville, ca|0|Error|1|2
+16478316|roseville, ca|53809143|Edmonton|1|2
+16478316|roseville, ca|24648846|los angeles | sacramento|1|2
+16478316|roseville, ca|0|Error|1|2
+16478316|roseville, ca|16478316|Roseville, CA|1|2
+16478316|roseville, ca|778057|Washington, DC|1|2
+16478316|roseville, ca|28427651|Roseville, CA|1|2
+15476306|roseville, ca|8820652|San Diego, California |4|2
+15476306|roseville, ca|17266725|USA|3|2
+15476306|roseville, ca|16596455|Los Angeles, CA|3|2
+15476306|roseville, ca|16530557|Personal Touch / Global Reach|2|2
+15476306|roseville, ca|0|Error|1|2
+15476306|roseville, ca|15537809|Sacramento, CA|1|2
+15476306|roseville, ca|16621138|Atlanta, GA|1|2
+15476306|roseville, ca|15476306|Sacramento, CA|1|2
+15476306|roseville, ca|14337585|California|1|2
+15476306|roseville, ca|8307612|Akron PA (USA)|1|2
+15476306|roseville, ca|1255151|Ottawa, Ontario, Canada|1|2
+15476306|roseville, ca|16572003|Los Angeles, CA, USA|1|2
+15476306|roseville, ca|15225658|Toronto|1|2
+22854521|roseville, ca|23018595|Homegrown Cali|8|2
+22854521|roseville, ca|0|Error|2|2
+22854521|roseville, ca|23559108|Sacramento, CA|1|2
+22854521|roseville, ca|22854521|CA raised. Now in Tempe, AZ|1|2
+22854521|roseville, ca|14572087|Error|1|2
+22854521|roseville, ca|0|Error|1|2
+19723879|roseville, ca|48882644|Roseville, CA|3|2
+19723879|roseville, ca|14234689|Roseville, CA|2|2
+19723879|roseville, ca|46586690|Santa Monica, CA|2|2
+19723879|roseville, ca|19723879|Roseville, CA|2|2
+19723879|roseville, ca|23454927|california|1|2
+19723879|roseville, ca|18512632|Sacramento, California|1|2
+19723879|roseville, ca|16820907|Los Angeles, California|1|2
+19723879|roseville, ca|0|Error|1|2
+19723879|roseville, ca|16467958|Sacramento, CA|1|2
+19723879|roseville, ca|18560680|Sacramento|1|2
+19723879|roseville, ca|26526578|Southport, NC|1|2
+19723879|roseville, ca|2798360503|Error|1|2
+19723879|roseville, ca|15871459|Provo|1|2
+40815950|roseville, ca|53206319|Sacramento, CA|1|2
+40815950|roseville, ca|39607827|Sacramento, CA|1|2
+17765626|roseville, ca|0|Error|8|2
+17765626|roseville, ca|40422385|Sacramento|2|2
+17765626|roseville, ca|124408807|Error|1|2
+17765626|roseville, ca|0|Error|1|2
+17765626|roseville, ca|14151318|Hell-A ok?|1|2
+17765626|roseville, ca|30202898|Error|1|2
+28292001|roseville, ca|454721227|Error|4|2
+28292001|roseville, ca|2411799312|London|3|2
+28292001|roseville, ca|235403137|Error|1|2
+28292001|roseville, ca|0|Error|1|2
+28292001|roseville, ca|0|Error|1|2

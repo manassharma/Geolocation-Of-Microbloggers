@@ -1,0 +1,30 @@
+50856340|niagara falls, ny|47791818|Brooklyn, NY USA|2|2
+50856340|niagara falls, ny|52389096|Cool countryside...|1|2
+50856340|niagara falls, ny|0|Error|1|2
+50856340|niagara falls, ny|12880562|SML Universe|1|2
+50856340|niagara falls, ny|3003652289|Error|1|2
+50856340|niagara falls, ny|94621311|Error|1|2
+50856340|niagara falls, ny|84028806|Hong Kong |1|2
+24420908|niagara falls, ny|38091534|Pittsburgh, PA|4|2
+24420908|niagara falls, ny|2617611317|Error|3|2
+24420908|niagara falls, ny|45576017|lab|2|2
+24420908|niagara falls, ny|27583851|Buffalo, NY|1|2
+24420908|niagara falls, ny|45346807|The Falls|1|2
+24420908|niagara falls, ny|53430873|Error|1|2
+24420908|niagara falls, ny|33440229|niagara falls, ny|1|2
+27989519|niagara falls, ny|0|Error|2|2
+24420908|niagara falls, ny|0|Error|5|2
+24420908|niagara falls, ny|0|Error|2|2
+24420908|niagara falls, ny|45346807|The Falls|1|2
+20269548|niagara falls, ny|16015046|Neverland|4|2
+20269548|niagara falls, ny|23271065|Michigan, United States|3|2
+20269548|niagara falls, ny|69494430|Dasey Land|1|2
+20269548|niagara falls, ny|2671621274|US|1|2
+20269548|niagara falls, ny|16435149|Niagara Falls, NY|1|2
+20269548|niagara falls, ny|0|Error|1|2
+20269548|niagara falls, ny|21332066|Around|1|2
+20269548|niagara falls, ny|6351572|Venice, California|1|2
+20269548|niagara falls, ny|0|Error|1|2
+20269548|niagara falls, ny|0|Error|1|2
+20269548|niagara falls, ny|206767381|Error|1|2
+20269548|niagara falls, ny|0|Error|1|2

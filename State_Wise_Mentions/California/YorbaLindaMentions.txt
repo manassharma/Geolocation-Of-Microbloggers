@@ -1,0 +1,89 @@
+19287919|yorba linda, ca|88513163|Error|1|2
+19287919|yorba linda, ca|29814453|Yorba Linda, CA|1|2
+19287919|yorba linda, ca|22792390|BrokenArrow OK|1|2
+19287919|yorba linda, ca|18906620|all over the U.S. of A. |1|2
+49580995|yorba linda, ca|19331859|York, England|3|2
+49580995|yorba linda, ca|18185124|Sydney, Australia|2|2
+49580995|yorba linda, ca|972651|Error|2|2
+49580995|yorba linda, ca|71625913|Eastern Pennsylvania|2|2
+49580995|yorba linda, ca|28562298|Paris, Lyon, Europe...|2|2
+49580995|yorba linda, ca|13191382|Winnipeg, Canada|1|2
+49580995|yorba linda, ca|38865415|Error|1|2
+49580995|yorba linda, ca|17971670|Owasso, OK|1|2
+49580995|yorba linda, ca|39400515|In the 702|1|2
+49580995|yorba linda, ca|74835277|Orlando, FL|1|2
+49580995|yorba linda, ca|23218852|Error|1|2
+49580995|yorba linda, ca|17371061|Boston|1|2
+49580995|yorba linda, ca|89276842|Error|1|2
+49580995|yorba linda, ca|816653|San Francisco, CA|1|2
+49580995|yorba linda, ca|86152191|USA|1|2
+49580995|yorba linda, ca|68345033|India|1|2
+49580995|yorba linda, ca|0|Error|1|2
+49580995|yorba linda, ca|36179184|Beckley, West Virginia|1|2
+49580995|yorba linda, ca|15708358|Honolulu, HI|1|2
+49580995|yorba linda, ca|14137149|Austin, Texas|1|2
+49580995|yorba linda, ca|27290606|argentina|1|2
+25738244|yorba linda, ca|0|Error|5|2
+29814453|yorba linda, ca|0|Error|1|2
+29814453|yorba linda, ca|75873255|Mansfield, Texas|1|2
+29814453|yorba linda, ca|14826549|Southern Nevada|1|2
+29814453|yorba linda, ca|16049774|Baltimore, MD|1|2
+29814453|yorba linda, ca|0|Error|1|2
+29814453|yorba linda, ca|29024386|iPhone: 35.997936,-115.180824|1|2
+21035107|yorba linda, california|0|Error|1|2
+21035107|yorba linda, california|29967946|Miami, Chicago, New York, L.A.|1|2
+7822352|yorba linda, ca|6859152|Irvine, CA|2|2
+7822352|yorba linda, ca|14791455|Fresno, CA|1|2
+7822352|yorba linda, ca|18412570|AppleValleyCA&LakeHavasuAZ|1|2
+7822352|yorba linda, ca|4132841|Ames, Iowa|1|2
+7822352|yorba linda, ca|17399905|Community of Learners|1|2
+7822352|yorba linda, ca|0|Error|1|2
+7822352|yorba linda, ca|0|Error|1|2
+7822352|yorba linda, ca|624299869|Error|1|2
+7822352|yorba linda, ca|4540731|SF Bay Area|1|2
+7822352|yorba linda, ca|6565052|Orange County, CA|1|2
+7822352|yorba linda, ca|678403|Northbrook, IL |1|2
+7822352|yorba linda, ca|0|Error|1|2
+46415654|yorba linda, ca|20169430|iPhone: 33.860474,-117.763367|2|2
+46415654|yorba linda, ca|19922091|Santa Monica, CA|1|2
+46415654|yorba linda, ca|35031948|In an IT setting near you....|1|2
+46415654|yorba linda, ca|0|Error|1|2
+46415654|yorba linda, ca|49633985|Irvine, CA|1|2
+46415654|yorba linda, ca|12411892|CA|1|2
+46415654|yorba linda, ca|19090054|New Braunfels, TX|1|2
+46415654|yorba linda, ca|159402187|Walsrode|1|2
+46415654|yorba linda, ca|45399766|Arcadia, California|1|2
+24275647|yorba linda, ca|0|Error|1|2
+24275647|yorba linda, ca|976292792|Error|1|2
+24275647|yorba linda, ca|25464418|Orange County|1|2
+24275647|yorba linda, ca|0|Error|1|2
+19287919|yorba linda, ca|488933945|Error|1|2
+19287919|yorba linda, ca|33347300|SF Bay Area|1|2
+16704925|yorba linda, ca|780889|san diego, ca|1|2
+16704925|yorba linda, ca|29343282|San Antonio|1|2
+16704925|yorba linda, ca|265|Someplace super rad|1|2
+16704925|yorba linda, ca|0|Error|1|2
+16704925|yorba linda, ca|78947114|Error|1|2
+23709424|yorba linda, ca|23715352|nyc/la|5|2
+23709424|yorba linda, ca|21123856|Cali|3|2
+23709424|yorba linda, ca|36491371|Far far away from Sallie Mae|3|2
+23709424|yorba linda, ca|0|Error|1|2
+23709424|yorba linda, ca|36257333|mmmMmmm|1|2
+23709424|yorba linda, ca|23709424|CA|1|2
+23709424|yorba linda, ca|343538286|Error|1|2
+952651|yorba linda, ca|11590172|San Francisco, CA |2|2
+952651|yorba linda, ca|23564158|Orange County / San Francisco |2|2
+952651|yorba linda, ca|1002261|The Woodlands TX 77381|2|2
+952651|yorba linda, ca|17447344|Orange, CA|1|2
+952651|yorba linda, ca|14484850|Chicago, IL|1|2
+952651|yorba linda, ca|16702758|Dana Point, CA|1|2
+952651|yorba linda, ca|14887358|The Woodlands|1|2
+952651|yorba linda, ca|0|Error|1|2
+952651|yorba linda, ca|20181812|Ventura County, CA|1|2
+952651|yorba linda, ca|7275352|Orange County, CA|1|2
+952651|yorba linda, ca|495757481|Error|1|2
+952651|yorba linda, ca|14259236|Lake Ridge, VA|1|2
+952651|yorba linda, ca|3002361|Miami|1|2
+952651|yorba linda, ca|22552415|Error|1|2
+952651|yorba linda, ca|309695783|Reading|1|2
+952651|yorba linda, ca|20277236|Yorba Linda|1|2

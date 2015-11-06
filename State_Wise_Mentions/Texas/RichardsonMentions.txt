@@ -1,0 +1,93 @@
+10760052|richardson, tx|14266637|Error|4|2
+10760052|richardson, tx|304784661|Error|3|2
+10760052|richardson, tx|14529929|Error|3|2
+10760052|richardson, tx|8431652|South F-ing Florida|2|2
+10760052|richardson, tx|0|Error|2|2
+10760052|richardson, tx|7858302|Austin, TX|1|2
+10760052|richardson, tx|17427141|Error|1|2
+10760052|richardson, tx|85899796|Error|1|2
+10760052|richardson, tx|14348594|Brooklyn|1|2
+10760052|richardson, tx|253728554|London|1|2
+10760052|richardson, tx|50325797|Washington, DC|1|2
+10760052|richardson, tx|13532822|Nunya.|1|2
+10760052|richardson, tx|18957524|New York, NY|1|2
+10760052|richardson, tx|41017380|Orlando, FL|1|2
+10760052|richardson, tx|14798852|Dallas|1|2
+10760052|richardson, tx|14506253|Tauntuan belly|1|2
+10760052|richardson, tx|15742046|Fort Lauderdale, FL|1|2
+10760052|richardson, tx|0|Error|1|2
+10760052|richardson, tx|9252212|Error|1|2
+10760052|richardson, tx|15368940|California|1|2
+10760052|richardson, tx|31509519|Low Flying Planes section, NYC|1|2
+10760052|richardson, tx|23805520|Dallas/Fort Worth|1|2
+10760052|richardson, tx|204549727|Nottinghamshire|1|2
+10760052|richardson, tx|14402269|Fort Worth TX|1|2
+10760052|richardson, tx|16456599|New York City|1|2
+10760052|richardson, tx|16789970|Searchlight, NV|1|2
+10760052|richardson, tx|34747631|Around the World|1|2
+10760052|richardson, tx|31641658|Los Angeles/New York|1|2
+17811170|richardson, tx|17106415|austin|9|2
+17811170|richardson, tx|75043438|Dallas / NYC|4|2
+17811170|richardson, tx|807817|dallas|2|2
+17811170|richardson, tx|0|Error|2|2
+17811170|richardson, tx|0|Error|1|2
+17811170|richardson, tx|78497111|Error|1|2
+17811170|richardson, tx|0|Error|1|2
+17811170|richardson, tx|0|Error|1|2
+17811170|richardson, tx|0|Error|1|2
+36768376|richardson, tx|807027|Buffalo, NY|2|2
+36768376|richardson, tx|0|Error|1|2
+36768376|richardson, tx|754576|Los Angeles, CA|1|2
+36768376|richardson, tx|20518600|Texas|1|2
+36768376|richardson, tx|191672740| Miami, Florida|1|2
+36768376|richardson, tx|9212312|Austin, TX|1|2
+36768376|richardson, tx|14238327|Boston, MA |1|2
+36768376|richardson, tx|6022912|Los Angeles|1|2
+36768376|richardson, tx|54591680|IT Resouce Network|1|2
+36768376|richardson, tx|23684299|Dallas, TX|1|2
+36768376|richardson, tx|9711912|Chicago|1|2
+36768376|richardson, tx|7534252|Dallas, TX|1|2
+36768376|richardson, tx|0|Error|1|2
+36768376|richardson, tx|0|Error|1|2
+36768376|richardson, tx|14881608|South Africa|1|2
+36768376|richardson, tx|18718381|New York, NY (40.767143,-73.95|1|2
+36768376|richardson, tx|13613292|Worldwide|1|2
+36768376|richardson, tx|46110368|Atlanta Ga|1|2
+14862027|richardson, tx|42595481|http://powergui.org|2|2
+14862027|richardson, tx|16376599|Cloud 9|2|2
+14862027|richardson, tx|0|Error|2|2
+14862027|richardson, tx|66883471|Colorado|1|2
+14862027|richardson, tx|0|Error|1|2
+14862027|richardson, tx|11965332|Boulder/Ft Collins/Los Angeles|1|2
+14862027|richardson, tx|0|Error|1|2
+14862027|richardson, tx|186417639|Turkey|1|2
+14862027|richardson, tx|14862027|Richardson, TX|1|2
+14862027|richardson, tx|0|Error|1|2
+14862027|richardson, tx|14631223|US|1|2
+14862027|richardson, tx|11388432|ATL, KnoxVegas, DC|1|2
+63167786|richardson, tx|9535372|Fort Worth, TX|5|2
+63167786|richardson, tx|0|Error|4|2
+63167786|richardson, tx|0|Error|2|2
+16153872|richardson, texas|0|Error|17|2
+77005023|richardson, tx|75669264|Error|2|2
+77005023|richardson, tx|77002397|Phoenix, AZ|2|2
+77005023|richardson, tx|0|Error|1|2
+69667866|richardson, tx|0|Error|1|2
+45654781|richardson, texas|0|Error|3|2
+45654781|richardson, texas|53200749|Error|1|2
+45654781|richardson, texas|0|Error|1|2
+45654781|richardson, texas|0|Error|1|2
+45654781|richardson, texas|11776232|Canonsburg, PA|1|2
+45654781|richardson, texas|95131052|Error|1|2
+45654781|richardson, texas|0|Error|1|2
+45654781|richardson, texas|53200431|Atlanta, GA|1|2
+45654781|richardson, texas|0|Error|1|2
+45654781|richardson, texas|60702625|Error|1|2
+45654781|richardson, texas|0|Error|1|2
+45654781|richardson, texas|24601476|Error|1|2
+45654781|richardson, texas|74842758|San Ramon, CA|1|2
+45654781|richardson, texas|0|Error|1|2
+60756230|richardson, tx|27029370|Error|6|2
+60756230|richardson, tx|51299515|iPhone: 36.174656,-115.203903|5|2
+60756230|richardson, tx|0|Error|4|2
+60756230|richardson, tx|1695348254|Error|1|2

@@ -1,0 +1,1069 @@
+33033790|toledo, ohio|0|Error|9|2
+33033790|toledo, ohio|0|Error|4|2
+33033790|toledo, ohio|0|Error|3|2
+33033790|toledo, ohio|0|Error|1|2
+33033790|toledo, ohio|0|Error|1|2
+33033790|toledo, ohio|0|Error|1|2
+33033790|toledo, ohio|0|Error|1|2
+33033790|toledo, ohio|28701379|Detroit, Michigan|1|2
+14949009|toledo, oh|32428863|Toledo, OH|3|2
+14949009|toledo, oh|14949009|Midwest & Beyond.|3|2
+14949009|toledo, oh|3590371693|Error|2|2
+14949009|toledo, oh|17482071|Chicago|2|2
+14949009|toledo, oh|32429566|midwest is best|2|2
+14949009|toledo, oh|18981454|northwest ohio|1|2
+14949009|toledo, oh|0|Error|1|2
+14949009|toledo, oh|14712874|San Francisco|1|2
+14949009|toledo, oh|39327933|new york city|1|2
+14949009|toledo, oh|17024341|Springfield, NJ|1|2
+14949009|toledo, oh|22022795|Bath, UK|1|2
+14949009|toledo, oh|62628517|Brooklyn|1|2
+14949009|toledo, oh|71439118|Error|1|2
+14949009|toledo, oh|5517132|Seattle|1|2
+14949009|toledo, oh|34553|iPhone: 37.493698,-122.461472|1|2
+14949009|toledo, oh|0|Error|1|2
+14949009|toledo, oh|15383656|San Francisco, CA|1|2
+14949009|toledo, oh|0|Error|1|2
+12591732|toledo, oh|29350302|Georgia, USA|2|2
+12591732|toledo, oh|29620256|Treasure Coast, FL|1|2
+12591732|toledo, oh|22296258|USA|1|2
+12591732|toledo, oh|32389958|Pennsylvania |1|2
+12591732|toledo, oh|0|Error|1|2
+12591732|toledo, oh|18027696|Sunny Arizona!|1|2
+12591732|toledo, oh|35804796|Error|1|2
+12591732|toledo, oh|15008403|Central Florida|1|2
+12591732|toledo, oh|18549579|Los Angeles|1|2
+12591732|toledo, oh|15166869|Makati, Philippines|1|2
+35924889|toledo, oh|23174459|Wichita, Kansas|5|2
+35924889|toledo, oh|8264122|Staffordshire, England|2|2
+35924889|toledo, oh|261943470|USA|2|2
+35924889|toledo, oh|0|Error|2|2
+35924889|toledo, oh|86467282|San Francisco, CA|2|2
+35924889|toledo, oh|55453397|The state that's first.|1|2
+35924889|toledo, oh|44761237|Error|1|2
+35924889|toledo, oh|19826459|Maryland|1|2
+35924889|toledo, oh|0|Error|1|2
+35924889|toledo, oh|48629937|Hamilton, Ontario, Canada|1|2
+35924889|toledo, oh|18338511|Las Vegas, NV|1|2
+35924889|toledo, oh|798738073|@WeirdHQ|1|2
+35924889|toledo, oh|29470292|Savannah, GA|1|2
+19940573|toledo, oh|0|Error|3|2
+19940573|toledo, oh|20962576|Houston, TX|1|2
+19940573|toledo, oh|3544881|Toledo, Ohio|1|2
+19940573|toledo, oh|52613032|Los Angeles|1|2
+19940573|toledo, oh|0|Error|1|2
+19940573|toledo, oh|18829528|Dublin, Ireland|1|2
+19940573|toledo, oh|70440207|Downtown Toledo|1|2
+19940573|toledo, oh|16102569|Portland, OR|1|2
+61362089|toledo, oh|15784742|Toledo, OH|8|2
+61362089|toledo, oh|54330182|Error|4|2
+61362089|toledo, oh|20164536|Error|3|2
+61362089|toledo, oh|84344574|Around|3|2
+61362089|toledo, oh|80348083|Everywhere!|3|2
+61362089|toledo, oh|16648790|U.S.|2|2
+61362089|toledo, oh|0|Error|2|2
+61362089|toledo, oh|3317975766|Des Moines, IA|2|2
+61362089|toledo, oh|116816940|Error|1|2
+61362089|toledo, oh|16563372|Alaska|1|2
+61362089|toledo, oh|11018442|United States|1|2
+61362089|toledo, oh|18426896|Luling, TX|1|2
+61362089|toledo, oh|16471088|Hamilton, ON Canada|1|2
+61362089|toledo, oh|14187331|Manassas, Va|1|2
+61362089|toledo, oh|2791671|Europe, Hungary, Budapest|1|2
+61362089|toledo, oh|89212668|Error|1|2
+61362089|toledo, oh|19674087|Lancaster County, Pennsylvania|1|2
+61362089|toledo, oh|15120037|Atlanta, GA|1|2
+61362089|toledo, oh|0|Error|1|2
+17060395|toledo, ohio|18604446|Ohio|1|2
+17060395|toledo, ohio|15522768|Atlanta|1|2
+17060395|toledo, ohio|1879168682|Indonesia|1|2
+17060395|toledo, ohio|18542774|Baltimore|1|2
+17060395|toledo, ohio|0|Error|1|2
+17060395|toledo, ohio|26812979|Minneapolis, MN|1|2
+17060395|toledo, ohio|19593940|Milwaukee, WI|1|2
+17060395|toledo, ohio|0|Error|1|2
+17060395|toledo, ohio|19367934|Los Angeles |1|2
+17060395|toledo, ohio|28470558|Cincinnati, OH|1|2
+17060395|toledo, ohio|15088154|Nashville, TN|1|2
+43276103|toledo, oh|14583400|Error|3|2
+43276103|toledo, oh|0|Error|2|2
+43276103|toledo, oh|70877968|Idaho |2|2
+43276103|toledo, oh|3256979282|Error|2|2
+43276103|toledo, oh|57980793|Error|2|2
+43276103|toledo, oh|19992041|Vancouver, British Columbia|1|2
+43276103|toledo, oh|19661294|The World by way of Las Vegas|1|2
+43276103|toledo, oh|34495217|MaRs....|1|2
+43276103|toledo, oh|25423295|Wakefield|1|2
+43276103|toledo, oh|14939981|Philly & Fi-Di NYC & 31Rock|1|2
+43276103|toledo, oh|2489919079|Columbus, Ohio|1|2
+43276103|toledo, oh|0|Error|1|2
+43276103|toledo, oh|27260086|Error|1|2
+43276103|toledo, oh|15461864|Brooklyn, NY|1|2
+43276103|toledo, oh|5845642|New York City|1|2
+43276103|toledo, oh|18081931|New York, NY|1|2
+43276103|toledo, oh|50221760|California|1|2
+43276103|toledo, oh|25271039|Error|1|2
+43276103|toledo, oh|0|Error|1|2
+18242832|toledo, oh|38082860|Los Angeles|3|2
+18242832|toledo, oh|20045686|Saaflondoner in Somerrset|2|2
+18242832|toledo, oh|28870086|Anywhere, USA|2|2
+18242832|toledo, oh|14958453|South Lanarkshire, Scotland.|1|2
+18242832|toledo, oh|49311668|Boston|1|2
+18242832|toledo, oh|51263592|New York|1|2
+18242832|toledo, oh|55633416|The Heath|1|2
+18242832|toledo, oh|920183678|Error|1|2
+18242832|toledo, oh|15884394|35,000 feet|1|2
+18242832|toledo, oh|36831938|Error|1|2
+18242832|toledo, oh|0|Error|1|2
+18242832|toledo, oh|374449075|Error|1|2
+18242832|toledo, oh|14506253|Tauntuan belly|1|2
+18242832|toledo, oh|897697314|Error|1|2
+18242832|toledo, oh|51597791|LA/Philly/Everywhere|1|2
+16020744|toledo, oh|23488933|bgeldoburg, ohio|3|2
+16020744|toledo, oh|0|Error|3|2
+16020744|toledo, oh|19963619|planet|2|2
+16020744|toledo, oh|0|Error|1|2
+16020744|toledo, oh|19427502|LA, CA|1|2
+16020744|toledo, oh|18927386|Atlanta, GA|1|2
+16020744|toledo, oh|16408752|Chalfont, PA, USA|1|2
+16020744|toledo, oh|14837079|San Diego|1|2
+16020744|toledo, oh|972651|Error|1|2
+16020744|toledo, oh|397482103|Error|1|2
+16020744|toledo, oh|92731715|Error|1|2
+16020744|toledo, oh|32655871|United States|1|2
+8818562|toledo, ohio|8986462|Madison, WI, USA|2|2
+8818562|toledo, ohio|18586657|Adrian, Michigan|1|2
+8818562|toledo, ohio|0|Error|1|2
+77504822|toledo, ohio|77504822|Toledo Oh / Sandy springs GA|8|2
+77504822|toledo, ohio|0|Error|3|2
+77504822|toledo, ohio|0|Error|2|2
+77504822|toledo, ohio|0|Error|2|2
+77504822|toledo, ohio|0|Error|1|2
+77504822|toledo, ohio|0|Error|1|2
+20237301|toledo, oh|28706024|los angeles|4|2
+20237301|toledo, oh|19524050|Las Vegas|4|2
+20237301|toledo, oh|14577013|Toledo, OH | Michigan|2|2
+20237301|toledo, oh|1131872960|Playboy Mansion|1|2
+20237301|toledo, oh|21681809|Los Angeles|1|2
+20237301|toledo, oh|0|Error|1|2
+20237301|toledo, oh|32774989|Los Angeles|1|2
+20237301|toledo, oh|0|Error|1|2
+20237301|toledo, oh|46233559|Los Angeles, CA|1|2
+20237301|toledo, oh|0|Error|1|2
+20237301|toledo, oh|380738671|Los Angeles, California|1|2
+20237301|toledo, oh|2584455834|Error|1|2
+20237301|toledo, oh|0|Error|1|2
+20237301|toledo, oh|219838815|Error|1|2
+20237301|toledo, oh|21879024|San Diego & world at large|1|2
+20237301|toledo, oh|89376644|Error|1|2
+20237301|toledo, oh|27989078|Error|1|2
+20237301|toledo, oh|146396739|Playboy Manison|1|2
+20237301|toledo, oh|23832022|Worldwide |1|2
+18642829|toledo, ohio|71026122|Error|2|2
+18642829|toledo, ohio|0|Error|1|2
+18642829|toledo, ohio|26840348|Port Clinton, OH |1|2
+18642829|toledo, ohio|19737034|Toledo, OH|1|2
+18642829|toledo, ohio|33555786|NW Ohio|1|2
+27228240|toledo, ohio|0|Error|1|2
+27228240|toledo, ohio|232655102|I'm everywhere you are. |1|2
+27228240|toledo, ohio|0|Error|1|2
+27228240|toledo, ohio|0|Error|1|2
+27228240|toledo, ohio|42235624|Toledo|1|2
+27228240|toledo, ohio|0|Error|1|2
+27228240|toledo, ohio|16367311|Melbourne, Florida|1|2
+15784742|toledo, oh|16153984|Salt Lake City|10|2
+15784742|toledo, oh|18726693|Northern Virginia|8|2
+15784742|toledo, oh|17573711|Georgia|8|2
+15784742|toledo, oh|15846507|Error|7|2
+15784742|toledo, oh|17240550|Central NJ|6|2
+15784742|toledo, oh|36782022|Everywhere|6|2
+15784742|toledo, oh|16513795|Princeton, NJ|6|2
+15784742|toledo, oh|0|Error|4|2
+15784742|toledo, oh|0|Error|3|2
+15784742|toledo, oh|15784742|Toledo, OH|3|2
+15784742|toledo, oh|18658984|Rockford, IL|2|2
+15784742|toledo, oh|24971990|Maryland|2|2
+15784742|toledo, oh|7789282|Brandon, MS|2|2
+15784742|toledo, oh|3486217217|Error|2|2
+15784742|toledo, oh|15502079|Error|2|2
+15784742|toledo, oh|26780796|Boston, MA|2|2
+15784742|toledo, oh|0|Error|2|2
+15784742|toledo, oh|18047810|Kentucky|2|2
+15784742|toledo, oh|84353531|Left Coast|1|2
+15784742|toledo, oh|15354625|Columbus, OH|1|2
+15784742|toledo, oh|0|Error|1|2
+15784742|toledo, oh|26285853|Ontario,Canada|1|2
+15784742|toledo, oh|15521104|LA and Chicago|1|2
+15784742|toledo, oh|15745487|joliet, il|1|2
+15784742|toledo, oh|14610115|Charlotte Area|1|2
+15784742|toledo, oh|0|Error|1|2
+15784742|toledo, oh|19630177|By the lake|1|2
+15784742|toledo, oh|46094179|Rochester, NY|1|2
+15784742|toledo, oh|18034656|Salt Lake City|1|2
+15784742|toledo, oh|1552393568|Houston Tx|1|2
+15784742|toledo, oh|0|Error|1|2
+15784742|toledo, oh|22211029|Hawaii, USA|1|2
+15784742|toledo, oh|0|Error|1|2
+15784742|toledo, oh|2863718038|Error|1|2
+15784742|toledo, oh|0|Error|1|2
+15784742|toledo, oh|108329743|Error|1|2
+15784742|toledo, oh|21150128|Error|1|2
+22795270|toledo, oh|86154024|Error|4|2
+22795270|toledo, oh|0|Error|2|2
+22795270|toledo, oh|5663632|Genoa, OH (Near Toledo.)|1|2
+22795270|toledo, oh|18726693|Northern Virginia|1|2
+22795270|toledo, oh|47971027|Cleveland, Ohio|1|2
+22795270|toledo, oh|35290317|NW WI formerly NW OH & SE WI|1|2
+22795270|toledo, oh|0|Error|1|2
+22795270|toledo, oh|36664368|Howard County, MD|1|2
+22795270|toledo, oh|54819475|Error|1|2
+22795270|toledo, oh|0|Error|1|2
+22795270|toledo, oh|0|Error|1|2
+22795270|toledo, oh|0|Error|1|2
+22795270|toledo, oh|71085178|Error|1|2
+22795270|toledo, oh|35249756|Minnesota|1|2
+22795270|toledo, oh|26814127|Error|1|2
+22795270|toledo, oh|41652130|Toledo, Ohio|1|2
+22795270|toledo, oh|78547719|Error|1|2
+22795270|toledo, oh|62286829|Error|1|2
+22795270|toledo, oh|0|Error|1|2
+22795270|toledo, oh|49656730|San Francisco Bay Area|1|2
+22795270|toledo, oh|18276009|CartooNoosphere|1|2
+22795270|toledo, oh|18739458|Fort Worth ,Texas|1|2
+22795270|toledo, oh|619533913|Hillsborough, New Jersey|1|2
+22795270|toledo, oh|87236302|Central Coast, CA|1|2
+22795270|toledo, oh|20639602|Chicago|1|2
+22795270|toledo, oh|12367912|US Midwest|1|2
+22795270|toledo, oh|32671620|Ohio|1|2
+22795270|toledo, oh|9737232|Rust Belt, Ohio|1|2
+22795270|toledo, oh|14299627|Error|1|2
+22795270|toledo, oh|22795270|Toledo, OH|1|2
+22795270|toledo, oh|72663339|Toledo, Ohio|1|2
+14234837|toledo, oh|14234837|TOLEDO, OHIO|2|2
+14234837|toledo, oh|455035103|posted|2|2
+14234837|toledo, oh|18220175|EVERYWHERE!!!|2|2
+14234837|toledo, oh|28868581|Cleveland, Ohio|1|2
+14234837|toledo, oh|16910904|Indianapolis, IN|1|2
+14234837|toledo, oh|346631323|London|1|2
+14234837|toledo, oh|24844068|on the planet earth|1|2
+14234837|toledo, oh|536735836|Error|1|2
+14234837|toledo, oh|27451559|Charlotte, NC via Toledo, OH|1|2
+14234837|toledo, oh|0|Error|1|2
+14234837|toledo, oh|23867057|Toledo, OH|1|2
+45156327|toledo, ohio|16827000|Toledo, Ohio|1|2
+34671786|toledo, ohio|199989661|Idaho|1|2
+31007803|toledo, oh|174596034|Error|10|2
+31007803|toledo, oh|23892772| Hollywood / D.C. / NYC |9|2
+31007803|toledo, oh|129950888|BARBiELAND'&ND BEYOND!|5|2
+31007803|toledo, oh|146199486|Error|3|2
+31007803|toledo, oh|0|Error|2|2
+31007803|toledo, oh|316786248|nyc brooklyn long island|1|2
+31007803|toledo, oh|0|Error|1|2
+31007803|toledo, oh|0|Error|1|2
+31007803|toledo, oh|237634998|twtrLMAO@gmail.com|1|2
+33104959|toledo, oh|15703005|San Francisco|3|2
+33104959|toledo, oh|55645321|Error|2|2
+16853225|toledo, ohio|0|Error|1|2
+16853225|toledo, ohio|0|Error|1|2
+16853225|toledo, ohio|0|Error|1|2
+16853225|toledo, ohio|0|Error|1|2
+16853225|toledo, ohio|0|Error|1|2
+16853225|toledo, ohio|0|Error|1|2
+16853225|toledo, ohio|0|Error|1|2
+16853225|toledo, ohio|0|Error|1|2
+16853225|toledo, ohio|0|Error|1|2
+19737034|toledo, oh|12367912|US Midwest|1|2
+19737034|toledo, oh|19737034|Toledo, OH|1|2
+19737034|toledo, oh|0|Error|1|2
+19737034|toledo, oh|12421152|Error|1|2
+19737034|toledo, oh|3364050449|Aberdeen, Scotland|1|2
+19737034|toledo, oh|20991021|Durham, NC|1|2
+19737034|toledo, oh|0|Error|1|2
+19737034|toledo, oh|0|Error|1|2
+19737034|toledo, oh|20982694|Toledo, Ohio|1|2
+91437283|toledo, oh|0|Error|9|2
+91437283|toledo, oh|0|Error|6|2
+91437283|toledo, oh|0|Error|4|2
+91437283|toledo, oh|345268332|FORT LAUDERDALE|3|2
+91437283|toledo, oh|0|Error|3|2
+91437283|toledo, oh|551192028|Error|2|2
+91437283|toledo, oh|20220678|Every Where !!|2|2
+91437283|toledo, oh|36900363|In God's Hands|2|2
+91437283|toledo, oh|2748182233|Error|1|2
+91437283|toledo, oh|2758168568|Error|1|2
+91437283|toledo, oh|0|Error|1|2
+91437283|toledo, oh|0|Error|1|2
+91437283|toledo, oh|0|Error|1|2
+91437283|toledo, oh|38334628|Error|1|2
+91437283|toledo, oh|0|Error|1|2
+91437283|toledo, oh|39203208|Planet Charisma|1|2
+17906321|toledo, ohio|15014405|Silicon Valley, CA|2|2
+17906321|toledo, ohio|0|Error|2|2
+17906321|toledo, ohio|531933294|Waterloo, ON, Canada|1|2
+17906321|toledo, ohio|18434818|Toledo, Ohio|1|2
+17906321|toledo, ohio|18614747|London |1|2
+17906321|toledo, ohio|0|Error|1|2
+17906321|toledo, ohio|294229333|Error|1|2
+17906321|toledo, ohio|0|Error|1|2
+17906321|toledo, ohio|18034434|California|1|2
+17906321|toledo, ohio|18846079|Orlando, FL|1|2
+17906321|toledo, ohio|19158996|Frederick, MD|1|2
+17906321|toledo, ohio|73695857|Error|1|2
+17906321|toledo, ohio|0|Error|1|2
+19805497|toledo, ohio|15784742|Toledo, OH|10|2
+19805497|toledo, ohio|17240550|Central NJ|6|2
+19805497|toledo, ohio|24401652|Wisconsin|3|2
+19805497|toledo, ohio|357555357|Central Ohio|2|2
+19805497|toledo, ohio|320299091|Error|1|2
+19805497|toledo, ohio|1100251|Toledo, Ohio | Metro Detroit|1|2
+19805497|toledo, ohio|11704252|Milton, ON|1|2
+19805497|toledo, ohio|0|Error|1|2
+19805497|toledo, ohio|14956535|Boulder, CO|1|2
+19805497|toledo, ohio|35056812|Cincinnati, OH|1|2
+19805497|toledo, ohio|476220599|Error|1|2
+19805497|toledo, ohio|50422427|Error|1|2
+19805497|toledo, ohio|19826284|Temperance, Michigan|1|2
+78133542|toledo, ohio|1100251|Toledo, Ohio | Metro Detroit|6|2
+78133542|toledo, ohio|27948837|Southern California|2|2
+78133542|toledo, ohio|0|Error|2|2
+78133542|toledo, ohio|170525881|Error|1|2
+78133542|toledo, ohio|47854866|Error|1|2
+78133542|toledo, ohio|11883132|San Francisco|1|2
+78133542|toledo, ohio|0|Error|1|2
+78133542|toledo, ohio|29881970|On your screen, living in CA|1|2
+78133542|toledo, ohio|0|Error|1|2
+78133542|toledo, ohio|12930392|New Brunswick, Canada|1|2
+78133542|toledo, ohio|15348935|Los Angeles|1|2
+78133542|toledo, ohio|972192132|Error|1|2
+78133542|toledo, ohio|154181195|Football Islands|1|2
+16215222|toledo, ohio|18351671|AUS|10|2
+16215222|toledo, ohio|253069213|Toledo Ohio|3|2
+16215222|toledo, ohio|1100251|Toledo, Ohio | Metro Detroit|2|2
+16215222|toledo, ohio|20038725|Mumbles|2|2
+16215222|toledo, ohio|16215222|Toledo, Ohio|2|2
+16215222|toledo, ohio|16641559|Perrysburg, Ohio|1|2
+16215222|toledo, ohio|16971383|Error|1|2
+16215222|toledo, ohio|20595944|Toledo|1|2
+16215222|toledo, ohio|0|Error|1|2
+16215222|toledo, ohio|16830485|Toledo, Ohio|1|2
+16215222|toledo, ohio|0|Error|1|2
+16215222|toledo, ohio|972651|Error|1|2
+16215222|toledo, ohio|16827000|Toledo, Ohio|1|2
+16215222|toledo, ohio|191376111|Nepal|1|2
+16215222|toledo, ohio|5768872|NYC|1|2
+16215222|toledo, ohio|0|Error|1|2
+16215222|toledo, ohio|526725774|Error|1|2
+13332672|toledo, oh|13472432|Toledo, Ohio|4|2
+13332672|toledo, oh|15388328|Singapore|2|2
+13332672|toledo, oh|13332242|Toledo, OH|2|2
+13332672|toledo, oh|38290589|On your timeline |1|2
+13332672|toledo, oh|11450572|El Cerrito, CA|1|2
+13332672|toledo, oh|3840|94123|1|2
+13332672|toledo, oh|11435642|New York, NY|1|2
+13332672|toledo, oh|17713252|St. Louis, MO|1|2
+13332672|toledo, oh|969214950|Error|1|2
+13332672|toledo, oh|0|Error|1|2
+13332672|toledo, oh|18076766|Spring Hill, Tennessee|1|2
+13332672|toledo, oh|14120019|Sydney Australia|1|2
+13332672|toledo, oh|34373064|Charlottesville, VA|1|2
+13332672|toledo, oh|14429602|In the Shadows of Motown|1|2
+13332672|toledo, oh|23885448|USA|1|2
+13332672|toledo, oh|0|Error|1|2
+13332672|toledo, oh|22795270|Toledo, OH|1|2
+13332672|toledo, oh|0|Error|1|2
+25392146|toledo, oh|16442847|Cleveland, Ohio|8|2
+25392146|toledo, oh|0|Error|5|2
+25392146|toledo, oh|24209912|Georgia/Utah|4|2
+25392146|toledo, oh|40276601|Error|4|2
+25392146|toledo, oh|362764291|Flint, MI|4|2
+25392146|toledo, oh|24366651|Charleston, SC|3|2
+25392146|toledo, oh|32383440|Southern, Indiana|3|2
+25392146|toledo, oh|25294150|Louisiana|3|2
+25392146|toledo, oh|15906381|Twin Cities, MN|3|2
+25392146|toledo, oh|0|Error|3|2
+25392146|toledo, oh|32750591|Overlooking  Old Barney. |3|2
+25392146|toledo, oh|0|Error|3|2
+25392146|toledo, oh|20647199|Miami, New York |3|2
+25392146|toledo, oh|28986406|Clarksville, TN|3|2
+25392146|toledo, oh|20515197|Error|3|2
+25392146|toledo, oh|24175706|Jersey Shore, New Jersey|2|2
+25392146|toledo, oh|23203636|SC|2|2
+25392146|toledo, oh|0|Error|2|2
+25392146|toledo, oh|16860534|North Carolina|2|2
+25392146|toledo, oh|956514361|Northeast, Ohio|2|2
+25392146|toledo, oh|0|Error|2|2
+25392146|toledo, oh|0|Error|2|2
+25392146|toledo, oh|15219725|Columbus, Ohio|2|2
+25392146|toledo, oh|20402581|Myrtle Beach, SC|2|2
+25392146|toledo, oh|271343760|Error|2|2
+25392146|toledo, oh|14468737|Florida|2|2
+25392146|toledo, oh|14777649|Ohio boy in NYC and LA|2|2
+25392146|toledo, oh|0|Error|2|2
+25392146|toledo, oh|19566658|Hollywood, FL|2|2
+25392146|toledo, oh|82262370|Columbus, OH|2|2
+25392146|toledo, oh|0|Error|2|2
+25392146|toledo, oh|940349696|Error|2|2
+25392146|toledo, oh|23494977|Port Clinton, Ohio|2|2
+25392146|toledo, oh|31261715|TN|2|2
+25392146|toledo, oh|45138854|New Jersey|2|2
+25392146|toledo, oh|0|Error|2|2
+25392146|toledo, oh|27825496| Florida|2|2
+25392146|toledo, oh|27975883|Murrieta, CA |2|2
+25392146|toledo, oh|22829628|Ohio's Maple Syrup Capital|2|2
+25392146|toledo, oh|27043989|Error|1|2
+25392146|toledo, oh|46337767|Ocean|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|29984961|SW Louisiana|1|2
+25392146|toledo, oh|25147984|Overland Park, KS|1|2
+25392146|toledo, oh|562982339|Denver|1|2
+25392146|toledo, oh|14486561|Las Vegas|1|2
+25392146|toledo, oh|24862762|St. Louis, Missouri|1|2
+25392146|toledo, oh|26748812|Washington DC|1|2
+25392146|toledo, oh|20673005|Amsterdam, The Netherlands|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|25596531|Error|1|2
+25392146|toledo, oh|23714738|Lawrenceburg, Ky|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|38175941|Crossedover, Texas|1|2
+25392146|toledo, oh|44268137|B.C. Canada|1|2
+25392146|toledo, oh|13705932|Planet Earth|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|18904687|Midlothian, VA|1|2
+25392146|toledo, oh|17570590|Cottonwood, AZ|1|2
+25392146|toledo, oh|374526146|Houston, TX|1|2
+25392146|toledo, oh|18083379|South Texas|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|32636442|Detroit, MI|1|2
+25392146|toledo, oh|149244814|World Wide Web|1|2
+25392146|toledo, oh|594025398|Lake Arrowhead, CA|1|2
+25392146|toledo, oh|40307553|Festus, Mo|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|27290606|argentina|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|36491394|Space Kasual.|1|2
+25392146|toledo, oh|14405162|Washington, DC|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|22354555|Toronto, Ontario, Canada|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|793476774|Not in Ponte Vedre Beach, FL|1|2
+25392146|toledo, oh|18845303|Austin, TX|1|2
+25392146|toledo, oh|722586643|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|32614405|Texas|1|2
+25392146|toledo, oh|22306628|Gambleville|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|25392146|Toledo, OH|1|2
+25392146|toledo, oh|17114663|Error|1|2
+25392146|toledo, oh|18771030|Fountain Inn SC USA|1|2
+25392146|toledo, oh|275057605|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|23172966|Las Vegas, NV|1|2
+25392146|toledo, oh|22151882|Spring Lake, MI|1|2
+25392146|toledo, oh|30199103|Central Florida|1|2
+25392146|toledo, oh|19873926|Coastal Virginia|1|2
+25392146|toledo, oh|51285211|Tampa, FL|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|16383523|Kennesaw GA |1|2
+25392146|toledo, oh|15164442|Burlington, ON, Canada|1|2
+25392146|toledo, oh|20350791|north of Toronto|1|2
+25392146|toledo, oh|16733947|Los Angeles, CA|1|2
+25392146|toledo, oh|21216479|At the Beach!|1|2
+25392146|toledo, oh|150874520|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|10035342|Columbus Ohio|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|22664118|iPhone: 39.955254,-75.167557|1|2
+25392146|toledo, oh|22045982|Columbus & Austin|1|2
+25392146|toledo, oh|45602643|Error|1|2
+25392146|toledo, oh|315815451|Error|1|2
+25392146|toledo, oh|17718148|Honolulu|1|2
+25392146|toledo, oh|24577869|~ Down South ~|1|2
+25392146|toledo, oh|16799298|Toronto, Canada|1|2
+25392146|toledo, oh|18356450|Miami, Fl|1|2
+25392146|toledo, oh|20348613|Error|1|2
+25392146|toledo, oh|34013767|Sacramento, CA|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|18604959|Error|1|2
+25392146|toledo, oh|14565566|Ponce Inlet, FL|1|2
+25392146|toledo, oh|14544715|Delaware, Ohio|1|2
+25392146|toledo, oh|329706765|St. Louis, Missouri|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|41975215|Arkansas|1|2
+25392146|toledo, oh|21508309|Calgary, Canada|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|20790583|Orange County, California|1|2
+25392146|toledo, oh|16740561|Los Angeles|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|82470559|Detroit, MI|1|2
+25392146|toledo, oh|32226286|Buffalo, NY, USA|1|2
+25392146|toledo, oh|0|Error|1|2
+25392146|toledo, oh|0|Error|1|2
+27752448|toledo, oh|2944945147|KEEP OUT!|4|2
+27752448|toledo, oh|0|Error|3|2
+27752448|toledo, oh|0|Error|2|2
+27752448|toledo, oh|37955476|Ohio, N.Y and N.C|1|2
+27752448|toledo, oh|536735836|Error|1|2
+27752448|toledo, oh|91194971|Error|1|2
+27752448|toledo, oh|2904596938|Error|1|2
+16356226|toledo, ohio|25668620|Toledo, OH|1|2
+10458332|toledo, ohio|580573227|Error|7|2
+10458332|toledo, ohio|0|Error|5|2
+10458332|toledo, ohio|30789937|toledo,ohio|5|2
+10458332|toledo, ohio|14366548|Toledo, OH|4|2
+10458332|toledo, ohio|11314342|Toledo, Ohio|4|2
+10458332|toledo, ohio|0|Error|4|2
+10458332|toledo, ohio|10458332|Toledo, Ohio|3|2
+10458332|toledo, ohio|87467386|Error|2|2
+10458332|toledo, ohio|68800706|Error|2|2
+10458332|toledo, ohio|2454707324| NJ 07901,US|2|2
+10458332|toledo, ohio|1100251|Toledo, Ohio | Metro Detroit|2|2
+10458332|toledo, ohio|29365099|CLEVELAND, OHIO|1|2
+10458332|toledo, ohio|15689521|Bizarro World/DMV|1|2
+10458332|toledo, ohio|0|Error|1|2
+10458332|toledo, ohio|0|Error|1|2
+10458332|toledo, ohio|0|Error|1|2
+10458332|toledo, ohio|0|Error|1|2
+10458332|toledo, ohio|0|Error|1|2
+10458332|toledo, ohio|17953848|Toledo, Ohio|1|2
+10458332|toledo, ohio|37265650|41.6628569,-83.5447545|1|2
+10458332|toledo, ohio|68416652|Switzerland |1|2
+10458332|toledo, ohio|447668167|Error|1|2
+10458332|toledo, ohio|21668382|Toledo, Ohio|1|2
+10458332|toledo, ohio|0|Error|1|2
+10458332|toledo, ohio|210862827|Def Jam|1|2
+10458332|toledo, ohio|0|Error|1|2
+10458332|toledo, ohio|48405774|WHERE YOU WANNA BE|1|2
+10458332|toledo, ohio|32633819|Toledo,Ohio|1|2
+10458332|toledo, ohio|0|Error|1|2
+10458332|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|2504501514|Error|7|2
+11314342|toledo, ohio|78894518|Perrysburg, Ohio|5|2
+11314342|toledo, ohio|16624692|San Diego|4|2
+11314342|toledo, ohio|1035491|Ann Arbor, MI|4|2
+11314342|toledo, ohio|15891536|New York City, NY|3|2
+11314342|toledo, ohio|9543092|Boston (South Shore)|3|2
+11314342|toledo, ohio|1100251|Toledo, Ohio | Metro Detroit|3|2
+11314342|toledo, ohio|18829528|Dublin, Ireland|3|2
+11314342|toledo, ohio|16753568|Barrie, ON|3|2
+11314342|toledo, ohio|1085391|Silver Spring, MD|3|2
+11314342|toledo, ohio|1051731|New York, NY|2|2
+11314342|toledo, ohio|6595612|New Addington, Greater London|2|2
+11314342|toledo, ohio|23072469|Boston|2|2
+11314342|toledo, ohio|14874772|Corpus Christi, Texas|2|2
+11314342|toledo, ohio|10396|Newton, MA|2|2
+11314342|toledo, ohio|783214|San Francisco, CA|2|2
+11314342|toledo, ohio|28562298|Paris, Lyon, Europe...|2|2
+11314342|toledo, ohio|0|Error|2|2
+11314342|toledo, ohio|11989662|Toledo, Ohio|2|2
+11314342|toledo, ohio|107411670|CT, USA|2|2
+11314342|toledo, ohio|9766942|Detroit, Michigan|2|2
+11314342|toledo, ohio|18317058|West Hollywood, CA|2|2
+11314342|toledo, ohio|0|Error|2|2
+11314342|toledo, ohio|19405448|Mid Atlantic|2|2
+11314342|toledo, ohio|8820652|San Diego, California |2|2
+11314342|toledo, ohio|14436409|Warwick, RI|2|2
+11314342|toledo, ohio|1143031|Melbourne, Australia|2|2
+11314342|toledo, ohio|10202|Boston, MA|2|2
+11314342|toledo, ohio|580573227|Error|2|2
+11314342|toledo, ohio|0|Error|2|2
+11314342|toledo, ohio|20533581|Maryland|2|2
+11314342|toledo, ohio|15081182|Las Vegas, NV|2|2
+11314342|toledo, ohio|14100972|Boston, MA|2|2
+11314342|toledo, ohio|14850079| San Diego, Los Angeles, CA|1|2
+11314342|toledo, ohio|17787008|Toledo, Ohio|1|2
+11314342|toledo, ohio|29352709|Some where on this Planet :)|1|2
+11314342|toledo, ohio|17373477|Silicon Valley, California|1|2
+11314342|toledo, ohio|13976432|Stuttgart, Germany, europe|1|2
+11314342|toledo, ohio|14366548|Toledo, OH|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|11063312|San Jose, Ca|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|2188196288|Error|1|2
+11314342|toledo, ohio|16313058|Manhattan|1|2
+11314342|toledo, ohio|16819278|Hawaii to Virginia |1|2
+11314342|toledo, ohio|21247074|San Francisco, CA|1|2
+11314342|toledo, ohio|17342661|California|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|4641021|World Wide Web|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|28580121|Toledo, Ohio|1|2
+11314342|toledo, ohio|9812912|San Diego CA|1|2
+11314342|toledo, ohio|16856670|Bedford, Tarrant County, Texas|1|2
+11314342|toledo, ohio|16303389|LA & Orange County, CA|1|2
+11314342|toledo, ohio|972651|Error|1|2
+11314342|toledo, ohio|29813903|Philadelphia|1|2
+11314342|toledo, ohio|87826783|New York City |1|2
+11314342|toledo, ohio|2558047620|NYC|1|2
+11314342|toledo, ohio|160794974|Error|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|18726693|Northern Virginia|1|2
+11314342|toledo, ohio|18040434|Scarborough, ME|1|2
+11314342|toledo, ohio|88876942|San Diego, CA|1|2
+11314342|toledo, ohio|14810884|Detroit, usa|1|2
+11314342|toledo, ohio|15381545|Ohio|1|2
+11314342|toledo, ohio|14115719|Cincinnati-ish|1|2
+11314342|toledo, ohio|2167723621|Error|1|2
+11314342|toledo, ohio|60468975|Ottawa Canada|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|8596022|Boston, Massachusetts|1|2
+11314342|toledo, ohio|9676642|San Diego, Spain France Italy|1|2
+11314342|toledo, ohio|14577013|Toledo, OH | Michigan|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|21440035|I live in Mexico city|1|2
+11314342|toledo, ohio|15197493|Little Rock, AR|1|2
+11314342|toledo, ohio|1303953145|Error|1|2
+11314342|toledo, ohio|14058790|Birmingham, AL|1|2
+11314342|toledo, ohio|2611287834|Error|1|2
+11314342|toledo, ohio|24397546|Error|1|2
+11314342|toledo, ohio|290503565|Error|1|2
+11314342|toledo, ohio|48629937|Hamilton, Ontario, Canada|1|2
+11314342|toledo, ohio|43133786|Error|1|2
+11314342|toledo, ohio|57457477|USA|1|2
+11314342|toledo, ohio|6323932|Maryland USA|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|5738952|Detroit, MI|1|2
+11314342|toledo, ohio|437868889|New Jersey,  USA|1|2
+11314342|toledo, ohio|817386|San Francisco|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|11884342|Silicon Valley, CA|1|2
+11314342|toledo, ohio|15676492|Dearborn, MI|1|2
+11314342|toledo, ohio|8299792|Sydney, Australia|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|8171222|San Francisco Bay Area|1|2
+11314342|toledo, ohio|11314342|Toledo, Ohio|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|30789937|toledo,ohio|1|2
+11314342|toledo, ohio|11148342|Austin, TX|1|2
+11314342|toledo, ohio|13436432|Las Vegas, NV|1|2
+11314342|toledo, ohio|21871440|Crofton, Maryland|1|2
+11314342|toledo, ohio|10791122|Albany, New York|1|2
+11314342|toledo, ohio|10039442|Plane or C-Suite or on Camera|1|2
+11314342|toledo, ohio|2459371|Everywhere|1|2
+11314342|toledo, ohio|13632|Error|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|11489|San Francisco, CA |1|2
+11314342|toledo, ohio|1250104952|North Carolina, USA|1|2
+11314342|toledo, ohio|61524280|Detroit, MI|1|2
+11314342|toledo, ohio|50978078|Coimbatore, India|1|2
+11314342|toledo, ohio|17596014|Error|1|2
+11314342|toledo, ohio|3533231|Boston, MA|1|2
+11314342|toledo, ohio|79607330|United Kingdom|1|2
+11314342|toledo, ohio|13817822|bodybyzna.com/fastfatblast|1|2
+11314342|toledo, ohio|92296982|Airplanes|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|15768833|Central Florida|1|2
+11314342|toledo, ohio|29082715|Roxbury, NJ|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|15208271|San Jose, CA|1|2
+11314342|toledo, ohio|38055976|iPhone: 42.356697,-71.055267|1|2
+25876922|toledo, oh|19805496|NYC|3|2
+25876922|toledo, oh|23969227|Toledo, OH|1|2
+70890989|toledo, ohio|14142946|Los Angeles|2|2
+70890989|toledo, ohio|37332878|Error|2|2
+70890989|toledo, ohio|0|Error|1|2
+70890989|toledo, ohio|0|Error|1|2
+70890989|toledo, ohio|2702190626|Error|1|2
+22655658|toledo, oh|0|Error|2|2
+22655658|toledo, oh|0|Error|2|2
+22655658|toledo, oh|1528384508|Error|1|2
+22655658|toledo, oh|0|Error|1|2
+22655658|toledo, oh|0|Error|1|2
+22655658|toledo, oh|8360342|Error|1|2
+22655658|toledo, oh|28010106|Error|1|2
+22655658|toledo, oh|22655658|Toledo, OH|1|2
+22655658|toledo, oh|19517904|Black Rock, MD|1|2
+22655658|toledo, oh|215125699|Error|1|2
+19513144|toledo, ohio|32205165|TOP FLOOR!!!|5|2
+19513144|toledo, ohio|34821538|Toledo,OH |3|2
+19513144|toledo, ohio|0|Error|3|2
+19513144|toledo, ohio|71296608|miami,fl|3|2
+19513144|toledo, ohio|17969526|Error|2|2
+19513144|toledo, ohio|0|Error|1|2
+19513144|toledo, ohio|50195672|Santana, CA.|1|2
+19513144|toledo, ohio|18673750|New York, USA|1|2
+19513144|toledo, ohio|0|Error|1|2
+19513144|toledo, ohio|0|Error|1|2
+19513144|toledo, ohio|0|Error|1|2
+19513144|toledo, ohio|20167890|St. Louis, MO|1|2
+19776022|toledo, ohio|80601178|Error|1|2
+19776022|toledo, ohio|19776022|Toledo, Ohio|1|2
+39702403|toledo, ohio|22041521|Cleveland Ohio|5|2
+39702403|toledo, ohio|0|Error|3|2
+39702403|toledo, ohio|17523013|My Instagram is: KingChip216|3|2
+39702403|toledo, ohio|960734364|Error|3|2
+39702403|toledo, ohio|21499570|Philly,PA|2|2
+39702403|toledo, ohio|0|Error|2|2
+39702403|toledo, ohio|0|Error|1|2
+39702403|toledo, ohio|31110598|Atlanta|1|2
+39702403|toledo, ohio|0|Error|1|2
+39702403|toledo, ohio|61723113|ARKANSAS|1|2
+39702403|toledo, ohio|0|Error|1|2
+39702403|toledo, ohio|94355066|Toledo, Ohio|1|2
+39702403|toledo, ohio|314693594|west palm beach, fl|1|2
+39702403|toledo, ohio|0|Error|1|2
+39702403|toledo, ohio|38962127|Cincinnati, Oh|1|2
+39702403|toledo, ohio|19821876|Greenville, NC|1|2
+39702403|toledo, ohio|2676478921|Error|1|2
+39702403|toledo, ohio|72448484|Ohio|1|2
+39702403|toledo, ohio|21235546|Error|1|2
+39702403|toledo, ohio|0|Error|1|2
+39702403|toledo, ohio|39702403|OhioWorldwide|1|2
+39702403|toledo, ohio|0|Error|1|2
+39702403|toledo, ohio|90961792|Worldwide|1|2
+33807123|toledo, oh|762|ON|5|2
+33807123|toledo, oh|18173667|Lansing, MI|3|2
+33807123|toledo, oh|26304162|USA|3|2
+33807123|toledo, oh|33973228|ohio|2|2
+33807123|toledo, oh|16708911|Ashland, OR|2|2
+33807123|toledo, oh|12611642|Fairfax, VA|2|2
+33807123|toledo, oh|40301931|New Jersey|1|2
+33807123|toledo, oh|29834340|Error|1|2
+33807123|toledo, oh|28079834|iPhone: -37.878350,144.602728|1|2
+33807123|toledo, oh|15939540|Palos Park,IL|1|2
+33807123|toledo, oh|41661576|NJ|1|2
+33807123|toledo, oh|43796426|Toronto, ON, Canada|1|2
+33807123|toledo, oh|23627616|Tulsa|1|2
+33807123|toledo, oh|22628953|Brazil|1|2
+33807123|toledo, oh|38428494|Naperville, IL (Chicagoland)|1|2
+17453383|toledo, ohio|0|Error|1|2
+63959020|toledo, ohio|20096280|Error|3|2
+63959020|toledo, ohio|0|Error|2|2
+63959020|toledo, ohio|26266845|Far Rock, Queens|2|2
+63959020|toledo, ohio|55632935|Error|2|2
+63959020|toledo, ohio|125208516|Error|1|2
+63959020|toledo, ohio|0|Error|1|2
+63959020|toledo, ohio|2848915575|Error|1|2
+63959020|toledo, ohio|0|Error|1|2
+63959020|toledo, ohio|430533619|Error|1|2
+63959020|toledo, ohio|0|Error|1|2
+63959020|toledo, ohio|58971149|Error|1|2
+63959020|toledo, ohio|0|Error|1|2
+63959020|toledo, ohio|0|Error|1|2
+63959020|toledo, ohio|0|Error|1|2
+63959020|toledo, ohio|16638685|UP THRU DERE!|1|2
+63959020|toledo, ohio|23832022|Worldwide |1|2
+34610764|toledo, ohio|0|Error|10|2
+34610764|toledo, ohio|16060833|jackson,ky|3|2
+34610764|toledo, ohio|167536414|Error|1|2
+34610764|toledo, ohio|0|Error|1|2
+34610764|toledo, ohio|166690050|Worldwide|1|2
+12591732|toledo, oh|35023086|Brooklyn, NY|2|2
+12591732|toledo, oh|0|Error|1|2
+12591732|toledo, oh|46034063|Texas|1|2
+12591732|toledo, oh|16927910|Error|1|2
+12591732|toledo, oh|17387589|Out West|1|2
+12591732|toledo, oh|286959333|Wandering|1|2
+12591732|toledo, oh|2982337323|Error|1|2
+12591732|toledo, oh|0|Error|1|2
+12591732|toledo, oh|25344447|Port St. Lucie, FL|1|2
+12591732|toledo, oh|17461226|Error|1|2
+12591732|toledo, oh|14720411|So. Cal|1|2
+12591732|toledo, oh|0|Error|1|2
+12591732|toledo, oh|17454769|Dallas, TX. Rockies, NYC.|1|2
+12591732|toledo, oh|0|Error|1|2
+12591732|toledo, oh|43964874|Error|1|2
+12591732|toledo, oh|14737532|somewhere in east San Diego|1|2
+12591732|toledo, oh|27528743|Houston, Texas|1|2
+12591732|toledo, oh|0|Error|1|2
+29383103|toledo, ohio|22743801|NC, USA|1|2
+68189509|toledo, oh|23061776|Error|2|2
+15784742|toledo, oh|17573711|Georgia|4|2
+15784742|toledo, oh|67432980|U.S.A. & Canada|2|2
+15784742|toledo, oh|16936018|Collegedale, TN|2|2
+15784742|toledo, oh|22211029|Hawaii, USA|2|2
+15784742|toledo, oh|21204583|30 States|2|2
+15784742|toledo, oh|1100251|Toledo, Ohio | Metro Detroit|1|2
+15784742|toledo, oh|0|Error|1|2
+15784742|toledo, oh|57649393|Virginia|1|2
+15784742|toledo, oh|0|Error|1|2
+15784742|toledo, oh|20736915|Round Rock, TX|1|2
+15784742|toledo, oh|25935144|Miami, Florida|1|2
+15784742|toledo, oh|57979429|New York, NY|1|2
+15784742|toledo, oh|1071940014|Monroe MI|1|2
+15784742|toledo, oh|3751996888|Error|1|2
+15784742|toledo, oh|408270478|Error|1|2
+15784742|toledo, oh|16043308|Error|1|2
+15784742|toledo, oh|16471088|Hamilton, ON Canada|1|2
+16881194|toledo, oh|14772680|Canton, GA|6|2
+16881194|toledo, oh|0|Error|4|2
+16881194|toledo, oh|19529932|West Bloomfield, MI|3|2
+16881194|toledo, oh|15295353|Ohio|3|2
+16881194|toledo, oh|14199624|Whitefish Bay/Milwaukee WI USA|2|2
+16881194|toledo, oh|14828064|Colorado Springs, CO|1|2
+16881194|toledo, oh|19210268|Satellite Beach, FL|1|2
+16881194|toledo, oh|9700652|Knoxville, TN|1|2
+16881194|toledo, oh|0|Error|1|2
+16881194|toledo, oh|14200259|Peachtree City, GA|1|2
+16881194|toledo, oh|15148682|Washington Twp., MI, USA|1|2
+63019721|toledo, oh|30147417|Music City|4|2
+63019721|toledo, oh|37332878|Error|1|2
+63019721|toledo, oh|2702190626|Error|1|2
+63019721|toledo, oh|0|Error|1|2
+29494731|toledo, oh|22655658|Toledo, OH|1|2
+15863978|toledo, ohio|16731366|Dayton, OH|2|2
+15863978|toledo, ohio|15959590|iPhone: 31.294250,-92.478592|2|2
+15863978|toledo, ohio|15935573|iPhone: 31.290693,-92.479240|1|2
+15863978|toledo, ohio|1649259415|Error|1|2
+14823961|toledo, oh|16254132|Toledo, Ohio|3|2
+14823961|toledo, oh|46308633|Cincinnati, OH|2|2
+14823961|toledo, oh|13472432|Toledo, Ohio|2|2
+14823961|toledo, oh|25899016|Toledo, Ohio|1|2
+14823961|toledo, oh|0|Error|1|2
+14823961|toledo, oh|0|Error|1|2
+14823961|toledo, oh|27088695|Cincinnati, OH|1|2
+14823961|toledo, oh|15789234|Pemberville Ohio|1|2
+14823961|toledo, oh|14179165|Washington, D.C.|1|2
+14823961|toledo, oh|15567472|Minneapolis, MN|1|2
+29546255|toledo, ohio|51300714|California|1|2
+29546255|toledo, ohio|17549101|Error|1|2
+24326986|toledo, ohio|18447687|California, USA|1|2
+24326986|toledo, ohio|14373333|Fresno, CA|1|2
+15939060|toledo, oh|16420549|Error|2|2
+15939060|toledo, oh|1473111974|Error|2|2
+15939060|toledo, oh|21576930|Lancaster, Ontario|2|2
+15939060|toledo, oh|26187777|Jacksonville, FL|1|2
+15939060|toledo, oh|16496063|Lawrenceville, GA|1|2
+15939060|toledo, oh|17524927|Regina, Saskatchewan|1|2
+15939060|toledo, oh|14549852|Denton, Texas|1|2
+15939060|toledo, oh|0|Error|1|2
+15939060|toledo, oh|27085031|Toronto, Canada|1|2
+15939060|toledo, oh|0|Error|1|2
+15939060|toledo, oh|0|Error|1|2
+61028673|toledo, ohio|28517411|Cleveland, OH|2|2
+61028673|toledo, ohio|16190898|Los Angeles, CA|2|2
+61028673|toledo, ohio|0|Error|1|2
+61028673|toledo, ohio|0|Error|1|2
+61028673|toledo, ohio|209357339|EveryWhere|1|2
+69439431|toledo, oh|67789159|Ohio|8|2
+39085881|toledo, ohio|16553826|iPhone: 33.955437,-118.396156|1|2
+39085881|toledo, ohio|23701384|Ventura, California|1|2
+39085881|toledo, ohio|19750387|Canada|1|2
+39085881|toledo, ohio|17542894|Canada|1|2
+19273097|toledo, oh|20164536|Error|6|2
+19273097|toledo, oh|3317975766|Des Moines, IA|4|2
+19273097|toledo, oh|0|Error|3|2
+19273097|toledo, oh|18316735|NY|2|2
+19273097|toledo, oh|755470580|Error|2|2
+19273097|toledo, oh|19427125|Dallas, TX|1|2
+19273097|toledo, oh|2863718038|Error|1|2
+19273097|toledo, oh|16648790|U.S.|1|2
+19273097|toledo, oh|65674570|Error|1|2
+19273097|toledo, oh|0|Error|1|2
+19273097|toledo, oh|28911717|Rural Missouri|1|2
+19273097|toledo, oh|48545612|Error|1|2
+19273097|toledo, oh|15784742|Toledo, OH|1|2
+19273097|toledo, oh|28050260|Error|1|2
+19273097|toledo, oh|14189931|NC|1|2
+39111762|toledo, ohio|0|Error|4|2
+39111762|toledo, ohio|389842822|Toledo, Ohio|2|2
+39111762|toledo, ohio|15014405|Silicon Valley, CA|1|2
+39111762|toledo, ohio|0|Error|1|2
+39111762|toledo, ohio|27752448|Louisiana to Columbus, OH|1|2
+26566976|toledo, oh|285143369|United States|3|2
+26566976|toledo, oh|0|Error|3|2
+26566976|toledo, oh|0|Error|1|2
+26566976|toledo, oh|0|Error|1|2
+26566976|toledo, oh|76134042|Error|1|2
+26566976|toledo, oh|0|Error|1|2
+26566976|toledo, oh|158038356|Error|1|2
+26566976|toledo, oh|0|Error|1|2
+43362573|toledo, ohio|725363|Kent, OH|2|2
+43362573|toledo, ohio|2602907059|New Hampshire|1|2
+17150441|toledo, oh|6627752|Utah|3|2
+17150441|toledo, oh|20109973|New York, New York|2|2
+17150441|toledo, oh|18829528|Dublin, Ireland|2|2
+17150441|toledo, oh|0|Error|1|2
+17150441|toledo, oh|32763205|St Jacob Illinois|1|2
+17150441|toledo, oh|14511951|Error|1|2
+17150441|toledo, oh|0|Error|1|2
+21365247|toledo, oh|20962576|Houston, TX|1|2
+21365247|toledo, oh|22405491|Glass City|1|2
+3544881|toledo, ohio|19940573|Cleveland, OH|7|2
+3544881|toledo, ohio|660723|Maumee, Ohio|2|2
+3544881|toledo, ohio|14278333|Fort Wayne, Indiana, USA, Eart|2|2
+3544881|toledo, ohio|5795162|Toledo, Ohio|2|2
+3544881|toledo, ohio|38409467|Error|1|2
+3544881|toledo, ohio|16111823|NW Ohio|1|2
+3544881|toledo, ohio|15381545|Ohio|1|2
+3544881|toledo, ohio|22655658|Toledo, OH|1|2
+3544881|toledo, ohio|27483961|Error|1|2
+3544881|toledo, ohio|30904293|Toledo, OH|1|2
+3544881|toledo, ohio|50291714|1120 Adams St. |1|2
+19776022|toledo, ohio|38409467|Error|1|2
+19776022|toledo, ohio|19776022|Toledo, Ohio|1|2
+19776022|toledo, ohio|31186714|Bowling Green, Ohio|1|2
+19776022|toledo, ohio|27483961|Error|1|2
+19776022|toledo, ohio|0|Error|1|2
+19776022|toledo, ohio|30103231|FOX|1|2
+19776022|toledo, ohio|0|Error|1|2
+4604061|toledo, oh|3377300405|Maharashtra.|3|2
+4604061|toledo, oh|258791101|MIT|3|2
+4604061|toledo, oh|0|Error|2|2
+4604061|toledo, oh|16104618|Error|2|2
+4604061|toledo, oh|2452365379|Error|2|2
+4604061|toledo, oh|0|Error|1|2
+4604061|toledo, oh|14806548|Ohio|1|2
+4604061|toledo, oh|14526732|St. Simons Island, GA|1|2
+4604061|toledo, oh|14540128|Salem, Oregon|1|2
+25576418|toledo, ohio|0|Error|1|2
+26697901|toledo, ohio|44315401|Oxford UK|1|2
+27752448|toledo, oh|28697746|Cleveland, OH|4|2
+27752448|toledo, oh|29365099|CLEVELAND, OHIO|3|2
+27752448|toledo, oh|0|Error|3|2
+27752448|toledo, oh|27752448|Louisiana to Columbus, OH|2|2
+27752448|toledo, oh|18508048|HOUSTON/LA/NYC|1|2
+27752448|toledo, oh|25204954|Cleveland, OH|1|2
+27752448|toledo, oh|11738562|Tallahassee, Florida|1|2
+27752448|toledo, oh|0|Error|1|2
+27752448|toledo, oh|0|Error|1|2
+27752448|toledo, oh|2944945147|KEEP OUT!|1|2
+40357892|toledo, ohio|74337357|Toledo, OH, USA|4|2
+40357892|toledo, ohio|349014862|Error|4|2
+40357892|toledo, ohio|33969344|In my purpose|2|2
+40357892|toledo, ohio|21380653|9,733,029 followers|1|2
+40357892|toledo, ohio|0|Error|1|2
+40357892|toledo, ohio|18733615|hollywood|1|2
+40357892|toledo, ohio|0|Error|1|2
+33990271|toledo, oh|42880529|Toledo Ohio|5|2
+33990271|toledo, oh|14270784|Error|4|2
+33990271|toledo, oh|40960596|Northwest Ohio & Online|1|2
+33990271|toledo, oh|343811625|Minneapolis|1|2
+33990271|toledo, oh|15064679|Ohio, USA|1|2
+59287640|toledo, ohio|18918939|Error|1|2
+59287640|toledo, ohio|48670430|Ohio, USA|1|2
+59287640|toledo, ohio|220834843|Error|1|2
+59287640|toledo, ohio|61827027|Pittsburgh|1|2
+59287640|toledo, ohio|0|Error|1|2
+59287640|toledo, ohio|15816595|Nashville, TN|1|2
+72938587|toledo, oh|25415355|Error|1|2
+5848932|toledo, oh|29564417|The Twitcave|7|2
+5848932|toledo, oh|0|Error|2|2
+5848932|toledo, oh|18252740|Vancouver, BC|1|2
+16356226|toledo, ohio|0|Error|1|2
+17426985|toledo, oh|17428193|Error|1|2
+17426985|toledo, oh|0|Error|1|2
+17426985|toledo, oh|19637934|Los Angeles-ish|1|2
+17482020|toledo, oh|76743122|Error|1|2
+13302432|toledo, ohio|15432680|Toledo, Ohio|2|2
+13302432|toledo, ohio|0|Error|1|2
+13302432|toledo, ohio|18977245|NW Ohio, SE Michigan|1|2
+13302432|toledo, ohio|17452107|Toledo, Ohio|1|2
+13302432|toledo, ohio|0|Error|1|2
+13302432|toledo, ohio|25982877|Toledo, Ohio|1|2
+13302432|toledo, ohio|14949009|Midwest & Beyond.|1|2
+13302432|toledo, ohio|0|Error|1|2
+13302432|toledo, ohio|15435061|Toledo, OH|1|2
+13302432|toledo, ohio|0|Error|1|2
+14352989|toledo, oh|26926269|Durham, NC|3|2
+14352989|toledo, oh|2814067619|Error|3|2
+14352989|toledo, oh|24760110|Vancouver, WA|3|2
+14352989|toledo, oh|17745701|NJ + beyond!|3|2
+14352989|toledo, oh|29915736|Montclair NJ|2|2
+14352989|toledo, oh|28672075|Lancaster, PA, USA|1|2
+14352989|toledo, oh|27584974|Oklahoma City|1|2
+14352989|toledo, oh|609234586|Error|1|2
+14352989|toledo, oh|22443043|Athens, GA USA|1|2
+14352989|toledo, oh|19302112|Dublin|1|2
+14352989|toledo, oh|0|Error|1|2
+14352989|toledo, oh|17542682|Boynton Beach, FL|1|2
+14352989|toledo, oh|34528094|Michigan|1|2
+14352989|toledo, oh|26679900|Spokane, WA|1|2
+14352989|toledo, oh|22866150|Hood River, OR, USA|1|2
+46867570|toledo, ohio|18544259|Error|5|2
+46867570|toledo, ohio|0|Error|4|2
+46867570|toledo, ohio|30213342|everywhere|3|2
+46867570|toledo, ohio|0|Error|2|2
+46867570|toledo, ohio|0|Error|1|2
+46867570|toledo, ohio|0|Error|1|2
+46867570|toledo, ohio|0|Error|1|2
+46867570|toledo, ohio|0|Error|1|2
+46867570|toledo, ohio|46529181|Toledo, Ohio|1|2
+46867570|toledo, ohio|3365354243|Ohio|1|2
+18125201|toledo, oh|6290252|Torrance, California|3|2
+18125201|toledo, oh|24633384|Glass City, Earth|3|2
+18125201|toledo, oh|0|Error|3|2
+18125201|toledo, oh|18125809|toyokawa, japan|2|2
+18125201|toledo, oh|0|Error|1|2
+18125201|toledo, oh|155678571|Error|1|2
+18125201|toledo, oh|0|Error|1|2
+18125201|toledo, oh|14806548|Ohio|1|2
+18125201|toledo, oh|21150333|mesa. az|1|2
+18125201|toledo, oh|19002856|Toledo, OH|1|2
+14387764|toledo, ohio|660723|Maumee, Ohio|3|2
+14387764|toledo, ohio|14098915|iPhone: 40.652359,-111.929532|2|2
+14387764|toledo, ohio|23607132|Error|2|2
+14387764|toledo, ohio|15344157|Toledo, Ohio|1|2
+14387764|toledo, ohio|0|Error|1|2
+14387764|toledo, ohio|16827000|Toledo, Ohio|1|2
+14387764|toledo, ohio|6258932|Geneva, IL|1|2
+21735586|toledo, ohio|105500008|Duisburg|1|2
+21735586|toledo, ohio|19058681|Los Angeles, California|1|2
+21735586|toledo, ohio|20355415|Error|1|2
+21735586|toledo, ohio|0|Error|1|2
+21735586|toledo, ohio|268414482|@happyhippiefdn|1|2
+21750704|toledo, ohio|23698080|Columbus, Ohio|2|2
+21750704|toledo, ohio|22655658|Toledo, OH|1|2
+21750704|toledo, ohio|24217997|Toledo, Ohio|1|2
+21750704|toledo, ohio|56822605|Toledo, OH|1|2
+21750704|toledo, ohio|20990788|Toledo, Ohio|1|2
+32281167|toledo, ohio|0|Error|13|2
+11314342|toledo, ohio|11063312|San Jose, Ca|3|2
+11314342|toledo, ohio|9766942|Detroit, Michigan|3|2
+11314342|toledo, ohio|15164442|Burlington, ON, Canada|1|2
+11314342|toledo, ohio|15367215|charleston, sc|1|2
+11314342|toledo, ohio|16753568|Barrie, ON|1|2
+11314342|toledo, ohio|8596022|Boston, Massachusetts|1|2
+11314342|toledo, ohio|115785769|Error|1|2
+11314342|toledo, ohio|0|Error|1|2
+11314342|toledo, ohio|25136776|Error|1|2
+11314342|toledo, ohio|16396386|Palma de Mallorca|1|2
+11314342|toledo, ohio|67923|37.468019,-122.430062|1|2
+11314342|toledo, ohio|20267675|Connecticut|1|2
+11314342|toledo, ohio|34934052|Global|1|2
+11314342|toledo, ohio|5485192|Salt Lake City, UT|1|2
+24081127|toledo, ohio|14522972|birmingham, usa|2|2
+24081127|toledo, ohio|82725555|Error|2|2
+24081127|toledo, ohio|0|Error|1|2
+75285329|toledo, ohio|0|Error|2|2
+75285329|toledo, ohio|0|Error|1|2
+14581931|toledo, oh|6892242|Columbus, Indiana|2|2
+14581931|toledo, oh|14114081|Vegas|2|2
+14581931|toledo, oh|15240545|Cle.Hts.|1|2
+14581931|toledo, oh|15023348|San Francisco Bay Area|1|2
+67620333|toledo, ohio|18643401|Way out in the desert|5|2
+67620333|toledo, ohio|51566951|Wherever the plane lands|3|2
+67620333|toledo, ohio|0|Error|2|2
+67620333|toledo, ohio|20152072|Florida|2|2
+67620333|toledo, ohio|28985803|riding on the wing of a bird|1|2
+67620333|toledo, ohio|0|Error|1|2
+67620333|toledo, ohio|16507919|Pale Blue Dot|1|2
+67620333|toledo, ohio|131058770|Greece|1|2
+67620333|toledo, ohio|25415355|Error|1|2
+48400295|toledo, ohio|0|Error|1|2
+48400295|toledo, ohio|53262154|thuggin in a field of flowers...|1|2
+48400295|toledo, ohio|0|Error|1|2
+48400295|toledo, ohio|0|Error|1|2
+48400295|toledo, ohio|0|Error|1|2
+48400295|toledo, ohio|0|Error|1|2
+48400295|toledo, ohio|0|Error|1|2
+48400295|toledo, ohio|0|Error|1|2
+48400295|toledo, ohio|0|Error|1|2
+48400295|toledo, ohio|0|Error|1|2
+48400295|toledo, ohio|437238463|Error|1|2
+48400295|toledo, ohio|0|Error|1|2
+48400295|toledo, ohio|0|Error|1|2
+49800845|toledo, oh|45003110|Error|6|2
+49800845|toledo, oh|598773302|Error|1|2
+49800845|toledo, oh|556032378|Error|1|2
+49800845|toledo, oh|18393773|a bit all over the place|1|2

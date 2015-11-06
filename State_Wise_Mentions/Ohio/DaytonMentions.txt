@@ -1,0 +1,1387 @@
+76159921|dayton, oh|230096902|Error|8|2
+76159921|dayton, oh|0|Error|2|2
+76159921|dayton, oh|27791181|Chicago, IL|2|2
+76159921|dayton, oh|0|Error|2|2
+76159921|dayton, oh|27774100|Everybody's Big Brother |1|2
+76159921|dayton, oh|532120876|Error|1|2
+76159921|dayton, oh|221822148|Error|1|2
+76159921|dayton, oh|35787166|The Pinkprint in stores NOW|1|2
+76159921|dayton, oh|20342007|Worldwide|1|2
+76159921|dayton, oh|594458865|Error|1|2
+76159921|dayton, oh|30309979|New York, NY|1|2
+83766956|dayton, ohio|16573084|Studio City, California|3|2
+83766956|dayton, ohio|23984253|Error|1|2
+83766956|dayton, ohio|0|Error|1|2
+83766956|dayton, ohio|0|Error|1|2
+83766956|dayton, ohio|8453452|Silicon Valley, California|1|2
+21774853|dayton, ohio|16528872|Error|1|2
+21774853|dayton, ohio|14294699|Toronto, Ontario, Canada|1|2
+21774853|dayton, ohio|0|Error|1|2
+14582450|dayton, ohio|208037902|Error|5|2
+14582450|dayton, ohio|15350768|37.622635,-122.416227|5|2
+14582450|dayton, ohio|14326840|West Coast USA|1|2
+14582450|dayton, ohio|79797834|Chicago|1|2
+14582450|dayton, ohio|18464534|Costco|1|2
+14582450|dayton, ohio|6117452|NYC|1|2
+14582450|dayton, ohio|2062801|Downtown Austin, Texas|1|2
+18105715|dayton, oh|23619366|jcdanielsblog.com|4|2
+18105715|dayton, oh|16005592|Dallas,TX|3|2
+18105715|dayton, oh|15737072|England|2|2
+18105715|dayton, oh|14276749|Ypsilanti, MI|2|2
+18105715|dayton, oh|0|Error|2|2
+18105715|dayton, oh|27091586|USA|1|2
+18105715|dayton, oh|16543012|North Carolina|1|2
+18105715|dayton, oh|23667828|Virginia, USA|1|2
+18105715|dayton, oh|1462111|World-wide! |1|2
+17188476|dayton, ohio|14246782|NYC expat in San Diego, CA|7|2
+17188476|dayton, ohio|28345394|Chicago|6|2
+17188476|dayton, ohio|22493241|in the world, but not of it|4|2
+17188476|dayton, ohio|20796323|San Diego, CA|2|2
+17188476|dayton, ohio|16105942|Philadelphia|2|2
+17188476|dayton, ohio|15917084|Chicago ILLANNOYS|2|2
+17188476|dayton, ohio|13014342|Brussels, Belgium|1|2
+17188476|dayton, ohio|15179525|London, UK|1|2
+17188476|dayton, ohio|0|Error|1|2
+17188476|dayton, ohio|17188476|Dayton, Ohio|1|2
+17188476|dayton, ohio|31242594|Chicago, Illinois, Earth |1|2
+17188476|dayton, ohio|19068490|London|1|2
+17188476|dayton, ohio|15931128|The Foothills of Madness, NY|1|2
+17188476|dayton, ohio|18396070|Los Angeles, CA|1|2
+17188476|dayton, ohio|62581962|Error|1|2
+17188476|dayton, ohio|23729225|Error|1|2
+17188476|dayton, ohio|18197476|Jerome, Arizona|1|2
+17188476|dayton, ohio|0|Error|1|2
+17188476|dayton, ohio|29496405|Philadelphia, PA|1|2
+17188476|dayton, ohio|82654528|hollywood, CA|1|2
+17188476|dayton, ohio|25877105|Kent, UK|1|2
+19029476|dayton, ohio|22037961|Dayton, OH|10|2
+19029476|dayton, ohio|1335479425|Error|3|2
+19029476|dayton, ohio|23210951|Dayton OH|2|2
+19029476|dayton, ohio|15347711|Charleston, SC|1|2
+19029476|dayton, ohio|1746891|Santa Cruz mountains|1|2
+19029476|dayton, ohio|16226484|Minneapolis, Minnesota|1|2
+19029476|dayton, ohio|0|Error|1|2
+19029476|dayton, ohio|29600506|Chennai, India|1|2
+19029476|dayton, ohio|0|Error|1|2
+19029476|dayton, ohio|15627208|Dayton, Oh|1|2
+19029476|dayton, ohio|23070306|Washington, D.C.|1|2
+19029476|dayton, ohio|26072066|Lexington, KY|1|2
+19029476|dayton, ohio|17057271|New York, NY|1|2
+19029476|dayton, ohio|10373972|Portland, OR and the World|1|2
+19029476|dayton, ohio|900851|Cleveland, OH|1|2
+19029476|dayton, ohio|31220594|Dayton, Ohio|1|2
+19029476|dayton, ohio|10880202|Washington, D.C.|1|2
+19029476|dayton, ohio|17795052|Dayton Ohio|1|2
+19029476|dayton, ohio|16841499|Oklahoma|1|2
+24276503|dayton, oh|0|Error|11|2
+24276503|dayton, oh|1240329986|Error|1|2
+24276503|dayton, oh|16539403|Texas|1|2
+17809879|dayton, ohio|14381466|Burbank, CA|3|2
+17809879|dayton, ohio|15800135|Phoenix|2|2
+17809879|dayton, ohio|8453452|Silicon Valley, California|2|2
+17809879|dayton, ohio|27704113|Error|2|2
+17809879|dayton, ohio|20340782|Jakarta|2|2
+17809879|dayton, ohio|35767916|Phoenix & Minneapolis, USA|2|2
+17809879|dayton, ohio|35234424|Redding, CA|1|2
+17809879|dayton, ohio|17809879|Columbus, Ohio|1|2
+17809879|dayton, ohio|0|Error|1|2
+17809879|dayton, ohio|11434252|Michigan, USA|1|2
+17809879|dayton, ohio|15972469|Dayton, Ohio, USA|1|2
+17809879|dayton, ohio|60892315|Germany|1|2
+17809879|dayton, ohio|0|Error|1|2
+17809879|dayton, ohio|17008328|California|1|2
+17809879|dayton, ohio|16427888|Naples, FL|1|2
+17809879|dayton, ohio|407428600|Error|1|2
+17809879|dayton, ohio|33998869|San Antonio, Texas|1|2
+17809879|dayton, ohio|0|Error|1|2
+17809879|dayton, ohio|65821853|Error|1|2
+17809879|dayton, ohio|33578917|San Diego|1|2
+17809879|dayton, ohio|0|Error|1|2
+17809879|dayton, ohio|218385864|Error|1|2
+17809879|dayton, ohio|14811665|Park City, UT|1|2
+17809879|dayton, ohio|17861518|Error|1|2
+17809879|dayton, ohio|0|Error|1|2
+17809879|dayton, ohio|18055806|los angeles|1|2
+17809879|dayton, ohio|19639088|Utah|1|2
+72654057|dayton, ohio|18620441|Tampa Bay|2|2
+72654057|dayton, ohio|24100116|Newport News VA|2|2
+72654057|dayton, ohio|34314757|Florida USA|2|2
+72654057|dayton, ohio|28287360|Northern California, Bay Area|2|2
+72654057|dayton, ohio|3652891|Sydney, Australia|1|2
+72654057|dayton, ohio|0|Error|1|2
+72654057|dayton, ohio|17033150|Southwest US|1|2
+72654057|dayton, ohio|70398461|BKK, THAILAND|1|2
+72654057|dayton, ohio|254818194|Error|1|2
+72654057|dayton, ohio|16978843|Sydney|1|2
+72654057|dayton, ohio|0|Error|1|2
+72654057|dayton, ohio|85665711|Alice, Texas|1|2
+72654057|dayton, ohio|81766660|Santa Monica, CA|1|2
+72654057|dayton, ohio|50138387|Ohio|1|2
+72654057|dayton, ohio|0|Error|1|2
+72654057|dayton, ohio|0|Error|1|2
+72654057|dayton, ohio|72446078|Jacksonville, FL|1|2
+72654057|dayton, ohio|0|Error|1|2
+72654057|dayton, ohio|0|Error|1|2
+72654057|dayton, ohio|171317482|Error|1|2
+72654057|dayton, ohio|0|Error|1|2
+39230770|dayton, ohio|41419935|Error|8|2
+39230770|dayton, ohio|2845806446|Error|2|2
+39230770|dayton, ohio|16264006|jet lag city.|2|2
+39230770|dayton, ohio|40981798|get our deluxe album here! -|1|2
+39230770|dayton, ohio|16323833|New York, NY|1|2
+39230770|dayton, ohio|2367911|NYC|1|2
+39230770|dayton, ohio|44407032|Sacramento, CA|1|2
+39230770|dayton, ohio|54710709|at marshmallow castle |1|2
+39230770|dayton, ohio|377541131|Error|1|2
+39230770|dayton, ohio|41441059|California|1|2
+39230770|dayton, ohio|0|Error|1|2
+49587132|dayton, ohio|0|Error|2|2
+49587132|dayton, ohio|0|Error|1|2
+49587132|dayton, ohio|17112462|Error|1|2
+49587132|dayton, ohio|0|Error|1|2
+49587132|dayton, ohio|0|Error|1|2
+49587132|dayton, ohio|24721518|London|1|2
+49587132|dayton, ohio|0|Error|1|2
+49587132|dayton, ohio|0|Error|1|2
+49587132|dayton, ohio|0|Error|1|2
+49587132|dayton, ohio|68212544|Midwest|1|2
+49587132|dayton, ohio|34718794|Hollywood, CA|1|2
+49587132|dayton, ohio|25352250|cincinnati,ohio|1|2
+49587132|dayton, ohio|0|Error|1|2
+49587132|dayton, ohio|0|Error|1|2
+49587132|dayton, ohio|18027950|Austin, TX|1|2
+49587132|dayton, ohio|43611250|Texas|1|2
+49587132|dayton, ohio|816653|San Francisco, CA|1|2
+49587132|dayton, ohio|1709346578|Error|1|2
+22028123|dayton, ohio|22028123|Dayton, Ohio|23|2
+22028123|dayton, ohio|25688058|Sweden|8|2
+22028123|dayton, ohio|76756680|Minas Gerais|6|2
+22028123|dayton, ohio|26645771|Brazil to USA|6|2
+22028123|dayton, ohio|80045677|Error|6|2
+22028123|dayton, ohio|26887955|Jacksonville Florida|6|2
+22028123|dayton, ohio|547128378|Error|6|2
+22028123|dayton, ohio|0|Error|5|2
+22028123|dayton, ohio|38632678|San Diego, Ca/Phx AZ|5|2
+22028123|dayton, ohio|730904910|Error|5|2
+22028123|dayton, ohio|16871663|Rio de Janeiro, Rio de Janeiro|5|2
+22028123|dayton, ohio|132769981|Error|5|2
+22028123|dayton, ohio|55674990|Lubbock, TX.|5|2
+22028123|dayton, ohio|54288505|Asbury Park, New Jersey|5|2
+22028123|dayton, ohio|268200430|Brasil|5|2
+22028123|dayton, ohio|0|Error|5|2
+22028123|dayton, ohio|0|Error|4|2
+22028123|dayton, ohio|35569844|Virginia Beach|4|2
+22028123|dayton, ohio|334300789|DM[V] by way #SoCo|4|2
+22028123|dayton, ohio|81968176|Curitiba, PR / Bauru, SP|4|2
+22028123|dayton, ohio|47862283|MG|4|2
+22028123|dayton, ohio|24100116|Newport News VA|4|2
+22028123|dayton, ohio|993318343|Error|4|2
+22028123|dayton, ohio|70419617|Boca Raton- FL - /USA|4|2
+22028123|dayton, ohio|26839944|greenville, nc|4|2
+22028123|dayton, ohio|0|Error|4|2
+22028123|dayton, ohio|0|Error|4|2
+22028123|dayton, ohio|0|Error|4|2
+22028123|dayton, ohio|16413061|Boston|4|2
+22028123|dayton, ohio|223344999|Error|4|2
+22028123|dayton, ohio|19407975|Tampa, FL|4|2
+22028123|dayton, ohio|138027345|The Old Coach House, Harston|4|2
+22028123|dayton, ohio|35837162|H I L L S I D E P R O J E C T |4|2
+22028123|dayton, ohio|62006607|TwilightVerse|4|2
+22028123|dayton, ohio|976437271|Error|4|2
+22028123|dayton, ohio|0|Error|4|2
+22028123|dayton, ohio|0|Error|4|2
+22028123|dayton, ohio|0|Error|4|2
+22028123|dayton, ohio|15958265|Frisco, TX|3|2
+22028123|dayton, ohio|1879168682|Indonesia|3|2
+22028123|dayton, ohio|0|Error|3|2
+22028123|dayton, ohio|0|Error|3|2
+22028123|dayton, ohio|22708140|winnipeg,canada|3|2
+22028123|dayton, ohio|0|Error|3|2
+22028123|dayton, ohio|0|Error|3|2
+22028123|dayton, ohio|62033243|BRASIL|3|2
+22028123|dayton, ohio|69142745|Brasil|3|2
+22028123|dayton, ohio|37420236|Brasilia|3|2
+22028123|dayton, ohio|0|Error|3|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|63103095|hawai|2|2
+22028123|dayton, ohio|19832980|Michigan|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|21541548|Sacramento, California|2|2
+22028123|dayton, ohio|23318459|Brussels,Belgium|2|2
+22028123|dayton, ohio|28135772|TEXAS|2|2
+22028123|dayton, ohio|19770339|LI, NY|2|2
+22028123|dayton, ohio|16737955|Porto Aelgre|2|2
+22028123|dayton, ohio|78158425|Greenwood |2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|20402581|Myrtle Beach, SC|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|79035469|Rio de janeiro - Brasil|2|2
+22028123|dayton, ohio|16128589|Houston|2|2
+22028123|dayton, ohio|488028519|Error|2|2
+22028123|dayton, ohio|84855187|Rio de janeiro - Brasil|2|2
+22028123|dayton, ohio|34405273|San Diego|2|2
+22028123|dayton, ohio|17086556|Wilmington, Delaware|2|2
+22028123|dayton, ohio|14237254|Wilmington, NC |2|2
+22028123|dayton, ohio|60695143|Fort Collins Northern Colorado|2|2
+22028123|dayton, ohio|22015020|South Alabama|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|18832833|St. Louis|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|88712344|Goiania|2|2
+22028123|dayton, ohio|21990854|PAKISTAN|2|2
+22028123|dayton, ohio|31891798|Houston|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|64082036|Tokyo, Japan|2|2
+22028123|dayton, ohio|15364944|Middle Tennessee|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|23259849|Key West|2|2
+22028123|dayton, ohio|23357740|Sydney|2|2
+22028123|dayton, ohio|323428158|kitson town |2|2
+22028123|dayton, ohio|31407208|Australia, Worldwide|2|2
+22028123|dayton, ohio|16373550|Longmont CO. 80501|2|2
+22028123|dayton, ohio|188999298|Orion.|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|38254564|In the kitchen...|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|481596719|Error|2|2
+22028123|dayton, ohio|24839313|KCMO|2|2
+22028123|dayton, ohio|19130934|Hawaii-Kohala Coast-Big Island|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|42042536|Worldwide|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|0|Error|2|2
+22028123|dayton, ohio|18692554|Error|2|2
+22028123|dayton, ohio|576498254|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|50096394|Cleveland, OH|1|2
+22028123|dayton, ohio|28356943|Riviera Maya Mexico|1|2
+22028123|dayton, ohio|22823333|The Golden State|1|2
+22028123|dayton, ohio|15029057|Ohio - The Heart of the USA|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|42000331|Bulverde, TX|1|2
+22028123|dayton, ohio|135456764|Leeds|1|2
+22028123|dayton, ohio|24468732|Lakeland, Florida|1|2
+22028123|dayton, ohio|28510238|anchorage, alaska|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|88334526|Fayetteville Ar.|1|2
+22028123|dayton, ohio|9827432|iPhone: 41.607712,2.285431|1|2
+22028123|dayton, ohio|16912241|Heart of Texas|1|2
+22028123|dayton, ohio|48050718|iPhone: 37.612274,-97.312431|1|2
+22028123|dayton, ohio|618959806|Error|1|2
+22028123|dayton, ohio|55712857|Australia|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|4114768132|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|22504283|So California|1|2
+22028123|dayton, ohio|143206039|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|20437257|Spain|1|2
+22028123|dayton, ohio|1968723356|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|7101342|HK|1|2
+22028123|dayton, ohio|21542738|Buenos Aires, Argentina|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|16956020|Montreal, Quebec, Canada|1|2
+22028123|dayton, ohio|18893703|VA |1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|41923186|Scottsdale, Arizona|1|2
+22028123|dayton, ohio|40715320|London & globetrotting|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|14154581|Audubon PA|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|61459856|Pittsburgh, PA|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|951831|Error|1|2
+22028123|dayton, ohio|16725405|Pennsylvania|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|67351534|London, UK|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|799718683|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|26045102|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|16619558|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|11376402|Error|1|2
+22028123|dayton, ohio|39165806|USA|1|2
+22028123|dayton, ohio|40978340|Italy-San Daniele(north-east)|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|74265831|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|12583842|California|1|2
+22028123|dayton, ohio|1577884358|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|29521486|Mexico|1|2
+22028123|dayton, ohio|14083852|Hasta la desa de la desa|1|2
+22028123|dayton, ohio|31250906|ATL / NYC / LA / MIA|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|21733345|Error|1|2
+22028123|dayton, ohio|266817818|Error|1|2
+22028123|dayton, ohio|48748399|#Phoenix, #AZ #USA|1|2
+22028123|dayton, ohio|20942224|Pennsylvania|1|2
+22028123|dayton, ohio|14699530|Error|1|2
+22028123|dayton, ohio|32023796|Distrito Federal|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|1135440426|Troy, NY|1|2
+22028123|dayton, ohio|23817411|Willimantic CT USA|1|2
+22028123|dayton, ohio|28834064|nc coast usa|1|2
+22028123|dayton, ohio|56812187|Indaiatuba|1|2
+22028123|dayton, ohio|81897074|Israel|1|2
+22028123|dayton, ohio|360878916|Error|1|2
+22028123|dayton, ohio|17094167|Pennsylvania |1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|14371931|Sacramento|1|2
+22028123|dayton, ohio|34374239|Machado/MG|1|2
+22028123|dayton, ohio|14821347|Augusta|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|22516489|Atlanta|1|2
+22028123|dayton, ohio|49529519|Currently Houston, TX|1|2
+22028123|dayton, ohio|282715807|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|21548052|Ohio, USA|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|22957031| Canada|1|2
+22028123|dayton, ohio|3309933854|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|27071075|Beautiful East Texas|1|2
+22028123|dayton, ohio|17783165|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|16411361|Redding, CA|1|2
+22028123|dayton, ohio|14550649|Error|1|2
+22028123|dayton, ohio|303202032|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|51027398|Michigan|1|2
+22028123|dayton, ohio|19098744|Personifying Destiny |1|2
+22028123|dayton, ohio|77987385|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|69873222|Oregon|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|219337891|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|86341007|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|39804351|Error|1|2
+22028123|dayton, ohio|72613375|rio de janeiro|1|2
+22028123|dayton, ohio|54946791|World Wide Web|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|39387209|The Universe|1|2
+22028123|dayton, ohio|22592595|Thy will be done|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|23580616|ATL |1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|13003142|Error|1|2
+22028123|dayton, ohio|87733951|Error|1|2
+22028123|dayton, ohio|336646495|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|60198816|Long Island, NY|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|68123936|Stockholm|1|2
+22028123|dayton, ohio|47268291|Pittsburgh, PA 15227 USA|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|45415502|Brasil|1|2
+22028123|dayton, ohio|45967821|RIO DE JANEIRO|1|2
+22028123|dayton, ohio|32697323|Montreal|1|2
+22028123|dayton, ohio|1317129985|Claysville,PA|1|2
+22028123|dayton, ohio|71504128|Muscat|1|2
+22028123|dayton, ohio|47636743|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|30988350|Ensenada, BC Mexico|1|2
+22028123|dayton, ohio|8986532|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|28119249|florida 850, 407 ,321|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|44735728|New York, NY|1|2
+22028123|dayton, ohio|54965741|Caruaru - PE |1|2
+22028123|dayton, ohio|15522739|Contagem, Brasil|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|47603423|Error|1|2
+22028123|dayton, ohio|60174651|Wherever I may roam....|1|2
+22028123|dayton, ohio|27998839|Australia #F4F|1|2
+22028123|dayton, ohio|62411878|Brasilia DF, Brasil|1|2
+22028123|dayton, ohio|34411091|Heart in BC, feet in Lincoln.|1|2
+22028123|dayton, ohio|350987858|Error|1|2
+22028123|dayton, ohio|65587134|Twitterverse|1|2
+22028123|dayton, ohio|266862932|Error|1|2
+22028123|dayton, ohio|45725169|Error|1|2
+22028123|dayton, ohio|74029806|Wherever I May Roam...|1|2
+22028123|dayton, ohio|40670137|Midwestern USA|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|15249353|Cancun, Mexico|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|16128032|Hamburg, NY near Buffalo|1|2
+22028123|dayton, ohio|64146643|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|30306955|St. Louis, MO|1|2
+22028123|dayton, ohio|17225955|Kelowna, BC|1|2
+22028123|dayton, ohio|45955305|New York|1|2
+22028123|dayton, ohio|24866134|Perth, Australia|1|2
+22028123|dayton, ohio|1275152041|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|458800460|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|57477568|Brasil|1|2
+22028123|dayton, ohio|0|Error|1|2
+22028123|dayton, ohio|12014232|Staten Island, New York|1|2
+22028123|dayton, ohio|35275095|Long Island, NY #Shaklee|1|2
+22028123|dayton, ohio|21274364|The shores of Eden|1|2
+22028123|dayton, ohio|310928636|Error|1|2
+22028123|dayton, ohio|64503482|New York, NY|1|2
+22028123|dayton, ohio|36517981|Bahia - BR|1|2
+22028123|dayton, ohio|0|Error|1|2
+61129448|dayton, oh|62907764|Huber Heights, OH 45424|4|2
+61129448|dayton, oh|24546393|iPhone: 39.773158,-84.094380|3|2
+61129448|dayton, oh|75859375|Cincinnati|2|2
+61129448|dayton, oh|0|Error|1|2
+61129448|dayton, oh|0|Error|1|2
+61129448|dayton, oh|356411490|Error|1|2
+15535044|dayton, oh|19879772| Pawpawty H/O Staffordshire UK|8|2
+15535044|dayton, oh|2166430543|Error|5|2
+15535044|dayton, oh|0|Error|4|2
+15535044|dayton, oh|17459968|SF Bay Area|2|2
+15535044|dayton, oh|0|Error|2|2
+15535044|dayton, oh|474422440|East Troy, WI|2|2
+15535044|dayton, oh|20310930|Columbus, Ohio|2|2
+15535044|dayton, oh|52127882|USA|2|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|14248974|Error|1|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|20209797|Dogville, USA|1|2
+15535044|dayton, oh|20100967|Santa Monica....or the beach! |1|2
+15535044|dayton, oh|23976626|state uf konfusion,(Minn,USA)|1|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|36316093|Greece|1|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|2441866652|Error|1|2
+15535044|dayton, oh|37075233|Cleveland, Ohio|1|2
+15535044|dayton, oh|35022668|Error|1|2
+15535044|dayton, oh|16843318|Los Angeles, CA|1|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|800292470|Error|1|2
+15535044|dayton, oh|11848|SF & NYC|1|2
+15535044|dayton, oh|1304616638|San Diego, CA|1|2
+15535044|dayton, oh|18849579|San Diego|1|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|0|Error|1|2
+15535044|dayton, oh|76807736|Los Angeles, CA|1|2
+61656380|dayton, ohio|29738466|LinkedIn |5|2
+61656380|dayton, ohio|14939644|Space|4|2
+61656380|dayton, ohio|17848135|OH, NYC, CA|3|2
+61656380|dayton, ohio|18812237|Ottawa, ON, Canada.|2|2
+61656380|dayton, ohio|16489151|Toronto, Canada|2|2
+61656380|dayton, ohio|27234663|Hamilton, OH|2|2
+61656380|dayton, ohio|8274072|Twitter|2|2
+61656380|dayton, ohio|15482283|Dayton, Ohio|2|2
+61656380|dayton, ohio|16616061|Atlanta, GA|1|2
+61656380|dayton, ohio|10297|Error|1|2
+61656380|dayton, ohio|15936166|Milwaukee, WI|1|2
+61656380|dayton, ohio|0|Error|1|2
+61656380|dayton, ohio|0|Error|1|2
+61656380|dayton, ohio|14342563|Error|1|2
+61656380|dayton, ohio|15029970|Planet Earth|1|2
+61656380|dayton, ohio|22026974|California|1|2
+61656380|dayton, ohio|26388411|Ohio|1|2
+61656380|dayton, ohio|7262712|Greenville, SC|1|2
+61656380|dayton, ohio|18185124|Sydney, Australia|1|2
+61656380|dayton, ohio|48862034|incredible San Diego|1|2
+61656380|dayton, ohio|0|Error|1|2
+61656380|dayton, ohio|22667126|Orange County, CA|1|2
+61656380|dayton, ohio|71014763|Cincinnati/Dayton, Ohio|1|2
+61656380|dayton, ohio|30270533|Error|1|2
+35049803|dayton, ohio|0|Error|2|2
+35049803|dayton, ohio|14610663|Vancouver, BC|1|2
+30987378|dayton, ohio|0|Error|1|2
+45906171|dayton, ohio|18352661|Ohio|4|2
+45906171|dayton, ohio|14132574|The Great Buckeye State - Ohio|2|2
+45906171|dayton, ohio|22055841|Dayton, OH|1|2
+45906171|dayton, ohio|25176969|Dayton, OH|1|2
+45906171|dayton, ohio|17979024|boston-ish|1|2
+45906171|dayton, ohio|25506947|0.000000,0.000000|1|2
+45906171|dayton, ohio|9096972|Round Rock, Texas|1|2
+45906171|dayton, ohio|173652038|Error|1|2
+45906171|dayton, ohio|10879182|Midwest|1|2
+45906171|dayton, ohio|14525818|Error|1|2
+45906171|dayton, ohio|1787661|Ohio|1|2
+45906171|dayton, ohio|16103550|Dayton, Ohio, USA|1|2
+45906171|dayton, ohio|22836511|Yellow Springs, OH|1|2
+45906171|dayton, ohio|0|Error|1|2
+16132529|dayton, oh|0|Error|2|2
+24313173|dayton, ohio|0|Error|2|2
+24313173|dayton, ohio|8115852|Tour Bus/Home|1|2
+24313173|dayton, ohio|1551894229|Error|1|2
+25365430|dayton, oh|24692613|Southern CALIFORNIA|3|2
+25365430|dayton, oh|19804057|Error|2|2
+25365430|dayton, oh|40422910|London, United Kingdom|2|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|14424031|All Over the World|1|2
+25365430|dayton, oh|1407238496|Error|1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|31717619|On your tv, radio, pc/mac|1|2
+25365430|dayton, oh|40978340|Italy-San Daniele(north-east)|1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|16571541|New York, NY|1|2
+25365430|dayton, oh|2534947656|Error|1|2
+25365430|dayton, oh|27749423|Bristol, United Kingdom|1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|25032102|Scottsdale, AZ|1|2
+25365430|dayton, oh|19785655|Arizona|1|2
+25365430|dayton, oh|19810378|Santa Rosa, CA|1|2
+25365430|dayton, oh|15670304|Mountains of Virginia|1|2
+25365430|dayton, oh|19826674|San Diego|1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|25365430|Dayton, OH|1|2
+25365430|dayton, oh|6872702|Los Angeles, CA & Amsterdam|1|2
+25365430|dayton, oh|844739886|Error|1|2
+25365430|dayton, oh|68387415|Secret to Success is Support|1|2
+25365430|dayton, oh|14877628|SL, UT|1|2
+25365430|dayton, oh|17795572|International|1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|78885264|Error|1|2
+25365430|dayton, oh|31187134|Edmonton Alberta|1|2
+25365430|dayton, oh|19691064|Delaware, USA|1|2
+25365430|dayton, oh|71978055|Maplewood, NJ|1|2
+25365430|dayton, oh|185524644|Error|1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|15907720|DC & NYC|1|2
+25365430|dayton, oh|455059002|Error|1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|17094167|Pennsylvania |1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|87931368|Error|1|2
+25365430|dayton, oh|12089552|Austin, TX (Liberty Hill)|1|2
+25365430|dayton, oh|45756215|Global|1|2
+25365430|dayton, oh|0|Error|1|2
+25365430|dayton, oh|62960046|Trondheim Norway|1|2
+25365430|dayton, oh|60792510|Wenham, MA|1|2
+25365430|dayton, oh|19915481|Error|1|2
+25365430|dayton, oh|215297634|india|1|2
+25365430|dayton, oh|15996053|Los Angeles|1|2
+25365430|dayton, oh|18189723|Amman , Jordan|1|2
+25365430|dayton, oh|10156532|Burbank, Calif.|1|2
+25365430|dayton, oh|18493879|Utah|1|2
+49840755|dayton, ohio|0|Error|3|2
+49840755|dayton, ohio|30528725|Canada / Chiang Mai / World|3|2
+49840755|dayton, ohio|0|Error|2|2
+49840755|dayton, ohio|23088361|On the road|2|2
+49840755|dayton, ohio|24573232|Center of Universe - NYC|2|2
+49840755|dayton, ohio|2103871|Bangkok, Thailand|2|2
+49840755|dayton, ohio|0|Error|1|2
+49840755|dayton, ohio|14429749|Hometown: Vancouver BC|1|2
+49840755|dayton, ohio|477088604|Traveling|1|2
+49840755|dayton, ohio|0|Error|1|2
+49840755|dayton, ohio|0|Error|1|2
+49840755|dayton, ohio|42970795|Global|1|2
+14536305|dayton, ohio|0|Error|8|2
+14536305|dayton, ohio|5879482|Massachusetts | New Hampshire|3|2
+14536305|dayton, ohio|16019967|Live/Work/Play #Dayton|3|2
+14536305|dayton, ohio|16398777|Error|2|2
+14536305|dayton, ohio|17476186|Los Angeles via ATL/KY|1|2
+14536305|dayton, ohio|14536305|Dayton, Ohio|1|2
+14536305|dayton, ohio|14519349|Seattle, WA|1|2
+14536305|dayton, ohio|16260034|Ladera Ranch, CA|1|2
+14536305|dayton, ohio|16959679|Dayton, OH|1|2
+14536305|dayton, ohio|15736190|Freiburg, Germany|1|2
+14536305|dayton, ohio|2536252215|Error|1|2
+14536305|dayton, ohio|23008116|West Hollywood, CA|1|2
+14536305|dayton, ohio|0|Error|1|2
+14536305|dayton, ohio|1539609079|Error|1|2
+14536305|dayton, ohio|16212819|CA, All Day|1|2
+14536305|dayton, ohio|19593940|Milwaukee, WI|1|2
+14536305|dayton, ohio|0|Error|1|2
+14536305|dayton, ohio|37430182|Dayton, OH|1|2
+35732669|dayton, ohio|17152165|LDN via BRISTOL |4|2
+35732669|dayton, ohio|55934145|california|2|2
+35732669|dayton, ohio|14879938|westminster, co|1|2
+35732669|dayton, ohio|14985156|Right behind you.|1|2
+35732669|dayton, ohio|0|Error|1|2
+35732669|dayton, ohio|19864847|London UK|1|2
+84232554|dayton, oh|0|Error|3|2
+84232554|dayton, oh|29706648|Cincinnati|1|2
+84232554|dayton, oh|15353395|Chicago|1|2
+84232554|dayton, oh|0|Error|1|2
+34166222|dayton, ohio|0|Error|26|2
+34166222|dayton, ohio|0|Error|7|2
+34166222|dayton, ohio|130563043|Nashville, TN|2|2
+34166222|dayton, ohio|0|Error|2|2
+34166222|dayton, ohio|21955058|Stage Right|1|2
+34166222|dayton, ohio|0|Error|1|2
+34166222|dayton, ohio|0|Error|1|2
+34166222|dayton, ohio|0|Error|1|2
+75716207|dayton, ohio|264036590|Error|22|2
+75716207|dayton, ohio|18588279|Error|5|2
+75716207|dayton, ohio|51263592|New York|3|2
+75716207|dayton, ohio|13790282|Your Computer, USA|2|2
+75716207|dayton, ohio|11018442|United States|2|2
+75716207|dayton, ohio|20221159|Hollywood, CA|1|2
+75716207|dayton, ohio|26667184|Los Angeles|1|2
+75716207|dayton, ohio|0|Error|1|2
+33644440|dayton, ohio|15081182|Las Vegas, NV|18|2
+33644440|dayton, ohio|19290107|Buffalo, NY|5|2
+33644440|dayton, ohio|0|Error|2|2
+33644440|dayton, ohio|3246146162|Error|2|2
+33644440|dayton, ohio|33644440|Dayton, Ohio|2|2
+33644440|dayton, ohio|0|Error|1|2
+33644440|dayton, ohio|0|Error|1|2
+33644440|dayton, ohio|16488147|Fresno, CA|1|2
+33644440|dayton, ohio|25740519|South Florida|1|2
+33644440|dayton, ohio|26682791|Malaysia|1|2
+33644440|dayton, ohio|0|Error|1|2
+33644440|dayton, ohio|0|Error|1|2
+33644440|dayton, ohio|0|Error|1|2
+33644440|dayton, ohio|26255541|Folsom / Sacramento, CA|1|2
+33644440|dayton, ohio|0|Error|1|2
+33644440|dayton, ohio|43237308|California|1|2
+33644440|dayton, ohio|0|Error|1|2
+33644440|dayton, ohio|23894347|lost ... near philly|1|2
+33644440|dayton, ohio|35968135|Sacramento, CA|1|2
+33644440|dayton, ohio|24643972|Texas, baby...born and bred!|1|2
+33644440|dayton, ohio|1107683864|Error|1|2
+33644440|dayton, ohio|0|Error|1|2
+63519467|dayton, oh|83967315|lala landd.|6|2
+63519467|dayton, oh|0|Error|4|2
+63519467|dayton, oh|64644865|dayton , oh|3|2
+63519467|dayton, oh|0|Error|3|2
+63519467|dayton, oh|0|Error|2|2
+63519467|dayton, oh|45927790|Anywhere but here, MD|1|2
+63519467|dayton, oh|0|Error|1|2
+63519467|dayton, oh|43779121|MARS.|1|2
+63519467|dayton, oh|0|Error|1|2
+63519467|dayton, oh|0|Error|1|2
+63519467|dayton, oh|0|Error|1|2
+63519467|dayton, oh|75068248|Russia|1|2
+63519467|dayton, oh|295923798|Error|1|2
+63519467|dayton, oh|0|Error|1|2
+63519467|dayton, oh|0|Error|1|2
+63519467|dayton, oh|0|Error|1|2
+63519467|dayton, oh|0|Error|1|2
+63519467|dayton, oh|0|Error|1|2
+63519467|dayton, oh|0|Error|1|2
+63519467|dayton, oh|0|Error|1|2
+25914739|dayton, oh|8869092|North Hollywood|5|2
+25914739|dayton, oh|36881527|dayton|3|2
+25914739|dayton, oh|34720299|Ohio|2|2
+25914739|dayton, oh|23080268|Chicago|1|2
+25914739|dayton, oh|0|Error|1|2
+25914739|dayton, oh|1355746303|Error|1|2
+25914739|dayton, oh|0|Error|1|2
+25914739|dayton, oh|18122803|chapel hill, nc|1|2
+25914739|dayton, oh|29386198|Chapel Hill, NC|1|2
+25914739|dayton, oh|8768992|Denver, CO|1|2
+79656342|dayton, oh|26413134|MidWest|14|2
+79656342|dayton, oh|0|Error|9|2
+79656342|dayton, oh|118908631|dayton ohio|7|2
+79656342|dayton, oh|269378779|Error|7|2
+79656342|dayton, oh|77886854|Error|6|2
+79656342|dayton, oh|78519687|Error|4|2
+79656342|dayton, oh|0|Error|4|2
+79656342|dayton, oh|124363370|Error|3|2
+79656342|dayton, oh|29365099|CLEVELAND, OHIO|2|2
+79656342|dayton, oh|89467480|Dayton Ohio |2|2
+79656342|dayton, oh|0|Error|2|2
+79656342|dayton, oh|28242274|In the clouds...flying...|2|2
+79656342|dayton, oh|96578270|Columbus, Ohio|2|2
+79656342|dayton, oh|3472223241|Error|1|2
+79656342|dayton, oh|0|Error|1|2
+79656342|dayton, oh|0|Error|1|2
+79656342|dayton, oh|83484488|Ohioooooo|1|2
+79656342|dayton, oh|40619512|Error|1|2
+79656342|dayton, oh|0|Error|1|2
+79656342|dayton, oh|0|Error|1|2
+79656342|dayton, oh|0|Error|1|2
+79656342|dayton, oh|0|Error|1|2
+79656342|dayton, oh|228614327|Error|1|2
+79656342|dayton, oh|32954851|Cleveland, OH|1|2
+79656342|dayton, oh|42990710| www.REVOHLOO.com|1|2
+79656342|dayton, oh|0|Error|1|2
+79656342|dayton, oh|0|Error|1|2
+79656342|dayton, oh|0|Error|1|2
+79656342|dayton, oh|0|Error|1|2
+79656342|dayton, oh|62334374|Dayton, Ohio |1|2
+79656342|dayton, oh|0|Error|1|2
+14062535|dayton, oh|1590851|Washington Township, OH|23|2
+14062535|dayton, oh|19714885|Atlanta, GA|10|2
+14062535|dayton, oh|1363711|Dayton, Ohio|8|2
+14062535|dayton, oh|124363370|Error|7|2
+14062535|dayton, oh|7024672|Austin, Texas, USA|7|2
+14062535|dayton, oh|15972469|Dayton, Ohio, USA|5|2
+14062535|dayton, oh|29600257|warren county, ohio|5|2
+14062535|dayton, oh|1355746303|Error|4|2
+14062535|dayton, oh|21218343|Raleigh, NC|3|2
+14062535|dayton, oh|5479282|Eugene, OR|2|2
+14062535|dayton, oh|14582450|Dayton, Ohio|2|2
+14062535|dayton, oh|13669|Galiano Island, BC, Canada|2|2
+14062535|dayton, oh|155122898|Error|1|2
+14062535|dayton, oh|10202|Boston, MA|1|2
+14062535|dayton, oh|0|Error|1|2
+14062535|dayton, oh|5964962|Orange County, California|1|2
+14062535|dayton, oh|187739746|Error|1|2
+14062535|dayton, oh|754556|Boston, MA|1|2
+14062535|dayton, oh|29209404|Detroit, Michigan|1|2
+14062535|dayton, oh|18050122|Nashville, TN|1|2
+14062535|dayton, oh|53128557|Error|1|2
+14062535|dayton, oh|0|Error|1|2
+14062535|dayton, oh|62878211|Phoenix, AZ|1|2
+14062535|dayton, oh|4629|Cincinnati, OH|1|2
+14062535|dayton, oh|14400139|Troy, Ohio|1|2
+14062535|dayton, oh|33644440|Dayton, Ohio|1|2
+14062535|dayton, oh|0|Error|1|2
+76120249|dayton, oh|191672740| Miami, Florida|2|2
+76120249|dayton, oh|0|Error|2|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|25203129|Thomasville, GA|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|972651|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|7537822|Ordot, Guam|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|15285305|Worldwide|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|19505248|Michigan, USA|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|6022912|Los Angeles|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|20118774|Asia |1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|22516489|Atlanta|1|2
+76120249|dayton, oh|20055317|Denver, CO|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+76120249|dayton, oh|0|Error|1|2
+36405573|dayton, ohio|71014763|Cincinnati/Dayton, Ohio|4|2
+36405573|dayton, ohio|27284581|Dayton, Ohio|3|2
+36405573|dayton, ohio|0|Error|3|2
+36405573|dayton, ohio|8274072|Twitter|2|2
+36405573|dayton, ohio|15482283|Dayton, Ohio|2|2
+36405573|dayton, ohio|22037961|Dayton, OH|1|2
+36405573|dayton, ohio|27705121|Dayton, Ohio|1|2
+36405573|dayton, ohio|19915393|Dayton, Ohio|1|2
+36405573|dayton, ohio|85876851|Greater Dayton Region, Ohio|1|2
+36405573|dayton, ohio|31198034|Dayton Ohio|1|2
+36405573|dayton, ohio|244246662|The Cosmere|1|2
+36405573|dayton, ohio|46386109|Dayton, OH|1|2
+36405573|dayton, ohio|36383145|Dayton, Ohio|1|2
+36405573|dayton, ohio|22633759|Dayton, Ohio|1|2
+36405573|dayton, ohio|20263734|USA|1|2
+36405573|dayton, ohio|0|Error|1|2
+36405573|dayton, ohio|24318545|Dayton, Ohio USA|1|2
+36405573|dayton, ohio|0|Error|1|2
+36405573|dayton, ohio|0|Error|1|2
+36405573|dayton, ohio|0|Error|1|2
+36405573|dayton, ohio|0|Error|1|2
+36405573|dayton, ohio|18189945|Dayton, Ohio|1|2
+36405573|dayton, ohio|0|Error|1|2
+39553219|dayton, ohio|47711189|Florida|1|2
+53055947|dayton, oh|0|Error|14|2
+53055947|dayton, oh|0|Error|4|2
+53055947|dayton, oh|21354387|Dayton, Ohio|2|2
+53055947|dayton, oh|14923177|Granger, IN|2|2
+53055947|dayton, oh|0|Error|1|2
+53055947|dayton, oh|471254019|Error|1|2
+53055947|dayton, oh|11041262|Woodstock, IL|1|2
+53055947|dayton, oh|38413606|Sally Lloyd-Jones|1|2
+53055947|dayton, oh|18902269|Newport Beach, CA|1|2
+53055947|dayton, oh|0|Error|1|2
+53055947|dayton, oh|29714562|Cincinnati, OH|1|2
+53055947|dayton, oh|67370746|Error|1|2
+53055947|dayton, oh|48240574|Dallas, Tx|1|2
+86218109|dayton, ohio|1833779504|Error|1|2
+86218109|dayton, ohio|583765014|Error|1|2
+29738466|dayton, ohio|37430182|Dayton, OH|3|2
+29738466|dayton, ohio|14801984|Dayton, Ohio|2|2
+29738466|dayton, ohio|27284581|Dayton, Ohio|2|2
+29738466|dayton, ohio|0|Error|1|2
+29738466|dayton, ohio|15482283|Dayton, Ohio|1|2
+29738466|dayton, ohio|0|Error|1|2
+29738466|dayton, ohio|0|Error|1|2
+29738466|dayton, ohio|20819440|Error|1|2
+29738466|dayton, ohio|0|Error|1|2
+29738466|dayton, ohio|0|Error|1|2
+29738466|dayton, ohio|1143031|Melbourne, Australia|1|2
+29738466|dayton, ohio|0|Error|1|2
+29738466|dayton, ohio|0|Error|1|2
+29738466|dayton, ohio|71014763|Cincinnati/Dayton, Ohio|1|2
+29738466|dayton, ohio|0|Error|1|2
+29738466|dayton, ohio|0|Error|1|2
+29738466|dayton, ohio|0|Error|1|2
+29738466|dayton, ohio|0|Error|1|2
+29738466|dayton, ohio|20118774|Asia |1|2
+29738466|dayton, ohio|76120249|Dayton, OH|1|2
+8374232|dayton, ohio|3463401|Cleveland, OH, USA|2|2
+8374232|dayton, ohio|15023207|Down South!!|2|2
+8374232|dayton, ohio|9162052|Columbus, OH|2|2
+8374232|dayton, ohio|0|Error|2|2
+8374232|dayton, ohio|9070452|iPhone: 39.229713,-84.521942|2|2
+8374232|dayton, ohio|458173|Cleveland, Ohio|1|2
+8374232|dayton, ohio|14154445|Ann Arbor, MI|1|2
+8374232|dayton, ohio|10997172|columbus, oh|1|2
+8374232|dayton, ohio|40294685|Napa Valley, California|1|2
+8374232|dayton, ohio|14351199|Ann Arbor, MI / Yarmouth, ME|1|2
+8374232|dayton, ohio|9700652|Knoxville, TN|1|2
+8374232|dayton, ohio|41754227|Redmond, WA|1|2
+8374232|dayton, ohio|14604461|Whitby|1|2
+8374232|dayton, ohio|7866502|Raleigh, NC|1|2
+8374232|dayton, ohio|12407082|Columbus, OH|1|2
+8374232|dayton, ohio|0|Error|1|2
+8374232|dayton, ohio|14569551|Evansville, IN|1|2
+8374232|dayton, ohio|14785065|Chicago, IL|1|2
+8374232|dayton, ohio|0|Error|1|2
+41142711|dayton, ohio|1304616638|San Diego, CA|1|2
+41142711|dayton, ohio|55953666|Newport Beach, California, USA|1|2
+41142711|dayton, ohio|0|Error|1|2
+41142711|dayton, ohio|0|Error|1|2
+41142711|dayton, ohio|0|Error|1|2
+41142711|dayton, ohio|2440551020|London|1|2
+41142711|dayton, ohio|45597851|Maryland|1|2
+41142711|dayton, ohio|16843318|Los Angeles, CA|1|2
+41142711|dayton, ohio|0|Error|1|2
+41142711|dayton, ohio|30392406|Los Angeles,  CA USA|1|2
+41142711|dayton, ohio|58611021|Florida|1|2
+41142711|dayton, ohio|21049148|South Carolina|1|2
+41142711|dayton, ohio|0|Error|1|2
+41142711|dayton, ohio|0|Error|1|2
+41142711|dayton, ohio|0|Error|1|2
+41142711|dayton, ohio|58060034|Orange County, CA|1|2
+52548560|dayton, ohio|0|Error|3|2
+52548560|dayton, ohio|0|Error|3|2
+52548560|dayton, ohio|0|Error|2|2
+52548560|dayton, ohio|0|Error|2|2
+52548560|dayton, ohio|0|Error|1|2
+52548560|dayton, ohio|16873022|DAYTON, OHIO|1|2
+52548560|dayton, ohio|28242274|In the clouds...flying...|1|2
+52548560|dayton, ohio|365140211|See Me When You See Me|1|2
+52548560|dayton, ohio|0|Error|1|2
+52548560|dayton, ohio|0|Error|1|2
+52548560|dayton, ohio|26413134|MidWest|1|2
+52548560|dayton, ohio|0|Error|1|2
+52548560|dayton, ohio|71955619|Dayton, Ohio|1|2
+52548560|dayton, ohio|0|Error|1|2
+52548560|dayton, ohio|0|Error|1|2
+52548560|dayton, ohio|0|Error|1|2
+52548560|dayton, ohio|0|Error|1|2
+52548560|dayton, ohio|0|Error|1|2
+30005463|dayton, ohio|18244833|Cali, china, your living room|5|2
+30005463|dayton, ohio|19742312|Chicago|2|2
+30005463|dayton, ohio|1536934952|Error|2|2
+30005463|dayton, ohio|2712947894|Error|1|2
+30005463|dayton, ohio|0|Error|1|2
+30005463|dayton, ohio|0|Error|1|2
+30005463|dayton, ohio|18845188|Norwalk, CA & Austin, TX USA|1|2
+30005463|dayton, ohio|126062851|Error|1|2
+30005463|dayton, ohio|43149244|Louisville, KY|1|2
+30005463|dayton, ohio|548508135|Error|1|2
+30005463|dayton, ohio|15397660|Hayward, CA|1|2
+15790039|dayton, ohio|15304100|Columbus, Ohio, USA|2|2
+15790039|dayton, ohio|0|Error|1|2
+15790039|dayton, ohio|20095895|Error|1|2
+15790039|dayton, ohio|9912742|Melbourne, Australia|1|2
+15790039|dayton, ohio|0|Error|1|2
+24186622|dayton, ohio|49328834|Ohio|4|2
+24186622|dayton, ohio|24276503|Dayton, OH|4|2
+24186622|dayton, ohio|0|Error|2|2
+24186622|dayton, ohio|0|Error|1|2
+73489910|dayton, oh|51369809|Columbus, OH|12|2
+73489910|dayton, oh|67327694|Brighton, United Kingdom|2|2
+32695873|dayton, oh|32536374|Franklin, OH|4|2
+32695873|dayton, oh|17301589|Error|4|2
+32695873|dayton, oh|12032392|Cincinnati, OH|4|2
+32695873|dayton, oh|0|Error|1|2
+32695873|dayton, oh|1377214766|Error|1|2
+32695873|dayton, oh|1255206984|Error|1|2
+32695873|dayton, oh|1432191|Error|1|2
+33748789|dayton, ohio|19737713|everywhere|11|2
+14801984|dayton, ohio|18185124|Sydney, Australia|2|2
+14801984|dayton, ohio|0|Error|1|2
+14801984|dayton, ohio|0|Error|1|2
+14801984|dayton, ohio|0|Error|1|2
+14801984|dayton, ohio|0|Error|1|2
+14801984|dayton, ohio|40975049|Brisbane, Australia|1|2
+15399822|dayton, oh|61342585|Carmel, Indiana|1|2
+15399822|dayton, oh|14298390|San Francisco, CA|1|2
+15399822|dayton, oh|0|Error|1|2
+17963939|dayton, ohio|14343083|Cincinnati|4|2
+17963939|dayton, ohio|14245748|iPhone: 39.507484,-84.738609|3|2
+17963939|dayton, ohio|270761678|Error|3|2
+17963939|dayton, ohio|9478992|Cincinnati, Ohio USA|2|2
+17963939|dayton, ohio|16539403|Texas|2|2
+17963939|dayton, ohio|53189870|Great American Ball Park|1|2
+17963939|dayton, ohio|0|Error|1|2
+17963939|dayton, ohio|14453652|San Diego, CA|1|2
+17963939|dayton, ohio|409343025|Dallas, TX|1|2
+17963939|dayton, ohio|16581475|Winnipeg, Manitoba, Canada|1|2
+17963939|dayton, ohio|0|Error|1|2
+17963939|dayton, ohio|15554942|The Heart of It All, Ohio!|1|2
+21117547|dayton, ohio|22586821|Chicago (via Detroit)|2|2
+21117547|dayton, ohio|0|Error|2|2
+21117547|dayton, ohio|19517904|Black Rock, MD|1|2
+21117547|dayton, ohio|0|Error|1|2
+21117547|dayton, ohio|0|Error|1|2
+21117547|dayton, ohio|14506253|Tauntuan belly|1|2
+21117547|dayton, ohio|16520579|Error|1|2
+21117547|dayton, ohio|27084007|Los Angeles, CA|1|2
+41142711|dayton, ohio|0|Error|9|2
+41142711|dayton, ohio|1304616638|San Diego, CA|3|2
+41142711|dayton, ohio|0|Error|3|2
+41142711|dayton, ohio|2883307601|Error|1|2
+41142711|dayton, ohio|17459968|SF Bay Area|1|2
+41142711|dayton, ohio|46544197|Error|1|2
+41142711|dayton, ohio|2164171327|Error|1|2
+41142711|dayton, ohio|11108112|Atlanta|1|2
+41142711|dayton, ohio|16843318|Los Angeles, CA|1|2
+41142711|dayton, ohio|27557649|Loud City |1|2
+41142711|dayton, ohio|45808877|kent uk|1|2
+41142711|dayton, ohio|20310930|Columbus, Ohio|1|2
+41142711|dayton, ohio|21257283|AboutVetMed|1|2
+41142711|dayton, ohio|0|Error|1|2
+41142711|dayton, ohio|50396491|Kitty City|1|2
+41142711|dayton, ohio|20209797|Dogville, USA|1|2
+40411953|dayton, oh|26626167|Huber Heights, OH|5|2
+40411953|dayton, oh|26170848|Error|1|2
+40411953|dayton, oh|47766268|Ohio|1|2
+30669949|dayton, oh|0|Error|7|2
+30669949|dayton, oh|38516687|Akron Ohio / Montreal Quebec |3|2
+30669949|dayton, oh|17883044|North Carolina/suitcase |2|2
+30669949|dayton, oh|0|Error|1|2
+30669949|dayton, oh|0|Error|1|2
+17054112|dayton, oh|1696571|Lyndhurst, Ohio, USA|3|2
+17054112|dayton, oh|17023643|Columbus, Ohio|2|2
+17054112|dayton, oh|8152392|Denver|1|2
+17054112|dayton, oh|14753740|Cleveland, Ohio|1|2
+17054112|dayton, oh|16862561|chicago|1|2
+17054112|dayton, oh|21755216|The Land of Ohio|1|2
+24276503|dayton, oh|49328834|Ohio|1|2
+25914739|dayton, oh|8768992|Denver, CO|2|2
+25914739|dayton, oh|52558612|somewhere in Omaha|1|2
+25914739|dayton, oh|36881527|dayton|1|2
+25914739|dayton, oh|14496470|Greenwood Village, CO|1|2
+25914739|dayton, oh|15757546|Dayton, OH|1|2
+25914739|dayton, oh|26040377|Huntington, WV|1|2
+59046185|dayton, oh|0|Error|2|2
+59046185|dayton, oh|0|Error|1|2
+72679530|dayton, ohio|153703838|BROOKLYN.|1|2
+72679530|dayton, ohio|11222|San Francisco, CA|1|2
+44376434|dayton, ohio|268414482|@happyhippiefdn|4|2
+44376434|dayton, ohio|36528126|Hollywood|3|2
+44376434|dayton, ohio|32934795|ABC|2|2
+44376434|dayton, ohio|22440364|Hollywood|1|2
+44376434|dayton, ohio|0|Error|1|2
+44376434|dayton, ohio|19058681|Los Angeles, California|1|2
+44376434|dayton, ohio|15460081|Error|1|2
+44376434|dayton, ohio|26565946|Memphis, TN|1|2
+44376434|dayton, ohio|23375688|Los Angeles |1|2
+44376434|dayton, ohio|16409683|Los Angeles, CA|1|2
+44376434|dayton, ohio|21111883|DALLAS/LA|1|2
+44376434|dayton, ohio|37008705|Seattle, WA|1|2
+44376434|dayton, ohio|102538309|Error|1|2
+44376434|dayton, ohio|34771375|Look to your left. |1|2
+29710041|dayton, oh|803013727|milwaukee |1|2
+29710041|dayton, oh|2473208520|Error|1|2
+29710041|dayton, oh|24449694|Error|1|2
+29710041|dayton, oh|32456324|New York, NY|1|2
+29710041|dayton, oh|15389150|LOST near LA|1|2
+29710041|dayton, oh|46233559|Los Angeles, CA|1|2
+29710041|dayton, oh|295930000|Error|1|2
+57207183|dayton, oh|727736239|Error|1|2
+57207183|dayton, oh|415189535|Error|1|2
+42307397|dayton, ohio|0|Error|2|2
+42307397|dayton, ohio|339247378|Error|2|2
+42307397|dayton, ohio|14920785|Tishomingo, Ok|1|2
+42307397|dayton, ohio|66997809|Cincinnati|1|2
+42307397|dayton, ohio|20617476|BOOKING INQUIRIES|1|2
+27661878|dayton, oh|13914792|Dayton, Ohio|2|2
+27661878|dayton, oh|109590595|Dayton, Ohio|1|2
+27661878|dayton, oh|21173920|SW Ohio|1|2
+27661878|dayton, oh|25420242|Texas|1|2
+27661878|dayton, oh|22568068|Columbus, OH|1|2
+27661878|dayton, oh|0|Error|1|2
+27661878|dayton, oh|0|Error|1|2
+21381446|dayton, ohio|17926183|Error|8|2
+21381446|dayton, ohio|18454332|Dayton OH|1|2
+21381446|dayton, ohio|0|Error|1|2
+21381446|dayton, ohio|41988363|Dayton, Ohio|1|2
+17900256|dayton, oh|0|Error|2|2
+17900256|dayton, oh|746972755|Error|1|2
+17900256|dayton, oh|33975986|Error|1|2
+14905160|dayton, oh|29756324|Cleveland OH|4|2
+14905160|dayton, oh|0|Error|2|2
+14905160|dayton, oh|0|Error|1|2
+14905160|dayton, oh|17965626|Columbus, OH|1|2
+14905160|dayton, oh|0|Error|1|2
+14905160|dayton, oh|76473249|Error|1|2
+14905160|dayton, oh|0|Error|1|2
+14905160|dayton, oh|28379421|Columbus, OH|1|2
+14905160|dayton, oh|28181612|PHX|1|2
+14905160|dayton, oh|0|Error|1|2
+14905160|dayton, oh|16451423|Error|1|2
+75956256|dayton, nv|344382225|Santiago, RD|2|2
+19126498|dayton, oh|0|Error|1|2
+19126498|dayton, oh|49580452|Error|1|2
+19126498|dayton, oh|22518102|Error|1|2
+19126498|dayton, oh|20116938|Boston/NYC|1|2
+19126498|dayton, oh|462162027|Ohio|1|2
+37980785|dayton, oh|26278458|HFCS|4|2
+37980785|dayton, oh|20898328|Colorado|3|2
+37980785|dayton, oh|329114539|Error|2|2
+37980785|dayton, oh|0|Error|2|2
+37980785|dayton, oh|0|Error|2|2
+37980785|dayton, oh|20809506|North Carolina|2|2
+37980785|dayton, oh|20490915|Error|1|2
+37980785|dayton, oh|0|Error|1|2
+37980785|dayton, oh|33112918|United States|1|2
+37980785|dayton, oh|22123987|Dundee, Scotland|1|2
+37980785|dayton, oh|20940674|Eatonville, WA|1|2
+37980785|dayton, oh|0|Error|1|2
+15158668|dayton, oh|0|Error|2|2
+15158668|dayton, oh|40812025|Error|1|2
+15158668|dayton, oh|0|Error|1|2
+15158668|dayton, oh|41424729|Chicago Illinois|1|2
+15158668|dayton, oh|117507075|florida|1|2
+15158668|dayton, oh|32616391|Kansas City|1|2
+15158668|dayton, oh|632890814|Error|1|2
+15158668|dayton, oh|0|Error|1|2
+15158668|dayton, oh|24245719|Australian Capital Territory|1|2
+15158668|dayton, oh|139820189|Error|1|2
+15158668|dayton, oh|73414342|Error|1|2
+15158668|dayton, oh|0|Error|1|2
+15158668|dayton, oh|0|Error|1|2
+15158668|dayton, oh|29233259|Paris, city of lights|1|2
+28795469|dayton, oh|25019375|Eden Prairie, Minnesota, USA|1|2
+28795469|dayton, oh|26539101|Sapporo City Chuo Ward|1|2
+70742942|dayton, ohio|29952857|In My Skin. Out My Mind. |1|2
+70742942|dayton, ohio|46973152|ATL/LA/NYC|1|2
+70742942|dayton, ohio|15846407|California|1|2
+70742942|dayton, ohio|0|Error|1|2
+70742942|dayton, ohio|0|Error|1|2
+27760558|dayton, oh|923804618|Error|4|2
+27760558|dayton, oh|183734837|Los Angeles, CA|2|2
+27760558|dayton, oh|17044730|St Petersburg, FL|1|2
+27760558|dayton, oh|42609424|Washington, DC|1|2
+27760558|dayton, oh|0|Error|1|2
+27760558|dayton, oh|15846407|California|1|2
+7838042|dayton, ohio|18869726|Dayton Flyer! We fly high|2|2
+7838042|dayton, ohio|14081368|Moncks Corner, SC|2|2
+7838042|dayton, ohio|10312112|Atlanta, GA, USA|1|2
+7838042|dayton, ohio|10989442|McKinney, TX|1|2
+7838042|dayton, ohio|530880722|Maracaibo - Venezuela |1|2
+7838042|dayton, ohio|14194898|South Carolina|1|2
+7838042|dayton, ohio|26483706|Charlotte, NC|1|2
+18260122|dayton, oh|0|Error|3|2
+18260122|dayton, oh|15390938|Texas|3|2
+18260122|dayton, oh|25455380|in your pants|2|2
+18260122|dayton, oh|22090486|In my head, spinning.|2|2
+18260122|dayton, oh|43607366|Galaxy Far Far Away...|2|2
+18260122|dayton, oh|0|Error|1|2
+18260122|dayton, oh|40715890|Stoneville, NC|1|2
+18260122|dayton, oh|26539716|Fayetteville, NC|1|2
+18260122|dayton, oh|14681347|Browning Montana|1|2
+18260122|dayton, oh|1000080546|Error|1|2
+18260122|dayton, oh|0|Error|1|2
+18260122|dayton, oh|40345537|My house in the outback|1|2
+18260122|dayton, oh|27126360|Western United States|1|2
+18260122|dayton, oh|2856146374|Error|1|2
+18260122|dayton, oh|0|Error|1|2
+18260122|dayton, oh|44545459|Roaming|1|2
+18260122|dayton, oh|71881988|Error|1|2
+18260122|dayton, oh|331207070|Error|1|2
+18260122|dayton, oh|39689218|moron, mongolia|1|2
+18260122|dayton, oh|23820594|NC|1|2
+18260122|dayton, oh|20726900|West Hollywood|1|2
+18260122|dayton, oh|0|Error|1|2
+18260122|dayton, oh|43947827|Error|1|2
+18260122|dayton, oh|1779291|My mind. Enter at own risk. |1|2
+18260122|dayton, oh|0|Error|1|2
+18260122|dayton, oh|38977157|Kripke's Hollow|1|2
+18260122|dayton, oh|0|Error|1|2
+18260122|dayton, oh|16206181|Mostly happy place, Earth|1|2
+18260122|dayton, oh|17874968|god's lap.|1|2
+18260122|dayton, oh|54009272|Error|1|2
+18260122|dayton, oh|0|Error|1|2
+18260122|dayton, oh|2465468729|Error|1|2
+18260122|dayton, oh|0|Error|1|2
+18260122|dayton, oh|74169715|Cruising Altitude. |1|2
+41434472|dayton, ohio|59037337|Dallas, TX|2|2
+41434472|dayton, ohio|40242348|Error|1|2
+41434472|dayton, ohio|0|Error|1|2
+41434472|dayton, ohio|43099559|Dayton, Ohio|1|2
+30150046|dayton, ohio|20038690|CA, South Bay|3|2
+30150046|dayton, ohio|0|Error|3|2
+30150046|dayton, ohio|0|Error|2|2
+30150046|dayton, ohio|18655166|Los Angeles, CA |2|2
+30150046|dayton, ohio|7004532|SF Bay Area|2|2
+30150046|dayton, ohio|2762630223|Error|1|2
+30150046|dayton, ohio|42270652|Tampa FL|1|2
+30150046|dayton, ohio|0|Error|1|2
+30150046|dayton, ohio|0|Error|1|2
+15644788|dayton, ohio|275362903|Error|10|2
+15644788|dayton, ohio|0|Error|4|2
+15644788|dayton, ohio|15791117|NC|2|2
+15644788|dayton, ohio|0|Error|2|2
+15644788|dayton, ohio|20742615|Greenwood, Indiana|1|2
+15644788|dayton, ohio|0|Error|1|2
+15644788|dayton, ohio|0|Error|1|2
+15644788|dayton, ohio|18884618|Dayton, OH|1|2
+60326567|dayton, oh|0|Error|1|2
+60326567|dayton, oh|50535840|Dayton. OH|1|2
+29939422|dayton, ohio|65031140|Error|3|2
+29939422|dayton, ohio|16225240|NYC|3|2
+29939422|dayton, ohio|0|Error|2|2
+29939422|dayton, ohio|39893781|In God's hands...|2|2
+29939422|dayton, ohio|418115612|Error|2|2
+29939422|dayton, ohio|348810178|ON Set|2|2
+29939422|dayton, ohio|26413134|MidWest|1|2
+29939422|dayton, ohio|17437686|OHIO Killa Wit Tha Flow | ATL |1|2
+29939422|dayton, ohio|437238463|Error|1|2
+63519467|dayton, oh|56045389|Error|5|2
+63519467|dayton, oh|1371673052|Error|3|2
+63519467|dayton, oh|75068248|Russia|2|2
+63519467|dayton, oh|3291466538|New York, NY|1|2
+63519467|dayton, oh|0|Error|1|2
+63519467|dayton, oh|20725290|Error|1|2
+22633759|dayton, ohio|20436059|Washington, DC|1|2
+22633759|dayton, ohio|16450071|Error|1|2
+22633759|dayton, ohio|0|Error|1|2
+22633759|dayton, ohio|14403716|Dayton, OH|1|2
+22633759|dayton, ohio|9521382|Waynesville,OH|1|2
+22633759|dayton, ohio|24731038|Beautiful Ohio|1|2
+22633759|dayton, ohio|14207623|Noblesville, IN|1|2
+22633759|dayton, ohio|28098851|Cincinnati, Ohio|1|2
+71921281|dayton, ohio|5841422|Dayton, OH|1|2
+71921281|dayton, ohio|1976129936|Error|1|2
+71921281|dayton, ohio|130888746|Dayton, OH|1|2
+71921281|dayton, ohio|18740638|dayton, oh|1|2
+15325408|dayton, oh|2628674494|Error|1|2
+15325408|dayton, oh|397098382|Error|1|2
+15325408|dayton, oh|73540036|West Chester, OH|1|2
+42627948|dayton, nevada|0|Error|8|2
+42627948|dayton, nevada|611282259|Error|1|2
+42627948|dayton, nevada|0|Error|1|2
+42627948|dayton, nevada|303538281|Southport NC|1|2
+42627948|dayton, nevada|0|Error|1|2
+42627948|dayton, nevada|0|Error|1|2
+40530901|dayton, oh|274713182|Pittsburgh, PA|1|2
+14403716|dayton, oh|0|Error|3|2
+14403716|dayton, oh|347373490|Error|2|2
+14403716|dayton, oh|10334132|Fort Collins, CO, USA|1|2
+14403716|dayton, oh|7551142|Darien, Illinois|1|2
+14403716|dayton, oh|0|Error|1|2
+14403716|dayton, oh|15447843|Atlanta|1|2
+14403716|dayton, oh|17441582|Batavia, IL|1|2
+14403716|dayton, oh|9521382|Waynesville,OH|1|2
+14403716|dayton, oh|2469682657|Error|1|2
+14403716|dayton, oh|27706488|Ohio|1|2
+14403716|dayton, oh|19738648|Toronto, Canada|1|2
+14403716|dayton, oh|17842366|United States|1|2
+61594005|dayton, oh|121769758|Error|3|2
+61594005|dayton, oh|35681745|Wisconsin|2|2
+61594005|dayton, oh|0|Error|1|2
+61594005|dayton, oh|0|Error|1|2
+45906171|dayton, ohio|16103550|Dayton, Ohio, USA|2|2
+45906171|dayton, ohio|14132574|The Great Buckeye State - Ohio|2|2
+45906171|dayton, ohio|15323232|Dayton, OH|1|2
+45906171|dayton, ohio|32926171|Kettering, OH|1|2
+45906171|dayton, ohio|34940481|Dayton Ohio|1|2
+74195378|dayton, ohio|0|Error|5|2
+74195378|dayton, ohio|0|Error|3|2
+74195378|dayton, ohio|0|Error|1|2
+74195378|dayton, ohio|0|Error|1|2
+74195378|dayton, ohio|0|Error|1|2
+74195378|dayton, ohio|0|Error|1|2
+45886457|dayton, oh|972651|Error|1|2
+23869321|dayton, texas|17883640|Denton, TX|1|2
+23869321|dayton, texas|2497482313|Error|1|2
+20749461|dayton, ohio|0|Error|1|2
+20749461|dayton, ohio|23204438|Somewhere in the Midwest|1|2
+20749461|dayton, ohio|107027763|Error|1|2
+20749461|dayton, ohio|2713336806|Provo, UT|1|2
+20749461|dayton, ohio|0|Error|1|2
+20749461|dayton, ohio|0|Error|1|2
+20749461|dayton, ohio|52443772|The Old City, Jerusalem|1|2
+20749461|dayton, ohio|17461226|Error|1|2
+20749461|dayton, ohio|3309997470|Error|1|2
+20749461|dayton, ohio|1174951|Dickinson, TX|1|2
+20749461|dayton, ohio|20958510|USA|1|2
+18149810|dayton, oh|19178291|San Diego, CA|4|2
+18149810|dayton, oh|26033571|Earth|3|2
+18149810|dayton, oh|0|Error|1|2
+18149810|dayton, oh|0|Error|1|2
+18149810|dayton, oh|0|Error|1|2
+18149810|dayton, oh|284608861|Error|1|2
+18149810|dayton, oh|23906031|Florida|1|2
+18149810|dayton, oh|3940289112|Error|1|2
+22884687|dayton, oh|24731038|Beautiful Ohio|2|2
+22884687|dayton, oh|35033463|@ a dirt track somewhere|1|2
+22884687|dayton, oh|0|Error|1|2
+22884687|dayton, oh|0|Error|1|2
+22884687|dayton, oh|0|Error|1|2
+22884687|dayton, oh|264036590|Error|1|2
+22884687|dayton, oh|68081248|Error|1|2
+22884687|dayton, oh|1671388320|Error|1|2
+22884687|dayton, oh|22568068|Columbus, OH|1|2
+22884687|dayton, oh|0|Error|1|2
+42809758|dayton, oh|1199291180|Error|2|2
+42809758|dayton, oh|224880514|Montreal|1|2
+42809758|dayton, oh|451880563|South I, Indiana|1|2
+42809758|dayton, oh|137755595|Error|1|2
+42809758|dayton, oh|258235069|Error|1|2
+74270676|dayton, ohio|158210963|Error|1|2
+74270676|dayton, ohio|1133065026|Error|1|2
+74270676|dayton, ohio|134460507|philippines:|1|2
+74270676|dayton, ohio|0|Error|1|2
+74270676|dayton, ohio|13613982|iPhone: 33.455009,-111.939414|1|2
+74270676|dayton, ohio|0|Error|1|2
+74270676|dayton, ohio|40562603|London - High Wycombe|1|2
+74270676|dayton, ohio|250223804|Error|1|2
+74270676|dayton, ohio|0|Error|1|2
+74270676|dayton, ohio|0|Error|1|2
+74270676|dayton, ohio|0|Error|1|2
+74270676|dayton, ohio|58606715|New Music video click! |1|2
+29191254|dayton, oh|44718370|Florida|6|2
+29191254|dayton, oh|172527866|Error|1|2
+29191254|dayton, oh|15325408|Dayton, OH|1|2
+43893848|dayton, ohio|0|Error|10|2
+43893848|dayton, ohio|40684418|Error|5|2
+43893848|dayton, ohio|0|Error|3|2
+30265066|dayton, ohio|19029137|Malibu, CA|4|2
+30265066|dayton, ohio|817268|Silicon Valley|4|2
+30265066|dayton, ohio|1501471|New York, NY|4|2
+30265066|dayton, ohio|11883132|San Francisco|1|2
+30265066|dayton, ohio|7426632|mike@elgan.com|1|2
+30265066|dayton, ohio|30582892|Oklahoma|1|2
+17717655|dayton, oh|21625757|Canada|3|2
+17717655|dayton, oh|960734364|Error|1|2
+17717655|dayton, oh|17929027|The Ruff|1|2
+17717655|dayton, oh|0|Error|1|2
+17717655|dayton, oh|0|Error|1|2
+17717655|dayton, oh|9570452|New York, NY|1|2
+17717655|dayton, oh|34910758|Austin, TX|1|2
+17717655|dayton, oh|243287822|some place higher|1|2
+17717655|dayton, oh|0|Error|1|2
+28643454|dayton, oh|41267896|Shanghai, PRC|1|2
+28643454|dayton, oh|77055042|Los Angeles|1|2
+28643454|dayton, oh|15437723|Error|1|2
+28643454|dayton, oh|0|Error|1|2
+28643454|dayton, oh|14402242|Error|1|2
+28643454|dayton, oh|18510499|NYC / Los Angeles|1|2
+14582450|dayton, ohio|15079104|iPhone: 32.300213,-90.891602|2|2
+14582450|dayton, ohio|9534522|USA|1|2
+14582450|dayton, ohio|18464534|Costco|1|2
+14582450|dayton, ohio|208037902|Error|1|2
+59678134|dayton, oh|0|Error|4|2
+59678134|dayton, oh|15877907|Jersey City|2|2
+59678134|dayton, oh|18170037|New York, NY|2|2
+59678134|dayton, oh|8106302|New Hampshire|1|2
+59678134|dayton, oh|0|Error|1|2
+59678134|dayton, oh|5969122|Error|1|2
+59678134|dayton, oh|13902822|Chicago, IL|1|2
+59678134|dayton, oh|0|Error|1|2
+59678134|dayton, oh|49134263|Dayton|1|2
+59678134|dayton, oh|812804|SF/NYC|1|2
+59678134|dayton, oh|20572493|A Small Shed in Los Angeles|1|2
+15638575|dayton, ohio|4820281|Winston-Salem, NC|3|2
+15638575|dayton, ohio|16367897|San Diego|2|2
+15638575|dayton, ohio|16679345|Brooklyn, NY|1|2
+15638575|dayton, ohio|16371414|Brooklyn NY, US / Florence, It|1|2
+15638575|dayton, ohio|14994465|Mesa, Arizona|1|2
+15638575|dayton, ohio|25584677|that big windy city|1|2
+15638575|dayton, ohio|17813312|New York|1|2
+15638575|dayton, ohio|0|Error|1|2
+15638575|dayton, ohio|0|Error|1|2
+12499262|dayton, oh|15101506|Dayton, Ohio|3|2
+12499262|dayton, oh|16439556|Dayton, OH|2|2
+12499262|dayton, oh|16012475|Cincinnati, OH|2|2
+12499262|dayton, oh|2910452773|Error|1|2
+12499262|dayton, oh|3909831|Huber Heights, OH|1|2
+12499262|dayton, oh|79358847|Denver, CO|1|2
+12499262|dayton, oh|63003152|Error|1|2
+12499262|dayton, oh|15638575|Nashville, TN|1|2
+12499262|dayton, oh|22843320|Cincinnati|1|2
+24044737|dayton, ohio|0|Error|2|2
+24044737|dayton, ohio|0|Error|1|2
+24044737|dayton, ohio|32959253|Error|1|2
+24044737|dayton, ohio|70290422|Error|1|2
+24044737|dayton, ohio|0|Error|1|2
+24044737|dayton, ohio|1146902995|Error|1|2
+24044737|dayton, ohio|0|Error|1|2
+24044737|dayton, ohio|14293310|Error|1|2
+24044737|dayton, ohio|24044737|Dayton, Ohio|1|2
+24044737|dayton, ohio|23787962|ATLANTA, GA/ DAYTON, OH|1|2
+24044737|dayton, ohio|0|Error|1|2
+24044737|dayton, ohio|15992971|mishawaka IN|1|2
+14621479|dayton, oh|8389432|NY Metro|13|2
+14621479|dayton, oh|11346522|Greendale, United States|5|2
+14621479|dayton, oh|58327005|Kuala Lumpur|1|2
+15920535|dayton, oh|56491858|Dayton, OH|3|2
+15920535|dayton, oh|58718816|Dayton|2|2
+15920535|dayton, oh|23544596|Los Angeles |1|2
+15920535|dayton, oh|20367771|Dayton, OH|1|2
+15920535|dayton, oh|16090559|Hollywood, California |1|2
+15920535|dayton, oh|52576027|Phoenix|1|2
+15920535|dayton, oh|29465004|Dayton, Ohio|1|2
+15920535|dayton, oh|163347284|Error|1|2
+15920535|dayton, oh|0|Error|1|2
+15920535|dayton, oh|31210805|NYC|1|2
+15920535|dayton, oh|15959760|Girard, OH|1|2
+15920535|dayton, oh|0|Error|1|2
+56587733|dayton, oh|0|Error|1|2

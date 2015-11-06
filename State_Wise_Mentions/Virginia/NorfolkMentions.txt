@@ -1,0 +1,1124 @@
+16515654|norfolk, va|15131310|Austin, TX|6|2
+16515654|norfolk, va|15766453|Middletown, Ohio|1|2
+16515654|norfolk, va|17647619|Norfolk, Virginia|1|2
+16515654|norfolk, va|80063547|Error|1|2
+16515654|norfolk, va|14258044|iPhone: 38.855085,-77.042889|1|2
+16515654|norfolk, va|16497754|Cary, NC|1|2
+16515654|norfolk, va|0|Error|1|2
+16515654|norfolk, va|45222105|Suffolk, VA|1|2
+16515654|norfolk, va|10274302|Ellicott City, Maryland|1|2
+16515654|norfolk, va|15248550|Orange County, CA|1|2
+16515654|norfolk, va|25540995|Friday Noon Central US Time|1|2
+16515654|norfolk, va|14859952|Toronto, ON and SF, CA|1|2
+16515654|norfolk, va|0|Error|1|2
+16515654|norfolk, va|338601496|Las Vegas, Nevada|1|2
+16515654|norfolk, va|2120181|Error|1|2
+16515654|norfolk, va|0|Error|1|2
+16515654|norfolk, va|16300786|New York|1|2
+29885636|norfolk, va|0|Error|13|2
+29885636|norfolk, va|24498289|WORLDWIDE|8|2
+29885636|norfolk, va|1411368282|New Orleans, LA|4|2
+29885636|norfolk, va|30527651|Dubai|3|2
+29885636|norfolk, va|158151134|Meridian|2|2
+29885636|norfolk, va|0|Error|2|2
+29885636|norfolk, va|17929027|The Ruff|1|2
+29885636|norfolk, va|0|Error|1|2
+29885636|norfolk, va|0|Error|1|2
+29885636|norfolk, va|21278412|Where the Cash At|1|2
+29885636|norfolk, va|25740888|Memphis, TN |1|2
+29885636|norfolk, va|0|Error|1|2
+29885636|norfolk, va|0|Error|1|2
+29885636|norfolk, va|56463364|Los Angeles, CA|1|2
+29885636|norfolk, va|35787166|The Pinkprint in stores NOW|1|2
+29885636|norfolk, va|29895952|Norfolk, Va|1|2
+29885636|norfolk, va|36425615|ATL & VA by Way of Queens NYC|1|2
+29885636|norfolk, va|166690050|Worldwide|1|2
+29885636|norfolk, va|0|Error|1|2
+29885636|norfolk, va|0|Error|1|2
+74453726|norfolk, va|82739499|Error|9|2
+74453726|norfolk, va|0|Error|9|2
+74453726|norfolk, va|19428899|Las Vegas, Nevada|7|2
+74453726|norfolk, va|0|Error|7|2
+74453726|norfolk, va|0|Error|6|2
+74453726|norfolk, va|0|Error|5|2
+74453726|norfolk, va|0|Error|4|2
+74453726|norfolk, va|21904136|Stankonia, Georgia|4|2
+74453726|norfolk, va|18620441|Tampa Bay|4|2
+74453726|norfolk, va|54259162|EARTH|4|2
+74453726|norfolk, va|62656701|Error|3|2
+74453726|norfolk, va|108151616|Error|3|2
+74453726|norfolk, va|0|Error|3|2
+74453726|norfolk, va|280366320|Error|2|2
+74453726|norfolk, va|0|Error|2|2
+74453726|norfolk, va|833854027|Error|2|2
+74453726|norfolk, va|0|Error|2|2
+74453726|norfolk, va|0|Error|2|2
+74453726|norfolk, va|62006607|TwilightVerse|2|2
+74453726|norfolk, va|2919304904|Error|2|2
+74453726|norfolk, va|38750571|Fayetteville, North Carolina|2|2
+74453726|norfolk, va|0|Error|2|2
+74453726|norfolk, va|131383230|Error|2|2
+74453726|norfolk, va|0|Error|2|2
+74453726|norfolk, va|0|Error|2|2
+74453726|norfolk, va|0|Error|2|2
+74453726|norfolk, va|0|Error|2|2
+74453726|norfolk, va|0|Error|2|2
+74453726|norfolk, va|299217672|Error|2|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|580728812|LOST IN THE MEDIA |1|2
+74453726|norfolk, va|65818081|Error|1|2
+74453726|norfolk, va|424771684|Error|1|2
+74453726|norfolk, va|128045100|Wisconsin|1|2
+74453726|norfolk, va|50190662|BRASIL - PE|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|69457698|26.15107206,-80.18162895|1|2
+74453726|norfolk, va|948051228|Error|1|2
+74453726|norfolk, va|47969119|Cascavel PR Brasil|1|2
+74453726|norfolk, va|27848637|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|7119452|Earth/Moon L2 Lagrangian|1|2
+74453726|norfolk, va|2482212642|Error|1|2
+74453726|norfolk, va|166363882|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|2183377548|Error|1|2
+74453726|norfolk, va|53919945|Below Sea Level in dat NOLA|1|2
+74453726|norfolk, va|24072692|Georgia|1|2
+74453726|norfolk, va|138027345|The Old Coach House, Harston|1|2
+74453726|norfolk, va|32744642|Vancouver BC Canada|1|2
+74453726|norfolk, va|97932093|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|192335828|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|729010566|Gulf port mississippi|1|2
+74453726|norfolk, va|518232944|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|289594876|ZURICH SWITZERLAND|1|2
+74453726|norfolk, va|154119703|Error|1|2
+74453726|norfolk, va|17094167|Pennsylvania |1|2
+74453726|norfolk, va|115552867|Twitter|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|108467679|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|37386594|Likmiov Peninsula|1|2
+74453726|norfolk, va|355522726|sweetwater texas|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|28018672|Hartford, Connecticut|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|14050740|New Jersey - USA|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|24400109|(I)n (O)utfield (W)ay (A)way|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|1168761799|Error|1|2
+74453726|norfolk, va|573225641|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|23832022|Worldwide |1|2
+48502774|norfolk, va|0|Error|5|2
+48502774|norfolk, va|177980524|Boston|1|2
+48502774|norfolk, va|26984010|The Hamptons VA |  #412 | #ATL|1|2
+48502774|norfolk, va|50201817|dm[v]|1|2
+64364132|norfolk, va|0|Error|9|2
+64364132|norfolk, va|0|Error|6|2
+64364132|norfolk, va|18968985|Georgia|3|2
+64364132|norfolk, va|19933987|Instagram: Poshpinkla & LashedbyLauren_ |2|2
+64364132|norfolk, va|32608555|Between Glitter and Goon|2|2
+64364132|norfolk, va|0|Error|1|2
+64364132|norfolk, va|78189327|Error|1|2
+64364132|norfolk, va|0|Error|1|2
+64364132|norfolk, va|35012420|Planet Kay|1|2
+64364132|norfolk, va|18856389|Tampa|1|2
+18228837|norfolk, va|57071321|norfolk, va.|3|2
+18228837|norfolk, va|24497752|Portsmouth|1|2
+18228837|norfolk, va|19570592|Los Angeles, CA|1|2
+18228837|norfolk, va|36217810|RVA|1|2
+18228837|norfolk, va|0|Error|1|2
+29895952|norfolk, va|0|Error|9|2
+29895952|norfolk, va|21906253|VA Beach, VA|6|2
+29895952|norfolk, va|22404271|Norfolk, #NewVA |6|2
+29895952|norfolk, va|36425615|ATL & VA by Way of Queens NYC|3|2
+29895952|norfolk, va|26624272|V#r$i%i@|3|2
+29895952|norfolk, va|791178|Error|3|2
+29895952|norfolk, va|25123762|Washington DC|3|2
+29895952|norfolk, va|19798395|Escaping Reality|3|2
+29895952|norfolk, va|0|Error|2|2
+29895952|norfolk, va|29895952|Norfolk, Va|2|2
+29895952|norfolk, va|19841465|vabeach, the bay, now houston|2|2
+29895952|norfolk, va|0|Error|2|2
+29895952|norfolk, va|35245502|Aqui en la lucha|2|2
+29895952|norfolk, va|56545359|Norfolk, VA|2|2
+29895952|norfolk, va|78455976|VA. 757 to be exact!|1|2
+29895952|norfolk, va|41487943|757 and beyond|1|2
+29895952|norfolk, va|17929027|The Ruff|1|2
+29895952|norfolk, va|18347116|INSTAGRAM: mwattsmusic|1|2
+29895952|norfolk, va|21278412|Where the Cash At|1|2
+29895952|norfolk, va|26186558|Error|1|2
+29895952|norfolk, va|21907399|VA|1|2
+29895952|norfolk, va|591513826|Error|1|2
+29895952|norfolk, va|24942828|U can find me inda A...|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|29446921|Past,Present, and Da Future|1|2
+29895952|norfolk, va|17824425| Traveler |1|2
+29895952|norfolk, va|34100259|36.768458,-76.225844|1|2
+29895952|norfolk, va|21811927|Error|1|2
+29895952|norfolk, va|109157323|North Jersey....Eseex County|1|2
+29895952|norfolk, va|19548507|Everywhere you want to be...|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|16834823|Virginia Native.|1|2
+29895952|norfolk, va|30979004|Error|1|2
+29895952|norfolk, va|36379406|Va Beach or Va Beach|1|2
+29895952|norfolk, va|1092561547|Error|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|3154536356|Error|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|3002352466|Error|1|2
+29895952|norfolk, va|288790225|Chicago|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|23236581|scottsdale, az|1|2
+29895952|norfolk, va|0|Error|1|2
+29895952|norfolk, va|21808942|Why it matter, Florida |1|2
+29895952|norfolk, va|2666770964|Error|1|2
+29895952|norfolk, va|15914081|wherever the #work takes me..|1|2
+29895952|norfolk, va|0|Error|1|2
+68696268|norfolk, va|31023360|Norfolk, Virginia|6|2
+68696268|norfolk, va|24713148| Norfolk, VA|1|2
+68696268|norfolk, va|15574650|Minnesota and Texas|1|2
+68696268|norfolk, va|0|Error|1|2
+60975997|norfolk, va|50918508|VA|1|2
+60975997|norfolk, va|0|Error|1|2
+20345190|norfolk, va|8811212|Newport News, VA|4|2
+20345190|norfolk, va|17359111|norfolk|3|2
+20345190|norfolk, va|23545171|Norfolk VA|3|2
+20345190|norfolk, va|2277724902|Error|1|2
+20345190|norfolk, va|15012219|716|1|2
+20345190|norfolk, va|0|Error|1|2
+20345190|norfolk, va|6810222|Error|1|2
+20345190|norfolk, va|0|Error|1|2
+20345190|norfolk, va|0|Error|1|2
+20345190|norfolk, va|7313012|New York|1|2
+20345190|norfolk, va|14054571|Richmond, Virginia|1|2
+52593821|norfolk, va|386633920|Error|1|2
+52593821|norfolk, va|0|Error|1|2
+52593821|norfolk, va|2506988899|Error|1|2
+52593821|norfolk, va|6628342|Boulder, Colorado|1|2
+52593821|norfolk, va|48545702|Independence, Mo.|1|2
+52593821|norfolk, va|46314625|Arizona, USA|1|2
+52593821|norfolk, va|104267227|Raleigh, NC|1|2
+88108814|norfolk, va|17149454|Atlanta, GA|3|2
+88108814|norfolk, va|0|Error|3|2
+88108814|norfolk, va|623357542|Atlanta |1|2
+88108814|norfolk, va|56463364|Los Angeles, CA|1|2
+88108814|norfolk, va|16638685|UP THRU DERE!|1|2
+14199114|norfolk, va|1434051|Seattle, WA|4|2
+14199114|norfolk, va|15275073|San Francisco|3|2
+14199114|norfolk, va|7062302|San Francisco, CA|3|2
+14199114|norfolk, va|12699642|Washington, DC|2|2
+14199114|norfolk, va|1668438764|Error|2|2
+14199114|norfolk, va|7676492|San Francisco, CA|2|2
+14199114|norfolk, va|17464482|Error|1|2
+14199114|norfolk, va|823083|boston, ma|1|2
+14199114|norfolk, va|1183038558|Error|1|2
+14199114|norfolk, va|14391487|Las Vegas, NV|1|2
+14199114|norfolk, va|321060823|Toronto, Canada|1|2
+14199114|norfolk, va|10286|Normal, IL|1|2
+14199114|norfolk, va|673743|Error|1|2
+14199114|norfolk, va|17414609|Germany|1|2
+14199114|norfolk, va|776429|Los Angeles|1|2
+14199114|norfolk, va|658753|Cambridge, MA|1|2
+47885688|norfolk, va|0|Error|11|2
+47885688|norfolk, va|54827527|Dallas, TX|9|2
+47885688|norfolk, va|17027887|619/757/804|3|2
+47885688|norfolk, va|0|Error|2|2
+47885688|norfolk, va|74945062|Ear Deep.|1|2
+47885688|norfolk, va|0|Error|1|2
+47885688|norfolk, va|0|Error|1|2
+47885688|norfolk, va|26310944|where FL meets VA|1|2
+47885688|norfolk, va|0|Error|1|2
+47885688|norfolk, va|7218702|Error|1|2
+47885688|norfolk, va|0|Error|1|2
+47885688|norfolk, va|166690050|Worldwide|1|2
+47885688|norfolk, va|38754622|Blahh|1|2
+30981100|norfolk, va|0|Error|6|2
+30981100|norfolk, va|232140328|Error|5|2
+30981100|norfolk, va|21808942|Why it matter, Florida |5|2
+30981100|norfolk, va|109608421|Error|4|2
+30981100|norfolk, va|16980817|Sydney, Australia|3|2
+30981100|norfolk, va|0|Error|3|2
+30981100|norfolk, va|18370418|NYC/ATL/LA|2|2
+30981100|norfolk, va|0|Error|2|2
+30981100|norfolk, va|0|Error|2|2
+30981100|norfolk, va|0|Error|1|2
+30981100|norfolk, va|0|Error|1|2
+30981100|norfolk, va|2200313510|Cincinnati, OH|1|2
+30981100|norfolk, va|62957897|Gricignano Di Aversa, Italy|1|2
+30981100|norfolk, va|22223313|Error|1|2
+30981100|norfolk, va|17977701|ATL, GA|1|2
+30981100|norfolk, va|0|Error|1|2
+30981100|norfolk, va|2744549344|Error|1|2
+30981100|norfolk, va|0|Error|1|2
+30981100|norfolk, va|88998690|Ga|1|2
+68602752|norfolk, va|0|Error|39|2
+68602752|norfolk, va|35154345|773/0207/757|9|2
+68602752|norfolk, va|0|Error|6|2
+68602752|norfolk, va|74662290|Costa Rica|5|2
+68602752|norfolk, va|719578057|Error|4|2
+68602752|norfolk, va|0|Error|4|2
+68602752|norfolk, va|19237290|Colorado Springs, CO|3|2
+68602752|norfolk, va|0|Error|3|2
+68602752|norfolk, va|0|Error|3|2
+68602752|norfolk, va|0|Error|3|2
+68602752|norfolk, va|0|Error|3|2
+68602752|norfolk, va|0|Error|3|2
+68602752|norfolk, va|0|Error|3|2
+68602752|norfolk, va|38498460|superior, Wi|3|2
+68602752|norfolk, va|636610130|Error|2|2
+68602752|norfolk, va|50096394|Cleveland, OH|2|2
+68602752|norfolk, va|15045399|Singapore|2|2
+68602752|norfolk, va|27188143|Lost =)|2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|23018925|Error|2|2
+68602752|norfolk, va|13817822|bodybyzna.com/fastfatblast|2|2
+68602752|norfolk, va|85340635|Error|2|2
+68602752|norfolk, va|32634207|The Bay Area|2|2
+68602752|norfolk, va|28512140|Savannah Ga.|2|2
+68602752|norfolk, va|21907142|Worldwide|2|2
+68602752|norfolk, va|306559448|Error|2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|32728947|MEANTOWN|2|2
+68602752|norfolk, va|36662295|Error|2|2
+68602752|norfolk, va|612998175|newyork|2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|32491190|Portland, Oregon|2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|180662828|San Diego, Ca |2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|27629861|UK|2|2
+68602752|norfolk, va|23018798|Error|2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|42226145|WorldWide! |2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|759623851|MN|2|2
+68602752|norfolk, va|18460854|Kansas City, MO|2|2
+68602752|norfolk, va|31467356|On your mind|2|2
+68602752|norfolk, va|0|Error|2|2
+68602752|norfolk, va|50809734|Error|1|2
+68602752|norfolk, va|123455216|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|90046969| California|1|2
+68602752|norfolk, va|242542560|Error|1|2
+68602752|norfolk, va|28137134|Rylan's world, VA|1|2
+68602752|norfolk, va|27839344|Chesapeake, VA|1|2
+68602752|norfolk, va|55943696|Error|1|2
+68602752|norfolk, va|26624272|V#r$i%i@|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|16284324|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|22404271|Norfolk, #NewVA |1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|588186428|Error|1|2
+68602752|norfolk, va|48410093|Worldwide|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|138200265|atlanta|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|158169765|626 | HOLLYWOOD | OC | VEGAS|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|3091503489|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|1917765895|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|81148599|Error|1|2
+68602752|norfolk, va|80739602|International...|1|2
+68602752|norfolk, va|18222378|NYC|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|34482921|Error|1|2
+68602752|norfolk, va|24369827|Atlanta,GA/ Little Rock, AR|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|1554253262|Error|1|2
+68602752|norfolk, va|34990994|harlem,ny 2 norfolk,va|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|26186558|Error|1|2
+68602752|norfolk, va|580728812|LOST IN THE MEDIA |1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|165251365|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|28274271|Broward County 954|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|67452288|That just depends....|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|299313407|colombia|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|450285885|Error|1|2
+68602752|norfolk, va|1663866163|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|29578326|his dreams her nightmares |1|2
+68602752|norfolk, va|339763714|876.732.757.478. now 407|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|61065241|Norfolk|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|3004231|Error|1|2
+68602752|norfolk, va|16317937|San Diego, Ca|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|298381926|Error|1|2
+68602752|norfolk, va|17043474|Detroit, MI|1|2
+68602752|norfolk, va|81119622|757|1|2
+68602752|norfolk, va|191210116|Error|1|2
+68602752|norfolk, va|307386134|Error|1|2
+68602752|norfolk, va|21785518|Washington, DC|1|2
+68602752|norfolk, va|128788785|LucKnoW|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|56545359|Norfolk, VA|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|291929696|Naughty by Norfolk|1|2
+68602752|norfolk, va|175221813|Error|1|2
+68602752|norfolk, va|41530766|Error|1|2
+68602752|norfolk, va|24736435|The K|1|2
+68602752|norfolk, va|2740230505|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|46219366|VA BEACH VA...BUT FRM NY|1|2
+68602752|norfolk, va|1569924121|Guiguinto bulacan|1|2
+68602752|norfolk, va|2242152925|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|0|Error|1|2
+68602752|norfolk, va|16554227|Error|1|2
+68602752|norfolk, va|177533019|San Francisco|1|2
+68602752|norfolk, va|0|Error|1|2
+35573063|norfolk, va|29142766|Error|12|2
+35573063|norfolk, va|30460933|Baltimore|8|2
+35573063|norfolk, va|34205405|The Park|6|2
+35573063|norfolk, va|410927340|Error|6|2
+35573063|norfolk, va|0|Error|4|2
+35573063|norfolk, va|1341974510|Error|4|2
+35573063|norfolk, va|26197736|VA|3|2
+35573063|norfolk, va|0|Error|3|2
+35573063|norfolk, va|39965729|Error|3|2
+35573063|norfolk, va|18992445|South Florida|1|2
+35573063|norfolk, va|95363599|Erfurt, Germany|1|2
+35573063|norfolk, va|0|Error|1|2
+35573063|norfolk, va|247025451|Error|1|2
+35573063|norfolk, va|69104770|Charlotte, North Carolina |1|2
+35573063|norfolk, va|0|Error|1|2
+35573063|norfolk, va|32979210|Toronto|1|2
+35573063|norfolk, va|2411140327|Error|1|2
+35573063|norfolk, va|17530277|everywhere doing everything |1|2
+35573063|norfolk, va|55365711|click on the link to hear LIT|1|2
+16833736|norfolk, va|17559035|757|10|2
+16833736|norfolk, va|27710633|Norfolk, VA|3|2
+16833736|norfolk, va|0|Error|1|2
+16833736|norfolk, va|53485748|Error|1|2
+16833736|norfolk, va|19376431|Kelowna, B.C., Canada|1|2
+16833736|norfolk, va|96261889|Error|1|2
+16833736|norfolk, va|0|Error|1|2
+16833736|norfolk, va|0|Error|1|2
+28630315|norfolk, va|0|Error|2|2
+28630315|norfolk, va|0|Error|2|2
+28630315|norfolk, va|25123762|Washington DC|2|2
+28630315|norfolk, va|0|Error|1|2
+28630315|norfolk, va|0|Error|1|2
+28630315|norfolk, va|23832022|Worldwide |1|2
+34398585|norfolk, va|34398585|Norfolk, VA|13|2
+34398585|norfolk, va|223460370|Look up *waves*|7|2
+34398585|norfolk, va|79743352|Over the rainbow|7|2
+34398585|norfolk, va|0|Error|5|2
+34398585|norfolk, va|0|Error|4|2
+34398585|norfolk, va|66603553|Radcliff, South Louisville|4|2
+34398585|norfolk, va|24329304|Error|4|2
+34398585|norfolk, va|66741468|270/502|3|2
+34398585|norfolk, va|0|Error|3|2
+34398585|norfolk, va|93326423|Error|3|2
+34398585|norfolk, va|78052825|The Bahamas|2|2
+34398585|norfolk, va|52955268|a world of my OWN creation|2|2
+34398585|norfolk, va|62055735|Newport News|2|2
+34398585|norfolk, va|1304248226|Error|2|2
+34398585|norfolk, va|1031371874|Error|2|2
+34398585|norfolk, va|69784469|houston tx|1|2
+34398585|norfolk, va|339458890|Error|1|2
+34398585|norfolk, va|16870682|A place to Love & Be Loved.|1|2
+34398585|norfolk, va|0|Error|1|2
+34398585|norfolk, va|0|Error|1|2
+34398585|norfolk, va|0|Error|1|2
+34398585|norfolk, va|36393982|NY Baby!|1|2
+34398585|norfolk, va|40780569|Miami, FL|1|2
+34398585|norfolk, va|29478055|Pretty much GLOBAL|1|2
+34398585|norfolk, va|0|Error|1|2
+34398585|norfolk, va|28471026|Miami, FL|1|2
+34398585|norfolk, va|64803475|Error|1|2
+73279371|norfolk, va|0|Error|19|2
+73279371|norfolk, va|17929027|The Ruff|7|2
+73279371|norfolk, va|0|Error|5|2
+73279371|norfolk, va|25854230|DC to NC and back again...|4|2
+73279371|norfolk, va|0|Error|3|2
+73279371|norfolk, va|24989950|iPhone: 38.912403,-77.031588|3|2
+73279371|norfolk, va|0|Error|2|2
+73279371|norfolk, va|2503436311|Error|2|2
+73279371|norfolk, va|15962961|Error|2|2
+73279371|norfolk, va|428333|Everywhere|2|2
+73279371|norfolk, va|5448842|37.46656,-122.155227|2|2
+73279371|norfolk, va|619863|iPhone: 37.757828,-122.388702|1|2
+73279371|norfolk, va|45270436|Error|1|2
+73279371|norfolk, va|0|Error|1|2
+73279371|norfolk, va|56935156|Eastern Standard Time|1|2
+73279371|norfolk, va|14946895|Norfolk, Va. |1|2
+73279371|norfolk, va|1915842930|-NY-|1|2
+73279371|norfolk, va|0|Error|1|2
+73279371|norfolk, va|0|Error|1|2
+73279371|norfolk, va|19077826|Error|1|2
+21424351|norfolk, va|0|Error|8|2
+21424351|norfolk, va|0|Error|4|2
+21424351|norfolk, va|44394132| Norfolk, VA|3|2
+21424351|norfolk, va|0|Error|3|2
+21424351|norfolk, va|21424351|Norfolk, VA|2|2
+21424351|norfolk, va|30350674|SMALL CITY BIG DREAMS|1|2
+21424351|norfolk, va|2724232781|Error|1|2
+21424351|norfolk, va|25280290|Inbetween The Future & Past|1|2
+21424351|norfolk, va|762739584|Error|1|2
+21424351|norfolk, va|22382741|iPhone: 41.073940,-74.164413|1|2
+21424351|norfolk, va|0|Error|1|2
+37022428|norfolk, va|41968552|908 to 757|25|2
+37022428|norfolk, va|89126709|Whiteriver,Az|19|2
+37022428|norfolk, va|0|Error|8|2
+37022428|norfolk, va|0|Error|7|2
+37022428|norfolk, va|0|Error|5|2
+37022428|norfolk, va|26810927|MA to VA|4|2
+37022428|norfolk, va|0|Error|4|2
+37022428|norfolk, va|26635864|Atlanta|4|2
+37022428|norfolk, va|1624201970|Error|3|2
+37022428|norfolk, va|32664851|Somewhere btwn glitter & goon|2|2
+37022428|norfolk, va|237295137|Error|2|2
+37022428|norfolk, va|48454321|Where I place my mind...|2|2
+37022428|norfolk, va|53946612|Philadelphia |1|2
+37022428|norfolk, va|33724602|Charlotte, NC|1|2
+37022428|norfolk, va|0|Error|1|2
+37022428|norfolk, va|0|Error|1|2
+37022428|norfolk, va|65617584|Error|1|2
+37022428|norfolk, va|24498289|WORLDWIDE|1|2
+37022428|norfolk, va|0|Error|1|2
+37022428|norfolk, va|2999570513|Error|1|2
+37022428|norfolk, va|0|Error|1|2
+37022428|norfolk, va|38771143|Boston, Ma|1|2
+37022428|norfolk, va|20779073|MI313, VA757, TN615|1|2
+37022428|norfolk, va|719530517|Brooklyn,NY|1|2
+37022428|norfolk, va|84358766|Everywhere Love IS|1|2
+37022428|norfolk, va|0|Error|1|2
+37022428|norfolk, va|36425615|ATL & VA by Way of Queens NYC|1|2
+37022428|norfolk, va|33511856|Los Angeles, California |1|2
+37022428|norfolk, va|2154126324|Tennessee, USA|1|2
+45154782|norfolk, va|0|Error|2|2
+45154782|norfolk, va|0|Error|1|2
+45154782|norfolk, va|47630741|Zone 3 ATLANTA|1|2
+43848632|norfolk, va|532626938|Error|10|2
+43848632|norfolk, va|0|Error|4|2
+43848632|norfolk, va|0|Error|3|2
+43848632|norfolk, va|16221325|dmv. nyc.|3|2
+43848632|norfolk, va|0|Error|3|2
+43848632|norfolk, va|44411781|Error|2|2
+43848632|norfolk, va|0|Error|2|2
+43848632|norfolk, va|277724056|st.louis mo.|1|2
+43848632|norfolk, va|0|Error|1|2
+43848632|norfolk, va|0|Error|1|2
+43848632|norfolk, va|0|Error|1|2
+43848632|norfolk, va|43699886|EVERYWHERE!|1|2
+43848632|norfolk, va|44670776|On The Planet|1|2
+49879545|norfolk, va|0|Error|1|2
+49879545|norfolk, va|0|Error|1|2
+49879545|norfolk, va|0|Error|1|2
+49879545|norfolk, va|0|Error|1|2
+49879545|norfolk, va|0|Error|1|2
+49879545|norfolk, va|0|Error|1|2
+49879545|norfolk, va|0|Error|1|2
+23059430|norfolk, va|19686697|Virginia Beach, VA|5|2
+23059430|norfolk, va|0|Error|2|2
+23059430|norfolk, va|45266553|Error|1|2
+23059430|norfolk, va|11883132|San Francisco|1|2
+23059430|norfolk, va|0|Error|1|2
+23059430|norfolk, va|725359830|Error|1|2
+23059430|norfolk, va|0|Error|1|2
+70594053|norfolk, va|0|Error|1|2
+43989943|norfolk, va|258847005|Error|2|2
+43989943|norfolk, va|21654591|Virginia Beach|1|2
+43989943|norfolk, va|206703953|Error|1|2
+43989943|norfolk, va|33649006|PNKelephant 504 South Street|1|2
+43989943|norfolk, va|50084110|2 UP 2 DOWN|1|2
+43989943|norfolk, va|582147261|Error|1|2
+43989943|norfolk, va|0|Error|1|2
+43989943|norfolk, va|0|Error|1|2
+43989943|norfolk, va|0|Error|1|2
+43989943|norfolk, va|0|Error|1|2
+43989943|norfolk, va|17873882|world wide web|1|2
+43989943|norfolk, va|763683|worldwide from los angeles|1|2
+19128258|norfolk, va|85848447|Houston, Tx|3|2
+19128258|norfolk, va|14934247|Dearborn, MI              |3|2
+19128258|norfolk, va|0|Error|2|2
+19128258|norfolk, va|0|Error|2|2
+19128258|norfolk, va|28785486|New York City / Worldwide|1|2
+19128258|norfolk, va|20093287|California|1|2
+19128258|norfolk, va|39511064|Las Vegas, NV|1|2
+19128258|norfolk, va|0|Error|1|2
+19128258|norfolk, va|20602292|New York, NY|1|2
+19128258|norfolk, va|18024862|Nantucket|1|2
+19128258|norfolk, va|33145401|Des Moines, Iowa|1|2
+19128258|norfolk, va|3054270219|Error|1|2
+19128258|norfolk, va|14946895|Norfolk, Va. |1|2
+19128258|norfolk, va|16381718|Crossroads District ~ KCMO|1|2
+19128258|norfolk, va|17787705|Washington, DC|1|2
+19128258|norfolk, va|2852659639|Error|1|2
+19128258|norfolk, va|68691412|Washington, Missouri 63090|1|2
+19128258|norfolk, va|0|Error|1|2
+19128258|norfolk, va|42873773|at home|1|2
+19128258|norfolk, va|0|Error|1|2
+19128258|norfolk, va|28453324|San Francisco, CA|1|2
+30500628|norfolk, va|14641688|Bronx, NY|8|2
+30500628|norfolk, va|15277129|NYC | B A Y    A R E A|3|2
+30500628|norfolk, va|30572693|Oakland Park/Plantation Fl.|1|2
+30500628|norfolk, va|0|Error|1|2
+30500628|norfolk, va|0|Error|1|2
+30500628|norfolk, va|0|Error|1|2
+30500628|norfolk, va|0|Error|1|2
+30500628|norfolk, va|96261889|Error|1|2
+26175769|norfolk, va|18781381|Ontario, Canada|4|2
+26175769|norfolk, va|0|Error|3|2
+26175769|norfolk, va|0|Error|2|2
+26175769|norfolk, va|0|Error|2|2
+26175769|norfolk, va|14651745|Sussex, England|1|2
+26175769|norfolk, va|25310244|Edmonton|1|2
+26175769|norfolk, va|14186998|Edmonton, Alberta|1|2
+26175769|norfolk, va|18019674|Kongsberg, Norway|1|2
+26175769|norfolk, va|14685183|Greenville, South Carolina USA|1|2
+26175769|norfolk, va|13689842|Kingston, NS|1|2
+26175769|norfolk, va|8372582|Oshawa, ON Canada|1|2
+15601447|norfolk, va|47504100|Los Angeles|3|2
+15601447|norfolk, va|124399970|Error|2|2
+15601447|norfolk, va|16181186|Jackson,Wy|2|2
+15601447|norfolk, va|5440492|La Jolla, California|2|2
+15601447|norfolk, va|0|Error|2|2
+15601447|norfolk, va|18549003|Hawaii|1|2
+15601447|norfolk, va|0|Error|1|2
+15601447|norfolk, va|202288303|Error|1|2
+15601447|norfolk, va|49963150|SP|1|2
+15601447|norfolk, va|72891235|Herzogenaurach|1|2
+15601447|norfolk, va|25292983|Error|1|2
+15601447|norfolk, va|87161574|Error|1|2
+15601447|norfolk, va|85021073|Error|1|2
+15601447|norfolk, va|887405040|Error|1|2
+15601447|norfolk, va|83986685|Error|1|2
+15601447|norfolk, va|0|Error|1|2
+15601447|norfolk, va|267520470|Error|1|2
+15601447|norfolk, va|400423440|Error|1|2
+15601447|norfolk, va|39871827|Somewhere in the Milkyway|1|2
+15601447|norfolk, va|58423257|Error|1|2
+15601447|norfolk, va|49645247|Bangalore, India|1|2
+15601447|norfolk, va|0|Error|1|2
+15601447|norfolk, va|238184137|Toronto, Ontario|1|2
+15601447|norfolk, va|14767245|iPhone: 49.188156,-122.884453|1|2
+15601447|norfolk, va|84699671|Error|1|2
+15601447|norfolk, va|0|Error|1|2
+15601447|norfolk, va|83863472|Error|1|2
+15601447|norfolk, va|82887189|Brazil Brasil|1|2
+68260466|norfolk, va|451991421|Error|6|2
+68260466|norfolk, va|0|Error|4|2
+68260466|norfolk, va|55086466|Error|3|2
+68260466|norfolk, va|0|Error|2|2
+68260466|norfolk, va|0|Error|2|2
+68260466|norfolk, va|277724056|st.louis mo.|1|2
+68260466|norfolk, va|0|Error|1|2
+15179944|norfolk, va|19349637|Chicago, IL|4|2
+15179944|norfolk, va|103423503|nest|4|2
+15179944|norfolk, va|19075524|Norfolk, VA|3|2
+15179944|norfolk, va|14534944|Hampton, Virginia|3|2
+15179944|norfolk, va|10448592|norfolk, va|2|2
+15179944|norfolk, va|2220441|Error|2|2
+15179944|norfolk, va|8811212|Newport News, VA|1|2
+15179944|norfolk, va|33330917|Norfolk, VA|1|2
+15179944|norfolk, va|9778082|Dallas, TX|1|2
+15179944|norfolk, va|84227102|Error|1|2
+15179944|norfolk, va|239652817|Error|1|2
+15179944|norfolk, va|14615131|Error|1|2
+15179944|norfolk, va|16502650|Pittsburgh|1|2
+15179944|norfolk, va|9212842|Kauai, HI|1|2
+15179944|norfolk, va|0|Error|1|2
+15179944|norfolk, va|87714048|Error|1|2
+15179944|norfolk, va|14946895|Norfolk, Va. |1|2
+15179944|norfolk, va|17861855|Norfolk, VA|1|2
+15179944|norfolk, va|9069612|NFK|1|2
+15179944|norfolk, va|38457392|Norfolk, Virginia|1|2
+15179944|norfolk, va|14084784|Washington, DC|1|2
+15309624|norfolk, va|0|Error|1|2
+16470930|norfolk, va|18620441|Tampa Bay|1|2
+16470930|norfolk, va|0|Error|1|2
+45076501|norfolk, va|138778433|Everywhere|1|2
+45076501|norfolk, va|252267383|Downtown Las Vegas|1|2
+45076501|norfolk, va|0|Error|1|2
+45076501|norfolk, va|2160572904|Error|1|2
+19386403|norfolk, va|19386403|Virginia Beach, VA|53|2
+19386403|norfolk, va|54774351|Hollywood|6|2
+19386403|norfolk, va|82907941|back at home, safe and sound!|5|2
+19386403|norfolk, va|19646605|Shropshire, UK via USA|5|2
+19386403|norfolk, va|31949402|Haymarket, Virginia, USA|4|2
+19386403|norfolk, va|0|Error|4|2
+19386403|norfolk, va|78425830|Union, NJ|4|2
+19386403|norfolk, va|45465822|Detroit|3|2
+19386403|norfolk, va|19137740|San Francisco, CA|2|2
+19386403|norfolk, va|29464892|Oakland Gardens, New York|2|2
+19386403|norfolk, va|1026400704|Error|2|2
+19386403|norfolk, va|17173775|Sharing Life's Adventures!|2|2
+19386403|norfolk, va|14133436|Beverly Hills, CA 90210|2|2
+19386403|norfolk, va|67687671|Error|2|2
+19386403|norfolk, va|58450181|New York, NY|2|2
+19386403|norfolk, va|2357972304|Error|2|2
+19386403|norfolk, va|197992517|Error|2|2
+19386403|norfolk, va|21483381|Southeastern Arizona|2|2
+19386403|norfolk, va|22867845|Houston, TX|1|2
+19386403|norfolk, va|16787998|San Francisco, CA|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|67829649|Vietnam & California|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|26263028|London, England|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|80804963|Ploiesti, Romania|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|17940474|Beverly Hills, CA 90210|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|17354015|UK|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|62842314|Ann Arbor, MI|1|2
+19386403|norfolk, va|63603258|virginia|1|2
+19386403|norfolk, va|36098220|Staten Island, New York|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|27911147|Singapore / Seoul, South Korea|1|2
+19386403|norfolk, va|5391882|Salt Lake City|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|9215532|New York, NY|1|2
+19386403|norfolk, va|0|Error|1|2
+19386403|norfolk, va|16030699|USA and Canada|1|2
+19386403|norfolk, va|47770151|Seattle, WA|1|2
+88338496|norfolk, va|0|Error|2|2
+88338496|norfolk, va|26337844|New Jersey |2|2
+88338496|norfolk, va|51473896|carenage|2|2
+88338496|norfolk, va|0|Error|1|2
+88338496|norfolk, va|0|Error|1|2
+88338496|norfolk, va|279754644|Jersey City,NJ|1|2
+88338496|norfolk, va|21278412|Where the Cash At|1|2
+88338496|norfolk, va|0|Error|1|2
+88338496|norfolk, va|56463364|Los Angeles, CA|1|2
+88338496|norfolk, va|0|Error|1|2
+88338496|norfolk, va|147158194|Error|1|2
+88338496|norfolk, va|0|Error|1|2
+22805201|norfolk, va|15756858|Virginia Beach, VA, USA|4|2
+22805201|norfolk, va|23440178|Dallas|2|2
+22805201|norfolk, va|0|Error|1|2
+22805201|norfolk, va|67744669|Virginia Beach, VA|1|2
+22805201|norfolk, va|15786983|USA|1|2
+22805201|norfolk, va|27411619|Virginia Beach|1|2
+22805201|norfolk, va|18863894|Stockholm, Sweden|1|2
+22805201|norfolk, va|0|Error|1|2
+22805201|norfolk, va|0|Error|1|2
+22805201|norfolk, va|15276401|North Carolina|1|2
+22805201|norfolk, va|16175706|St Petersburg, Florida |1|2
+22805201|norfolk, va|0|Error|1|2
+22805201|norfolk, va|38885082|Wildwood, NJ|1|2
+22805201|norfolk, va|157528304|Error|1|2
+22805201|norfolk, va|754576|Los Angeles, CA|1|2
+22805201|norfolk, va|0|Error|1|2
+74453726|norfolk, va|146733|Nashville|17|2
+74453726|norfolk, va|573225641|Error|4|2
+74453726|norfolk, va|2857880705|va in a pink room |3|2
+74453726|norfolk, va|193530216|Everywhere we need to be|2|2
+74453726|norfolk, va|166363882|Error|2|2
+74453726|norfolk, va|718004461|Error|2|2
+74453726|norfolk, va|17790088|Washington, DC|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|35012420|Planet Kay|1|2
+74453726|norfolk, va|30309979|New York, NY|1|2
+74453726|norfolk, va|1168761799|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+74453726|norfolk, va|22007499|Error|1|2
+74453726|norfolk, va|0|Error|1|2
+19947028|norfolk, va|26293710|Error|8|2
+19947028|norfolk, va|29291651|Error|5|2
+19947028|norfolk, va|28201586|Long Island|2|2
+19947028|norfolk, va|7212562|Dallas, Texas|2|2
+19947028|norfolk, va|0|Error|2|2
+19947028|norfolk, va|28156684|Error|1|2
+19947028|norfolk, va|19947028|Myrtle Beach, SC|1|2
+19947028|norfolk, va|0|Error|1|2
+73474297|norfolk, va|0|Error|6|2
+73474297|norfolk, va|0|Error|2|2
+73474297|norfolk, va|21933589|Waco, Texas|1|2
+73474297|norfolk, va|22894342|The Woodlands, Texas|1|2
+14871478|norfolk, va|34173763|Ghent/Norfolk/Virginia.|7|2
+14871478|norfolk, va|14465889|Arlington, VA|4|2
+14871478|norfolk, va|362684344|ODU | Peake | Eorzea|1|2
+14871478|norfolk, va|7938192|Error|1|2
+14871478|norfolk, va|76436475|Error|1|2
+19075524|norfolk, va|0|Error|2|2
+19075524|norfolk, va|86338787|Error|2|2
+19075524|norfolk, va|19329393|New York City, New York|1|2
+19075524|norfolk, va|0|Error|1|2
+19075524|norfolk, va|30000912|Error|1|2
+19075524|norfolk, va|1314491|Norfolk, Va., USA|1|2
+19075524|norfolk, va|972651|Error|1|2
+19075524|norfolk, va|68470330|Error|1|2
+19075524|norfolk, va|0|Error|1|2
+19075524|norfolk, va|16314021|Portland, OR|1|2
+19075524|norfolk, va|358338926|Error|1|2
+19075524|norfolk, va|46243622|Error|1|2
+19082551|norfolk, va|19028636|Richmond, VA|7|2
+19082551|norfolk, va|35447184|Error|4|2
+19082551|norfolk, va|550542900|Edmonton, Alberta|1|2
+19082551|norfolk, va|25731526|Error|1|2
+19082551|norfolk, va|18339932|Error|1|2
+20167160|norfolk, va|25728532|San Diego, CA|2|2
+20167160|norfolk, va|71091067|everywhere|2|2
+20167160|norfolk, va|16712540|Wisconsin|1|2
+20167160|norfolk, va|184658818|Las Vegas |1|2
+20167160|norfolk, va|0|Error|1|2
+20210878|norfolk, va|14075928|Error|1|2
+20210878|norfolk, va|90461672|california|1|2
+20210878|norfolk, va|0|Error|1|2
+18160313|norfolk, va|452337565|Error|2|2
+18160313|norfolk, va|51333|San Francisco, CA (37.771402,-|2|2
+18160313|norfolk, va|7861312|Los Angeles, CA|1|2
+18160313|norfolk, va|22957917|San Diego, CA|1|2
+18160313|norfolk, va|20978103|Direct2Dane@DaneCook.com|1|2
+18160313|norfolk, va|15111987|Pittsburgh|1|2
+18160313|norfolk, va|0|Error|1|2
+18164392|norfolk, va|16333340|Suplex City, bitch|4|2
+18164392|norfolk, va|21619486|Interwebz|2|2
+18164392|norfolk, va|14906496|A deep dark hole|2|2
+18164392|norfolk, va|0|Error|1|2
+18164392|norfolk, va|17299209|Wisconsin|1|2
+18164392|norfolk, va|0|Error|1|2
+18164392|norfolk, va|9781242|23510|1|2
+18164392|norfolk, va|0|Error|1|2
+73767375|norfolk, va|224692198|Error|2|2
+73767375|norfolk, va|0|Error|1|2
+73767375|norfolk, va|30776801|In my own world.|1|2
+73767375|norfolk, va|0|Error|1|2
+57914321|norfolk, va|20090719|Error|1|2
+57914321|norfolk, va|0|Error|1|2
+16144221|norfolk, va|51473896|carenage|3|2
+16144221|norfolk, va|600150897|New York,NY|2|2
+16144221|norfolk, va|144353844|Lion's Den|1|2
+16144221|norfolk, va|35396459|Error|1|2
+16144221|norfolk, va|21278412|Where the Cash At|1|2
+16144221|norfolk, va|0|Error|1|2
+18089262|norfolk, va|0|Error|15|2
+18089262|norfolk, va|18555098|VA Beach|4|2
+18089262|norfolk, va|19507015|Pleasant Grove UT|1|2
+18089262|norfolk, va|340993238|Error|1|2
+18089262|norfolk, va|63497889|Virginia Beach, Virginia|1|2
+18089262|norfolk, va|0|Error|1|2
+18089262|norfolk, va|0|Error|1|2
+30904893|norfolk, va|2486025068|Error|5|2
+30904893|norfolk, va|16025848|North Little Rock, AR|4|2
+30904893|norfolk, va|41130090|missouri|3|2
+30904893|norfolk, va|4406381|Eastern Standard Tribe|1|2
+30904893|norfolk, va|18209371|The Court of Miracles|1|2
+30904893|norfolk, va|348767152|Error|1|2
+30904893|norfolk, va|21960800|Virginia|1|2
+30904893|norfolk, va|14150493|Orlando, FL|1|2
+30904893|norfolk, va|51752882|North Carolina |1|2
+48760888|norfolk, va|19134196|Error|1|2
+48760888|norfolk, va|29120957|Error|1|2
+15247629|norfolk, va|0|Error|3|2
+15247629|norfolk, va|5796172|A Remote Enclave|2|2
+15247629|norfolk, va|831349142|Philadelphia, Pa.|1|2
+15247629|norfolk, va|1760931|New York Forever|1|2
+15247629|norfolk, va|25799811|Error|1|2
+15247629|norfolk, va|373483897|Error|1|2
+15247629|norfolk, va|17995712|New York, NY|1|2
+15247629|norfolk, va|41073372|Los Angeles|1|2
+15247629|norfolk, va|37971731|The World Wide Web|1|2
+15247629|norfolk, va|0|Error|1|2
+15247629|norfolk, va|31649589|St. Louis, MO|1|2
+15247629|norfolk, va|14262818|Baltimore, MD|1|2
+32073689|norfolk, va|16920210|Chicago|5|2
+32073689|norfolk, va|15928789|The Empire State|3|2
+32073689|norfolk, va|16474988|The Go|3|2
+32073689|norfolk, va|15932715|Brooklyn/Louisville|1|2
+32073689|norfolk, va|17112369|Washington, DC|1|2
+17961009|norfolk, virginia|19661896|Next Door To FAME  |9|2
+17961009|norfolk, virginia|636610130|Error|7|2
+17961009|norfolk, virginia|0|Error|6|2
+17961009|norfolk, virginia|26905690|Virginia|5|2
+17961009|norfolk, virginia|0|Error|5|2
+17961009|norfolk, virginia|0|Error|4|2
+17961009|norfolk, virginia|0|Error|4|2
+17961009|norfolk, virginia|973249680|Error|3|2
+17961009|norfolk, virginia|42226145|WorldWide! |3|2
+17961009|norfolk, virginia|17747458| North Amexem/ Turtle Island|3|2
+17961009|norfolk, virginia|30167324|OKLAHOMA CITY|3|2
+17961009|norfolk, virginia|17225026|VA|3|2
+17961009|norfolk, virginia|29884517|Somewhere turning Words 2Money|2|2
+17961009|norfolk, virginia|0|Error|2|2
+17961009|norfolk, virginia|22978944|Norfolk, VA|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|487313570|Error|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|16728964|Archerville|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|1350101911|paris|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|25967150|ATLANTA,GA | NYC | MIAMI|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|38762888|CT|VA| LA| MIA|ATL|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|719578057|Error|1|2
+17961009|norfolk, virginia|30971497|BX,GA,VA|1|2
+17961009|norfolk, virginia|109608421|Error|1|2
+17961009|norfolk, virginia|32446940|VA-LA-PA-DC-BMORE-MIA-HTOWN|1|2
+17961009|norfolk, virginia|18408253|Brooklyn, NY|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|577456307|Error|1|2
+17961009|norfolk, virginia|109157323|North Jersey....Eseex County|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|2272488797|WIT KELLY BOOKED|1|2
+17961009|norfolk, virginia|297614983|Error|1|2
+17961009|norfolk, virginia|16834823|Virginia Native.|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|15914081|wherever the #work takes me..|1|2
+17961009|norfolk, virginia|26929382|VA BEACH|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|22593865|Harlem World|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|34831487|On the grind, Virginia|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|0|Error|1|2
+17961009|norfolk, virginia|0|Error|1|2
+19663979|norfolk, virginia|30693207|VA,NY,LA,ATL, MIA..WorldWide|9|2
+19663979|norfolk, virginia|25313914|Bad Newz,VA|5|2
+19663979|norfolk, virginia|16834823|Virginia Native.|3|2
+19663979|norfolk, virginia|62610767|Where broken hearts go|2|2
+19663979|norfolk, virginia|26394427|Error|2|2
+19663979|norfolk, virginia|21166457|757 VA |1|2
+19663979|norfolk, virginia|0|Error|1|2
+19663979|norfolk, virginia|19519682|Boston|1|2
+19663979|norfolk, virginia|0|Error|1|2
+19663979|norfolk, virginia|15914081|wherever the #work takes me..|1|2
+19663979|norfolk, virginia|21808942|Why it matter, Florida |1|2
+19663979|norfolk, virginia|1658644465|Error|1|2
+19663979|norfolk, virginia|21837471|PTOWN, VA|1|2
+19663979|norfolk, virginia|19798395|Escaping Reality|1|2
+19663979|norfolk, virginia|2901164378|Error|1|2
+19663979|norfolk, virginia|613906276|Atlanta|1|2
+19663979|norfolk, virginia|20896353|DMV/BR/LA/MD/Worldwide|1|2
+46814279|norfolk, virginia|0|Error|12|2
+46814279|norfolk, virginia|28168486|Marvins Room|4|2
+46814279|norfolk, virginia|0|Error|2|2
+46814279|norfolk, virginia|0|Error|1|2
+46814279|norfolk, virginia|0|Error|1|2
+46814279|norfolk, virginia|0|Error|1|2
+45244529|norfolk, virginia|33574906|NYC|4|2
+45244529|norfolk, virginia|388642747|Error|3|2
+45244529|norfolk, virginia|0|Error|2|2
+45244529|norfolk, virginia|42590600|New Zealand|2|2
+45244529|norfolk, virginia|17873882|world wide web|2|2
+45244529|norfolk, virginia|29454543|Upjou Rass (say it fast)|2|2
+45244529|norfolk, virginia|0|Error|1|2
+45244529|norfolk, virginia|0|Error|1|2
+45244529|norfolk, virginia|0|Error|1|2
+45244529|norfolk, virginia|591513826|Error|1|2
+45244529|norfolk, virginia|28694148|Chesapeake, Norfolk, VA Beach |1|2
+21786264|norfolk, virginia|5577902|I live in the State of Grace|1|2
+21786264|norfolk, virginia|54928588|Durham, NC|1|2
+21786264|norfolk, virginia|0|Error|1|2
+21786264|norfolk, virginia|13654112|Nashville, TN|1|2
+21786264|norfolk, virginia|24693319|Los Angeles,California|1|2
+21786264|norfolk, virginia|0|Error|1|2
+21786264|norfolk, virginia|0|Error|1|2
+8792052|norfolk, virginia|1322949295|Santiago, Chile|4|2
+8792052|norfolk, virginia|1658457871|Error|4|2
+8792052|norfolk, virginia|3675391|Virginia|2|2
+8792052|norfolk, virginia|332546098|Error|2|2
+8792052|norfolk, virginia|0|Error|2|2
+8792052|norfolk, virginia|7442592|Error|2|2
+8792052|norfolk, virginia|987574226|Canada|1|2
+8792052|norfolk, virginia|14469100|Virginia Beach|1|2
+8792052|norfolk, virginia|16317097|Error|1|2
+8792052|norfolk, virginia|327142024|Here|1|2
+8792052|norfolk, virginia|76023925|London|1|2
+8792052|norfolk, virginia|27896730|Norfolk, Va.|1|2
+8792052|norfolk, virginia|4490791|iPhone: 39.177513,-78.136848|1|2
+8792052|norfolk, virginia|0|Error|1|2
+8792052|norfolk, virginia|2355118712|Error|1|2
+8792052|norfolk, virginia|16313315|NORTHSIDE|1|2
+8792052|norfolk, virginia|7512332|Virginia|1|2
+8792052|norfolk, virginia|6567132|Virginia Beach, VA|1|2
+19699882|norfolk, virginia|0|Error|13|2
+19699882|norfolk, virginia|0|Error|5|2
+19699882|norfolk, virginia|0|Error|5|2
+19699882|norfolk, virginia|30309979|New York, NY|3|2
+19699882|norfolk, virginia|26109174|Error|2|2
+19699882|norfolk, virginia|0|Error|2|2
+19699882|norfolk, virginia|27031009|Error|2|2
+19699882|norfolk, virginia|75961673|Earth|1|2
+19699882|norfolk, virginia|0|Error|1|2
+24680706|norfolk, virginia|82452072|Fayettenam, NC|5|2
+24680706|norfolk, virginia|24322013|From the Speakers to Ur Heart|2|2
+24680706|norfolk, virginia|0|Error|2|2
+24680706|norfolk, virginia|17929027|The Ruff|1|2
+24680706|norfolk, virginia|0|Error|1|2
+24680706|norfolk, virginia|30572693|Oakland Park/Plantation Fl.|1|2
+24680706|norfolk, virginia|0|Error|1|2
+24680706|norfolk, virginia|0|Error|1|2
+73984275|norfolk, virginia|21328627|cowboy, country|2|2
+73984275|norfolk, virginia|0|Error|1|2
+73984275|norfolk, virginia|75693931|Townsville|1|2
+73984275|norfolk, virginia|568813062|Error|1|2
+73984275|norfolk, virginia|40118347|Free|1|2
+40606490|norfolk, virginia|0|Error|15|2
+40606490|norfolk, virginia|0|Error|10|2
+40606490|norfolk, virginia|0|Error|2|2
+40606490|norfolk, virginia|0|Error|1|2
+89369464|norfolk, virginia|279898164|wherever da fuk I am |13|2
+89369464|norfolk, virginia|0|Error|11|2
+89369464|norfolk, virginia|0|Error|5|2
+89369464|norfolk, virginia|345611592|NyC|5|2
+89369464|norfolk, virginia|0|Error|2|2
+89369464|norfolk, virginia|135743363|Panama City, Florida|1|2
+89369464|norfolk, virginia|0|Error|1|2
+89369464|norfolk, virginia|0|Error|1|2
+89369464|norfolk, virginia|0|Error|1|2
+89369464|norfolk, virginia|0|Error|1|2
+89369464|norfolk, virginia|168190154|Error|1|2
+89369464|norfolk, virginia|0|Error|1|2
+89369464|norfolk, virginia|23832022|Worldwide |1|2
+57528706|norfolk, virginia|47416278|USA/MOBILE,AL|2|2
+57528706|norfolk, virginia|38127255|Error|2|2
+57528706|norfolk, virginia|0|Error|2|2
+57528706|norfolk, virginia|171317482|Error|1|2
+57528706|norfolk, virginia|16731820|Jamaica|1|2
+57528706|norfolk, virginia|361494243|Error|1|2
+57528706|norfolk, virginia|8729502|Error|1|2
+57528706|norfolk, virginia|21278412|Where the Cash At|1|2
+57528706|norfolk, virginia|58544484|EVERYWHERE U WANNA BE!!|1|2
+57528706|norfolk, virginia|3004231|Error|1|2
+57528706|norfolk, virginia|0|Error|1|2
+57528706|norfolk, virginia|142614256|Error|1|2
+57528706|norfolk, virginia|16050554|Houston, Texas|1|2
+57528706|norfolk, virginia|24906723|Harlem, NYC|1|2
+57528706|norfolk, virginia|26936908|FLATLANTA GA.|1|2
+21620511|norfolk, virginia|2458837261|Denmark Moors|3|2
+21620511|norfolk, virginia|0|Error|3|2
+21620511|norfolk, virginia|0|Error|3|2
+21620511|norfolk, virginia|0|Error|2|2
+21620511|norfolk, virginia|0|Error|1|2
+21620511|norfolk, virginia|0|Error|1|2
+21620511|norfolk, virginia|230396225|Error|1|2
+21620511|norfolk, virginia|0|Error|1|2
+21620511|norfolk, virginia|0|Error|1|2
+21620511|norfolk, virginia|22601513|36.77122,-76.266096|1|2
+21620511|norfolk, virginia|42242762|VIRGINIA BEACH|1|2
+21620511|norfolk, virginia|22705739|LA|1|2
+21620511|norfolk, virginia|22064080|Error|1|2
+21620511|norfolk, virginia|0|Error|1|2
+21620511|norfolk, virginia|0|Error|1|2
+21620511|norfolk, virginia|18220175|EVERYWHERE!!!|1|2
+21620511|norfolk, virginia|31160417|VA|1|2
+21620511|norfolk, virginia|2808675631|Error|1|2
+21620511|norfolk, virginia|0|Error|1|2
+20053527|norfolk, virginia|18043644|Norfolk, VA|6|2
+20053527|norfolk, virginia|14906496|A deep dark hole|4|2
+20053527|norfolk, virginia|11320032|Nashville, TN|1|2
+20053527|norfolk, virginia|14179105|Southern United States|1|2
+20053527|norfolk, virginia|18396070|Los Angeles, CA|1|2
+20053527|norfolk, virginia|8210562|chattanooga|1|2
+20053527|norfolk, virginia|0|Error|1|2
+27592897|norfolk, virginia|0|Error|1|2
+24888006|norfolk, virginia|17375403|Error|1|2
+15210606|norfolk, virginia|33873713|Canada|3|2
+15210606|norfolk, virginia|44048622|Florida|1|2
+15210606|norfolk, virginia|27547214|Wherever YOU are|1|2
+15210606|norfolk, virginia|0|Error|1|2
+15210606|norfolk, virginia|28700863|Lakewood, Colorado|1|2
+15210606|norfolk, virginia|16834417|Whidbey Island, WA|1|2
+24680706|norfolk, virginia|0|Error|4|2
+24680706|norfolk, virginia|0|Error|2|2
+24680706|norfolk, virginia|0|Error|1|2
+24680706|norfolk, virginia|2850456251|Los Angeles !|1|2
+24680706|norfolk, virginia|17929027|The Ruff|1|2
+24680706|norfolk, virginia|25729885|Richmonddddd|1|2
+24680706|norfolk, virginia|27085031|Toronto, Canada|1|2
+24680706|norfolk, virginia|0|Error|1|2
+46814279|norfolk, virginia|0|Error|5|2
+46814279|norfolk, virginia|201504729|Error|4|2
+46814279|norfolk, virginia|0|Error|1|2
+40145676|norfolk, virginia|24421023|JesseAndMike(at)hotmail.com|6|2
+40145676|norfolk, virginia|16687651|My own little world!|1|2
+19663979|norfolk, virginia|114907106|Error|4|2
+19663979|norfolk, virginia|133510960|LA|3|2
+19663979|norfolk, virginia|107741669|Error|3|2
+19663979|norfolk, virginia|26984010|The Hamptons VA |  #412 | #ATL|3|2
+19663979|norfolk, virginia|558793745|DC |2|2
+19663979|norfolk, virginia|0|Error|2|2
+19663979|norfolk, virginia|21907142|Worldwide|1|2
+19663979|norfolk, virginia|347002675|Tellus, Milky Way|1|2
+19663979|norfolk, virginia|26905690|Virginia|1|2
+61656747|norfolk, virginia|37133374|Nowhere Comfy,Moving UP|5|2
+61656747|norfolk, virginia|0|Error|4|2
+61656747|norfolk, virginia|0|Error|1|2
+61656747|norfolk, virginia|26803101|Error|1|2
+61656747|norfolk, virginia|0|Error|1|2
+26153168|norfolk, virginia|2409227616|Error|8|2
+26153168|norfolk, virginia|2207990047|Error|3|2
+26153168|norfolk, virginia|0|Error|1|2
+26153168|norfolk, virginia|18541627|NYC|1|2

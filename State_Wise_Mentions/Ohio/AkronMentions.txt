@@ -1,0 +1,880 @@
+22678142|akron, oh|19434417|SF Bay Area, California|1|2
+22678142|akron, oh|0|Error|1|2
+22678142|akron, oh|17557880|UK|1|2
+22678142|akron, oh|24018426|Charlottesville, VA via NOLA|1|2
+22678142|akron, oh|35764073|Boston, MA|1|2
+22678142|akron, oh|382341100|Error|1|2
+22678142|akron, oh|62603|USA|1|2
+55727871|akron, ohio|46576295|*WORLDWIDE*|9|2
+55727871|akron, ohio|286336678|Canada|7|2
+22678142|akron, oh|19434417|SF Bay Area, California|1|2
+22678142|akron, oh|0|Error|1|2
+22678142|akron, oh|17557880|UK|1|2
+22678142|akron, oh|24018426|Charlottesville, VA via NOLA|1|2
+22678142|akron, oh|35764073|Boston, MA|1|2
+22678142|akron, oh|382341100|Error|1|2
+22678142|akron, oh|62603|USA|1|2
+18164848|akron, oh|83658013|Error|5|2
+18164848|akron, oh|17637228|Rosenort, Manitoba|4|2
+18164848|akron, oh|424892995|Brighton, England|2|2
+18164848|akron, oh|22330521|Error|1|2
+18164848|akron, oh|15736190|Freiburg, Germany|1|2
+18164848|akron, oh|15152796|Austin, TX|1|2
+18164848|akron, oh|17163743|Error|1|2
+18164848|akron, oh|9453872|Nashville, TN|1|2
+18164848|akron, oh|14282124|Melbourne|1|2
+18164848|akron, oh|18358195|North Canton, Ohio|1|2
+18164848|akron, oh|26506892|Error|1|2
+18164848|akron, oh|0|Error|1|2
+18164848|akron, oh|0|Error|1|2
+18164848|akron, oh|319667115|Pittsburgh, Pennsylvania|1|2
+43129399|akron, ohio|34306280|New York City|10|2
+43129399|akron, ohio|14185365|Akron, Ohio|3|2
+43129399|akron, ohio|20635779|Akron, OH | heading south|3|2
+43129399|akron, ohio|31588054|Tehran|2|2
+43129399|akron, ohio|18536751|38.42206,-121.440145|2|2
+43129399|akron, ohio|61097721|Akron, Ohio|1|2
+43129399|akron, ohio|26898653|Akron, Ohio|1|2
+43129399|akron, ohio|14766717|Error|1|2
+43129399|akron, ohio|972651|Error|1|2
+43129399|akron, ohio|16497754|Cary, NC|1|2
+43129399|akron, ohio|2194806312|Error|1|2
+43129399|akron, ohio|454574604|Error|1|2
+43129399|akron, ohio|28355776|#Akron, #Cleveland, Ohio|1|2
+43129399|akron, ohio|16407670|Cleveland|1|2
+43129399|akron, ohio|13656982|Error|1|2
+43129399|akron, ohio|19637934|Los Angeles-ish|1|2
+19012514|akron, ohio|0|Error|15|2
+19012514|akron, ohio|58696522|USA|8|2
+19012514|akron, ohio|58948026|...must decrease|3|2
+19012514|akron, ohio|0|Error|3|2
+19012514|akron, ohio|14529929|Error|3|2
+19012514|akron, ohio|57833910|Planet Texas|2|2
+19012514|akron, ohio|23461873|Moffat, CO|2|2
+19012514|akron, ohio|107724190|Error|2|2
+19012514|akron, ohio|70745291|Draper, Ut|2|2
+19012514|akron, ohio|56532503|Arizona|1|2
+19012514|akron, ohio|17892302|Lincoln, NE|1|2
+19012514|akron, ohio|81149849|Error|1|2
+19012514|akron, ohio|64572413|North Carolina|1|2
+19012514|akron, ohio|22037129|Annapolis, Maryland|1|2
+19012514|akron, ohio|30313925|Washington, DC|1|2
+19012514|akron, ohio|53200500|Ohio|1|2
+19012514|akron, ohio|69278878|U-S-A|1|2
+19012514|akron, ohio|23936729|Flatlander|1|2
+19012514|akron, ohio|56667839|midwest|1|2
+19012514|akron, ohio|68465721|Error|1|2
+19012514|akron, ohio|0|Error|1|2
+19012514|akron, ohio|19012514|Akron, Ohio|1|2
+19012514|akron, ohio|43180176|Coeur d'Alene, ID|1|2
+19012514|akron, ohio|0|Error|1|2
+19012514|akron, ohio|29738565|THE LOVERLY GARDEN STATE|1|2
+19012514|akron, ohio|17934084|Dallas, TX|1|2
+19012514|akron, ohio|60113766|New Hampshire|1|2
+19012514|akron, ohio|42641225|NONE|1|2
+19012514|akron, ohio|29476311|Ohio - usually|1|2
+19012514|akron, ohio|2524822008|Error|1|2
+19012514|akron, ohio|26092300|USA|1|2
+19012514|akron, ohio|216618670|LA|1|2
+19012514|akron, ohio|1216202515|japan / akita|1|2
+25152980|akron, oh|264036590|Error|3|2
+23834943|akron, ohio|569904143|Error|27|2
+23834943|akron, ohio|18106861|NJ bred, whole world ahead.|7|2
+23834943|akron, ohio|31503256|Los Angeles, CA|6|2
+23834943|akron, ohio|23843309|San Francisco, CA|6|2
+23834943|akron, ohio|191549677|Error|4|2
+23834943|akron, ohio|0|Error|3|2
+23834943|akron, ohio|30809704| Louisiana/Ohio|3|2
+23834943|akron, ohio|24526399|cleveland, oh. hi. yo.|2|2
+23834943|akron, ohio|27577452|Behind a Camera|2|2
+23834943|akron, ohio|248654311|Error|2|2
+23834943|akron, ohio|52734550|Error|2|2
+23834943|akron, ohio|14118265|Error|2|2
+23834943|akron, ohio|0|Error|1|2
+23834943|akron, ohio|187335551|DEARBAES TOUR PACK BY PHARRELL|1|2
+23834943|akron, ohio|135840576|Error|1|2
+23834943|akron, ohio|26395300|Somwhere happily heauxing|1|2
+23834943|akron, ohio|0|Error|1|2
+23834943|akron, ohio|244327663|Error|1|2
+23834943|akron, ohio|19254691|Cleveland.  1781 Coventry |1|2
+23834943|akron, ohio|928459140|Chicago|1|2
+23834943|akron, ohio|407452441|Error|1|2
+23834943|akron, ohio|104638437|Error|1|2
+19802495|akron, ohio|2331661|Akron, OH|1|2
+19802495|akron, ohio|0|Error|1|2
+19802495|akron, ohio|0|Error|1|2
+19802495|akron, ohio|0|Error|1|2
+19802495|akron, ohio|16159030|Error|1|2
+19802495|akron, ohio|0|Error|1|2
+19802495|akron, ohio|0|Error|1|2
+19802495|akron, ohio|0|Error|1|2
+19802495|akron, ohio|0|Error|1|2
+19802495|akron, ohio|0|Error|1|2
+19802495|akron, ohio|0|Error|1|2
+19802495|akron, ohio|17957927|Error|1|2
+19802495|akron, ohio|0|Error|1|2
+64764991|akron, ohio|64764991|Firestone Park, Akron, Ohio|5|2
+64764991|akron, ohio|75957420|Brasil|3|2
+64764991|akron, ohio|0|Error|2|2
+64764991|akron, ohio|53919945|Below Sea Level in dat NOLA|2|2
+64764991|akron, ohio|60577871|Where the haze iz!!!|2|2
+64764991|akron, ohio|0|Error|2|2
+64764991|akron, ohio|54583965|Wien - Vienna - Vienne|2|2
+64764991|akron, ohio|303202032|Error|2|2
+64764991|akron, ohio|574648951|Error|2|2
+64764991|akron, ohio|0|Error|2|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|78654604|O Mundo|1|2
+64764991|akron, ohio|34931360|Cardiff |1|2
+64764991|akron, ohio|16177913|Error|1|2
+64764991|akron, ohio|26645771|Brazil to USA|1|2
+64764991|akron, ohio|55040014|El Paso, Texas|1|2
+64764991|akron, ohio|2973615453|Cleveland, Ohio|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|73662178|UK|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|74029806|Wherever I May Roam...|1|2
+64764991|akron, ohio|60174651|Wherever I may roam....|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|96920758|Blogging, USA|1|2
+64764991|akron, ohio|77961743|Toronto, Ontario, Canada|1|2
+64764991|akron, ohio|23994973|Phoenix, Az. ....U.S.A.|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|60374647|Brigham City, UT|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|45230927|Mission Hills, CA|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|40767215| Canada |1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|2542152121|Austin, TX|1|2
+64764991|akron, ohio|28400501|San Diego, CA|1|2
+64764991|akron, ohio|22423078|Atlanta, GA|1|2
+64764991|akron, ohio|2531386238|Error|1|2
+64764991|akron, ohio|75612668|worldwide |1|2
+64764991|akron, ohio|70939895|usa|1|2
+64764991|akron, ohio|20808900|Error|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|458800460|Error|1|2
+64764991|akron, ohio|61029954|Error|1|2
+64764991|akron, ohio|75102273|Canada|1|2
+64764991|akron, ohio|68430378|Midwest|1|2
+64764991|akron, ohio|16569530|Mountain View, CA|1|2
+64764991|akron, ohio|19030777|Pacific Grove, CA|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|76443006|Southeast|1|2
+64764991|akron, ohio|0|Error|1|2
+64764991|akron, ohio|17540405|Cleveland, OH|1|2
+64764991|akron, ohio|367035334|Error|1|2
+64764991|akron, ohio|15794195|Cambridge, MA|1|2
+64764991|akron, ohio|73473577|Middle Tennessee|1|2
+64764991|akron, ohio|75344640|Canada|1|2
+64764991|akron, ohio|75596074|Error|1|2
+64764991|akron, ohio|64465129|North Carolina|1|2
+64764991|akron, ohio|0|Error|1|2
+65556511|akron, ohio|0|Error|1|2
+65556511|akron, ohio|24802712|California|1|2
+18200695|akron, oh|16073373|ftmitchell@yahoo.com |1|2
+18200695|akron, oh|32171318|Everywhere|1|2
+16189788|akron, oh|377213789|Error|8|2
+16189788|akron, oh|0|Error|4|2
+16189788|akron, oh|0|Error|2|2
+16189788|akron, oh|20937121|Ohio|2|2
+16189788|akron, oh|0|Error|1|2
+16189788|akron, oh|972651|Error|1|2
+16189788|akron, oh|867435156|North Canton, Ohio|1|2
+16189788|akron, oh|2331198367|Error|1|2
+16189788|akron, oh|51100690|Boston, MA|1|2
+16189788|akron, oh|16447569|Firestone Park|1|2
+23615836|akron, ohio|23481173|Cleveland, Ohio|4|2
+23615836|akron, ohio|128106685|Everywhere you are|3|2
+23615836|akron, ohio|0|Error|1|2
+23615836|akron, ohio|20341962|Washington, DC|1|2
+23615836|akron, ohio|2811709436|Houston|1|2
+23615836|akron, ohio|0|Error|1|2
+23615836|akron, ohio|38253336|Cleveland, Ohio|1|2
+23615836|akron, ohio|0|Error|1|2
+42887277|akron, ohio|2352281551|Error|1|2
+17329707|akron, ohio|25521487|beach|1|2
+17329707|akron, ohio|6539592|About to perform near you|1|2
+17329707|akron, ohio|1652302854|Error|1|2
+17329707|akron, ohio|0|Error|1|2
+22443571|akron, ohio|19822633|Manchester UK|6|2
+22443571|akron, ohio|16678828|St.Louis even when im gone|1|2
+22443571|akron, ohio|560047262|Error|1|2
+22443571|akron, ohio|0|Error|1|2
+22443571|akron, ohio|0|Error|1|2
+22443571|akron, ohio|21245650|INTERNATIONAL|1|2
+22443571|akron, ohio|24074959| Middle of the Map|1|2
+22443571|akron, ohio|40108106|Error|1|2
+23887341|akron, oh|18918274|Ellicott City, MD|2|2
+23887341|akron, oh|54335951|California|2|2
+23887341|akron, oh|0|Error|2|2
+23887341|akron, oh|153701353|turkey|2|2
+23887341|akron, oh|0|Error|2|2
+23887341|akron, oh|60423236|Detroit, MI|1|2
+23887341|akron, oh|3394332935|Error|1|2
+23887341|akron, oh|18583758|USA|1|2
+23887341|akron, oh|74737231|New York|1|2
+23887341|akron, oh|63486889|Error|1|2
+23887341|akron, oh|0|Error|1|2
+23887341|akron, oh|0|Error|1|2
+23887341|akron, oh|73865401|Vancouver, WA|1|2
+23887341|akron, oh|27948837|Southern California|1|2
+23887341|akron, oh|43156329|Error|1|2
+23887341|akron, oh|14401273|New Hampshire|1|2
+23887341|akron, oh|445774221|POLAND|1|2
+23887341|akron, oh|47735238|Error|1|2
+23887341|akron, oh|16974568|Melbourne, FL|1|2
+23887341|akron, oh|10054832|Chicagoland|1|2
+23887341|akron, oh|39589707|Middletown, DE|1|2
+23887341|akron, oh|600650102|Error|1|2
+23887341|akron, oh|18558967|Romeoville, IL|1|2
+23887341|akron, oh|409570766|New York CIty|1|2
+20256988|akron, ohio|21955058|Stage Right|1|2
+20256988|akron, ohio|0|Error|1|2
+79470508|akron, ohio|79073988|I have absholutly no idea|6|2
+79470508|akron, ohio|68454351|Error|2|2
+79470508|akron, ohio|1407902059|EXO Planet|1|2
+79470508|akron, ohio|0|Error|1|2
+27303667|akron, ohio|0|Error|4|2
+27303667|akron, ohio|27781711|On your mind|4|2
+27303667|akron, ohio|29136655|Home of the Astrodome|3|2
+27303667|akron, ohio|56463364|Los Angeles, CA|3|2
+27303667|akron, ohio|122686100|Error|3|2
+27303667|akron, ohio|0|Error|3|2
+27303667|akron, ohio|263004107|Error|3|2
+27303667|akron, ohio|14693402|Error|2|2
+27303667|akron, ohio|156650401|Error|2|2
+27303667|akron, ohio|22982705|Download Broken Mirage NOW |2|2
+27303667|akron, ohio|0|Error|2|2
+27303667|akron, ohio|629750874|Toronto|2|2
+27303667|akron, ohio|29734537|Error|2|2
+27303667|akron, ohio|0|Error|2|2
+27303667|akron, ohio|0|Error|2|2
+27303667|akron, ohio|0|Error|1|2
+27303667|akron, ohio|1496971|New York, NY|1|2
+27303667|akron, ohio|0|Error|1|2
+27303667|akron, ohio|0|Error|1|2
+27303667|akron, ohio|225310293|Mt.Vernon,Oh.|1|2
+27303667|akron, ohio|0|Error|1|2
+27303667|akron, ohio|0|Error|1|2
+27303667|akron, ohio|0|Error|1|2
+27303667|akron, ohio|0|Error|1|2
+27303667|akron, ohio|40034758|mississippi|1|2
+27303667|akron, ohio|60854231|BROOKLYN,NEW YORK|1|2
+27303667|akron, ohio|0|Error|1|2
+27303667|akron, ohio|0|Error|1|2
+18529376|akron, ohio|0|Error|8|2
+18529376|akron, ohio|17872744|New York, NY|2|2
+18529376|akron, ohio|694143|Seattle, WA|2|2
+18529376|akron, ohio|16637204|Cleveland, Ohio|2|2
+18529376|akron, ohio|0|Error|1|2
+18529376|akron, ohio|5942922|Everywhere|1|2
+18529376|akron, ohio|2321517032|Error|1|2
+18529376|akron, ohio|17767146|LANSING MI|1|2
+18529376|akron, ohio|437953083|Maine|1|2
+18529376|akron, ohio|3759441|Ottawa, Ontario|1|2
+18529376|akron, ohio|15976697|USA|1|2
+18529376|akron, ohio|0|Error|1|2
+18529376|akron, ohio|0|Error|1|2
+18529376|akron, ohio|17743382|On the coast of Florida|1|2
+18529376|akron, ohio|0|Error|1|2
+18529376|akron, ohio|0|Error|1|2
+18529376|akron, ohio|17433609|Somewhere USA|1|2
+38193382|akron, ohio|2388467217|Error|6|2
+38193382|akron, ohio|0|Error|4|2
+38193382|akron, ohio|100484596|Error|4|2
+38193382|akron, ohio|343851732|Error|4|2
+38193382|akron, ohio|26855400|San Jose, CA|4|2
+38193382|akron, ohio|0|Error|3|2
+38193382|akron, ohio|21176881|Error|3|2
+38193382|akron, ohio|0|Error|2|2
+38193382|akron, ohio|0|Error|2|2
+38193382|akron, ohio|30914854|Tulsa, OK/Fort Worth, TX|2|2
+38193382|akron, ohio|0|Error|1|2
+38193382|akron, ohio|0|Error|1|2
+38193382|akron, ohio|0|Error|1|2
+38193382|akron, ohio|27512460|On top of a rainbow sipping |1|2
+38193382|akron, ohio|853602847|Error|1|2
+38193382|akron, ohio|17921485|Houston, Texas|1|2
+38193382|akron, ohio|0|Error|1|2
+38193382|akron, ohio|0|Error|1|2
+38193382|akron, ohio|0|Error|1|2
+38193382|akron, ohio|0|Error|1|2
+38193382|akron, ohio|0|Error|1|2
+29346821|akron, ohio|45634956|Las Vegas, NV|3|2
+29346821|akron, ohio|0|Error|3|2
+29346821|akron, ohio|2552344340|Error|2|2
+29346821|akron, ohio|0|Error|1|2
+29346821|akron, ohio|15664139|Texas|1|2
+29346821|akron, ohio|13603232|Can/USA Border (Sault Ontario)|1|2
+29346821|akron, ohio|0|Error|1|2
+29346821|akron, ohio|0|Error|1|2
+29346821|akron, ohio|772471|Reno, NV|1|2
+29346821|akron, ohio|0|Error|1|2
+29346821|akron, ohio|0|Error|1|2
+74898234|akron, oh|16252002|Los Angeles, CA|1|2
+4693781|akron, oh|16488007|Ottawa, ON|3|2
+4693781|akron, oh|15357991|Seattle|2|2
+4693781|akron, oh|11204782|Ottawa|2|2
+4693781|akron, oh|8200352|Florida, Georgia, Amsterdam|2|2
+4693781|akron, oh|35293954|San Francisco Bay Area|1|2
+4693781|akron, oh|17514290|London | Melbourne | St.Ep'ney|1|2
+4693781|akron, oh|0|Error|1|2
+4693781|akron, oh|15976584|Pennsylvania|1|2
+4693781|akron, oh|0|Error|1|2
+4693781|akron, oh|19742964|Asheville, NC|1|2
+4693781|akron, oh|38267947|Error|1|2
+4693781|akron, oh|0|Error|1|2
+4693781|akron, oh|55980120|Error|1|2
+4693781|akron, oh|50741585|Error|1|2
+4693781|akron, oh|10819662|Rochester, NY|1|2
+4693781|akron, oh|20299544|Jobsonica.com : London, UK|1|2
+4693781|akron, oh|14625365|Portage, MI|1|2
+4693781|akron, oh|41221932|SW Florida|1|2
+81189261|akron, ohio|14281810|Error|4|2
+81189261|akron, ohio|16862561|chicago|4|2
+81189261|akron, ohio|21969519|Aurora|3|2
+81189261|akron, ohio|20631517|nyc everything|2|2
+81189261|akron, ohio|183085159|Always Somewhere|2|2
+81189261|akron, ohio|0|Error|1|2
+81189261|akron, ohio|295067075|Error|1|2
+81189261|akron, ohio|64841060|Moscow|1|2
+81189261|akron, ohio|14672464|Error|1|2
+81189261|akron, ohio|0|Error|1|2
+81189261|akron, ohio|250965409|Error|1|2
+81189261|akron, ohio|17216977|m.|1|2
+67186314|akron, ohio|49595318|Error|8|2
+67186314|akron, ohio|40277018|Massachusetts|5|2
+67186314|akron, ohio|61760573|Florida|3|2
+67186314|akron, ohio|30813033|Somewhere in JERSEY|3|2
+67186314|akron, ohio|0|Error|3|2
+67186314|akron, ohio|0|Error|3|2
+67186314|akron, ohio|55374435|Los Angeles, CA|2|2
+67186314|akron, ohio|0|Error|2|2
+67186314|akron, ohio|23494080|Florida,Detroit|2|2
+67186314|akron, ohio|61713641|Error|1|2
+67186314|akron, ohio|0|Error|1|2
+67186314|akron, ohio|29343799|In my head.|1|2
+67186314|akron, ohio|18831507|Hawaii|1|2
+67186314|akron, ohio|48951248|California|1|2
+67186314|akron, ohio|33388160|Nanya|1|2
+67186314|akron, ohio|0|Error|1|2
+67186314|akron, ohio|1565503758|Error|1|2
+25899393|akron, oh|0|Error|5|2
+25899393|akron, oh|187335551|DEARBAES TOUR PACK BY PHARRELL|1|2
+25899393|akron, oh|0|Error|1|2
+25899393|akron, oh|23843309|San Francisco, CA|1|2
+25899393|akron, oh|928459140|Chicago|1|2
+25899393|akron, oh|29645697|thegunshinestate|1|2
+25899393|akron, oh|0|Error|1|2
+16987668|akron, ohio|22199583|South Florida|16|2
+16987668|akron, ohio|61356090|colder than a witch's tit WI|9|2
+16987668|akron, ohio|17143280|Error|7|2
+16987668|akron, ohio|6017542|Global|3|2
+16987668|akron, ohio|0|Error|2|2
+16987668|akron, ohio|44177038|Here and there|1|2
+16987668|akron, ohio|59266221|Hollywood|1|2
+16987668|akron, ohio|17009286|Error|1|2
+16987668|akron, ohio|0|Error|1|2
+41760951|akron, ohio|0|Error|3|2
+41760951|akron, ohio|18500777|nashville, tn|1|2
+41760951|akron, ohio|20759034|London|1|2
+41760951|akron, ohio|76356188|USA|1|2
+41760951|akron, ohio|48463769|Washington, DC|1|2
+41760951|akron, ohio|16303106|Error|1|2
+41760951|akron, ohio|15614526|Error|1|2
+41760951|akron, ohio|41760951|Mississippi|1|2
+41760951|akron, ohio|18725854|San Diego, CA|1|2
+41760951|akron, ohio|16490539|The Great State of Ohio|1|2
+19354113|akron, ohio|0|Error|1|2
+19354113|akron, ohio|0|Error|1|2
+19354113|akron, ohio|19783820|Akron, OH|1|2
+19354113|akron, ohio|0|Error|1|2
+19354113|akron, ohio|0|Error|1|2
+19354113|akron, ohio|373515024|Orlando|1|2
+19354113|akron, ohio|7164952|Chicago, IL|1|2
+19354113|akron, ohio|9751562|Error|1|2
+27878638|akron, oh|0|Error|6|2
+27878638|akron, oh|0|Error|4|2
+27878638|akron, oh|0|Error|3|2
+27878638|akron, oh|2442819848|Error|2|2
+27878638|akron, oh|0|Error|2|2
+27878638|akron, oh|19477647|Brooklyn, New York|2|2
+27878638|akron, oh|18438529|Longview, TX|2|2
+27878638|akron, oh|192335828|Error|1|2
+27878638|akron, oh|0|Error|1|2
+27878638|akron, oh|28673249|Atlanta|1|2
+27878638|akron, oh|11074422|Error|1|2
+27878638|akron, oh|0|Error|1|2
+27878638|akron, oh|1205501142|Error|1|2
+27878638|akron, oh|20289363|Error|1|2
+27878638|akron, oh|0|Error|1|2
+7825652|akron, oh|13265572|Brooklyn, NY|6|2
+7825652|akron, oh|130406881|Error|3|2
+7825652|akron, oh|0|Error|2|2
+7825652|akron, oh|285041786|Yorkshire, UK|2|2
+7825652|akron, oh|789948|Bay Area|2|2
+7825652|akron, oh|544716035|Southern California|2|2
+7825652|akron, oh|16740348|Atlanta, GA|2|2
+7825652|akron, oh|15894801|Charleston, SC|1|2
+7825652|akron, oh|23706403|New York|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|15146296|Mostly Ohio|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|30013010|Los Angeles, CA|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|16313371|Cleveland, Ohio, USA|1|2
+7825652|akron, oh|24904623|Error|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|17945666|Los Angeles, CA|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|23548407|Brooklyn, NY|1|2
+7825652|akron, oh|14051176|Cincinnati, OH|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|0|Error|1|2
+7825652|akron, oh|17899908|Toronto, ON|1|2
+7825652|akron, oh|13084832|Washington, DC|1|2
+14911255|akron, oh|80351582|On your hamburger.|10|2
+14911255|akron, oh|39598561|Error|3|2
+14911255|akron, oh|0|Error|1|2
+14911255|akron, oh|0|Error|1|2
+14911255|akron, oh|0|Error|1|2
+14911255|akron, oh|0|Error|1|2
+14911255|akron, oh|0|Error|1|2
+14911255|akron, oh|26369893|NBC|1|2
+14911255|akron, oh|0|Error|1|2
+14911255|akron, oh|0|Error|1|2
+26709465|akron, oh|77144294|Error|13|2
+26709465|akron, oh|0|Error|4|2
+26709465|akron, oh|19575857|Asheville, North Carolina|4|2
+26709465|akron, oh|2246658596|Error|3|2
+26709465|akron, oh|95326022|Error|2|2
+26709465|akron, oh|254839546|Portland, OR|2|2
+26709465|akron, oh|17002198|N. Long Beach, CA|2|2
+26709465|akron, oh|0|Error|2|2
+26709465|akron, oh|30744052|Tex-ASS!|2|2
+26709465|akron, oh|564951749|Error|1|2
+26709465|akron, oh|14945051|your cerebrum's cerebrum|1|2
+26709465|akron, oh|124932273|Error|1|2
+26709465|akron, oh|0|Error|1|2
+26709465|akron, oh|0|Error|1|2
+26709465|akron, oh|0|Error|1|2
+26709465|akron, oh|0|Error|1|2
+26709465|akron, oh|0|Error|1|2
+35105596|akron, ohio|0|Error|4|2
+35105596|akron, ohio|1014327854|H-TAHN |3|2
+35105596|akron, ohio|64302283|Midland, GA|3|2
+35105596|akron, ohio|0|Error|3|2
+35105596|akron, ohio|35230088|California|2|2
+35105596|akron, ohio|46013697|middle north america|1|2
+35105596|akron, ohio|356613887|Error|1|2
+35105596|akron, ohio|325757062|zapopan jal.|1|2
+24622977|akron, ohio|0|Error|14|2
+24622977|akron, ohio|24622977|Akron, Ohio|4|2
+24622977|akron, ohio|1507551834|Error|3|2
+24622977|akron, ohio|0|Error|2|2
+24622977|akron, ohio|55918409|London|2|2
+24622977|akron, ohio|2223848790|Error|2|2
+24622977|akron, ohio|180107031|Error|2|2
+24622977|akron, ohio|20508222|London|2|2
+24622977|akron, ohio|422213815|Error|2|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|36333686|Vegas.|1|2
+24622977|akron, ohio|179954994|Making dreams reality...|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|78068113|Portugal|1|2
+24622977|akron, ohio|22080450|Canada|1|2
+24622977|akron, ohio|26824332|Somewhere In Your Future|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|63103095|hawai|1|2
+24622977|akron, ohio|18755564|Los Angeles|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|2431781183|Error|1|2
+24622977|akron, ohio|71306850|Dayton, OH|1|2
+24622977|akron, ohio|16438097|NYC|1|2
+24622977|akron, ohio|756095|OooooooO- Klahoma!|1|2
+24622977|akron, ohio|16869971|Error|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|72936399|Wherever You Are|1|2
+24622977|akron, ohio|16075718|Orlando, FL|1|2
+24622977|akron, ohio|21791940|Durham, NC|1|2
+24622977|akron, ohio|27005450|Error|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|33063954|Error|1|2
+24622977|akron, ohio|89704322|heanor, derbyshire|1|2
+24622977|akron, ohio|20013519|Texas|1|2
+24622977|akron, ohio|59242222|USA & Istanbul|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|19969477|UPSTATE NY, GIANTS BABY|1|2
+24622977|akron, ohio|558216458|Error|1|2
+24622977|akron, ohio|53993|silicon valley, california|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|7691312|Mount Juliet, TN|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|48739011|North Carolina|1|2
+24622977|akron, ohio|62553762|France|1|2
+24622977|akron, ohio|594909889|Error|1|2
+24622977|akron, ohio|46466271|Akron/Cuyahoga Falls|1|2
+24622977|akron, ohio|33873713|Canada|1|2
+24622977|akron, ohio|0|Error|1|2
+24622977|akron, ohio|14895518|Tulsa, Oklahoma|1|2
+4868551|akron, oh|15717631|Humble, TX|5|2
+4868551|akron, oh|5849302|Austin, TX|3|2
+4868551|akron, oh|4027771|Akron, OH|2|2
+4868551|akron, oh|17539029|Saint Paul, MN  |2|2
+4868551|akron, oh|19989333|Minnesota|2|2
+4868551|akron, oh|4868551|Uniontown, OH|1|2
+4868551|akron, oh|14425850|Austin, TX|1|2
+4868551|akron, oh|528740694|Error|1|2
+4868551|akron, oh|0|Error|1|2
+4868551|akron, oh|1265737369|Error|1|2
+4868551|akron, oh|0|Error|1|2
+4868551|akron, oh|5034561|St Louis, MO|1|2
+4868551|akron, oh|15312387|Error|1|2
+4868551|akron, oh|4111610416|Error|1|2
+4868551|akron, oh|15537270|Error|1|2
+4868551|akron, oh|10505322|Los Angeles|1|2
+16558408|akron, oh|16440037|Cleveland|15|2
+16558408|akron, oh|16558408|Home|3|2
+16558408|akron, oh|50323173|Devereux Hall, 14778|2|2
+16558408|akron, oh|14767526|Cleveland, Ohio|2|2
+16558408|akron, oh|79192264|Akron OH|1|2
+16558408|akron, oh|13234402|Wherever the wind takes me.|1|2
+16558408|akron, oh|3763012034|I love Jesus.|1|2
+16558408|akron, oh|14608893|NYC, NBA Basketball World|1|2
+16558408|akron, oh|29547119|St. Louis, Missouri|1|2
+16558408|akron, oh|14629577|Chicago, IL|1|2
+16558408|akron, oh|0|Error|1|2
+16558408|akron, oh|0|Error|1|2
+22530755|akron, oh|38300192|Error|1|2
+19888698|akron, ohio|0|Error|9|2
+19888698|akron, ohio|58601919|Everywhere|3|2
+19888698|akron, ohio|19888698|Akron, Ohio/Clay, WV|2|2
+19888698|akron, ohio|0|Error|2|2
+19888698|akron, ohio|0|Error|2|2
+19888698|akron, ohio|0|Error|1|2
+19888698|akron, ohio|48935164|Error|1|2
+19888698|akron, ohio|31155847|New York, NY|1|2
+19888698|akron, ohio|200215759|Argentina, Riverside, CA |1|2
+19888698|akron, ohio|17459950|Brisbane|1|2
+19888698|akron, ohio|0|Error|1|2
+19888698|akron, ohio|48455888|Vancouver WA|1|2
+19888698|akron, ohio|579895317|Error|1|2
+19888698|akron, ohio|0|Error|1|2
+19888698|akron, ohio|16282088|Seattle, WA|1|2
+19888698|akron, ohio|19426243|Peru, Vermont|1|2
+19888698|akron, ohio|2580485639|Error|1|2
+19888698|akron, ohio|15299055|Akron, Ohio|1|2
+19888698|akron, ohio|23590244|Cleveland, Ohio|1|2
+19888698|akron, ohio|0|Error|1|2
+19888698|akron, ohio|0|Error|1|2
+19888698|akron, ohio|0|Error|1|2
+19888698|akron, ohio|51147737|Error|1|2
+19888698|akron, ohio|19360218|156 Punkk Society Drive, PA|1|2
+19888698|akron, ohio|238072445|Shoreham By Sea, Sussex. UK|1|2
+19888698|akron, ohio|10534082|Portland, OR|1|2
+19888698|akron, ohio|14284723|Austin, TX|1|2
+19888698|akron, ohio|756278|Seattle, WA|1|2
+19888698|akron, ohio|736498278|Error|1|2
+18993761|akron, ohio|0|Error|5|2
+18993761|akron, ohio|15936314|Cleveland+ (Akron), Ohio|4|2
+18993761|akron, ohio|15730837|Cleveland, OH|3|2
+18993761|akron, ohio|1286694072|Spring Hill, Fl|3|2
+18993761|akron, ohio|235781942|guayaquil|3|2
+18993761|akron, ohio|36284946|Ohio|3|2
+18993761|akron, ohio|0|Error|2|2
+18993761|akron, ohio|15377897|Houston, Texas|2|2
+18993761|akron, ohio|17219219|San Francisco, CA|2|2
+18993761|akron, ohio|15866929|Columbus, OH|2|2
+18993761|akron, ohio|56463364|Los Angeles, CA|2|2
+18993761|akron, ohio|362883212|Singapore!|2|2
+18993761|akron, ohio|14744272|Houston, Texas|1|2
+18993761|akron, ohio|10971212|Cleveland, OH|1|2
+18993761|akron, ohio|21694775|Akron, Ohio|1|2
+18993761|akron, ohio|28569510|New York City|1|2
+18993761|akron, ohio|10202|Boston, MA|1|2
+18993761|akron, ohio|0|Error|1|2
+18993761|akron, ohio|972651|Error|1|2
+18993761|akron, ohio|378598402|the District|1|2
+18993761|akron, ohio|15930906|teamyee.tv|1|2
+18993761|akron, ohio|9377222|Cleveland, Ohio|1|2
+18993761|akron, ohio|0|Error|1|2
+18993761|akron, ohio|15427422| San Francisco|1|2
+18993761|akron, ohio|0|Error|1|2
+18993761|akron, ohio|375231619|halan,kentucky|1|2
+18993761|akron, ohio|25423022|Salt Lake City, UT|1|2
+18993761|akron, ohio|18856747|United States|1|2
+18993761|akron, ohio|0|Error|1|2
+18993761|akron, ohio|16990483|North Carolina, USA|1|2
+18993761|akron, ohio|17064079|Berkeley Heights, NJ|1|2
+18993761|akron, ohio|543823401|Error|1|2
+18993761|akron, ohio|3072926560|Error|1|2
+18993761|akron, ohio|15949789|On my way|1|2
+18993761|akron, ohio|100554060|NY/LA|1|2
+18993761|akron, ohio|54462207|Akron, Ohio|1|2
+18993761|akron, ohio|36222221|New York, NY|1|2
+18993761|akron, ohio|2770066016|Columbus, Ohio|1|2
+18993761|akron, ohio|13436432|Las Vegas, NV|1|2
+18993761|akron, ohio|11148602|Chicago|1|2
+18993761|akron, ohio|65815940|Wherever the wind may blow... |1|2
+18993761|akron, ohio|9981522|Los Angeles, CA|1|2
+18993761|akron, ohio|0|Error|1|2
+18993761|akron, ohio|0|Error|1|2
+29874558|akron, ohio|22501424|Punta Gorda, Florida|9|2
+29874558|akron, ohio|727347440|Error|1|2
+29874558|akron, ohio|587951837|Error|1|2
+29874558|akron, ohio|0|Error|1|2
+29874558|akron, ohio|0|Error|1|2
+29874558|akron, ohio|46973152|ATL/LA/NYC|1|2
+29874558|akron, ohio|293155760|Error|1|2
+29874558|akron, ohio|17919972|Error|1|2
+29874558|akron, ohio|247450685|Nairobi|1|2
+29874558|akron, ohio|2528559883|Error|1|2
+29874558|akron, ohio|18220175|EVERYWHERE!!!|1|2
+29874558|akron, ohio|29874558|Akron, Ohio|1|2
+19783820|akron, oh|14259353|AROUND|3|2
+19783820|akron, oh|3246146162|Error|1|2
+80866731|akron, oh|0|Error|1|2
+80866731|akron, oh|80511289|Error|1|2
+80866731|akron, oh|0|Error|1|2
+80866731|akron, oh|72554043|Canada|1|2
+17822055|akron, ohio|17822055|Nearest Turntables|4|2
+17822055|akron, ohio|0|Error|3|2
+17822055|akron, ohio|0|Error|3|2
+17822055|akron, ohio|36284946|Ohio|3|2
+17822055|akron, ohio|481872133|Error|2|2
+17822055|akron, ohio|715123586|Error|2|2
+17822055|akron, ohio|284886838|Columbus, OH|2|2
+17822055|akron, ohio|172030385|Error|1|2
+17822055|akron, ohio|38071161|LOUISIANA USA|1|2
+17822055|akron, ohio|34821538|Toledo,OH |1|2
+17822055|akron, ohio|200329893|Where The Wild Things Are|1|2
+17822055|akron, ohio|278748074|OAK CLIFF |1|2
+17822055|akron, ohio|0|Error|1|2
+17822055|akron, ohio|18191794|Top of the World|1|2
+17822055|akron, ohio|17523013|My Instagram is: KingChip216|1|2
+17822055|akron, ohio|16914501|cleveland, ohio|1|2
+17822055|akron, ohio|16888996|Columbus,Ohio u suckas. |1|2
+17822055|akron, ohio|20549616|CLASSIKVILLE|1|2
+17822055|akron, ohio|0|Error|1|2
+17822055|akron, ohio|0|Error|1|2
+17822055|akron, ohio|24821116|Louisville, KY|1|2
+17822055|akron, ohio|17499108|Error|1|2
+17822055|akron, ohio|0|Error|1|2
+26130296|akron, ohio|14573900|Etihad Stadium|1|2
+26130296|akron, ohio|0|Error|1|2
+7164952|akron, ohio|13569|whereis.thatgrumguy.com|3|2
+7164952|akron, ohio|1669134427|Error|2|2
+7164952|akron, ohio|25373426|Akron|2|2
+7164952|akron, ohio|3853841|Akron, Ohio|2|2
+7164952|akron, ohio|16810137|Kent, Ohio, USA|2|2
+7164952|akron, ohio|36711513|New York, NY|2|2
+7164952|akron, ohio|14075928|Error|1|2
+7164952|akron, ohio|23218774|Stanford, CA|1|2
+7164952|akron, ohio|44899595|Columbus, Ohio|1|2
+7164952|akron, ohio|276020493|Japan|1|2
+7164952|akron, ohio|0|Error|1|2
+7164952|akron, ohio|24773177|Jersey/NYC/Lincoln Tunnel|1|2
+7164952|akron, ohio|68955932|USA|1|2
+7164952|akron, ohio|18666797|San Francisco|1|2
+7164952|akron, ohio|749863|The Outside Lands|1|2
+7164952|akron, ohio|15121768|Cleveland, Ohio|1|2
+7164952|akron, ohio|65357070|Opinions are my own.|1|2
+7164952|akron, ohio|21178288|USA|1|2
+7164952|akron, ohio|0|Error|1|2
+7164952|akron, ohio|14248784|Columbus, OH|1|2
+1536|akron, ohio|23546706|Denver|4|2
+1536|akron, ohio|11994112|40.7536111 -73.9841667|3|2
+1536|akron, ohio|25336948|Los Angeles|3|2
+1536|akron, ohio|14317022|downtown los angeles, ca|1|2
+1536|akron, ohio|196917975|Everywhere|1|2
+1536|akron, ohio|16586096|Chicago, IL|1|2
+1536|akron, ohio|0|Error|1|2
+1536|akron, ohio|0|Error|1|2
+1536|akron, ohio|10638482|Palo Alto, CA|1|2
+1536|akron, ohio|14217022|Los Angeles, CA|1|2
+16787846|akron, oh|15088154|Nashville, TN|3|2
+16787846|akron, oh|0|Error|2|2
+16787846|akron, oh|15012063|Akron, OH|2|2
+16787846|akron, oh|1425336931|Error|2|2
+16787846|akron, oh|20617476|BOOKING INQUIRIES|1|2
+16787846|akron, oh|29829545|Nashville, TN |1|2
+16787846|akron, oh|73034638|Error|1|2
+16787846|akron, oh|23011345|Los Angeles, CA|1|2
+65049736|akron, ohio|412725099|Error|10|2
+65049736|akron, ohio|36210761|SALTA - ARGENTINA|1|2
+40727660|akron, oh|38067848|Jonesboro, AR|3|2
+21025644|akron, oh|0|Error|4|2
+21025644|akron, oh|0|Error|4|2
+21025644|akron, oh|0|Error|2|2
+21025644|akron, oh|0|Error|1|2
+21025644|akron, oh|0|Error|1|2
+21025644|akron, oh|19147719|yarnham|1|2
+21025644|akron, oh|15516257|Minnesota|1|2
+15828964|akron, ohio|34422904|New York|4|2
+15828964|akron, ohio|23989263|Error|4|2
+15828964|akron, ohio|15566949|Error|3|2
+15828964|akron, ohio|0|Error|1|2
+15828964|akron, ohio|21115824|Massachusetts|1|2
+15828964|akron, ohio|16814625|VALLEY VILLAGE, CA|1|2
+15828964|akron, ohio|15884394|35,000 feet|1|2
+15828964|akron, ohio|0|Error|1|2
+18993761|akron, ohio|0|Error|4|2
+18993761|akron, ohio|21278412|Where the Cash At|2|2
+18993761|akron, ohio|0|Error|2|2
+18993761|akron, ohio|0|Error|1|2
+18993761|akron, ohio|9377222|Cleveland, Ohio|1|2
+18993761|akron, ohio|0|Error|1|2
+18993761|akron, ohio|157816813|being followed by TMZ|1|2
+18993761|akron, ohio|0|Error|1|2
+18993761|akron, ohio|27340261|Dallas,TX|1|2
+18993761|akron, ohio|38532460|AMONGST THE GREATS|1|2
+18993761|akron, ohio|0|Error|1|2
+19012514|akron, ohio|25341021|Vegas Baby, Vegas!|4|2
+19012514|akron, ohio|0|Error|4|2
+19012514|akron, ohio|704703|Portland Oregon|2|2
+19012514|akron, ohio|21707592|Los Angeles - USSA|1|2
+19012514|akron, ohio|165169906|Error|1|2
+19012514|akron, ohio|20175865|90 W  0 S|1|2
+19012514|akron, ohio|612966714|Error|1|2
+19012514|akron, ohio|0|Error|1|2
+19012514|akron, ohio|19446914|Tampa|1|2
+19012514|akron, ohio|20889358|Ohio|1|2
+19012514|akron, ohio|15116570|Error|1|2
+19012514|akron, ohio|14720411|So. Cal|1|2
+19012514|akron, ohio|30313925|Washington, DC|1|2
+32664913|akron, oh|14464099|iPhone: 34.147793,-117.719986|6|2
+32664913|akron, oh|33100219|Los Angeles, CA|2|2
+32664913|akron, oh|622185766|1602 S Pine St Cabot, AR|1|2
+32664913|akron, oh|18645458|NYC|1|2
+32664913|akron, oh|0|Error|1|2
+36940744|akron, oh|16688019|Orange County, California|1|2
+36940744|akron, oh|15648329|Indianapolis, Indiana|1|2
+36940744|akron, oh|0|Error|1|2
+36940744|akron, oh|14378113|Washington, DC, USA|1|2
+36940744|akron, oh|215376927|Kansas City, MO|1|2
+36940744|akron, oh|55712033|Error|1|2
+36940744|akron, oh|1132077456|Error|1|2
+36940744|akron, oh|390492767|Error|1|2
+36940744|akron, oh|0|Error|1|2
+36940744|akron, oh|0|Error|1|2
+36940744|akron, oh|0|Error|1|2
+36940744|akron, oh|1201253064|Error|1|2
+29604498|akron, oh|21869878|Minnetonka, Minnesota|2|2
+29604498|akron, oh|24568382|Rochester area, New York|2|2
+29604498|akron, oh|18944015|malvern, pa|1|2
+29604498|akron, oh|22011752|Ohio|1|2
+29604498|akron, oh|781460|San Francisco|1|2
+71571337|akron, oh|614813563|Error|1|2
+34881773|akron, ohio|40612336|Philadelphia|2|2
+34881773|akron, ohio|0|Error|2|2
+34881773|akron, ohio|91663052|Error|2|2
+34881773|akron, ohio|0|Error|1|2
+34881773|akron, ohio|76739740|Treated Crew 20/3|1|2
+34881773|akron, ohio|40888772|BK or Brunch.|1|2
+47487875|akron, ohio|45862591|Richfield, Ohio|1|2
+47487875|akron, ohio|0|Error|1|2
+47487875|akron, ohio|0|Error|1|2
+47487875|akron, ohio|0|Error|1|2
+47487875|akron, ohio|0|Error|1|2
+47487875|akron, ohio|0|Error|1|2
+47487875|akron, ohio|349522272|Error|1|2
+47487875|akron, ohio|2829008179|Jujuy Argentina|1|2
+16033488|akron, ohio|431092513|Melbourne|3|2
+16033488|akron, ohio|0|Error|2|2
+16033488|akron, ohio|20633636|Lakewood, CO|2|2
+16033488|akron, ohio|14141802|Salt Lake City|1|2
+16033488|akron, ohio|0|Error|1|2
+16033488|akron, ohio|16875176|Los Angeles|1|2
+16033488|akron, ohio|49671811|Los Angeles, CA, USA|1|2
+16033488|akron, ohio|29575366|Error|1|2
+23386133|akron, oh|14398320|Error|1|2
+23386133|akron, oh|23526594|HSQ 4 lyfe|1|2
+19266367|akron, oh|18863815|Harveytown|2|2
+19266367|akron, oh|40727660|Akron, OH|2|2
+19266367|akron, oh|0|Error|1|2
+19266367|akron, oh|34543716|Error|1|2
+19266367|akron, oh|0|Error|1|2
+19266367|akron, oh|26657119|USA|1|2
+19266367|akron, oh|17058976|Error|1|2
+19266367|akron, oh|14630443|Error|1|2
+19266367|akron, oh|0|Error|1|2
+19266367|akron, oh|0|Error|1|2
+19266367|akron, oh|85653966|Error|1|2
+19115814|akron, oh|27340261|Dallas,TX|5|2
+19115814|akron, oh|0|Error|2|2
+19115814|akron, oh|18993761|Akron, Ohio|2|2
+19115814|akron, oh|157816813|being followed by TMZ|1|2
+19115814|akron, oh|297298183|Fargo, North Dakota|1|2
+19115814|akron, oh|23151437|Philly/LA|1|2
+19115814|akron, oh|27529145|NYC... By way of Charlotte, NC|1|2
+19115814|akron, oh|16634031|Cleveland|1|2
+19115814|akron, oh|23832022|Worldwide |1|2
+34790913|akron, ohio|166690050|Worldwide|1|2
+18259266|akron, oh|41657170|H-Town|3|2
+18259266|akron, oh|41569607|Los Angeles|2|2
+18259266|akron, oh|18980196|Chicago---NYC|1|2
+18259266|akron, oh|0|Error|1|2
+38193382|akron, ohio|100484596|Error|5|2
+38193382|akron, ohio|292697874|West Palm Beach FL|3|2
+38193382|akron, ohio|0|Error|2|2
+38193382|akron, ohio|26855400|San Jose, CA|2|2
+38193382|akron, ohio|35199731|Hawaii|1|2
+38193382|akron, ohio|50352167|Error|1|2
+38193382|akron, ohio|7388532|TOKYO|1|2
+38193382|akron, ohio|853602847|Error|1|2
+38193382|akron, ohio|0|Error|1|2
+38193382|akron, ohio|2922257493|Error|1|2
+38193382|akron, ohio|419875913|Error|1|2
+38667821|akron, oh|19952404|Somewhere in the U2'niverse|3|2
+38667821|akron, oh|19820165|Matt: Berlin / Ax: Melbourne / Matkin: Toronto / Chris: NY|1|2
+38667821|akron, oh|152143|Evanston, IL|1|2
+38667821|akron, oh|12838532|Chicago|1|2
+38667821|akron, oh|0|Error|1|2
+38667821|akron, oh|0|Error|1|2
+38667821|akron, oh|158835039|Error|1|2
+38667821|akron, oh|22642788|Washington, DC|1|2
+38667821|akron, oh|22175709|Lancaster, PA|1|2
+38667821|akron, oh|20954473|Error|1|2
+38667821|akron, oh|17842366|United States|1|2
+18367758|akron, ohio|60129262|Lakewood, CO|1|2
+18367758|akron, ohio|17526713|Akron, Ohio|1|2
+56280261|akron, oh|0|Error|4|2
+56280261|akron, oh|21257006|Duluth, GA, or Salem, SC|2|2
+56280261|akron, oh|414312644|Error|2|2
+56280261|akron, oh|2869207619|Error|1|2
+56280261|akron, oh|17343795|Tampa, Florida|1|2
+14364330|akron, ohio|14194898|South Carolina|1|2
+14364330|akron, ohio|38489675|Akron|1|2
+7164952|akron, ohio|15067045|fark.com|3|2
+7164952|akron, ohio|36406853|Pittsburgh, PA|3|2
+7164952|akron, ohio|21178288|USA|3|2
+7164952|akron, ohio|3265621|Fishers, Indiana|1|2
+7164952|akron, ohio|10269582|Akron, Ohio|1|2
+7164952|akron, ohio|22408326|USA|1|2
+7164952|akron, ohio|72969740|Error|1|2
+7164952|akron, ohio|15121768|Cleveland, Ohio|1|2
+7164952|akron, ohio|88077779|Error|1|2
+7164952|akron, ohio|16242016|Massachusetts|1|2
+30371598|akron, ohio|30580430|San Diego|2|2
+30371598|akron, ohio|15265990|Minnesota|2|2
+30371598|akron, ohio|404179743|Ohio, United States|1|2
+30371598|akron, ohio|4669261|Japan|1|2

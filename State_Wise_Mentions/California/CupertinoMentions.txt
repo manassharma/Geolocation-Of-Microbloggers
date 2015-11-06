@@ -1,0 +1,251 @@
+14550773|cupertino, ca|188495735|Error|3|2
+14550773|cupertino, ca|12853322|San Francisco|1|2
+14550773|cupertino, ca|5816492|Error|1|2
+14550773|cupertino, ca|823098|Berlin|1|2
+14550773|cupertino, ca|7762622|Toronto|1|2
+14550773|cupertino, ca|8006132|Colorado|1|2
+14550773|cupertino, ca|7440462|San Jose, CA|1|2
+14550773|cupertino, ca|961382484|Error|1|2
+14550773|cupertino, ca|7415132|94028|1|2
+14550773|cupertino, ca|790249|Cupertino, CA|1|2
+14550773|cupertino, ca|666043|California Boy in Boston|1|2
+14550773|cupertino, ca|0|Error|1|2
+14550773|cupertino, ca|13753912|Cupertino, CA|1|2
+23214494|cupertino, ca|0|Error|1|2
+23214494|cupertino, ca|0|Error|1|2
+23214494|cupertino, ca|30304485|Katy, TX|1|2
+23214494|cupertino, ca|14002312|Error|1|2
+23214494|cupertino, ca|15052541|Error|1|2
+23214494|cupertino, ca|2941831|DC via South Dakota|1|2
+23214494|cupertino, ca|15432455|Davie, Florida|1|2
+23214494|cupertino, ca|13363282|Denver|1|2
+23214494|cupertino, ca|15040771|Ann Arbor|1|2
+23214494|cupertino, ca|0|Error|1|2
+23214494|cupertino, ca|27261250|Germany|1|2
+23214494|cupertino, ca|12995622|San Francisco, CA|1|2
+23214494|cupertino, ca|0|Error|1|2
+23214494|cupertino, ca|7700222|mostly SF, occasionally NYC|1|2
+23214494|cupertino, ca|56163398|Paris|1|2
+23214494|cupertino, ca|17008681|Seymour, IN, USA|1|2
+23214494|cupertino, ca|18216582|Sidcup, Kent, UK|1|2
+23214494|cupertino, ca|15438306|Germany|1|2
+23214494|cupertino, ca|14200945|Mons Olympus, Mars|1|2
+23214494|cupertino, ca|0|Error|1|2
+23214494|cupertino, ca|15642029|Portland, OR|1|2
+23214494|cupertino, ca|18742884|Toronto|1|2
+23214494|cupertino, ca|3552581|Chicago, IL, USA|1|2
+23214494|cupertino, ca|2697417504|Error|1|2
+23214494|cupertino, ca|14501166|Denver, CO|1|2
+23214494|cupertino, ca|10219812|Henderson, NV|1|2
+23214494|cupertino, ca|40593|San Francisco|1|2
+23214494|cupertino, ca|15707258|San Francisco, CA|1|2
+23214494|cupertino, ca|3426981|Portland|1|2
+23214494|cupertino, ca|10245332|Chicago, IL, US|1|2
+11817732|cupertino, ca|17886429|SF Bay|5|2
+11817732|cupertino, ca|816653|San Francisco, CA|5|2
+11817732|cupertino, ca|972651|Error|2|2
+11817732|cupertino, ca|0|Error|2|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|15928975|Newtown, Sydney|1|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|82019368|Error|1|2
+11817732|cupertino, ca|21499208|Error|1|2
+11817732|cupertino, ca|8761432|Europe|1|2
+11817732|cupertino, ca|11009852|San Francisco/Silicon Valley|1|2
+11817732|cupertino, ca|0|Error|1|2
+24019308|cupertino, ca|45371222|Los Angeles|3|2
+24019308|cupertino, ca|0|Error|1|2
+24019308|cupertino, ca|0|Error|1|2
+24019308|cupertino, ca|0|Error|1|2
+75150645|cupertino, ca|65472275|California|11|2
+75150645|cupertino, ca|37763479|Silicon Valley, California|4|2
+75150645|cupertino, ca|17975151|Austin, TX|1|2
+75150645|cupertino, ca|17768040|USA|1|2
+75150645|cupertino, ca|14106144|Fountain Valley, CA|1|2
+75150645|cupertino, ca|52145003|Error|1|2
+75150645|cupertino, ca|0|Error|1|2
+75150645|cupertino, ca|85899796|Error|1|2
+75150645|cupertino, ca|0|Error|1|2
+48436234|cupertino, ca|14348594|Brooklyn|2|2
+48436234|cupertino, ca|14529929|Error|1|2
+48436234|cupertino, ca|15905103|National Public Radio|1|2
+48436234|cupertino, ca|772471|Reno, NV|1|2
+48436234|cupertino, ca|14451408|Louisville, KY|1|2
+48436234|cupertino, ca|18638502|NYC|1|2
+15944436|cupertino, california|1006521|New York City/Croton on Hudson|4|2
+15944436|cupertino, california|22922852|Providence, RI|1|2
+15944436|cupertino, california|19113196|Germania|1|2
+43620739|cupertino, ca|9715522|san francisco|2|2
+43620739|cupertino, ca|16535581|Carlsbad, CA|2|2
+43620739|cupertino, ca|10938882|Santa Cruz, CA|2|2
+43620739|cupertino, ca|0|Error|2|2
+43620739|cupertino, ca|216495794|Carlsbad, CA|2|2
+43620739|cupertino, ca|0|Error|1|2
+43620739|cupertino, ca|14191945|San Francisco|1|2
+43620739|cupertino, ca|188495735|Error|1|2
+43620739|cupertino, ca|40008154|Winnipeg, Canada|1|2
+43620739|cupertino, ca|961382484|Error|1|2
+43620739|cupertino, ca|18863194|St. Louis, MO|1|2
+43620739|cupertino, ca|15178823|Cupertino CA, USA|1|2
+43620739|cupertino, ca|1759941|The Bay Area|1|2
+43620739|cupertino, ca|8479062|Brooklyn via Chicago|1|2
+43620739|cupertino, ca|23966838|Silicon Valley, CA|1|2
+43620739|cupertino, ca|5637652|Bay Area, CA|1|2
+43620739|cupertino, ca|14288966|Sydney, Australia|1|2
+31232120|cupertino, ca|3107271|Stratospheric|2|2
+31232120|cupertino, ca|1475291|San Francisco, CA|1|2
+31232120|cupertino, ca|12670392|Truckee, CA|1|2
+31232120|cupertino, ca|7453012|Boston, MA|1|2
+31232120|cupertino, ca|0|Error|1|2
+31232120|cupertino, ca|9520862|Cupertino, CA|1|2
+31232120|cupertino, ca|0|Error|1|2
+31232120|cupertino, ca|39341556|Dublin, Ireland|1|2
+31232120|cupertino, ca|5020581|san francisco|1|2
+31232120|cupertino, ca|2535865580|Error|1|2
+31232120|cupertino, ca|5485192|Salt Lake City, UT|1|2
+31232120|cupertino, ca|24874742|San Antonio, TX|1|2
+31232120|cupertino, ca|16134137|Renton, WA|1|2
+31232120|cupertino, ca|5556762|Peering over the edge. |1|2
+31232120|cupertino, ca|10846482|Austin, Texas|1|2
+31232120|cupertino, ca|6595682|Paris, France|1|2
+31232120|cupertino, ca|1253451|Alaska/Arizona|1|2
+31232120|cupertino, ca|29149796|Error|1|2
+31232120|cupertino, ca|14773964|San Francisco|1|2
+31232120|cupertino, ca|8901682|El Cerrito, CA|1|2
+31232120|cupertino, ca|286520092|Error|1|2
+31232120|cupertino, ca|0|Error|1|2
+31232120|cupertino, ca|5024061|San Francisco via Amsterdam|1|2
+31232120|cupertino, ca|816653|San Francisco, CA|1|2
+31232120|cupertino, ca|62682199|Error|1|2
+31232120|cupertino, ca|11414|Seattle, WA|1|2
+31232120|cupertino, ca|122490594|Error|1|2
+31232120|cupertino, ca|15081182|Las Vegas, NV|1|2
+31232120|cupertino, ca|0|Error|1|2
+31232120|cupertino, ca|19383954|Los Angeles|1|2
+31232120|cupertino, ca|782502|Redmond aka Eastern Washington|1|2
+31232120|cupertino, ca|50719054|Kansas City, Missouri|1|2
+31232120|cupertino, ca|18539834|Miami|1|2
+31232120|cupertino, ca|16300365|Boulder, CO|1|2
+31232120|cupertino, ca|15711951|San Francisco|1|2
+31232120|cupertino, ca|2783123142|Error|1|2
+31232120|cupertino, ca|0|Error|1|2
+31232120|cupertino, ca|0|Error|1|2
+31232120|cupertino, ca|666523|San Francisco|1|2
+31232120|cupertino, ca|19611094|San Francisco, New York|1|2
+31232120|cupertino, ca|13221172|Detroit, Michigan|1|2
+31232120|cupertino, ca|14837691|Menlo Park, CA|1|2
+39185713|cupertino, ca|22205008|SF Bay Area|4|2
+39185713|cupertino, ca|785|Sunnyvale, CA|2|2
+39185713|cupertino, ca|14681605|Body? L.A. Mind? N.J.|2|2
+39185713|cupertino, ca|6171852|CA|2|2
+39185713|cupertino, ca|15795530|San Francisco, California|1|2
+39185713|cupertino, ca|15680095|Oakland, CA|1|2
+39185713|cupertino, ca|0|Error|1|2
+39185713|cupertino, ca|0|Error|1|2
+39185713|cupertino, ca|30793570|Error|1|2
+39185713|cupertino, ca|0|Error|1|2
+39185713|cupertino, ca|17055811|Walnut Creek, CA|1|2
+39185713|cupertino, ca|3476|San Francisco|1|2
+39185713|cupertino, ca|9313362|West Palm Beach, FL|1|2
+7633252|cupertino, ca|39922782|Denver, CO|1|2
+7633252|cupertino, ca|761759|Error|1|2
+7633252|cupertino, ca|362143561|Error|1|2
+7633252|cupertino, ca|250270335|Flensburg|1|2
+7633252|cupertino, ca|0|Error|1|2
+7633252|cupertino, ca|2715345226|Error|1|2
+7633252|cupertino, ca|14358707|Redwood City, California|1|2
+7633252|cupertino, ca|14399539|Error|1|2
+7633252|cupertino, ca|20121783|Los Angeles.|1|2
+18230025|cupertino, ca|21337728|Washington, DC|6|2
+18230025|cupertino, ca|13612732|Los Angeles, California|3|2
+18230025|cupertino, ca|17096333|Rochester, NY|2|2
+18230025|cupertino, ca|493261289|Rochester, NY|2|2
+18230025|cupertino, ca|6827332|San Francisco, CA|1|2
+18230025|cupertino, ca|0|Error|1|2
+18230025|cupertino, ca|32671552|San Francisco|1|2
+18230025|cupertino, ca|21146933|NE Ohio. Near Lake Erie.|1|2
+18230025|cupertino, ca|41503461|41.98 -87.90|1|2
+7778992|cupertino, california|14326769|Cupertino|1|2
+7778992|cupertino, california|1223401560|Los Angeles|1|2
+14222786|cupertino, ca|6827332|San Francisco, CA|1|2
+14222786|cupertino, ca|14901258|Washington, USA|1|2
+14222786|cupertino, ca|12929552|Austin, Texas|1|2
+14222786|cupertino, ca|0|Error|1|2
+14222786|cupertino, ca|2358633229|Ann Arbor, MI|1|2
+14222786|cupertino, ca|14118775|Boulder,CO|1|2
+14222786|cupertino, ca|169686021|Error|1|2
+14222786|cupertino, ca|15828150|Boston, MA|1|2
+14222786|cupertino, ca|14222786|ann arbor, mi|1|2
+11817732|cupertino, ca|1528701|Washington, DC|4|2
+11817732|cupertino, ca|6330472|Reykjavik Iceland|2|2
+11817732|cupertino, ca|0|Error|2|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|18911649|Santa Clara, California|1|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|0|Error|1|2
+11817732|cupertino, ca|17518984|SanFrancisco/SiliconValley-CA|1|2
+11817732|cupertino, ca|21989049|Fremont, CA|1|2
+14306193|cupertino, ca|29647490|Error|3|2
+14306193|cupertino, ca|335595480|Error|3|2
+14306193|cupertino, ca|19570430|Los Angeles, California|2|2
+14306193|cupertino, ca|16862600|iPhone: 37.336266,-121.889145|2|2
+14306193|cupertino, ca|14460118|Northern California|2|2
+14306193|cupertino, ca|43675324|San Francisco , CA|2|2
+14306193|cupertino, ca|22461427|Los Angeles|1|2
+14306193|cupertino, ca|861951|San Francisco, CA|1|2
+14306193|cupertino, ca|64629441|San Francisco|1|2
+14306193|cupertino, ca|14306193|San Jose, CA|1|2
+14306193|cupertino, ca|18109472|Hayward, California|1|2
+2909661|cupertino, ca|13192972|Seattle, WA|1|2
+2909661|cupertino, ca|6073782|San Francisco|1|2
+2909661|cupertino, ca|8039542|iPhone: 45.498520,-122.685800|1|2
+2909661|cupertino, ca|0|Error|1|2
+2909661|cupertino, ca|15450332|Broad Brook, CT|1|2
+2909661|cupertino, ca|0|Error|1|2
+2909661|cupertino, ca|12601|Amherst, NS|1|2
+756872|cupertino, ca|1835411|Sector ZZ9 Plural Z Alpha|1|2
+756872|cupertino, ca|16604957|Los Angeles, CA|1|2
+756872|cupertino, ca|1703251|Lafayette, California|1|2
+756872|cupertino, ca|5637652|Bay Area, CA|1|2
+756872|cupertino, ca|6798382|NorCal|1|2
+756872|cupertino, ca|19458461|Grand Junction CO|1|2
+756872|cupertino, ca|43747913|California|1|2
+756872|cupertino, ca|16345959|Waltham, MA|1|2
+756872|cupertino, ca|14267733|Seattle, WA, USA|1|2
+756872|cupertino, ca|14638790|New London, CT|1|2
+756872|cupertino, ca|286520092|Error|1|2
+756872|cupertino, ca|663463|Chicagoland|1|2
+756872|cupertino, ca|658643|San Francisco Bay Area, CA|1|2
+756872|cupertino, ca|15178823|Cupertino CA, USA|1|2
+756872|cupertino, ca|16153212|0-0|1|2
+756872|cupertino, ca|528|NYC|1|2
+756872|cupertino, ca|794186|iPhone: 33.657925,-117.771423|1|2
+756872|cupertino, ca|36273|San Francisco, CA|1|2
+756872|cupertino, ca|16248125|Barrie, Ontario|1|2
+44791955|cupertino, ca|39101437|10100 Finch Ave, Cupertino, CA|1|2
+44791955|cupertino, ca|14165865|NYC, NY 10010|1|2
+44791955|cupertino, ca|15433693|San Francisco, CA|1|2
+44791955|cupertino, ca|14427319|95014|1|2
+44791955|cupertino, ca|39511166|Washington, DC|1|2
+44791955|cupertino, ca|18106872|Washington, DC|1|2
+44791955|cupertino, ca|15834677|Burbank, CA|1|2
+804617|cupertino, ca|14516920|Worldwide|9|2
+14130572|cupertino, ca|809399|Brooklyn, NY|3|2
+14130572|cupertino, ca|2621291|San Francisco|2|2
+14130572|cupertino, ca|785555|Berkeley, CA|2|2
+14130572|cupertino, ca|23236193|Error|1|2
+16674445|cupertino, ca|0|Error|1|2
+16674445|cupertino, ca|23023236|Union Town|1|2
+16674445|cupertino, ca|3221975771|Error|1|2
+16674445|cupertino, ca|14318277|Yay Area!|1|2
+16674445|cupertino, ca|30184802|iPhone: 51.512900,-0.065332|1|2
+16674445|cupertino, ca|15876379|Seattle|1|2
+16674445|cupertino, ca|1173451452|the bay area.|1|2
+16674445|cupertino, ca|43281681|San Francisco, California|1|2

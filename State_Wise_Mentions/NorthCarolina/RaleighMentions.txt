@@ -1,0 +1,1043 @@
+6160582|raleigh, nc|318389557|Norway|1|2
+6160582|raleigh, nc|16949996|Apex, NC|1|2
+6160582|raleigh, nc|0|Error|1|2
+6160582|raleigh, nc|9836582|Greenville, South Carolina|1|2
+6160582|raleigh, nc|11752272|NYC|1|2
+6160582|raleigh, nc|14218906|Phoenix, AZ|1|2
+6160582|raleigh, nc|0|Error|1|2
+6160582|raleigh, nc|14399254|Northern Virginia|1|2
+6160582|raleigh, nc|66748201|Triatholon|1|2
+6160582|raleigh, nc|9327382|Coventry, UK|1|2
+6160582|raleigh, nc|17154907|Pollocksville, NC USA|1|2
+6160582|raleigh, nc|22193200|Raleigh, NC|1|2
+17457969|raleigh, nc|17489099|WI via CA, WA, ID |4|2
+17457969|raleigh, nc|16178303|Raleigh, NC|4|2
+17457969|raleigh, nc|8200352|Florida, Georgia, Amsterdam|3|2
+17457969|raleigh, nc|0|Error|3|2
+17457969|raleigh, nc|11222|San Francisco, CA|3|2
+17457969|raleigh, nc|0|Error|2|2
+17457969|raleigh, nc|22497169|South Florida|2|2
+17457969|raleigh, nc|23871823|Greater Atlanta , GA.  USA|2|2
+17457969|raleigh, nc|102120147|Chicago|2|2
+17457969|raleigh, nc|18995858|Boston, MA|2|2
+17457969|raleigh, nc|16421477|San Diego, California|2|2
+17457969|raleigh, nc|385681053|Cincinnati, OH|2|2
+17457969|raleigh, nc|4243561|At the beach|2|2
+17457969|raleigh, nc|0|Error|2|2
+17457969|raleigh, nc|17496715|New York-Washington, DC|2|2
+17457969|raleigh, nc|14123243|Minneapolis|2|2
+17457969|raleigh, nc|6292902|Youngsville, Raleigh, NC|2|2
+17457969|raleigh, nc|15763005|Metro Detroit|2|2
+17457969|raleigh, nc|55745460|Philadelphia & Main Line|2|2
+17457969|raleigh, nc|14388669|San Francisco, CA|2|2
+17457969|raleigh, nc|18318500|Nashville, TN|2|2
+17457969|raleigh, nc|35623870|New York, NY|2|2
+17457969|raleigh, nc|18635626|USA|2|2
+17457969|raleigh, nc|14140147|Minneapolis|2|2
+17457969|raleigh, nc|14232724|New Jersey|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|17781955|Worldwide|1|2
+17457969|raleigh, nc|25496409|Basel, Switzerland|1|2
+17457969|raleigh, nc|15279645|Orlando, FL|1|2
+17457969|raleigh, nc|14738804|Santa Cruz, CA|1|2
+17457969|raleigh, nc|14496843|Matawan, NJ|1|2
+17457969|raleigh, nc|65365305|Key Biscayne, FL|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|41883437|Error|1|2
+17457969|raleigh, nc|2814090954|Error|1|2
+17457969|raleigh, nc|12199152|Dallas, TX|1|2
+17457969|raleigh, nc|15836509|Athens, OH|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|1435691|Occidental, CA |1|2
+17457969|raleigh, nc|37679854|San Francisco, CA|1|2
+17457969|raleigh, nc|17932463|Albuquerque, New Mexico, USA|1|2
+17457969|raleigh, nc|90486690|Triangle Area, NC|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|14070222|NJ|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|6480252|Raleigh, NC|1|2
+17457969|raleigh, nc|14544686|Cleveland, OH|1|2
+17457969|raleigh, nc|75031090|Washington DC|1|2
+17457969|raleigh, nc|291891513|Error|1|2
+17457969|raleigh, nc|1670611|London & Edinburgh|1|2
+17457969|raleigh, nc|2497431056|Error|1|2
+17457969|raleigh, nc|16120937|Seattle, WA|1|2
+17457969|raleigh, nc|14813698|here today gone tomorrow|1|2
+17457969|raleigh, nc|1695661|Boston, MA|1|2
+17457969|raleigh, nc|14639235|Atlanta|1|2
+17457969|raleigh, nc|21294141|Sweetheart of Ohio|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|44189108|Keene, NH|1|2
+17457969|raleigh, nc|14499809|New York, NY|1|2
+17457969|raleigh, nc|13438952|Error|1|2
+17457969|raleigh, nc|15367279|Error|1|2
+17457969|raleigh, nc|14134608|Dallas & Saint Michaels, MD|1|2
+17457969|raleigh, nc|24875432|Error|1|2
+17457969|raleigh, nc|87188095|Error|1|2
+17457969|raleigh, nc|17897772|Washington, DC|1|2
+17457969|raleigh, nc|19931663|London|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|8411862|Raleigh NC|1|2
+17457969|raleigh, nc|27884491|San Francisco & New Orleans|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|2996672601|Raleigh, NC|1|2
+17457969|raleigh, nc|11821962|Sunnyvale, CA|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|11883132|San Francisco|1|2
+17457969|raleigh, nc|67952766|Buffalo, NY|1|2
+17457969|raleigh, nc|16905666|Easton, PA|1|2
+17457969|raleigh, nc|8310782|Sunnyvale, CA, USA|1|2
+17457969|raleigh, nc|20559859|San Francisco, CA|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|27053546|Canton, Ohio|1|2
+17457969|raleigh, nc|14802044|Everywhere You Are Hiring|1|2
+17457969|raleigh, nc|62548662|Raleigh, NC|1|2
+17457969|raleigh, nc|17413657|Denver, CO|1|2
+17457969|raleigh, nc|15792511|Online|1|2
+17457969|raleigh, nc|13368052|NJ|1|2
+17457969|raleigh, nc|16066496|Louisiana|1|2
+17457969|raleigh, nc|19380198|Hermosa Beach, CA |1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|13473242|Atlanta, Georgia|1|2
+17457969|raleigh, nc|8387592|Seattle, WA|1|2
+17457969|raleigh, nc|33708906|Santa Monica, CA|1|2
+17457969|raleigh, nc|14364721|Toronto, ON, CA|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|0|Error|1|2
+17457969|raleigh, nc|130380375|Atlanta, GA|1|2
+17457969|raleigh, nc|27883210|Foster City, CA|1|2
+17457969|raleigh, nc|31378831|Austin, TX|1|2
+17457969|raleigh, nc|14304739|Atlanta, GA|1|2
+17457969|raleigh, nc|30255732|London|1|2
+17457969|raleigh, nc|24520117|Atlanta|1|2
+17457969|raleigh, nc|284516218|Error|1|2
+17457969|raleigh, nc|16265235|Kalamazoo, MI|1|2
+17457969|raleigh, nc|54240296|New York, NY|1|2
+17457969|raleigh, nc|7837062|Buenos Aires, Argentina and NY|1|2
+17457969|raleigh, nc|14147591|#RVA|1|2
+15336769|raleigh, nc|62548662|Raleigh, NC|2|2
+15336769|raleigh, nc|41823244|downtown funkytown, n. america|2|2
+15336769|raleigh, nc|91452026|Alberta, Canada|1|2
+15336769|raleigh, nc|2575888554|Error|1|2
+15336769|raleigh, nc|0|Error|1|2
+15336769|raleigh, nc|0|Error|1|2
+15336769|raleigh, nc|44106484|Durham, NC|1|2
+15336769|raleigh, nc|0|Error|1|2
+15336769|raleigh, nc|0|Error|1|2
+15336769|raleigh, nc|14718975|Durham, NC|1|2
+15336769|raleigh, nc|0|Error|1|2
+15336769|raleigh, nc|0|Error|1|2
+19794863|raleigh, nc|0|Error|1|2
+19794863|raleigh, nc|44404491|Error|1|2
+19794863|raleigh, nc|0|Error|1|2
+19794863|raleigh, nc|0|Error|1|2
+19794863|raleigh, nc|29732657|Irvine, CA|1|2
+19794863|raleigh, nc|20845575|Pennsylvania,US|1|2
+19794863|raleigh, nc|28390600|Clayton, NC|1|2
+48369106|raleigh, nc|438464334|Atlanta GA|8|2
+48369106|raleigh, nc|48369106|Raleigh, NC|7|2
+48369106|raleigh, nc|209645490|Error|6|2
+48369106|raleigh, nc|18658740|dertydenbiz@gmail.com|6|2
+48369106|raleigh, nc|50026509|Raleigh, NC|5|2
+48369106|raleigh, nc|0|Error|3|2
+48369106|raleigh, nc|0|Error|3|2
+48369106|raleigh, nc|0|Error|3|2
+48369106|raleigh, nc|23577344|Error|2|2
+48369106|raleigh, nc|0|Error|2|2
+48369106|raleigh, nc|24497237|Error|2|2
+48369106|raleigh, nc|0|Error|1|2
+48369106|raleigh, nc|0|Error|1|2
+48369106|raleigh, nc|517986366|Error|1|2
+48369106|raleigh, nc|21729296|San Francisco|1|2
+48369106|raleigh, nc|44111338|HERE THERE, EVERY WHERE|1|2
+48369106|raleigh, nc|0|Error|1|2
+48369106|raleigh, nc|0|Error|1|2
+48369106|raleigh, nc|0|Error|1|2
+48369106|raleigh, nc|597197879|Error|1|2
+48369106|raleigh, nc|42811653|Las Vegas, NV|1|2
+48369106|raleigh, nc|19765364|The Carolinas (CLT/CHS)|1|2
+48369106|raleigh, nc|0|Error|1|2
+48369106|raleigh, nc|1476039252|Error|1|2
+48369106|raleigh, nc|0|Error|1|2
+48369106|raleigh, nc|0|Error|1|2
+31067831|raleigh, nc|0|Error|12|2
+31067831|raleigh, nc|16108850|Detroit|1|2
+31067831|raleigh, nc|0|Error|1|2
+18354206|raleigh, nc|0|Error|1|2
+18354206|raleigh, nc|30051997|Washington, DC|1|2
+18354206|raleigh, nc|76701003|Error|1|2
+11407882|raleigh, nc|98514729|Glendale, AZ|3|2
+11407882|raleigh, nc|16906995|New York, NY|2|2
+11407882|raleigh, nc|28364121|Arizona|2|2
+11407882|raleigh, nc|14305488|RDU, NC|2|2
+11407882|raleigh, nc|48792880|Race tracks around the world|2|2
+11407882|raleigh, nc|46049486|AZ|2|2
+11407882|raleigh, nc|14174808|Cary, NC|1|2
+11407882|raleigh, nc|29099632|Columbia, SC |1|2
+11407882|raleigh, nc|14429823|Long Beach|1|2
+11407882|raleigh, nc|620463215|CANADA, Mississauga |1|2
+11407882|raleigh, nc|14882962|Charlotte, NC|1|2
+11407882|raleigh, nc|14214827|Chapel Hill, NC|1|2
+11407882|raleigh, nc|0|Error|1|2
+11407882|raleigh, nc|17685645|Auckland, New Zealand|1|2
+11407882|raleigh, nc|9802572|Raleigh, NC|1|2
+11407882|raleigh, nc|6014732|Past: NC. Now: Arlington, VA|1|2
+11407882|raleigh, nc|0|Error|1|2
+11407882|raleigh, nc|1706001|Fort Lauderdale Florida|1|2
+11407882|raleigh, nc|3096351|Cincinnati|1|2
+11407882|raleigh, nc|866441293|Error|1|2
+11407882|raleigh, nc|16897253|RDU, NC|1|2
+11407882|raleigh, nc|6695732|Chapel Hill, NC|1|2
+11407882|raleigh, nc|0|Error|1|2
+11407882|raleigh, nc|37009750|North Carolina|1|2
+11407882|raleigh, nc|14850955|Atlanta, GA|1|2
+11407882|raleigh, nc|1381368505|Error|1|2
+11407882|raleigh, nc|16405170|North Carolina, USA|1|2
+11407882|raleigh, nc|885853128|Error|1|2
+6014482|raleigh, nc|41259253|here|1|2
+6014482|raleigh, nc|1070525328|Kazakhstan|1|2
+16652098|raleigh, nc|16161856|Raleigh, N.C.|6|2
+16652098|raleigh, nc|15722168|Raleigh, NC|4|2
+16652098|raleigh, nc|756066120|Error|3|2
+16652098|raleigh, nc|19949676|Morrisville, NC|2|2
+16652098|raleigh, nc|14464905|Washington, DC|2|2
+16652098|raleigh, nc|253632228|Error|2|2
+16652098|raleigh, nc|14663591|Raleigh, NC|1|2
+16652098|raleigh, nc|0|Error|1|2
+16652098|raleigh, nc|31661380|Raleigh, NC|1|2
+16652098|raleigh, nc|30033750|Philadelphia, PA|1|2
+16652098|raleigh, nc|5174101|Raleigh / Durham, NC|1|2
+16652098|raleigh, nc|506572898|Error|1|2
+16652098|raleigh, nc|11456882|Denver, CO|1|2
+16652098|raleigh, nc|50690120|Columbia, SC|1|2
+16652098|raleigh, nc|0|Error|1|2
+16652098|raleigh, nc|191627049|Doncaster|1|2
+16652098|raleigh, nc|12139832|Boonetown|1|2
+16652098|raleigh, nc|0|Error|1|2
+23730306|raleigh, nc|14306318|Raleigh (Garner/Cleveland) NC|3|2
+23730306|raleigh, nc|21218343|Raleigh, NC|2|2
+23730306|raleigh, nc|16949996|Apex, NC|1|2
+23730306|raleigh, nc|0|Error|1|2
+23730306|raleigh, nc|6017542|Global|1|2
+23730306|raleigh, nc|11815752|USA & Germany|1|2
+23730306|raleigh, nc|15949239|Dallas/Fort Worth|1|2
+23730306|raleigh, nc|0|Error|1|2
+23730306|raleigh, nc|14344497|Raleigh NC 27607|1|2
+23730306|raleigh, nc|0|Error|1|2
+23730306|raleigh, nc|0|Error|1|2
+23730306|raleigh, nc|0|Error|1|2
+23730306|raleigh, nc|68169332|Raleigh, NC|1|2
+23730306|raleigh, nc|143431900|Error|1|2
+23730306|raleigh, nc|39920429|Raleigh, NC|1|2
+23730306|raleigh, nc|28794741|Error|1|2
+23730306|raleigh, nc|8221352|The Great Midwest|1|2
+10923722|raleigh, nc|17758551|Washington, DC|4|2
+10923722|raleigh, nc|0|Error|2|2
+10923722|raleigh, nc|6655632|Asheville, NC|1|2
+10923722|raleigh, nc|120394183|Error|1|2
+10923722|raleigh, nc|8064862|Raleigh, NC|1|2
+10923722|raleigh, nc|14086152|United States|1|2
+10923722|raleigh, nc|30590088|Durham, NC|1|2
+10923722|raleigh, nc|271027755|Los Angeles, CA|1|2
+10923722|raleigh, nc|58348469|San Jose, CA|1|2
+10923722|raleigh, nc|22773016|New Orleans|1|2
+10923722|raleigh, nc|58489056|Detroit, MI|1|2
+10923722|raleigh, nc|25828207|Philly, Pa|1|2
+10923722|raleigh, nc|35618687|Error|1|2
+10923722|raleigh, nc|15184249|Atlanta, GA|1|2
+10923722|raleigh, nc|0|Error|1|2
+10923722|raleigh, nc|14189025|Raleigh, NC|1|2
+10923722|raleigh, nc|24750754|Greensboro, NC|1|2
+50733677|raleigh, nc|65554022|Durham, NC|1|2
+50733677|raleigh, nc|14245846|Boston, MA|1|2
+50733677|raleigh, nc|18251144|Durham NC USA|1|2
+50733677|raleigh, nc|14544686|Cleveland, OH|1|2
+50733677|raleigh, nc|3032|New York, NY|1|2
+50733677|raleigh, nc|18328783|Atlanta, GA|1|2
+50733677|raleigh, nc|3533231|Boston, MA|1|2
+50733677|raleigh, nc|16215222|Toledo, Ohio|1|2
+50733677|raleigh, nc|14713133|San Francisco, CA|1|2
+50733677|raleigh, nc|14458280|Cambridge, MA|1|2
+50733677|raleigh, nc|50733677|Chapel Hill, NC|1|2
+14189025|raleigh, nc|59621828|Milwaukee, WI|4|2
+14189025|raleigh, nc|0|Error|3|2
+14189025|raleigh, nc|14483145|Raleigh, N.C.|3|2
+14189025|raleigh, nc|0|Error|2|2
+14189025|raleigh, nc|0|Error|2|2
+14189025|raleigh, nc|17758551|Washington, DC|2|2
+14189025|raleigh, nc|2708097032|Error|1|2
+14189025|raleigh, nc|9511932|Petworth, Washington D.C.|1|2
+14189025|raleigh, nc|15840615|Raleigh, NC|1|2
+14189025|raleigh, nc|12376612|St. Louis (ish)|1|2
+14189025|raleigh, nc|17356112|North Carolina|1|2
+14189025|raleigh, nc|18308861|Raleigh, NC|1|2
+14189025|raleigh, nc|0|Error|1|2
+14189025|raleigh, nc|24636631|Carrboro, NC|1|2
+14189025|raleigh, nc|0|Error|1|2
+14189025|raleigh, nc|18784654|Chicago (Jeff) - Space (Allen)|1|2
+14189025|raleigh, nc|14848194|Raleigh, NC|1|2
+14189025|raleigh, nc|1671564168|Error|1|2
+14189025|raleigh, nc|16743256|Milwaukee, WI 53201-1881|1|2
+14189025|raleigh, nc|13436432|Las Vegas, NV|1|2
+61613454|raleigh, nc|25174913|Atlanta|1|2
+61613454|raleigh, nc|0|Error|1|2
+61613454|raleigh, nc|26257166|Bristol, CT|1|2
+24381004|raleigh, nc|15633391|Error|7|2
+24381004|raleigh, nc|43469788|Error|3|2
+24381004|raleigh, nc|11883132|San Francisco|2|2
+24381004|raleigh, nc|30018120|Error|1|2
+24381004|raleigh, nc|18689390|Tulsa, OK|1|2
+24381004|raleigh, nc|0|Error|1|2
+24381004|raleigh, nc|10425862|Ventura California|1|2
+24381004|raleigh, nc|0|Error|1|2
+24381004|raleigh, nc|0|Error|1|2
+24381004|raleigh, nc|0|Error|1|2
+24381004|raleigh, nc|21590712|Los Angeles|1|2
+12068532|raleigh, nc|0|Error|1|2
+15738587|raleigh, nc|14956372|Raleigh, NC|9|2
+15738587|raleigh, nc|14426035|Triangle, NC|6|2
+15738587|raleigh, nc|15304100|Columbus, Ohio, USA|2|2
+15738587|raleigh, nc|21805376|Raleigh, NC|2|2
+15738587|raleigh, nc|0|Error|1|2
+15738587|raleigh, nc|15012486|New York, NY|1|2
+15738587|raleigh, nc|15738587|Raleigh, NC|1|2
+15738587|raleigh, nc|595560055|Error|1|2
+15738587|raleigh, nc|30973|Seattle, WA|1|2
+15738587|raleigh, nc|48376495|Raleigh, NC|1|2
+15738587|raleigh, nc|1614093024|Brisbane, Queensland|1|2
+16888104|raleigh, nc|0|Error|1|2
+16888104|raleigh, nc|3278882310|Error|1|2
+16888104|raleigh, nc|2345864262|Error|1|2
+16888104|raleigh, nc|86105831|Error|1|2
+16888104|raleigh, nc|78653869|Error|1|2
+16888104|raleigh, nc|80923534|SLC, Utah|1|2
+16263776|raleigh, nc|14116507|Northern VA|3|2
+16263776|raleigh, nc|32626492|Raleigh, NC|3|2
+16263776|raleigh, nc|19673276|Raleigh, NC|2|2
+16263776|raleigh, nc|157326453|Error|2|2
+16263776|raleigh, nc|27988844|Error|2|2
+16263776|raleigh, nc|0|Error|1|2
+16263776|raleigh, nc|18240736|Error|1|2
+16263776|raleigh, nc|50004938|30 cities across U.S. & Canada|1|2
+16263776|raleigh, nc|0|Error|1|2
+16263776|raleigh, nc|19465262|Worldwide|1|2
+16263776|raleigh, nc|16935111|Frederick, Maryland|1|2
+16263776|raleigh, nc|24099924|Error|1|2
+16263776|raleigh, nc|0|Error|1|2
+16263776|raleigh, nc|0|Error|1|2
+16263776|raleigh, nc|26256869|Error|1|2
+68169332|raleigh, nc|68169332|Raleigh, NC|10|2
+68169332|raleigh, nc|14119630|Raleigh NC|3|2
+68169332|raleigh, nc|23730306|Raleigh, NC|3|2
+68169332|raleigh, nc|21218343|Raleigh, NC|2|2
+68169332|raleigh, nc|28794741|Error|2|2
+68169332|raleigh, nc|16532803|Cary, NC|2|2
+68169332|raleigh, nc|0|Error|1|2
+68169332|raleigh, nc|0|Error|1|2
+68169332|raleigh, nc|0|Error|1|2
+68169332|raleigh, nc|0|Error|1|2
+68169332|raleigh, nc|0|Error|1|2
+68169332|raleigh, nc|0|Error|1|2
+68169332|raleigh, nc|0|Error|1|2
+68169332|raleigh, nc|0|Error|1|2
+68169332|raleigh, nc|0|Error|1|2
+68169332|raleigh, nc|0|Error|1|2
+68169332|raleigh, nc|14966337|Orange County, NC|1|2
+68169332|raleigh, nc|0|Error|1|2
+68169332|raleigh, nc|17163354|Raleigh, NC|1|2
+68169332|raleigh, nc|0|Error|1|2
+17445705|raleigh, nc|17445705|Raleigh, NC|3|2
+17445705|raleigh, nc|22227770|NY|3|2
+17445705|raleigh, nc|0|Error|3|2
+17445705|raleigh, nc|23008116|West Hollywood, CA|1|2
+17445705|raleigh, nc|10202|Boston, MA|1|2
+17445705|raleigh, nc|21508309|Calgary, Canada|1|2
+17445705|raleigh, nc|22221961|Raleigh NC USA|1|2
+17445705|raleigh, nc|20682620|New York, New York|1|2
+16399114|raleigh, nc|549410846|Beneath the Stars|4|2
+16399114|raleigh, nc|22043224|Error|4|2
+16399114|raleigh, nc|0|Error|2|2
+16399114|raleigh, nc|0|Error|2|2
+16399114|raleigh, nc|18179881|Error|1|2
+16399114|raleigh, nc|0|Error|1|2
+16399114|raleigh, nc|16399114|Raleigh, NC|1|2
+16399114|raleigh, nc|15811608|Oklahoma|1|2
+16399114|raleigh, nc|0|Error|1|2
+16399114|raleigh, nc|15710826|Hermon, ME|1|2
+16399114|raleigh, nc|6912362|Chincoteague, Virginia|1|2
+16399114|raleigh, nc|15524112|New England|1|2
+16399114|raleigh, nc|15745487|joliet, il|1|2
+16399114|raleigh, nc|56746916|Chicago|1|2
+17055150|raleigh, nc|60004915|Sittin` pretty in Florida.|5|2
+17055150|raleigh, nc|3029419756|Error|3|2
+17055150|raleigh, nc|0|Error|2|2
+17055150|raleigh, nc|73680083|Los Angeles, CA|2|2
+17055150|raleigh, nc|0|Error|2|2
+17055150|raleigh, nc|24342281|Atlanta, GA.|2|2
+17055150|raleigh, nc|0|Error|1|2
+17055150|raleigh, nc|1252915526|Error|1|2
+17055150|raleigh, nc|40569604|Just know Obama is my neighbor|1|2
+17055150|raleigh, nc|702796932|Error|1|2
+17055150|raleigh, nc|17563258|Houston, Tx|1|2
+17055150|raleigh, nc|70600582|Worldwide|1|2
+17055150|raleigh, nc|0|Error|1|2
+17055150|raleigh, nc|18856389|Tampa|1|2
+17055150|raleigh, nc|0|Error|1|2
+33571171|raleigh, nc|21816902|Raleigh, NC|3|2
+33571171|raleigh, nc|16667591|Raleigh Cary Durham ChapelHill|2|2
+33571171|raleigh, nc|42637908|Downtown Raleigh|2|2
+33571171|raleigh, nc|0|Error|1|2
+33571171|raleigh, nc|5631612|Raleigh, NC|1|2
+33571171|raleigh, nc|0|Error|1|2
+33571171|raleigh, nc|31555501|North Carolina|1|2
+14857978|raleigh, nc|10252722|Santa Barbara, CA|6|2
+14857978|raleigh, nc|18028152|USA|5|2
+14857978|raleigh, nc|16147869|santa barbara, ca|3|2
+14857978|raleigh, nc|20109820|Worldwide|2|2
+14857978|raleigh, nc|324748270|Error|2|2
+14857978|raleigh, nc|47110045|Raleigh, NC|2|2
+14857978|raleigh, nc|12909792|Santa Barbara, CA|2|2
+14857978|raleigh, nc|22145815|Carrboro, NC|1|2
+14857978|raleigh, nc|19329393|New York City, New York|1|2
+14857978|raleigh, nc|783214|San Francisco, CA|1|2
+14857978|raleigh, nc|0|Error|1|2
+14857978|raleigh, nc|0|Error|1|2
+14857978|raleigh, nc|16363832|Chicago, IL|1|2
+14857978|raleigh, nc|308712520|Error|1|2
+14857978|raleigh, nc|19544492|Raleigh, NC|1|2
+14857978|raleigh, nc|6014102|November 4-5th Javits Center|1|2
+14857978|raleigh, nc|809901|Los Angeles|1|2
+14857978|raleigh, nc|0|Error|1|2
+14857978|raleigh, nc|7744592|Studio 1A|1|2
+14857978|raleigh, nc|0|Error|1|2
+14857978|raleigh, nc|134665872|Error|1|2
+14857978|raleigh, nc|0|Error|1|2
+14857978|raleigh, nc|3174214732|Error|1|2
+14857978|raleigh, nc|0|Error|1|2
+14857978|raleigh, nc|22630987|New York|1|2
+59788117|raleigh, nc|23498831|Research Triangle Park, NC|2|2
+59788117|raleigh, nc|14985438|New York City & South Florida|2|2
+59788117|raleigh, nc|18348836|Raleigh, NC|2|2
+59788117|raleigh, nc|0|Error|1|2
+59788117|raleigh, nc|8942262|Raleigh, NC|1|2
+59788117|raleigh, nc|27899873|Error|1|2
+59788117|raleigh, nc|0|Error|1|2
+59788117|raleigh, nc|20781559|Washington DC|1|2
+59788117|raleigh, nc|0|Error|1|2
+59788117|raleigh, nc|17899109|Seattle, Washington|1|2
+59788117|raleigh, nc|44616328|Washington, D.C.|1|2
+59788117|raleigh, nc|5631612|Raleigh, NC|1|2
+59788117|raleigh, nc|198477211|Raleigh Durham NC|1|2
+59788117|raleigh, nc|22844632|NORTH CAROLINA|1|2
+59788117|raleigh, nc|120394183|Error|1|2
+59788117|raleigh, nc|24950013|Raleigh and statewide, NC|1|2
+59788117|raleigh, nc|20242996|Chapel Hill & Raleigh, NC|1|2
+59788117|raleigh, nc|613515742|Error|1|2
+59788117|raleigh, nc|0|Error|1|2
+59788117|raleigh, nc|26455917|San Francisco |1|2
+59788117|raleigh, nc|16397818|Error|1|2
+59788117|raleigh, nc|14378113|Washington, DC, USA|1|2
+59788117|raleigh, nc|193000642|Washington, DC|1|2
+59788117|raleigh, nc|3018722283|Raleigh, NC|1|2
+10636902|raleigh, nc|14306318|Raleigh (Garner/Cleveland) NC|3|2
+10636902|raleigh, nc|20610029|NJ and DC|3|2
+10636902|raleigh, nc|20545925|Charlotte, NC|3|2
+10636902|raleigh, nc|26236577|Brantford, Ontario|3|2
+10636902|raleigh, nc|10636902|Raleigh, NC|3|2
+10636902|raleigh, nc|17567533|Pittsboro, NC|2|2
+10636902|raleigh, nc|14086158|21A|2|2
+10636902|raleigh, nc|14220249|Athens, Ohio, USA|2|2
+10636902|raleigh, nc|0|Error|1|2
+10636902|raleigh, nc|6480252|Raleigh, NC|1|2
+10636902|raleigh, nc|14727207|Mountain View, CA|1|2
+10636902|raleigh, nc|36823|NYC: 40.739069,-73.987082|1|2
+10636902|raleigh, nc|39391231|Raleigh, North Carolina|1|2
+10636902|raleigh, nc|14514804|Error|1|2
+10636902|raleigh, nc|0|Error|1|2
+10636902|raleigh, nc|19649695|North Carolina|1|2
+10636902|raleigh, nc|0|Error|1|2
+10636902|raleigh, nc|30864865|Raleigh|1|2
+10636902|raleigh, nc|8411862|Raleigh NC|1|2
+10636902|raleigh, nc|0|Error|1|2
+10636902|raleigh, nc|14935189|Smithfield, NC|1|2
+10636902|raleigh, nc|0|Error|1|2
+10636902|raleigh, nc|7264292|Lancashire|1|2
+10636902|raleigh, nc|25953805|New York City!|1|2
+10636902|raleigh, nc|82149176|Error|1|2
+10636902|raleigh, nc|0|Error|1|2
+10636902|raleigh, nc|62548662|Raleigh, NC|1|2
+10636902|raleigh, nc|0|Error|1|2
+10636902|raleigh, nc|15778203|Houston|1|2
+10636902|raleigh, nc|14848194|Raleigh, NC|1|2
+10636902|raleigh, nc|874|San Francisco, CA|1|2
+10636902|raleigh, nc|18777045|Santa Fe, NM|1|2
+10636902|raleigh, nc|57203|San Jose|1|2
+10636902|raleigh, nc|5388852|San Francisco Bay Area|1|2
+10636902|raleigh, nc|17381284|San Francisco & North Carolina|1|2
+10636902|raleigh, nc|0|Error|1|2
+10636902|raleigh, nc|15117711|San Francisco, CA|1|2
+10636902|raleigh, nc|28577697|Raleigh, North Carolina|1|2
+10636902|raleigh, nc|8159652|Well duh. Seattle. (or TARDIS)|1|2
+10636902|raleigh, nc|12506972|Strasburg/Ann Arbor/Baltimore|1|2
+10636902|raleigh, nc|470096784|Error|1|2
+35802852|raleigh, nc|972651|Error|14|2
+35802852|raleigh, nc|11770652|Raleigh, NC|7|2
+35802852|raleigh, nc|45374708|Raleigh, NC|6|2
+35802852|raleigh, nc|114870718|Raleigh, NC|6|2
+35802852|raleigh, nc|17043888|Raleigh, N.C.|3|2
+35802852|raleigh, nc|0|Error|3|2
+35802852|raleigh, nc|2600721514|Error|3|2
+35802852|raleigh, nc|6014732|Past: NC. Now: Arlington, VA|3|2
+35802852|raleigh, nc|85837115|Raleigh, NC|3|2
+35802852|raleigh, nc|39180504|Raleigh, NC|3|2
+35802852|raleigh, nc|0|Error|2|2
+35802852|raleigh, nc|14965265|North Carolina|2|2
+35802852|raleigh, nc|16533637|Raleigh, NC|2|2
+35802852|raleigh, nc|14126162|Raleigh, NC|2|2
+35802852|raleigh, nc|1912641|Raleigh, NC|2|2
+35802852|raleigh, nc|10221|san francisco|2|2
+35802852|raleigh, nc|874|San Francisco, CA|2|2
+35802852|raleigh, nc|87606329|Raleigh, NC|2|2
+35802852|raleigh, nc|0|Error|1|2
+35802852|raleigh, nc|45369648|Internet|1|2
+35802852|raleigh, nc|23730306|Raleigh, NC|1|2
+35802852|raleigh, nc|34596227|RTP area of North Carolina|1|2
+35802852|raleigh, nc|44711055|Raleigh NC|1|2
+35802852|raleigh, nc|9856272|Lexington, KY|1|2
+35802852|raleigh, nc|14483145|Raleigh, N.C.|1|2
+35802852|raleigh, nc|868091300|Error|1|2
+35802852|raleigh, nc|19782257|Raleigh, NC|1|2
+35802852|raleigh, nc|14813060|Manhattan, NY  |1|2
+35802852|raleigh, nc|0|Error|1|2
+35802852|raleigh, nc|0|Error|1|2
+35802852|raleigh, nc|17356112|North Carolina|1|2
+35802852|raleigh, nc|14086152|United States|1|2
+35802852|raleigh, nc|0|Error|1|2
+35802852|raleigh, nc|0|Error|1|2
+35802852|raleigh, nc|18137055|Raleigh, NC|1|2
+35802852|raleigh, nc|16669120|Raleigh NC|1|2
+35802852|raleigh, nc|0|Error|1|2
+35802852|raleigh, nc|5631612|Raleigh, NC|1|2
+35802852|raleigh, nc|0|Error|1|2
+35802852|raleigh, nc|14115587|Bloomington, Indiana|1|2
+35802852|raleigh, nc|816653|San Francisco, CA|1|2
+35802852|raleigh, nc|15185909|Cary, NC|1|2
+35802852|raleigh, nc|0|Error|1|2
+35802852|raleigh, nc|27814865|Raleigh, NC|1|2
+35802852|raleigh, nc|30590088|Durham, NC|1|2
+35802852|raleigh, nc|18460854|Kansas City, MO|1|2
+35802852|raleigh, nc|28355394|Downtown Raleigh, NC|1|2
+35802852|raleigh, nc|14848194|Raleigh, NC|1|2
+35802852|raleigh, nc|0|Error|1|2
+35802852|raleigh, nc|23965861|Raleigh, NC|1|2
+35802852|raleigh, nc|8761432|Europe|1|2
+35802852|raleigh, nc|13990062|Durham, Raleigh, CH, NC|1|2
+35802852|raleigh, nc|0|Error|1|2
+35802852|raleigh, nc|14464905|Washington, DC|1|2
+35802852|raleigh, nc|0|Error|1|2
+35802852|raleigh, nc|90427386|Raleigh, North Carolina|1|2
+35802852|raleigh, nc|41041324|Raleigh, NC|1|2
+35802852|raleigh, nc|21313893|Raleigh, NC|1|2
+35802852|raleigh, nc|858051|Newport Beach, Orange County|1|2
+22565168|raleigh, nc|0|Error|2|2
+22565168|raleigh, nc|48255881|across the conference table|2|2
+22565168|raleigh, nc|0|Error|1|2
+22565168|raleigh, nc|14760382|Raleigh, NC|1|2
+22565168|raleigh, nc|30396250|Raleigh|1|2
+22565168|raleigh, nc|7846|Los Angeles, CA|1|2
+22565168|raleigh, nc|1934802841|San Francisco|1|2
+22565168|raleigh, nc|74621738|Error|1|2
+59859710|raleigh, nc|29780281|Monroe, North Carolina|3|2
+59859710|raleigh, nc|0|Error|1|2
+59859710|raleigh, nc|0|Error|1|2
+59859710|raleigh, nc|28649213|Chapel Hill|1|2
+6967822|raleigh, nc|9573202|Woodstock, CT|3|2
+6967822|raleigh, nc|11415842|Kirkland, WA|2|2
+6967822|raleigh, nc|697163|Seattle, WA|2|2
+6967822|raleigh, nc|26876963|Error|1|2
+6967822|raleigh, nc|8382462|Colorado|1|2
+6967822|raleigh, nc|90827216|Error|1|2
+6967822|raleigh, nc|786947|St. Charles, IL|1|2
+6967822|raleigh, nc|728173|Newburgh, IN|1|2
+6967822|raleigh, nc|3038211|Error|1|2
+6967822|raleigh, nc|14939200|Error|1|2
+6967822|raleigh, nc|6633812|The Tubes|1|2
+5658652|raleigh, nc|14133001|Houston, TX|3|2
+5658652|raleigh, nc|14690182|Virginia|1|2
+5658652|raleigh, nc|6533462|Chesapeake, VA|1|2
+5658652|raleigh, nc|18278524|Franklin, TN|1|2
+5658652|raleigh, nc|20411079|Charlotte, NC, USA|1|2
+5658652|raleigh, nc|5676102|Portland, Oregon|1|2
+5658652|raleigh, nc|3735781|New Albany, OH|1|2
+5658652|raleigh, nc|14693400|In the sticks or on the road|1|2
+5658652|raleigh, nc|41754227|Redmond, WA|1|2
+5658652|raleigh, nc|49465463|Error|1|2
+5658652|raleigh, nc|4085561|Berkeley, CA|1|2
+5658652|raleigh, nc|2962082626|NJ|1|2
+5658652|raleigh, nc|697163|Seattle, WA|1|2
+5658652|raleigh, nc|10808132|Seattle, WA - Bangalore, India|1|2
+5658652|raleigh, nc|1243561|Seattle, WA|1|2
+5658652|raleigh, nc|14186105|Pleasanton, CA|1|2
+5658652|raleigh, nc|725359830|Error|1|2
+5658652|raleigh, nc|5728662|SoCal. All of it.|1|2
+54942144|raleigh, nc|23624205|Morgantown,WV|1|2
+54942144|raleigh, nc|24604446|Schweinfurt Germany|1|2
+45374708|raleigh, nc|14848194|Raleigh, NC|7|2
+45374708|raleigh, nc|15185909|Cary, NC|3|2
+45374708|raleigh, nc|21313893|Raleigh, NC|3|2
+45374708|raleigh, nc|868091300|Error|2|2
+45374708|raleigh, nc|0|Error|2|2
+45374708|raleigh, nc|17681925|Raleigh, NC|2|2
+45374708|raleigh, nc|0|Error|2|2
+45374708|raleigh, nc|23730306|Raleigh, NC|1|2
+45374708|raleigh, nc|0|Error|1|2
+45374708|raleigh, nc|10202|Boston, MA|1|2
+45374708|raleigh, nc|291967730|Error|1|2
+45374708|raleigh, nc|8411862|Raleigh NC|1|2
+45374708|raleigh, nc|88041871|Error|1|2
+45374708|raleigh, nc|0|Error|1|2
+45374708|raleigh, nc|14120151|Cities worldwide|1|2
+45374708|raleigh, nc|17093617|Vancouver, Canada|1|2
+45374708|raleigh, nc|14126162|Raleigh, NC|1|2
+45374708|raleigh, nc|27814865|Raleigh, NC|1|2
+45374708|raleigh, nc|0|Error|1|2
+45374708|raleigh, nc|8820652|San Diego, California |1|2
+45374708|raleigh, nc|776254|St. Louis, MO|1|2
+45374708|raleigh, nc|14326244|Raleigh|1|2
+45374708|raleigh, nc|874|San Francisco, CA|1|2
+45374708|raleigh, nc|0|Error|1|2
+52236167|raleigh, nc|0|Error|3|2
+52236167|raleigh, nc|83264506|https://www.mythirtyone.com/mi|3|2
+52236167|raleigh, nc|19952118|raleigh, nc|1|2
+52236167|raleigh, nc|25026522|Raleigh, North Carolina|1|2
+52236167|raleigh, nc|0|Error|1|2
+52236167|raleigh, nc|0|Error|1|2
+17850215|raleigh, nc|11404952|Fredericksburg, Virginia|4|2
+17850215|raleigh, nc|10923722|Garner, NC|3|2
+17850215|raleigh, nc|0|Error|3|2
+17850215|raleigh, nc|0|Error|3|2
+17850215|raleigh, nc|19354449|Clayton NC|2|2
+17850215|raleigh, nc|0|Error|2|2
+17850215|raleigh, nc|14882962|Charlotte, NC|2|2
+17850215|raleigh, nc|14448790|Milledgeville, Ga. |2|2
+17850215|raleigh, nc|38173597|Raleigh, NC|2|2
+17850215|raleigh, nc|20212068|Raleigh, NC|1|2
+17850215|raleigh, nc|70553530|Northfield, IL|1|2
+17850215|raleigh, nc|16533637|Raleigh, NC|1|2
+17850215|raleigh, nc|108517836|Error|1|2
+17850215|raleigh, nc|0|Error|1|2
+17850215|raleigh, nc|11998652|Raleigh, NC|1|2
+17850215|raleigh, nc|18045613|SC Low Country |1|2
+17850215|raleigh, nc|83883736|Error|1|2
+17850215|raleigh, nc|241642634|Error|1|2
+17850215|raleigh, nc|30590088|Durham, NC|1|2
+17850215|raleigh, nc|14344497|Raleigh NC 27607|1|2
+17850215|raleigh, nc|108684622|Error|1|2
+17850215|raleigh, nc|0|Error|1|2
+17850215|raleigh, nc|0|Error|1|2
+17850215|raleigh, nc|280491364|Error|1|2
+17850215|raleigh, nc|19236104|Raleigh, NC|1|2
+17850215|raleigh, nc|92672385|Myrtle Beach, SC|1|2
+17850215|raleigh, nc|11770652|Raleigh, NC|1|2
+17850215|raleigh, nc|53167839|Chapel Hill & Carrboro, NC|1|2
+17850215|raleigh, nc|114870718|Raleigh, NC|1|2
+17850215|raleigh, nc|55299822|Durham, NC|1|2
+14837108|raleigh, nc|15391643|Raleigh, NC|3|2
+14837108|raleigh, nc|27625128|All Across the US|3|2
+14837108|raleigh, nc|0|Error|2|2
+14837108|raleigh, nc|0|Error|2|2
+14837108|raleigh, nc|14800270|Boston, MA|2|2
+14837108|raleigh, nc|166995444|Raleigh, NC|1|2
+14837108|raleigh, nc|14837108|Raleigh, NC|1|2
+14837108|raleigh, nc|19554713|Avondale, AZ|1|2
+14837108|raleigh, nc|17799367|Miami / New York City |1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|43687553|Vilnius, Lithuania|1|2
+14837108|raleigh, nc|14126162|Raleigh, NC|1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|2191049840|Error|1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|15904273|Raleigh, N.C.|1|2
+14837108|raleigh, nc|0|Error|1|2
+14837108|raleigh, nc|51263592|New York|1|2
+14837108|raleigh, nc|1381911|South Florida|1|2
+14837108|raleigh, nc|0|Error|1|2
+14618863|raleigh, nc|14181142|Leamington Spa, UK|2|2
+14618863|raleigh, nc|15437616|California|2|2
+14618863|raleigh, nc|0|Error|2|2
+14618863|raleigh, nc|14115882|Error|2|2
+14618863|raleigh, nc|50366581|Sverige|2|2
+14618863|raleigh, nc|5793822|Toronto, ON|1|2
+14618863|raleigh, nc|0|Error|1|2
+14618863|raleigh, nc|3819801|Error|1|2
+14618863|raleigh, nc|16324754|Entre Alemanya i Mallorca|1|2
+14618863|raleigh, nc|56449446|Error|1|2
+14618863|raleigh, nc|2150411791|Worldwide|1|2
+14618863|raleigh, nc|3243281|Netherlands|1|2
+14618863|raleigh, nc|0|Error|1|2
+14618863|raleigh, nc|68779471|Bucharest|1|2
+14618863|raleigh, nc|1902111|Omaha, NE|1|2
+14618863|raleigh, nc|28226183|Austin, TX|1|2
+14618863|raleigh, nc|18134710|Canada|1|2
+14618863|raleigh, nc|2529971|CA & NYC|1|2
+14618863|raleigh, nc|36187842|Maine, USA|1|2
+14618863|raleigh, nc|4407461|Paris, France|1|2
+14618863|raleigh, nc|15122081|San Jose, CA|1|2
+14618863|raleigh, nc|858051|Newport Beach, Orange County|1|2
+26764894|raleigh, nc|1118462042|San Diego, CA|3|2
+26764894|raleigh, nc|2186695567|Error|2|2
+26764894|raleigh, nc|48473095|Portland, OR|2|2
+26764894|raleigh, nc|26077026|United States|1|2
+26764894|raleigh, nc|0|Error|1|2
+26764894|raleigh, nc|42440697|Apex, North Carolina    USA|1|2
+26764894|raleigh, nc|0|Error|1|2
+26764894|raleigh, nc|15313129|Tempe. AZ|1|2
+26764894|raleigh, nc|16936553|Error|1|2
+26764894|raleigh, nc|17837184|Princeton, NJ|1|2
+61630198|raleigh, nc|0|Error|6|2
+61630198|raleigh, nc|0|Error|5|2
+61630198|raleigh, nc|24843491|Snapchat: TheIntriguing1|4|2
+61630198|raleigh, nc|0|Error|3|2
+61630198|raleigh, nc|0|Error|3|2
+61630198|raleigh, nc|0|Error|2|2
+61630198|raleigh, nc|21017038|BOSTON,MA|1|2
+61630198|raleigh, nc|16195340|In Your Dreams      |1|2
+61630198|raleigh, nc|87560804|SomewhereInNC, BXAllDayDoe|1|2
+61630198|raleigh, nc|0|Error|1|2
+61630198|raleigh, nc|0|Error|1|2
+61630198|raleigh, nc|3984274925|Error|1|2
+61630198|raleigh, nc|0|Error|1|2
+20211630|raleigh, nc|0|Error|4|2
+20211630|raleigh, nc|14956372|Raleigh, NC|2|2
+20211630|raleigh, nc|14858856|Washington DC|1|2
+20211630|raleigh, nc|14665149|New England|1|2
+20211630|raleigh, nc|14071624|Raleigh / New York / Vancouver|1|2
+20211630|raleigh, nc|14232890|Funky Town |1|2
+20211630|raleigh, nc|14637610|Raleigh, NC|1|2
+20211630|raleigh, nc|0|Error|1|2
+20211630|raleigh, nc|34747631|Around the World|1|2
+26636159|raleigh, nc|56783491|Error|17|2
+26636159|raleigh, nc|2202014756|Error|4|2
+26636159|raleigh, nc|0|Error|4|2
+26636159|raleigh, nc|0|Error|2|2
+26636159|raleigh, nc|163860777|Error|1|2
+26636159|raleigh, nc|0|Error|1|2
+26636159|raleigh, nc|0|Error|1|2
+26636159|raleigh, nc|61792111|(:|1|2
+26636159|raleigh, nc|2282676507|Error|1|2
+26636159|raleigh, nc|0|Error|1|2
+26636159|raleigh, nc|0|Error|1|2
+26636159|raleigh, nc|525010593|Error|1|2
+26636159|raleigh, nc|0|Error|1|2
+26636159|raleigh, nc|61626858|Argentina|1|2
+26636159|raleigh, nc|0|Error|1|2
+40713205|raleigh, nc|40713205|Raleigh, NC|3|2
+40713205|raleigh, nc|14946921|Error|2|2
+40713205|raleigh, nc|16933958|Error|1|2
+40713205|raleigh, nc|10388502|Raleigh N.C.|1|2
+40713205|raleigh, nc|0|Error|1|2
+40713205|raleigh, nc|2742507366|Error|1|2
+40713205|raleigh, nc|14482896|iPhone: 42.949612,-87.904640|1|2
+40713205|raleigh, nc|1361179327|Error|1|2
+40713205|raleigh, nc|41704899|St. Louis|1|2
+40713205|raleigh, nc|0|Error|1|2
+40713205|raleigh, nc|7564642|Vancouver, British Columbia|1|2
+40713205|raleigh, nc|14730186|Error|1|2
+8286422|raleigh, nc|806297|Raleigh / Las Vegas |4|2
+8286422|raleigh, nc|8160192|Durham, NC|3|2
+8286422|raleigh, nc|8286422|Raleigh, NC|3|2
+8286422|raleigh, nc|3093591|Raleigh, NC|2|2
+8286422|raleigh, nc|8910212|Apex, NC|2|2
+8286422|raleigh, nc|2279754282|Raleigh, NC|2|2
+8286422|raleigh, nc|18251144|Durham NC USA|2|2
+8286422|raleigh, nc|8569|Durham, NC|2|2
+8286422|raleigh, nc|279839685|VILA VELHA - ES|2|2
+8286422|raleigh, nc|5542002|Error|2|2
+8286422|raleigh, nc|20536157|Mountain View, CA|1|2
+8286422|raleigh, nc|605785566|Error|1|2
+8286422|raleigh, nc|687123|Error|1|2
+8286422|raleigh, nc|20732270|Colorado|1|2
+8286422|raleigh, nc|0|Error|1|2
+8286422|raleigh, nc|2355164370|Error|1|2
+8286422|raleigh, nc|14608854|Philadelphia|1|2
+8286422|raleigh, nc|14120150|Error|1|2
+8286422|raleigh, nc|775860|Durham, NC|1|2
+8286422|raleigh, nc|16306239|Holly Springs, NC, USA|1|2
+8286422|raleigh, nc|60632877|Durham, NC|1|2
+8286422|raleigh, nc|17944853|Error|1|2
+8286422|raleigh, nc|8555|Durham, NC|1|2
+8286422|raleigh, nc|6758912|Raleigh, North Carolina|1|2
+8286422|raleigh, nc|817853|Error|1|2
+65565679|raleigh, nc|0|Error|3|2
+65565679|raleigh, nc|19218100|Atlanta, GA|3|2
+65565679|raleigh, nc|0|Error|2|2
+65565679|raleigh, nc|0|Error|1|2
+65565679|raleigh, nc|2367911|NYC|1|2
+65565679|raleigh, nc|0|Error|1|2
+65565679|raleigh, nc|0|Error|1|2
+65565679|raleigh, nc|0|Error|1|2
+816154|raleigh, nc|50733677|Chapel Hill, NC|4|2
+816154|raleigh, nc|8918032|Louisville, Ky.|2|2
+816154|raleigh, nc|36823|NYC: 40.739069,-73.987082|2|2
+816154|raleigh, nc|794111|Boston, MA|2|2
+816154|raleigh, nc|16369899|Durham, North Carolina, USA|2|2
+816154|raleigh, nc|12|California, USA|2|2
+816154|raleigh, nc|14787157|Chicago, Illinois|2|2
+816154|raleigh, nc|15208271|San Jose, CA|2|2
+816154|raleigh, nc|62825872|thebigboss.org|1|2
+816154|raleigh, nc|12327132|Raleigh|1|2
+816154|raleigh, nc|40950177|North Carolina|1|2
+816154|raleigh, nc|14390225|New York, NY|1|2
+816154|raleigh, nc|26520742|Durham, North Carolina|1|2
+816154|raleigh, nc|79543|Silicon Valley, CA|1|2
+816154|raleigh, nc|0|Error|1|2
+816154|raleigh, nc|9831152|iPhone: 42.599689,-77.142052|1|2
+816154|raleigh, nc|15503880|San Francisco, CA|1|2
+816154|raleigh, nc|14443775|Chicago, IL|1|2
+816154|raleigh, nc|739853|Minneapolis/New York|1|2
+816154|raleigh, nc|7462572|iPhone: 45.504921,-122.654716|1|2
+816154|raleigh, nc|871891|Minneapolis, MN|1|2
+816154|raleigh, nc|11071502|Durham, North Carolina|1|2
+816154|raleigh, nc|78393|Austin, TX|1|2
+816154|raleigh, nc|15042927|New York, NY|1|2
+816154|raleigh, nc|10274|Austin, TX|1|2
+816154|raleigh, nc|0|Error|1|2
+816154|raleigh, nc|12798452|New York|1|2
+816154|raleigh, nc|0|Error|1|2
+816154|raleigh, nc|9554942|Canada|1|2
+816154|raleigh, nc|16191175|Nashville, TN|1|2
+816154|raleigh, nc|11632342|Minneapolis, Minnesota|1|2
+816154|raleigh, nc|16047092|Error|1|2
+816154|raleigh, nc|0|Error|1|2
+816154|raleigh, nc|7534242|Cleveland & Columbus, OH|1|2
+46823216|raleigh, nc|0|Error|1|2
+46823216|raleigh, nc|72056078|on top of the world|1|2
+46823216|raleigh, nc|21876469|Error|1|2
+46823216|raleigh, nc|29918557|RDU area, NC|1|2
+14055566|raleigh, nc|72178616|Raleigh, NC|2|2
+14055566|raleigh, nc|941724637|Error|2|2
+14055566|raleigh, nc|21817647|Southwest seat 15A|2|2
+14055566|raleigh, nc|0|Error|1|2
+14055566|raleigh, nc|24238334|Naperville, IL|1|2
+14055566|raleigh, nc|0|Error|1|2
+14055566|raleigh, nc|29392542|Indianapolis, United States|1|2
+14055566|raleigh, nc|0|Error|1|2
+14055566|raleigh, nc|18301663|Los Angeles|1|2
+14055566|raleigh, nc|18729187|Mountain View, CA, USA|1|2
+14055566|raleigh, nc|16422501|RTP, North Carolina|1|2
+14055566|raleigh, nc|10926202|Glendale, CA|1|2
+14055566|raleigh, nc|15930538|Baton Rouge, LA|1|2
+14055566|raleigh, nc|16195063|West Palm Beach, FL|1|2
+34472018|raleigh, nc|39136954|Error|3|2
+34472018|raleigh, nc|15693644|RTP, NC|2|2
+34472018|raleigh, nc|28383557|Philadelphia, PA|2|2
+34472018|raleigh, nc|3029419756|Error|1|2
+34472018|raleigh, nc|0|Error|1|2
+69369108|raleigh, nc|874|San Francisco, CA|2|2
+69369108|raleigh, nc|0|Error|1|2
+25328973|raleigh, nc|8453452|Silicon Valley, California|9|2
+25328973|raleigh, nc|14314467|The Netherlands|7|2
+25328973|raleigh, nc|11883132|San Francisco|5|2
+25328973|raleigh, nc|37971731|The World Wide Web|4|2
+25328973|raleigh, nc|21912403|Tempe, Arizona|2|2
+25328973|raleigh, nc|67673793|United States|2|2
+25328973|raleigh, nc|18086674|Littleton|2|2
+25328973|raleigh, nc|29607891|Los Angeles|2|2
+25328973|raleigh, nc|21879024|San Diego & world at large|2|2
+25328973|raleigh, nc|15921091|Vancouver, BC|2|2
+25328973|raleigh, nc|17491102|@ home in my robe|2|2
+25328973|raleigh, nc|199015747|Error|2|2
+25328973|raleigh, nc|18698775|Error|1|2
+25328973|raleigh, nc|16164520|Austin|1|2
+25328973|raleigh, nc|1364630323|Orlando, FL|1|2
+25328973|raleigh, nc|8024402|Cincinnati, OH, USA|1|2
+25328973|raleigh, nc|0|Error|1|2
+25328973|raleigh, nc|34235457|Phoenix, Arizona|1|2
+25328973|raleigh, nc|48406367|Error|1|2
+25328973|raleigh, nc|62019043|Hooper, NE|1|2
+25328973|raleigh, nc|23638467|Eating a coney, downtown|1|2
+25328973|raleigh, nc|0|Error|1|2
+25328973|raleigh, nc|40885516|Tampa Bay|1|2
+25328973|raleigh, nc|0|Error|1|2
+25328973|raleigh, nc|0|Error|1|2
+25328973|raleigh, nc|23940754|Milwaukee, WI|1|2
+25328973|raleigh, nc|15416955|wherever i go|1|2
+63728252|raleigh, nc|0|Error|7|2
+63728252|raleigh, nc|30753546|CLOUD 9, Brooklyn, NYC|6|2
+63728252|raleigh, nc|0|Error|4|2
+63728252|raleigh, nc|175228646|Error|3|2
+63728252|raleigh, nc|0|Error|3|2
+63728252|raleigh, nc|0|Error|2|2
+63728252|raleigh, nc|0|Error|2|2
+63728252|raleigh, nc|0|Error|2|2
+63728252|raleigh, nc|0|Error|2|2
+63728252|raleigh, nc|169126533|Error|2|2
+63728252|raleigh, nc|27099635|Error|2|2
+63728252|raleigh, nc|0|Error|2|2
+63728252|raleigh, nc|17546320|Away From You|1|2
+63728252|raleigh, nc|0|Error|1|2
+63728252|raleigh, nc|0|Error|1|2
+63728252|raleigh, nc|27434828|NYC/NC|1|2
+63728252|raleigh, nc|116848922|Error|1|2
+63728252|raleigh, nc|1554521791|Tulungagung, Indonesia|1|2
+63728252|raleigh, nc|274094704|Error|1|2
+63728252|raleigh, nc|0|Error|1|2
+63728252|raleigh, nc|76409826|Error|1|2
+63728252|raleigh, nc|60138876|Error|1|2
+35815320|raleigh, nc|14075928|Error|1|2
+35815320|raleigh, nc|33342154|LA|1|2
+35815320|raleigh, nc|291|Various |1|2
+35815320|raleigh, nc|31510960|Greenville, NC|1|2
+35815320|raleigh, nc|7376382|NYC|1|2
+35815320|raleigh, nc|1381878884|Error|1|2
+35815320|raleigh, nc|28611918|Hollywood, CA|1|2
+35815320|raleigh, nc|32902662|Salinas|1|2
+35815320|raleigh, nc|14994465|Mesa, Arizona|1|2
+35815320|raleigh, nc|11522502|Everywhere|1|2
+35815320|raleigh, nc|14523801|Londonish|1|2
+9469872|raleigh, nc|23277545|Pasadena, CA|2|2
+9469872|raleigh, nc|19167558|Sydney, Australia|2|2
+9469872|raleigh, nc|15591703|Charlottesville, VA|1|2
+9469872|raleigh, nc|0|Error|1|2
+9469872|raleigh, nc|0|Error|1|2
+9469872|raleigh, nc|0|Error|1|2
+9469872|raleigh, nc|419927679|Error|1|2
+9469872|raleigh, nc|19279066|Seattle, WA|1|2
+9469872|raleigh, nc|0|Error|1|2
+9469872|raleigh, nc|18089998|San Diego, CA|1|2
+9469872|raleigh, nc|14194898|South Carolina|1|2
+9469872|raleigh, nc|0|Error|1|2
+9469872|raleigh, nc|15550945|Triad NC|1|2
+9469872|raleigh, nc|0|Error|1|2
+9469872|raleigh, nc|0|Error|1|2
+9469872|raleigh, nc|42987519|Phoenix, Baja or ????|1|2
+9469872|raleigh, nc|0|Error|1|2
+9469872|raleigh, nc|0|Error|1|2
+9469872|raleigh, nc|24495893|Redmond & Bellevue, WA|1|2
+9469872|raleigh, nc|0|Error|1|2
+9469872|raleigh, nc|0|Error|1|2
+20612002|raleigh, nc|33827555|Minneapolis, MN|3|2
+20612002|raleigh, nc|83883736|Error|3|2
+20612002|raleigh, nc|3856581|Error|1|2
+20612002|raleigh, nc|16554103|Raleigh, NC|1|2
+20612002|raleigh, nc|0|Error|1|2
+20612002|raleigh, nc|0|Error|1|2
+20612002|raleigh, nc|27224390|Gulf Breeze, Florida|1|2
+20612002|raleigh, nc|0|Error|1|2
+20612002|raleigh, nc|4893501|Raleigh-Durham|1|2
+20612002|raleigh, nc|5631612|Raleigh, NC|1|2
+20612002|raleigh, nc|16940488|Reno, Nevada|1|2
+20612002|raleigh, nc|16789970|Searchlight, NV|1|2
+20612002|raleigh, nc|41888066|Raleigh, NC|1|2
+20612002|raleigh, nc|14813320|Error|1|2
+23759741|raleigh, nc|17200756|LA,  CA|4|2
+23759741|raleigh, nc|33352220|North Carolina|2|2
+23759741|raleigh, nc|74263975|NC|2|2
+23759741|raleigh, nc|26297526|Error|2|2
+23759741|raleigh, nc|6936242|Raleigh, NC|1|2
+23759741|raleigh, nc|0|Error|1|2
+23759741|raleigh, nc|21823607|New York|1|2
+23759741|raleigh, nc|28241299|Atlanta, GA|1|2
+23759741|raleigh, nc|16570567|Wisconsin|1|2
+23759741|raleigh, nc|0|Error|1|2
+23759741|raleigh, nc|77066063|Los Angeles, CA|1|2
+23759741|raleigh, nc|10398172|Triangle, NC|1|2
+23759741|raleigh, nc|0|Error|1|2
+23759741|raleigh, nc|0|Error|1|2
+23759741|raleigh, nc|0|Error|1|2
+23759741|raleigh, nc|178473536|Thee Pacific Northwest |1|2
+23759741|raleigh, nc|0|Error|1|2
+23759741|raleigh, nc|14773346|North Carolina|1|2
+23759741|raleigh, nc|0|Error|1|2
+23759741|raleigh, nc|133154303|Kentucky, USA|1|2
+23759741|raleigh, nc|35799730|Durham, NC|1|2
+23759741|raleigh, nc|9023182|Santa Cruz, CA|1|2
+23759741|raleigh, nc|17024228|Raleigh, NC|1|2
+23759741|raleigh, nc|14747367|Error|1|2
+23759741|raleigh, nc|15811608|Oklahoma|1|2
+23759741|raleigh, nc|0|Error|1|2
+23759741|raleigh, nc|17609361|National|1|2
+23759741|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|0|Error|3|2
+18123896|raleigh, nc|20599294|Dallas, TX.|3|2
+18123896|raleigh, nc|3053893201|USA|2|2
+18123896|raleigh, nc|28070021|Arizona now Atlanta|2|2
+18123896|raleigh, nc|0|Error|2|2
+18123896|raleigh, nc|33877936|CHICAGO !!!!!|2|2
+18123896|raleigh, nc|1970305243|Error|2|2
+18123896|raleigh, nc|333539068|Error|2|2
+18123896|raleigh, nc|59222859|DMV by way of STL|2|2
+18123896|raleigh, nc|18004615|Atlanta, GA|2|2
+18123896|raleigh, nc|18249707|CA ALL DAY!|2|2
+18123896|raleigh, nc|15526922|not in the way of the groove..|1|2
+18123896|raleigh, nc|281439912|Bandung|1|2
+18123896|raleigh, nc|358503644|Error|1|2
+18123896|raleigh, nc|281747231|Error|1|2
+18123896|raleigh, nc|21279706|Durham, NC|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|272545412|Error|1|2
+18123896|raleigh, nc|16879685|Right Here.|1|2
+18123896|raleigh, nc|18183641|Los Angeles, CA|1|2
+18123896|raleigh, nc|1062869144|Error|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|8318902|New York, New York|1|2
+18123896|raleigh, nc|71918042|International|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|31360279|Order my single Marry Me|1|2
+18123896|raleigh, nc|17887703|Hollywood|1|2
+18123896|raleigh, nc|55310657|Griffith Park, CA|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|556783858|Error|1|2
+18123896|raleigh, nc|17201890|@Zaarinah on IG|1|2
+18123896|raleigh, nc|2352881128|NJ.|1|2
+18123896|raleigh, nc|18755291|OAKLAND|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|14989573|Error|1|2
+18123896|raleigh, nc|351707624|Error|1|2
+18123896|raleigh, nc|2601473860|Error|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|17915334|Detroit, MI|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|426535922|Error|1|2
+18123896|raleigh, nc|2186899106|Error|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|16339169|At LetsGetThisMoneyV@gmail.com|1|2
+18123896|raleigh, nc|0|Error|1|2
+18123896|raleigh, nc|36455211|The Nations Capital!!!|1|2
+18911048|raleigh, nc|14482344|NoVA|6|2
+18911048|raleigh, nc|29446101|Cary, NC|3|2
+18911048|raleigh, nc|33827555|Minneapolis, MN|2|2
+18911048|raleigh, nc|3824841|Washington, DC|1|2
+18911048|raleigh, nc|14109167|California|1|2
+18911048|raleigh, nc|12844642|Washington DC|1|2
+18911048|raleigh, nc|17560195|CHI,walkable places everywhere|1|2
+18911048|raleigh, nc|11604292|Washington, DC|1|2
+18911048|raleigh, nc|257012859|Error|1|2
+18911048|raleigh, nc|15640760|Washington, DC|1|2
+18911048|raleigh, nc|24484146|Triangle NC|1|2
+18911048|raleigh, nc|3070984108|Error|1|2
+18911048|raleigh, nc|18871546|Error|1|2
+18911048|raleigh, nc|65413728|Greensboro, NC|1|2
+18911048|raleigh, nc|30062010|North Carolina|1|2
+18911048|raleigh, nc|633493|Error|1|2
+18911048|raleigh, nc|822183900|Error|1|2
