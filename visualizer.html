@@ -1,0 +1,81 @@
+<html>
+<title>
+    Precision Visualizer
+</title>
+<head>
+    <h1 style = "font-size:40px; color:blue;" align = "center">
+        This application visualizes the actual and computed places on a map!
+    </h1>
+	<meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style type="text/css">
+      html, body { height: 100%; margin: 0; padding: 0; }
+      #map { height: 100%; }
+    </style>
+    </style>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js??key=AIzaSyA45UNnSfFBtArrZ5qWdn6ojKrnTsjr-_8&v=3.exp&signed_in=true&libraries=places"></script>
+	<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANG6qttafgMkIAnlhPgDkv3btfHLFfBHk&callback=initMap" -->
+	<!--AIzaSyA45UNnSfFBtArrZ5qWdn6ojKrnTsjr-_8-->
+
+</head>
+
+
+</br>
+</br>
+</br>
+<body style = "background-color:grey">
+<label id = "label1" style = "color:blue" align = "right">Actual Location:</label>
+<input style = "margin:50px" size = "30" type = "text" id = "inputBox1" align = "right"/>
+<label id = "label2" style = "color:blue" align = "right">Computed Location:</label>
+<input style = "marging:50px" size = "30" type = "text" id = "inputBox2" align = "right"/>
+<input type = "submit" id = "button1" value="Get Distance!" onclick = "getDistance()"/>
+<input type = "submit" id = "mapper" value = "MapIt!" onclick = "mapRequest()"/>
+</br>
+</br>
+<div>
+	<label style = "color:blue"> Enter the Paths of actual locations and Computed Locations </label>
+	<textarea style = "margin:50px; height:150px" size = "30" cols = "20" rows = "100" "type = "textarea" id = "input1" align = "left" value = "Actual Locations"></textarea>
+	<textarea style = "margin:50px; height:150px" size = "30" type = "textarea" cols = "20" rows = "100" id = "input2" align = "middle" value = "Computed Locations"></textarea>
+	<input type = "submit" value = "MapTheseFiles" id = "getData" onclick = "initialize()"/>
+</div>
+</br>
+<script type = "text/javascript">
+    function getDistance() {
+        var actualLocation = document.getElementById("inputBox1").value;
+        var myLocation = document.getElementById("inputBox2").value;
+        var service = new google.maps.DistanceMatrixService; 
+            service.getDistanceMatrix({
+                origins: [actualLocation],
+                destinations: [myLocation],
+                travelMode: google.maps.TravelMode.DRIVING,
+                unitSystem: google.maps.UnitSystem.METRIC,
+                avoidHighways: false,
+                avoidTolls: false
+            }, function(response, status) {
+                if (status !== google.maps.DistanceMatrixStatus.OK) {
+                    alert('Error was: ' + status);
+                } else {
+                    var destinationList = response.rows[0].elements[0].distance.text;
+					var timeForTravel = response.rows[0].elements[0].duration.text;
+                    alert("Total Distance between points = "+destinationList+ " time needed by car for travel "+timeForTravel)
+                }
+            });
+    }
+</script>
+<script type = "text/javascript">
+function initialize() {
+    var latlng = new google.maps.LatLng(-34.397, 150.644);
+    var myOptions = {
+        zoom: 8,
+        center: latlng,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+    var map = new google.maps.Map(document.getElementById("map_canvas"),
+            myOptions);
+}
+google.maps.event.addDomListener(window, "load", initialize);
+</script>
+</body>
+</html>
