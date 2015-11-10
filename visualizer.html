@@ -6,19 +6,19 @@
     <h1 style = "font-size:40px; color:blue;" align = "center">
         This application visualizes the actual and computed places on a map!
     </h1>
-	<style>
-      #map {
-        width: 1200px;
-        height: 700px;
-		background-color: #CCC;
-      }
+    <style>
+        #map {
+            width: 1200px;
+            height: 700px;
+            background-color: #CCC;
+        }
     </style>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js??key=AIzaSyA45UNnSfFBtArrZ5qWdn6ojKrnTsjr-_8&v=3.exp&signed_in=true&libraries=places"></script>
-	<!--<script src="https://maps.googleapis.com/maps/api/js"></script>-->
-	<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANG6qttafgMkIAnlhPgDkv3btfHLFfBHk&callback=initMap" -->
-	<!--AIzaSyA45UNnSfFBtArrZ5qWdn6ojKrnTsjr-_8-->
+    <!--<script src="https://maps.googleapis.com/maps/api/js"></script>-->
+    <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANG6qttafgMkIAnlhPgDkv3btfHLFfBHk&callback=initMap" -->
+    <!--AIzaSyA45UNnSfFBtArrZ5qWdn6ojKrnTsjr-_8-->
 
 </head>
 
@@ -35,82 +35,85 @@
 </br>
 </br>
 <div>
-	<label style = "color:blue"> Enter the Paths of actual locations and Computed Locations </label>
-	<textarea style = "margin:50px; height:150px" size = "30" cols = "20" rows = "100" "type = "textarea" id = "input1" align = "left" value = "Actual Locations"></textarea>
-	<textarea style = "margin:50px; height:150px" size = "30" type = "textarea" cols = "20" rows = "100" id = "input2" align = "middle" value = "Computed Locations"></textarea>
-	<input type = "submit" value = "MapThesePoints" id = "getData" onclick = "plot()"/>
+    <label style = "color:blue"> Enter the Paths of actual locations and Computed Locations </label>
+    <textarea style = "margin:50px; height:150px" size = "30" cols = "20" rows = "100" "type = "textarea" id = "input1" align = "left" value = "Actual Locations"></textarea>
+    <textarea style = "margin:50px; height:150px" size = "30" type = "textarea" cols = "20" rows = "100" id = "input2" align = "middle" value = "Computed Locations"></textarea>
+    <input type = "submit" value = "MapThesePoints" id = "getData" onclick = "plot()"/>
 </div>
 </br>
 <script type = "text/javascript">
     function getDistance() {
         var actualLocation = document.getElementById("inputBox1").value;
         var myLocation = document.getElementById("inputBox2").value;
-        var service = new google.maps.DistanceMatrixService; 
-            service.getDistanceMatrix({
-                origins: [actualLocation],
-                destinations: [myLocation],
-                travelMode: google.maps.TravelMode.DRIVING,
-                unitSystem: google.maps.UnitSystem.METRIC,
-                avoidHighways: false,
-                avoidTolls: false
-            }, function(response, status) {
-                if (status !== google.maps.DistanceMatrixStatus.OK) {
-                    alert('Error was: ' + status);
-                } else {
-                    var destinationList = response.rows[0].elements[0].distance.text;
-					var timeForTravel = response.rows[0].elements[0].duration.text;
-                    alert("Total Distance between points = "+destinationList+ " time needed by car for travel "+timeForTravel)
-                }
-            });
+        var service = new google.maps.DistanceMatrixService;
+        service.getDistanceMatrix({
+            origins: [actualLocation],
+            destinations: [myLocation],
+            travelMode: google.maps.TravelMode.DRIVING,
+            unitSystem: google.maps.UnitSystem.METRIC,
+            avoidHighways: false,
+            avoidTolls: false
+        }, function(response, status) {
+            if (status !== google.maps.DistanceMatrixStatus.OK) {
+                alert('Error was: ' + status);
+            } else {
+                var destinationList = response.rows[0].elements[0].distance.text;
+                var timeForTravel = response.rows[0].elements[0].duration.text;
+                alert("Total Distance between points = "+destinationList+ " time needed by car for travel "+timeForTravel)
+            }
+        });
     }
 </script>
 <script type = "text/javascript">
-function plot() {
-    var inputOne = document.getElementById("input1").value;
-	var splitOne = inputOne.split(",")
-	var inputTwo = document.getElementById("input2").value;
-	var splitTwo = inputTwo.split(",")
-	
-	var mapCanvas = document.getElementById('map');
-    var mapOptions = {
-      center: new google.maps.LatLng(32.7767, -96.7970),
-      zoom: 4,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-	  }
-	  for(i=0;i<splitOne.length;i++){
-	  var map = new google.maps.Map(mapCanvas, mapOptions);
-	  var address =splitOne[i];
-	  var geocoder = new google.maps.Geocoder();
-	  geocoder.geocode({'address': address}, function(results, status) {
-		if (status === google.maps.GeocoderStatus.OK) {
-		map.setCenter(results[0].geometry.location);
-		var marker = new google.maps.Marker({
-        map: map,
-        position: results[0].geometry.location
-      });
-    } else {
-      alert('Geocode was not successful for the following reason: ' + status);
+    function plot() {
+        var inputOne = document.getElementById("input1").value;
+        var splitOne = inputOne.split(",")
+
+        var inputTwo = document.getElementById("input2").value;
+        var splitTwo = inputTwo.split(",")
+
+        var mapCanvas = document.getElementById('map');
+        var mapOptions = {
+            center: new google.maps.LatLng(32.7767, -96.7970),
+            zoom: 4,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var image1='red-dot.png'
+        var image2='blue-dot.png'
+
+        var map = new google.maps.Map(mapCanvas, mapOptions);
+
+        for(var i=0;i<splitOne.length;i++)
+        {
+            var address1 = splitOne[i];
+            var address2 = splitTwo[i];
+            var geocoder = new google.maps.Geocoder();
+            geocoder.geocode({'address': address1}, function (results, status) {
+                if (status === google.maps.GeocoderStatus.OK) {
+                    map.setCenter(results[0].geometry.location);
+                    var marker = new google.maps.Marker({
+                        map: map,
+                        position: results[0].geometry.location,
+                        icon: image1
+                    });
+                } else {
+                    alert('Geocode was not successful for the following reason: ' + status);
+                }
+            });
+            geocoder.geocode({'address': address2}, function (results, status) {
+                if (status === google.maps.GeocoderStatus.OK) {
+                    map.setCenter(results[0].geometry.location);
+                    var marker = new google.maps.Marker({
+                        map: map,
+                        position: results[0].geometry.location,
+                        icon: image2
+                    });
+                } else {
+                    alert('Geocode was not successful for the following reason: ' + status);
+                }
+            });
+        }
     }
-  });
-  }
-  
-  for(i=0;i<splitTwo.length;i++){
-	  var map = new google.maps.Map(mapCanvas, mapOptions);
-	  var address =splitTwo[i];
-	  var geocoder = new google.maps.Geocoder();
-	  geocoder.geocode({'address': address}, function(results, status) {
-		if (status === google.maps.GeocoderStatus.OK) {
-		map.setCenter(results[0].geometry.location);
-		var marker = new google.maps.Marker({
-        map: map,
-        position: results[0].geometry.location
-      });
-    } else {
-      alert('Geocode was not successful for the following reason: ' + status);
-    }
-  });
-  }
- }
 </script>
 <!--<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d27275237.54547694!2d-111.927875!3d33.436361850000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1447112051690" width="1000" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>-->
 <div id="map"></div>
