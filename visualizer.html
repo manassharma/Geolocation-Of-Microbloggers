@@ -8,8 +8,8 @@
     </h1>
 	<style>
       #map {
-        width: 500px;
-        height: 400px;
+        width: 1200px;
+        height: 700px;
 		background-color: #CCC;
       }
     </style>
@@ -32,14 +32,13 @@
 <label id = "label2" style = "color:blue" align = "right">Computed Location:</label>
 <input style = "marging:50px" size = "30" type = "text" id = "inputBox2" align = "right"/>
 <input type = "submit" id = "button1" value="Get Distance!" onclick = "getDistance()"/>
-<input type = "submit" id = "mapper" value = "MapIt!" onclick = "mapRequest()"/>
 </br>
 </br>
 <div>
 	<label style = "color:blue"> Enter the Paths of actual locations and Computed Locations </label>
 	<textarea style = "margin:50px; height:150px" size = "30" cols = "20" rows = "100" "type = "textarea" id = "input1" align = "left" value = "Actual Locations"></textarea>
 	<textarea style = "margin:50px; height:150px" size = "30" type = "textarea" cols = "20" rows = "100" id = "input2" align = "middle" value = "Computed Locations"></textarea>
-	<input type = "submit" value = "MapTheseFiles" id = "getData" onclick = "plot()"/>
+	<input type = "submit" value = "MapThesePoints" id = "getData" onclick = "plot()"/>
 </div>
 </br>
 <script type = "text/javascript">
@@ -79,7 +78,20 @@ function plot() {
       mapTypeId: google.maps.MapTypeId.ROADMAP
 	  }
 	  var map = new google.maps.Map(mapCanvas, mapOptions);
+	  var address =splitOne[0];
+	  var geocoder = new google.maps.Geocoder();
+	  geocoder.geocode({'address': address}, function(results, status) {
+		if (status === google.maps.GeocoderStatus.OK) {
+		map.setCenter(results[0].geometry.location);
+		var marker = new google.maps.Marker({
+        map: map,
+        position: results[0].geometry.location
+      });
+    } else {
+      alert('Geocode was not successful for the following reason: ' + status);
     }
+  });
+ }
 </script>
 <!--<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d27275237.54547694!2d-111.927875!3d33.436361850000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1447112051690" width="1000" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>-->
 <div id="map"></div>
