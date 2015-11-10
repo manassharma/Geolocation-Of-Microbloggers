@@ -77,8 +77,9 @@ function plot() {
       zoom: 4,
       mapTypeId: google.maps.MapTypeId.ROADMAP
 	  }
+	  for(i=0;i<splitOne.length;i++){
 	  var map = new google.maps.Map(mapCanvas, mapOptions);
-	  var address =splitOne[0];
+	  var address =splitOne[i];
 	  var geocoder = new google.maps.Geocoder();
 	  geocoder.geocode({'address': address}, function(results, status) {
 		if (status === google.maps.GeocoderStatus.OK) {
@@ -91,6 +92,24 @@ function plot() {
       alert('Geocode was not successful for the following reason: ' + status);
     }
   });
+  }
+  
+  for(i=0;i<splitTwo.length;i++){
+	  var map = new google.maps.Map(mapCanvas, mapOptions);
+	  var address =splitTwo[i];
+	  var geocoder = new google.maps.Geocoder();
+	  geocoder.geocode({'address': address}, function(results, status) {
+		if (status === google.maps.GeocoderStatus.OK) {
+		map.setCenter(results[0].geometry.location);
+		var marker = new google.maps.Marker({
+        map: map,
+        position: results[0].geometry.location
+      });
+    } else {
+      alert('Geocode was not successful for the following reason: ' + status);
+    }
+  });
+  }
  }
 </script>
 <!--<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d27275237.54547694!2d-111.927875!3d33.436361850000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1447112051690" width="1000" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>-->
