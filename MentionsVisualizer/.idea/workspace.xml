@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Mentions.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Mentions.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mentions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60918254">
-              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            <state vertical-scroll-proportion="-5.2363634">
+              <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -34,18 +34,18 @@
       <file leaf-file-name="Doc Similarity.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Doc Similarity.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.076923">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state vertical-scroll-proportion="-9.807693">
+              <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashTagCluster.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HashTagCluster.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HashTagCluster.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.923077">
-              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.6282195">
+              <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -78,9 +78,9 @@
       <list>
         <option value="$PROJECT_DIR$/sample.html" />
         <option value="$PROJECT_DIR$/Visualizer.html" />
-        <option value="$PROJECT_DIR$/HashTagCluster.html" />
-        <option value="$PROJECT_DIR$/Doc Similarity.html" />
         <option value="$PROJECT_DIR$/Mentions.html" />
+        <option value="$PROJECT_DIR$/Doc Similarity.html" />
+        <option value="$PROJECT_DIR$/HashTagCluster.html" />
       </list>
     </option>
   </component>
@@ -271,26 +271,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Mentions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.2363634">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Doc Similarity.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.076923">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HashTagCluster.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.923077">
-          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mentions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60918254">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.6282195">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
           <folding />
         </state>
       </provider>
