@@ -1,0 +1,90 @@
+<html>
+<title>
+    Precision Visualizer
+</title>
+<head>
+    <h1 style = "font-size:40px; color:blue;" align = "center">
+        This application visualizes the actual and computed places on a map!
+    </h1>
+    <style>
+        #map {
+            width: 2000px;
+            height: 700px;
+        }
+    </style>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js??key=AIzaSyA45UNnSfFBtArrZ5qWdn6ojKrnTsjr-_8&v=3.exp&signed_in=true&libraries=places"></script>
+
+</head>
+
+
+
+<body>
+
+<style>
+    body  {
+        background-image: url("5.jpg");
+        background-color: #cccccc;
+    }
+</style>
+
+<div>
+    <label style = "color:blue"> Enter the Paths of actual locations and Computed Locations </label>
+    <input size = "30" type = "text" id = "input1" align = "left" value = "Actual Locations"/>
+    <input size = "30" type = "text" id = "input2" align = "middle" value = "User ID"/>
+    <input type = "submit" value = "MapThesePoints" id = "getData" onclick = "plot()"/>
+</div>
+</br>
+
+<script type = "text/javascript">
+    function plot() {
+        var inputOne = document.getElementById("input1").value;
+        var splitOne = inputOne.split(",")
+        var inputTwo = document.getElementById("input2").value;
+        var splitTwo = inputTwo.split(",")
+        var mapCanvas = document.getElementById('map');
+        var mapOptions = {
+            center: new google.maps.LatLng(32.7767, -96.7970),
+            zoom: 4,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var image1='red-dot.png'
+        var image2='blue-dot.png'
+        var map = new google.maps.Map(mapCanvas, mapOptions);
+        for(var i=0;i<splitOne.length;i++)
+        {
+            var address1 = splitOne[i];
+            var address2 = splitTwo[i];
+            var geocoder = new google.maps.Geocoder();
+            geocoder.geocode({'address': address1}, function (results, status) {
+                if (status === google.maps.GeocoderStatus.OK) {
+                    map.setCenter(results[0].geometry.location);
+                    var marker = new google.maps.Marker({
+                        map: map,
+                        position: results[0].geometry.location,
+                        icon: image1
+                    });
+                } else {
+                    alert('Geocode was not successful for the following reason: ' + status);
+                }
+            });
+            geocoder.geocode({'address': address2}, function (results, status) {
+                if (status === google.maps.GeocoderStatus.OK) {
+                    map.setCenter(results[0].geometry.location);
+                    var marker = new google.maps.Marker({
+                        map: map,
+                        position: results[0].geometry.location,
+                        icon: image2
+                    });
+                } else {
+                    alert('Geocode was not successful for the following reason: ' + status);
+                }
+            });
+        }
+    }
+</script>
+<div id="map"></div>
+</body>
+</html>
