@@ -69,19 +69,17 @@
 <div id="g1"></div>
 <div id="g2"></div>
 <div>
-    <label style = "color:blue"> Enter the Paths of actual locations and Computed Locations </label>
-    <input size = "30" type = "text" id = "input1" align = "left" value = "Actual Locations"/>
-    <input size = "30" type = "text" id = "input2" align = "middle" value = "User ID"/>
-    <input type = "submit" value = "MapThesePoints" id = "getData" onclick = "plot()"/>
+
+
 </div>
 </br>
 
 <script type = "text/javascript">
     function plot() {
-        var inputOne = document.getElementById("input1").value;
-        var splitOne = inputOne.split(",")
-        var inputTwo = document.getElementById("input2").value;
-        var splitTwo = inputTwo.split(",")
+      //  var inputOne = document.getElementById("input1").value;
+        var splitOne = "Tempe"
+      //  var inputTwo = document.getElementById("input2").value;
+        var splitTwo = "Dallas"
         var mapCanvas = document.getElementById('map');
         var mapOptions = {
             center: new google.maps.LatLng(32.7767, -96.7970),
@@ -91,10 +89,9 @@
         var image1='red-dot.png'
         var image2='blue-dot.png'
         var map = new google.maps.Map(mapCanvas, mapOptions);
-        for(var i=0;i<splitOne.length;i++)
-        {
-            var address1 = splitOne[i];
-            var address2 = splitTwo[i];
+
+            var address1 = splitOne;
+            var address2 = splitTwo;
             var geocoder = new google.maps.Geocoder();
             geocoder.geocode({'address': address1}, function (results, status) {
                 if (status === google.maps.GeocoderStatus.OK) {
@@ -120,8 +117,11 @@
 
                 }
             });
-        }
+
     }
+    document.addEventListener('DOMContentLoaded', function() {
+        plot();
+    }, false);
 </script>
 <div id="map"></div>
 
