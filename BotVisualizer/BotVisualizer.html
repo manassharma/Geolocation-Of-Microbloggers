@@ -1,0 +1,143 @@
+<html>
+<head>
+    <style>
+
+        #chart_div2 {
+            position: absolute;
+            top: 40%;
+            left: 40%;
+        }
+        #chart_div1 {
+            position: absolute;
+            top: 10%;
+            left: 22%;
+        }
+
+        body {
+            background-image: url("../BotVisualizer/background.jpg");
+            background-size: auto;
+        }
+
+        #hd1 {
+            position: absolute;
+            left: 40%;
+        }
+
+    </style>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+
+
+
+
+
+        google.load("visualization", "1", {packages:["gauge"]});
+        google.setOnLoadCallback(drawChart);
+        function drawChart() {
+           //Update these Values
+            var FR = 50;
+            var SC = 0;
+            var HT  =30;
+            var HL = 60;
+            var TC = 375;
+            var BS1 = 0;
+            //Till here
+            var min = 80;
+            var max = 95;
+            var HL1=0;
+            var TC1=0;
+          FR = FR;
+          SC = SC;
+          HT = HT;
+
+          if(HL > 100){
+              HL1 = Math.floor(Math.random()*(max-min+1)+min)
+          }
+            else {
+              HL1 = HL;
+          }
+
+            if(TC > 100 && TC <200){
+                TC1 = Math.floor(Math.random()*(65-55+1)+55)
+            }
+            if(TC > 200 && TC <300){
+                TC1 = Math.floor(Math.random()*(75-65+1)+65)
+            }
+
+            if(TC > 300 && TC <400){
+                TC1 = Math.floor(Math.random()*(85-75+1)+75)
+            }
+
+            if(TC > 400){
+                TC1 = Math.floor(Math.random()*(100-85+1)+85)
+            }
+
+            var BS = FR+SC+HT+HL+TC;
+
+            if(BS <1000 & BS >500) {
+                BS1 =  Math.floor(Math.random()*(75-70+1)+70)
+            }
+
+            if(BS <500 & BS >300) {
+                BS1 = Math.floor(Math.random()*(65-60+1)+60)
+            }
+
+            if(BS <300 & BS >200) {
+                BS1 = Math.floor(Math.random()*(55-50+1)+50)
+            }
+
+            if(BS <200 & BS >100) {
+                BS1 = Math.floor(Math.random()*(45-40+1)+40)
+            }
+
+            if(BS < 100){
+                BS1 = Math.floor(Math.random()*(30-20+1)+20)
+            }
+
+
+
+
+
+
+
+
+
+
+
+            var data1 = google.visualization.arrayToDataTable([
+                ['Label', 'Value'],
+                ['Follower Ratio', FR],
+                ['Status Count', SC],
+                ['HashTags', HT],
+                ['HttpLinks',HL1],
+                ['TweetContent',TC1],
+            ]);
+
+            var data2 = google.visualization.arrayToDataTable([
+                ['Label', 'Value'],
+                ['BotScore', BS1]
+
+            ]);
+
+            var options = {
+                width: 1000, height: 300,
+                redFrom: 90, redTo: 100,
+                yellowFrom:75, yellowTo: 90,
+                minorTicks: 5
+            };
+
+            var chart1 = new google.visualization.Gauge(document.getElementById('chart_div1'));
+            var chart2 = new google.visualization.Gauge(document.getElementById('chart_div2'));
+            chart1.draw(data1, options);
+
+            chart2.draw(data2, options);
+
+        }
+    </script>
+</head>
+<body>
+<h1 id="hd1" >BOT DETECTOR METER</h1>
+<div id="chart_div1" style="width: 400px; height: 120px;"></div>
+<div id="chart_div2" style="width: 400px; height: 120px;"></div>
+</body>
+</html>
